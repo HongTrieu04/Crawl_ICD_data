@@ -1,0 +1,25 @@
+# Core dependencies
+neo4j>=5.0.0
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Machine Learning
+torch>=2.0.0
+transformers>=4.30.0
+peft>=0.4.0
+sentence-transformers>=2.2.0
+
+# LangChain (for RAG)
+langchain>=0.0.200
+langchain-community>=0.0.20
+langchain-core>=0.1.0
+faiss-cpu>=1.7.4
+
+# Data processing
+ijson>=3.2.0
+openpyxl>=3.1.0
+tqdm>=4.65.0
+
+# Utilities
+python-dotenv>=1.0.0
+
