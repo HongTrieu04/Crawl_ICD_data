@@ -1,0 +1,20 @@
+{
+    "name": "obsolete vitamin A deficiency with corneal xerosis",
+    "qid": "Q18967024",
+    "icd_10": "E50.2",
+    "description": "human disease",
+    "aliases": [
+        "vitamin A deficiency with corneal xerosis (disorder)"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "vitamin A deficiency",
+                "qid": "Q2655893",
+                "url": "https://en.wikipedia.org/wiki/Vitamin_A_deficiency"
+            }
+        ]
+    }
+}

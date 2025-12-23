@@ -1,0 +1,262 @@
+{
+    "name": "post-traumatic stress disorder",
+    "qid": "Q202387",
+    "icd_10": "F43.1",
+    "description": "mental disorder that developed after experiencing or witnessing a terrifying or life-threatening event",
+    "aliases": [
+        "PTSD",
+        "traumatic neurosis",
+        "post traumatic stress disorder",
+        "posttraumatic stress disorder",
+        "Stress Disorders, Post-Traumatic"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Goya-Guerra%20%2809%29.jpg",
+    "url": "https://en.wikipedia.org/wiki/Post-traumatic_stress_disorder",
+    "details": {
+        "Cause": [
+            {
+                "name": "war",
+                "qid": "Q198",
+                "url": "https://en.wikipedia.org/wiki/War"
+            },
+            {
+                "name": "refugee",
+                "qid": "Q131572",
+                "url": "https://en.wikipedia.org/wiki/Refugee"
+            },
+            {
+                "name": "psychological abuse",
+                "qid": "Q1339137",
+                "url": "https://en.wikipedia.org/wiki/Psychological_abuse"
+            },
+            {
+                "name": "major trauma",
+                "qid": "Q1064904",
+                "url": "https://en.wikipedia.org/wiki/Major_trauma"
+            },
+            {
+                "name": "physical abuse",
+                "qid": "Q2827132",
+                "url": "https://en.wikipedia.org/wiki/Physical_abuse"
+            },
+            {
+                "name": "sexual violence",
+                "qid": "Q558075",
+                "url": "https://en.wikipedia.org/wiki/Sexual_violence"
+            },
+            {
+                "name": "combat",
+                "qid": "Q650711",
+                "url": "https://en.wikipedia.org/wiki/Combat"
+            },
+            {
+                "name": "psychological trauma",
+                "qid": "Q654426",
+                "url": "https://en.wikipedia.org/wiki/Psychological_trauma"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "major depressive disorder",
+                "qid": "Q42844",
+                "url": "https://en.wikipedia.org/wiki/Major_depressive_disorder"
+            },
+            {
+                "name": "stress-related disorders",
+                "qid": "Q815296",
+                "url": "https://en.wikipedia.org/wiki/Stress-related_disorders"
+            },
+            {
+                "name": "sequelae",
+                "qid": "Q3089469",
+                "url": "https://en.wikipedia.org/wiki/Sequela"
+            },
+            {
+                "name": "anxiety disorder",
+                "qid": "Q544006",
+                "url": "https://en.wikipedia.org/wiki/Anxiety_disorder"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "clinical psychology",
+                "qid": "Q199906",
+                "url": "https://en.wikipedia.org/wiki/Clinical_psychology"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "anxiety",
+                "qid": "Q154430",
+                "url": "https://en.wikipedia.org/wiki/Anxiety"
+            },
+            {
+                "name": "sleep disorder",
+                "qid": "Q177190",
+                "url": "https://en.wikipedia.org/wiki/Sleep_disorder"
+            },
+            {
+                "name": "nightmare",
+                "qid": "Q192692",
+                "url": "https://en.wikipedia.org/wiki/Nightmare"
+            },
+            {
+                "name": "insomnia",
+                "qid": "Q1869874",
+                "url": "https://en.wikipedia.org/wiki/Insomnia"
+            },
+            {
+                "name": "heart rate variability",
+                "qid": "Q933954",
+                "url": "https://en.wikipedia.org/wiki/Heart_rate_variability"
+            },
+            {
+                "name": "avoidance coping",
+                "qid": "Q2517007",
+                "url": "https://en.wikipedia.org/wiki/Avoidance_coping"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "topiramate",
+                "qid": "Q221174",
+                "url": "https://en.wikipedia.org/wiki/Topiramate"
+            },
+            {
+                "name": "alprazolam",
+                "qid": "Q319877",
+                "url": "https://en.wikipedia.org/wiki/Alprazolam"
+            },
+            {
+                "name": "sertraline",
+                "qid": "Q407617",
+                "url": "https://en.wikipedia.org/wiki/Sertraline"
+            },
+            {
+                "name": "lithium",
+                "qid": "Q152763",
+                "url": "https://en.wikipedia.org/wiki/Lithium_(medication)"
+            },
+            {
+                "name": "eye movement desensitization and reprocessing",
+                "qid": "Q1385716",
+                "url": "https://en.wikipedia.org/wiki/Eye_movement_desensitization_and_reprocessing"
+            },
+            {
+                "name": "cognitive behavioral therapy",
+                "qid": "Q1147152",
+                "url": "https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy"
+            },
+            {
+                "name": "venlafaxine",
+                "qid": "Q898407",
+                "url": "https://en.wikipedia.org/wiki/Venlafaxine"
+            },
+            {
+                "name": "prolonged exposure therapy",
+                "qid": "Q2412412",
+                "url": "https://en.wikipedia.org/wiki/Prolonged_exposure_therapy"
+            },
+            {
+                "name": "Cannabis indica",
+                "qid": "Q2936421",
+                "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+            },
+            {
+                "name": "cognitive processing therapy",
+                "qid": "Q5141234",
+                "url": "https://en.wikipedia.org/wiki/Cognitive_processing_therapy"
+            },
+            {
+                "name": "trauma focused cognitive behavioral therapy",
+                "qid": "Q18354078",
+                "url": "https://en.wikipedia.org/wiki/Trauma_focused_cognitive_behavioral_therapy"
+            },
+            {
+                "name": "clonazepam",
+                "qid": "Q407988",
+                "url": "https://en.wikipedia.org/wiki/Clonazepam"
+            },
+            {
+                "name": "paroxetine",
+                "qid": "Q408471",
+                "url": "https://en.wikipedia.org/wiki/Paroxetine"
+            },
+            {
+                "name": "quetiapine",
+                "qid": "Q408535",
+                "url": "https://en.wikipedia.org/wiki/Quetiapine"
+            },
+            {
+                "name": "(RS)-citalopram",
+                "qid": "Q409672",
+                "url": "https://en.wikipedia.org/wiki/Citalopram"
+            },
+            {
+                "name": "lamotrigine",
+                "qid": "Q410346",
+                "url": "https://en.wikipedia.org/wiki/Lamotrigine"
+            },
+            {
+                "name": "carbamazepin",
+                "qid": "Q410412",
+                "url": "https://en.wikipedia.org/wiki/Carbamazepine"
+            },
+            {
+                "name": "aripiprazole",
+                "qid": "Q411188",
+                "url": "https://en.wikipedia.org/wiki/Aripiprazole"
+            },
+            {
+                "name": "(S)-duloxetine",
+                "qid": "Q411932",
+                "url": "https://en.wikipedia.org/wiki/Duloxetine"
+            },
+            {
+                "name": "risperidone",
+                "qid": "Q412443",
+                "url": "https://en.wikipedia.org/wiki/Risperidone"
+            },
+            {
+                "name": "nefazodone",
+                "qid": "Q416632",
+                "url": "https://en.wikipedia.org/wiki/Nefazodone"
+            },
+            {
+                "name": "tranylcypromine",
+                "qid": "Q420885",
+                "url": "https://en.wikipedia.org/wiki/Tranylcypromine"
+            },
+            {
+                "name": "fluoxetine",
+                "qid": "Q422244",
+                "url": "https://en.wikipedia.org/wiki/Fluoxetine"
+            },
+            {
+                "name": "escitalopram",
+                "qid": "Q423757",
+                "url": "https://en.wikipedia.org/wiki/Escitalopram"
+            },
+            {
+                "name": "prazosin",
+                "qid": "Q425296",
+                "url": "https://en.wikipedia.org/wiki/Prazosin"
+            },
+            {
+                "name": "Transcendental Meditation",
+                "qid": "Q558571",
+                "url": "https://en.wikipedia.org/wiki/Transcendental_Meditation"
+            }
+        ]
+    }
+}

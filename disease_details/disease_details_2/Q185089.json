@@ -1,0 +1,30 @@
+{
+    "name": "acidosis",
+    "qid": "Q185089",
+    "icd_10": "E87.2",
+    "description": "a process causing increased acidity in the blood and other body tissues",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Symptoms%20of%20acidosis.svg",
+    "url": "https://en.wikipedia.org/wiki/Acidosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "hematopoietic system disease",
+                "qid": "Q1963588",
+                "url": "https://en.wikipedia.org/wiki/Hematologic_disease"
+            },
+            {
+                "name": "acid–base imbalance",
+                "qid": "Q3589454",
+                "url": "https://en.wikipedia.org/wiki/Acid%E2%80%93base_disorder"
+            }
+        ]
+    }
+}

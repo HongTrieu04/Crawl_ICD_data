@@ -1,0 +1,156 @@
+{
+    "name": "visceral leishmaniasis",
+    "qid": "Q2046113",
+    "icd_10": "B55.0",
+    "description": "human disease caused by protist parasites",
+    "aliases": [
+        "infection by visceral leishmaniasis",
+        "kala azar",
+        "Kala-Azar",
+        "viscus leishmaniasis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Visceral-Leishmaniasis-in-Ethiopia-An-Evolving-Disease-pntd.0003131.g001.jpg",
+    "url": "https://en.wikipedia.org/wiki/Visceral_leishmaniasis",
+    "details": {
+        "Anatomical location": [
+            {
+                "name": "spleen",
+                "qid": "Q9371",
+                "url": "https://en.wikipedia.org/wiki/Spleen"
+            },
+            {
+                "name": "liver",
+                "qid": "Q9368",
+                "url": "https://en.wikipedia.org/wiki/Liver"
+            },
+            {
+                "name": "bone",
+                "qid": "Q265868",
+                "url": "https://en.wikipedia.org/wiki/Bone"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "neglected tropical disease",
+                "qid": "Q929451",
+                "url": "https://en.wikipedia.org/wiki/Neglected_tropical_diseases"
+            },
+            {
+                "name": "leishmaniasis",
+                "qid": "Q331283",
+                "url": "https://en.wikipedia.org/wiki/Leishmaniasis"
+            },
+            {
+                "name": "bone disease",
+                "qid": "Q4941552",
+                "url": "https://en.wikipedia.org/wiki/Bone_disease"
+            },
+            {
+                "name": "splenic disease",
+                "qid": "Q7578540",
+                "url": "https://en.wikipedia.org/wiki/Splenic_disease"
+            },
+            {
+                "name": "liver disease",
+                "qid": "Q929737",
+                "url": "https://en.wikipedia.org/wiki/Liver_disease"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "anemia",
+                "qid": "Q5445",
+                "url": "https://en.wikipedia.org/wiki/Anemia"
+            },
+            {
+                "name": "weight loss",
+                "qid": "Q718113",
+                "url": "https://en.wikipedia.org/wiki/Weight_loss"
+            },
+            {
+                "name": "splenomegaly",
+                "qid": "Q1129121",
+                "url": "https://en.wikipedia.org/wiki/Splenomegaly"
+            },
+            {
+                "name": "hepatomegaly",
+                "qid": "Q1362864",
+                "url": "https://en.wikipedia.org/wiki/Hepatomegaly"
+            },
+            {
+                "name": "portal hypertension",
+                "qid": "Q124604",
+                "url": "https://en.wikipedia.org/wiki/Portal_hypertension"
+            },
+            {
+                "name": "ascites",
+                "qid": "Q193889",
+                "url": "https://en.wikipedia.org/wiki/Ascites"
+            },
+            {
+                "name": "tachycardia",
+                "qid": "Q209583",
+                "url": "https://en.wikipedia.org/wiki/Tachycardia"
+            },
+            {
+                "name": "anorexia",
+                "qid": "Q254327",
+                "url": "https://en.wikipedia.org/wiki/Anorexia_(symptom)"
+            },
+            {
+                "name": "hypotension",
+                "qid": "Q275419",
+                "url": "https://en.wikipedia.org/wiki/Hypotension"
+            },
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "diarrhea",
+                "qid": "Q40878",
+                "url": "https://en.wikipedia.org/wiki/Diarrhea"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "amphotericin B",
+                "qid": "Q412223",
+                "url": "https://en.wikipedia.org/wiki/Amphotericin_B"
+            },
+            {
+                "name": "paromomycin",
+                "qid": "Q415625",
+                "url": "https://en.wikipedia.org/wiki/Paromomycin"
+            },
+            {
+                "name": "pentamidine",
+                "qid": "Q416206",
+                "url": "https://en.wikipedia.org/wiki/Pentamidine"
+            },
+            {
+                "name": "meglumine",
+                "qid": "Q288875",
+                "url": "https://en.wikipedia.org/wiki/Meglumine"
+            },
+            {
+                "name": "miltefosine",
+                "qid": "Q411787",
+                "url": "https://en.wikipedia.org/wiki/Miltefosine"
+            }
+        ]
+    }
+}

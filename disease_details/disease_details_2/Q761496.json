@@ -1,0 +1,38 @@
+{
+    "name": "parametritis",
+    "qid": "Q761496",
+    "icd_10": "N73.2",
+    "description": "Human disease",
+    "aliases": [
+        "parametrium inflammation",
+        "parametriumitis",
+        "pelvic cellulitis",
+        "pelvic cellulitis unspecified (disorder)"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Parametritis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "pelvic inflammatory diseases",
+                "qid": "Q558070",
+                "url": "https://en.wikipedia.org/wiki/Pelvic_inflammatory_disease"
+            },
+            {
+                "name": "inflammatory disease",
+                "qid": "Q3508753"
+            },
+            {
+                "name": "uterine disease",
+                "qid": "Q18555940"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gynaecology",
+                "qid": "Q1221899",
+                "url": "https://en.wikipedia.org/wiki/Gynaecology"
+            }
+        ]
+    }
+}

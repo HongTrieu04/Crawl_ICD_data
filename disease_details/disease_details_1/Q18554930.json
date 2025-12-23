@@ -1,0 +1,46 @@
+{
+    "name": "allergic contact dermatitis of eyelid",
+    "qid": "Q18554930",
+    "icd_10": "H01.11",
+    "description": "Human disease",
+    "aliases": [
+        "Allergic contact blepharoconjunctivitis",
+        "Allergic contact dermatitis of eyelid (disorder)",
+        "Contact and allergic dermatitis of eyelid",
+        "eyelid allergic contact dermatitis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "Eyelid dermatitis",
+                "qid": "Q5422769",
+                "url": "https://en.wikipedia.org/wiki/Eyelid_dermatitis"
+            },
+            {
+                "name": "allergic contact dermatitis",
+                "qid": "Q12077704",
+                "url": "https://en.wikipedia.org/wiki/Allergic_contact_dermatitis"
+            },
+            {
+                "name": "noninfectious dermatoses of eyelid",
+                "qid": "Q18554928"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "eyelid",
+                "qid": "Q48228",
+                "url": "https://en.wikipedia.org/wiki/Eyelid"
+            }
+        ]
+    }
+}

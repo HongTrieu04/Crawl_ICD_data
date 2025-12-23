@@ -1,0 +1,45 @@
+{
+    "name": "Fazio-Londe disease",
+    "qid": "Q1399155",
+    "icd_10": "G12.1",
+    "description": "a very rare inherited motor neuron disease of children and young adults",
+    "aliases": [
+        "FLD",
+        "FALOND",
+        "Progressive bulbar palsy of childhood",
+        "Riboflavin transporter deficiency"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Fazio%E2%80%93Londe_disease",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "infantile progressive bulbar palsy",
+                "qid": "Q16888267",
+                "url": "https://en.wikipedia.org/wiki/Infantile_progressive_bulbar_palsy"
+            },
+            {
+                "name": "progressive bulbar palsy",
+                "qid": "Q7248833",
+                "url": "https://en.wikipedia.org/wiki/Progressive_bulbar_palsy"
+            },
+            {
+                "name": "autosomal recessive disease",
+                "qid": "Q10267817"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "riboflavin 5'-phosphate sodium dihydrate",
+                "qid": "Q27253481"
+            }
+        ]
+    }
+}

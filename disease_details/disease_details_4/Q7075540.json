@@ -1,0 +1,48 @@
+{
+    "name": "obstetric labor complication",
+    "qid": "Q7075540",
+    "icd_10": "O75",
+    "description": "human disease",
+    "aliases": [
+        "birth complication",
+        "childbirth complications",
+        "complication occurring mainly in the course of labor and delivery",
+        "complication of labor and/or delivery",
+        "Complication of labor and/or delivery",
+        "complications occurring mainly in the course of labor and delivery",
+        "labor complication",
+        "labor complications",
+        "labour complication",
+        "labour complications",
+        "Labour complications",
+        "obsolete complications occurring mainly in the course of labor and delivery",
+        "obsolete labor complications",
+        "Obstetric Labor Complications",
+        "Rupture of uterus before onset of labor, antepartum",
+        "Rupture of uterus before onset of labor, with delivery"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Obstetric_labor_complication",
+    "details": {
+        "Drug used for treatment": [
+            {
+                "name": "camylofin",
+                "qid": "Q4725854",
+                "url": "https://en.wikipedia.org/wiki/Camylofin"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "obstetrics",
+                "qid": "Q5284418",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "complication of pregnancy, childbirth and the puerperium",
+                "qid": "Q18975815"
+            }
+        ]
+    }
+}

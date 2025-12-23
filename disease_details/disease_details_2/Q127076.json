@@ -1,0 +1,188 @@
+{
+    "name": "vomiting",
+    "qid": "Q127076",
+    "icd_10": "R11",
+    "description": "forcible expulsion of the contents of the stomach through the mouth",
+    "aliases": [
+        "vomit",
+        "throwing up",
+        "retching",
+        "barfing",
+        "puking",
+        "emesis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vomiting.jpg",
+    "url": "https://en.wikipedia.org/wiki/Vomiting",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "appendicitis",
+                "qid": "Q121041",
+                "url": "https://en.wikipedia.org/wiki/Appendicitis"
+            },
+            {
+                "name": "migraine",
+                "qid": "Q133823",
+                "url": "https://en.wikipedia.org/wiki/Migraine"
+            },
+            {
+                "name": "Rotavirus",
+                "qid": "Q164778",
+                "url": "https://en.wikipedia.org/wiki/Rotavirus"
+            },
+            {
+                "name": "peptic ulcer disease",
+                "qid": "Q172941",
+                "url": "https://en.wikipedia.org/wiki/Peptic_ulcer_disease"
+            },
+            {
+                "name": "gastroparesis",
+                "qid": "Q943897",
+                "url": "https://en.wikipedia.org/wiki/Gastroparesis"
+            },
+            {
+                "name": "chemotherapy",
+                "qid": "Q974135",
+                "url": "https://en.wikipedia.org/wiki/Chemotherapy"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "haloperidol",
+                "qid": "Q251347",
+                "url": "https://en.wikipedia.org/wiki/Haloperidol"
+            },
+            {
+                "name": "thiethylperazine",
+                "qid": "Q372725",
+                "url": "https://en.wikipedia.org/wiki/Thiethylperazine"
+            },
+            {
+                "name": "tetrahydrocannabinol",
+                "qid": "Q190067",
+                "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+            },
+            {
+                "name": "benzquinamide",
+                "qid": "Q4890814",
+                "url": "https://en.wikipedia.org/wiki/Benzquinamide"
+            },
+            {
+                "name": "diphenidol",
+                "qid": "Q5279734",
+                "url": "https://en.wikipedia.org/wiki/Diphenidol"
+            },
+            {
+                "name": "trimethobenzamide",
+                "qid": "Q7842199",
+                "url": "https://en.wikipedia.org/wiki/Trimethobenzamide"
+            },
+            {
+                "name": "dolasetron",
+                "qid": "Q1829318",
+                "url": "https://en.wikipedia.org/wiki/Dolasetron"
+            },
+            {
+                "name": "prochlorperazine",
+                "qid": "Q2359690",
+                "url": "https://en.wikipedia.org/wiki/Prochlorperazine"
+            },
+            {
+                "name": "chlorcyclizine",
+                "qid": "Q2393323",
+                "url": "https://en.wikipedia.org/wiki/Chlorcyclizine"
+            },
+            {
+                "name": "buclizine",
+                "qid": "Q4859329",
+                "url": "https://en.wikipedia.org/wiki/Buclizine"
+            },
+            {
+                "name": "chlorpromazine",
+                "qid": "Q407972",
+                "url": "https://en.wikipedia.org/wiki/Chlorpromazine"
+            },
+            {
+                "name": "lorazepam",
+                "qid": "Q408265",
+                "url": "https://en.wikipedia.org/wiki/Lorazepam"
+            },
+            {
+                "name": "nabilone",
+                "qid": "Q419079",
+                "url": "https://en.wikipedia.org/wiki/Nabilone"
+            },
+            {
+                "name": "promazine",
+                "qid": "Q419822",
+                "url": "https://en.wikipedia.org/wiki/Promazine"
+            },
+            {
+                "name": "dimenhydrinate",
+                "qid": "Q420439",
+                "url": "https://en.wikipedia.org/wiki/Dimenhydrinate"
+            },
+            {
+                "name": "metoclopramide",
+                "qid": "Q421095",
+                "url": "https://en.wikipedia.org/wiki/Metoclopramide"
+            },
+            {
+                "name": "(RS)-hydroxyzine",
+                "qid": "Q421937",
+                "url": "https://en.wikipedia.org/wiki/Hydroxyzine"
+            },
+            {
+                "name": "dexamethasone",
+                "qid": "Q422252",
+                "url": "https://en.wikipedia.org/wiki/Dexamethasone"
+            },
+            {
+                "name": "(±)-promethazine",
+                "qid": "Q422970",
+                "url": "https://en.wikipedia.org/wiki/Promethazine"
+            },
+            {
+                "name": "perphenazine",
+                "qid": "Q423520",
+                "url": "https://en.wikipedia.org/wiki/Perphenazine"
+            },
+            {
+                "name": "triflupromazine",
+                "qid": "Q510494",
+                "url": "https://en.wikipedia.org/wiki/Triflupromazine"
+            },
+            {
+                "name": "cyclizine",
+                "qid": "Q867308",
+                "url": "https://en.wikipedia.org/wiki/Cyclizine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "clinical sign",
+                "qid": "Q1441305",
+                "url": "https://en.wikipedia.org/wiki/Clinical_sign"
+            },
+            {
+                "name": "expulsion",
+                "qid": "Q779939"
+            },
+            {
+                "name": "health problem",
+                "qid": "Q2057971"
+            },
+            {
+                "name": "digestive sign",
+                "qid": "Q54926352"
+            }
+        ]
+    }
+}

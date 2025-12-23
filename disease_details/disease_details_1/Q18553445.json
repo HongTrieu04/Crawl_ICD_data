@@ -1,0 +1,72 @@
+{
+    "name": "mature T-cell and NK-cell lymphoma",
+    "qid": "Q18553445",
+    "icd_10": "C84",
+    "description": "non-Hodgkin lymphoma that has material basis in mature T lymphocytes and natural killer cells",
+    "aliases": [
+        "PTCL",
+        "Mature T-and NK-Cell Lymphoma",
+        "mature T-cell and natural killer cell lymphoma",
+        "Mature T-Cell and NK-Cell Lymphoma",
+        "Mature T-Cell and NK-Cell Non-Hodgkin Lymphoma",
+        "Mature T-Cell and NK-Cell Non-Hodgkin's Lymphoma",
+        "mature T-cell lymphoma",
+        "Mature T-Cell Non-Hodgkin's Lymphoma",
+        "NK-T cell lymphoma",
+        "peripheral T-cell lymphoma"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Mature_T-cell_lymphoma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "doxorubicin",
+                "qid": "Q18936",
+                "url": "https://en.wikipedia.org/wiki/Doxorubicin"
+            },
+            {
+                "name": "romidepsin",
+                "qid": "Q7363205",
+                "url": "https://en.wikipedia.org/wiki/Romidepsin"
+            },
+            {
+                "name": "gemcitabine",
+                "qid": "Q414143",
+                "url": "https://en.wikipedia.org/wiki/Gemcitabine"
+            },
+            {
+                "name": "brentuximab vedotin",
+                "qid": "Q422324",
+                "url": "https://en.wikipedia.org/wiki/Brentuximab_vedotin"
+            },
+            {
+                "name": "(RS)-lenalidomide",
+                "qid": "Q425681",
+                "url": "https://en.wikipedia.org/wiki/Lenalidomide"
+            },
+            {
+                "name": "pralatrexate",
+                "qid": "Q637059",
+                "url": "https://en.wikipedia.org/wiki/Pralatrexate"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "non-Hodgkin lymphoma",
+                "qid": "Q1138590",
+                "url": "https://en.wikipedia.org/wiki/Non-Hodgkin_lymphoma"
+            },
+            {
+                "name": "mature T-cell neoplasm",
+                "qid": "Q18966359"
+            }
+        ]
+    }
+}

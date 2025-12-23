@@ -1,0 +1,29 @@
+{
+    "name": "bloating",
+    "qid": "Q4927059",
+    "icd_10": "R14.0",
+    "description": "abnormal general swelling, or increase in diameter of the abdominal area",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Bloating",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "abdominal distention",
+                "qid": "Q2536390",
+                "url": "https://en.wikipedia.org/wiki/Abdominal_distension"
+            },
+            {
+                "name": "digestive sign",
+                "qid": "Q54926352"
+            }
+        ]
+    }
+}

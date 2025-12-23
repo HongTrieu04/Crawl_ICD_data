@@ -1,0 +1,76 @@
+{
+    "name": "coccidioidomycosis",
+    "qid": "Q868137",
+    "icd_10": "B38",
+    "description": "fungal infection",
+    "aliases": [
+        "cocci",
+        "California fever",
+        "desert rheumatism",
+        "primary extrapulmonary coccidioidomycosis",
+        "primary extrapulmonary coccidioidomycosis (disorder)",
+        "San Joaquin Valley fever",
+        "Valley fever"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Coccidioidomycosis%20granulomas%20on%20forehead.png",
+    "url": "https://en.wikipedia.org/wiki/Coccidioidomycosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "primary systemic mycosis",
+                "qid": "Q18553244"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "arthritis",
+                "qid": "Q170990",
+                "url": "https://en.wikipedia.org/wiki/Arthritis"
+            },
+            {
+                "name": "conjunctivitis",
+                "qid": "Q167844",
+                "url": "https://en.wikipedia.org/wiki/Conjunctivitis"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "natamycin",
+                "qid": "Q248466",
+                "url": "https://en.wikipedia.org/wiki/Natamycin"
+            },
+            {
+                "name": "amphotericin B",
+                "qid": "Q412223",
+                "url": "https://en.wikipedia.org/wiki/Amphotericin_B"
+            },
+            {
+                "name": "ketoconazole",
+                "qid": "Q407883",
+                "url": "https://en.wikipedia.org/wiki/Ketoconazole"
+            },
+            {
+                "name": "itraconazole",
+                "qid": "Q411229",
+                "url": "https://en.wikipedia.org/wiki/Itraconazole"
+            },
+            {
+                "name": "fluconazole",
+                "qid": "Q411478",
+                "url": "https://en.wikipedia.org/wiki/Fluconazole"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

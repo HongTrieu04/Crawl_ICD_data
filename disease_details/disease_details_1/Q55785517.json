@@ -1,0 +1,25 @@
+{
+    "name": "tracheal anomaly",
+    "qid": "Q55785517",
+    "icd_10": "Q32.1",
+    "description": "human disease",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "tracheal disease",
+                "qid": "Q18555344"
+            },
+            {
+                "name": "respiratory system abnormality",
+                "qid": "Q18975820"
+            },
+            {
+                "name": "rare otorhinolaryngological malformation",
+                "qid": "Q55789006"
+            }
+        ]
+    }
+}

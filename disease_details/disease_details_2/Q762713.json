@@ -1,0 +1,42 @@
+{
+    "name": "hypercholesterolemia",
+    "qid": "Q762713",
+    "icd_10": "E78.0",
+    "description": "high levels of cholesterol in the blood",
+    "aliases": [
+        "group A hyperlipidemia",
+        "hypercholesteremia",
+        "hypercholesterolaemia",
+        "hyperlipidemia, group A",
+        "LDL hyperlipoproteinemia",
+        "obsolete group A hyperlipidemia",
+        "Pure hypercholesterolaemia",
+        "Pure hypercholesterolemia",
+        "Pure hypercholesterolemia NOS"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/High_cholesterol",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "hyperlipidemia",
+                "qid": "Q1079120",
+                "url": "https://en.wikipedia.org/wiki/Hyperlipidemia"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "fluvastatin",
+                "qid": "Q417942",
+                "url": "https://en.wikipedia.org/wiki/Fluvastatin"
+            }
+        ]
+    }
+}

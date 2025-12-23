@@ -1,0 +1,54 @@
+{
+    "name": "TAR syndrome",
+    "qid": "Q660330",
+    "icd_10": "Q87.2",
+    "description": "genetic disorder",
+    "aliases": [
+        "TAR",
+        "chromosome 1q21.1 deletion syndrome",
+        "Radial aplasia-thrombocytopenia syndrome",
+        "Radial Aplasia-Thrombocytopenia Syndrome",
+        "Radial aplasia-thrombocytopenia syndrome (disorder)",
+        "Thrombocytopenia with absent radii (TAR) syndrome",
+        "thrombocytopenia-absent radius syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/TAR_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "Radial aplasia",
+                "qid": "Q7280260",
+                "url": "https://en.wikipedia.org/wiki/Radial_aplasia"
+            },
+            {
+                "name": "thrombocytopenia",
+                "qid": "Q585285",
+                "url": "https://en.wikipedia.org/wiki/Thrombocytopenia"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "chromosomal deletion syndrome",
+                "qid": "Q16918398",
+                "url": "https://en.wikipedia.org/wiki/Chromosomal_deletion_syndrome"
+            },
+            {
+                "name": "syndrome",
+                "qid": "Q179630",
+                "url": "https://en.wikipedia.org/wiki/Syndrome"
+            },
+            {
+                "name": "autosomal recessive disease",
+                "qid": "Q10267817"
+            }
+        ]
+    }
+}

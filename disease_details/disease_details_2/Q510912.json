@@ -1,0 +1,41 @@
+{
+    "name": "triple X syndrome",
+    "qid": "Q510912",
+    "icd_10": "Q97.0",
+    "description": "presence of 47XXX chromosomes rather than the typical 46XX",
+    "aliases": [
+        "47,XXX syndrome",
+        "Triple-X chromosome syndrome",
+        "Triple-X female",
+        "Triplo X syndrome",
+        "trisomy X",
+        "XXX syndrome"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/XXXSyndromeB.png",
+    "url": "https://en.wikipedia.org/wiki/Trisomy_X",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "trisomy",
+                "qid": "Q844903",
+                "url": "https://en.wikipedia.org/wiki/Trisomy"
+            },
+            {
+                "name": "chromosomal disease",
+                "qid": "Q4501577",
+                "url": "https://en.wikipedia.org/wiki/Chromosomal_disease"
+            },
+            {
+                "name": "polysomy of X chromosome",
+                "qid": "Q55786716"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

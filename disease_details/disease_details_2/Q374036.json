@@ -1,0 +1,68 @@
+{
+    "name": "Langerhans-cell histiocytosis",
+    "qid": "Q374036",
+    "icd_10": "C96.6",
+    "description": "disease involving clonal proliferation of Langerhans cells",
+    "aliases": [
+        "Histiocytosis X",
+        "Langerhan's cell histiocytosis",
+        "Langerhan's cell histiocytosis (disorder)",
+        "Langerhans cell granulomatosis",
+        "Letterer-Siwe disease",
+        "Letterer-Siwe disease involving intra-abdominal lymph nodes",
+        "Letterer-Siwe disease involving intrapelvic lymph nodes",
+        "Letterer-Siwe disease involving intrathoracic lymph nodes",
+        "Letterer-Siwe disease involving lymph nodes of axilla and upper limb",
+        "Letterer-Siwe disease involving lymph nodes of head, face and neck",
+        "Letterer-Siwe disease involving lymph nodes of head, face, and neck",
+        "Letterer-Siwe disease involving lymph nodes of inguinal region and lower limb",
+        "Letterer-Siwe disease involving lymph nodes of multiple sites",
+        "Letterer-Siwe disease involving spleen",
+        "Letterer-Siwe disease of intra-abdominal lymph nodes",
+        "Letterer-Siwe disease of intra-abdominal lymph nodes (disorder)",
+        "Letterer-Siwe disease of intrapelvic lymph nodes",
+        "Letterer-Siwe disease of intrapelvic lymph nodes (disorder)",
+        "Letterer-Siwe disease of intrathoracic lymph nodes",
+        "Letterer-Siwe disease of intrathoracic lymph nodes (disorder)",
+        "Letterer-Siwe disease of lymph nodes of axilla and upper limb",
+        "Letterer-Siwe disease of lymph nodes of axilla and upper limb (disorder)",
+        "Letterer-Siwe disease of lymph nodes of axilla and/or upper limb",
+        "Letterer-Siwe disease of lymph nodes of axilla and/or upper limb (disorder)",
+        "Letterer-Siwe disease of lymph nodes of head, face and neck",
+        "Letterer-Siwe disease of lymph nodes of head, face and neck (disorder)",
+        "Letterer-Siwe disease of lymph nodes of head, face and/or neck",
+        "Letterer-Siwe disease of lymph nodes of head, face and/or neck (disorder)",
+        "Letterer-Siwe disease of lymph nodes of inguinal region amd/or lower limb",
+        "Letterer-Siwe disease of lymph nodes of inguinal region and lower limb",
+        "Letterer-Siwe disease of lymph nodes of inguinal region and lower limb (disorder)",
+        "Letterer-Siwe disease of lymph nodes of inguinal region and/or lower limb",
+        "Letterer-Siwe disease of lymph nodes of inguinal region and/or lower limb (disorder)",
+        "Letterer-Siwe disease of lymph nodes of multiple sites",
+        "Letterer-Siwe disease of lymph nodes of multiple sites (disorder)",
+        "Letterer-Siwe disease of spleen",
+        "Letterer-Siwe disease of spleen (disorder)"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Langerhans%20cell%20histiocytosis%20%2813436069895%29.jpg",
+    "url": "https://en.wikipedia.org/wiki/Langerhans_cell_histiocytosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "histiocytosis",
+                "qid": "Q1411740",
+                "url": "https://en.wikipedia.org/wiki/Histiocytosis"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ]
+    }
+}

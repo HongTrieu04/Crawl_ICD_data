@@ -1,0 +1,19 @@
+{
+    "name": "eyelid malformation",
+    "qid": "Q55789157",
+    "icd_10": "Q10.3",
+    "description": "human disease",
+    "aliases": [
+        "Structural developmental anomalies of eyelids"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "eyelid disease",
+                "qid": "Q18556729"
+            }
+        ]
+    }
+}

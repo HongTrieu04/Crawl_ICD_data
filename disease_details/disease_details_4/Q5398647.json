@@ -1,0 +1,25 @@
+{
+    "name": "Esophoria",
+    "qid": "Q5398647",
+    "icd_10": "H50.5",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Esophoria",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "heterophoria",
+                "qid": "Q3145111",
+                "url": "https://en.wikipedia.org/wiki/Heterophoria"
+            }
+        ]
+    }
+}

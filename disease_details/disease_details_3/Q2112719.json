@@ -1,0 +1,45 @@
+{
+    "name": "prolymphocytic leukemia",
+    "qid": "Q2112719",
+    "icd_10": "C91.3",
+    "description": "Human disease",
+    "aliases": [
+        "PLL",
+        "Prolymphocytic Leukemia",
+        "Prolymphocytic leukemia (B or T-cell)",
+        "Prolymphocytic leukemia (B or T)"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Prolymphocytic_leukemia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "chronic lymphocytic leukemia",
+                "qid": "Q1088156",
+                "url": "https://en.wikipedia.org/wiki/Chronic_lymphocytic_leukemia"
+            },
+            {
+                "name": "chronic leukemia",
+                "qid": "Q5113979",
+                "url": "https://en.wikipedia.org/wiki/Chronic_leukemia"
+            },
+            {
+                "name": "lymphoid leukemia",
+                "qid": "Q6708277",
+                "url": "https://en.wikipedia.org/wiki/Lymphoid_leukemia"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ]
+    }
+}

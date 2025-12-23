@@ -1,0 +1,173 @@
+{
+    "name": "Coenurosis",
+    "qid": "Q221547",
+    "icd_10": "B71.8",
+    "description": "Helminthiasis",
+    "aliases": [
+        "sturdy",
+        "gid",
+        "caenurosis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Coenurus.jpg",
+    "url": "https://en.wikipedia.org/wiki/Coenurosis",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            },
+            {
+                "name": "ataxia",
+                "qid": "Q213373",
+                "url": "https://en.wikipedia.org/wiki/Ataxia"
+            },
+            {
+                "name": "myalgia",
+                "qid": "Q474959",
+                "url": "https://en.wikipedia.org/wiki/Myalgia"
+            },
+            {
+                "name": "paralysis",
+                "qid": "Q107231",
+                "url": "https://en.wikipedia.org/wiki/Paralysis"
+            },
+            {
+                "name": "vomiting",
+                "qid": "Q127076",
+                "url": "https://en.wikipedia.org/wiki/Vomiting"
+            },
+            {
+                "name": "blindness",
+                "qid": "Q10874",
+                "url": "https://en.wikipedia.org/wiki/Blindness"
+            },
+            {
+                "name": "exophthalmos",
+                "qid": "Q684383",
+                "url": "https://en.wikipedia.org/wiki/Exophthalmos"
+            },
+            {
+                "name": "paresis",
+                "qid": "Q1126769",
+                "url": "https://en.wikipedia.org/wiki/Paresis"
+            },
+            {
+                "name": "hyperkinesia",
+                "qid": "Q1641007",
+                "url": "https://en.wikipedia.org/wiki/Hyperkinesia"
+            },
+            {
+                "name": "seizure",
+                "qid": "Q6279182",
+                "url": "https://en.wikipedia.org/wiki/Seizure"
+            },
+            {
+                "name": "Bruns' syndrome",
+                "qid": "Q4420116"
+            },
+            {
+                "name": "meningism signs",
+                "qid": "Q12122651"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "eye",
+                "qid": "Q7364",
+                "url": "https://en.wikipedia.org/wiki/Eye"
+            },
+            {
+                "name": "brain",
+                "qid": "Q1073",
+                "url": "https://en.wikipedia.org/wiki/Brain"
+            },
+            {
+                "name": "muscle",
+                "qid": "Q7365",
+                "url": "https://en.wikipedia.org/wiki/Muscle"
+            },
+            {
+                "name": "spinal cord",
+                "qid": "Q9606",
+                "url": "https://en.wikipedia.org/wiki/Spinal_cord"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "zoonosis",
+                "qid": "Q182672",
+                "url": "https://en.wikipedia.org/wiki/Zoonosis"
+            },
+            {
+                "name": "tapeworm infection",
+                "qid": "Q7356544",
+                "url": "https://en.wikipedia.org/wiki/Tapeworm_infection"
+            },
+            {
+                "name": "dog disease",
+                "qid": "Q53542448"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Taenia serialis",
+                "qid": "Q289271",
+                "url": "https://en.wikipedia.org/wiki/Taenia_serialis"
+            },
+            {
+                "name": "Taenia multiceps",
+                "qid": "Q1269837"
+            },
+            {
+                "name": "Taenia brauni",
+                "qid": "Q50411757"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "albendazol",
+                "qid": "Q411629",
+                "url": "https://en.wikipedia.org/wiki/Albendazole"
+            },
+            {
+                "name": "niclosamide",
+                "qid": "Q418523",
+                "url": "https://en.wikipedia.org/wiki/Niclosamide"
+            },
+            {
+                "name": "praziquantel",
+                "qid": "Q424145",
+                "url": "https://en.wikipedia.org/wiki/Praziquantel"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "veterinary medicine",
+                "qid": "Q170201",
+                "url": "https://en.wikipedia.org/wiki/Veterinary_medicine"
+            },
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            },
+            {
+                "name": "helminthologist",
+                "qid": "Q27497422"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "anthelmintic",
+                "qid": "Q572294",
+                "url": "https://en.wikipedia.org/wiki/Anthelmintic"
+            },
+            {
+                "name": "surgical operation",
+                "qid": "Q600236",
+                "url": "https://en.wikipedia.org/wiki/Surgical_operation"
+            }
+        ]
+    }
+}

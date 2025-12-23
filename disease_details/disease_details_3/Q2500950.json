@@ -1,0 +1,28 @@
+{
+    "name": "cystitis cystica",
+    "qid": "Q2500950",
+    "icd_10": "N30.8",
+    "description": "human disease",
+    "aliases": [
+        "Cystic cystitis",
+        "Cystitis cystica"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Cystitis_cystica",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "cystitis",
+                "qid": "Q246084",
+                "url": "https://en.wikipedia.org/wiki/Cystitis"
+            }
+        ]
+    }
+}

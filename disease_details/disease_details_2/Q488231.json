@@ -1,0 +1,40 @@
+{
+    "name": "malingering",
+    "qid": "Q488231",
+    "icd_10": "Z76.5",
+    "description": "faking illness for financial or similar personal gain",
+    "aliases": [
+        "malingerer",
+        "Malingering",
+        "feigned disease",
+        "feigned diseases",
+        "feigned illness",
+        "simulated disease",
+        "simulated diseases",
+        "simulation of diseases",
+        "simulation of illness"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Malingering",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "psychology",
+                "qid": "Q9418",
+                "url": "https://en.wikipedia.org/wiki/Psychology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "health care fraud",
+                "qid": "Q5690836",
+                "url": "https://en.wikipedia.org/wiki/Health_care_fraud"
+            }
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "illness",
+    "qid": "Q814207",
+    "icd_10": "R69",
+    "description": "the state of being unwell",
+    "aliases": [
+        "sickness",
+        "disease"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mycobacterium%20tuberculosis.jpg",
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            }
+        ]
+    }
+}

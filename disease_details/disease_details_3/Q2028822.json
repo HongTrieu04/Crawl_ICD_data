@@ -1,0 +1,22 @@
+{
+    "name": "androphobia",
+    "qid": "Q2028822",
+    "icd_10": "F40.29",
+    "description": "abnormal fear of men",
+    "aliases": [
+        "afraid of men",
+        "androphobic",
+        "fear of men"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Androphobia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "specific social phobia",
+                "qid": "Q17147649",
+                "url": "https://en.wikipedia.org/wiki/Specific_social_phobia"
+            }
+        ]
+    }
+}

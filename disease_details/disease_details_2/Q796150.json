@@ -1,0 +1,25 @@
+{
+    "name": "intertrigo",
+    "qid": "Q796150",
+    "icd_10": "L30.4",
+    "description": "type of inflammatory rash that occurs in body folds",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mycose%20OGE.jpg",
+    "url": "https://en.wikipedia.org/wiki/Intertrigo",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "irritant dermatitis",
+                "qid": "Q1799146",
+                "url": "https://en.wikipedia.org/wiki/Irritant_contact_dermatitis"
+            }
+        ]
+    }
+}

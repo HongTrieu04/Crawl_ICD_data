@@ -1,0 +1,48 @@
+{
+    "name": "carbohydrate metabolic disorder",
+    "qid": "Q6013981",
+    "icd_10": "E74",
+    "description": "inherited metabolic disorder that affect the catabolism and anabolism of carbohydrates",
+    "aliases": [
+        "disorder of carbohydrate transport and metabolism",
+        "inborn carbohydrate metabolism disorder",
+        "inborn errors of carbohydrate metabolism"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Inborn_errors_of_carbohydrate_metabolism",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "inherited metabolic disorder",
+                "qid": "Q1758393",
+                "url": "https://en.wikipedia.org/wiki/Inborn_errors_of_metabolism"
+            },
+            {
+                "name": "carbohydrate metabolism disease",
+                "qid": "Q18552029"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            },
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            },
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            },
+            {
+                "name": "hepatology",
+                "qid": "Q668064",
+                "url": "https://en.wikipedia.org/wiki/Hepatology"
+            }
+        ]
+    }
+}

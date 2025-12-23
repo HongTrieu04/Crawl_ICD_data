@@ -1,0 +1,23 @@
+{
+    "name": "neonatal infections group B streptococcus",
+    "qid": "Q18465361",
+    "icd_10": "P36.0",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "Group B streptococcal infection",
+                "qid": "Q3500350",
+                "url": "https://en.wikipedia.org/wiki/Group_B_streptococcal_infection"
+            },
+            {
+                "name": "perinatal infectious disease",
+                "qid": "Q9386039",
+                "url": "https://en.wikipedia.org/wiki/Neonatal_infection"
+            }
+        ]
+    }
+}

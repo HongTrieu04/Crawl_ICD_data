@@ -1,0 +1,32 @@
+{
+    "name": "vitamin E deficiency",
+    "qid": "Q7936965",
+    "icd_10": "E56.0",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete vitamin E deficiency"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Vitamin_E_deficiency",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            },
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "vitamin deficiency",
+                "qid": "Q194435",
+                "url": "https://en.wikipedia.org/wiki/Vitamin_deficiency"
+            }
+        ]
+    }
+}

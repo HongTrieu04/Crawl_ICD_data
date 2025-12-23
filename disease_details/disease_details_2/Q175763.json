@@ -1,0 +1,28 @@
+{
+    "name": "Tietze syndrome",
+    "qid": "Q175763",
+    "icd_10": "M94.0",
+    "description": "non-cardiac thoracic pain syndrome",
+    "aliases": [
+        "Tietze's disease",
+        "Tietze's syndrome"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gray315.png",
+    "url": "https://en.wikipedia.org/wiki/Tietze_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "costochondritis",
+                "qid": "Q5175170",
+                "url": "https://en.wikipedia.org/wiki/Costochondritis"
+            }
+        ]
+    }
+}

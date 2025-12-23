@@ -1,0 +1,29 @@
+{
+    "name": "Congenital fourth nerve palsy",
+    "qid": "Q5160431",
+    "icd_10": "H49.1",
+    "description": "human disease",
+    "aliases": [
+        "Congenital CNIV palsy",
+        "Congenital fourth cranial nerve palsy",
+        "congenital trochlear nerve palsy"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Congenital_fourth_nerve_palsy",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "fourth cranial nerve palsy",
+                "qid": "Q2454612",
+                "url": "https://en.wikipedia.org/wiki/Fourth_nerve_palsy"
+            }
+        ]
+    }
+}

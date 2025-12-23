@@ -1,0 +1,37 @@
+{
+    "name": "tympanosclerosis",
+    "qid": "Q2199494",
+    "icd_10": "H74.0",
+    "description": "condition caused by hyalinization and subsequent calcification of subepithelial connective tissue of TM and middle ear",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tympanoscl%C3%A9rose.jpg",
+    "url": "https://en.wikipedia.org/wiki/Tympanosclerosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "otolaryngology",
+                "qid": "Q189553",
+                "url": "https://en.wikipedia.org/wiki/Otorhinolaryngology"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "tympanoplasty",
+                "qid": "Q9363646",
+                "url": "https://en.wikipedia.org/wiki/Tympanoplasty"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "chronic otitis media",
+                "qid": "Q1088044"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "tympanic membrane disease",
+                "qid": "Q18557008"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "syphilitic peritonitis",
+    "qid": "Q18967790",
+    "icd_10": "K67.2",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete syphilitic peritonitis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "peritonitis",
+                "qid": "Q223102",
+                "url": "https://en.wikipedia.org/wiki/Peritonitis"
+            },
+            {
+                "name": "syphilis",
+                "qid": "Q41083",
+                "url": "https://en.wikipedia.org/wiki/Syphilis"
+            }
+        ]
+    }
+}

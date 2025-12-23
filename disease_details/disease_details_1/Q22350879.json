@@ -1,0 +1,31 @@
+{
+    "name": "Spondweni fever",
+    "qid": "Q22350879",
+    "icd_10": "A92.8",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Spondweni_fever",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Spondweni virus",
+                "qid": "Q16682768",
+                "url": "https://en.wikipedia.org/wiki/Spondweni_virus"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "flavivirus infectious disease",
+                "qid": "Q19001421"
+            }
+        ]
+    }
+}

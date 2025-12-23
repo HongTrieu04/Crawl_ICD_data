@@ -1,0 +1,42 @@
+{
+    "name": "Neonatal hypocalcemia",
+    "qid": "Q18391768",
+    "icd_10": "P71",
+    "description": "Human disease",
+    "aliases": [
+        "hypocalcemia and hypomagnesemia of newborn",
+        "Hypocalcemia and/or hypomagnesemia of newborn (disorder)",
+        "obsolete hypocalcemia and hypomagnesemia of newborn"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Neonatal_hypocalcemia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neonatology",
+                "qid": "Q898674",
+                "url": "https://en.wikipedia.org/wiki/Neonatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "hypocalcaemia",
+                "qid": "Q936382",
+                "url": "https://en.wikipedia.org/wiki/Hypocalcemia"
+            },
+            {
+                "name": "calcium metabolism disease",
+                "qid": "Q5282519",
+                "url": "https://en.wikipedia.org/wiki/Disorders_of_calcium_metabolism"
+            },
+            {
+                "name": "disorder of magnesium metabolism",
+                "qid": "Q18966986"
+            },
+            {
+                "name": "perinatal disease",
+                "qid": "Q18968218"
+            }
+        ]
+    }
+}

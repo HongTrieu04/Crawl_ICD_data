@@ -1,0 +1,40 @@
+{
+    "name": "foetal-maternal haemorrhage",
+    "qid": "Q3724764",
+    "icd_10": "P50.4",
+    "description": "Human disease",
+    "aliases": [
+        "fetal blood loss",
+        "Fetal blood loss (disorder)",
+        "Fetal blood loss NOS (disorder)",
+        "Fetal blood loss, unspecified (disorder)",
+        "Fetal haemorrhage",
+        "Fetal-maternal hemorrhage affecting management of mother",
+        "Fetal-maternal hemorrhage, with delivery",
+        "Fetomaternal Transfusion",
+        "obsolete fetal blood loss",
+        "obsolete Fetal-maternal hemorrhage affecting management of mother"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Fetal-maternal_haemorrhage",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "complications of pregnancy",
+                "qid": "Q2916477",
+                "url": "https://en.wikipedia.org/wiki/Complications_of_pregnancy"
+            },
+            {
+                "name": "neonatal anemia",
+                "qid": "Q18554047"
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "catathrenia",
+    "qid": "Q2941711",
+    "icd_10": "R06.83",
+    "description": "breathing disorder",
+    "aliases": [
+        "sleep-related groaning"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Catathrenia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "otolaryngology",
+                "qid": "Q189553",
+                "url": "https://en.wikipedia.org/wiki/Otorhinolaryngology"
+            }
+        ]
+    }
+}

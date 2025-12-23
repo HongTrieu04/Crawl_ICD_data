@@ -1,0 +1,32 @@
+{
+    "name": "subconjunctival hemorrhage",
+    "qid": "Q430235",
+    "icd_10": "H11.3",
+    "description": "bleeding underneath the conjunctiva",
+    "aliases": [
+        "Hyposphagma",
+        "subconjunctival bleeding"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Subconjunctival_bleeding",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "intraocular hemorrhage",
+                "qid": "Q17067160",
+                "url": "https://en.wikipedia.org/wiki/Intraocular_hemorrhage"
+            },
+            {
+                "name": "eye symptom",
+                "qid": "Q102186610"
+            }
+        ]
+    }
+}

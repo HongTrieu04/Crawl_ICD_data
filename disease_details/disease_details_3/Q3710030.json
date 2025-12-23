@@ -1,0 +1,38 @@
+{
+    "name": "intestinal dysganglionosis",
+    "qid": "Q3710030",
+    "icd_10": "Q43.1",
+    "description": "Human disease",
+    "aliases": [
+        "intestinal pseudo-obstruction",
+        "neuronal intestinal dysplasia",
+        "Neuronal intestinal pseudoobstruction"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Intestinal_neuronal_dysplasia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "intestinal disease",
+                "qid": "Q3055380",
+                "url": "https://en.wikipedia.org/wiki/Enteropathy"
+            },
+            {
+                "name": "intestinal pseudo-obstruction",
+                "qid": "Q3924862",
+                "url": "https://en.wikipedia.org/wiki/Intestinal_pseudo-obstruction"
+            },
+            {
+                "name": "colonic disease",
+                "qid": "Q18556754"
+            }
+        ]
+    }
+}

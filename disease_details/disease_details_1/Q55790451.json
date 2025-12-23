@@ -1,0 +1,21 @@
+{
+    "name": "congenital anomaly of cardiovascular system",
+    "qid": "Q55790451",
+    "icd_10": "Q28.9",
+    "description": "disease that has its basis in the disruption of cardiovascular system development",
+    "aliases": [
+        "congenital cardiovascular disorder",
+        "disorder of cardiovascular system development"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "cardiovascular disease",
+                "qid": "Q389735",
+                "url": "https://en.wikipedia.org/wiki/Cardiovascular_disease"
+            }
+        ]
+    }
+}

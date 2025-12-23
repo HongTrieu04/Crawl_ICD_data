@@ -1,0 +1,22 @@
+{
+    "name": "cutaneous plague",
+    "qid": "Q18966505",
+    "icd_10": "A20.1",
+    "description": "Human disease",
+    "aliases": [
+        "cellulocutaneous plague",
+        "cellulocutaneous plague (disorder)",
+        "obsolete cutaneous plague"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "plague",
+                "qid": "Q133780",
+                "url": "https://en.wikipedia.org/wiki/Plague_(disease)"
+            }
+        ]
+    }
+}

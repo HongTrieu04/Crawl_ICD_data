@@ -1,0 +1,27 @@
+{
+    "name": "opsoclonus",
+    "qid": "Q2027232",
+    "icd_10": "H57",
+    "description": "medical condition",
+    "aliases": [
+        "reflexive saccade",
+        "saccadomania"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Opsoclonus",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "ocular motility disease",
+                "qid": "Q11583708"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "name": "laryngomalacia",
+    "qid": "Q598035",
+    "icd_10": "Q31.5",
+    "description": "congenital disorder of upper respiratory system",
+    "aliases": [
+        "LARYNGOMALACIA"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Laryngomalacia.jpg",
+    "url": "https://en.wikipedia.org/wiki/Laryngomalacia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "larynx anomaly",
+                "qid": "Q55785516"
+            },
+            {
+                "name": "genetic otorhinolaryngological malformation",
+                "qid": "Q55788178"
+            }
+        ]
+    }
+}

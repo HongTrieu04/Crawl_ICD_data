@@ -1,0 +1,31 @@
+{
+    "name": "stasis dermatitis",
+    "qid": "Q1150189",
+    "icd_10": "I83.1",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Stasis_dermatitis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "acrodermatitis",
+                "qid": "Q4675757",
+                "url": "https://en.wikipedia.org/wiki/Acrodermatitis"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "venous insufficiency",
+                "qid": "Q9008818"
+            }
+        ]
+    }
+}

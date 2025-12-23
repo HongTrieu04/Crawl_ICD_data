@@ -1,0 +1,25 @@
+{
+    "name": "Sexual maturation disorder",
+    "qid": "Q3540872",
+    "icd_10": "F66.0",
+    "description": "psychic disorder",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Sexual_maturation_disorder",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "gender dysphoria",
+                "qid": "Q1049021",
+                "url": "https://en.wikipedia.org/wiki/Gender_dysphoria"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "complications of diabetes mellitus",
+    "qid": "Q4198677",
+    "icd_10": "E14",
+    "description": "medical conditions",
+    "aliases": [
+        "diabetes complications",
+        "diabetes mellitus complications",
+        "diabetic complications"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Complications_of_diabetes",
+    "details": {
+        "Cause": [
+            {
+                "name": "diabetes",
+                "qid": "Q12206",
+                "url": "https://en.wikipedia.org/wiki/Diabetes"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ]
+    }
+}

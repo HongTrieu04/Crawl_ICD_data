@@ -1,0 +1,41 @@
+{
+    "name": "renal hypoplasia",
+    "qid": "Q24284111",
+    "icd_10": "Q60.5",
+    "description": "kidney disease that is characterized by abnormally small kidneys with normal morphology and reduced number of nephrons",
+    "aliases": [
+        "Renal hypoplasia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Renal_hypoplasia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "kidney disease",
+                "qid": "Q1054718",
+                "url": "https://en.wikipedia.org/wiki/Kidney_disease"
+            },
+            {
+                "name": "hypoplasia",
+                "qid": "Q1568160",
+                "url": "https://en.wikipedia.org/wiki/Hypoplasia"
+            },
+            {
+                "name": "Renal dysplasia",
+                "qid": "Q24284107"
+            },
+            {
+                "name": "rare genetic developmental defect during embryogenesis",
+                "qid": "Q55785846"
+            },
+            {
+                "name": "non-syndromic renal or urinary tract malformation",
+                "qid": "Q55788831"
+            },
+            {
+                "name": "rare genetic renal disease",
+                "qid": "Q55789069"
+            }
+        ]
+    }
+}

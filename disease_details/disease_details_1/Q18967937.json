@@ -1,0 +1,19 @@
+{
+    "name": "Idiopathic cysts of iris and ciliary body",
+    "qid": "Q18967937",
+    "icd_10": "H21.30",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete Idiopathic cysts of iris and ciliary body"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "Cysts of iris, ciliary body and anterior chamber",
+                "qid": "Q18975213"
+            }
+        ]
+    }
+}

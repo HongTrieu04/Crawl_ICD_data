@@ -1,0 +1,48 @@
+{
+    "name": "vitamin D deficiency",
+    "qid": "Q4138762",
+    "icd_10": "E55",
+    "description": "human disease commonly occurring in people when they have inadequate sunlight exposure",
+    "aliases": [
+        "avitaminosis D",
+        "avitaminosis D NOS (disorder)",
+        "deficiency of vitamin D (disorder)",
+        "hypovitaminosis D",
+        "unspecified vitamin D deficiency"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Vitamin_D_deficiency",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "vitamin deficiency",
+                "qid": "Q194435",
+                "url": "https://en.wikipedia.org/wiki/Vitamin_deficiency"
+            },
+            {
+                "name": "disorders of vitamin D metabolism",
+                "qid": "Q55786982"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "calcifediol",
+                "qid": "Q139307",
+                "url": "https://en.wikipedia.org/wiki/Calcifediol"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "rs2282679",
+                "qid": "Q115475129"
+            }
+        ]
+    }
+}

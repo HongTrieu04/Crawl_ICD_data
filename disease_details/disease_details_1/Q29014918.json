@@ -1,0 +1,18 @@
+{
+    "name": "dystroglycanopathy",
+    "qid": "Q29014918",
+    "icd_10": "G71.2",
+    "description": "group",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "congenital muscular dystrophy",
+                "qid": "Q1321884",
+                "url": "https://en.wikipedia.org/wiki/Congenital_muscular_dystrophy"
+            }
+        ]
+    }
+}

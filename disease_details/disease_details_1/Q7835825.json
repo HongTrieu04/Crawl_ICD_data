@@ -1,0 +1,25 @@
+{
+    "name": "Traumatic bone cyst",
+    "qid": "Q7835825",
+    "icd_10": "K09.2",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Traumatic_bone_cyst",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "cyst of the jaws",
+                "qid": "Q17085172",
+                "url": "https://en.wikipedia.org/wiki/Cysts_of_the_jaws"
+            }
+        ]
+    }
+}

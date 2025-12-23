@@ -1,0 +1,36 @@
+{
+    "name": "viral hemorrhagic fever",
+    "qid": "Q162272",
+    "icd_10": "A99",
+    "description": "group of viral diseases having in common capillary permeability, leukopenia and thrombocytopenia",
+    "aliases": [
+        "VHF",
+        "haemorrhagic fever",
+        "hemorrhagic fever",
+        "Hemorrhagic Fevers, Viral",
+        "viral haemorrhagic fever",
+        "viral hemorrhagic fevers"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/7042%20lores-Ebola-Zaire-CDC%20Photo.jpg",
+    "url": "https://en.wikipedia.org/wiki/Viral_hemorrhagic_fever",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "viral infectious disease",
+                "qid": "Q1928978",
+                "url": "https://en.wikipedia.org/wiki/Viral_disease"
+            },
+            {
+                "name": "pandemic and epidemic-prone diseases",
+                "qid": "Q131345497"
+            }
+        ]
+    }
+}

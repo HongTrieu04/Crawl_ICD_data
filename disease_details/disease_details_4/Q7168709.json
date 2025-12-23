@@ -1,0 +1,21 @@
+{
+    "name": "peripheral edema",
+    "qid": "Q7168709",
+    "icd_10": "R60.0",
+    "description": "symptom",
+    "aliases": [
+        "limb edema",
+        "peripheral Oedema"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Combinpedal%20Right%20to%20Left.jpg",
+    "url": "https://en.wikipedia.org/wiki/Peripheral_edema",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "edema",
+                "qid": "Q152234",
+                "url": "https://en.wikipedia.org/wiki/Edema"
+            }
+        ]
+    }
+}

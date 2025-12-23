@@ -1,0 +1,41 @@
+{
+    "name": "orthopnea",
+    "qid": "Q783955",
+    "icd_10": "R06.0",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Orthopnea",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            },
+            {
+                "name": "respiratory therapy",
+                "qid": "Q19776279",
+                "url": "https://en.wikipedia.org/wiki/Respiratory_therapy"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "dyspnea",
+                "qid": "Q188008",
+                "url": "https://en.wikipedia.org/wiki/Shortness_of_breath"
+            },
+            {
+                "name": "abnormal breathing",
+                "qid": "Q2056816"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "heart failure",
+                "qid": "Q181754",
+                "url": "https://en.wikipedia.org/wiki/Heart_failure"
+            }
+        ]
+    }
+}

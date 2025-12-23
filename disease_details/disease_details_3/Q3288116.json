@@ -1,0 +1,27 @@
+{
+    "name": "visceral larva migrans",
+    "qid": "Q3288116",
+    "icd_10": "B83.0",
+    "description": "medical condition",
+    "aliases": [
+        "Larva Migrans, Visceral"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Visceral_larva_migrans",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "toxocariasis",
+                "qid": "Q1345113",
+                "url": "https://en.wikipedia.org/wiki/Toxocariasis"
+            }
+        ]
+    }
+}

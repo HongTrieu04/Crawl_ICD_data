@@ -1,0 +1,31 @@
+{
+    "name": "stannosis",
+    "qid": "Q1264268",
+    "icd_10": "J63.5",
+    "description": "medical condition caused by inhalation of tin compounds",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Stannosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "inhalation",
+                "qid": "Q840343",
+                "url": "https://en.wikipedia.org/wiki/Inhalation"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "benign pneumoconiosis",
+                "qid": "Q21109216"
+            }
+        ]
+    }
+}

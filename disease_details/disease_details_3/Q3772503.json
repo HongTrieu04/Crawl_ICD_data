@@ -1,0 +1,18 @@
+{
+    "name": "glossocele",
+    "qid": "Q3772503",
+    "icd_10": "K14.8",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "tongue disease",
+                "qid": "Q7107436",
+                "url": "https://en.wikipedia.org/wiki/Tongue_disease"
+            }
+        ]
+    }
+}

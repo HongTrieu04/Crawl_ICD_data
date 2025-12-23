@@ -1,0 +1,39 @@
+{
+    "name": "Boerhaave syndrome",
+    "qid": "Q535425",
+    "icd_10": "K22.3",
+    "description": "syndrome characterized by spontaneous longitudinal transmural rupture of the esophagus, usually in its distal part",
+    "aliases": [
+        "boerhaave syndrome",
+        "boerhaave's syndrome",
+        "Boerhave syndrome",
+        "Esophageal rupture",
+        "spontaneous esophageal perforation",
+        "spontaneous perforation of esophagus",
+        "Spontaneous perforation of the esophagus",
+        "spontaneous rupture of esophagus",
+        "Spontaneous rupture of the esophagus"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Esophageal_rupture",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            },
+            {
+                "name": "surgery",
+                "qid": "Q40821",
+                "url": "https://en.wikipedia.org/wiki/Surgery"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "esophageal rupture",
+                "qid": "Q298246"
+            }
+        ]
+    }
+}

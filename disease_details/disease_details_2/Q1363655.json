@@ -1,0 +1,38 @@
+{
+    "name": "acquired hemophilia",
+    "qid": "Q1363655",
+    "icd_10": "D68.4",
+    "description": "human disease",
+    "aliases": [
+        "acquired factor VIII deficiency",
+        "acquired factor VIII deficiency disease (disorder)",
+        "obsolete acquired factor VIII deficiency"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Acquired_haemophilia",
+    "details": {
+        "Drug used for treatment": [
+            {
+                "name": "prednisolone",
+                "qid": "Q11426176",
+                "url": "https://en.wikipedia.org/wiki/Prednisolone"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "hemophilia",
+                "qid": "Q134003",
+                "url": "https://en.wikipedia.org/wiki/Haemophilia"
+            },
+            {
+                "name": "hemophilia A",
+                "qid": "Q2092064",
+                "url": "https://en.wikipedia.org/wiki/Haemophilia_A"
+            },
+            {
+                "name": "rare hemorrhagic disorder due to an acquired coagulation factor defect",
+                "qid": "Q55785636"
+            }
+        ]
+    }
+}

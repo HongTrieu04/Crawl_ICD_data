@@ -1,0 +1,84 @@
+{
+    "name": "Brugia malayi filariasis",
+    "qid": "Q4097126",
+    "icd_10": "B74.2",
+    "description": "human disease",
+    "aliases": [
+        "brugia filariasis due to brugia malayi",
+        "Brugian filariasis",
+        "Infection by Brugia malayi (disorder)",
+        "Infection due to Wuchereria malayi",
+        "Malayan filariasis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Symptoms": [
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "elephantiasis",
+                "qid": "Q16775468",
+                "url": "https://en.wikipedia.org/wiki/Elephantiasis"
+            },
+            {
+                "name": "cellulite",
+                "qid": "Q242510",
+                "url": "https://en.wikipedia.org/wiki/Cellulite"
+            },
+            {
+                "name": "erythema",
+                "qid": "Q1166142",
+                "url": "https://en.wikipedia.org/wiki/Erythema"
+            },
+            {
+                "name": "lymphangitis",
+                "qid": "Q1476027",
+                "url": "https://en.wikipedia.org/wiki/Lymphangitis"
+            },
+            {
+                "name": "lymphadenitis",
+                "qid": "Q3269466"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "parasitic helminthiasis infectious disease",
+                "qid": "Q578994",
+                "url": "https://en.wikipedia.org/wiki/Helminthiasis"
+            },
+            {
+                "name": "filarial elephantiasis",
+                "qid": "Q192100",
+                "url": "https://en.wikipedia.org/wiki/Lymphatic_filariasis"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            },
+            {
+                "name": "tropical medicine",
+                "qid": "Q1365243",
+                "url": "https://en.wikipedia.org/wiki/Tropical_medicine"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Brugia malayi",
+                "qid": "Q139658",
+                "url": "https://en.wikipedia.org/wiki/Brugia_malayi"
+            },
+            {
+                "name": "Brugia timori",
+                "qid": "Q145730",
+                "url": "https://en.wikipedia.org/wiki/Brugia_timori"
+            }
+        ]
+    }
+}

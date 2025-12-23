@@ -1,0 +1,41 @@
+{
+    "name": "pulmonary cryptococcosis",
+    "qid": "Q18967417",
+    "icd_10": "B45.0",
+    "description": "Human disease",
+    "aliases": [
+        "cryptococcal pneumonia",
+        "Cryptococcal Pneumonia",
+        "obsolete pulmonary cryptococcosis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Drug used for treatment": [
+            {
+                "name": "5-fluorocytosine",
+                "qid": "Q238490",
+                "url": "https://en.wikipedia.org/wiki/Flucytosine"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "cryptococcosis",
+                "qid": "Q1470140",
+                "url": "https://en.wikipedia.org/wiki/Cryptococcosis"
+            },
+            {
+                "name": "fungal pneumonia",
+                "qid": "Q5509174",
+                "url": "https://en.wikipedia.org/wiki/Fungal_pneumonia"
+            }
+        ]
+    }
+}

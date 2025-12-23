@@ -1,0 +1,32 @@
+{
+    "name": "palpitation",
+    "qid": "Q1123260",
+    "icd_10": "R00.2",
+    "description": "perceived cardiac abnormality in which one’s heartbeat can be felt",
+    "aliases": [
+        "heart palpitations",
+        "palpitations"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Palpitations",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "heart arrhythmia",
+                "qid": "Q189331",
+                "url": "https://en.wikipedia.org/wiki/Arrhythmia"
+            },
+            {
+                "name": "cardiovascular system symptom",
+                "qid": "Q102186826"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "alkalosis",
+    "qid": "Q512654",
+    "icd_10": "E87.3",
+    "description": "result of a process reducing hydrogen ion concentration of arterial blood plasma (alkalemia)",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Alkalosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "acid–base imbalance",
+                "qid": "Q3589454",
+                "url": "https://en.wikipedia.org/wiki/Acid%E2%80%93base_disorder"
+            }
+        ]
+    }
+}

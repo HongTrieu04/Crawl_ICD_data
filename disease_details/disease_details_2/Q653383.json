@@ -1,0 +1,45 @@
+{
+    "name": "mallet finger",
+    "qid": "Q653383",
+    "icd_10": "M20.0",
+    "description": "an extensor tendon injury at the farthest away finger joint",
+    "aliases": [
+        "baseball finger",
+        "extensor tendon injury at the DIP joint",
+        "hammer finger"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mallet%20Finger%20Injury.jpg",
+    "url": "https://en.wikipedia.org/wiki/Mallet_finger",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "pain",
+                "qid": "Q81938",
+                "url": "https://en.wikipedia.org/wiki/Pain"
+            },
+            {
+                "name": "bruise",
+                "qid": "Q574491",
+                "url": "https://en.wikipedia.org/wiki/Bruise"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "plastic surgery",
+                "qid": "Q182442",
+                "url": "https://en.wikipedia.org/wiki/Plastic_surgery"
+            },
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "finger injury",
+                "qid": "Q54946694"
+            }
+        ]
+    }
+}

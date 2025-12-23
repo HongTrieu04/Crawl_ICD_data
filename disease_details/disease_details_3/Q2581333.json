@@ -1,0 +1,70 @@
+{
+    "name": "post-concussion syndrome",
+    "qid": "Q2581333",
+    "icd_10": "F07.2",
+    "description": "organic brain syndrome that occurs following head trauma (i.e. concussion)",
+    "aliases": [
+        "concussion",
+        "PCS",
+        "post-concussive syndrome",
+        "post-contusional syndrome",
+        "postconcussional syndrome",
+        "postconcussive syndrome",
+        "postcontusional syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Post-concussion_syndrome",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            },
+            {
+                "name": "dizziness",
+                "qid": "Q10916362",
+                "url": "https://en.wikipedia.org/wiki/Dizziness"
+            },
+            {
+                "name": "irritability",
+                "qid": "Q29299",
+                "url": "https://en.wikipedia.org/wiki/Irritability"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "concussion",
+                "qid": "Q326921",
+                "url": "https://en.wikipedia.org/wiki/Concussion"
+            },
+            {
+                "name": "organic brain syndrome",
+                "qid": "Q360341",
+                "url": "https://en.wikipedia.org/wiki/Organic_brain_syndrome"
+            },
+            {
+                "name": "complication",
+                "qid": "Q1346149",
+                "url": "https://en.wikipedia.org/wiki/Complication_(medicine)"
+            },
+            {
+                "name": "cranial trauma",
+                "qid": "Q2920572",
+                "url": "https://en.wikipedia.org/wiki/Head_injury"
+            }
+        ]
+    }
+}

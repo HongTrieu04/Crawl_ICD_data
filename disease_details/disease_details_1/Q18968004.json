@@ -1,0 +1,19 @@
+{
+    "name": "corneal anesthesia and hypoesthesia",
+    "qid": "Q18968004",
+    "icd_10": "H18.81",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete corneal anesthesia and hypoesthesia"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "corneal disease",
+                "qid": "Q10526382"
+            }
+        ]
+    }
+}

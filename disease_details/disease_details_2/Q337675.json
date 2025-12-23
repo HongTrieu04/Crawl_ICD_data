@@ -1,0 +1,30 @@
+{
+    "name": "acanthamoebiasis",
+    "qid": "Q337675",
+    "icd_10": "B60.1",
+    "description": "Human disease",
+    "aliases": [
+        "Acanthamoeba infection",
+        "Acanthamoeba infectious disease",
+        "free-living ameba infectious disease",
+        "obsolete Acanthamoeba infectious disease"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Acanthamoeba_infection",
+    "details": {
+        "Cause": [
+            {
+                "name": "infection",
+                "qid": "Q166231",
+                "url": "https://en.wikipedia.org/wiki/Infection"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "parasitic protozoa infectious disease",
+                "qid": "Q353172",
+                "url": "https://en.wikipedia.org/wiki/Protozoan_infection"
+            }
+        ]
+    }
+}

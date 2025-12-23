@@ -1,0 +1,29 @@
+{
+    "name": "parapharyngeal abscess",
+    "qid": "Q16682714",
+    "icd_10": "J39.0",
+    "description": "Deep neck abscess",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Parapharyngeal_abscess",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "abscess",
+                "qid": "Q164655",
+                "url": "https://en.wikipedia.org/wiki/Abscess"
+            },
+            {
+                "name": "upper respiratory tract disease",
+                "qid": "Q18558209"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "parapharyngeal space",
+                "qid": "Q7135649",
+                "url": "https://en.wikipedia.org/wiki/Parapharyngeal_space"
+            }
+        ]
+    }
+}

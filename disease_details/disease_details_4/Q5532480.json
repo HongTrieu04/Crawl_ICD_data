@@ -1,0 +1,25 @@
+{
+    "name": "Generalized granuloma annulare",
+    "qid": "Q5532480",
+    "icd_10": "L92.0",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Generalized_granuloma_annulare",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "granuloma annulare",
+                "qid": "Q455085",
+                "url": "https://en.wikipedia.org/wiki/Granuloma_annulare"
+            }
+        ]
+    }
+}

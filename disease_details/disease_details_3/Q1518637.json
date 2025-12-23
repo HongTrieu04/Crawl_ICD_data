@@ -1,0 +1,42 @@
+{
+    "name": "VIPoma",
+    "qid": "Q1518637",
+    "icd_10": "C25.4",
+    "description": "rare endocrine tumor that overproduces vasoactive intestinal peptide",
+    "aliases": [
+        "malignant vasoactive intestinal peptide-secreting tumor",
+        "Vasoactive intestinal peptide-secreting tumor",
+        "Vasoactive intestinal peptide-secreting tumor (disorder)",
+        "VIP- Secreting tumor",
+        "Vipoma, malignant"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/VIPoma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "surgery",
+                "qid": "Q40821",
+                "url": "https://en.wikipedia.org/wiki/Surgery"
+            },
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "neuroendocrine tumor",
+                "qid": "Q1981276",
+                "url": "https://en.wikipedia.org/wiki/Neuroendocrine_tumor"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "pancreatic cholera",
+                "qid": "Q18557427"
+            }
+        ]
+    }
+}

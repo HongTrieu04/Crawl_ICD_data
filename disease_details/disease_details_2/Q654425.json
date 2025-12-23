@@ -1,0 +1,50 @@
+{
+    "name": "Waterhouse-Friderichsen syndrome",
+    "qid": "Q654425",
+    "icd_10": "A39.1",
+    "description": "adrenal gland disease that is characterized by failure of the adrenal gland due to bleeding into the gland",
+    "aliases": [
+        "WFS",
+        "Meningococcal hemorrhagic adrenalitis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Waterhouse-Friderichsen.%20IMG%202912.jpg",
+    "url": "https://en.wikipedia.org/wiki/Waterhouse%E2%80%93Friderichsen_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "adrenal gland disease",
+                "qid": "Q4684717",
+                "url": "https://en.wikipedia.org/wiki/Adrenal_gland_disorder"
+            },
+            {
+                "name": "adrenal crisis",
+                "qid": "Q4057453",
+                "url": "https://en.wikipedia.org/wiki/Adrenal_crisis"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "meningitis",
+                "qid": "Q48143",
+                "url": "https://en.wikipedia.org/wiki/Meningitis"
+            },
+            {
+                "name": "bleeding",
+                "qid": "Q166019",
+                "url": "https://en.wikipedia.org/wiki/Bleeding"
+            }
+        ]
+    }
+}

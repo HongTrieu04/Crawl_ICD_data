@@ -1,0 +1,56 @@
+{
+    "name": "bacillary angiomatosis",
+    "qid": "Q812671",
+    "icd_10": "B20.1",
+    "description": "human disease",
+    "aliases": [
+        "Angiomatoses, Bacillary",
+        "Angiomatoses, Bacillary Epithelioid",
+        "Angiomatoses, Epithelioid",
+        "Angiomatosis, Bacillary Epithelioid",
+        "Angiomatosis, Epithelioid",
+        "Bacillary Angiomatoses",
+        "Bacillary Angiomatosis",
+        "Bacillary Epithelioid Angiomatoses",
+        "Bacillary Epithelioid Angiomatosis",
+        "Epithelioid Angiomatoses",
+        "Epithelioid Angiomatoses, Bacillary",
+        "Epithelioid Angiomatosis",
+        "Epithelioid Angiomatosis, Bacillary"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Bacillary_angiomatosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "angiomatosis",
+                "qid": "Q367756",
+                "url": "https://en.wikipedia.org/wiki/Angiomatosis"
+            },
+            {
+                "name": "bartonellosis",
+                "qid": "Q809561",
+                "url": "https://en.wikipedia.org/wiki/Bartonellosis"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Bartonella henselae",
+                "qid": "Q140599",
+                "url": "https://en.wikipedia.org/wiki/Bartonella_henselae"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

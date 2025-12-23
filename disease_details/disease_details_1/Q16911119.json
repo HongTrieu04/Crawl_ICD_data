@@ -1,0 +1,23 @@
+{
+    "name": "primary cutaneous coccidioidomycosis",
+    "qid": "Q16911119",
+    "icd_10": "B38.3",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Primary_cutaneous_coccidioidomycosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "coccidioidomycosis",
+                "qid": "Q868137",
+                "url": "https://en.wikipedia.org/wiki/Coccidioidomycosis"
+            },
+            {
+                "name": "dermatomycosis",
+                "qid": "Q3705876",
+                "url": "https://en.wikipedia.org/wiki/Dermatomycosis"
+            }
+        ]
+    }
+}

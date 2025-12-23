@@ -1,0 +1,56 @@
+{
+    "name": "cerebrovascular disease",
+    "qid": "Q3010352",
+    "icd_10": "I69",
+    "description": "artery disease that is characterized by dysfunction of the blood vessels supplying the brain",
+    "aliases": [
+        "CVA",
+        "cerebrovascular disorder",
+        "cerebrovascular accident",
+        "Cerebrovascular accident (disorder)",
+        "cerebrovascular disorders",
+        "CVA (cerebral vascular accident)"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/1471-2415-12-28-1Cerebral%20angiogram.jpg",
+    "url": "https://en.wikipedia.org/wiki/Cerebrovascular_disease",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "encephalopathy",
+                "qid": "Q576349",
+                "url": "https://en.wikipedia.org/wiki/Encephalopathy"
+            },
+            {
+                "name": "vascular disease",
+                "qid": "Q1266890",
+                "url": "https://en.wikipedia.org/wiki/Vascular_disease"
+            },
+            {
+                "name": "central nervous system disease",
+                "qid": "Q5062122",
+                "url": "https://en.wikipedia.org/wiki/Central_nervous_system_disease"
+            },
+            {
+                "name": "central nervous system and retinal vascular disease",
+                "qid": "Q55788489"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            },
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ]
+    }
+}

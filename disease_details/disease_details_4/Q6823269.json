@@ -1,0 +1,32 @@
+{
+    "name": "Metatarsophalangeal joint sprain",
+    "qid": "Q6823269",
+    "icd_10": "S93.5",
+    "description": "medical condition",
+    "aliases": [
+        "turf toe"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Metatarsophalangeal_joint_sprain",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "sprain",
+                "qid": "Q470747",
+                "url": "https://en.wikipedia.org/wiki/Sprain"
+            },
+            {
+                "name": "foot diseases",
+                "qid": "Q5282137",
+                "url": "https://en.wikipedia.org/wiki/Diseases_of_the_foot"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ]
+    }
+}

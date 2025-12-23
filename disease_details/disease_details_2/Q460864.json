@@ -1,0 +1,25 @@
+{
+    "name": "ventricular flutter",
+    "qid": "Q460864",
+    "icd_10": "I49.0",
+    "description": "arrhythmia, more specifically a tachycardia affecting the ventricles with a rate over 250-350 beats/min",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ventricular%20Flutter.PNG",
+    "url": "https://en.wikipedia.org/wiki/Ventricular_flutter",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "ventricular tachycardia",
+                "qid": "Q56002",
+                "url": "https://en.wikipedia.org/wiki/Ventricular_tachycardia"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ]
+    }
+}

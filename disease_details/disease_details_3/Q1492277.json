@@ -1,0 +1,25 @@
+{
+    "name": "hydrops of gallbladder",
+    "qid": "Q1492277",
+    "icd_10": "K82.1",
+    "description": "Human disease",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "gallbladder disease",
+                "qid": "Q5518905",
+                "url": "https://en.wikipedia.org/wiki/Gallbladder_disease"
+            }
+        ]
+    }
+}

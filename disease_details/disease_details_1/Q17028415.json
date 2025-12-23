@@ -1,0 +1,33 @@
+{
+    "name": "hyperkinetic disorder",
+    "qid": "Q17028415",
+    "icd_10": "F90.9",
+    "description": "range of neurodevelopmental conditions",
+    "aliases": [
+        "hyperkinetic disorders",
+        "hyperkinetic syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hyperkinetic_disorder",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "hyperkinesia",
+                "qid": "Q1641007",
+                "url": "https://en.wikipedia.org/wiki/Hyperkinesia"
+            },
+            {
+                "name": "emotional and behavioral disorders",
+                "qid": "Q3063847",
+                "url": "https://en.wikipedia.org/wiki/Emotional_and_behavioral_disorders"
+            }
+        ]
+    }
+}

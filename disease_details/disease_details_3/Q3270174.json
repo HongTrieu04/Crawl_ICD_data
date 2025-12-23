@@ -1,0 +1,37 @@
+{
+    "name": "balanoposthitis",
+    "qid": "Q3270174",
+    "icd_10": "N48.1",
+    "description": "human disease",
+    "aliases": [
+        "Balanoposthitis (disorder)",
+        "Balanoposthitis NOS (disorder)"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Balanoposthitis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "posthitis",
+                "qid": "Q3497859",
+                "url": "https://en.wikipedia.org/wiki/Posthitis"
+            },
+            {
+                "name": "balanitis",
+                "qid": "Q1138584",
+                "url": "https://en.wikipedia.org/wiki/Balanitis"
+            },
+            {
+                "name": "penile disease",
+                "qid": "Q18554834"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            }
+        ]
+    }
+}

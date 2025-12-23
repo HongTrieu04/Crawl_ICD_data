@@ -1,0 +1,58 @@
+{
+    "name": "rectovaginal fistula",
+    "qid": "Q3740798",
+    "icd_10": "N82.3",
+    "description": "fistula or abnormal connection between the rectum and the vagina",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rectovestibular%20fistula%20in%20females.jpg",
+    "url": "https://en.wikipedia.org/wiki/Rectovaginal_fistula",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gynaecology",
+                "qid": "Q1221899",
+                "url": "https://en.wikipedia.org/wiki/Gynaecology"
+            },
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "vagina",
+                "qid": "Q5880",
+                "url": "https://en.wikipedia.org/wiki/Vagina"
+            },
+            {
+                "name": "rectum",
+                "qid": "Q158716",
+                "url": "https://en.wikipedia.org/wiki/Rectum"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Birth injury",
+                "qid": "Q25091271",
+                "url": "https://en.wikipedia.org/wiki/Birth_injury"
+            },
+            {
+                "name": "parturition",
+                "qid": "Q34581",
+                "url": "https://en.wikipedia.org/wiki/Childbirth"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "anal fistula",
+                "qid": "Q484765",
+                "url": "https://en.wikipedia.org/wiki/Anal_fistula"
+            },
+            {
+                "name": "vaginal fistula",
+                "qid": "Q99639166"
+            }
+        ]
+    }
+}

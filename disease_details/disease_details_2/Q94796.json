@@ -1,0 +1,47 @@
+{
+    "name": "Marchiafava-Bignami disease",
+    "qid": "Q94796",
+    "icd_10": "G37.1",
+    "description": "medical condition",
+    "aliases": [
+        "MBD",
+        "Acute Marchiafava-Bignami disease",
+        "Chronic Marchiafava-Bignami syndrome",
+        "Marchiafava Bignami disease"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Marchiafava%E2%80%93Bignami_disease",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "demyelinating disease",
+                "qid": "Q1186703",
+                "url": "https://en.wikipedia.org/wiki/Demyelinating_disease"
+            },
+            {
+                "name": "neurodegeneration",
+                "qid": "Q1755122",
+                "url": "https://en.wikipedia.org/wiki/Neurodegenerative_disease"
+            },
+            {
+                "name": "Long-term impact of alcohol on the brain",
+                "qid": "Q6672148",
+                "url": "https://en.wikipedia.org/wiki/Long-term_impact_of_alcohol_on_the_brain"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "alcoholism",
+                "qid": "Q15326",
+                "url": "https://en.wikipedia.org/wiki/Alcoholism"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ]
+    }
+}

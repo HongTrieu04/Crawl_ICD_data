@@ -1,0 +1,33 @@
+{
+    "name": "blowout fracture",
+    "qid": "Q2028528",
+    "icd_10": "S02.3",
+    "description": "medical condition",
+    "aliases": [
+        "blowout orbital fracture",
+        "Orbital Fracture",
+        "Orbital Fractures"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pblowoutfracture.png",
+    "url": "https://en.wikipedia.org/wiki/Orbital_blowout_fracture",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "zygoma fracture",
+                "qid": "Q1765555",
+                "url": "https://en.wikipedia.org/wiki/Zygoma_fracture"
+            },
+            {
+                "name": "eye adnexa disease",
+                "qid": "Q18553495"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ]
+    }
+}

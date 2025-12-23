@@ -1,0 +1,25 @@
+{
+    "name": "retiform parapsoriasis",
+    "qid": "Q7316746",
+    "icd_10": "L41.5",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Retiform_parapsoriasis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "parapsoriasis",
+                "qid": "Q2051832",
+                "url": "https://en.wikipedia.org/wiki/Parapsoriasis"
+            }
+        ]
+    }
+}

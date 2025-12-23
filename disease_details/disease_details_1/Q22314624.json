@@ -1,0 +1,27 @@
+{
+    "name": "clammy skin",
+    "qid": "Q22314624",
+    "icd_10": "R23.1",
+    "description": "symptom",
+    "aliases": [
+        "clamminess",
+        "cold clammy skin",
+        "moist skin"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Cause": [
+            {
+                "name": "sweating",
+                "qid": "Q3537764"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "skin and integumentary tissue symptom",
+                "qid": "Q100751718"
+            }
+        ]
+    }
+}

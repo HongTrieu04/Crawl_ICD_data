@@ -1,0 +1,25 @@
+{
+    "name": "aphonia",
+    "qid": "Q514686",
+    "icd_10": "R49.1",
+    "description": "medical condition leading to loss of voice",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Aphonia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "voice disorder",
+                "qid": "Q4593337",
+                "url": "https://en.wikipedia.org/wiki/List_of_voice_disorders"
+            }
+        ]
+    }
+}

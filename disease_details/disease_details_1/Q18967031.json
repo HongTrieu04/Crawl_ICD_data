@@ -1,0 +1,22 @@
+{
+    "name": "vitamin A deficiency with corneal xerosis and ulcer",
+    "qid": "Q18967031",
+    "icd_10": "E50.3",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete vitamin A deficiency with corneal xerosis and ulcer",
+        "vitamin A deficiency with corneal ulceration and xerosis",
+        "vitamin A deficiency with corneal ulceration AND xerosis (disorder)",
+        "vitamin A deficiency with corneal xerosis and ulcer (disorder)"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "obsolete vitamin A deficiency with corneal xerosis",
+                "qid": "Q18967024"
+            }
+        ]
+    }
+}

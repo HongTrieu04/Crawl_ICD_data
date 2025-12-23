@@ -1,0 +1,40 @@
+{
+    "name": "neural tube defect",
+    "qid": "Q548213",
+    "icd_10": "Q05",
+    "description": "congenital disorder of the nervous system",
+    "aliases": [
+        "neural tube defects"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Neural_tube_defect",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "congenital vertebral anomaly",
+                "qid": "Q332343",
+                "url": "https://en.wikipedia.org/wiki/Congenital_vertebral_anomaly"
+            },
+            {
+                "name": "congenital disorder",
+                "qid": "Q727096",
+                "url": "https://en.wikipedia.org/wiki/Birth_defect"
+            },
+            {
+                "name": "rare genetic developmental defect during embryogenesis",
+                "qid": "Q55785846"
+            },
+            {
+                "name": "genetic nervous system disorder",
+                "qid": "Q55788492"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

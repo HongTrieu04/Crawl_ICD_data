@@ -1,0 +1,42 @@
+{
+    "name": "neurofibromatosis type II",
+    "qid": "Q1935832",
+    "icd_10": "D33",
+    "description": "type of neurofibromatosis disease",
+    "aliases": [
+        "ACN",
+        "BANF",
+        "neurofibromatosis 2",
+        "NF2",
+        "bilateral acoustic neurinoma",
+        "bilateral acoustic neurofibromatosis",
+        "bilateral acoustic schwannomas",
+        "central neurofibromatosis",
+        "familial acoustic neuromas",
+        "neurofibromatosis type 2",
+        "neurofibromatosis-2"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Neurofibromatosis_type_II",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            },
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "neurofibromatoses",
+                "qid": "Q847605",
+                "url": "https://en.wikipedia.org/wiki/Neurofibromatosis"
+            }
+        ]
+    }
+}

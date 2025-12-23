@@ -1,0 +1,41 @@
+{
+    "name": "Landau–Kleffner syndrome",
+    "qid": "Q1636310",
+    "icd_10": "F80.3",
+    "description": "a rare childhood neurological syndrome characterized by seizures and progressive loss of speech typically in a child with previous age-appropriate development",
+    "aliases": [
+        "Acquired aphasia with convulsive disorder",
+        "acquired epileptic aphasia",
+        "aphasia with convulsive disorder",
+        "infantile acquired aphasia",
+        "Landau-Kleffner syndrome",
+        "progressive epileptic aphasia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Landau%E2%80%93Kleffner_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "childhood electroclinical syndrome",
+                "qid": "Q18553414"
+            }
+        ]
+    }
+}

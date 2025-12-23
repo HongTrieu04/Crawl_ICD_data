@@ -1,0 +1,42 @@
+{
+    "name": "nicotine withdrawal",
+    "qid": "Q3961638",
+    "icd_10": "F17",
+    "description": "process of withdrawing from nicotine addiction",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Nicotine_withdrawal",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "smoking cessation",
+                "qid": "Q2462253",
+                "url": "https://en.wikipedia.org/wiki/Smoking_cessation"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "withdrawal symptom",
+                "qid": "Q4420149",
+                "url": "https://en.wikipedia.org/wiki/Withdrawal_syndrome"
+            },
+            {
+                "name": "health effects of tobacco",
+                "qid": "Q465016",
+                "url": "https://en.wikipedia.org/wiki/Health_effects_of_tobacco"
+            },
+            {
+                "name": "drug withdrawal",
+                "qid": "Q498902",
+                "url": "https://en.wikipedia.org/wiki/Drug_withdrawal"
+            }
+        ]
+    }
+}

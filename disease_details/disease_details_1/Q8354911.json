@@ -1,0 +1,26 @@
+{
+    "name": "reactive depression",
+    "qid": "Q8354911",
+    "icd_10": "F43.21",
+    "description": null,
+    "aliases": [
+        "adjustment disorder with depressed mood",
+        "reactional depression"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "adjustment disorder",
+                "qid": "Q317158",
+                "url": "https://en.wikipedia.org/wiki/Adjustment_disorder"
+            },
+            {
+                "name": "BTS",
+                "qid": "Q13580495",
+                "url": "https://en.wikipedia.org/wiki/BTS"
+            }
+        ]
+    }
+}

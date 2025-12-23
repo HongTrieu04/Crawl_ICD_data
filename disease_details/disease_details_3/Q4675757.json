@@ -1,0 +1,29 @@
+{
+    "name": "acrodermatitis",
+    "qid": "Q4675757",
+    "icd_10": "L30.8",
+    "description": "dermatitis that selectively affects the hands and feet",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Acrodermatitis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "dermatitis",
+                "qid": "Q229256",
+                "url": "https://en.wikipedia.org/wiki/Dermatitis"
+            },
+            {
+                "name": "foot dermatoses",
+                "qid": "Q54920281"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ]
+    }
+}

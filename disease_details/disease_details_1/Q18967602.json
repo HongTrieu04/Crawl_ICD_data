@@ -1,0 +1,24 @@
+{
+    "name": "gonococcal peritonitis",
+    "qid": "Q18967602",
+    "icd_10": "K67.1",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete gonococcal peritonitis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "peritonitis",
+                "qid": "Q223102",
+                "url": "https://en.wikipedia.org/wiki/Peritonitis"
+            },
+            {
+                "name": "gonococcal infectious diseases",
+                "qid": "Q26695958"
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "name": "floater",
+    "qid": "Q142807",
+    "icd_10": "H43.9",
+    "description": "deposits of various size, shape, consistency, refractive index, and motility within the eye's vitreous humour, which is normally transparent",
+    "aliases": [
+        "floaters",
+        "eye floaters",
+        "floater (eye)",
+        "floater in the eye",
+        "floaters (eye)",
+        "floaters in the eye",
+        "mouches volantes",
+        "muscae volitantes"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Simulated%20floaters.jpg",
+    "url": "https://en.wikipedia.org/wiki/Floater",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "vitreous disease",
+                "qid": "Q18558199"
+            }
+        ]
+    }
+}

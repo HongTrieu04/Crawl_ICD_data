@@ -1,0 +1,67 @@
+{
+    "name": "Wolfram syndrome",
+    "qid": "Q1153641",
+    "icd_10": "E13.8",
+    "description": "rare disease in which a human simultaneously has diabetes insipidus, diabetes, optic nerve atrophy and deafness syndrome",
+    "aliases": [
+        "WFS",
+        "Arginine vasopressin deficiency- diabetes mellitus-optic atrophy-deafness syndrome",
+        "Arginine vasopressin deficiency- diabetes mellitus-optic atrophy-hearing loss syndrome",
+        "Diabetes insipidus-diabetes mellitus-optic atrophy-deafness syndrome",
+        "Diabetes insipidus-diabetes mellitus-optic atrophy-hearing loss syndrome",
+        "Diabetes Insipidus, Diabetes Mellitus, Optic Atrophy, and Deafness Syndrome",
+        "Diabetes mellitus AND insipidus with optic atrophy AND deafness",
+        "Diabetes mellitus AND insipidus with optic atrophy AND deafness (disorder)",
+        "DIDMOAD",
+        "DIDMOAD syndrome"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Photographic%20image%20of%20the%20patient%20right%20eye%20showing%20optic%20atrophy%20without%20diabetic%20retinopathy%20Wolfram%20syndrome.jpg",
+    "url": "https://en.wikipedia.org/wiki/Wolfram_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            },
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            },
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "syndrome",
+                "qid": "Q179630",
+                "url": "https://en.wikipedia.org/wiki/Syndrome"
+            },
+            {
+                "name": "endocrine system disease",
+                "qid": "Q2661443",
+                "url": "https://en.wikipedia.org/wiki/Endocrine_disease"
+            },
+            {
+                "name": "genetic disease",
+                "qid": "Q200779",
+                "url": "https://en.wikipedia.org/wiki/Genetic_disorder"
+            },
+            {
+                "name": "hereditary optic atrophy",
+                "qid": "Q54087187"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "mutation",
+                "qid": "Q610425",
+                "url": "https://en.wikipedia.org/wiki/Mutation_(evolutionary_algorithm)"
+            }
+        ]
+    }
+}

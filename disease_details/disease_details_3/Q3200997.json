@@ -1,0 +1,18 @@
+{
+    "name": "synovial cyst",
+    "qid": "Q3200997",
+    "icd_10": "M71.3",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Synovial_cyst",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "cyst",
+                "qid": "Q193211",
+                "url": "https://en.wikipedia.org/wiki/Cyst"
+            }
+        ]
+    }
+}

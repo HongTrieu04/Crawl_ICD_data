@@ -1,0 +1,27 @@
+{
+    "name": "drug overdose",
+    "qid": "Q3505252",
+    "icd_10": "T50.9",
+    "description": "ingestion or application of a drug or other substance in quantities greater than recommended amount",
+    "aliases": [
+        "overdose",
+        "OD"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/CharcoalPO.jpg",
+    "url": "https://en.wikipedia.org/wiki/Drug_overdose",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "poisoning",
+                "qid": "Q114953"
+            }
+        ]
+    }
+}

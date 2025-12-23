@@ -1,0 +1,29 @@
+{
+    "name": "limb infarction",
+    "qid": "Q6548942",
+    "icd_10": "I74.4",
+    "description": "area of tissue death of an arm or leg",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Limb_infarction",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "infarction",
+                "qid": "Q207550",
+                "url": "https://en.wikipedia.org/wiki/Infarction"
+            },
+            {
+                "name": "limb ischemia",
+                "qid": "Q18553514"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "vascular surgery",
+                "qid": "Q1498222",
+                "url": "https://en.wikipedia.org/wiki/Vascular_surgery"
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "name": "carotid sinus hypersensitivity",
+    "qid": "Q370998",
+    "icd_10": "I49.5",
+    "description": "a type of syncope whose cause is to be found in an excessive stimulation of carotid sinus",
+    "aliases": [
+        "carotid sinus syncope",
+        "carotid sinus syndrome"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "syncope",
+                "qid": "Q180007",
+                "url": "https://en.wikipedia.org/wiki/Syncope_(medicine)"
+            },
+            {
+                "name": "hyperreflexia",
+                "qid": "Q1429154",
+                "url": "https://en.wikipedia.org/wiki/Hyperreflexia"
+            }
+        ]
+    }
+}

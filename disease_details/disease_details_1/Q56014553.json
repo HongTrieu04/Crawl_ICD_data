@@ -1,0 +1,23 @@
+{
+    "name": "alcohol-related disorders",
+    "qid": "Q56014553",
+    "icd_10": "F10.9",
+    "description": "disorders related to or resulting from abuse or mis-use of alcohol",
+    "aliases": [
+        "Alcohol Related Disorders",
+        "Alcohol-Related Disorder",
+        "Disorder, Alcohol-Related",
+        "Disorders, Alcohol-Related"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "alcohol and health",
+                "qid": "Q11290178",
+                "url": "https://en.wikipedia.org/wiki/Health_effects_of_alcohol"
+            }
+        ]
+    }
+}

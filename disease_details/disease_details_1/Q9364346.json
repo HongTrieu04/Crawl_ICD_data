@@ -1,0 +1,34 @@
+{
+    "name": "swimmer's ear",
+    "qid": "Q9364346",
+    "icd_10": "H60.3",
+    "description": null,
+    "aliases": [
+        "acute bacterial inflammation of external ear",
+        "acute bacterial inflammation of external ear (disorder)",
+        "acute otitis externa, diffuse",
+        "acute swimmer's ear",
+        "acute swimmer's ear (disorder)",
+        "acute swimmers' ear",
+        "beach ear",
+        "Tank ear"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "otitis externa",
+                "qid": "Q680873",
+                "url": "https://en.wikipedia.org/wiki/Otitis_externa"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "name": "vitamin deficiency",
+    "qid": "Q194435",
+    "icd_10": "E56.9",
+    "description": "condition due to a deficiency of one or more essential vitamins",
+    "aliases": [
+        "Avitaminoses",
+        "Avitaminosis",
+        "Avitaminosis, NOS",
+        "Deficiencies, Vitamin",
+        "Deficiency, Vitamin",
+        "obsolete vitamin deficiency",
+        "Vitamin Deficiencies",
+        "Vitamin Deficiency",
+        "Vitamin Deficiency Disorder"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Vitamin_deficiency",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "nutrition disorder",
+                "qid": "Q1361144",
+                "url": "https://en.wikipedia.org/wiki/List_of_types_of_malnutrition"
+            },
+            {
+                "name": "nutritional deficiency disease",
+                "qid": "Q1890194"
+            },
+            {
+                "name": "disorder of vitamin and non-protein cofactor absorption and transport",
+                "qid": "Q55787334"
+            }
+        ]
+    }
+}

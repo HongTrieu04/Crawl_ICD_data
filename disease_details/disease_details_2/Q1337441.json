@@ -1,0 +1,24 @@
+{
+    "name": "Kostmann syndrome",
+    "qid": "Q1337441",
+    "icd_10": "D70",
+    "description": "group of diseases that affect myelopoiesis, causing a congenital form of neutropenia",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Severe_congenital_neutropenia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "severe congenital neutropenia",
+                "qid": "Q18553325"
+            }
+        ]
+    }
+}

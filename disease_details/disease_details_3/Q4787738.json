@@ -1,0 +1,25 @@
+{
+    "name": "arcuate uterus",
+    "qid": "Q4787738",
+    "icd_10": "Q51.9",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Arcuate_uterus",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gynaecology",
+                "qid": "Q1221899",
+                "url": "https://en.wikipedia.org/wiki/Gynaecology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "uterine malformation",
+                "qid": "Q2034363",
+                "url": "https://en.wikipedia.org/wiki/Uterine_malformation"
+            }
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "name": "stupor",
+    "qid": "Q268594",
+    "icd_10": "R40.1",
+    "description": "total or nearly total lack of spontaneous movements (disease)",
+    "aliases": [
+        "stuporous state"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Stupor",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "catatonia",
+                "qid": "Q501571",
+                "url": "https://en.wikipedia.org/wiki/Catatonia"
+            },
+            {
+                "name": "clinical sign",
+                "qid": "Q1441305",
+                "url": "https://en.wikipedia.org/wiki/Clinical_sign"
+            },
+            {
+                "name": "altered level of consciousness",
+                "qid": "Q4736316",
+                "url": "https://en.wikipedia.org/wiki/Altered_level_of_consciousness"
+            },
+            {
+                "name": "alteration of consciousness",
+                "qid": "Q102186875"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "mesocarb",
+                "qid": "Q905058",
+                "url": "https://en.wikipedia.org/wiki/Mesocarb"
+            }
+        ]
+    }
+}

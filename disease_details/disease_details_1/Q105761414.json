@@ -1,0 +1,23 @@
+{
+    "name": "Sutton's disease",
+    "qid": "Q105761414",
+    "icd_10": "K12.0",
+    "description": null,
+    "aliases": [
+        "major aphthous ulcer",
+        "Major recurrent aphthous stomatitis",
+        "recurrent aphthous stomatitis",
+        "Sutton’s periadenitis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "aphthous stomatitis",
+                "qid": "Q189956",
+                "url": "https://en.wikipedia.org/wiki/Aphthous_stomatitis"
+            }
+        ]
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "name": "Cronkhite-Canada syndrome",
+    "qid": "Q1422034",
+    "icd_10": "K63.8",
+    "description": "syndrome characterized by multiple polyps of the digestive tract",
+    "aliases": [
+        "Cronkhite-Canada disease",
+        "Cronkhite-Canada Syndrome",
+        "Cronkhite–Canada syndrome",
+        "gastric Cronkhite Canada polyposis",
+        "Gastrointestinal polyposis-ectodermal changes syndrome",
+        "Gastrointestinal polyposis-skin pigmentation-alopecia-fingernail changes syndrome",
+        "Polyposis skin pigmentation alopecia fingernail changes",
+        "polyposis, skin pigmentation, alopecia, and fingernail changes"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Cronkhite%E2%80%93Canada_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "stomach disease",
+                "qid": "Q175827",
+                "url": "https://en.wikipedia.org/wiki/Stomach_disease"
+            },
+            {
+                "name": "pigmentation disorder",
+                "qid": "Q7193408",
+                "url": "https://en.wikipedia.org/wiki/Pigmentation_disorder"
+            },
+            {
+                "name": "intestinal polyposis",
+                "qid": "Q131582551",
+                "url": "https://en.wikipedia.org/wiki/Intestinal_polyposis"
+            },
+            {
+                "name": "hamartoma of skin appendage",
+                "qid": "Q18975480"
+            },
+            {
+                "name": "gastric hamartomatous polyp",
+                "qid": "Q55780049"
+            },
+            {
+                "name": "inherited skin tumor",
+                "qid": "Q55785837"
+            },
+            {
+                "name": "inherited digestive tract tumor",
+                "qid": "Q55786847"
+            }
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Acute necrotizing otitis media",
+    "qid": "Q3887113",
+    "icd_10": "H67",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "Acute Otitis Media",
+                "qid": "Q864028"
+            }
+        ]
+    }
+}

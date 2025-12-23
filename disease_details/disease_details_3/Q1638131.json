@@ -1,0 +1,36 @@
+{
+    "name": "hyperesthesia",
+    "qid": "Q1638131",
+    "icd_10": "R20.3",
+    "description": "exaggerated sensations of tactile stimuli",
+    "aliases": [
+        "hyperaesthesia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hyperesthesia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "sensory processing differences",
+                "qid": "Q3540887",
+                "url": "https://en.wikipedia.org/wiki/Sensory_processing_disorder"
+            },
+            {
+                "name": "somatosensory disorder",
+                "qid": "Q1641015",
+                "url": "https://en.wikipedia.org/wiki/Somatosensory_disorder"
+            },
+            {
+                "name": "sensation perception",
+                "qid": "Q102186648"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name": "coronary artery dissection",
+    "qid": "Q3030635",
+    "icd_10": "I25.4",
+    "description": "uncommon cause of heart attacks mostly affecting younger, healthy women",
+    "aliases": [
+        "SCAD",
+        "spontaneous coronary artery dissection"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Spontaneous_coronary_artery_dissection",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "Arterial dissections",
+                "qid": "Q2660911",
+                "url": "https://en.wikipedia.org/wiki/Arterial_dissections"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ]
+    }
+}

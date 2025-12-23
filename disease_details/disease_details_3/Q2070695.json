@@ -1,0 +1,46 @@
+{
+    "name": "macrocytic anemia",
+    "qid": "Q2070695",
+    "icd_10": "D52.5",
+    "description": "Human disease",
+    "aliases": [
+        "ANEMIA MACROCYTIC",
+        "Macrocytic anaemia",
+        "Macrocytic anaemia of unspecified cause",
+        "Macrocytic Anemia",
+        "Macrocytic anemia (disorder)",
+        "Macrocytic anemia of unspecified cause (disorder)"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pelgeroid%20Neutrophil%20%28monolobate%29.jpg",
+    "url": "https://en.wikipedia.org/wiki/Macrocytic_anemia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "anemia",
+                "qid": "Q5445",
+                "url": "https://en.wikipedia.org/wiki/Anemia"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "folic acid",
+                "qid": "Q127060",
+                "url": "https://en.wikipedia.org/wiki/Folate"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "macrocytosis",
+                "qid": "Q1886493",
+                "url": "https://en.wikipedia.org/wiki/Macrocytosis"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            }
+        ]
+    }
+}

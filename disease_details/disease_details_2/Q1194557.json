@@ -1,0 +1,46 @@
+{
+    "name": "laryngitis",
+    "qid": "Q1194557",
+    "icd_10": "J37.0",
+    "description": "inflammation of the larynx",
+    "aliases": [
+        "laryngeal inflammation",
+        "larynx inflammation",
+        "larynxitis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Laryngitis%20gastrica.jpg",
+    "url": "https://en.wikipedia.org/wiki/Laryngitis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "inflammatory disease",
+                "qid": "Q3508753"
+            },
+            {
+                "name": "laryngeal disease",
+                "qid": "Q18557753"
+            },
+            {
+                "name": "throat symptom",
+                "qid": "Q102186813"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "otolaryngology",
+                "qid": "Q189553",
+                "url": "https://en.wikipedia.org/wiki/Otorhinolaryngology"
+            },
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ]
+    }
+}

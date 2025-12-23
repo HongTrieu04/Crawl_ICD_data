@@ -1,0 +1,18 @@
+{
+    "name": "Anticonvulsant hypersensitivity syndrome",
+    "qid": "Q4774650",
+    "icd_10": "Y46",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Anticonvulsant_hypersensitivity_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "drug reaction with eosinophilia and systemic symptoms",
+                "qid": "Q3931183",
+                "url": "https://en.wikipedia.org/wiki/Drug_rash_with_eosinophilia_and_systemic_symptoms"
+            }
+        ]
+    }
+}

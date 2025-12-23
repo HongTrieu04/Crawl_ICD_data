@@ -1,0 +1,38 @@
+{
+    "name": "multiple organ dysfunction syndrome",
+    "qid": "Q1193870",
+    "icd_10": "R65.3",
+    "description": "altered organ function in an acutely ill patient requiring medical intervention to achieve homeostasis.",
+    "aliases": [
+        "MODS",
+        "MOF",
+        "MOF ; multiple organ failure",
+        "MSOF",
+        "multi system organ failure",
+        "multi-system organ failure",
+        "multiple organ failure",
+        "multisystem organ failure"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Multiple_organ_dysfunction_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "intensive care medicine",
+                "qid": "Q679690",
+                "url": "https://en.wikipedia.org/wiki/Intensive_care_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "organ dysfunction",
+                "qid": "Q1649580",
+                "url": "https://en.wikipedia.org/wiki/Organ_dysfunction"
+            },
+            {
+                "name": "general symptom",
+                "qid": "Q31836626"
+            }
+        ]
+    }
+}

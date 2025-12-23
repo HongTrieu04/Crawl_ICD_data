@@ -1,0 +1,38 @@
+{
+    "name": "amoebic liver abscess",
+    "qid": "Q2820891",
+    "icd_10": "A06.4",
+    "description": "infectious disease",
+    "aliases": [
+        "amebic liver abscess",
+        "Liver Abscess, Amebic"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Amoebic_liver_abscess",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "intestinal infectious disease",
+                "qid": "Q2970970",
+                "url": "https://en.wikipedia.org/wiki/Intestinal_infectious_diseases"
+            },
+            {
+                "name": "amebiasis",
+                "qid": "Q949694",
+                "url": "https://en.wikipedia.org/wiki/Amoebiasis"
+            },
+            {
+                "name": "liver abscess",
+                "qid": "Q1811092",
+                "url": "https://en.wikipedia.org/wiki/Liver_abscess"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "name": "keratolytic winter erythema",
+    "qid": "Q1976193",
+    "icd_10": "L53.8",
+    "description": "medical condition",
+    "aliases": [
+        "KWE",
+        "Erythrokeratolysis hiemalis",
+        "Erythrokeratolysis hiemalis ichthyosis",
+        "KERATOLYTIC WINTER ERYTHEMA",
+        "KERATOLYTIC WINTER ERYTHEMA; KWE",
+        "Oudtshoorn disease",
+        "Oudtshoorn skin",
+        "Oudtshoorn Skin Disease"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Keratolytic_winter_erythema",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "erythema",
+                "qid": "Q1166142",
+                "url": "https://en.wikipedia.org/wiki/Erythema"
+            },
+            {
+                "name": "keratosis",
+                "qid": "Q3667186",
+                "url": "https://en.wikipedia.org/wiki/Keratosis"
+            },
+            {
+                "name": "other epidermal disorder",
+                "qid": "Q55788580"
+            },
+            {
+                "name": "other genetic epidermal disease",
+                "qid": "Q55788581"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "name": "systemic inflammatory response syndrome",
+    "qid": "Q776030",
+    "icd_10": "R65",
+    "description": "human disease",
+    "aliases": [
+        "SIRS",
+        "obsolete systemic inflammatory response syndrome",
+        "systemic inflammatory response syndrome (SIRS) NOS",
+        "systemic inflammatory response syndrome, unspecified"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Systemic_inflammatory_response_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "systemic inflammation",
+                "qid": "Q7663815",
+                "url": "https://en.wikipedia.org/wiki/Systemic_inflammation"
+            },
+            {
+                "name": "cytokine release syndrome",
+                "qid": "Q3961647",
+                "url": "https://en.wikipedia.org/wiki/Cytokine_release_syndrome"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "anaesthesia",
+                "qid": "Q131130",
+                "url": "https://en.wikipedia.org/wiki/Anesthesia"
+            }
+        ]
+    }
+}

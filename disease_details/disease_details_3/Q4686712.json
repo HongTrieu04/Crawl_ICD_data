@@ -1,0 +1,18 @@
+{
+    "name": "Adverse effects of fluoroquinolones",
+    "qid": "Q4686712",
+    "icd_10": "Y40.8",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Adverse_effects_of_fluoroquinolones",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "adverse drug reaction",
+                "qid": "Q45959",
+                "url": "https://en.wikipedia.org/wiki/Adverse_drug_reaction"
+            }
+        ]
+    }
+}

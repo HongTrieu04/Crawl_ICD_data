@@ -1,0 +1,27 @@
+{
+    "name": "freckle",
+    "qid": "Q187882",
+    "icd_10": "L81.2",
+    "description": "clusters of concentrated melanin",
+    "aliases": [
+        "fleckles",
+        "pjege"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vesnuschki.jpg",
+    "url": "https://en.wikipedia.org/wiki/Freckle",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "hyperpigmentation of the skin",
+                "qid": "Q55788594"
+            }
+        ]
+    }
+}

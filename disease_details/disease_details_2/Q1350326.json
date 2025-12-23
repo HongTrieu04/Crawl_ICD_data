@@ -1,0 +1,29 @@
+{
+    "name": "frostbite",
+    "qid": "Q1350326",
+    "icd_10": "T35",
+    "description": "effect of low temperature on skin and other tissues",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Frost%20bite.jpg",
+    "url": "https://en.wikipedia.org/wiki/Frostbite",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "clinical sign",
+                "qid": "Q1441305",
+                "url": "https://en.wikipedia.org/wiki/Clinical_sign"
+            },
+            {
+                "name": "cold injury",
+                "qid": "Q4499376"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ]
+    }
+}

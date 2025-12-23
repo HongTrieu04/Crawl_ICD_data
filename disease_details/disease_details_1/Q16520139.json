@@ -1,0 +1,18 @@
+{
+    "name": "congenital malformations of ovary",
+    "qid": "Q16520139",
+    "icd_10": "Q50.3",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "ovarian disease",
+                "qid": "Q7113244",
+                "url": "https://en.wikipedia.org/wiki/Ovarian_disease"
+            }
+        ]
+    }
+}

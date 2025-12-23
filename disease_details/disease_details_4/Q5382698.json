@@ -1,0 +1,32 @@
+{
+    "name": "Epidemic dropsy",
+    "qid": "Q5382698",
+    "icd_10": "T62.8",
+    "description": "medical condition",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Argemone%20mexicana%20flower%202.jpg",
+    "url": "https://en.wikipedia.org/wiki/Epidemic_dropsy",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "foodborne illness",
+                "qid": "Q272002",
+                "url": "https://en.wikipedia.org/wiki/Foodborne_illness"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Argemone mexicana",
+                "qid": "Q683404",
+                "url": "https://en.wikipedia.org/wiki/Argemone_mexicana"
+            }
+        ]
+    }
+}

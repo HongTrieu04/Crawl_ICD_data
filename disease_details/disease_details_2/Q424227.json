@@ -1,0 +1,88 @@
+{
+    "name": "bronchiolitis",
+    "qid": "Q424227",
+    "icd_10": "J21",
+    "description": "blockage of the small airways in the lungs due to a viral infection",
+    "aliases": [
+        "Wheezy Bronchitis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bronchiolitis%20chest%20X-ray.jpg",
+    "url": "https://en.wikipedia.org/wiki/Bronchiolitis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "bronchospasm",
+                "qid": "Q279330",
+                "url": "https://en.wikipedia.org/wiki/Bronchospasm"
+            },
+            {
+                "name": "lung disease",
+                "qid": "Q3392853"
+            },
+            {
+                "name": "respiratory syncytial virus infectious disease",
+                "qid": "Q18554367"
+            },
+            {
+                "name": "respiratory signs and symptoms",
+                "qid": "Q42183538"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "pediatrics",
+                "qid": "Q123028",
+                "url": "https://en.wikipedia.org/wiki/Pediatrics"
+            },
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            },
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            },
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "respiratory syncytial virus",
+                "qid": "Q1052913",
+                "url": "https://en.wikipedia.org/wiki/Respiratory_syncytial_virus"
+            },
+            {
+                "name": "acute viral respiratory tract infection",
+                "qid": "Q55790495"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "bronchus",
+                "qid": "Q181602",
+                "url": "https://en.wikipedia.org/wiki/Bronchus"
+            },
+            {
+                "name": "bronchiole",
+                "qid": "Q502704",
+                "url": "https://en.wikipedia.org/wiki/Bronchiole"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "home oxygen therapy",
+                "qid": "Q87979304"
+            }
+        ]
+    }
+}

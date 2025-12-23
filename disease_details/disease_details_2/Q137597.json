@@ -1,0 +1,93 @@
+{
+    "name": "ancylostoma duodenale ancylostomiasis",
+    "qid": "Q137597",
+    "icd_10": "B76.0",
+    "description": "disease of humans and animals caused by parasitic worms known as ankylostoids",
+    "aliases": [
+        "Ancylostomiasis due to Ancylostoma duodenale",
+        "Ancylostomiasis due to Ancylostoma Duodenale",
+        "Ancylostomiasis due to Ancylostoma duodenale (disorder)",
+        "obsolete Ancylostoma duodenale ancylostomiasis",
+        "uncinariasis",
+        "uncinariosis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hookworm%20larvaG.jpg",
+    "url": null,
+    "details": {
+        "Drug used for treatment": [
+            {
+                "name": "albendazol",
+                "qid": "Q411629",
+                "url": "https://en.wikipedia.org/wiki/Albendazole"
+            },
+            {
+                "name": "mebendazole",
+                "qid": "Q422194",
+                "url": "https://en.wikipedia.org/wiki/Mebendazole"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            },
+            {
+                "name": "parasitology",
+                "qid": "Q180502",
+                "url": "https://en.wikipedia.org/wiki/Parasitology"
+            },
+            {
+                "name": "tropical medicine",
+                "qid": "Q1365243",
+                "url": "https://en.wikipedia.org/wiki/Tropical_medicine"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "fatigue",
+                "qid": "Q9690",
+                "url": "https://en.wikipedia.org/wiki/Fatigue"
+            },
+            {
+                "name": "abdominal pain",
+                "qid": "Q183425",
+                "url": "https://en.wikipedia.org/wiki/Abdominal_pain"
+            },
+            {
+                "name": "hypochromic anemia",
+                "qid": "Q2306782",
+                "url": "https://en.wikipedia.org/wiki/Hypochromic_anemia"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "neglected tropical disease",
+                "qid": "Q929451",
+                "url": "https://en.wikipedia.org/wiki/Neglected_tropical_diseases"
+            },
+            {
+                "name": "anthroponotic disease",
+                "qid": "Q1049711",
+                "url": "https://en.wikipedia.org/wiki/Reverse_zoonosis"
+            },
+            {
+                "name": "nematode infection",
+                "qid": "Q2072680",
+                "url": "https://en.wikipedia.org/wiki/Nematode_infection"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Necator americanus",
+                "qid": "Q2433913",
+                "url": "https://en.wikipedia.org/wiki/Necator_americanus"
+            },
+            {
+                "name": "Ancylostoma duodenale",
+                "qid": "Q2520810",
+                "url": "https://en.wikipedia.org/wiki/Ancylostoma_duodenale"
+            }
+        ]
+    }
+}

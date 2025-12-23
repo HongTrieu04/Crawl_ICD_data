@@ -1,0 +1,29 @@
+{
+    "name": "esophageal stricture",
+    "qid": "Q5398646",
+    "icd_10": "K22.2",
+    "description": "stricture of the esophagus",
+    "aliases": [
+        "benign esophageal stricture",
+        "esophageal stenosis",
+        "peptic stricture"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peptic%20stricture.png",
+    "url": "https://en.wikipedia.org/wiki/Esophageal_stricture",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "esophageal disease",
+                "qid": "Q2912193",
+                "url": "https://en.wikipedia.org/wiki/Esophageal_disease"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "biological warfare",
+    "qid": "Q8242560",
+    "icd_10": "Y36.6",
+    "description": "use of biological toxins or infectious agents with the intent to kill as an act of war",
+    "aliases": [
+        "BW",
+        "germ warfare",
+        "bacterial warfare",
+        "bacteriological warfare",
+        "biowarfare",
+        "disease warfare"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Anthrax%20culture.jpg",
+    "url": "https://en.wikipedia.org/wiki/Biological_warfare",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "warfare",
+                "qid": "Q12786121",
+                "url": "https://en.wikipedia.org/wiki/Warfare"
+            }
+        ]
+    }
+}

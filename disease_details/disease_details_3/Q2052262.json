@@ -1,0 +1,20 @@
+{
+    "name": "parry fracture",
+    "qid": "Q2052262",
+    "icd_10": "S52.2",
+    "description": "fracture of shaft of ulna caused by someone being hit on the inside of the forearm",
+    "aliases": [
+        "nightstick fracture"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "ulna fracture",
+                "qid": "Q47524797",
+                "url": "https://en.wikipedia.org/wiki/Ulna_fracture"
+            }
+        ]
+    }
+}

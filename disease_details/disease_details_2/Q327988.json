@@ -1,0 +1,55 @@
+{
+    "name": "occupational burnout",
+    "qid": "Q327988",
+    "icd_10": "Z73.0",
+    "description": "type of work-related stress, with symptoms characterized by feelings of energy depletion or exhaustion; increased mental distance from one’s job, or feelings of negativism or cynicism related to one's job; and reduced professional efficacy",
+    "aliases": [
+        "burnout",
+        "worn out",
+        "burn out",
+        "burned out",
+        "burnt out",
+        "burn-out",
+        "occupational burn-out",
+        "professional burnout"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Lefeuvre%20-%20Apres%20le%20travail.jpg",
+    "url": "https://en.wikipedia.org/wiki/Occupational_burnout",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "fatigue",
+                "qid": "Q9690",
+                "url": "https://en.wikipedia.org/wiki/Fatigue"
+            },
+            {
+                "name": "psychosocial hazard",
+                "qid": "Q20899861",
+                "url": "https://en.wikipedia.org/wiki/Psychosocial_hazard"
+            },
+            {
+                "name": "health risk",
+                "qid": "Q87075524"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "psychology",
+                "qid": "Q9418",
+                "url": "https://en.wikipedia.org/wiki/Psychology"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "psychotherapy",
+                "qid": "Q183257",
+                "url": "https://en.wikipedia.org/wiki/Psychotherapy"
+            },
+            {
+                "name": "gratitude journal",
+                "qid": "Q5597707",
+                "url": "https://en.wikipedia.org/wiki/Gratitude_journal"
+            }
+        ]
+    }
+}

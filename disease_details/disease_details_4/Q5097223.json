@@ -1,0 +1,25 @@
+{
+    "name": "Chignon",
+    "qid": "Q5097223",
+    "icd_10": "P12.1",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Chignon_(medical_term)",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "pediatrics",
+                "qid": "Q123028",
+                "url": "https://en.wikipedia.org/wiki/Pediatrics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "physical birth injuries",
+                "qid": "Q1235888",
+                "url": "https://en.wikipedia.org/wiki/Birth_trauma_(physical)"
+            }
+        ]
+    }
+}

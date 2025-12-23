@@ -1,0 +1,25 @@
+{
+    "name": "Bare lymphocyte syndrome",
+    "qid": "Q3508735",
+    "icd_10": "D81.6",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Bare_lymphocyte_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "severe combined immunodeficiency",
+                "qid": "Q1334408",
+                "url": "https://en.wikipedia.org/wiki/Severe_combined_immunodeficiency"
+            }
+        ]
+    }
+}

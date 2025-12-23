@@ -1,0 +1,39 @@
+{
+    "name": "enanthem",
+    "qid": "Q599982",
+    "icd_10": "B09",
+    "description": "rash on the mucous membranes",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Enanthem",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            },
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "skin disease",
+                "qid": "Q949302",
+                "url": "https://en.wikipedia.org/wiki/Skin_condition"
+            },
+            {
+                "name": "rash",
+                "qid": "Q653197",
+                "url": "https://en.wikipedia.org/wiki/Rash"
+            },
+            {
+                "name": "skin and integumentary tissue symptom",
+                "qid": "Q100751718"
+            }
+        ]
+    }
+}

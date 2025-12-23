@@ -1,0 +1,117 @@
+{
+    "name": "endemic typhus",
+    "qid": "Q3084532",
+    "icd_10": "A75.2",
+    "description": "typhus transmitted by fleas (Xenopsylla cheopis), usually on rats",
+    "aliases": [
+        "endemic flea-borne typhus",
+        "Shop typhus",
+        "cat flea rickettsiosis",
+        "fleaborne typhus",
+        "murine typhus",
+        "Rat-Flea Typhus",
+        "Rickettsia felis spotted fever",
+        "toulon typhus",
+        "Typhus, Endemic Flea-Borne",
+        "urban typhus",
+        "Urban Typhus of Malaya"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Murine_typhus",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            },
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "vomiting",
+                "qid": "Q127076",
+                "url": "https://en.wikipedia.org/wiki/Vomiting"
+            },
+            {
+                "name": "nausea",
+                "qid": "Q186889",
+                "url": "https://en.wikipedia.org/wiki/Nausea"
+            },
+            {
+                "name": "petechia",
+                "qid": "Q1412657",
+                "url": "https://en.wikipedia.org/wiki/Petechia"
+            },
+            {
+                "name": "macula",
+                "qid": "Q1515219",
+                "url": "https://en.wikipedia.org/wiki/Macule"
+            },
+            {
+                "name": "chills",
+                "qid": "Q2260058",
+                "url": "https://en.wikipedia.org/wiki/Chills"
+            },
+            {
+                "name": "rash",
+                "qid": "Q653197",
+                "url": "https://en.wikipedia.org/wiki/Rash"
+            },
+            {
+                "name": "hepatomegaly",
+                "qid": "Q1362864",
+                "url": "https://en.wikipedia.org/wiki/Hepatomegaly"
+            },
+            {
+                "name": "poisoning",
+                "qid": "Q114953"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "typhus",
+                "qid": "Q160649",
+                "url": "https://en.wikipedia.org/wiki/Typhus"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "ciprofloxacin",
+                "qid": "Q256602",
+                "url": "https://en.wikipedia.org/wiki/Ciprofloxacin"
+            },
+            {
+                "name": "chloramphenicol",
+                "qid": "Q274515",
+                "url": "https://en.wikipedia.org/wiki/Chloramphenicol"
+            },
+            {
+                "name": "doxycycline",
+                "qid": "Q422442",
+                "url": "https://en.wikipedia.org/wiki/Doxycycline"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Rickettsia typhi",
+                "qid": "Q3010410",
+                "url": "https://en.wikipedia.org/wiki/Rickettsia_typhi"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

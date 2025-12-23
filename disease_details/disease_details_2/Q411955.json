@@ -1,0 +1,26 @@
+{
+    "name": "polydimethylsiloxane",
+    "qid": "Q411955",
+    "icd_10": "R13",
+    "description": "chemical compound, a linear polymer of dimethylsiloxane",
+    "aliases": [
+        "PDMS",
+        "dimethicone"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/PDMS-cylindertje%20onder%20stereomicroscoop.jpg",
+    "url": "https://en.wikipedia.org/wiki/Polydimethylsiloxane",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "silicone",
+                "qid": "Q146439",
+                "url": "https://en.wikipedia.org/wiki/Silicone"
+            },
+            {
+                "name": "inorganic polymer",
+                "qid": "Q2468248",
+                "url": "https://en.wikipedia.org/wiki/Inorganic_polymer"
+            }
+        ]
+    }
+}

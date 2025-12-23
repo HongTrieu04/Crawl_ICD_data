@@ -1,0 +1,25 @@
+{
+    "name": "Ostium primum atrial septal defect",
+    "qid": "Q7107685",
+    "icd_10": "Q21.2",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Ostium_primum_atrial_septal_defect",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "atrial heart septal defect",
+                "qid": "Q757749",
+                "url": "https://en.wikipedia.org/wiki/Atrial_septal_defect"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

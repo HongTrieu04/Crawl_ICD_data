@@ -1,0 +1,27 @@
+{
+    "name": "Varicella-zoster virus pneumonia",
+    "qid": "Q19001286",
+    "icd_10": "B01.2",
+    "description": "Human disease",
+    "aliases": [
+        "Hemorrhagic varicella pneumonitis",
+        "obsolete Varicella-zoster virus pneumonia",
+        "Varicella pneumonitis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "viral pneumonia",
+                "qid": "Q2603200",
+                "url": "https://en.wikipedia.org/wiki/Viral_pneumonia"
+            },
+            {
+                "name": "chickenpox",
+                "qid": "Q44727",
+                "url": "https://en.wikipedia.org/wiki/Chickenpox"
+            }
+        ]
+    }
+}

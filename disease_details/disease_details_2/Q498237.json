@@ -1,0 +1,201 @@
+{
+    "name": "schizoid personality disorder",
+    "qid": "Q498237",
+    "icd_10": "F60.1",
+    "description": "personality disorder causing emotional detachment and social isolation",
+    "aliases": [
+        "SPD",
+        "SzPD"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Word%20Cloud%20SzPD.png",
+    "url": "https://en.wikipedia.org/wiki/Schizoid_personality_disorder",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "personality disorder",
+                "qid": "Q270673",
+                "url": "https://en.wikipedia.org/wiki/Personality_disorder"
+            },
+            {
+                "name": "schizophrenia spectrum disorder",
+                "qid": "Q2903417",
+                "url": "https://en.wikipedia.org/wiki/Schizophrenia_spectrum"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "psychotherapy",
+                "qid": "Q183257",
+                "url": "https://en.wikipedia.org/wiki/Psychotherapy"
+            },
+            {
+                "name": "antipsychotics",
+                "qid": "Q208144",
+                "url": "https://en.wikipedia.org/wiki/Antipsychotic"
+            },
+            {
+                "name": "selective serotonin reuptake inhibitor",
+                "qid": "Q334477",
+                "url": "https://en.wikipedia.org/wiki/Selective_serotonin_reuptake_inhibitor"
+            },
+            {
+                "name": "antidepressant",
+                "qid": "Q76560",
+                "url": "https://en.wikipedia.org/wiki/Antidepressant"
+            },
+            {
+                "name": "benzodiazepine drug",
+                "qid": "Q83871",
+                "url": "https://en.wikipedia.org/wiki/Benzodiazepine"
+            },
+            {
+                "name": "anxiolytic",
+                "qid": "Q62903",
+                "url": "https://en.wikipedia.org/wiki/Anxiolytic"
+            },
+            {
+                "name": "modafinil",
+                "qid": "Q410441",
+                "url": "https://en.wikipedia.org/wiki/Modafinil"
+            },
+            {
+                "name": "bupropion",
+                "qid": "Q834280",
+                "url": "https://en.wikipedia.org/wiki/Bupropion"
+            },
+            {
+                "name": "cognitive behavioral therapy",
+                "qid": "Q1147152",
+                "url": "https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy"
+            },
+            {
+                "name": "psychodynamic psychotherapy",
+                "qid": "Q2279219",
+                "url": "https://en.wikipedia.org/wiki/Psychodynamic_psychotherapy"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "clinical psychology",
+                "qid": "Q199906",
+                "url": "https://en.wikipedia.org/wiki/Clinical_psychology"
+            },
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "genetics",
+                "qid": "Q7162",
+                "url": "https://en.wikipedia.org/wiki/Genetics"
+            },
+            {
+                "name": "child neglect",
+                "qid": "Q559562",
+                "url": "https://en.wikipedia.org/wiki/Child_neglect"
+            },
+            {
+                "name": "preterm birth",
+                "qid": "Q625506",
+                "url": "https://en.wikipedia.org/wiki/Preterm_birth"
+            },
+            {
+                "name": "childhood trauma",
+                "qid": "Q55607365",
+                "url": "https://en.wikipedia.org/wiki/Childhood_trauma"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "antipsychotics",
+                "qid": "Q208144",
+                "url": "https://en.wikipedia.org/wiki/Antipsychotic"
+            },
+            {
+                "name": "selective serotonin reuptake inhibitor",
+                "qid": "Q334477",
+                "url": "https://en.wikipedia.org/wiki/Selective_serotonin_reuptake_inhibitor"
+            },
+            {
+                "name": "antidepressant",
+                "qid": "Q76560",
+                "url": "https://en.wikipedia.org/wiki/Antidepressant"
+            },
+            {
+                "name": "benzodiazepine drug",
+                "qid": "Q83871",
+                "url": "https://en.wikipedia.org/wiki/Benzodiazepine"
+            },
+            {
+                "name": "anxiolytic",
+                "qid": "Q62903",
+                "url": "https://en.wikipedia.org/wiki/Anxiolytic"
+            },
+            {
+                "name": "modafinil",
+                "qid": "Q410441",
+                "url": "https://en.wikipedia.org/wiki/Modafinil"
+            },
+            {
+                "name": "bupropion",
+                "qid": "Q834280",
+                "url": "https://en.wikipedia.org/wiki/Bupropion"
+            },
+            {
+                "name": "biofeedback",
+                "qid": "Q864329",
+                "url": "https://en.wikipedia.org/wiki/Biofeedback"
+            },
+            {
+                "name": "cognitive behavioral therapy",
+                "qid": "Q1147152",
+                "url": "https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy"
+            },
+            {
+                "name": "psychodynamic psychotherapy",
+                "qid": "Q2279219",
+                "url": "https://en.wikipedia.org/wiki/Psychodynamic_psychotherapy"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "depersonalization",
+                "qid": "Q83177",
+                "url": "https://en.wikipedia.org/wiki/Depersonalization"
+            },
+            {
+                "name": "anhedonia",
+                "qid": "Q545365",
+                "url": "https://en.wikipedia.org/wiki/Anhedonia"
+            },
+            {
+                "name": "derealization",
+                "qid": "Q1199997",
+                "url": "https://en.wikipedia.org/wiki/Derealization"
+            },
+            {
+                "name": "social isolation",
+                "qid": "Q1778765",
+                "url": "https://en.wikipedia.org/wiki/Social_isolation"
+            },
+            {
+                "name": "reduced affect display",
+                "qid": "Q2973381",
+                "url": "https://en.wikipedia.org/wiki/Reduced_affect_display"
+            },
+            {
+                "name": "Maladaptive daydreaming",
+                "qid": "Q8776355",
+                "url": "https://en.wikipedia.org/wiki/Maladaptive_daydreaming"
+            }
+        ]
+    }
+}

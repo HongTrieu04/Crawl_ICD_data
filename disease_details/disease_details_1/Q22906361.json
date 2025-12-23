@@ -1,0 +1,23 @@
+{
+    "name": "anabolic-androgenic steroids abuse",
+    "qid": "Q22906361",
+    "icd_10": "F55.5",
+    "description": null,
+    "aliases": [
+        "abuse of steroids"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Anabolic-androgenic_steroids_abuse",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "abuse of medicaments",
+                "qid": "Q2258219"
+            },
+            {
+                "name": "steroid adverse effect",
+                "qid": "Q30277163"
+            }
+        ]
+    }
+}

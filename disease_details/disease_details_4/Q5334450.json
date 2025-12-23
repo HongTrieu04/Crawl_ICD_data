@@ -1,0 +1,24 @@
+{
+    "name": "Eczema vaccinatum",
+    "qid": "Q5334450",
+    "icd_10": "Y59.1",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Eczema_vaccinatum",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "infection",
+                "qid": "Q166231",
+                "url": "https://en.wikipedia.org/wiki/Infection"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "vaccinia",
+                "qid": "Q27675547"
+            }
+        ]
+    }
+}

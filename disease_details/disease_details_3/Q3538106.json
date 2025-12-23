@@ -1,0 +1,36 @@
+{
+    "name": "cervical fracture",
+    "qid": "Q3538106",
+    "icd_10": "S12",
+    "description": "catastrophic fracture of any of the seven cervical vertebrae in the neck",
+    "aliases": [
+        "broken neck"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Cervical_fracture",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "cervical spine disorder",
+                "qid": "Q5065358",
+                "url": "https://en.wikipedia.org/wiki/Cervical_spine_disorder"
+            },
+            {
+                "name": "spinal fracture",
+                "qid": "Q7577460",
+                "url": "https://en.wikipedia.org/wiki/Spinal_fracture"
+            },
+            {
+                "name": "neck injury",
+                "qid": "Q6152017"
+            }
+        ]
+    }
+}

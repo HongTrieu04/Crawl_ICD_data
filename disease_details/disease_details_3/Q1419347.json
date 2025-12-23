@@ -1,0 +1,35 @@
+{
+    "name": "puerperal infection",
+    "qid": "Q1419347",
+    "icd_10": "O85",
+    "description": "human disease",
+    "aliases": [
+        "childbed fever",
+        "febris puerperalis",
+        "Postpartum infections",
+        "puerperal fever",
+        "Puerperal pyrexia of unknown origin"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Streptococcus%20pyogenes.jpg",
+    "url": "https://en.wikipedia.org/wiki/Postpartum_infections",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "obstetrics",
+                "qid": "Q5284418",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "puerperal disorders",
+                "qid": "Q7258523",
+                "url": "https://en.wikipedia.org/wiki/Postpartum_disorder"
+            },
+            {
+                "name": "reproductive tract infection",
+                "qid": "Q54931661"
+            }
+        ]
+    }
+}

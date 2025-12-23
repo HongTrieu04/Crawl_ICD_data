@@ -1,0 +1,25 @@
+{
+    "name": "leukonychia",
+    "qid": "Q2549292",
+    "icd_10": "Q84.4",
+    "description": "white discoloration appearing on fingernails",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Leukonychia.jpg",
+    "url": "https://en.wikipedia.org/wiki/Leukonychia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "nail disease",
+                "qid": "Q2084035",
+                "url": "https://en.wikipedia.org/wiki/Nail_disease"
+            }
+        ]
+    }
+}

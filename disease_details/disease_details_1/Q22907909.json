@@ -1,0 +1,38 @@
+{
+    "name": "premature atrioventricular junctional contraction",
+    "qid": "Q22907909",
+    "icd_10": "I49.2",
+    "description": "premature heartbeat",
+    "aliases": [
+        "PJC",
+        "junctional premature depolarization",
+        "premature junctional beat",
+        "premature junctional complex",
+        "premature junctional contraction"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Premature_junctional_contraction",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "atrioventricular node",
+                "qid": "Q509053",
+                "url": "https://en.wikipedia.org/wiki/Atrioventricular_node"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "supraventricular extrasystole",
+                "qid": "Q7644763",
+                "url": "https://en.wikipedia.org/wiki/Supraventricular_extrasystole"
+            }
+        ]
+    }
+}

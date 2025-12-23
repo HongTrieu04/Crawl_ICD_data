@@ -1,0 +1,18 @@
+{
+    "name": "therapy-related myelodysplastic syndrome",
+    "qid": "Q104214530",
+    "icd_10": "D46.9",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "myelodysplastic syndrome",
+                "qid": "Q954625",
+                "url": "https://en.wikipedia.org/wiki/Myelodysplastic_syndrome"
+            }
+        ]
+    }
+}

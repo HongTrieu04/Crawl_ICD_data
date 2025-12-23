@@ -1,0 +1,29 @@
+{
+    "name": "proximal humerus fracture",
+    "qid": "Q60740499",
+    "icd_10": "S42.2",
+    "description": "break of the part of the bone of the upper arm that is closer to the shoulder joint",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Proximal_humerus_fracture",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "orthopedics",
+                "qid": "Q216685",
+                "url": "https://en.wikipedia.org/wiki/Orthopedic_surgery"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "humerus fracture",
+                "qid": "Q5940721",
+                "url": "https://en.wikipedia.org/wiki/Humerus_fracture"
+            },
+            {
+                "name": "shoulder fracture",
+                "qid": "Q56301149"
+            }
+        ]
+    }
+}

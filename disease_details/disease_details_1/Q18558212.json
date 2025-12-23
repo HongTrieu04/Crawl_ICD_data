@@ -1,0 +1,27 @@
+{
+    "name": "internal hemorrhoid",
+    "qid": "Q18558212",
+    "icd_10": "I84.2",
+    "description": "Human disease",
+    "aliases": [
+        "Internal Hemorrhoid"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "hemorrhoid",
+                "qid": "Q41478",
+                "url": "https://en.wikipedia.org/wiki/Hemorrhoid"
+            }
+        ]
+    }
+}

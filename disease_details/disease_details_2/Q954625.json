@@ -1,0 +1,141 @@
+{
+    "name": "myelodysplastic syndrome",
+    "qid": "Q954625",
+    "icd_10": "D46",
+    "description": "diverse collection of blood-related medical conditions with ineffective production of the myeloid class of blood cells",
+    "aliases": [
+        "MDS",
+        "preleukemia",
+        "Dysmyelopoietic Syndrome",
+        "Hematopoeitic - Myelodysplastic Syndrome (MDS)",
+        "Myelodysplasia",
+        "Myelodysplastic Neoplasm",
+        "MYELODYSPLASTIC SYNDROME",
+        "Myelodysplastic syndrome, NOS",
+        "Myelodysplastic Syndrome, Susceptibility to",
+        "MYELODYSPLASTIC SYNDROME; MDS",
+        "Myelodysplastic Syndrome/Neoplasm",
+        "myelodysplastic syndromes",
+        "Oligoblastic Leukemia",
+        "smoldering leukemia"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hypogranular%20neutrophil%20with%20a%20pseudo-Pelger-Huet%20nucleus%20in%20MDS.jpg",
+    "url": "https://en.wikipedia.org/wiki/Myelodysplastic_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "myeloproliferative disorders",
+                "qid": "Q1898104",
+                "url": "https://en.wikipedia.org/wiki/Myeloproliferative_neoplasm"
+            },
+            {
+                "name": "neoplastic syndrome",
+                "qid": "Q55789476"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "venetoclax",
+                "qid": "Q23671272",
+                "url": "https://en.wikipedia.org/wiki/Venetoclax"
+            },
+            {
+                "name": "eltrombopag",
+                "qid": "Q411588",
+                "url": "https://en.wikipedia.org/wiki/Eltrombopag"
+            },
+            {
+                "name": "azacitidine",
+                "qid": "Q416451",
+                "url": "https://en.wikipedia.org/wiki/Azacitidine"
+            },
+            {
+                "name": "deferoxamine",
+                "qid": "Q419618",
+                "url": "https://en.wikipedia.org/wiki/Deferoxamine"
+            },
+            {
+                "name": "(RS)-lenalidomide",
+                "qid": "Q425681",
+                "url": "https://en.wikipedia.org/wiki/Lenalidomide"
+            },
+            {
+                "name": "cytarabine",
+                "qid": "Q180983",
+                "url": "https://en.wikipedia.org/wiki/Cytarabine"
+            },
+            {
+                "name": "thalidomide",
+                "qid": "Q203174",
+                "url": "https://en.wikipedia.org/wiki/Thalidomide"
+            },
+            {
+                "name": "cyclosporine",
+                "qid": "Q367700",
+                "url": "https://en.wikipedia.org/wiki/Ciclosporin"
+            },
+            {
+                "name": "filgrastim",
+                "qid": "Q3151081",
+                "url": "https://en.wikipedia.org/wiki/Filgrastim"
+            },
+            {
+                "name": "deferasirox",
+                "qid": "Q5251502",
+                "url": "https://en.wikipedia.org/wiki/Deferasirox"
+            },
+            {
+                "name": "epoetin alfa",
+                "qid": "Q5383794",
+                "url": "https://en.wikipedia.org/wiki/Epoetin_alfa"
+            },
+            {
+                "name": "nivolumab",
+                "qid": "Q7041828",
+                "url": "https://en.wikipedia.org/wiki/Nivolumab"
+            },
+            {
+                "name": "ruxolitinib",
+                "qid": "Q7383611",
+                "url": "https://en.wikipedia.org/wiki/Ruxolitinib"
+            },
+            {
+                "name": "deferiprone",
+                "qid": "Q749664",
+                "url": "https://en.wikipedia.org/wiki/Deferiprone"
+            },
+            {
+                "name": "vorinostat",
+                "qid": "Q905901",
+                "url": "https://en.wikipedia.org/wiki/Vorinostat"
+            },
+            {
+                "name": "decitabine",
+                "qid": "Q1181878",
+                "url": "https://en.wikipedia.org/wiki/Decitabine"
+            },
+            {
+                "name": "romiplostim",
+                "qid": "Q1235195",
+                "url": "https://en.wikipedia.org/wiki/Romiplostim"
+            },
+            {
+                "name": "ipilimumab",
+                "qid": "Q2459042",
+                "url": "https://en.wikipedia.org/wiki/Ipilimumab"
+            }
+        ]
+    }
+}

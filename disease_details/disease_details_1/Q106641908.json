@@ -1,0 +1,24 @@
+{
+    "name": "osteomalacia in pregnancy",
+    "qid": "Q106641908",
+    "icd_10": "M83.0",
+    "description": null,
+    "aliases": [
+        "puerperal osteomalacia"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "osteomalacia",
+                "qid": "Q860395",
+                "url": "https://en.wikipedia.org/wiki/Osteomalacia"
+            },
+            {
+                "name": "gestosis",
+                "qid": "Q476814"
+            }
+        ]
+    }
+}

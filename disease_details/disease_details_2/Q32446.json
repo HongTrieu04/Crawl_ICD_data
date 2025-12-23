@@ -1,0 +1,41 @@
+{
+    "name": "pulmonary fibrosis",
+    "qid": "Q32446",
+    "icd_10": "J84.1",
+    "description": "human disease",
+    "aliases": [
+        "Fibrosis of lung",
+        "Fibrosis of lung (disorder)",
+        "Fibrosis of the lung",
+        "interstitial fibrosis",
+        "lung fibrosis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/IPF%20amiodarone.JPG",
+    "url": "https://en.wikipedia.org/wiki/Pulmonary_fibrosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "fibrosis",
+                "qid": "Q605709",
+                "url": "https://en.wikipedia.org/wiki/Fibrosis"
+            },
+            {
+                "name": "interstitial lung disease",
+                "qid": "Q1153419",
+                "url": "https://en.wikipedia.org/wiki/Interstitial_lung_disease"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ]
+    }
+}

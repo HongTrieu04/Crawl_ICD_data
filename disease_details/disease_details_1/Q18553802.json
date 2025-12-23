@@ -1,0 +1,30 @@
+{
+    "name": "diabetic peripheral angiopathy",
+    "qid": "Q18553802",
+    "icd_10": "E14.5",
+    "description": "Human disease",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "diabetic angiopathy",
+                "qid": "Q489997",
+                "url": "https://en.wikipedia.org/wiki/Diabetic_angiopathy"
+            },
+            {
+                "name": "type 2 diabetes",
+                "qid": "Q3025883",
+                "url": "https://en.wikipedia.org/wiki/Type_2_diabetes"
+            }
+        ]
+    }
+}

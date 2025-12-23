@@ -1,0 +1,21 @@
+{
+    "name": "thalassemia minor",
+    "qid": "Q102294721",
+    "icd_10": "D56.3",
+    "description": "human disease",
+    "aliases": [
+        "beta thalassemia minor",
+        "Beta thalassemia trait"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "beta thalassemia",
+                "qid": "Q3616632",
+                "url": "https://en.wikipedia.org/wiki/Beta_thalassemia"
+            }
+        ]
+    }
+}

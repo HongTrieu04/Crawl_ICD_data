@@ -1,0 +1,50 @@
+{
+    "name": "secondary hyperparathyroidism",
+    "qid": "Q3622611",
+    "icd_10": "E21.1",
+    "description": "human disease",
+    "aliases": [
+        "secondary hyperparathyroidism (disorder)",
+        "secondary hyperparathyroidism NOS"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Secondary_hyperparathyroidism",
+    "details": {
+        "Drug used for treatment": [
+            {
+                "name": "doxercalciferol",
+                "qid": "Q5303688",
+                "url": "https://en.wikipedia.org/wiki/Doxercalciferol"
+            },
+            {
+                "name": "etelcalcetide",
+                "qid": "Q21098973",
+                "url": "https://en.wikipedia.org/wiki/Etelcalcetide"
+            },
+            {
+                "name": "maxacalcitol",
+                "qid": "Q27083635",
+                "url": "https://en.wikipedia.org/wiki/Maxacalcitol"
+            },
+            {
+                "name": "paricalcitol",
+                "qid": "Q155746",
+                "url": "https://en.wikipedia.org/wiki/Paricalcitol"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "hyperparathyroidism",
+                "qid": "Q1344835",
+                "url": "https://en.wikipedia.org/wiki/Hyperparathyroidism"
+            }
+        ]
+    }
+}

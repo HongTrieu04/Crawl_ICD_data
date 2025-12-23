@@ -1,0 +1,52 @@
+{
+    "name": "myalgia",
+    "qid": "Q474959",
+    "icd_10": "M79.1",
+    "description": "muscle pain",
+    "aliases": [
+        "muscle pain",
+        "muscle ache",
+        "muscles ache"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Myalgia%20of%20the%20biceps%20brachii.jpg",
+    "url": "https://en.wikipedia.org/wiki/Myalgia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "pain",
+                "qid": "Q81938",
+                "url": "https://en.wikipedia.org/wiki/Pain"
+            },
+            {
+                "name": "musculoskeletal pain",
+                "qid": "Q45048948"
+            },
+            {
+                "name": "muscle symptom",
+                "qid": "Q102187423"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            },
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            },
+            {
+                "name": "traumatology",
+                "qid": "Q376680",
+                "url": "https://en.wikipedia.org/wiki/Traumatology"
+            },
+            {
+                "name": "sports medicine",
+                "qid": "Q840545",
+                "url": "https://en.wikipedia.org/wiki/Sports_medicine"
+            }
+        ]
+    }
+}

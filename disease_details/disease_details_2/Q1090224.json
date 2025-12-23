@@ -1,0 +1,27 @@
+{
+    "name": "chylothorax",
+    "qid": "Q1090224",
+    "icd_10": "J94.0",
+    "description": "type of pleural effusion",
+    "aliases": [
+        "chyle leak"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Blausen%200993%20PleuralEffusionNumbers.png",
+    "url": "https://en.wikipedia.org/wiki/Chylothorax",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "pleural effusion",
+                "qid": "Q1334541",
+                "url": "https://en.wikipedia.org/wiki/Pleural_effusion"
+            }
+        ]
+    }
+}

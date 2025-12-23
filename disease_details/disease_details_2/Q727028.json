@@ -1,0 +1,187 @@
+{
+    "name": "bacterial infectious disease",
+    "qid": "Q727028",
+    "icd_10": "A49.9",
+    "description": "disease caused by bacteria",
+    "aliases": [
+        "infectious bacterial disease",
+        "bacterial infection",
+        "bacterial disease",
+        "bacterial diseases",
+        "Bacterial infection",
+        "bacterial infections"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Bacterial_disease",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "infectious disease",
+                "qid": "Q18123741",
+                "url": "https://en.wikipedia.org/wiki/Infectious_disease"
+            },
+            {
+                "name": "bacterial infection and mycosis",
+                "qid": "Q55286823"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "clarithromycin",
+                "qid": "Q118551",
+                "url": "https://en.wikipedia.org/wiki/Clarithromycin"
+            },
+            {
+                "name": "bismuth",
+                "qid": "Q942",
+                "url": "https://en.wikipedia.org/wiki/Bismuth"
+            },
+            {
+                "name": "azithromycin",
+                "qid": "Q165399",
+                "url": "https://en.wikipedia.org/wiki/Azithromycin"
+            },
+            {
+                "name": "metronidazole",
+                "qid": "Q169569",
+                "url": "https://en.wikipedia.org/wiki/Metronidazole"
+            },
+            {
+                "name": "ciprofloxacin",
+                "qid": "Q256602",
+                "url": "https://en.wikipedia.org/wiki/Ciprofloxacin"
+            },
+            {
+                "name": "enrofloxacin",
+                "qid": "Q414413",
+                "url": "https://en.wikipedia.org/wiki/Enrofloxacin"
+            },
+            {
+                "name": "cilastatin",
+                "qid": "Q418201",
+                "url": "https://en.wikipedia.org/wiki/Cilastatin"
+            },
+            {
+                "name": "(2R)-daptomycin",
+                "qid": "Q418747",
+                "url": "https://en.wikipedia.org/wiki/Daptomycin"
+            },
+            {
+                "name": "demeclocycline",
+                "qid": "Q2736402",
+                "url": "https://en.wikipedia.org/wiki/Demeclocycline"
+            },
+            {
+                "name": "latamoxef",
+                "qid": "Q3827439",
+                "url": "https://en.wikipedia.org/wiki/Latamoxef"
+            },
+            {
+                "name": "mafenide",
+                "qid": "Q3843044",
+                "url": "https://en.wikipedia.org/wiki/Mafenide"
+            },
+            {
+                "name": "cephaloglycin",
+                "qid": "Q5057214",
+                "url": "https://en.wikipedia.org/wiki/Cefaloglycin"
+            },
+            {
+                "name": "cefalonium",
+                "qid": "Q5057218",
+                "url": "https://en.wikipedia.org/wiki/Cefalonium"
+            },
+            {
+                "name": "cyclacillin",
+                "qid": "Q5119441",
+                "url": "https://en.wikipedia.org/wiki/Ciclacillin"
+            },
+            {
+                "name": "sulfamoxole",
+                "qid": "Q6577297",
+                "url": "https://en.wikipedia.org/wiki/Sulfamoxole"
+            },
+            {
+                "name": "vancomycin",
+                "qid": "Q424027",
+                "url": "https://en.wikipedia.org/wiki/Vancomycin"
+            },
+            {
+                "name": "thiamphenicol",
+                "qid": "Q425015",
+                "url": "https://en.wikipedia.org/wiki/Thiamphenicol"
+            },
+            {
+                "name": "azlocillin",
+                "qid": "Q510154",
+                "url": "https://en.wikipedia.org/wiki/Azlocillin"
+            },
+            {
+                "name": "ceftazidime",
+                "qid": "Q808845",
+                "url": "https://en.wikipedia.org/wiki/Ceftazidime"
+            },
+            {
+                "name": "tobramycin",
+                "qid": "Q1758380",
+                "url": "https://en.wikipedia.org/wiki/Tobramycin"
+            },
+            {
+                "name": "bacitracin a",
+                "qid": "Q424319"
+            },
+            {
+                "name": "interferon gamma-1b",
+                "qid": "Q582356"
+            },
+            {
+                "name": "colistimethate",
+                "qid": "Q20817140"
+            },
+            {
+                "name": "dicloxacillin sodium",
+                "qid": "Q27116225"
+            },
+            {
+                "name": "gentamicin C1",
+                "qid": "Q27280589"
+            },
+            {
+                "name": "sulfabromomethazine",
+                "qid": "Q27286710"
+            },
+            {
+                "name": "ethacridine",
+                "qid": "Q27292662"
+            },
+            {
+                "name": "levofloxacin hemihydrate",
+                "qid": "Q47495791"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "bacterial infection",
+                "qid": "Q804503",
+                "url": "https://en.wikipedia.org/wiki/Bacterial_infection"
+            },
+            {
+                "name": "pathogenic bacteria",
+                "qid": "Q804517",
+                "url": "https://en.wikipedia.org/wiki/Pathogenic_bacteria"
+            }
+        ]
+    }
+}

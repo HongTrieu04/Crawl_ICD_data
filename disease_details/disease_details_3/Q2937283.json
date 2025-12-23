@@ -1,0 +1,24 @@
+{
+    "name": "Capillaritis",
+    "qid": "Q2937283",
+    "icd_10": "I78.8",
+    "description": "illness",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Capillaritis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "capillary disease",
+                "qid": "Q18554363"
+            }
+        ]
+    }
+}

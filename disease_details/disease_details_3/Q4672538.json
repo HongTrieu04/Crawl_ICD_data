@@ -1,0 +1,43 @@
+{
+    "name": "accessory nerve disease",
+    "qid": "Q4672538",
+    "icd_10": "G52.8",
+    "description": "human disease",
+    "aliases": [
+        "accessory nerve diseases",
+        "Accessory Nerve Disorder",
+        "accessory XI nerve disease",
+        "disease of accessory XI nerve",
+        "disorder of 11th nerve",
+        "disorder of accessory [11th] nerve",
+        "disorder of accessory nerve",
+        "disorder of accessory nerve (disorder)",
+        "disorder of accessory XI nerve",
+        "Disorder of the 11th Nerve",
+        "Eleventh nerve disorder"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Accessory_nerve_disorder",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "accessory nerve",
+                "qid": "Q271987",
+                "url": "https://en.wikipedia.org/wiki/Accessory_nerve"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "glossopharyngeal nerve disease",
+                "qid": "Q18555926"
+            }
+        ]
+    }
+}

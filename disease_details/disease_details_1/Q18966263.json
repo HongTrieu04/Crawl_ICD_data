@@ -1,0 +1,20 @@
+{
+    "name": "autosomal deletion syndrome",
+    "qid": "Q18966263",
+    "icd_10": "Q93.9",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete autosomal deletion syndrome"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "chromosomal deletion syndrome",
+                "qid": "Q16918398",
+                "url": "https://en.wikipedia.org/wiki/Chromosomal_deletion_syndrome"
+            }
+        ]
+    }
+}

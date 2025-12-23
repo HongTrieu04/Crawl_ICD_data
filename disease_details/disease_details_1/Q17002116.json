@@ -1,0 +1,56 @@
+{
+    "name": "fetal alcohol spectrum disorders",
+    "qid": "Q17002116",
+    "icd_10": "Q86.0",
+    "description": "group of conditions that can occur in a person whose mother drank alcohol during pregnancy",
+    "aliases": [
+        "FASD",
+        "FASDs",
+        "fetal alcohol spectrum disorder"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Photo%20of%20baby%20with%20FAS.svg",
+    "url": "https://en.wikipedia.org/wiki/Fetal_alcohol_spectrum_disorder",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "congenital disorder",
+                "qid": "Q727096",
+                "url": "https://en.wikipedia.org/wiki/Birth_defect"
+            },
+            {
+                "name": "specific developmental disorder",
+                "qid": "Q7574983",
+                "url": "https://en.wikipedia.org/wiki/Specific_developmental_disorder"
+            },
+            {
+                "name": "alcohol and health",
+                "qid": "Q11290178",
+                "url": "https://en.wikipedia.org/wiki/Health_effects_of_alcohol"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            },
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "alcohol use during pregnancy",
+                "qid": "Q39088416",
+                "url": "https://en.wikipedia.org/wiki/Alcohol_and_pregnancy"
+            }
+        ]
+    }
+}

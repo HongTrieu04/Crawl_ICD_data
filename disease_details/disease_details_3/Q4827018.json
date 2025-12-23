@@ -1,0 +1,20 @@
+{
+    "name": "autotopagnosia",
+    "qid": "Q4827018",
+    "icd_10": "R48.1",
+    "description": "form of agnosia",
+    "aliases": [
+        "Body Image Agnosia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Autotopagnosia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "agnosia",
+                "qid": "Q220322",
+                "url": "https://en.wikipedia.org/wiki/Agnosia"
+            }
+        ]
+    }
+}

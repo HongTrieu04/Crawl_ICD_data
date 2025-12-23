@@ -1,0 +1,35 @@
+{
+    "name": "facial trauma",
+    "qid": "Q3632931",
+    "icd_10": "S02.9",
+    "description": "medical condition",
+    "aliases": [
+        "facial injuries",
+        "facial injury",
+        "maxillofacial injury",
+        "maxillofacial trauma"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Facial_trauma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oral and maxillofacial surgery",
+                "qid": "Q504033",
+                "url": "https://en.wikipedia.org/wiki/Oral_and_maxillofacial_surgery"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "cranial trauma",
+                "qid": "Q2920572",
+                "url": "https://en.wikipedia.org/wiki/Head_injury"
+            },
+            {
+                "name": "craniofacial disease",
+                "qid": "Q5182134",
+                "url": "https://en.wikipedia.org/wiki/Craniofacial"
+            }
+        ]
+    }
+}

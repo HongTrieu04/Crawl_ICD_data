@@ -1,0 +1,27 @@
+{
+    "name": "X-linked lymphoproliferative disease",
+    "qid": "Q3281380",
+    "icd_10": "D82.3",
+    "description": "lymphoproliferative disorder",
+    "aliases": [
+        "X-linked lymphoproliferative syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/X-linked_lymphoproliferative_disease",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "lymphoproliferative disorders",
+                "qid": "Q4165484",
+                "url": "https://en.wikipedia.org/wiki/Lymphoproliferative_disorders"
+            }
+        ]
+    }
+}

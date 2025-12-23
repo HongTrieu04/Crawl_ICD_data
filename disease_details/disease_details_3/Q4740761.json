@@ -1,0 +1,22 @@
+{
+    "name": "Amazia",
+    "qid": "Q4740761",
+    "icd_10": "Q83.0",
+    "description": "absence of the mammary gland",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Amazia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "breast disease",
+                "qid": "Q4959796",
+                "url": "https://en.wikipedia.org/wiki/Breast_disease"
+            },
+            {
+                "name": "deficient breast volume or number",
+                "qid": "Q55785775"
+            }
+        ]
+    }
+}

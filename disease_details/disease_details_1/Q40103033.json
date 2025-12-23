@@ -1,0 +1,55 @@
+{
+    "name": "hemimegalencephaly",
+    "qid": "Q40103033",
+    "icd_10": "Q04.5",
+    "description": "a rare disorder affecting development of one side of the brain",
+    "aliases": [
+        "macrencephaly",
+        "unilateral megalencephaly"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hemimegalencephaly",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            },
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "megalencephaly",
+                "qid": "Q10748814",
+                "url": "https://en.wikipedia.org/wiki/Megalencephaly"
+            },
+            {
+                "name": "nervous system malformations",
+                "qid": "Q584265",
+                "url": "https://en.wikipedia.org/wiki/Cephalic_disorder"
+            },
+            {
+                "name": "neurodevelopmental disorder",
+                "qid": "Q3450985",
+                "url": "https://en.wikipedia.org/wiki/Neurodevelopmental_disorder"
+            },
+            {
+                "name": "cerebral malformation with epilepsy",
+                "qid": "Q55785630"
+            },
+            {
+                "name": "rare genetic developmental defect during embryogenesis",
+                "qid": "Q55785846"
+            },
+            {
+                "name": "cerebral malformation",
+                "qid": "Q55785902"
+            }
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "name": "hyperlipidemia",
+    "qid": "Q1079120",
+    "icd_10": "E78",
+    "description": "abnormally elevated levels of lipids or lipoproteins in the blood",
+    "aliases": [
+        "Hyperlipidemia",
+        "hyperlipidemias",
+        "lipaemia",
+        "lipemia",
+        "lipidemia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hyperlipidemia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "metabolic disease",
+                "qid": "Q2351083",
+                "url": "https://en.wikipedia.org/wiki/Metabolic_disorder"
+            },
+            {
+                "name": "lipid metabolism disorder",
+                "qid": "Q1476525",
+                "url": "https://en.wikipedia.org/wiki/Dyslipidemia"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ]
+    }
+}

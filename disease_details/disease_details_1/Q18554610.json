@@ -1,0 +1,27 @@
+{
+    "name": "chronic subinvolution of uterus",
+    "qid": "Q18554610",
+    "icd_10": "N85.3",
+    "description": "Human disease",
+    "aliases": [
+        "chronic subinvolution of uterus (disorder)",
+        "chronic subinvolution of uterus (disorder) [Ambiguous]"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "uterine disease",
+                "qid": "Q18555940"
+            }
+        ]
+    }
+}

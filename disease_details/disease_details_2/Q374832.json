@@ -1,0 +1,197 @@
+{
+    "name": "thallium poisoning",
+    "qid": "Q374832",
+    "icd_10": "T60.4",
+    "description": "toxic effects of thallium",
+    "aliases": [
+        "thallium toxicity"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tl-TableImage.svg",
+    "url": "https://en.wikipedia.org/wiki/Thallium_poisoning",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            },
+            {
+                "name": "pain",
+                "qid": "Q81938",
+                "url": "https://en.wikipedia.org/wiki/Pain"
+            },
+            {
+                "name": "arterial hypertension",
+                "qid": "Q41861",
+                "url": "https://en.wikipedia.org/wiki/Hypertension"
+            },
+            {
+                "name": "acne",
+                "qid": "Q79928",
+                "url": "https://en.wikipedia.org/wiki/Acne"
+            },
+            {
+                "name": "convulsion",
+                "qid": "Q852376",
+                "url": "https://en.wikipedia.org/wiki/Convulsion"
+            },
+            {
+                "name": "kidney disease",
+                "qid": "Q1054718",
+                "url": "https://en.wikipedia.org/wiki/Kidney_disease"
+            },
+            {
+                "name": "asthenia",
+                "qid": "Q633403",
+                "url": "https://en.wikipedia.org/wiki/Asthenia"
+            },
+            {
+                "name": "hypersalivation",
+                "qid": "Q761862",
+                "url": "https://en.wikipedia.org/wiki/Hypersalivation"
+            },
+            {
+                "name": "respiratory failure",
+                "qid": "Q767485",
+                "url": "https://en.wikipedia.org/wiki/Respiratory_failure"
+            },
+            {
+                "name": "hemolysis",
+                "qid": "Q471706",
+                "url": "https://en.wikipedia.org/wiki/Hemolysis"
+            },
+            {
+                "name": "myalgia",
+                "qid": "Q474959",
+                "url": "https://en.wikipedia.org/wiki/Myalgia"
+            },
+            {
+                "name": "xeroderma",
+                "qid": "Q1929023",
+                "url": "https://en.wikipedia.org/wiki/Xeroderma"
+            },
+            {
+                "name": "alopecia",
+                "qid": "Q2697787",
+                "url": "https://en.wikipedia.org/wiki/Alopecia"
+            },
+            {
+                "name": "nerve injury",
+                "qid": "Q2945973",
+                "url": "https://en.wikipedia.org/wiki/Nerve_injury"
+            },
+            {
+                "name": "urine discoloration",
+                "qid": "Q21120235",
+                "url": "https://en.wikipedia.org/wiki/Abnormal_urine_color"
+            },
+            {
+                "name": "inflammation",
+                "qid": "Q101991",
+                "url": "https://en.wikipedia.org/wiki/Inflammation"
+            },
+            {
+                "name": "vomiting",
+                "qid": "Q127076",
+                "url": "https://en.wikipedia.org/wiki/Vomiting"
+            },
+            {
+                "name": "coma",
+                "qid": "Q159557",
+                "url": "https://en.wikipedia.org/wiki/Coma"
+            },
+            {
+                "name": "delirium",
+                "qid": "Q160796",
+                "url": "https://en.wikipedia.org/wiki/Delirium"
+            },
+            {
+                "name": "nausea",
+                "qid": "Q186889",
+                "url": "https://en.wikipedia.org/wiki/Nausea"
+            },
+            {
+                "name": "heart arrhythmia",
+                "qid": "Q189331",
+                "url": "https://en.wikipedia.org/wiki/Arrhythmia"
+            },
+            {
+                "name": "tachycardia",
+                "qid": "Q209583",
+                "url": "https://en.wikipedia.org/wiki/Tachycardia"
+            },
+            {
+                "name": "anorexia",
+                "qid": "Q254327",
+                "url": "https://en.wikipedia.org/wiki/Anorexia_(symptom)"
+            },
+            {
+                "name": "visual disturbance",
+                "qid": "Q2266426"
+            },
+            {
+                "name": "eye irritation",
+                "qid": "Q11820606"
+            },
+            {
+                "name": "heart damage",
+                "qid": "Q21128925"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "thallium",
+                "qid": "Q932",
+                "url": "https://en.wikipedia.org/wiki/Thallium"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "Prussian blue",
+                "qid": "Q421894",
+                "url": "https://en.wikipedia.org/wiki/Prussian_blue"
+            },
+            {
+                "name": "polyethylene glycol",
+                "qid": "Q410083",
+                "url": "https://en.wikipedia.org/wiki/Polyethylene_glycol"
+            },
+            {
+                "name": "syrup of ipecac",
+                "qid": "Q2755412",
+                "url": "https://en.wikipedia.org/wiki/Syrup_of_ipecac"
+            },
+            {
+                "name": "activated charcoal",
+                "qid": "Q2957662",
+                "url": "https://en.wikipedia.org/wiki/Activated_charcoal_(medication)"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "hemodialysis",
+                "qid": "Q391744",
+                "url": "https://en.wikipedia.org/wiki/Hemodialysis"
+            },
+            {
+                "name": "hemoperfusion",
+                "qid": "Q3144950",
+                "url": "https://en.wikipedia.org/wiki/Hemoperfusion"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "metal poisoning",
+                "qid": "Q4215775",
+                "url": "https://en.wikipedia.org/wiki/Metal_toxicity"
+            }
+        ]
+    }
+}

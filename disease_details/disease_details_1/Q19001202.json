@@ -1,0 +1,23 @@
+{
+    "name": "ulcerative ileocolitis",
+    "qid": "Q19001202",
+    "icd_10": "K51.1",
+    "description": "Human disease",
+    "aliases": [
+        "chronic ulcerative ileocolitis",
+        "chronic ulcerative ileocolitis (disorder)",
+        "obsolete ulcerative ileocolitis",
+        "ulcerative (chronic) ileocolitis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "ulcerative colitis",
+                "qid": "Q1477",
+                "url": "https://en.wikipedia.org/wiki/Ulcerative_colitis"
+            }
+        ]
+    }
+}

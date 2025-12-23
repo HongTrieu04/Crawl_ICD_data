@@ -1,0 +1,40 @@
+{
+    "name": "Genu recurvatum",
+    "qid": "Q5533802",
+    "icd_10": "M21.8",
+    "description": "deformity in the knee joint",
+    "aliases": [
+        "knee hyperextension"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Polio%20sequelle.jpg",
+    "url": "https://en.wikipedia.org/wiki/Genu_recurvatum",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            },
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "congenital disorder",
+                "qid": "Q727096",
+                "url": "https://en.wikipedia.org/wiki/Birth_defect"
+            },
+            {
+                "name": "Congenital dislocation of the knee",
+                "qid": "Q16830424"
+            },
+            {
+                "name": "knee disorder",
+                "qid": "Q18971535"
+            }
+        ]
+    }
+}

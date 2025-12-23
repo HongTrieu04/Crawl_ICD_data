@@ -1,0 +1,26 @@
+{
+    "name": "fluoride toxicity",
+    "qid": "Q3074499",
+    "icd_10": "T59.5",
+    "description": "condition in which there are elevated levels of the fluoride ion in the body",
+    "aliases": [
+        "fluoride poisoning"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Fluoride_toxicity",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "poisoning",
+                "qid": "Q114953"
+            }
+        ]
+    }
+}

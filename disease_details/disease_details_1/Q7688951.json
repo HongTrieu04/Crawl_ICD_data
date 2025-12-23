@@ -1,0 +1,43 @@
+{
+    "name": "Taussig–Bing syndrome",
+    "qid": "Q7688951",
+    "icd_10": "Q20.1",
+    "description": "hearth disease",
+    "aliases": [
+        "DORV with subpulmonary VSD",
+        "DORV-TGA",
+        "double outlet right ventricle with subpulmonary ventricular septal defect",
+        "Double outlet right ventricle with transposition of the great arteries",
+        "Taussig-Bing syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Taussig%E2%80%93Bing_syndrome",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "double outlet right ventricle",
+                "qid": "Q361648",
+                "url": "https://en.wikipedia.org/wiki/Double_outlet_right_ventricle"
+            },
+            {
+                "name": "ventricular septal defect",
+                "qid": "Q838139",
+                "url": "https://en.wikipedia.org/wiki/Ventricular_septal_defect"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "congenital heart disease",
+                "qid": "Q939364",
+                "url": "https://en.wikipedia.org/wiki/Congenital_heart_defect"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Dental examination",
+    "qid": "Q15853215",
+    "icd_10": "Z01.2",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "Mouth assessment",
+                "qid": "Q3061746",
+                "url": "https://en.wikipedia.org/wiki/Mouth_assessment"
+            }
+        ]
+    }
+}

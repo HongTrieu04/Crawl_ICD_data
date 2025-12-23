@@ -1,0 +1,26 @@
+{
+    "name": "duplicated ureter",
+    "qid": "Q2500516",
+    "icd_10": "Q62.5",
+    "description": "human disease",
+    "aliases": [
+        "Duplex Collecting System",
+        "ureter, bifid or double",
+        "URETER, BIFID OR DOUBLE"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Urinary%20tract%20la.png",
+    "url": "https://en.wikipedia.org/wiki/Duplicated_ureter",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "genetic disease",
+                "qid": "Q200779",
+                "url": "https://en.wikipedia.org/wiki/Genetic_disorder"
+            },
+            {
+                "name": "ureteral disease",
+                "qid": "Q18554726"
+            }
+        ]
+    }
+}

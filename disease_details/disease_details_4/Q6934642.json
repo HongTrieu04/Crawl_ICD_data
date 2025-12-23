@@ -1,0 +1,46 @@
+{
+    "name": "multicystic dysplastic kidney",
+    "qid": "Q6934642",
+    "icd_10": "Q61.4",
+    "description": "congenital disorder of urinary system",
+    "aliases": [
+        "MCDK",
+        "Multicystic dysplastic kidney",
+        "multicystic kidney",
+        "Multicystic kidney",
+        "multicystic kidney (disorder)",
+        "Multicystic kidneys",
+        "Multicystic renal dysplasia",
+        "obsolete multicystic dysplastic kidney"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Multicystic%20Dysplastic%20kidney%20%28cropped%29.png",
+    "url": "https://en.wikipedia.org/wiki/Multicystic_dysplastic_kidney",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "cystic kidney disease",
+                "qid": "Q5201211",
+                "url": "https://en.wikipedia.org/wiki/Cystic_kidney_disease"
+            },
+            {
+                "name": "rare genetic developmental defect during embryogenesis",
+                "qid": "Q55785846"
+            },
+            {
+                "name": "non-syndromic renal or urinary tract malformation",
+                "qid": "Q55788831"
+            },
+            {
+                "name": "rare genetic renal disease",
+                "qid": "Q55789069"
+            }
+        ]
+    }
+}

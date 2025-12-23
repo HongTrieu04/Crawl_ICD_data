@@ -1,0 +1,28 @@
+{
+    "name": "late-onset gender dysphoria",
+    "qid": "Q115170995",
+    "icd_10": "F64.9",
+    "description": "psychiatric disorder",
+    "aliases": [
+        "gender dysphoria in adolescence",
+        "gender dysphoria in adulthood"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "gender dysphoria",
+                "qid": "Q1049021",
+                "url": "https://en.wikipedia.org/wiki/Gender_dysphoria"
+            }
+        ]
+    }
+}

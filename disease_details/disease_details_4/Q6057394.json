@@ -1,0 +1,40 @@
+{
+    "name": "Intervertebral disc disorder",
+    "qid": "Q6057394",
+    "icd_10": "M51",
+    "description": "human disease",
+    "aliases": [
+        "displacement of intervertebral disc",
+        "Displacement of lumbar intervertebral disc without myelopathy",
+        "displacement of the lumbar or lumbosacral intervertebral disc without myelopathy",
+        "displacement of thoracic intervertebral disc without myelopathy",
+        "displacement of thoracic or lumbar intervertebral disc without myelopathy",
+        "intervertebral disc disorder",
+        "obsolete intervertebral disc disorder"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Intervertebral_disc_disorder",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "spinal disease",
+                "qid": "Q7577457",
+                "url": "https://en.wikipedia.org/wiki/Spinal_disease"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "intervertebral disc",
+                "qid": "Q502781",
+                "url": "https://en.wikipedia.org/wiki/Intervertebral_disc"
+            }
+        ]
+    }
+}

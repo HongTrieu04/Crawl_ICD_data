@@ -1,0 +1,33 @@
+{
+    "name": "vaso-occlusive crisis",
+    "qid": "Q7916864",
+    "icd_10": "D57.0",
+    "description": "human disease",
+    "aliases": [
+        "Hb-S disease with mention of crisis",
+        "Hemoglobin S disease with crisis (disorder)",
+        "Hemoglobin SS disease with crisis (disorder)",
+        "Sickle cell anemia with crisis (disorder)",
+        "sickle cell crisis",
+        "sickle-cell crisis",
+        "vaso-occlusive crises"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Vaso-occlusive_crisis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "sickle-cell disease",
+                "qid": "Q185034",
+                "url": "https://en.wikipedia.org/wiki/Sickle_cell_disease"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "angiology",
+                "qid": "Q539690",
+                "url": "https://en.wikipedia.org/wiki/Angiology"
+            }
+        ]
+    }
+}

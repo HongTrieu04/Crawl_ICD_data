@@ -1,0 +1,46 @@
+{
+    "name": "pigmentation disorder",
+    "qid": "Q7193408",
+    "icd_10": "L81",
+    "description": "human or animal skin condition",
+    "aliases": [
+        "pigmentation anomaly of the skin",
+        "pigmentation disease",
+        "pigmentation diseases",
+        "pigmentation disorders"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pigmentation_disorder",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "trioxsalen",
+                "qid": "Q854263",
+                "url": "https://en.wikipedia.org/wiki/Trioxsalen"
+            },
+            {
+                "name": "monobenzone",
+                "qid": "Q2768526",
+                "url": "https://en.wikipedia.org/wiki/Monobenzone"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "skin disease",
+                "qid": "Q949302",
+                "url": "https://en.wikipedia.org/wiki/Skin_condition"
+            },
+            {
+                "name": "abnormal skin coloration",
+                "qid": "Q47085690"
+            }
+        ]
+    }
+}

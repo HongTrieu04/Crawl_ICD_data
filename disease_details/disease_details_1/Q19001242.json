@@ -1,0 +1,25 @@
+{
+    "name": "Measles virus keratoconjunctivitis",
+    "qid": "Q19001242",
+    "icd_10": "B05.8",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete Measles virus keratoconjunctivitis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "keratoconjunctivitis",
+                "qid": "Q1623006",
+                "url": "https://en.wikipedia.org/wiki/Keratoconjunctivitis"
+            },
+            {
+                "name": "measles",
+                "qid": "Q79793",
+                "url": "https://en.wikipedia.org/wiki/Measles"
+            }
+        ]
+    }
+}

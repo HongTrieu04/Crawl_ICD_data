@@ -1,0 +1,32 @@
+{
+    "name": "joint dislocation",
+    "qid": "Q324509",
+    "icd_10": "T14.3",
+    "description": "medical injury",
+    "aliases": [
+        "joint dislocations",
+        "luxation"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ankledislocation.JPG",
+    "url": "https://en.wikipedia.org/wiki/Joint_dislocation",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "orthopedics",
+                "qid": "Q216685",
+                "url": "https://en.wikipedia.org/wiki/Orthopedic_surgery"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "major trauma",
+                "qid": "Q1064904",
+                "url": "https://en.wikipedia.org/wiki/Major_trauma"
+            },
+            {
+                "name": "displacement",
+                "qid": "Q1228954"
+            }
+        ]
+    }
+}

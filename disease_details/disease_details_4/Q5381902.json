@@ -1,0 +1,33 @@
+{
+    "name": "eosinophilic cellulitis",
+    "qid": "Q5381902",
+    "icd_10": "L98.3",
+    "description": "Wells syndrome is characterised by the presence of recurrent cellulitis-like eruptions with eosinophilia",
+    "aliases": [
+        "Bullous cellulitis with eosinophilia",
+        "Eosinophilic cellulitis",
+        "Wells' syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Eosinophilic_cellulitis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "other acquired skin disease",
+                "qid": "Q55788714"
+            },
+            {
+                "name": "Eosinophilic dermatosis",
+                "qid": "Q5381903",
+                "url": "https://en.wikipedia.org/wiki/Eosinophilic_dermatosis"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ]
+    }
+}

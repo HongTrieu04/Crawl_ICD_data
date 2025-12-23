@@ -1,0 +1,22 @@
+{
+    "name": "hair anomaly",
+    "qid": "Q55788585",
+    "icd_10": "Q84.2",
+    "description": "human disease",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "hair diseases",
+                "qid": "Q2989168",
+                "url": "https://en.wikipedia.org/wiki/Hair_disease"
+            },
+            {
+                "name": "epidermal appendage disease",
+                "qid": "Q55788583"
+            }
+        ]
+    }
+}

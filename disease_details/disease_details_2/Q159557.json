@@ -1,0 +1,48 @@
+{
+    "name": "coma",
+    "qid": "Q159557",
+    "icd_10": "R40.2",
+    "description": "state of unconsciousness",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Coma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            },
+            {
+                "name": "intensive care medicine",
+                "qid": "Q679690",
+                "url": "https://en.wikipedia.org/wiki/Intensive_care_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "clinical sign",
+                "qid": "Q1441305",
+                "url": "https://en.wikipedia.org/wiki/Clinical_sign"
+            },
+            {
+                "name": "disorder of consciousness",
+                "qid": "Q4313500",
+                "url": "https://en.wikipedia.org/wiki/Disorder_of_consciousness"
+            },
+            {
+                "name": "unconsciousness",
+                "qid": "Q12829165",
+                "url": "https://en.wikipedia.org/wiki/Unconsciousness"
+            },
+            {
+                "name": "state of consciousness",
+                "qid": "Q15788410"
+            },
+            {
+                "name": "alteration of consciousness",
+                "qid": "Q102186875"
+            }
+        ]
+    }
+}

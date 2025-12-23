@@ -1,0 +1,28 @@
+{
+    "name": "drug-induced hyperthermia",
+    "qid": "Q718678",
+    "icd_10": "R50.2",
+    "description": "symptom",
+    "aliases": [
+        "drug fever",
+        "Drug-induced fever",
+        "Drug-induced hyperpyrexia",
+        "medicament-induced fever"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Drug-induced_hyperthermia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "hyperthermia",
+                "qid": "Q242165",
+                "url": "https://en.wikipedia.org/wiki/Hyperthermia"
+            },
+            {
+                "name": "adverse drug reaction",
+                "qid": "Q45959",
+                "url": "https://en.wikipedia.org/wiki/Adverse_drug_reaction"
+            }
+        ]
+    }
+}

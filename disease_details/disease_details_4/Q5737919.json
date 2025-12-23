@@ -1,0 +1,38 @@
+{
+    "name": "Heredofamilial amyloidosis",
+    "qid": "Q5737919",
+    "icd_10": "E85.2",
+    "description": "medical condition",
+    "aliases": [
+        "Amyloidosis hereditary",
+        "Familial amyloidosis",
+        "hereditary amyloidosis (disease)"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Heredofamilial_amyloidosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "amyloidosis",
+                "qid": "Q816798",
+                "url": "https://en.wikipedia.org/wiki/Amyloidosis"
+            },
+            {
+                "name": "genetic systemic or rheumatologic disease",
+                "qid": "Q55786852"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "pediatrics",
+                "qid": "Q123028",
+                "url": "https://en.wikipedia.org/wiki/Pediatrics"
+            },
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ]
+    }
+}

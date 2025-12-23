@@ -1,0 +1,27 @@
+{
+    "name": "macrodactylia of fingers",
+    "qid": "Q18966921",
+    "icd_10": "Q74.0",
+    "description": "Human disease",
+    "aliases": [
+        "Macrodactylia",
+        "Macrodactylia (fingers)",
+        "Macrodactylia of fingers (disorder)",
+        "Macrodactyly of hand",
+        "obsolete macrodactylia of fingers"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "Megalodactyly",
+                "qid": "Q55781215"
+            },
+            {
+                "name": "congenital deformity of fingers",
+                "qid": "Q55787044"
+            }
+        ]
+    }
+}

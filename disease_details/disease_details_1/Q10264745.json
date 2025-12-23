@@ -1,0 +1,36 @@
+{
+    "name": "biotin deficiency",
+    "qid": "Q10264745",
+    "icd_10": "E53.8",
+    "description": "nutritional deficiency disease that is characterized by thinning of the hair (often with loss of hair color), and red scaly rash around the eyes, nose, and mouth",
+    "aliases": [
+        "B7 deficiency"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Biotin_deficiency",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "vitamin deficiency",
+                "qid": "Q194435",
+                "url": "https://en.wikipedia.org/wiki/Vitamin_deficiency"
+            },
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "nutritional deficiency disease",
+                "qid": "Q1890194"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ]
+    }
+}

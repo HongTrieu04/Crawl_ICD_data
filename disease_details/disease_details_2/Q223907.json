@@ -1,0 +1,53 @@
+{
+    "name": "tremor",
+    "qid": "Q223907",
+    "icd_10": "R25.1",
+    "description": "involuntary muscle contraction",
+    "aliases": [
+        "tremble",
+        "tremors"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Writing%20by%20a%20Parkinson%27s%20disease%20patient.png",
+    "url": "https://en.wikipedia.org/wiki/Tremor",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            },
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "hyoscyamine",
+                "qid": "Q413762",
+                "url": "https://en.wikipedia.org/wiki/Hyoscyamine"
+            },
+            {
+                "name": "primidone",
+                "qid": "Q420383",
+                "url": "https://en.wikipedia.org/wiki/Primidone"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "movement disorders",
+                "qid": "Q2608695",
+                "url": "https://en.wikipedia.org/wiki/Movement_disorder"
+            },
+            {
+                "name": "general symptom",
+                "qid": "Q31836626"
+            },
+            {
+                "name": "Q136927433",
+                "qid": "Q136927433"
+            }
+        ]
+    }
+}

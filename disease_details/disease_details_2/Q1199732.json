@@ -1,0 +1,42 @@
+{
+    "name": "xanthoma",
+    "qid": "Q1199732",
+    "icd_10": "K13.4",
+    "description": "deposition of yellowish cholesterol-rich material that can appear anywhere in the body in various disease states",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Xanthoma10X.jpg",
+    "url": "https://en.wikipedia.org/wiki/Xanthoma",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "metabolic disease",
+                "qid": "Q2351083",
+                "url": "https://en.wikipedia.org/wiki/Metabolic_disorder"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            },
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "hyperlipidemia",
+                "qid": "Q1079120",
+                "url": "https://en.wikipedia.org/wiki/Hyperlipidemia"
+            },
+            {
+                "name": "macrophage-derived foam cell",
+                "qid": "Q1425962",
+                "url": "https://en.wikipedia.org/wiki/Foam_cell"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "name": "respiratory tract neoplasm",
+    "qid": "Q58833963",
+    "icd_10": "D38.1",
+    "description": "neoplasm listed in Medical Subject Headings (MeSH)",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            },
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "neoplasm",
+                "qid": "Q1216998",
+                "url": "https://en.wikipedia.org/wiki/Neoplasm"
+            },
+            {
+                "name": "respiratory disease",
+                "qid": "Q3286546",
+                "url": "https://en.wikipedia.org/wiki/Respiratory_disease"
+            }
+        ]
+    }
+}

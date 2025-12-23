@@ -1,0 +1,38 @@
+{
+    "name": "amino acid transport disorder",
+    "qid": "Q471778",
+    "icd_10": "E72.0",
+    "description": "Human disease",
+    "aliases": [
+        "amino acid transport disease",
+        "Disorder of amino acid absorption and transport",
+        "disorder of amino acid transport",
+        "Disturbances of amino-acid transport",
+        "inborn amino acid transport disorder",
+        "obsolete amino acid transport disease",
+        "obsolete inborn amino acid transport disorder"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Amino_acid_transport_disorder",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "congenital disorder of amino acid metabolism",
+                "qid": "Q3281372",
+                "url": "https://en.wikipedia.org/wiki/Congenital_disorders_of_amino_acid_metabolism"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            },
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

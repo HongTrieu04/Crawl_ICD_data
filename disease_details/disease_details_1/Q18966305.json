@@ -1,0 +1,25 @@
+{
+    "name": "Vasa previa complicating labor and delivery, delivered",
+    "qid": "Q18966305",
+    "icd_10": "O64.9",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete Vasa previa complicating labor and delivery, delivered"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "vasa praevia",
+                "qid": "Q1899576",
+                "url": "https://en.wikipedia.org/wiki/Vasa_praevia"
+            },
+            {
+                "name": "obstetric labor complication",
+                "qid": "Q7075540",
+                "url": "https://en.wikipedia.org/wiki/Obstetric_labor_complication"
+            }
+        ]
+    }
+}

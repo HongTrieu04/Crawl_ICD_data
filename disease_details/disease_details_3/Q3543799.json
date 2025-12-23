@@ -1,0 +1,38 @@
+{
+    "name": "nipple discharge",
+    "qid": "Q3543799",
+    "icd_10": "N64.5",
+    "description": "a disease/disorder",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lactation.jpg",
+    "url": "https://en.wikipedia.org/wiki/Nipple_discharge",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "breast disease",
+                "qid": "Q4959796",
+                "url": "https://en.wikipedia.org/wiki/Breast_disease"
+            },
+            {
+                "name": "body fluid",
+                "qid": "Q1058795",
+                "url": "https://en.wikipedia.org/wiki/Body_fluid"
+            },
+            {
+                "name": "lactation disorder",
+                "qid": "Q19001407"
+            },
+            {
+                "name": "discharge",
+                "qid": "Q102186550"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gynaecology",
+                "qid": "Q1221899",
+                "url": "https://en.wikipedia.org/wiki/Gynaecology"
+            }
+        ]
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "name": "Dent disease",
+    "qid": "Q4420121",
+    "icd_10": "N39.8",
+    "description": "congenital disorder of urinary system",
+    "aliases": [
+        "Dent disease 1",
+        "Dent disease 2",
+        "Dent Disease type 2",
+        "Dent's disease",
+        "Low-molecular-weight proteinuria with hypercalciuria and nephrocalcinosis",
+        "Nephrolithiasis type 2",
+        "Renal Fanconi syndrome with nephrocalcinosis and renal stones",
+        "X-linked recessive hypercalciuric hypophosphatemic rickets",
+        "X-linked recessive nephrolithiasis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gray1128.png",
+    "url": "https://en.wikipedia.org/wiki/Dent%27s_disease",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "rare disease",
+                "qid": "Q929833",
+                "url": "https://en.wikipedia.org/wiki/Rare_disease"
+            },
+            {
+                "name": "renal tubular transport disease",
+                "qid": "Q6013986",
+                "url": "https://en.wikipedia.org/wiki/Inborn_errors_of_renal_tubular_transport"
+            },
+            {
+                "name": "X-linked recessive disease",
+                "qid": "Q55010090",
+                "url": "https://en.wikipedia.org/wiki/X-linked_recessive_disorder"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            }
+        ]
+    }
+}

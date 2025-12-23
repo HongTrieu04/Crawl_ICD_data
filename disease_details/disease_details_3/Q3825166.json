@@ -1,0 +1,19 @@
+{
+    "name": "labyrinthosis",
+    "qid": "Q3825166",
+    "icd_10": "H83.2",
+    "description": null,
+    "aliases": [
+        "Labyrinthine disorder"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "inner ear disease",
+                "qid": "Q18555242"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "bundle branch block",
+    "qid": "Q13365162",
+    "icd_10": "I44.7",
+    "description": "defect of the bundle branches or fascicles in the electrical conduction system of the heart",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Left%20bundle%20branch%20block.svg",
+    "url": "https://en.wikipedia.org/wiki/Bundle_branch_block",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "heart conduction disease",
+                "qid": "Q1361515",
+                "url": "https://en.wikipedia.org/wiki/Heart_block"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ]
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Ichthyosis follicularis with alopecia and photophobia syndrome",
+    "qid": "Q5986440",
+    "icd_10": "Q80.3",
+    "description": "Ichthyosis follicularis - alopecia - photophobia (IFAP) is a rare genetic disorder characterized by the triad of ichthyosis follicularis, alopecia, and photophobia from birth",
+    "aliases": [
+        "Ichthyosis follicularis-atrichia-photophobia syndrome",
+        "Ichthyosis Follicularis, Atrichia, and Photophobia With or Without Brain Anomalies, Retardation, Ectodermal Dysplasia, Skeletal Malformations, Hirschsprung Disease, Ear/Eye Anomalies, Cleft Palate/Cryptorchidism, and Kidney Dysplasia/Hypoplasia",
+        "IFAP syndrome",
+        "IFAP SYNDROME WITH OR WITHOUT BRESHECK SYNDROME",
+        "IFAP syndromea"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Ichthyosis_follicularis_with_alopecia_and_photophobia_syndrome",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "photophobia",
+                "qid": "Q281289",
+                "url": "https://en.wikipedia.org/wiki/Photophobia"
+            },
+            {
+                "name": "ichthyosis",
+                "qid": "Q523893",
+                "url": "https://en.wikipedia.org/wiki/Ichthyosis"
+            },
+            {
+                "name": "alopecia",
+                "qid": "Q2697787",
+                "url": "https://en.wikipedia.org/wiki/Alopecia"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "photophobia",
+                "qid": "Q281289",
+                "url": "https://en.wikipedia.org/wiki/Photophobia"
+            },
+            {
+                "name": "ichthyosis",
+                "qid": "Q523893",
+                "url": "https://en.wikipedia.org/wiki/Ichthyosis"
+            },
+            {
+                "name": "keratosis pilaris atrophicans",
+                "qid": "Q6393662",
+                "url": "https://en.wikipedia.org/wiki/Keratosis_pilaris_atrophicans"
+            },
+            {
+                "name": "malformation syndrome with skin/mucosae involvement",
+                "qid": "Q55785402"
+            },
+            {
+                "name": "genetic alopecia",
+                "qid": "Q55789468"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

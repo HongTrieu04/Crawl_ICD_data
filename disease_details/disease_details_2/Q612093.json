@@ -1,0 +1,53 @@
+{
+    "name": "granulosa cell tumour",
+    "qid": "Q612093",
+    "icd_10": "C56",
+    "description": "Human disease",
+    "aliases": [
+        "Granulosa cell neoplasm",
+        "granulosa cell tumor",
+        "Granulosa cell tumor, adult type",
+        "Granulosa cell tumor, adult type (morphologic abnormality)",
+        "Granulosa cell tumour, sarcomatoid",
+        "granulosa-theca cell tumours",
+        "malignant granulosa cell neoplasm"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Granulosa_cell_tumour",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "obstetrics and gynaecology",
+                "qid": "Q80015",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics_and_gynaecology"
+            },
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            },
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            },
+            {
+                "name": "gynecologic oncology",
+                "qid": "Q5625186",
+                "url": "https://en.wikipedia.org/wiki/Gynecologic_oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "ovarian cancer",
+                "qid": "Q172341",
+                "url": "https://en.wikipedia.org/wiki/Ovarian_cancer"
+            },
+            {
+                "name": "sex cord-gonadal stromal tumor",
+                "qid": "Q5474322",
+                "url": "https://en.wikipedia.org/wiki/Sex_cord%E2%80%93gonadal_stromal_tumour"
+            }
+        ]
+    }
+}

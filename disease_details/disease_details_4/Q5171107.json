@@ -1,0 +1,24 @@
+{
+    "name": "Cornea plana 1",
+    "qid": "Q5171107",
+    "icd_10": "Q13.4",
+    "description": "congenital hereditary deformity of the eye surface",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Cornea_plana_1",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "cornea plana",
+                "qid": "Q18987135"
+            }
+        ]
+    }
+}

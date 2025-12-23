@@ -1,0 +1,38 @@
+{
+    "name": "hammer toe",
+    "qid": "Q602477",
+    "icd_10": "M20.4",
+    "description": "deformity of the proximal joint of the second, third or fourth toe",
+    "aliases": [
+        "contracted toe"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Human%20foot%20with%20mallet%20toe.jpg",
+    "url": "https://en.wikipedia.org/wiki/Hammer_toe",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "orthopedics",
+                "qid": "Q216685",
+                "url": "https://en.wikipedia.org/wiki/Orthopedic_surgery"
+            },
+            {
+                "name": "podology",
+                "qid": "Q52862"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "foot deformity",
+                "qid": "Q5465742",
+                "url": "https://en.wikipedia.org/wiki/Foot_deformity"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "tenotomy",
+                "qid": "Q7700585",
+                "url": "https://en.wikipedia.org/wiki/Tenotomy"
+            }
+        ]
+    }
+}

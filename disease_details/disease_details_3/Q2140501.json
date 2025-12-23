@@ -1,0 +1,35 @@
+{
+    "name": "glutaric aciduria type 1",
+    "qid": "Q2140501",
+    "icd_10": "E72.3",
+    "description": "Glutaryl-CoA dehydrogenase (GCDH) deficiency (GDD) is an autosomal recessive neurometabolic disorder clinically characterized by encephalopathic crises resulting in striatal injury and a severe dystonic dyskinetic movement disorder",
+    "aliases": [
+        "GA1",
+        "Ga 1",
+        "GCDHD",
+        "glutaric academia type 1",
+        "glutaric acidemia I",
+        "GLUTARIC ACIDEMIA I",
+        "glutaric acidemia type 1",
+        "glutaric aciduria 1",
+        "Glutaric Aciduria 1",
+        "Glutaric aciduria type 1",
+        "glutaric aciduria type I",
+        "Glutaric Aciduria, Type 1",
+        "glutaryl-coA dehydrogenase deficiency",
+        "glutaryl-CoA dehydrogenase deficiency",
+        "glutaryl-coenzyme A dehydrogenase deficiency",
+        "Glutaryl-coenzyme A dehydrogenase deficiency"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Glutaric%20acid.png",
+    "url": "https://en.wikipedia.org/wiki/Glutaric_aciduria_type_1",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ]
+    }
+}

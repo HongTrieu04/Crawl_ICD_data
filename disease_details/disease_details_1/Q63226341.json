@@ -1,0 +1,22 @@
+{
+    "name": "miliaria profunda",
+    "qid": "Q63226341",
+    "icd_10": "L74.2",
+    "description": "miliaria that is characterized by ductal occlusion of the papillary dermis causing the gland's secretions to leak between the superficial and deep layers of the skin resulting in a rapidly-spreading flesh-colored rash",
+    "aliases": [
+        "wildfire",
+        "Mammillaria",
+        "Miliaria profunda"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Miliaria_profunda",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "miliaria",
+                "qid": "Q768888",
+                "url": "https://en.wikipedia.org/wiki/Miliaria"
+            }
+        ]
+    }
+}

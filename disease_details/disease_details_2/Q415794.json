@@ -1,0 +1,25 @@
+{
+    "name": "acantholysis",
+    "qid": "Q415794",
+    "icd_10": "L11.9",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Acantholysis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "skin disease",
+                "qid": "Q949302",
+                "url": "https://en.wikipedia.org/wiki/Skin_condition"
+            }
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "name": "pemphigus",
+    "qid": "Q1483214",
+    "icd_10": "L10",
+    "description": "blistering autoimmune disease",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Permphigus.jpg",
+    "url": "https://en.wikipedia.org/wiki/Pemphigus",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "autoimmune disease of musculoskeletal system",
+                "qid": "Q18553609"
+            },
+            {
+                "name": "bullous skin disease",
+                "qid": "Q18557957"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "auranofin",
+                "qid": "Q421230",
+                "url": "https://en.wikipedia.org/wiki/Auranofin"
+            },
+            {
+                "name": "chloroquine",
+                "qid": "Q422438",
+                "url": "https://en.wikipedia.org/wiki/Chloroquine"
+            },
+            {
+                "name": "aurothioglucose",
+                "qid": "Q4072449",
+                "url": "https://en.wikipedia.org/wiki/Aurothioglucose"
+            },
+            {
+                "name": "aminobenzoate potassium",
+                "qid": "Q27258445"
+            }
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Low-set ears",
+    "qid": "Q6692784",
+    "icd_10": "Q17.4",
+    "description": "Clinical sign of congenital conditions",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Low-set_ears",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "external ear disease",
+                "qid": "Q18556075"
+            },
+            {
+                "name": "external ear malformation",
+                "qid": "Q55785514"
+            }
+        ]
+    }
+}

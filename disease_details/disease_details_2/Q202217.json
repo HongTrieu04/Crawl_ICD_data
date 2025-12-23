@@ -1,0 +1,50 @@
+{
+    "name": "transverse myelitis",
+    "qid": "Q202217",
+    "icd_10": "G37.3",
+    "description": "an inflammatory demyelinating disorder of the spinal cord, either idiopathic or secondary to a known cause",
+    "aliases": [
+        "TM"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Transverse%20myelitis%20MRI.jpg",
+    "url": "https://en.wikipedia.org/wiki/Transverse_myelitis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "myelitis",
+                "qid": "Q551085",
+                "url": "https://en.wikipedia.org/wiki/Myelitis"
+            },
+            {
+                "name": "disorder of medulla oblongata",
+                "qid": "Q55785277"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "(RS)-baclofen",
+                "qid": "Q413717",
+                "url": "https://en.wikipedia.org/wiki/Baclofen"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "asthenia",
+                "qid": "Q633403",
+                "url": "https://en.wikipedia.org/wiki/Asthenia"
+            }
+        ]
+    }
+}

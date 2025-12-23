@@ -1,0 +1,89 @@
+{
+    "name": "Queensland tick typhus",
+    "qid": "Q6587253",
+    "icd_10": "A77.3",
+    "description": "Human disease",
+    "aliases": [
+        "Australian tick typhus",
+        "North Queensland tick typhus",
+        "Queensland tick typhus (disorder)",
+        "Rickettsia australis spotted fever"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Queensland_tick_typhus",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            },
+            {
+                "name": "myalgia",
+                "qid": "Q474959",
+                "url": "https://en.wikipedia.org/wiki/Myalgia"
+            },
+            {
+                "name": "rash",
+                "qid": "Q653197",
+                "url": "https://en.wikipedia.org/wiki/Rash"
+            },
+            {
+                "name": "lymphadenopathy",
+                "qid": "Q847726",
+                "url": "https://en.wikipedia.org/wiki/Lymphadenopathy"
+            },
+            {
+                "name": "primary affect",
+                "qid": "Q24084959"
+            },
+            {
+                "name": "enlargement of lymph nodes",
+                "qid": "Q102187500"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "rickettsiosis",
+                "qid": "Q646664",
+                "url": "https://en.wikipedia.org/wiki/Rickettsiosis"
+            },
+            {
+                "name": "tick-borne disease",
+                "qid": "Q184243",
+                "url": "https://en.wikipedia.org/wiki/Tick-borne_disease"
+            },
+            {
+                "name": "spotted fever",
+                "qid": "Q9274700",
+                "url": "https://en.wikipedia.org/wiki/Spotted_fever"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "doxycycline",
+                "qid": "Q422442",
+                "url": "https://en.wikipedia.org/wiki/Doxycycline"
+            },
+            {
+                "name": "quinolone antibiotic",
+                "qid": "Q13669486",
+                "url": "https://en.wikipedia.org/wiki/Quinolone_antibiotic"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Rickettsia australis",
+                "qid": "Q7331928",
+                "url": "https://en.wikipedia.org/wiki/Rickettsia_australis"
+            }
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "name": "dysarthria",
+    "qid": "Q225957",
+    "icd_10": "R47.1",
+    "description": "motor speech disorder",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Dysarthria",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            },
+            {
+                "name": "neuropsychology",
+                "qid": "Q3872",
+                "url": "https://en.wikipedia.org/wiki/Neuropsychology"
+            },
+            {
+                "name": "speech-language pathology",
+                "qid": "Q33226",
+                "url": "https://en.wikipedia.org/wiki/Speech%E2%80%93language_pathology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "clonazepam",
+                "qid": "Q407988",
+                "url": "https://en.wikipedia.org/wiki/Clonazepam"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "motor speech disorder",
+                "qid": "Q6918200",
+                "url": "https://en.wikipedia.org/wiki/Motor_speech_disorders"
+            },
+            {
+                "name": "neurological and physiological symptom",
+                "qid": "Q99860490"
+            }
+        ]
+    }
+}

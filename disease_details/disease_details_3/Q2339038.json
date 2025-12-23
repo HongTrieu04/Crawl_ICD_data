@@ -1,0 +1,84 @@
+{
+    "name": "neurogenic bladder",
+    "qid": "Q2339038",
+    "icd_10": "N31.9",
+    "description": "Human disease",
+    "aliases": [
+        "neurogenic bladder (finding)",
+        "neurogenic bladder NOS",
+        "neurogenic dysfunction of the urinary bladder",
+        "neurogenic dysfunction of the urinary bladder (finding)",
+        "neurogenic urinary bladder disorder",
+        "Neuropathic bladder",
+        "Urinary Bladder, Neurogenic"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Neurogenic_bladder_dysfunction",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "bladder disease",
+                "qid": "Q6066379",
+                "url": "https://en.wikipedia.org/wiki/Urinary_bladder_disease"
+            },
+            {
+                "name": "urination disorder",
+                "qid": "Q19000619"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "(RS)-baclofen",
+                "qid": "Q413717",
+                "url": "https://en.wikipedia.org/wiki/Baclofen"
+            },
+            {
+                "name": "hyoscyamine",
+                "qid": "Q413762",
+                "url": "https://en.wikipedia.org/wiki/Hyoscyamine"
+            },
+            {
+                "name": "bethanechol",
+                "qid": "Q419059",
+                "url": "https://en.wikipedia.org/wiki/Bethanechol"
+            },
+            {
+                "name": "(RS)-oxybutynin",
+                "qid": "Q1060922",
+                "url": "https://en.wikipedia.org/wiki/Oxybutynin"
+            },
+            {
+                "name": "mirabegron",
+                "qid": "Q3702534",
+                "url": "https://en.wikipedia.org/wiki/Mirabegron"
+            },
+            {
+                "name": "botulinum toxin type A",
+                "qid": "Q4095199"
+            },
+            {
+                "name": "distigmine",
+                "qid": "Q27149809"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "neurological disorder",
+                "qid": "Q3339235",
+                "url": "https://en.wikipedia.org/wiki/Neurological_disorder"
+            }
+        ]
+    }
+}

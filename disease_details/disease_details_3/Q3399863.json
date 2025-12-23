@@ -1,0 +1,69 @@
+{
+    "name": "postterm pregnancy",
+    "qid": "Q3399863",
+    "icd_10": "O48",
+    "description": "when a pregnant person has not yet delivered after 42 weeks of gestation, two weeks beyond the typical 40-week duration",
+    "aliases": [
+        "late pregnancy",
+        "obsolete late pregnancy",
+        "obsolete prolonged pregnancy",
+        "postmature birth",
+        "prolonged pregnancy"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Postterm_pregnancy",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "obstetrics and gynaecology",
+                "qid": "Q80015",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics_and_gynaecology"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "cesarean section",
+                "qid": "Q228036",
+                "url": "https://en.wikipedia.org/wiki/Caesarean_section"
+            },
+            {
+                "name": "labor induction",
+                "qid": "Q1497276",
+                "url": "https://en.wikipedia.org/wiki/Labor_induction"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "shoulder dystocia",
+                "qid": "Q420240",
+                "url": "https://en.wikipedia.org/wiki/Shoulder_dystocia"
+            },
+            {
+                "name": "oligohydramnios",
+                "qid": "Q1144406",
+                "url": "https://en.wikipedia.org/wiki/Oligohydramnios"
+            },
+            {
+                "name": "large for gestational age",
+                "qid": "Q1886514",
+                "url": "https://en.wikipedia.org/wiki/Large_for_gestational_age"
+            },
+            {
+                "name": "meconium aspiration syndrome",
+                "qid": "Q1918881",
+                "url": "https://en.wikipedia.org/wiki/Meconium_aspiration_syndrome"
+            },
+            {
+                "name": "reduction",
+                "qid": "Q47496130"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "complications of pregnancy",
+                "qid": "Q2916477",
+                "url": "https://en.wikipedia.org/wiki/Complications_of_pregnancy"
+            }
+        ]
+    }
+}

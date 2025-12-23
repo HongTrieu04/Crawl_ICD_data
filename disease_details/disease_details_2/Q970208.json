@@ -1,0 +1,33 @@
+{
+    "name": "liver failure",
+    "qid": "Q970208",
+    "icd_10": "K72.9",
+    "description": "inability of the liver to perform its normal functions",
+    "aliases": [
+        "hepatic insufficiency",
+        "liver insufficiency",
+        "reduced liver function"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Depiction%20of%20a%20liver%20failure%20patient.png",
+    "url": "https://en.wikipedia.org/wiki/Liver_failure",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            },
+            {
+                "name": "hepatology",
+                "qid": "Q668064",
+                "url": "https://en.wikipedia.org/wiki/Hepatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "hepatic insufficiency",
+                "qid": "Q68663705"
+            }
+        ]
+    }
+}

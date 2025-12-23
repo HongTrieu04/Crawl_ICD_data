@@ -1,0 +1,31 @@
+{
+    "name": "acute esophageal necrosis",
+    "qid": "Q4677926",
+    "icd_10": "K20",
+    "description": "medical condition",
+    "aliases": [
+        "AEN",
+        "acute oesophageal necrosis",
+        "black esophagus",
+        "black oesophagus",
+        "Gurvits syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Acute_esophageal_necrosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "esophageal disease",
+                "qid": "Q2912193",
+                "url": "https://en.wikipedia.org/wiki/Esophageal_disease"
+            }
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "name": "bladder exstrophy",
+    "qid": "Q258858",
+    "icd_10": "Q64.1",
+    "description": "congenital disorder of urinary system",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Classical%20bladder%20exstrophy.jpg",
+    "url": "https://en.wikipedia.org/wiki/Bladder_exstrophy",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "bladder disease",
+                "qid": "Q6066379",
+                "url": "https://en.wikipedia.org/wiki/Urinary_bladder_disease"
+            },
+            {
+                "name": "bladder exstrophy-epispadias-cloacal exstrophy complex",
+                "qid": "Q32137168"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "urinary bladder",
+                "qid": "Q9382",
+                "url": "https://en.wikipedia.org/wiki/Bladder"
+            }
+        ]
+    }
+}

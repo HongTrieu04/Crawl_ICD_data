@@ -1,0 +1,28 @@
+{
+    "name": "malum perforans",
+    "qid": "Q1764657",
+    "icd_10": "L97",
+    "description": "medical condition",
+    "aliases": [
+        "neuropathic ulcer",
+        "neurotrophic ulcer"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Malum_perforans",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "ulcer",
+                "qid": "Q6452285",
+                "url": "https://en.wikipedia.org/wiki/Ulcer_(dermatology)"
+            }
+        ]
+    }
+}

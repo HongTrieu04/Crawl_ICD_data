@@ -1,0 +1,38 @@
+{
+    "name": "Separated shoulder",
+    "qid": "Q1423943",
+    "icd_10": "S43.1",
+    "description": "medical condition",
+    "aliases": [
+        "acromioclavicular joint injury"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Separated_shoulder",
+    "details": {
+        "Anatomical location": [
+            {
+                "name": "acromioclavicular joint",
+                "qid": "Q1640207",
+                "url": "https://en.wikipedia.org/wiki/Acromioclavicular_joint"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "shoulder problem",
+                "qid": "Q7502714",
+                "url": "https://en.wikipedia.org/wiki/Shoulder_problems"
+            },
+            {
+                "name": "disorder of acromioclavicular joint",
+                "qid": "Q3624465"
+            }
+        ]
+    }
+}

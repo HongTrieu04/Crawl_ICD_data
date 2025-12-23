@@ -1,0 +1,24 @@
+{
+    "name": "scaphoid fracture",
+    "qid": "Q922425",
+    "icd_10": "S62.0",
+    "description": "Fracture of the scaphoid bone in the wrist",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/X-ray%20of%20scaphoid%20fracture.png",
+    "url": "https://en.wikipedia.org/wiki/Scaphoid_fracture",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "forearm fracture",
+                "qid": "Q2390477"
+            }
+        ]
+    }
+}

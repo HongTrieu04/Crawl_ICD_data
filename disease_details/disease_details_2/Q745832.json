@@ -1,0 +1,67 @@
+{
+    "name": "stillbirth",
+    "qid": "Q745832",
+    "icd_10": "P95",
+    "description": "death of a fetus before or during delivery",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Stillbirth",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "pediatrics",
+                "qid": "Q123028",
+                "url": "https://en.wikipedia.org/wiki/Pediatrics"
+            },
+            {
+                "name": "obstetrics",
+                "qid": "Q5284418",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "bleeding",
+                "qid": "Q166019",
+                "url": "https://en.wikipedia.org/wiki/Bleeding"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "internal bleeding",
+                "qid": "Q2361887",
+                "url": "https://en.wikipedia.org/wiki/Internal_bleeding"
+            },
+            {
+                "name": "intrahepatic cholestasis of pregnancy",
+                "qid": "Q60195073",
+                "url": "https://en.wikipedia.org/wiki/Intrahepatic_cholestasis_of_pregnancy"
+            },
+            {
+                "name": "intrauterine death",
+                "qid": "Q25489115"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "manner of death",
+                "qid": "Q2438541",
+                "url": "https://en.wikipedia.org/wiki/Manner_of_death"
+            },
+            {
+                "name": "complications of pregnancy",
+                "qid": "Q2916477",
+                "url": "https://en.wikipedia.org/wiki/Complications_of_pregnancy"
+            },
+            {
+                "name": "pregnancy with abortive outcome",
+                "qid": "Q96649463",
+                "url": "https://en.wikipedia.org/wiki/Pregnancy_with_abortive_outcome"
+            },
+            {
+                "name": "reproductive system symptom",
+                "qid": "Q102186786"
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "name": "pleurisy",
+    "qid": "Q55998",
+    "icd_10": "R09.1",
+    "description": "disease of the lungs",
+    "aliases": [
+        "pleuritis",
+        "Pleurisy"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pleurisy.png",
+    "url": "https://en.wikipedia.org/wiki/Pleurisy",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "pleural disease",
+                "qid": "Q7204732",
+                "url": "https://en.wikipedia.org/wiki/Pleural_disease"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ]
+    }
+}

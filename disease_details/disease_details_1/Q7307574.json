@@ -1,0 +1,37 @@
+{
+    "name": "Refractory cytopenia with multilineage dysplasia",
+    "qid": "Q7307574",
+    "icd_10": "D46.7",
+    "description": "disease",
+    "aliases": [
+        "MDS-MLD",
+        "Myelodysplastic Syndrome with Multilineage Dysplasia",
+        "RCMD",
+        "Refractory Cytopenia with Multilineage Dysplasia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Refractory_cytopenia_with_multilineage_dysplasia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "myelodysplastic syndrome",
+                "qid": "Q954625",
+                "url": "https://en.wikipedia.org/wiki/Myelodysplastic_syndrome"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "(RS)-lenalidomide",
+                "qid": "Q425681",
+                "url": "https://en.wikipedia.org/wiki/Lenalidomide"
+            }
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "name": "execution",
+    "qid": "Q3966286",
+    "icd_10": "Y35.5",
+    "description": "homicide as capital punishment",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rudolf%20Hoess%20Trial%20Sentence.jpg",
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "manner of death",
+                "qid": "Q2438541",
+                "url": "https://en.wikipedia.org/wiki/Manner_of_death"
+            },
+            {
+                "name": "homicide",
+                "qid": "Q149086",
+                "url": "https://en.wikipedia.org/wiki/Homicide"
+            },
+            {
+                "name": "institutional violence",
+                "qid": "Q30904503"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "sentence",
+                "qid": "Q1763090",
+                "url": "https://en.wikipedia.org/wiki/Sentence_(law)"
+            }
+        ]
+    }
+}

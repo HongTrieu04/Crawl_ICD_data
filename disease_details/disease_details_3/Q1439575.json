@@ -1,0 +1,24 @@
+{
+    "name": "Erythema toxicum neonatorum",
+    "qid": "Q1439575",
+    "icd_10": "P83.1",
+    "description": "medical condition",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Erytherma%20toxicum%20neonatorum.jpg",
+    "url": "https://en.wikipedia.org/wiki/Erythema_toxicum_neonatorum",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "pediatrics",
+                "qid": "Q123028",
+                "url": "https://en.wikipedia.org/wiki/Pediatrics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "perinatal disease",
+                "qid": "Q18968218"
+            }
+        ]
+    }
+}

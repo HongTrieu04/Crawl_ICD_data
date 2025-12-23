@@ -1,0 +1,35 @@
+{
+    "name": "gastrointestinal perforation",
+    "qid": "Q279324",
+    "icd_10": "K63.1",
+    "description": "perforation in the wall of part of the gastrointestinal tract.",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Free%20air2010.JPG",
+    "url": "https://en.wikipedia.org/wiki/Gastrointestinal_perforation",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            },
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "intestinal disease",
+                "qid": "Q3055380",
+                "url": "https://en.wikipedia.org/wiki/Enteropathy"
+            },
+            {
+                "name": "organ perforation",
+                "qid": "Q16965421",
+                "url": "https://en.wikipedia.org/wiki/Organ_perforation"
+            }
+        ]
+    }
+}

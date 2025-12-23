@@ -1,0 +1,25 @@
+{
+    "name": "Beau's lines",
+    "qid": "Q4877328",
+    "icd_10": "L60.4",
+    "description": "deep horizontal ridges on fingernails or toenails",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Beau%27s%20line%20on%20left%2C%20middle%20fingernail.jpg",
+    "url": "https://en.wikipedia.org/wiki/Beau%27s_lines",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "nail disease",
+                "qid": "Q2084035",
+                "url": "https://en.wikipedia.org/wiki/Nail_disease"
+            }
+        ]
+    }
+}

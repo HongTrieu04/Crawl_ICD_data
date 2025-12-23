@@ -1,0 +1,21 @@
+{
+    "name": "Hereditary sideroblastic anemia",
+    "qid": "Q3616631",
+    "icd_10": "D64.0",
+    "description": "human disease",
+    "aliases": [
+        "Congenital sideroblastic anemia",
+        "constitutional sideroblastic anemia"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "sideroblastic anaemia P",
+                "qid": "Q2610084",
+                "url": "https://en.wikipedia.org/wiki/Sideroblastic_anemia"
+            }
+        ]
+    }
+}

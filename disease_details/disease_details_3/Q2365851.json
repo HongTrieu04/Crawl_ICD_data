@@ -1,0 +1,37 @@
+{
+    "name": "hangman's fracture",
+    "qid": "Q2365851",
+    "icd_10": "S12.1",
+    "description": "fracture of both pedicles of the axis vertebra",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hangman%27s%20fracture.JPG",
+    "url": "https://en.wikipedia.org/wiki/Hangman%27s_fracture",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "cervical fracture",
+                "qid": "Q3538106",
+                "url": "https://en.wikipedia.org/wiki/Cervical_fracture"
+            },
+            {
+                "name": "bone fracture",
+                "qid": "Q68833",
+                "url": "https://en.wikipedia.org/wiki/Bone_fracture"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "axis",
+                "qid": "Q792567",
+                "url": "https://en.wikipedia.org/wiki/Axis_(anatomy)"
+            }
+        ]
+    }
+}

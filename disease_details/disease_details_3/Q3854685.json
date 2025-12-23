@@ -1,0 +1,42 @@
+{
+    "name": "pneumococcal meningitis",
+    "qid": "Q3854685",
+    "icd_10": "G00.1",
+    "description": "human disease",
+    "aliases": [
+        "obsolete pneumococcal meningitis",
+        "Pneumococcal meningitis",
+        "Pneumococcal meningitis (disorder)"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            },
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "pneumococcal infection",
+                "qid": "Q4366062",
+                "url": "https://en.wikipedia.org/wiki/Pneumococcal_infection"
+            },
+            {
+                "name": "bacterial meningitis",
+                "qid": "Q3678510"
+            },
+            {
+                "name": "infectious disease with epilepsy",
+                "qid": "Q55785635"
+            }
+        ]
+    }
+}

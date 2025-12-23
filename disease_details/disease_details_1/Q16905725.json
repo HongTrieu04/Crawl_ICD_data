@@ -1,0 +1,30 @@
+{
+    "name": "Intestinal varices",
+    "qid": "Q16905725",
+    "icd_10": "I86.8",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Intestinal_varices",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "varicose veins",
+                "qid": "Q201180",
+                "url": "https://en.wikipedia.org/wiki/Varicose_veins"
+            },
+            {
+                "name": "intestinal disease",
+                "qid": "Q3055380",
+                "url": "https://en.wikipedia.org/wiki/Enteropathy"
+            }
+        ]
+    }
+}

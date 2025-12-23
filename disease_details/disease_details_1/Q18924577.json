@@ -1,0 +1,20 @@
+{
+    "name": "gastrointestinal mucormycosis",
+    "qid": "Q18924577",
+    "icd_10": "B46.2",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete gastrointestinal mucormycosis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "mucormycosis",
+                "qid": "Q6931254",
+                "url": "https://en.wikipedia.org/wiki/Mucormycosis"
+            }
+        ]
+    }
+}

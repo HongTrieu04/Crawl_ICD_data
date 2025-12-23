@@ -1,0 +1,26 @@
+{
+    "name": "ectopia cordis",
+    "qid": "Q1356194",
+    "icd_10": "Q24.8",
+    "description": "congenital malformation in which the heart is abnormally located either partially or totally outside of the thorax",
+    "aliases": [
+        "ectopic heart"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Beb%C3%AA%20com%20cora%C3%A7%C3%A3o%20exposto%20%C3%A9%20encaminhado%20para%20o%20Incor%20em%20S%C3%A3o%20Paulo%20%2814008648994%29.jpg",
+    "url": "https://en.wikipedia.org/wiki/Ectopia_cordis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "heart position anomaly",
+                "qid": "Q55789278"
+            }
+        ]
+    }
+}

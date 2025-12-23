@@ -1,0 +1,32 @@
+{
+    "name": "uremic pericarditis",
+    "qid": "Q7900393",
+    "icd_10": "N18.8",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Uremic_pericarditis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "pericarditis",
+                "qid": "Q501561",
+                "url": "https://en.wikipedia.org/wiki/Pericarditis"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "uremia",
+                "qid": "Q13365776",
+                "url": "https://en.wikipedia.org/wiki/Uremia"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Patellar tendon rupture",
+    "qid": "Q1748911",
+    "icd_10": "S76.1",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Patellar_tendon_rupture",
+    "details": {
+        "Anatomical location": [
+            {
+                "name": "patellar tendon",
+                "qid": "Q1172095",
+                "url": "https://en.wikipedia.org/wiki/Patellar_tendon"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "tendon rupture",
+                "qid": "Q40889763",
+                "url": "https://en.wikipedia.org/wiki/Tendon_rupture"
+            }
+        ]
+    }
+}

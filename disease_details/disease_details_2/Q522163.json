@@ -1,0 +1,48 @@
+{
+    "name": "Sydenham's chorea",
+    "qid": "Q522163",
+    "icd_10": "I02",
+    "description": "disorder characterized by rapid, uncoordinated jerking movements primarily affecting the face, hands and feet",
+    "aliases": [
+        "chorea minor",
+        "rheumatic chorea",
+        "Rheumatic chorea",
+        "St Vitus' dance"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Sydenham%27s_chorea",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "choreatic disease",
+                "qid": "Q1076421",
+                "url": "https://en.wikipedia.org/wiki/Chorea"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "choreatic disease",
+                "qid": "Q1076421",
+                "url": "https://en.wikipedia.org/wiki/Chorea"
+            },
+            {
+                "name": "postinfectious autoimmune disease with chorea",
+                "qid": "Q55787248"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "infection",
+                "qid": "Q166231",
+                "url": "https://en.wikipedia.org/wiki/Infection"
+            }
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "name": "wound",
+    "qid": "Q184753",
+    "icd_10": "T14.1",
+    "description": "type of injury which happens relatively quickly in which skin is torn, cut, or punctured (an open wound), or where blunt force trauma causes a contusion (a closed wound)",
+    "aliases": [
+        "skin injury",
+        "skin wound"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chapter1figure1-Superficial%20bullet%20wound.jpg",
+    "url": "https://en.wikipedia.org/wiki/Wound",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "skin trauma",
+                "qid": "Q7535430",
+                "url": "https://en.wikipedia.org/wiki/Skin_trauma"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "wound closure technique",
+                "qid": "Q72257696"
+            }
+        ]
+    }
+}

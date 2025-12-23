@@ -1,0 +1,25 @@
+{
+    "name": "nephritic syndrome",
+    "qid": "Q2074424",
+    "icd_10": "N05",
+    "description": "medical condition with the kidneys",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Nephritic_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "nephrology",
+                "qid": "Q177635",
+                "url": "https://en.wikipedia.org/wiki/Nephrology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "glomerulopathy",
+                "qid": "Q3347169",
+                "url": "https://en.wikipedia.org/wiki/Glomerulopathy"
+            }
+        ]
+    }
+}

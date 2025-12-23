@@ -1,0 +1,32 @@
+{
+    "name": "Dejerine–Sottas disease",
+    "qid": "Q845618",
+    "icd_10": "G60.0",
+    "description": "a rare hereditary neurological disorder characterised by damage to the peripheral nerves and resulting progressive muscle wasting",
+    "aliases": [
+        "Charcot-Marie-Tooth type 3",
+        "Dejerine–Sottas neuropathy",
+        "Dejerine–Sottas syndrome",
+        "hereditary motor and sensory polyneuropathy type III",
+        "onion bulb neuropathy",
+        "progressive hypertrophic interstitial polyneuropathy of childhood"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Dejerine%E2%80%93Sottas_disease",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "Charcot–Marie–Tooth disease",
+                "qid": "Q1052687",
+                "url": "https://en.wikipedia.org/wiki/Charcot%E2%80%93Marie%E2%80%93Tooth_disease"
+            }
+        ]
+    }
+}

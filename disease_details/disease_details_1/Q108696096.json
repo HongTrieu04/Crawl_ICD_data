@@ -1,0 +1,27 @@
+{
+    "name": "irritation fibroma",
+    "qid": "Q108696096",
+    "icd_10": "K13.6",
+    "description": "disease",
+    "aliases": [
+        "Irritative hyperplasia of oral mucosa"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Irritation_fibroma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "mouth disease",
+                "qid": "Q2508462",
+                "url": "https://en.wikipedia.org/wiki/Oral_and_maxillofacial_pathology"
+            }
+        ]
+    }
+}

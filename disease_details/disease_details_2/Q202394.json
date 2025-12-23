@@ -1,0 +1,38 @@
+{
+    "name": "obesity hypoventilation syndrome",
+    "qid": "Q202394",
+    "icd_10": "E66.2",
+    "description": "condition in which severely overweight people fail to breathe rapidly or deeply enough",
+    "aliases": [
+        "OBESITY-HYPOVENTILATION SYNDROME",
+        "Pickwickian Syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Obesity_hypoventilation_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "genetic disease",
+                "qid": "Q200779",
+                "url": "https://en.wikipedia.org/wiki/Genetic_disorder"
+            },
+            {
+                "name": "respiratory disease",
+                "qid": "Q3286546",
+                "url": "https://en.wikipedia.org/wiki/Respiratory_disease"
+            },
+            {
+                "name": "obesity-associated morbidity",
+                "qid": "Q7074844",
+                "url": "https://en.wikipedia.org/wiki/Obesity-associated_morbidity"
+            }
+        ]
+    }
+}

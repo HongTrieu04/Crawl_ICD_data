@@ -1,0 +1,41 @@
+{
+    "name": "heterochromia iridum",
+    "qid": "Q461486",
+    "icd_10": "H21.24",
+    "description": "difference in coloration, usually of the iris but also of hair or skin",
+    "aliases": [
+        "heterochromia iridis",
+        "Heterochromia iridum",
+        "heterochromia of the eye",
+        "odd-eye",
+        "odd-eyed"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/P112sasa0672%20%28cropped%29.jpg",
+    "url": "https://en.wikipedia.org/wiki/Heterochromia_iridum",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "genetic disease",
+                "qid": "Q200779",
+                "url": "https://en.wikipedia.org/wiki/Genetic_disorder"
+            },
+            {
+                "name": "genodermatosis",
+                "qid": "Q666075",
+                "url": "https://en.wikipedia.org/wiki/Genodermatosis"
+            },
+            {
+                "name": "phenotypic trait",
+                "qid": "Q1211967",
+                "url": "https://en.wikipedia.org/wiki/Phenotypic_trait"
+            }
+        ]
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "name": "pentalogy of Cantrell",
+    "qid": "Q7165022",
+    "icd_10": "Q89.7",
+    "description": "disease",
+    "aliases": [
+        "TAS",
+        "THAS",
+        "Cantrell deformity",
+        "Cantrell Haller Ravitsch syndrome",
+        "Cantrell pentalogy",
+        "Cantrell syndrome",
+        "Midline Defects, X-Linked",
+        "Thoraco-abdominal syndrome",
+        "Thoracoabdominal Syndrome",
+        "THORACOABDOMINAL SYNDROME; THAS"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pentalogy_of_Cantrell",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "congenital disorder",
+                "qid": "Q727096",
+                "url": "https://en.wikipedia.org/wiki/Birth_defect"
+            },
+            {
+                "name": "multiple congenital anomalies/dysmorphic syndrome without intellectual disability",
+                "qid": "Q55785290"
+            },
+            {
+                "name": "syndromic diaphragmatic or abdominal wall malformation",
+                "qid": "Q55785334"
+            },
+            {
+                "name": "syndromic diaphragmatic or thoracic malformation",
+                "qid": "Q55785792"
+            },
+            {
+                "name": "rare genetic developmental defect during embryogenesis",
+                "qid": "Q55785846"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "ectopia cordis",
+                "qid": "Q1356194",
+                "url": "https://en.wikipedia.org/wiki/Ectopia_cordis"
+            },
+            {
+                "name": "omphalocele",
+                "qid": "Q1521567",
+                "url": "https://en.wikipedia.org/wiki/Omphalocele"
+            },
+            {
+                "name": "diaphragmatic hernia",
+                "qid": "Q2119430",
+                "url": "https://en.wikipedia.org/wiki/Diaphragmatic_hernia"
+            },
+            {
+                "name": "Sternal cleft",
+                "qid": "Q3952108",
+                "url": "https://en.wikipedia.org/wiki/Sternal_cleft"
+            }
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "name": "Müllerian agenesis",
+    "qid": "Q1473749",
+    "icd_10": "Q51.0",
+    "description": "congenital atypical development of Müllerian ducts",
+    "aliases": [
+        "Mayer-Rokitansky-Kuster-Hauser syndrome",
+        "Mayer-Rokitansky-Küster-Hauser syndrome",
+        "Mayerův-Rokitanského-Küsterův-Hauserův syndrom",
+        "MRKH",
+        "MRKH syndrome",
+        "MULLERIAN APLASIA AND HYPERANDROGENISM",
+        "Müllerian aplasia and hyperandrogenism",
+        "Mullerian duct failure and hyperandrogenism",
+        "Müllerian duct failure and hyperandrogenism",
+        "Rokitansky syndrome",
+        "WNT4 deficiency"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Agenesia%20de%20vagina2.png",
+    "url": "https://en.wikipedia.org/wiki/M%C3%BCllerian_agenesis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "agenesis",
+                "qid": "Q392604",
+                "url": "https://en.wikipedia.org/wiki/Agenesis"
+            },
+            {
+                "name": "uterine malformation",
+                "qid": "Q2034363",
+                "url": "https://en.wikipedia.org/wiki/Uterine_malformation"
+            },
+            {
+                "name": "vaginal aplasia",
+                "qid": "Q2507260"
+            },
+            {
+                "name": "partial bilateral aplasia of the mullerian ducts",
+                "qid": "Q55785750"
+            },
+            {
+                "name": "syndrome with 46,XX disorder of sex development",
+                "qid": "Q55787628"
+            },
+            {
+                "name": "syndrome with disorder of sex development of gynecological interest",
+                "qid": "Q55787661"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

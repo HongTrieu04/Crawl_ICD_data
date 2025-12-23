@@ -1,0 +1,45 @@
+{
+    "name": "vesicovaginal fistula",
+    "qid": "Q3702211",
+    "icd_10": "N82.0",
+    "description": "abnormal passage between the bladder and the vagina",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vesicovaginal%20Fistula.png",
+    "url": "https://en.wikipedia.org/wiki/Vesicovaginal_fistula",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "urogenital fistula",
+                "qid": "Q48207191",
+                "url": "https://en.wikipedia.org/wiki/Urogenital_fistula"
+            },
+            {
+                "name": "urinary bladder fistula",
+                "qid": "Q55082286"
+            },
+            {
+                "name": "vaginal fistula",
+                "qid": "Q99639166"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "vagina",
+                "qid": "Q5880",
+                "url": "https://en.wikipedia.org/wiki/Vagina"
+            },
+            {
+                "name": "urinary bladder",
+                "qid": "Q9382",
+                "url": "https://en.wikipedia.org/wiki/Bladder"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gynaecology",
+                "qid": "Q1221899",
+                "url": "https://en.wikipedia.org/wiki/Gynaecology"
+            }
+        ]
+    }
+}

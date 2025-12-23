@@ -1,0 +1,28 @@
+{
+    "name": "distal radius fracture",
+    "qid": "Q1229353",
+    "icd_10": "S52.5",
+    "description": "break of the part of the radius bone which is close to the wrist",
+    "aliases": [
+        "distal radius fractures",
+        "wrist fracture",
+        "wrist fractures"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Collesfracture.jpg",
+    "url": "https://en.wikipedia.org/wiki/Distal_radius_fracture",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "orthopedics",
+                "qid": "Q216685",
+                "url": "https://en.wikipedia.org/wiki/Orthopedic_surgery"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "radius fracture",
+                "qid": "Q54911877"
+            }
+        ]
+    }
+}

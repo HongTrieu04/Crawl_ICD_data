@@ -1,0 +1,37 @@
+{
+    "name": "Rh deficiency syndrome",
+    "qid": "Q7319955",
+    "icd_10": "D58.8",
+    "description": "Human disease",
+    "aliases": [
+        "RHN",
+        "Rh Deficiency Syndrome",
+        "Rh-Null Disease",
+        "Rh-null syndrome",
+        "RH-NULL, REGULATOR TYPE",
+        "RH-NULL, REGULATOR TYPE; RHN"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Rh_deficiency_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "hereditary stomatocytosis",
+                "qid": "Q3973817",
+                "url": "https://en.wikipedia.org/wiki/Hereditary_stomatocytosis"
+            },
+            {
+                "name": "hemolytic anemia",
+                "qid": "Q1145668",
+                "url": "https://en.wikipedia.org/wiki/Hemolytic_anemia"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            }
+        ]
+    }
+}

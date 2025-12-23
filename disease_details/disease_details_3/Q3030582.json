@@ -1,0 +1,28 @@
+{
+    "name": "cephalopelvic disproportion",
+    "qid": "Q3030582",
+    "icd_10": "O33.9",
+    "description": "Contracted pelvic unable to allow normal vaginal birth.",
+    "aliases": [
+        "CPD",
+        "cephalo-pelvic disproportion"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Cephalopelvic_disproportion",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "obstetrics",
+                "qid": "Q5284418",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "obstetric labor complication",
+                "qid": "Q7075540",
+                "url": "https://en.wikipedia.org/wiki/Obstetric_labor_complication"
+            }
+        ]
+    }
+}

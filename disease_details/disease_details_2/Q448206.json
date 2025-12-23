@@ -1,0 +1,33 @@
+{
+    "name": "Paget–Schroetter disease",
+    "qid": "Q448206",
+    "icd_10": "I82.8",
+    "description": "form of upper extremity deep vein thrombosis",
+    "aliases": [
+        "Paget-Schroetter syndrome",
+        "Paget–Schrotter disease",
+        "Paget–Schrötter disease",
+        "Paget–von Schroetter syndrome",
+        "Paget–von Schrotter disease",
+        "Paget–von Schrötter disease",
+        "Paget–von Schrötter syndrome"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gray576.png",
+    "url": "https://en.wikipedia.org/wiki/Paget%E2%80%93Schroetter_disease",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "deep vein thrombosis",
+                "qid": "Q1762339",
+                "url": "https://en.wikipedia.org/wiki/Deep_vein_thrombosis"
+            }
+        ]
+    }
+}

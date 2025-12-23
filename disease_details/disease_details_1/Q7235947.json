@@ -1,0 +1,114 @@
+{
+    "name": "Powassan encephalitis",
+    "qid": "Q7235947",
+    "icd_10": "A84.8",
+    "description": "Human disease",
+    "aliases": [
+        "encephalitis, powassan",
+        "powassan encephalitis virus infection"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Powassan_encephalitis",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            },
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "vomiting",
+                "qid": "Q127076",
+                "url": "https://en.wikipedia.org/wiki/Vomiting"
+            },
+            {
+                "name": "somnolence",
+                "qid": "Q1077823",
+                "url": "https://en.wikipedia.org/wiki/Somnolence"
+            },
+            {
+                "name": "coma",
+                "qid": "Q159557",
+                "url": "https://en.wikipedia.org/wiki/Coma"
+            },
+            {
+                "name": "myalgia",
+                "qid": "Q474959",
+                "url": "https://en.wikipedia.org/wiki/Myalgia"
+            },
+            {
+                "name": "spasm",
+                "qid": "Q574360",
+                "url": "https://en.wikipedia.org/wiki/Spasm"
+            },
+            {
+                "name": "ataxia",
+                "qid": "Q213373",
+                "url": "https://en.wikipedia.org/wiki/Ataxia"
+            },
+            {
+                "name": "sore throat",
+                "qid": "Q1292082",
+                "url": "https://en.wikipedia.org/wiki/Sore_throat"
+            },
+            {
+                "name": "chills",
+                "qid": "Q2260058",
+                "url": "https://en.wikipedia.org/wiki/Chills"
+            },
+            {
+                "name": "hemiparesis",
+                "qid": "Q2291130",
+                "url": "https://en.wikipedia.org/wiki/Hemiparesis"
+            },
+            {
+                "name": "confusion of consciousness",
+                "qid": "Q65202123"
+            },
+            {
+                "name": "seizure",
+                "qid": "Q102187224"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "tick-borne encephalitis",
+                "qid": "Q326663",
+                "url": "https://en.wikipedia.org/wiki/Tick-borne_encephalitis"
+            },
+            {
+                "name": "arbovirosis",
+                "qid": "Q2859732"
+            },
+            {
+                "name": "disease transmitted by hematophagous arthropods",
+                "qid": "Q22920843"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Powassan virus",
+                "qid": "Q3053946",
+                "url": "https://en.wikipedia.org/wiki/Powassan_virus"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "supportive care",
+                "qid": "Q3488952"
+            }
+        ]
+    }
+}

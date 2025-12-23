@@ -1,0 +1,70 @@
+{
+    "name": "status asthmaticus",
+    "qid": "Q826759",
+    "icd_10": "J46",
+    "description": "type of asthma",
+    "aliases": [
+        "Asthma with status asthmaticus",
+        "Asthma with status asthmaticus (disorder)",
+        "Severe asthma attack"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Acute_severe_asthma",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "asthma",
+                "qid": "Q35869",
+                "url": "https://en.wikipedia.org/wiki/Asthma"
+            },
+            {
+                "name": "acute asthma",
+                "qid": "Q102293791"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "isoflurane",
+                "qid": "Q413918",
+                "url": "https://en.wikipedia.org/wiki/Isoflurane"
+            },
+            {
+                "name": "cortisol",
+                "qid": "Q190875",
+                "url": "https://en.wikipedia.org/wiki/Cortisol"
+            },
+            {
+                "name": "halothane",
+                "qid": "Q32921",
+                "url": "https://en.wikipedia.org/wiki/Halothane"
+            },
+            {
+                "name": "diethyl ether",
+                "qid": "Q202218",
+                "url": "https://en.wikipedia.org/wiki/Diethyl_ether"
+            },
+            {
+                "name": "omalizumab",
+                "qid": "Q415392",
+                "url": "https://en.wikipedia.org/wiki/Omalizumab"
+            },
+            {
+                "name": "enflurane",
+                "qid": "Q416740",
+                "url": "https://en.wikipedia.org/wiki/Enflurane"
+            }
+        ]
+    }
+}

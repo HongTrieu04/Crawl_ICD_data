@@ -1,0 +1,41 @@
+{
+    "name": "hyperhidrosis",
+    "qid": "Q935781",
+    "icd_10": "R61",
+    "description": "human medical condition",
+    "aliases": [
+        "excessive sweating"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hyper%20schweisshand%20sb.jpg",
+    "url": "https://en.wikipedia.org/wiki/Hyperhidrosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "hyoscyamine",
+                "qid": "Q413762",
+                "url": "https://en.wikipedia.org/wiki/Hyoscyamine"
+            },
+            {
+                "name": "aluminum chlorohydrex propylene glycol",
+                "qid": "Q27286540"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "sweat gland disease",
+                "qid": "Q18554617"
+            },
+            {
+                "name": "abnormal sudomotor regulation",
+                "qid": "Q56565058"
+            }
+        ]
+    }
+}

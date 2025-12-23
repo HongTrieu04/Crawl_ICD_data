@@ -1,0 +1,62 @@
+{
+    "name": "tracheoesophageal fistula",
+    "qid": "Q7831319",
+    "icd_10": "J95.0",
+    "description": "congenital disorder of digestive system",
+    "aliases": [
+        "esophageal atresia and/or tracheoesophageal fistula",
+        "esophageal atresia/tracheoesophageal fistula",
+        "tracheoesophageal fistula with or without esohageal atresia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Tracheoesophageal_fistula",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "gastrointestinal system disease",
+                "qid": "Q2300099",
+                "url": "https://en.wikipedia.org/wiki/Gastrointestinal_disease"
+            },
+            {
+                "name": "esophageal disease",
+                "qid": "Q2912193",
+                "url": "https://en.wikipedia.org/wiki/Esophageal_disease"
+            },
+            {
+                "name": "tracheal disease",
+                "qid": "Q18555344"
+            },
+            {
+                "name": "respiratory system abnormality",
+                "qid": "Q18975820"
+            },
+            {
+                "name": "esophageal fistula",
+                "qid": "Q41795609"
+            },
+            {
+                "name": "respiratory tract fistula",
+                "qid": "Q54943915"
+            },
+            {
+                "name": "non-syndromic esophageal malformation",
+                "qid": "Q55785324"
+            },
+            {
+                "name": "non-syndromic respiratory or mediastinal malformation",
+                "qid": "Q55785339"
+            },
+            {
+                "name": "rare genetic respiratory disease",
+                "qid": "Q55785522"
+            }
+        ]
+    }
+}

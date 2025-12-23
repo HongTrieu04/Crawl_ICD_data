@@ -1,0 +1,25 @@
+{
+    "name": "hepatic porphyria",
+    "qid": "Q3908490",
+    "icd_10": "E80",
+    "description": "form of porphyria in which the enzyme deficiency occurs in the liver",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hepatic_porphyria",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "porphyria",
+                "qid": "Q271759",
+                "url": "https://en.wikipedia.org/wiki/Porphyria"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "name": "cystic fibrosis-gastritis-megaloblastic anemia syndrome",
+    "qid": "Q29014927",
+    "icd_10": "E84.9",
+    "description": ", folate deficiency megaloblastic anemia, and intellectual disability. There have been no further descriptions in the literature since 1991.",
+    "aliases": [
+        "CYSTIC FIBROSIS WITH HELICOBACTER PYLORI GASTRITIS, MEGALOBLASTIC ANEMIA, AND MENTAL RETARDATION",
+        "Lubani Al Saleh Teebi syndrome",
+        "Lubani-Al Saleh-Teebi syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Lubani_Al_Saleh_Teebi_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "cystic fibrosis",
+                "qid": "Q178194",
+                "url": "https://en.wikipedia.org/wiki/Cystic_fibrosis"
+            },
+            {
+                "name": "rare gastroesophageal disease",
+                "qid": "Q55785259"
+            },
+            {
+                "name": "genetic gastro-esophageal disease",
+                "qid": "Q55785597"
+            }
+        ]
+    }
+}

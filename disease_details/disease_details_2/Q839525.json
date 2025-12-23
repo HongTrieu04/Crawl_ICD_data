@@ -1,0 +1,34 @@
+{
+    "name": "pesticide poisoning",
+    "qid": "Q839525",
+    "icd_10": "T60",
+    "description": "poisoning of humans from pesticide exposure",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pesticide_poisoning",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "occupational disease",
+                "qid": "Q637816",
+                "url": "https://en.wikipedia.org/wiki/Occupational_disease"
+            },
+            {
+                "name": "pesticide misuse",
+                "qid": "Q7171495",
+                "url": "https://en.wikipedia.org/wiki/Pesticide_misuse"
+            },
+            {
+                "name": "poisoning",
+                "qid": "Q114953"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ]
+    }
+}

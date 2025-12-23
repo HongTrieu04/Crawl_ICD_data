@@ -1,0 +1,27 @@
+{
+    "name": "Basopenia",
+    "qid": "Q4867827",
+    "icd_10": "D72.8",
+    "description": "medical condition",
+    "aliases": [
+        "basocytopenia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Basopenia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "agranulocytosis",
+                "qid": "Q396013",
+                "url": "https://en.wikipedia.org/wiki/Agranulocytosis"
+            }
+        ]
+    }
+}

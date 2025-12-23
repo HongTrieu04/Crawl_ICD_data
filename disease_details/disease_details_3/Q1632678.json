@@ -1,0 +1,27 @@
+{
+    "name": "Mallory–Weiss syndrome",
+    "qid": "Q1632678",
+    "icd_10": "K22.6",
+    "description": "bleeding from a laceration in the mucosa at the junction of the stomach and esophagus",
+    "aliases": [
+        "gastro-esophageal laceration syndrome"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mallory%20Weiss%20Tear.tif",
+    "url": "https://en.wikipedia.org/wiki/Mallory%E2%80%93Weiss_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "esophageal disease",
+                "qid": "Q2912193",
+                "url": "https://en.wikipedia.org/wiki/Esophageal_disease"
+            }
+        ]
+    }
+}

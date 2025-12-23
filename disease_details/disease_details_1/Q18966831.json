@@ -1,0 +1,30 @@
+{
+    "name": "iris and ciliary body vascular disorder",
+    "qid": "Q18966831",
+    "icd_10": "H21.1",
+    "description": "Human disease",
+    "aliases": [
+        "Iris and ciliary body vascular disorder",
+        "iris vascular disorder",
+        "obsolete Iris and ciliary body vascular disorder",
+        "obsolete iris vascular disorder",
+        "vascular disorder of iris and ciliary body"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Anatomical location": [
+            {
+                "name": "iris",
+                "qid": "Q178748",
+                "url": "https://en.wikipedia.org/wiki/Iris_(anatomy)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "iris disease",
+                "qid": "Q18555070"
+            }
+        ]
+    }
+}

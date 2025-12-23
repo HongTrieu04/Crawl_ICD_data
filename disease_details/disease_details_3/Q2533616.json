@@ -1,0 +1,31 @@
+{
+    "name": "Rhinophyma",
+    "qid": "Q2533616",
+    "icd_10": "L71.1",
+    "description": "condition causing development of a large, bulbous nose associated with granulomatous infiltration, commonly due to untreated rosacea",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rhinopyma.JPG",
+    "url": "https://en.wikipedia.org/wiki/Rhinophyma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "rosacea",
+                "qid": "Q831530",
+                "url": "https://en.wikipedia.org/wiki/Rosacea"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "nose, anomalous shape of",
+                "qid": "Q55781290"
+            }
+        ]
+    }
+}

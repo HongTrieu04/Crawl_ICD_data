@@ -1,0 +1,28 @@
+{
+    "name": "rheumatic pneumonia",
+    "qid": "Q18968046",
+    "icd_10": "J99.0",
+    "description": "human disease",
+    "aliases": [
+        "obsolete rheumatic pneumonia",
+        "Rheumatic pneumonia (disorder)"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Cause": [
+            {
+                "name": "rheumatic fever",
+                "qid": "Q753904",
+                "url": "https://en.wikipedia.org/wiki/Rheumatic_fever"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "pneumonia",
+                "qid": "Q12192",
+                "url": "https://en.wikipedia.org/wiki/Pneumonia"
+            }
+        ]
+    }
+}

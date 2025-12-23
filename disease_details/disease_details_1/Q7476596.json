@@ -1,0 +1,73 @@
+{
+    "name": "genital herpes",
+    "qid": "Q7476596",
+    "icd_10": "A60",
+    "description": "infection by herpes simplex virus (HSV) of the genitals",
+    "aliases": [
+        "herpes",
+        "Genital herpes simplex",
+        "Genital herpes simplex (disorder)",
+        "HERPES GENITALIA",
+        "Herpes Genitalis",
+        "venereal herpes",
+        "Virus-Genital Herpes"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Herpes%20simplex%20virus%20TEM%20B82-0474%20lores.jpg",
+    "url": "https://en.wikipedia.org/wiki/Genital_herpes",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "male reproductive system disease",
+                "qid": "Q6742925",
+                "url": "https://en.wikipedia.org/wiki/Male_genital_disease"
+            },
+            {
+                "name": "herpes simplex",
+                "qid": "Q6473911",
+                "url": "https://en.wikipedia.org/wiki/Herpes"
+            },
+            {
+                "name": "reproductive tract infection",
+                "qid": "Q54931661"
+            },
+            {
+                "name": "viral sexually transmitted disease",
+                "qid": "Q54959539"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "foscarnet",
+                "qid": "Q420387",
+                "url": "https://en.wikipedia.org/wiki/Foscarnet"
+            },
+            {
+                "name": "aciclovir",
+                "qid": "Q147101",
+                "url": "https://en.wikipedia.org/wiki/Aciclovir"
+            },
+            {
+                "name": "valacyclovir",
+                "qid": "Q418594",
+                "url": "https://en.wikipedia.org/wiki/Valaciclovir"
+            },
+            {
+                "name": "famciclovir",
+                "qid": "Q420186",
+                "url": "https://en.wikipedia.org/wiki/Famciclovir"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "name": "uterine malformation",
+    "qid": "Q2034363",
+    "icd_10": "Q51",
+    "description": "human disease",
+    "aliases": [
+        "uterine anomalies",
+        "uterovaginal malformation"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bicornuate%20Uterus.jpg",
+    "url": "https://en.wikipedia.org/wiki/Uterine_malformation",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "genetic disease",
+                "qid": "Q200779",
+                "url": "https://en.wikipedia.org/wiki/Genetic_disorder"
+            },
+            {
+                "name": "congenital anomaly of the genitalia",
+                "qid": "Q4066792",
+                "url": "https://en.wikipedia.org/wiki/Congenital_anomalies_of_the_genitalia"
+            },
+            {
+                "name": "uterine disease",
+                "qid": "Q18555940"
+            },
+            {
+                "name": "rare gynecologic or obstetric disease",
+                "qid": "Q55789007"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "name": "5-alpha-reductase deficiency",
+    "qid": "Q858426",
+    "icd_10": "Q56.3",
+    "description": "medical condition",
+    "aliases": [
+        "3-oxo-5 alpha-steroid delta 4-dehydrogenase deficiency",
+        "5 alpha steroid reductase 2 deficiency",
+        "5 alpha steroid reductase type 2 deficiency",
+        "5-ARD"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/5%CE%B1-Reductase_2_deficiency",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disorder of sex development, 46,XY",
+                "qid": "Q66653235",
+                "url": "https://en.wikipedia.org/wiki/Male_pseudohermaphrodism"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "ambiguous genitalia",
+                "qid": "Q111693701",
+                "url": "https://en.wikipedia.org/wiki/Ambiguous_genitalia"
+            }
+        ]
+    }
+}

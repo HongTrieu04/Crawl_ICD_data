@@ -1,0 +1,28 @@
+{
+    "name": "hydrocele",
+    "qid": "Q584211",
+    "icd_10": "P83.5",
+    "description": "human disease",
+    "aliases": [
+        "hydrocoele",
+        "testicular hydrocele"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gray1148.png",
+    "url": "https://en.wikipedia.org/wiki/Hydrocele",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "male reproductive system disease",
+                "qid": "Q6742925",
+                "url": "https://en.wikipedia.org/wiki/Male_genital_disease"
+            }
+        ]
+    }
+}

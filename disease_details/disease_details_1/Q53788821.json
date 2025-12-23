@@ -1,0 +1,21 @@
+{
+    "name": "antifungal drug resistance",
+    "qid": "Q53788821",
+    "icd_10": "U84.1",
+    "description": "loss of activity of antifungal drugs, because of genetic and physiological alterations in fungal cells",
+    "aliases": [
+        "Drug Resistance, Fungal",
+        "fungal drug resistance"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "antimicrobial resistance",
+                "qid": "Q63391344",
+                "url": "https://en.wikipedia.org/wiki/Antimicrobial_resistance"
+            }
+        ]
+    }
+}

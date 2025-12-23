@@ -1,0 +1,18 @@
+{
+    "name": "talus valgus",
+    "qid": "Q1777056",
+    "icd_10": "M21.5",
+    "description": "foot deformity",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "foot deformity",
+                "qid": "Q5465742",
+                "url": "https://en.wikipedia.org/wiki/Foot_deformity"
+            }
+        ]
+    }
+}

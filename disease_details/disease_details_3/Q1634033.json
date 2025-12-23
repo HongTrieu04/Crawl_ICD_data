@@ -1,0 +1,25 @@
+{
+    "name": "horseshoe kidney",
+    "qid": "Q1634033",
+    "icd_10": "Q63.1",
+    "description": "congenital disorder of urinary system",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Horseshoe_kidney",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "kidney disease",
+                "qid": "Q1054718",
+                "url": "https://en.wikipedia.org/wiki/Kidney_disease"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

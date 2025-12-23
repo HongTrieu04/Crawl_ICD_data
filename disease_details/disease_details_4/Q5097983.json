@@ -1,0 +1,21 @@
+{
+    "name": "Childhood linear IgA disease",
+    "qid": "Q5097983",
+    "icd_10": "L12.2",
+    "description": null,
+    "aliases": [
+        "Chronic bullous disease of childhood",
+        "Linear IgA bullous dermatosis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Childhood_linear_IgA_disease",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "linear IgA bullous dermatosis",
+                "qid": "Q5405504",
+                "url": "https://en.wikipedia.org/wiki/Linear_IgA_bullous_dermatosis"
+            }
+        ]
+    }
+}

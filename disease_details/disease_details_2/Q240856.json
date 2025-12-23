@@ -1,0 +1,36 @@
+{
+    "name": "hip fracture",
+    "qid": "Q240856",
+    "icd_10": "S72.0",
+    "description": "medical condition",
+    "aliases": [
+        "hip fractures"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nof%20garden2.jpg",
+    "url": "https://en.wikipedia.org/wiki/Hip_fracture",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "bone fracture",
+                "qid": "Q68833",
+                "url": "https://en.wikipedia.org/wiki/Bone_fracture"
+            },
+            {
+                "name": "femoral fracture",
+                "qid": "Q4350503",
+                "url": "https://en.wikipedia.org/wiki/Femoral_fracture"
+            },
+            {
+                "name": "hip injury",
+                "qid": "Q54957692"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "upper extremity of femur",
+                "qid": "Q4116698",
+                "url": "https://en.wikipedia.org/wiki/Upper_extremity_of_femur"
+            }
+        ]
+    }
+}

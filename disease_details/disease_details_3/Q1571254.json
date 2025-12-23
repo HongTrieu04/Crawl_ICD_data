@@ -1,0 +1,28 @@
+{
+    "name": "pyogenic granuloma",
+    "qid": "Q1571254",
+    "icd_10": "L98.0",
+    "description": "vascular tumor on both mucosa and skin",
+    "aliases": [
+        "Granuloma, Pyogenic",
+        "Lobular capillary haemangioma"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Botriomycome.jpg",
+    "url": "https://en.wikipedia.org/wiki/Pyogenic_granuloma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "granuloma",
+                "qid": "Q1129338",
+                "url": "https://en.wikipedia.org/wiki/Granuloma"
+            }
+        ]
+    }
+}

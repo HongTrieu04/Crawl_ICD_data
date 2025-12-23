@@ -1,0 +1,51 @@
+{
+    "name": "narcolepsy",
+    "qid": "Q189561",
+    "icd_10": "G47.41",
+    "description": "Human sleep disorder that involves an excessive urge to sleep and other neurological features",
+    "aliases": [
+        "Narcolepsy",
+        "Narcolepsy, without cataplexy",
+        "paroxysmal sleep"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Narcolepsy",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "excessive daytime sleepiness",
+                "qid": "Q3144201",
+                "url": "https://en.wikipedia.org/wiki/Excessive_daytime_sleepiness"
+            },
+            {
+                "name": "sleep disorder",
+                "qid": "Q177190",
+                "url": "https://en.wikipedia.org/wiki/Sleep_disorder"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "methylphenidate",
+                "qid": "Q422112",
+                "url": "https://en.wikipedia.org/wiki/Methylphenidate"
+            },
+            {
+                "name": "modafinil",
+                "qid": "Q410441",
+                "url": "https://en.wikipedia.org/wiki/Modafinil"
+            }
+        ]
+    }
+}

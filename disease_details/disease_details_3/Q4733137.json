@@ -1,0 +1,27 @@
+{
+    "name": "Allopurinol hypersensitivity syndrome",
+    "qid": "Q4733137",
+    "icd_10": "Y54.8",
+    "description": "medical condition",
+    "aliases": [
+        "Allopurinol-induced DRESS syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Allopurinol_hypersensitivity_syndrome",
+    "details": {
+        "Cause": [
+            {
+                "name": "allopurinol",
+                "qid": "Q412486",
+                "url": "https://en.wikipedia.org/wiki/Allopurinol"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "drug reaction with eosinophilia and systemic symptoms",
+                "qid": "Q3931183",
+                "url": "https://en.wikipedia.org/wiki/Drug_rash_with_eosinophilia_and_systemic_symptoms"
+            }
+        ]
+    }
+}

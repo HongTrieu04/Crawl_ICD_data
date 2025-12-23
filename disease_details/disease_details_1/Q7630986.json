@@ -1,0 +1,32 @@
+{
+    "name": "subcutaneous T-cell lymphoma",
+    "qid": "Q7630986",
+    "icd_10": "C86.3",
+    "description": "Subcutaneous panniculitis-like T-cell lymphoma (SPTCL) is a rare cytotoxic cutaneous lymphoma that has been recognized as a distinct subset of peripheral T-cell lymphomas originating and presenting primarily in the subcutaneous fat tissue",
+    "aliases": [
+        "SPTCL",
+        "panniculitis-like T-cell lymphoma",
+        "Subcutaneous panniculitic T-cell lymphoma",
+        "subcutaneous panniculitis-like T-cell lymphoma",
+        "Subcutaneous Panniculitis-Like T-Cell Lymphoma (Alpha/Beta Type)",
+        "Subcutaneous Panniculitis-Like T-Cell Lymphoma, Alpha/Beta Type"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Subcutaneous_T-cell_lymphoma",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "leukocyte disease",
+                "qid": "Q18558143"
+            },
+            {
+                "name": "indolent primary cutaneous T-cell lymphoma",
+                "qid": "Q55785737"
+            },
+            {
+                "name": "rare genetic immune disease",
+                "qid": "Q55785867"
+            }
+        ]
+    }
+}

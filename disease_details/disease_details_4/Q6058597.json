@@ -1,0 +1,29 @@
+{
+    "name": "intraventricular hemorrhage",
+    "qid": "Q6058597",
+    "icd_10": "P10.2",
+    "description": "bleeding within the cerebral ventricles",
+    "aliases": [
+        "IVH",
+        "Cerebral Intraventricular Hemorrhage",
+        "intraventricular haemorrhage"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Intracerebral%20hemorrhage.jpg",
+    "url": "https://en.wikipedia.org/wiki/Intraventricular_hemorrhage",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "intracranial hemorrhage",
+                "qid": "Q426199",
+                "url": "https://en.wikipedia.org/wiki/Intracranial_hemorrhage"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ]
+    }
+}

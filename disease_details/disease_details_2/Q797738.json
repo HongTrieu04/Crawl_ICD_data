@@ -1,0 +1,21 @@
+{
+    "name": "Baboon syndrome",
+    "qid": "Q797738",
+    "icd_10": "L25.1",
+    "description": "medical condition",
+    "aliases": [
+        "SDRIFE",
+        "Symmetrical drug-related intertriginous and flexural exanthema"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Baboon_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "drug eruption",
+                "qid": "Q718675",
+                "url": "https://en.wikipedia.org/wiki/Drug_eruption"
+            }
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name": "ear canal atresia",
+    "qid": "Q3629026",
+    "icd_10": "Q16.1",
+    "description": "human disease",
+    "aliases": [
+        "CAA",
+        "Aural atresia",
+        "Aural atresia, congenital",
+        "AURAL ATRESIA, CONGENITAL",
+        "Aural Atresia, Congenital, With Hyposmia",
+        "AURAL ATRESIA, CONGENITAL; CAA"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "ear canal stenosis",
+                "qid": "Q16112432"
+            },
+            {
+                "name": "external ear malformation",
+                "qid": "Q55785514"
+            }
+        ]
+    }
+}

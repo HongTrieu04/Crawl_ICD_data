@@ -1,0 +1,41 @@
+{
+    "name": "ovarian torsion",
+    "qid": "Q552233",
+    "icd_10": "N83.5",
+    "description": "rotation of the ovary",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gray1170.png",
+    "url": "https://en.wikipedia.org/wiki/Ovarian_torsion",
+    "details": {
+        "Anatomical location": [
+            {
+                "name": "ovary",
+                "qid": "Q9631",
+                "url": "https://en.wikipedia.org/wiki/Ovary"
+            },
+            {
+                "name": "fallopian tube",
+                "qid": "Q1233836",
+                "url": "https://en.wikipedia.org/wiki/Fallopian_tube"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gynecologic oncology",
+                "qid": "Q5625186",
+                "url": "https://en.wikipedia.org/wiki/Gynecologic_oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "ovarian disease",
+                "qid": "Q7113244",
+                "url": "https://en.wikipedia.org/wiki/Ovarian_disease"
+            },
+            {
+                "name": "organ torsion",
+                "qid": "Q2123838"
+            }
+        ]
+    }
+}

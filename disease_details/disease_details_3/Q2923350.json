@@ -1,0 +1,30 @@
+{
+    "name": "brachymetatarsia",
+    "qid": "Q2923350",
+    "icd_10": "M21.6",
+    "description": "condition in which there is one or more abnormally short or overlapping toes metatarsals",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brachymetatarsia%2C%20fourth%20metatarsal%20bone%2C%20X-ray.jpg",
+    "url": "https://en.wikipedia.org/wiki/Brachymetatarsia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "foot deformity",
+                "qid": "Q5465742",
+                "url": "https://en.wikipedia.org/wiki/Foot_deformity"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            },
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

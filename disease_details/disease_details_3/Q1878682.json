@@ -1,0 +1,33 @@
+{
+    "name": "toxic epidermal necrolysis",
+    "qid": "Q1878682",
+    "icd_10": "L51.2",
+    "description": "Severe skin reaction",
+    "aliases": [
+        "TEN",
+        "Lyell's Syndrome",
+        "SJS-TEN",
+        "TENs",
+        "Toxic epidermal necrolysis",
+        "toxic epidermal necrosis",
+        "Toxic epidermolysis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Toxic-epidermal-necrolysis.jpg",
+    "url": "https://en.wikipedia.org/wiki/Toxic_epidermal_necrolysis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "severe cutaneous adverse reactions",
+                "qid": "Q55632923",
+                "url": "https://en.wikipedia.org/wiki/Severe_cutaneous_adverse_reactions"
+            }
+        ]
+    }
+}

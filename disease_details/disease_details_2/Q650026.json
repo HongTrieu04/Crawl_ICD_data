@@ -1,0 +1,48 @@
+{
+    "name": "ectrodactyly",
+    "qid": "Q650026",
+    "icd_10": "Q71.67",
+    "description": "deficiency or absence of one or more central digits of the hand or foot",
+    "aliases": [
+        "SHFM6",
+        "split hand-foot malformation",
+        "SHFM",
+        "split hand-foot malformation 6"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Deux%20pieds%201%20an.jpg",
+    "url": "https://en.wikipedia.org/wiki/Ectrodactyly",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "genetic disease",
+                "qid": "Q200779",
+                "url": "https://en.wikipedia.org/wiki/Genetic_disorder"
+            },
+            {
+                "name": "dysmelia",
+                "qid": "Q1269288",
+                "url": "https://en.wikipedia.org/wiki/Dysmelia"
+            },
+            {
+                "name": "autosomal recessive disease",
+                "qid": "Q10267817"
+            },
+            {
+                "name": "split hand-foot malformation",
+                "qid": "Q30989072"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

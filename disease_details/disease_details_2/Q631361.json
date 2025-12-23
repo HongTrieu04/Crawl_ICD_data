@@ -1,0 +1,74 @@
+{
+    "name": "diabetic retinopathy",
+    "qid": "Q631361",
+    "icd_10": "H36.0",
+    "description": "human disease",
+    "aliases": [
+        "diabetic oculopathy",
+        "diabetes mellitus insulin dependent type, not stated as uncontrolled, with ophthalmic manifestations",
+        "diabetes mellitus juvenile type, not stated as uncontrolled, with ophthalmic manifestations",
+        "diabetes mellitus type I [insulin dependent type] [IDDM] [juvenile type], not stated as uncontrolled, with ophthalmic manifestations",
+        "diabetic eye disease",
+        "retinal abnormality - diabetes-related"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Human%20eyesight%20two%20children%20and%20ball%20with%20diabetic%20retinopathy.jpg",
+    "url": "https://en.wikipedia.org/wiki/Diabetic_retinopathy",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "diabetic angiopathy",
+                "qid": "Q489997",
+                "url": "https://en.wikipedia.org/wiki/Diabetic_angiopathy"
+            },
+            {
+                "name": "retinal vascular disease",
+                "qid": "Q12195125"
+            },
+            {
+                "name": "ocular manifestation of diabetes",
+                "qid": "Q18971488"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "diabetes",
+                "qid": "Q12206",
+                "url": "https://en.wikipedia.org/wiki/Diabetes"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            },
+            {
+                "name": "diabetology",
+                "qid": "Q1207969",
+                "url": "https://en.wikipedia.org/wiki/Diabetology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "bevacizumab",
+                "qid": "Q413299",
+                "url": "https://en.wikipedia.org/wiki/Bevacizumab"
+            },
+            {
+                "name": "ranibizumab",
+                "qid": "Q414270",
+                "url": "https://en.wikipedia.org/wiki/Ranibizumab"
+            },
+            {
+                "name": "aflibercept",
+                "qid": "Q4689286",
+                "url": "https://en.wikipedia.org/wiki/Aflibercept"
+            }
+        ]
+    }
+}

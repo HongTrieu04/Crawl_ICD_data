@@ -1,0 +1,41 @@
+{
+    "name": "chondroblastoma",
+    "qid": "Q1076053",
+    "icd_10": "D16",
+    "description": "Human disease",
+    "aliases": [
+        "Chondroblastoma",
+        "Chondroblastoma of bone"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chondroblastoma%20-%20very%20high%20mag.jpg",
+    "url": "https://en.wikipedia.org/wiki/Chondroblastoma",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "connective tissue neoplasm",
+                "qid": "Q3542012",
+                "url": "https://en.wikipedia.org/wiki/Connective_tissue_neoplasm"
+            },
+            {
+                "name": "benign neoplasms by histologic type",
+                "qid": "Q18553645"
+            },
+            {
+                "name": "connective tissue benign neoplasm",
+                "qid": "Q18553680"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ]
+    }
+}

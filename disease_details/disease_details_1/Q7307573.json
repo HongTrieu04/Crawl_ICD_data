@@ -1,0 +1,40 @@
+{
+    "name": "refractory anemia with excess of blasts",
+    "qid": "Q7307573",
+    "icd_10": "D46.2",
+    "description": "medical condition",
+    "aliases": [
+        "MDS-EB",
+        "Myelodysplastic Syndrome with Excess Blasts",
+        "RAEB",
+        "Refractory Anemia with an Excess of Blasts",
+        "Refractory Anemia with Excess Blasts"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Refractory_anemia_with_excess_of_blasts",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            },
+            {
+                "name": "myelodysplastic syndrome",
+                "qid": "Q954625",
+                "url": "https://en.wikipedia.org/wiki/Myelodysplastic_syndrome"
+            },
+            {
+                "name": "refractory anemia",
+                "qid": "Q54971935"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ]
+    }
+}

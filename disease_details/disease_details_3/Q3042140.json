@@ -1,0 +1,49 @@
+{
+    "name": "hip dysplasia, Beukes type",
+    "qid": "Q3042140",
+    "icd_10": "Q65.8",
+    "description": "human disease",
+    "aliases": [
+        "BHD",
+        "BFHD",
+        "Beukes Familial Hip Dysplasia",
+        "Beukes hip dysplasia",
+        "BEUKES HIP DYSPLASIA",
+        "BEUKES HIP DYSPLASIA; BHD",
+        "Cilliers-Beighton syndrome",
+        "Hip Dysplasia, Beukes Type",
+        "Osteoarthropathy, Premature Degenerative, of Hip",
+        "Premature degenerative osteoarthropathy of the hip"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "hip dysplasia",
+                "qid": "Q625935",
+                "url": "https://en.wikipedia.org/wiki/Hip_dysplasia"
+            },
+            {
+                "name": "osteoarthritis",
+                "qid": "Q62736",
+                "url": "https://en.wikipedia.org/wiki/Osteoarthritis"
+            },
+            {
+                "name": "autosomal dominant disease",
+                "qid": "Q18553439"
+            },
+            {
+                "name": "multiple epiphyseal dysplasia and pseudoachondroplasia",
+                "qid": "Q55788804"
+            }
+        ]
+    }
+}

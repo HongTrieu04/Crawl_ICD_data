@@ -1,0 +1,25 @@
+{
+    "name": "Erythroplasia of Queyrat",
+    "qid": "Q1363797",
+    "icd_10": "D07.4",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Erythroplasia_of_Queyrat",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "Bowen's disease",
+                "qid": "Q979564",
+                "url": "https://en.wikipedia.org/wiki/Bowen%27s_disease"
+            }
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Oldfield syndrome",
+    "qid": "Q28123515",
+    "icd_10": "D12.6",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "Gardner's syndrome",
+                "qid": "Q1702335",
+                "url": "https://en.wikipedia.org/wiki/Gardner%27s_syndrome"
+            },
+            {
+                "name": "autosomal dominant disease",
+                "qid": "Q18553439"
+            }
+        ]
+    }
+}

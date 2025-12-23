@@ -1,0 +1,23 @@
+{
+    "name": "hypothyroidism, congenital, nongoitrous",
+    "qid": "Q55762558",
+    "icd_10": "E03.1",
+    "description": "human disease",
+    "aliases": [
+        "CHNG",
+        "Congenital hypothyroidism without goitre",
+        "congenital nongoitrous hypothyroidism",
+        "Permanent congenital hypothyroidism without goitre"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "congenital hypothyroidism",
+                "qid": "Q531012",
+                "url": "https://en.wikipedia.org/wiki/Congenital_hypothyroidism"
+            }
+        ]
+    }
+}

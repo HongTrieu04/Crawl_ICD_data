@@ -1,0 +1,47 @@
+{
+    "name": "neurogenic shock",
+    "qid": "Q2200381",
+    "icd_10": "R57.8",
+    "description": "distributive type of shock resulting in low blood pressure, attributed to disruption of autonomic pathways within the spinal cord",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Neurogenic_shock",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "cortisol",
+                "qid": "Q190875",
+                "url": "https://en.wikipedia.org/wiki/Cortisol"
+            },
+            {
+                "name": "metaraminol",
+                "qid": "Q409981",
+                "url": "https://en.wikipedia.org/wiki/Metaraminol"
+            },
+            {
+                "name": "dopamine",
+                "qid": "Q170304",
+                "url": "https://en.wikipedia.org/wiki/Dopamine"
+            },
+            {
+                "name": "norepinephrine",
+                "qid": "Q186242",
+                "url": "https://en.wikipedia.org/wiki/Norepinephrine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "distributive shock",
+                "qid": "Q5283218",
+                "url": "https://en.wikipedia.org/wiki/Distributive_shock"
+            }
+        ]
+    }
+}

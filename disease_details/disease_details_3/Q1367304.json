@@ -1,0 +1,43 @@
+{
+    "name": "air embolism",
+    "qid": "Q1367304",
+    "icd_10": "O88.0",
+    "description": "vascular blockage by air bubbles",
+    "aliases": [
+        "Embolism, Air",
+        "gas embolism"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Air%20embolism%20in%20the%20descending%20thoracic%20aorta%20after%20CT%20guided%20lung%20biopsy.jpg",
+    "url": "https://en.wikipedia.org/wiki/Air_embolism",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            },
+            {
+                "name": "diving medicine",
+                "qid": "Q1423517",
+                "url": "https://en.wikipedia.org/wiki/Diving_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "embolism",
+                "qid": "Q275466",
+                "url": "https://en.wikipedia.org/wiki/Embolism"
+            },
+            {
+                "name": "barotrauma",
+                "qid": "Q808760",
+                "url": "https://en.wikipedia.org/wiki/Barotrauma"
+            },
+            {
+                "name": "decompression illness",
+                "qid": "Q1153171",
+                "url": "https://en.wikipedia.org/wiki/Decompression_illness"
+            }
+        ]
+    }
+}

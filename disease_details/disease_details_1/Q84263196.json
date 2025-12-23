@@ -1,0 +1,499 @@
+{
+    "name": "COVID-19",
+    "qid": "Q84263196",
+    "icd_10": "U07.2",
+    "description": "contagious disease caused by SARS-CoV-2",
+    "aliases": [
+        "2019 NCP",
+        "2019 novel coronavirus pneumonia",
+        "2019 novel coronavirus respiratory syndrome",
+        "2019-nCoV acute respiratory disease",
+        "CD-19",
+        "coronavirus disease 2019",
+        "COVID-2019",
+        "nCOVD 19",
+        "nCOVD-19",
+        "nCOVD19",
+        "Novel Coronavirus Pneumonia",
+        "seafood market pneumonia",
+        "severe acute respiratory syndrome type 2",
+        "Wuhan respiratory syndrome",
+        "WuRS",
+        "Coronavirus disease 2019",
+        "COVID 19",
+        "COVID",
+        "Covid-19",
+        "SARS-CoV-2",
+        "SARS-CoV-2 infection",
+        "COVID19",
+        "Wuhan pneumonia",
+        "Severe Acute Respiratory Syndrome Coronavirus 2"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fphar-11-00937-g001.jpg",
+    "url": "https://en.wikipedia.org/wiki/COVID-19",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            },
+            {
+                "name": "anemia",
+                "qid": "Q5445",
+                "url": "https://en.wikipedia.org/wiki/Anemia"
+            },
+            {
+                "name": "fatigue",
+                "qid": "Q9690",
+                "url": "https://en.wikipedia.org/wiki/Fatigue"
+            },
+            {
+                "name": "cough",
+                "qid": "Q35805",
+                "url": "https://en.wikipedia.org/wiki/Cough"
+            },
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "abdominal pain",
+                "qid": "Q183425",
+                "url": "https://en.wikipedia.org/wiki/Abdominal_pain"
+            },
+            {
+                "name": "erectile dysfunction",
+                "qid": "Q184674",
+                "url": "https://en.wikipedia.org/wiki/Erectile_dysfunction"
+            },
+            {
+                "name": "nausea",
+                "qid": "Q186889",
+                "url": "https://en.wikipedia.org/wiki/Nausea"
+            },
+            {
+                "name": "dyspnea",
+                "qid": "Q188008",
+                "url": "https://en.wikipedia.org/wiki/Shortness_of_breath"
+            },
+            {
+                "name": "hemoptysis",
+                "qid": "Q647099",
+                "url": "https://en.wikipedia.org/wiki/Hemoptysis"
+            },
+            {
+                "name": "brain damage",
+                "qid": "Q720026",
+                "url": "https://en.wikipedia.org/wiki/Brain_injury"
+            },
+            {
+                "name": "respiratory failure",
+                "qid": "Q767485",
+                "url": "https://en.wikipedia.org/wiki/Respiratory_failure"
+            },
+            {
+                "name": "hypoxia",
+                "qid": "Q105688",
+                "url": "https://en.wikipedia.org/wiki/Hypoxia_(medicine)"
+            },
+            {
+                "name": "delirium",
+                "qid": "Q160796",
+                "url": "https://en.wikipedia.org/wiki/Delirium"
+            },
+            {
+                "name": "conjunctivitis",
+                "qid": "Q167844",
+                "url": "https://en.wikipedia.org/wiki/Conjunctivitis"
+            },
+            {
+                "name": "psychosis",
+                "qid": "Q170082",
+                "url": "https://en.wikipedia.org/wiki/Psychosis"
+            },
+            {
+                "name": "diarrhea",
+                "qid": "Q40878",
+                "url": "https://en.wikipedia.org/wiki/Diarrhea"
+            },
+            {
+                "name": "encephalitis",
+                "qid": "Q199615",
+                "url": "https://en.wikipedia.org/wiki/Encephalitis"
+            },
+            {
+                "name": "anorexia",
+                "qid": "Q254327",
+                "url": "https://en.wikipedia.org/wiki/Anorexia_(symptom)"
+            },
+            {
+                "name": "occupational burnout",
+                "qid": "Q327988",
+                "url": "https://en.wikipedia.org/wiki/Occupational_burnout"
+            },
+            {
+                "name": "anosmia",
+                "qid": "Q468433",
+                "url": "https://en.wikipedia.org/wiki/Anosmia"
+            },
+            {
+                "name": "myalgia",
+                "qid": "Q474959",
+                "url": "https://en.wikipedia.org/wiki/Myalgia"
+            },
+            {
+                "name": "lymphopenia",
+                "qid": "Q485831",
+                "url": "https://en.wikipedia.org/wiki/Lymphocytopenia"
+            },
+            {
+                "name": "enanthem",
+                "qid": "Q599982",
+                "url": "https://en.wikipedia.org/wiki/Enanthem"
+            },
+            {
+                "name": "ageusia",
+                "qid": "Q606216",
+                "url": "https://en.wikipedia.org/wiki/Ageusia"
+            },
+            {
+                "name": "chills",
+                "qid": "Q2260058",
+                "url": "https://en.wikipedia.org/wiki/Chills"
+            },
+            {
+                "name": "viral pneumonia",
+                "qid": "Q2603200",
+                "url": "https://en.wikipedia.org/wiki/Viral_pneumonia"
+            },
+            {
+                "name": "nasal congestion",
+                "qid": "Q3245488",
+                "url": "https://en.wikipedia.org/wiki/Nasal_congestion"
+            },
+            {
+                "name": "neurological disorder",
+                "qid": "Q3339235",
+                "url": "https://en.wikipedia.org/wiki/Neurological_disorder"
+            },
+            {
+                "name": "thromboinflammation",
+                "qid": "Q112159554"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "pneumonia",
+                "qid": "Q12192",
+                "url": "https://en.wikipedia.org/wiki/Pneumonia"
+            },
+            {
+                "name": "zoonosis",
+                "qid": "Q182672",
+                "url": "https://en.wikipedia.org/wiki/Zoonosis"
+            },
+            {
+                "name": "viral pneumonia",
+                "qid": "Q2603200",
+                "url": "https://en.wikipedia.org/wiki/Viral_pneumonia"
+            },
+            {
+                "name": "atypical pneumonia",
+                "qid": "Q2633267",
+                "url": "https://en.wikipedia.org/wiki/Atypical_pneumonia"
+            },
+            {
+                "name": "coronavirus disease",
+                "qid": "Q18975243",
+                "url": "https://en.wikipedia.org/wiki/Coronavirus_diseases"
+            },
+            {
+                "name": "Virus diseases of plants",
+                "qid": "Q107295072"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "virology",
+                "qid": "Q7215",
+                "url": "https://en.wikipedia.org/wiki/Virology"
+            },
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            },
+            {
+                "name": "epidemiology",
+                "qid": "Q133805",
+                "url": "https://en.wikipedia.org/wiki/Epidemiology"
+            },
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            },
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "immunotherapy",
+                "qid": "Q1427096",
+                "url": "https://en.wikipedia.org/wiki/Immunotherapy"
+            },
+            {
+                "name": "oxygen therapy",
+                "qid": "Q1988216",
+                "url": "https://en.wikipedia.org/wiki/Oxygen_therapy"
+            },
+            {
+                "name": "antiviral drug",
+                "qid": "Q846227",
+                "url": "https://en.wikipedia.org/wiki/Antiviral_drug"
+            },
+            {
+                "name": "immunosuppressive drug",
+                "qid": "Q249619",
+                "url": "https://en.wikipedia.org/wiki/Immunosuppressive_drug"
+            },
+            {
+                "name": "immunoglobulin therapy",
+                "qid": "Q338912",
+                "url": "https://en.wikipedia.org/wiki/Immunoglobulin_therapy"
+            },
+            {
+                "name": "antiserum",
+                "qid": "Q420496",
+                "url": "https://en.wikipedia.org/wiki/Antiserum"
+            },
+            {
+                "name": "symptomatic treatment",
+                "qid": "Q621558",
+                "url": "https://en.wikipedia.org/wiki/Symptomatic_treatment"
+            },
+            {
+                "name": "treatment of COVID-19",
+                "qid": "Q96337364",
+                "url": "https://en.wikipedia.org/wiki/Treatment_and_management_of_COVID-19"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "tradipitant",
+                "qid": "Q1798493",
+                "url": "https://en.wikipedia.org/wiki/Tradipitant"
+            },
+            {
+                "name": "ibudilast",
+                "qid": "Q261167",
+                "url": "https://en.wikipedia.org/wiki/Ibudilast"
+            },
+            {
+                "name": "(S)-(−)-colchicine",
+                "qid": "Q326224",
+                "url": "https://en.wikipedia.org/wiki/Colchicine"
+            },
+            {
+                "name": "fluvoxamine",
+                "qid": "Q409236",
+                "url": "https://en.wikipedia.org/wiki/Fluvoxamine"
+            },
+            {
+                "name": "infliximab",
+                "qid": "Q415264",
+                "url": "https://en.wikipedia.org/wiki/Infliximab"
+            },
+            {
+                "name": "eculizumab",
+                "qid": "Q421617",
+                "url": "https://en.wikipedia.org/wiki/Eculizumab"
+            },
+            {
+                "name": "prazosin",
+                "qid": "Q425296",
+                "url": "https://en.wikipedia.org/wiki/Prazosin"
+            },
+            {
+                "name": "aprepitant",
+                "qid": "Q621834",
+                "url": "https://en.wikipedia.org/wiki/Aprepitant"
+            },
+            {
+                "name": "abatacept",
+                "qid": "Q2697833",
+                "url": "https://en.wikipedia.org/wiki/Abatacept"
+            },
+            {
+                "name": "apremilast",
+                "qid": "Q2858961",
+                "url": "https://en.wikipedia.org/wiki/Apremilast"
+            },
+            {
+                "name": "tofacitinib",
+                "qid": "Q3530324",
+                "url": "https://en.wikipedia.org/wiki/Tofacitinib"
+            },
+            {
+                "name": "sargramostim",
+                "qid": "Q3950557",
+                "url": "https://en.wikipedia.org/wiki/Sargramostim"
+            },
+            {
+                "name": "enisamium iodide",
+                "qid": "Q4064289",
+                "url": "https://en.wikipedia.org/wiki/Enisamium_iodide"
+            },
+            {
+                "name": "Bucillamine",
+                "qid": "Q4982752",
+                "url": "https://en.wikipedia.org/wiki/Bucillamine"
+            },
+            {
+                "name": "cenicriviroc",
+                "qid": "Q5058846",
+                "url": "https://en.wikipedia.org/wiki/Cenicriviroc"
+            },
+            {
+                "name": "ebselen",
+                "qid": "Q5332073",
+                "url": "https://en.wikipedia.org/wiki/Ebselen"
+            },
+            {
+                "name": "fenretinide",
+                "qid": "Q5443576",
+                "url": "https://en.wikipedia.org/wiki/Fenretinide"
+            },
+            {
+                "name": "fostamatinib",
+                "qid": "Q5473550",
+                "url": "https://en.wikipedia.org/wiki/Fostamatinib"
+            },
+            {
+                "name": "ifenprodil",
+                "qid": "Q5991156",
+                "url": "https://en.wikipedia.org/wiki/Ifenprodil"
+            },
+            {
+                "name": "losmapimod",
+                "qid": "Q6683687",
+                "url": "https://en.wikipedia.org/wiki/Losmapimod"
+            },
+            {
+                "name": "mavrilimumab",
+                "qid": "Q6794291",
+                "url": "https://en.wikipedia.org/wiki/Mavrilimumab"
+            },
+            {
+                "name": "leronlimab",
+                "qid": "Q7120418",
+                "url": "https://en.wikipedia.org/wiki/Leronlimab"
+            },
+            {
+                "name": "ruxolitinib",
+                "qid": "Q7383611",
+                "url": "https://en.wikipedia.org/wiki/Ruxolitinib"
+            },
+            {
+                "name": "favipiravir",
+                "qid": "Q16934561",
+                "url": "https://en.wikipedia.org/wiki/Favipiravir"
+            },
+            {
+                "name": "apabetalone",
+                "qid": "Q21099554",
+                "url": "https://en.wikipedia.org/wiki/Apabetalone"
+            },
+            {
+                "name": "Lenzilumab",
+                "qid": "Q25326692",
+                "url": "https://en.wikipedia.org/wiki/Lenzilumab"
+            },
+            {
+                "name": "lanadelumab",
+                "qid": "Q25326708",
+                "url": "https://en.wikipedia.org/wiki/Lanadelumab"
+            },
+            {
+                "name": "selinexor",
+                "qid": "Q27256082",
+                "url": "https://en.wikipedia.org/wiki/Selinexor"
+            },
+            {
+                "name": "vadadustat",
+                "qid": "Q27280485",
+                "url": "https://en.wikipedia.org/wiki/Vadadustat"
+            },
+            {
+                "name": "remdesivir",
+                "qid": "Q28209496",
+                "url": "https://en.wikipedia.org/wiki/Remdesivir"
+            },
+            {
+                "name": "ravulizumab",
+                "qid": "Q55641547",
+                "url": "https://en.wikipedia.org/wiki/Ravulizumab"
+            },
+            {
+                "name": "otilimab",
+                "qid": "Q56291893",
+                "url": "https://en.wikipedia.org/wiki/Otilimab"
+            },
+            {
+                "name": "molnupiravir",
+                "qid": "Q96376832",
+                "url": "https://en.wikipedia.org/wiki/Molnupiravir"
+            },
+            {
+                "name": "nangibotide",
+                "qid": "Q97353714",
+                "url": "https://en.wikipedia.org/wiki/Nangibotide"
+            },
+            {
+                "name": "casirivimab/imdevimab",
+                "qid": "Q99328880",
+                "url": "https://en.wikipedia.org/wiki/Casirivimab/imdevimab"
+            },
+            {
+                "name": "zilucoplan",
+                "qid": "Q107340140",
+                "url": "https://en.wikipedia.org/wiki/Zilucoplan"
+            },
+            {
+                "name": "nirmatrelvir/ritonavir",
+                "qid": "Q110442458",
+                "url": "https://en.wikipedia.org/wiki/Nirmatrelvir/ritonavir"
+            },
+            {
+                "name": "deuremidevir",
+                "qid": "Q115926419",
+                "url": "https://en.wikipedia.org/wiki/Deuremidevir"
+            },
+            {
+                "name": "piclidenoson",
+                "qid": "Q27088384"
+            },
+            {
+                "name": "remestemcel-L",
+                "qid": "Q107401624"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "SARS-CoV-2",
+                "qid": "Q82069695",
+                "url": "https://en.wikipedia.org/wiki/SARS-CoV-2"
+            }
+        ]
+    }
+}

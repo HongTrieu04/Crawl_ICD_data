@@ -1,0 +1,31 @@
+{
+    "name": "Thyrotoxicosis factitia",
+    "qid": "Q6147355",
+    "icd_10": "E05.4",
+    "description": "medical condition",
+    "aliases": [
+        "alimentary thyrotoxicosis",
+        "exogenous thyrotoxicosis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Thyrotoxicosis_factitia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "thyrotoxicosis",
+                "qid": "Q3991731"
+            },
+            {
+                "name": "chronic factitious illness with physical symptoms",
+                "qid": "Q18975429"
+            }
+        ]
+    }
+}

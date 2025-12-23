@@ -1,0 +1,200 @@
+{
+    "name": "Venezuelan equine encephalitis",
+    "qid": "Q18558169",
+    "icd_10": "A92.2",
+    "description": "Human disease",
+    "aliases": [
+        "venezuelan encephalomyelitis",
+        "Venezuelan equine fever"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Symptoms": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            },
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "diarrhea",
+                "qid": "Q40878",
+                "url": "https://en.wikipedia.org/wiki/Diarrhea"
+            },
+            {
+                "name": "spasm",
+                "qid": "Q574360",
+                "url": "https://en.wikipedia.org/wiki/Spasm"
+            },
+            {
+                "name": "diplopia",
+                "qid": "Q775940",
+                "url": "https://en.wikipedia.org/wiki/Diplopia"
+            },
+            {
+                "name": "plantar reflex",
+                "qid": "Q506923",
+                "url": "https://en.wikipedia.org/wiki/Plantar_reflex"
+            },
+            {
+                "name": "paresis",
+                "qid": "Q1126769",
+                "url": "https://en.wikipedia.org/wiki/Paresis"
+            },
+            {
+                "name": "sore throat",
+                "qid": "Q1292082",
+                "url": "https://en.wikipedia.org/wiki/Sore_throat"
+            },
+            {
+                "name": "photophobia",
+                "qid": "Q281289",
+                "url": "https://en.wikipedia.org/wiki/Photophobia"
+            },
+            {
+                "name": "myalgia",
+                "qid": "Q474959",
+                "url": "https://en.wikipedia.org/wiki/Myalgia"
+            },
+            {
+                "name": "vomiting",
+                "qid": "Q127076",
+                "url": "https://en.wikipedia.org/wiki/Vomiting"
+            },
+            {
+                "name": "coma",
+                "qid": "Q159557",
+                "url": "https://en.wikipedia.org/wiki/Coma"
+            },
+            {
+                "name": "nausea",
+                "qid": "Q186889",
+                "url": "https://en.wikipedia.org/wiki/Nausea"
+            },
+            {
+                "name": "tremor",
+                "qid": "Q223907",
+                "url": "https://en.wikipedia.org/wiki/Tremor"
+            },
+            {
+                "name": "encephalomyelitis",
+                "qid": "Q1634879",
+                "url": "https://en.wikipedia.org/wiki/Encephalomyelitis"
+            },
+            {
+                "name": "malaise",
+                "qid": "Q2673323",
+                "url": "https://en.wikipedia.org/wiki/Malaise"
+            },
+            {
+                "name": "meningism signs",
+                "qid": "Q12122651"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "spinal cord",
+                "qid": "Q9606",
+                "url": "https://en.wikipedia.org/wiki/Spinal_cord"
+            },
+            {
+                "name": "human brain",
+                "qid": "Q492038",
+                "url": "https://en.wikipedia.org/wiki/Human_brain"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "detoxification",
+                "qid": "Q1090423",
+                "url": "https://en.wikipedia.org/wiki/Detoxification"
+            },
+            {
+                "name": "diuretic",
+                "qid": "Q200656",
+                "url": "https://en.wikipedia.org/wiki/Diuretic"
+            },
+            {
+                "name": "neuroprotection",
+                "qid": "Q1981368",
+                "url": "https://en.wikipedia.org/wiki/Neuroprotection"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "phenytoin",
+                "qid": "Q410400",
+                "url": "https://en.wikipedia.org/wiki/Phenytoin"
+            },
+            {
+                "name": "carbamazepin",
+                "qid": "Q410412",
+                "url": "https://en.wikipedia.org/wiki/Carbamazepine"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Venezuelan equine encephalitis virus",
+                "qid": "Q473462",
+                "url": "https://en.wikipedia.org/wiki/Venezuelan_equine_encephalitis_virus"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "zoonosis",
+                "qid": "Q182672",
+                "url": "https://en.wikipedia.org/wiki/Zoonosis"
+            },
+            {
+                "name": "encephalomyelitis",
+                "qid": "Q1634879",
+                "url": "https://en.wikipedia.org/wiki/Encephalomyelitis"
+            },
+            {
+                "name": "viral infectious disease",
+                "qid": "Q1928978",
+                "url": "https://en.wikipedia.org/wiki/Viral_disease"
+            },
+            {
+                "name": "viral encephalitis",
+                "qid": "Q3053951",
+                "url": "https://en.wikipedia.org/wiki/Viral_encephalitis"
+            },
+            {
+                "name": "alphavirus infections",
+                "qid": "Q4735280",
+                "url": "https://en.wikipedia.org/wiki/Alphavirus_infection"
+            },
+            {
+                "name": "central nervous system viral disease",
+                "qid": "Q5062121",
+                "url": "https://en.wikipedia.org/wiki/Central_nervous_system_viral_disease"
+            },
+            {
+                "name": "mosquito-borne disease",
+                "qid": "Q6916469",
+                "url": "https://en.wikipedia.org/wiki/Mosquito-borne_disease"
+            },
+            {
+                "name": "arbovirosis",
+                "qid": "Q2859732"
+            },
+            {
+                "name": "horse disease",
+                "qid": "Q29568408"
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "name": "persistent pupillary membrane",
+    "qid": "Q7170418",
+    "icd_10": "H21.4",
+    "description": "Human disease",
+    "aliases": [
+        "adhesions and disruptions of pupillary membranes"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Persistent%20Pupillary%20Membrane%20-%20Fireinthexdisco.jpg",
+    "url": "https://en.wikipedia.org/wiki/Persistent_pupillary_membrane",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "pupil disorder",
+                "qid": "Q18555067"
+            }
+        ]
+    }
+}

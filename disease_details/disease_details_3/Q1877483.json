@@ -1,0 +1,27 @@
+{
+    "name": "congenital pulmonary venous return anomaly",
+    "qid": "Q1877483",
+    "icd_10": "Q26.4",
+    "description": "TAPVC",
+    "aliases": [
+        "Anomalous pulmonary venous connection",
+        "Congenital pulmonary venous connection anomaly"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Anomalous_pulmonary_venous_connection",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "congenital pulmonary veins anomaly",
+                "qid": "Q55789287"
+            }
+        ]
+    }
+}

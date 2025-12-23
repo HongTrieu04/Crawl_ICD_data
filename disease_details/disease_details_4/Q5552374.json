@@ -1,0 +1,50 @@
+{
+    "name": "gerodermia osteodysplastica",
+    "qid": "Q5552374",
+    "icd_10": "Q82.9",
+    "description": "human disease",
+    "aliases": [
+        "GO",
+        "geroderma osteodysplastica",
+        "geroderma osteodysplasticum",
+        "GERODERMA OSTEODYSPLASTICUM; GO",
+        "Gerodermia Osteodysplastica",
+        "Walt Disney dwarfism"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Gerodermia_osteodysplastica",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "syndrome",
+                "qid": "Q179630",
+                "url": "https://en.wikipedia.org/wiki/Syndrome"
+            },
+            {
+                "name": "dwarfism",
+                "qid": "Q194101",
+                "url": "https://en.wikipedia.org/wiki/Dwarfism"
+            },
+            {
+                "name": "cutis laxa",
+                "qid": "Q2735907",
+                "url": "https://en.wikipedia.org/wiki/Cutis_laxa"
+            },
+            {
+                "name": "autosomal recessive disease",
+                "qid": "Q10267817"
+            },
+            {
+                "name": "primary bone dysplasia with decreased bone density",
+                "qid": "Q55788815"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

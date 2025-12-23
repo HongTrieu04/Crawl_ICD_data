@@ -1,0 +1,28 @@
+{
+    "name": "sulfhemoglobinemia",
+    "qid": "Q278909",
+    "icd_10": "D74.8",
+    "description": "medical condition caused by the combination of iron in the hemoglobin with sulfide compounds",
+    "aliases": [
+        "Sulfemoglobinemia",
+        "Sulfhemoglobinemia",
+        "Sulfhemoglobinemia (disorder)"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Sulfhemoglobinemia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "blood protein disease",
+                "qid": "Q18557170"
+            }
+        ]
+    }
+}

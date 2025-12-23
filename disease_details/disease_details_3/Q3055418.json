@@ -1,0 +1,28 @@
+{
+    "name": "envenomation",
+    "qid": "Q3055418",
+    "icd_10": "T63",
+    "description": "process by which venom is injected by the bite or sting of a venomous animal",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Envenomation",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "toxicology",
+                "qid": "Q7218",
+                "url": "https://en.wikipedia.org/wiki/Toxicology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "poisoning",
+                "qid": "Q114953"
+            },
+            {
+                "name": "poisoned wound",
+                "qid": "Q4339925"
+            }
+        ]
+    }
+}

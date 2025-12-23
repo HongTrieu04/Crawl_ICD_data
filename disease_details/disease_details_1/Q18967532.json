@@ -1,0 +1,27 @@
+{
+    "name": "Toxoplasma myocarditis",
+    "qid": "Q18967532",
+    "icd_10": "B58.8",
+    "description": "Human disease",
+    "aliases": [
+        "Myocarditis due to acquired toxoplasmosis (disorder)",
+        "Myocarditis due to toxoplasmosis",
+        "obsolete Toxoplasma myocarditis",
+        "Toxoplasma myocarditis (disorder)"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "toxoplasmosis",
+                "qid": "Q154878",
+                "url": "https://en.wikipedia.org/wiki/Toxoplasmosis"
+            },
+            {
+                "name": "septic myocarditis",
+                "qid": "Q18553929"
+            }
+        ]
+    }
+}

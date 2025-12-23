@@ -1,0 +1,38 @@
+{
+    "name": "penicillin drug reaction",
+    "qid": "Q7162853",
+    "icd_10": "Y40.0",
+    "description": "beta-lactam allergy triggered by penicillin",
+    "aliases": [
+        "allergy of penicillin",
+        "penicillin allergy"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Penicillin_drug_reaction",
+    "details": {
+        "Cause": [
+            {
+                "name": "penicillin",
+                "qid": "Q12190",
+                "url": "https://en.wikipedia.org/wiki/Penicillin"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "beta-lactam allergy",
+                "qid": "Q23037768",
+                "url": "https://en.wikipedia.org/wiki/Beta-lactam_allergy"
+            },
+            {
+                "name": "Side effects of penicillin",
+                "qid": "Q30314962",
+                "url": "https://en.wikipedia.org/wiki/Side_effects_of_penicillin"
+            },
+            {
+                "name": "adverse drug reaction",
+                "qid": "Q45959",
+                "url": "https://en.wikipedia.org/wiki/Adverse_drug_reaction"
+            }
+        ]
+    }
+}

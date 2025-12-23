@@ -1,0 +1,24 @@
+{
+    "name": "dermatochalasis",
+    "qid": "Q1200233",
+    "icd_10": "H02.3",
+    "description": "medical condition",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dermatochalasis.jpg",
+    "url": "https://en.wikipedia.org/wiki/Dermatochalasis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "eyelid disease",
+                "qid": "Q18556729"
+            }
+        ]
+    }
+}

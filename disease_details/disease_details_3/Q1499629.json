@@ -1,0 +1,33 @@
+{
+    "name": "joint effusion",
+    "qid": "Q1499629",
+    "icd_10": "M25.4",
+    "description": "effusion of watery liquid into the cavity of a joint",
+    "aliases": [
+        "hydrarthrosis",
+        "joint swelling"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Knee%20effusion.jpg",
+    "url": "https://en.wikipedia.org/wiki/Joint_effusion",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "arthropathy",
+                "qid": "Q708176",
+                "url": "https://en.wikipedia.org/wiki/Arthropathy"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ]
+    }
+}

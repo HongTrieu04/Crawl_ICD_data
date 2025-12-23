@@ -1,0 +1,49 @@
+{
+    "name": "cardiomyopathy",
+    "qid": "Q847583",
+    "icd_10": "I42.04",
+    "description": "heart disease and a myopathy that is characterised by deterioration of the function of the heart muscle",
+    "aliases": [
+        "Cardiomyopathies"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Idiopathic%20cardiomyopathy%2C%20gross%20pathology%2020G0018%20lores.jpg",
+    "url": "https://en.wikipedia.org/wiki/Cardiomyopathy",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "heart disease",
+                "qid": "Q190805",
+                "url": "https://en.wikipedia.org/wiki/Heart_disease"
+            },
+            {
+                "name": "muscular disease",
+                "qid": "Q692536",
+                "url": "https://en.wikipedia.org/wiki/Myopathy"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "Sacubitril/valsartan",
+                "qid": "Q6457467",
+                "url": "https://en.wikipedia.org/wiki/Sacubitril/valsartan"
+            },
+            {
+                "name": "ivabradine",
+                "qid": "Q425729",
+                "url": "https://en.wikipedia.org/wiki/Ivabradine"
+            }
+        ]
+    }
+}

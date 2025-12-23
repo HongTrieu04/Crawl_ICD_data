@@ -1,0 +1,29 @@
+{
+    "name": "abuse",
+    "qid": "Q600571",
+    "icd_10": "Y07",
+    "description": "improper usage or misuse or incivil behavior towards others",
+    "aliases": [
+        "to abuse",
+        "misuse",
+        "abusing",
+        "abusive behavior",
+        "improper use"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Angry%20man%20%28without%20speech%20balloon%29.svg",
+    "url": "https://en.wikipedia.org/wiki/Abuse",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "aggression",
+                "qid": "Q191797",
+                "url": "https://en.wikipedia.org/wiki/Aggression"
+            },
+            {
+                "name": "human behavior",
+                "qid": "Q3769299",
+                "url": "https://en.wikipedia.org/wiki/Human_behavior"
+            }
+        ]
+    }
+}

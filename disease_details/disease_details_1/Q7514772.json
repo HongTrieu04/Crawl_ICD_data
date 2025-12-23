@@ -1,0 +1,37 @@
+{
+    "name": "silent stroke",
+    "qid": "Q7514772",
+    "icd_10": "I64",
+    "description": "stroke that does not have any outward symptoms",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Silent_stroke",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "stroke",
+                "qid": "Q12202",
+                "url": "https://en.wikipedia.org/wiki/Stroke"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "pentoxifylline",
+                "qid": "Q416331",
+                "url": "https://en.wikipedia.org/wiki/Pentoxifylline"
+            },
+            {
+                "name": "rac-warfarin",
+                "qid": "Q113368879",
+                "url": "https://en.wikipedia.org/wiki/Warfarin"
+            }
+        ]
+    }
+}

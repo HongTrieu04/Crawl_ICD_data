@@ -1,0 +1,23 @@
+{
+    "name": "wheezing",
+    "qid": "Q9396484",
+    "icd_10": "R06.2",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "wheeze",
+                "qid": "Q517104",
+                "url": "https://en.wikipedia.org/wiki/Wheeze"
+            },
+            {
+                "name": "respiratory sound",
+                "qid": "Q779038",
+                "url": "https://en.wikipedia.org/wiki/Respiratory_sounds"
+            }
+        ]
+    }
+}

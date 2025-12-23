@@ -1,0 +1,35 @@
+{
+    "name": "abdominal aortic aneurysm",
+    "qid": "Q2256736",
+    "icd_10": "I71.4",
+    "description": "aortic aneurysm that is located in the abdominal aorta",
+    "aliases": [
+        "AAA",
+        "Aortic Aneurysm, Abdominal",
+        "AORTIC ANEURYSM, FAMILIAL ABDOMINAL 1",
+        "triple-a"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Naval%20Medical%20Bulletin%20Vol.%2012%2C%20No.%204%2C%20October%201918%20%28IA%20NavalMedicalBulletin124October1918%29.pdf",
+    "url": "https://en.wikipedia.org/wiki/Abdominal_aortic_aneurysm",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "aortic aneurysm",
+                "qid": "Q616003",
+                "url": "https://en.wikipedia.org/wiki/Aortic_aneurysm"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "vascular surgery",
+                "qid": "Q1498222",
+                "url": "https://en.wikipedia.org/wiki/Vascular_surgery"
+            }
+        ]
+    }
+}

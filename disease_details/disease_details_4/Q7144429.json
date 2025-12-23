@@ -1,0 +1,26 @@
+{
+    "name": "patellar dislocation",
+    "qid": "Q7144429",
+    "icd_10": "S83.0",
+    "description": "injury of the knee",
+    "aliases": [
+        "dislocated knee"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Patellar_dislocation",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "knee disorder",
+                "qid": "Q18971535"
+            }
+        ]
+    }
+}

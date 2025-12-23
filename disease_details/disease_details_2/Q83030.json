@@ -1,0 +1,125 @@
+{
+    "name": "dementia",
+    "qid": "Q83030",
+    "icd_10": "F07",
+    "description": "long-term brain disorder causing personality changes and impaired memory, reasoning, and social function",
+    "aliases": [
+        "senility",
+        "rare dementia"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/An%20old%20man%20diagnosed%20as%20suffering%20from%20senile%20dementia.%20Colo%20Wellcome%20L0026689.jpg",
+    "url": "https://en.wikipedia.org/wiki/Dementia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "organic brain syndrome",
+                "qid": "Q360341",
+                "url": "https://en.wikipedia.org/wiki/Organic_brain_syndrome"
+            },
+            {
+                "name": "clinical sign",
+                "qid": "Q1441305",
+                "url": "https://en.wikipedia.org/wiki/Clinical_sign"
+            },
+            {
+                "name": "cognitive disorder",
+                "qid": "Q3065932",
+                "url": "https://en.wikipedia.org/wiki/Neurocognitive_disorder"
+            },
+            {
+                "name": "disability affecting intellectual abilities",
+                "qid": "Q3317827",
+                "url": "https://en.wikipedia.org/wiki/Disabilities_affecting_intellectual_abilities"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "olanzapine",
+                "qid": "Q201872",
+                "url": "https://en.wikipedia.org/wiki/Olanzapine"
+            },
+            {
+                "name": "quetiapine",
+                "qid": "Q408535",
+                "url": "https://en.wikipedia.org/wiki/Quetiapine"
+            },
+            {
+                "name": "galantamine",
+                "qid": "Q412690",
+                "url": "https://en.wikipedia.org/wiki/Galantamine"
+            },
+            {
+                "name": "donepezil",
+                "qid": "Q415081",
+                "url": "https://en.wikipedia.org/wiki/Donepezil"
+            },
+            {
+                "name": "tacrine",
+                "qid": "Q421076",
+                "url": "https://en.wikipedia.org/wiki/Tacrine"
+            },
+            {
+                "name": "perphenazine",
+                "qid": "Q423520",
+                "url": "https://en.wikipedia.org/wiki/Perphenazine"
+            },
+            {
+                "name": "(RS)-citalopram",
+                "qid": "Q409672",
+                "url": "https://en.wikipedia.org/wiki/Citalopram"
+            },
+            {
+                "name": "aripiprazole",
+                "qid": "Q411188",
+                "url": "https://en.wikipedia.org/wiki/Aripiprazole"
+            },
+            {
+                "name": "rivastigmine",
+                "qid": "Q411887",
+                "url": "https://en.wikipedia.org/wiki/Rivastigmine"
+            },
+            {
+                "name": "memantine",
+                "qid": "Q412189",
+                "url": "https://en.wikipedia.org/wiki/Memantine"
+            },
+            {
+                "name": "risperidone",
+                "qid": "Q412443",
+                "url": "https://en.wikipedia.org/wiki/Risperidone"
+            },
+            {
+                "name": "dihydro-α-ergocryptine",
+                "qid": "Q905717",
+                "url": "https://en.wikipedia.org/wiki/Dihydroergocryptine"
+            },
+            {
+                "name": "dihydroergocristine",
+                "qid": "Q5276428",
+                "url": "https://en.wikipedia.org/wiki/Dihydroergocristine"
+            },
+            {
+                "name": "pimavanserin",
+                "qid": "Q7194603",
+                "url": "https://en.wikipedia.org/wiki/Pimavanserin"
+            }
+        ]
+    }
+}

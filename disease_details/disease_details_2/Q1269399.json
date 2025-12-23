@@ -1,0 +1,35 @@
+{
+    "name": "dysuria",
+    "qid": "Q1269399",
+    "icd_10": "R30.0",
+    "description": "difficult or painful urination",
+    "aliases": [
+        "UTI"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Dysuria",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "symptom",
+                "qid": "Q169872",
+                "url": "https://en.wikipedia.org/wiki/Symptom"
+            },
+            {
+                "name": "urological symptom",
+                "qid": "Q2565950"
+            },
+            {
+                "name": "urination disorder",
+                "qid": "Q19000619"
+            }
+        ]
+    }
+}

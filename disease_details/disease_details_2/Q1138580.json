@@ -1,0 +1,110 @@
+{
+    "name": "Ewing sarcoma",
+    "qid": "Q1138580",
+    "icd_10": "C41.9",
+    "description": "bone cancer that has material basis in neural crest cells derives from undeveloped, undifferentiated neuroectoderm",
+    "aliases": [
+        "EFTs",
+        "Ewing Family of Tumors",
+        "Ewing sarcoma family of tumors",
+        "Ewing sarcoma/Peripheral PNET",
+        "Ewing sarcoma/Peripheral primitive neuroectodermal tumor",
+        "Ewing's family localized tumor",
+        "Ewing's Family of Tumors",
+        "Ewing's Family of Tumours",
+        "Ewing's sarcoma",
+        "Ewing's sarcoma/peripheral primitive neuroectodermal tumor",
+        "Ewing's tumor",
+        "Ewings sarcoma",
+        "Ewings sarcoma-primitive neuroectodermal tumor",
+        "localized Ewing sarcoma",
+        "localized Ewing's sarcoma",
+        "localized Ewing's sarcoma/peripheral primitive neuroectodermal tumor",
+        "localized Ewing's tumor",
+        "localized peripheral primitive neuroectodermal tumor",
+        "peripheral primitive neuroectodermal tumor",
+        "PNET of Thoracopulmonary Region",
+        "Tumors of Ewing's Family",
+        "Tumors of the Ewing's Family"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ewing%20sarcoma%20tibia%20child.jpg",
+    "url": "https://en.wikipedia.org/wiki/Ewing_sarcoma",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "sarcoma",
+                "qid": "Q223911",
+                "url": "https://en.wikipedia.org/wiki/Sarcoma"
+            },
+            {
+                "name": "connective tissue neoplasm",
+                "qid": "Q3542012",
+                "url": "https://en.wikipedia.org/wiki/Connective_tissue_neoplasm"
+            },
+            {
+                "name": "childhood cancer",
+                "qid": "Q5097977",
+                "url": "https://en.wikipedia.org/wiki/Childhood_cancer"
+            },
+            {
+                "name": "Ewing family of tumor",
+                "qid": "Q5419064",
+                "url": "https://en.wikipedia.org/wiki/Ewing_family_of_tumors"
+            },
+            {
+                "name": "bone cancer",
+                "qid": "Q18554919",
+                "url": "https://en.wikipedia.org/wiki/Bone_cancer"
+            },
+            {
+                "name": "bone sarcoma",
+                "qid": "Q56014469",
+                "url": "https://en.wikipedia.org/wiki/Bone_sarcoma"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "doxorubicin",
+                "qid": "Q18936",
+                "url": "https://en.wikipedia.org/wiki/Doxorubicin"
+            },
+            {
+                "name": "(RS)-cyclophosphamide",
+                "qid": "Q408524",
+                "url": "https://en.wikipedia.org/wiki/Cyclophosphamide"
+            },
+            {
+                "name": "vincristine",
+                "qid": "Q408977",
+                "url": "https://en.wikipedia.org/wiki/Vincristine"
+            },
+            {
+                "name": "dactinomycin",
+                "qid": "Q186127",
+                "url": "https://en.wikipedia.org/wiki/Dactinomycin"
+            },
+            {
+                "name": "ifosfamide",
+                "qid": "Q418560",
+                "url": "https://en.wikipedia.org/wiki/Ifosfamide"
+            },
+            {
+                "name": "etoposide",
+                "qid": "Q418817",
+                "url": "https://en.wikipedia.org/wiki/Etoposide"
+            }
+        ]
+    }
+}

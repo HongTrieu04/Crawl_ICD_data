@@ -1,0 +1,164 @@
+{
+    "name": "plague",
+    "qid": "Q133780",
+    "icd_10": "A20",
+    "description": "specific contagious and frequently fatal human disease caused by Yersinia pestis",
+    "aliases": [
+        "The Plague",
+        "obsolete Yersinia pestis infectious disease",
+        "Yersinia pestis infectious disease"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Doktorschnabel%20430px.jpg",
+    "url": "https://en.wikipedia.org/wiki/Plague_(disease)",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            },
+            {
+                "name": "shock",
+                "qid": "Q178061",
+                "url": "https://en.wikipedia.org/wiki/Shock_(circulatory)"
+            },
+            {
+                "name": "delirium",
+                "qid": "Q160796",
+                "url": "https://en.wikipedia.org/wiki/Delirium"
+            },
+            {
+                "name": "bleeding",
+                "qid": "Q166019",
+                "url": "https://en.wikipedia.org/wiki/Bleeding"
+            },
+            {
+                "name": "vomiting",
+                "qid": "Q127076",
+                "url": "https://en.wikipedia.org/wiki/Vomiting"
+            },
+            {
+                "name": "cough",
+                "qid": "Q35805",
+                "url": "https://en.wikipedia.org/wiki/Cough"
+            },
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "myalgia",
+                "qid": "Q474959",
+                "url": "https://en.wikipedia.org/wiki/Myalgia"
+            },
+            {
+                "name": "hemoptysis",
+                "qid": "Q647099",
+                "url": "https://en.wikipedia.org/wiki/Hemoptysis"
+            },
+            {
+                "name": "rash",
+                "qid": "Q653197",
+                "url": "https://en.wikipedia.org/wiki/Rash"
+            },
+            {
+                "name": "hyperaemia",
+                "qid": "Q948806",
+                "url": "https://en.wikipedia.org/wiki/Hyperaemia"
+            },
+            {
+                "name": "bubo",
+                "qid": "Q2722991",
+                "url": "https://en.wikipedia.org/wiki/Bubo"
+            },
+            {
+                "name": "poisoning",
+                "qid": "Q114953"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "infectious disease",
+                "qid": "Q18123741",
+                "url": "https://en.wikipedia.org/wiki/Infectious_disease"
+            },
+            {
+                "name": "yersiniosis",
+                "qid": "Q2600216",
+                "url": "https://en.wikipedia.org/wiki/Yersiniosis"
+            },
+            {
+                "name": "primary bacterial infectious disease",
+                "qid": "Q18553247"
+            },
+            {
+                "name": "pandemic and epidemic-prone diseases",
+                "qid": "Q131345497"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "antibiotic",
+                "qid": "Q12187",
+                "url": "https://en.wikipedia.org/wiki/Antibiotic"
+            },
+            {
+                "name": "corticosteroid",
+                "qid": "Q210420",
+                "url": "https://en.wikipedia.org/wiki/Corticosteroid"
+            },
+            {
+                "name": "anti-inflammatory agent",
+                "qid": "Q581996",
+                "url": "https://en.wikipedia.org/wiki/Anti-inflammatory"
+            },
+            {
+                "name": "surgical operation",
+                "qid": "Q600236",
+                "url": "https://en.wikipedia.org/wiki/Surgical_operation"
+            },
+            {
+                "name": "symptomatic treatment",
+                "qid": "Q621558",
+                "url": "https://en.wikipedia.org/wiki/Symptomatic_treatment"
+            },
+            {
+                "name": "detoxification",
+                "qid": "Q1090423",
+                "url": "https://en.wikipedia.org/wiki/Detoxification"
+            },
+            {
+                "name": "antithrombotic",
+                "qid": "Q4775337",
+                "url": "https://en.wikipedia.org/wiki/Antithrombotic"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Yersinia pestis",
+                "qid": "Q153875",
+                "url": "https://en.wikipedia.org/wiki/Yersinia_pestis"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "streptomycin",
+                "qid": "Q192717",
+                "url": "https://en.wikipedia.org/wiki/Streptomycin"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

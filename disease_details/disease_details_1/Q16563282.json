@@ -1,0 +1,26 @@
+{
+    "name": "Herpes simplex virus otitis externa",
+    "qid": "Q16563282",
+    "icd_10": "H62.1",
+    "description": "Human disease",
+    "aliases": [
+        "Herpes simplex infection of external ear",
+        "Herpes simplex otitis externa"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "otitis externa",
+                "qid": "Q680873",
+                "url": "https://en.wikipedia.org/wiki/Otitis_externa"
+            },
+            {
+                "name": "herpes simplex",
+                "qid": "Q6473911",
+                "url": "https://en.wikipedia.org/wiki/Herpes"
+            }
+        ]
+    }
+}

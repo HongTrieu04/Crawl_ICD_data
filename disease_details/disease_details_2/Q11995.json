@@ -1,0 +1,42 @@
+{
+    "name": "human pregnancy",
+    "qid": "Q11995",
+    "icd_10": "Z33",
+    "description": "time of human offspring development in mother's body",
+    "aliases": [
+        "pregnancy",
+        "gestation",
+        "pregnant person",
+        "gravidity"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pregnant%20asian%20woman.jpg",
+    "url": "https://en.wikipedia.org/wiki/Pregnancy",
+    "details": {
+        "Cause": [
+            {
+                "name": "in vitro fertilization",
+                "qid": "Q200117",
+                "url": "https://en.wikipedia.org/wiki/In_vitro_fertilisation"
+            },
+            {
+                "name": "human fertilization",
+                "qid": "Q2666904",
+                "url": "https://en.wikipedia.org/wiki/Human_fertilization"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gynaecology",
+                "qid": "Q1221899",
+                "url": "https://en.wikipedia.org/wiki/Gynaecology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "pregnancy",
+                "qid": "Q1490716",
+                "url": "https://en.wikipedia.org/wiki/Pregnancy_(mammals)"
+            }
+        ]
+    }
+}

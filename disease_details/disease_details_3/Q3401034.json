@@ -1,0 +1,32 @@
+{
+    "name": "arbovirus encephalitis",
+    "qid": "Q3401034",
+    "icd_10": "A84",
+    "description": "encephalitis diseases caused by an arbovirus infection",
+    "aliases": [
+        "arboviral encephalitis",
+        "Encephalitis, Arbovirus"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Arbovirus_encephalitis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "encephalitis",
+                "qid": "Q199615",
+                "url": "https://en.wikipedia.org/wiki/Encephalitis"
+            },
+            {
+                "name": "arbovirosis",
+                "qid": "Q2859732"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

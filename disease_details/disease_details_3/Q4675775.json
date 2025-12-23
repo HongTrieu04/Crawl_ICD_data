@@ -1,0 +1,32 @@
+{
+    "name": "Acrogeria",
+    "qid": "Q4675775",
+    "icd_10": "E34.8",
+    "description": "Skin condition",
+    "aliases": [
+        "Gottron's syndrome"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fibers%20of%20Collagen%20Type%20I%20-%20TEM%20.jpg",
+    "url": "https://en.wikipedia.org/wiki/Acrogeria",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "skin disease",
+                "qid": "Q949302",
+                "url": "https://en.wikipedia.org/wiki/Skin_condition"
+            },
+            {
+                "name": "progeroid syndrome",
+                "qid": "Q6139748",
+                "url": "https://en.wikipedia.org/wiki/Progeroid_syndromes"
+            }
+        ]
+    }
+}

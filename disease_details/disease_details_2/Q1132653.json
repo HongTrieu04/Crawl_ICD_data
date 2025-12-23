@@ -1,0 +1,32 @@
+{
+    "name": "hypernatremia",
+    "qid": "Q1132653",
+    "icd_10": "E87.0",
+    "description": "high concentration of sodium ions in the blood",
+    "aliases": [
+        "Hypernatraemia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hypernatremia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            },
+            {
+                "name": "nephrology",
+                "qid": "Q177635",
+                "url": "https://en.wikipedia.org/wiki/Nephrology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "electrolyte imbalance",
+                "qid": "Q1326943",
+                "url": "https://en.wikipedia.org/wiki/Electrolyte_imbalance"
+            }
+        ]
+    }
+}

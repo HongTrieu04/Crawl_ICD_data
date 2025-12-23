@@ -1,0 +1,41 @@
+{
+    "name": "pinealoblastoma",
+    "qid": "Q2095567",
+    "icd_10": "C75.3",
+    "description": "pineal gland neoplasm located in the brain",
+    "aliases": [
+        "Pineal Gland PNET",
+        "Pineal Gland Primitive Neuroectodermal Neoplasm",
+        "Pineal Gland Primitive Neuroectodermal Tumor",
+        "Pineal PNET",
+        "Pineal Primitive Neuroectodermal Neoplasm",
+        "Pineal Primitive Neuroectodermal Tumor",
+        "pineoblastoma",
+        "Pineoblastoma (WHO Grade IV)",
+        "PINEOBLASTOMA, MALIGNANT",
+        "PNET of Pineal Gland",
+        "PNET of the Pineal Gland",
+        "Primitive Neuroectodermal Neoplasm of Pineal Gland",
+        "Primitive Neuroectodermal Neoplasm of the Pineal Gland",
+        "Primitive Neuroectodermal Tumor of Pineal Gland",
+        "Primitive Neuroectodermal Tumor of the Pineal Gland"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pineoblastoma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "pinealoma",
+                "qid": "Q1047551",
+                "url": "https://en.wikipedia.org/wiki/Pinealoma"
+            }
+        ]
+    }
+}

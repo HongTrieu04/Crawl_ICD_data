@@ -1,0 +1,28 @@
+{
+    "name": "macrocytosis",
+    "qid": "Q1886493",
+    "icd_10": "D75.8",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Macrocytosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "abnormality of red blood cells",
+                "qid": "Q5670888"
+            },
+            {
+                "name": "hemic system symptom",
+                "qid": "Q102186671"
+            }
+        ]
+    }
+}

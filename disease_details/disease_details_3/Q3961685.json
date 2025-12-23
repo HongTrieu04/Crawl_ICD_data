@@ -1,0 +1,28 @@
+{
+    "name": "Rabson–Mendenhall syndrome",
+    "qid": "Q3961685",
+    "icd_10": "E13",
+    "description": "medical condition",
+    "aliases": [
+        "RMS",
+        "Rabson-Mendenhall syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Rabson%E2%80%93Mendenhall_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "Donohue syndrome",
+                "qid": "Q2467739",
+                "url": "https://en.wikipedia.org/wiki/Donohue_syndrome"
+            }
+        ]
+    }
+}

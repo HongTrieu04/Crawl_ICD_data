@@ -1,0 +1,32 @@
+{
+    "name": "hemianopia",
+    "qid": "Q363342",
+    "icd_10": "H53.4",
+    "description": "decreased vision or blindness in half the visual field",
+    "aliases": [
+        "hemianopsia"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hemia.PNG",
+    "url": "https://en.wikipedia.org/wiki/Hemianopsia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            },
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "anopsia",
+                "qid": "Q4770152",
+                "url": "https://en.wikipedia.org/wiki/Anopsia"
+            }
+        ]
+    }
+}

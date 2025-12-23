@@ -1,0 +1,34 @@
+{
+    "name": "breast lump",
+    "qid": "Q953865",
+    "icd_10": "N63",
+    "description": "localized swellings that feel different from the surrounding tissue",
+    "aliases": [
+        "breast mass",
+        "breast nodule",
+        "lumpy breast"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Breast_mass",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "surgery",
+                "qid": "Q40821",
+                "url": "https://en.wikipedia.org/wiki/Surgery"
+            },
+            {
+                "name": "gynaecology",
+                "qid": "Q1221899",
+                "url": "https://en.wikipedia.org/wiki/Gynaecology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "breast disease",
+                "qid": "Q4959796",
+                "url": "https://en.wikipedia.org/wiki/Breast_disease"
+            }
+        ]
+    }
+}

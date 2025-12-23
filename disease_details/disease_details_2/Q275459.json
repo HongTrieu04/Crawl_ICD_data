@@ -1,0 +1,34 @@
+{
+    "name": "radiation syndrome",
+    "qid": "Q275459",
+    "icd_10": "T66",
+    "description": "health problems caused by exposure to very high levels of ionizing radiation",
+    "aliases": [
+        "ARS",
+        "radiation sickness",
+        "acute radiation syndrome",
+        "radiation poisoning"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Autophagosomes.jpg",
+    "url": "https://en.wikipedia.org/wiki/Acute_radiation_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "intoxication",
+                "qid": "Q18621601",
+                "url": "https://en.wikipedia.org/wiki/Poisoning"
+            },
+            {
+                "name": "radiation sickness",
+                "qid": "Q21652028"
+            }
+        ]
+    }
+}

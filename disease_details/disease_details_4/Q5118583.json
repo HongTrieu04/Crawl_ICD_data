@@ -1,0 +1,33 @@
+{
+    "name": "Chyluria",
+    "qid": "Q5118583",
+    "icd_10": "R82.0",
+    "description": "medical condition",
+    "aliases": [
+        "chylous urine",
+        "Milky urine"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chyluria%20urine.jpg",
+    "url": "https://en.wikipedia.org/wiki/Chyluria",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "urinalysis",
+                "qid": "Q842424",
+                "url": "https://en.wikipedia.org/wiki/Urinalysis"
+            },
+            {
+                "name": "urine discoloration",
+                "qid": "Q21120235",
+                "url": "https://en.wikipedia.org/wiki/Abnormal_urine_color"
+            }
+        ]
+    }
+}

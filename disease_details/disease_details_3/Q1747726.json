@@ -1,0 +1,32 @@
+{
+    "name": "tyrosinemia type I",
+    "qid": "Q1747726",
+    "icd_10": "E70.2",
+    "description": "tyrosinemia that has material basis in deficiency of the enzyme fumarylacetoacetate hydrolase resulting in an increase in fumarylacetoacetate which inhibits previous steps in tyrosine degradation leading to an accumulation of tyrosine in the body",
+    "aliases": [
+        "hepatorenal tyrosinemia",
+        "Hereditary tyrosinemia, Type I",
+        "High tyrosinemia type 1",
+        "Hypertyrosinemia type I",
+        "Tyrosinemia I",
+        "TYRSN1"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Tyrosinemia_type_I",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "tyrosinemia",
+                "qid": "Q1122668",
+                "url": "https://en.wikipedia.org/wiki/Tyrosinemia"
+            }
+        ]
+    }
+}

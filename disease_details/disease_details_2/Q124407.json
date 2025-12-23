@@ -1,0 +1,127 @@
+{
+    "name": "type-1 diabetes",
+    "qid": "Q124407",
+    "icd_10": "E10",
+    "description": "autoimmune disease, a form of diabetes mellitus that occurs when insulin-producing cells are destroyed by the immune system",
+    "aliases": [
+        "IDDM",
+        "T1D",
+        "diabetes (type 1)",
+        "diabetes mellitus juvenile type",
+        "DIABETES MELLITUS, INSULIN-DEPENDENT",
+        "Diabetes Mellitus, Insulin-Dependent, 1",
+        "DIABETES MELLITUS, INSULIN-DEPENDENT; IDDM",
+        "Diabetes Mellitus, Type 1",
+        "insulin dependent diabetes",
+        "insulin-dependent diabetes mellitus",
+        "Insulin-Dependent Diabetes Mellitus 1",
+        "juvenile diabetes",
+        "Juvenile-Onset Diabetes",
+        "T1DM",
+        "type 1 diabetes mellitus",
+        "type I diabetes mellitus"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Blue%20circle%20for%20diabetes.svg",
+    "url": "https://en.wikipedia.org/wiki/Type_1_diabetes",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "diabetes",
+                "qid": "Q12206",
+                "url": "https://en.wikipedia.org/wiki/Diabetes"
+            },
+            {
+                "name": "autoimmune disease of endocrine system",
+                "qid": "Q18553586"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "autoimmunity",
+                "qid": "Q192360",
+                "url": "https://en.wikipedia.org/wiki/Autoimmunity"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "albiglutide",
+                "qid": "Q4712362",
+                "url": "https://en.wikipedia.org/wiki/Albiglutide"
+            },
+            {
+                "name": "insulin glulisine",
+                "qid": "Q6042242",
+                "url": "https://en.wikipedia.org/wiki/Insulin_glulisine"
+            },
+            {
+                "name": "dulaglutide",
+                "qid": "Q21011228",
+                "url": "https://en.wikipedia.org/wiki/Dulaglutide"
+            },
+            {
+                "name": "insulin detemir",
+                "qid": "Q410965",
+                "url": "https://en.wikipedia.org/wiki/Insulin_detemir"
+            },
+            {
+                "name": "insulin glargine",
+                "qid": "Q417317",
+                "url": "https://en.wikipedia.org/wiki/Insulin_glargine"
+            },
+            {
+                "name": "exenatide",
+                "qid": "Q417762",
+                "url": "https://en.wikipedia.org/wiki/Exenatide"
+            },
+            {
+                "name": "sitagliptin",
+                "qid": "Q419832",
+                "url": "https://en.wikipedia.org/wiki/Sitagliptin"
+            },
+            {
+                "name": "pramlintide",
+                "qid": "Q2062094",
+                "url": "https://en.wikipedia.org/wiki/Pramlintide"
+            },
+            {
+                "name": "liraglutide",
+                "qid": "Q2526479",
+                "url": "https://en.wikipedia.org/wiki/Liraglutide"
+            },
+            {
+                "name": "insulin aspart",
+                "qid": "Q2754775",
+                "url": "https://en.wikipedia.org/wiki/Insulin_aspart"
+            },
+            {
+                "name": "Insulin Lispro",
+                "qid": "Q3492616",
+                "url": "https://en.wikipedia.org/wiki/Insulin_lispro"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "diabetology",
+                "qid": "Q1207969",
+                "url": "https://en.wikipedia.org/wiki/Diabetology"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "polydipsia",
+                "qid": "Q635195",
+                "url": "https://en.wikipedia.org/wiki/Polydipsia"
+            },
+            {
+                "name": "polyphagia",
+                "qid": "Q653267",
+                "url": "https://en.wikipedia.org/wiki/Polyphagia"
+            },
+            {
+                "name": "polyuria",
+                "qid": "Q1124286",
+                "url": "https://en.wikipedia.org/wiki/Polyuria"
+            }
+        ]
+    }
+}

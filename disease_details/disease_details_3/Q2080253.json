@@ -1,0 +1,30 @@
+{
+    "name": "Amastia",
+    "qid": "Q2080253",
+    "icd_10": "Q83",
+    "description": "Condition in which the breast and nipple are absent",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Amastia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "agenesis",
+                "qid": "Q392604",
+                "url": "https://en.wikipedia.org/wiki/Agenesis"
+            },
+            {
+                "name": "Amazia",
+                "qid": "Q4740761",
+                "url": "https://en.wikipedia.org/wiki/Amazia"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

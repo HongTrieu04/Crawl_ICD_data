@@ -1,0 +1,38 @@
+{
+    "name": "tracheal stenosis",
+    "qid": "Q4116448",
+    "icd_10": "J95.5",
+    "description": "respiratory disease",
+    "aliases": [
+        "Laryngotracheal Stenosis",
+        "Stenosis of trachea",
+        "Stenosis of trachea (disorder)",
+        "Tracheal stenosis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Laryngotracheal_stenosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "otolaryngology",
+                "qid": "Q189553",
+                "url": "https://en.wikipedia.org/wiki/Otorhinolaryngology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "stenosis",
+                "qid": "Q2343082",
+                "url": "https://en.wikipedia.org/wiki/Stenosis"
+            },
+            {
+                "name": "tracheal disease",
+                "qid": "Q18555344"
+            },
+            {
+                "name": "tracheal anomaly",
+                "qid": "Q55785517"
+            }
+        ]
+    }
+}

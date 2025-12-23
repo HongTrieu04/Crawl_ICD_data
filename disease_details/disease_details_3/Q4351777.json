@@ -1,0 +1,25 @@
+{
+    "name": "Hereditary persistence of fetal hemoglobin",
+    "qid": "Q4351777",
+    "icd_10": "D56.4",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hereditary_persistence_of_fetal_hemoglobin",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "hemoglobinopathy",
+                "qid": "Q1642147",
+                "url": "https://en.wikipedia.org/wiki/Hemoglobinopathy"
+            }
+        ]
+    }
+}

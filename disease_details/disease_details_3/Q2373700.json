@@ -1,0 +1,49 @@
+{
+    "name": "clostridial necrotizing enteritis",
+    "qid": "Q2373700",
+    "icd_10": "A05.2",
+    "description": "Human disease",
+    "aliases": [
+        "Clostridium perfringens food poisoning",
+        "Clostridium perfringens gastroenteritis",
+        "Enteritis necroticans",
+        "Food poisoning due to C. welchii",
+        "food poisoning due to clostridium perfringens",
+        "Food poisoning due to Clostridium perfringens (disorder)",
+        "Food poisoning due to Clostridium perfringens [C. welchii]",
+        "pigbel"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Clostridial_necrotizing_enteritis",
+    "details": {
+        "Cause": [
+            {
+                "name": "infection",
+                "qid": "Q166231",
+                "url": "https://en.wikipedia.org/wiki/Infection"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "foodborne illness",
+                "qid": "Q272002",
+                "url": "https://en.wikipedia.org/wiki/Foodborne_illness"
+            },
+            {
+                "name": "bacterial gastroenteritis",
+                "qid": "Q18966636"
+            },
+            {
+                "name": "Clostridium infectious disease",
+                "qid": "Q18975529"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

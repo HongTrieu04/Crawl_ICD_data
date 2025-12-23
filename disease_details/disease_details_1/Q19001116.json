@@ -1,0 +1,20 @@
+{
+    "name": "retinoschisis and retinal cysts",
+    "qid": "Q19001116",
+    "icd_10": "H33.1",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete Retinoschisis and retinal cysts",
+        "Retinoschisis and retinal cysts"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "retinal degeneration",
+                "qid": "Q3043268"
+            }
+        ]
+    }
+}

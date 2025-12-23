@@ -1,0 +1,24 @@
+{
+    "name": "clavicle fracture",
+    "qid": "Q1746068",
+    "icd_10": "S42.0",
+    "description": "medical condition",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Collarbone%20fracture%20-%20Clavicle%20fracture%201%20--%20Smart-Servier.png",
+    "url": "https://en.wikipedia.org/wiki/Clavicle_fracture",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "shoulder fracture",
+                "qid": "Q56301149"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "hip osteoarthritis",
+    "qid": "Q452368",
+    "icd_10": "M16",
+    "description": "arthrosis of the hip bones",
+    "aliases": [
+        "arthrosis of hip",
+        "Coxarthrosis",
+        "Osteoarthritis, Hip"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/0910%20Oateoarthritis%20Hip%20A.png",
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "osteoarthritis",
+                "qid": "Q62736",
+                "url": "https://en.wikipedia.org/wiki/Osteoarthritis"
+            }
+        ]
+    }
+}

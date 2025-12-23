@@ -1,0 +1,112 @@
+{
+    "name": "peritonitis",
+    "qid": "Q223102",
+    "icd_10": "K65",
+    "description": "inflammation of the peritoneum, the lining of the inner wall of the abdomen",
+    "aliases": [
+        "acute generalized peritonitis",
+        "acute generalized peritonitis (disorder)",
+        "peritoneum inflammation",
+        "peritoneumitis",
+        "primary bacterial peritonitis",
+        "primary bacterial peritonitis (disorder)",
+        "Retractile mesenteritis",
+        "Retractile mesenteritis (disorder)",
+        "sclerosing mesenteritis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tuberculous%20peritonitis%20%286544825621%29.jpg",
+    "url": "https://en.wikipedia.org/wiki/Peritonitis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "intraabdominal infection",
+                "qid": "Q30314067",
+                "url": "https://en.wikipedia.org/wiki/Intra-abdominal_infection"
+            },
+            {
+                "name": "gastrointestinal system disease",
+                "qid": "Q2300099",
+                "url": "https://en.wikipedia.org/wiki/Gastrointestinal_disease"
+            },
+            {
+                "name": "inflammatory disease",
+                "qid": "Q3508753"
+            },
+            {
+                "name": "peritoneal disease",
+                "qid": "Q54935444"
+            },
+            {
+                "name": "skin and integumentary tissue symptom",
+                "qid": "Q100751718"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "nausea",
+                "qid": "Q186889",
+                "url": "https://en.wikipedia.org/wiki/Nausea"
+            },
+            {
+                "name": "vomiting",
+                "qid": "Q127076",
+                "url": "https://en.wikipedia.org/wiki/Vomiting"
+            },
+            {
+                "name": "abdominal tenderness",
+                "qid": "Q102186478"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "peritoneum",
+                "qid": "Q9629",
+                "url": "https://en.wikipedia.org/wiki/Peritoneum"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "cefotetan",
+                "qid": "Q2602246",
+                "url": "https://en.wikipedia.org/wiki/Cefotetan"
+            },
+            {
+                "name": "amphotericin B",
+                "qid": "Q412223",
+                "url": "https://en.wikipedia.org/wiki/Amphotericin_B"
+            },
+            {
+                "name": "cefotaxime",
+                "qid": "Q417968",
+                "url": "https://en.wikipedia.org/wiki/Cefotaxime"
+            },
+            {
+                "name": "meropenem",
+                "qid": "Q421670",
+                "url": "https://en.wikipedia.org/wiki/Meropenem"
+            },
+            {
+                "name": "ceftriaxone",
+                "qid": "Q421713",
+                "url": "https://en.wikipedia.org/wiki/Ceftriaxone"
+            },
+            {
+                "name": "cefoxitin",
+                "qid": "Q2353907",
+                "url": "https://en.wikipedia.org/wiki/Cefoxitin"
+            }
+        ]
+    }
+}

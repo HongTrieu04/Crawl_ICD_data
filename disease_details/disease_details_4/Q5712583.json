@@ -1,0 +1,33 @@
+{
+    "name": "Hemosuccus pancreaticus",
+    "qid": "Q5712583",
+    "icd_10": "K86",
+    "description": "medical condition",
+    "aliases": [
+        "pseudohematobilia",
+        "Wirsungorrhage"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hemosuccus_pancreaticus",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "pancreas disease",
+                "qid": "Q7130407",
+                "url": "https://en.wikipedia.org/wiki/Pancreatic_disease"
+            },
+            {
+                "name": "bleeding",
+                "qid": "Q166019",
+                "url": "https://en.wikipedia.org/wiki/Bleeding"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ]
+    }
+}

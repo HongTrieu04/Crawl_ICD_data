@@ -1,0 +1,25 @@
+{
+    "name": "Racquet nail",
+    "qid": "Q7279840",
+    "icd_10": "L62.8",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Racquet_nail",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "nail disease",
+                "qid": "Q2084035",
+                "url": "https://en.wikipedia.org/wiki/Nail_disease"
+            }
+        ]
+    }
+}

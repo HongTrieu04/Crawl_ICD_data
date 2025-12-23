@@ -1,0 +1,32 @@
+{
+    "name": "brief psychotic disorder",
+    "qid": "Q2787727",
+    "icd_10": "F23",
+    "description": "period of psychosis whose duration is generally shorter, is not always non-recurring, but can be, and is not caused by another condition",
+    "aliases": [
+        "acute and transient psychotic disorders"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Brief_psychotic_disorder",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "clinical psychology",
+                "qid": "Q199906",
+                "url": "https://en.wikipedia.org/wiki/Clinical_psychology"
+            },
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "psychosis",
+                "qid": "Q170082",
+                "url": "https://en.wikipedia.org/wiki/Psychosis"
+            }
+        ]
+    }
+}

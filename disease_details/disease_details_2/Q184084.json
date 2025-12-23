@@ -1,0 +1,44 @@
+{
+    "name": "beriberi",
+    "qid": "Q184084",
+    "icd_10": "E51.1",
+    "description": "nutritional thiamine deficiency disease in humans",
+    "aliases": [
+        "beri-beri"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/COLLECTIE%20TROPENMUSEUM%20Beri-beri%20patient%20TMnr%2010006754.jpg",
+    "url": "https://en.wikipedia.org/wiki/Thiamine_deficiency",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            },
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            },
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "thiamine deficiency",
+                "qid": "Q4138763",
+                "url": "https://en.wikipedia.org/wiki/Beriberi"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "thiamine(1+) ion",
+                "qid": "Q83187",
+                "url": "https://en.wikipedia.org/wiki/Thiamine"
+            }
+        ]
+    }
+}

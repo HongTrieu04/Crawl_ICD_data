@@ -1,0 +1,120 @@
+{
+    "name": "boutonneuse fever",
+    "qid": "Q895297",
+    "icd_10": "A77.17",
+    "description": "Human disease",
+    "aliases": [
+        "african tick typhus",
+        "African tick typhus (disorder)",
+        "Boutonneuse disease",
+        "Conor and Bruch's disease",
+        "fievre Boutonneuse",
+        "Kenya fever",
+        "kenya tick typhus",
+        "Kenyan tick typhus",
+        "marseilles fever",
+        "Mediterranean spotted fever",
+        "Mediterranean tick fever",
+        "Rickettsia conorii spotted fever",
+        "South African tick-bite fever",
+        "South African tick-bite fever (disorder)",
+        "tick typhus due to rickettsia conorii"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Eschar%20and%20spots%20Mediterranean%20spotted%20fever.gif",
+    "url": "https://en.wikipedia.org/wiki/Boutonneuse_fever",
+    "details": {
+        "Drug used for treatment": [
+            {
+                "name": "doxycycline",
+                "qid": "Q422442",
+                "url": "https://en.wikipedia.org/wiki/Doxycycline"
+            },
+            {
+                "name": "josamycin",
+                "qid": "Q423369",
+                "url": "https://en.wikipedia.org/wiki/Josamycin"
+            },
+            {
+                "name": "azithromycin",
+                "qid": "Q165399",
+                "url": "https://en.wikipedia.org/wiki/Azithromycin"
+            },
+            {
+                "name": "ciprofloxacin",
+                "qid": "Q256602",
+                "url": "https://en.wikipedia.org/wiki/Ciprofloxacin"
+            },
+            {
+                "name": "chloramphenicol",
+                "qid": "Q274515",
+                "url": "https://en.wikipedia.org/wiki/Chloramphenicol"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "rickettsiosis",
+                "qid": "Q646664",
+                "url": "https://en.wikipedia.org/wiki/Rickettsiosis"
+            },
+            {
+                "name": "spotted fever",
+                "qid": "Q9274700",
+                "url": "https://en.wikipedia.org/wiki/Spotted_fever"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "rash",
+                "qid": "Q653197",
+                "url": "https://en.wikipedia.org/wiki/Rash"
+            },
+            {
+                "name": "lymphadenopathy",
+                "qid": "Q847726",
+                "url": "https://en.wikipedia.org/wiki/Lymphadenopathy"
+            },
+            {
+                "name": "papule",
+                "qid": "Q997862",
+                "url": "https://en.wikipedia.org/wiki/Papule"
+            },
+            {
+                "name": "macula",
+                "qid": "Q1515219",
+                "url": "https://en.wikipedia.org/wiki/Macule"
+            },
+            {
+                "name": "ulcer",
+                "qid": "Q6452285",
+                "url": "https://en.wikipedia.org/wiki/Ulcer_(dermatology)"
+            },
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "poisoning",
+                "qid": "Q114953"
+            },
+            {
+                "name": "primary affect",
+                "qid": "Q24084959"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Rickettsia conorii",
+                "qid": "Q2708461",
+                "url": "https://en.wikipedia.org/wiki/Rickettsia_conorii"
+            }
+        ]
+    }
+}

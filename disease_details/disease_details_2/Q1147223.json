@@ -1,0 +1,42 @@
+{
+    "name": "whiplash injuries",
+    "qid": "Q1147223",
+    "icd_10": "S13.4",
+    "description": "range of injuries to the neck related to a sudden distortion of the neck",
+    "aliases": [
+        "whiplash",
+        "WAD",
+        "Traumatic cervical syndrome, TCS",
+        "whiplash associated disorders",
+        "whiplash associated disorders (WAD)",
+        "whiplash injury"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lateral%20neck%20X-ray%20of%20whiplash.jpg",
+    "url": "https://en.wikipedia.org/wiki/Whiplash_(medicine)",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "injury in humans",
+                "qid": "Q193078",
+                "url": "https://en.wikipedia.org/wiki/Injury_in_humans"
+            },
+            {
+                "name": "cervical fracture",
+                "qid": "Q3538106",
+                "url": "https://en.wikipedia.org/wiki/Cervical_fracture"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "orthopedics",
+                "qid": "Q216685",
+                "url": "https://en.wikipedia.org/wiki/Orthopedic_surgery"
+            },
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ]
+    }
+}

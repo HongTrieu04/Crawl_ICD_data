@@ -1,0 +1,68 @@
+{
+    "name": "persistent Müllerian duct syndrome",
+    "qid": "Q1958739",
+    "icd_10": "Q55.8",
+    "description": "intersex variation where one has XY chromosomes, male-typical reproductive organs and external genitalia, and some component(s) of a female-typical reproductive tract",
+    "aliases": [
+        "Female Genital Ducts 1N Otherwise Normal Male",
+        "Female genital ducts in otherwise normal male",
+        "Hernia Uteri Inguinale",
+        "persistent Muellerian duct syndrome",
+        "Persistent Mullerian derivatives",
+        "Persistent Müllerian derivatives",
+        "persistent Mullerian duct syndrome",
+        "persistent Mullerian duct syndrome, types 1 and 2",
+        "PERSISTENT MULLERIAN DUCT SYNDROME, TYPES I AND II",
+        "PERSISTENT MULLERIAN DUCT SYNDROME, TYPES I AND II; PMDS",
+        "Persistent Oviduct Syndrome",
+        "PMDS",
+        "Pseudohermaphroditism, Male Internal"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Persistent_M%C3%BCllerian_duct_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "rare genetic urogenital disease",
+                "qid": "Q55785523"
+            },
+            {
+                "name": "rare genetic endocrine disease",
+                "qid": "Q55785525"
+            },
+            {
+                "name": "rare genetic developmental defect during embryogenesis",
+                "qid": "Q55785846"
+            },
+            {
+                "name": "46,XY disorder of sex development of endocrine origin",
+                "qid": "Q55787650"
+            },
+            {
+                "name": "rare male fertility disorder with obstructive azoospermia",
+                "qid": "Q55788042"
+            },
+            {
+                "name": "rare genetic disorder with obstructive azoospermia",
+                "qid": "Q55788066"
+            },
+            {
+                "name": "pseudohermaphroditism",
+                "qid": "Q2273662",
+                "url": "https://en.wikipedia.org/wiki/Pseudohermaphroditism"
+            },
+            {
+                "name": "Mullerian anomalies",
+                "qid": "Q48968389",
+                "url": "https://en.wikipedia.org/wiki/M%C3%BCllerian_anomalies"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

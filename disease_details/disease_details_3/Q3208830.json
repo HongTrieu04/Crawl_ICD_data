@@ -1,0 +1,33 @@
+{
+    "name": "residual schizophrenia",
+    "qid": "Q3208830",
+    "icd_10": "F20.5",
+    "description": "mental disorder, chronic stage in the development of a schizophrenic illness",
+    "aliases": [
+        "obsolete residual type schizophrenia",
+        "residual schizophrenia, unspecified state",
+        "residual type schizophrenia",
+        "residual type schizophrenic disorder",
+        "restzustand (schizophrenic)",
+        "restzustand, schizophrenic",
+        "schizophrenic residual state"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "schizophrenia",
+                "qid": "Q41112",
+                "url": "https://en.wikipedia.org/wiki/Schizophrenia"
+            }
+        ]
+    }
+}

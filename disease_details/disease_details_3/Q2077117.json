@@ -1,0 +1,25 @@
+{
+    "name": "hematospermia",
+    "qid": "Q2077117",
+    "icd_10": "N50.1",
+    "description": "presence of blood in ejaculation",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/H%C3%A9mospermie.JPG",
+    "url": "https://en.wikipedia.org/wiki/Hematospermia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "reproductive system disease",
+                "qid": "Q7314317",
+                "url": "https://en.wikipedia.org/wiki/Reproductive_system_disease"
+            }
+        ]
+    }
+}

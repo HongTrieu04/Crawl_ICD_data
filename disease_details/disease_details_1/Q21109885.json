@@ -1,0 +1,23 @@
+{
+    "name": "chronic respiratory disease",
+    "qid": "Q21109885",
+    "icd_10": "J98.9",
+    "description": "disease",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "chronic condition",
+                "qid": "Q383126",
+                "url": "https://en.wikipedia.org/wiki/Chronic_condition"
+            },
+            {
+                "name": "respiratory disease",
+                "qid": "Q3286546",
+                "url": "https://en.wikipedia.org/wiki/Respiratory_disease"
+            }
+        ]
+    }
+}

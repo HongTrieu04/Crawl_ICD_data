@@ -1,0 +1,30 @@
+{
+    "name": "congenital vertebral anomaly",
+    "qid": "Q332343",
+    "icd_10": "Q76.4",
+    "description": "medical condition",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Posterior%20arch%20defect.png",
+    "url": "https://en.wikipedia.org/wiki/Congenital_vertebral_anomaly",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "congenital abnormality",
+                "qid": "Q2852249",
+                "url": "https://en.wikipedia.org/wiki/Congenital_abnormality"
+            },
+            {
+                "name": "spinal disease",
+                "qid": "Q7577457",
+                "url": "https://en.wikipedia.org/wiki/Spinal_disease"
+            }
+        ]
+    }
+}

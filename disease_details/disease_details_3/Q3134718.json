@@ -1,0 +1,26 @@
+{
+    "name": "vitamin A deficiency with night blindness",
+    "qid": "Q3134718",
+    "icd_10": "E50.5",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete vitamin A deficiency with night blindness",
+        "vitamin A deficiency with night blindness (disorder)"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "vitamin A deficiency",
+                "qid": "Q2655893",
+                "url": "https://en.wikipedia.org/wiki/Vitamin_A_deficiency"
+            },
+            {
+                "name": "night blindness",
+                "qid": "Q7758678",
+                "url": "https://en.wikipedia.org/wiki/Nyctalopia"
+            }
+        ]
+    }
+}

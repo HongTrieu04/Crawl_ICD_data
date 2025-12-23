@@ -1,0 +1,50 @@
+{
+    "name": "eclampsia",
+    "qid": "Q552348",
+    "icd_10": "O15",
+    "description": "pre-eclampsia characterized by the presence of seizures",
+    "aliases": [
+        "Eclampsia in puerperium",
+        "Eclampsia in puerperium (disorder)",
+        "eclampsia with delivery",
+        "Eclampsia, postpartum",
+        "obsolete eclampsia with delivery",
+        "obsolete Toxemia with convulsions complicating pregnancy, childbirth or the puerperium",
+        "Postpartum eclampsia",
+        "Toxemia with convulsions complicating pregnancy, childbirth or the puerperium"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dissection%20of%20uterus%20at%20term%20eclampsia.jpg",
+    "url": "https://en.wikipedia.org/wiki/Eclampsia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "pre-eclampsia",
+                "qid": "Q61335",
+                "url": "https://en.wikipedia.org/wiki/Pre-eclampsia"
+            },
+            {
+                "name": "life emergency",
+                "qid": "Q3552280"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "obstetrics",
+                "qid": "Q5284418",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "pharmaceutical preparation of nitroglycerin",
+                "qid": "Q3221044",
+                "url": "https://en.wikipedia.org/wiki/Nitroglycerin_(medication)"
+            }
+        ]
+    }
+}

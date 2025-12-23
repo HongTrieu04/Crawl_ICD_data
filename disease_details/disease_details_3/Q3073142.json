@@ -1,0 +1,29 @@
+{
+    "name": "Pontiac fever",
+    "qid": "Q3073142",
+    "icd_10": "A48.2",
+    "description": "legionellosis that involves a milder respiratory illness without pneumonia. Symptoms include fever, headache and muscle aches which last for 2 to 5 days",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pontiac_fever",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "occupational disease",
+                "qid": "Q637816",
+                "url": "https://en.wikipedia.org/wiki/Occupational_disease"
+            },
+            {
+                "name": "legionellosis",
+                "qid": "Q18553869"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

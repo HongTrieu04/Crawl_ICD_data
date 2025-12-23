@@ -1,0 +1,41 @@
+{
+    "name": "epispadias",
+    "qid": "Q1347416",
+    "icd_10": "Q64.0",
+    "description": "congenital disorder of urinary system",
+    "aliases": [
+        "Epispadias"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Annals%20of%20surgery%20%281885%29%20%2814596727180%29.jpg",
+    "url": "https://en.wikipedia.org/wiki/Epispadias",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            },
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "penile disease",
+                "qid": "Q18554834"
+            },
+            {
+                "name": "bladder exstrophy-epispadias-cloacal exstrophy complex",
+                "qid": "Q32137168"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "epispadias repair",
+                "qid": "Q114593901"
+            }
+        ]
+    }
+}

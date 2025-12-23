@@ -1,0 +1,60 @@
+{
+    "name": "amaurosis fugax",
+    "qid": "Q2146228",
+    "icd_10": "G45.3",
+    "description": "painless temporary loss of vision in one or both eyes",
+    "aliases": [
+        "transient loss of vision"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gray873.png",
+    "url": "https://en.wikipedia.org/wiki/Amaurosis_fugax",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            },
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "ischemia",
+                "qid": "Q188151",
+                "url": "https://en.wikipedia.org/wiki/Ischemia"
+            },
+            {
+                "name": "embolism",
+                "qid": "Q275466",
+                "url": "https://en.wikipedia.org/wiki/Embolism"
+            },
+            {
+                "name": "transient cerebral isolation",
+                "qid": "Q593958",
+                "url": "https://en.wikipedia.org/wiki/Transient_ischemic_attack"
+            },
+            {
+                "name": "idiopathy",
+                "qid": "Q594841",
+                "url": "https://en.wikipedia.org/wiki/Idiopathic_disease"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "amaurosis",
+                "qid": "Q285787",
+                "url": "https://en.wikipedia.org/wiki/Amaurosis"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "temporary blindness",
+                "qid": "Q21110145"
+            }
+        ]
+    }
+}

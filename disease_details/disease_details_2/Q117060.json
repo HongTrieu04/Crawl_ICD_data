@@ -1,0 +1,93 @@
+{
+    "name": "spasticity",
+    "qid": "Q117060",
+    "icd_10": "R25.2",
+    "description": "muscle paralysis, increased tendon reflex activity, hypertonia",
+    "aliases": [
+        "Muscle Spasticity"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Spasticity",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "metaxalone",
+                "qid": "Q6823309",
+                "url": "https://en.wikipedia.org/wiki/Metaxalone"
+            },
+            {
+                "name": "diazepam",
+                "qid": "Q210402",
+                "url": "https://en.wikipedia.org/wiki/Diazepam"
+            },
+            {
+                "name": "clonidine",
+                "qid": "Q412221",
+                "url": "https://en.wikipedia.org/wiki/Clonidine"
+            },
+            {
+                "name": "(RS)-baclofen",
+                "qid": "Q413717",
+                "url": "https://en.wikipedia.org/wiki/Baclofen"
+            },
+            {
+                "name": "carisoprodol",
+                "qid": "Q416905",
+                "url": "https://en.wikipedia.org/wiki/Carisoprodol"
+            },
+            {
+                "name": "meprobamate",
+                "qid": "Q418351",
+                "url": "https://en.wikipedia.org/wiki/Meprobamate"
+            },
+            {
+                "name": "dantrolene",
+                "qid": "Q421274",
+                "url": "https://en.wikipedia.org/wiki/Dantrolene"
+            },
+            {
+                "name": "tizanidine",
+                "qid": "Q423538",
+                "url": "https://en.wikipedia.org/wiki/Tizanidine"
+            },
+            {
+                "name": "prazepam",
+                "qid": "Q2149443",
+                "url": "https://en.wikipedia.org/wiki/Prazepam"
+            },
+            {
+                "name": "chlormezanone",
+                "qid": "Q5102983",
+                "url": "https://en.wikipedia.org/wiki/Chlormezanone"
+            },
+            {
+                "name": "cyclobenzaprine",
+                "qid": "Q5198674",
+                "url": "https://en.wikipedia.org/wiki/Cyclobenzaprine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "hypertonia",
+                "qid": "Q574942",
+                "url": "https://en.wikipedia.org/wiki/Hypertonia"
+            },
+            {
+                "name": "muscular disease",
+                "qid": "Q692536",
+                "url": "https://en.wikipedia.org/wiki/Myopathy"
+            },
+            {
+                "name": "neurological symptom",
+                "qid": "Q12040808"
+            }
+        ]
+    }
+}

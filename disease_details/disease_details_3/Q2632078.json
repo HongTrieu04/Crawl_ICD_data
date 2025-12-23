@@ -1,0 +1,30 @@
+{
+    "name": "proctalgia fugax",
+    "qid": "Q2632078",
+    "icd_10": "K59.4",
+    "description": "variant of levator ani syndrome",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Proctalgia_fugax",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "levator ani syndrome",
+                "qid": "Q6534949",
+                "url": "https://en.wikipedia.org/wiki/Levator_ani_syndrome"
+            },
+            {
+                "name": "rectal pain",
+                "qid": "Q7303135",
+                "url": "https://en.wikipedia.org/wiki/Rectal_pain"
+            }
+        ]
+    }
+}

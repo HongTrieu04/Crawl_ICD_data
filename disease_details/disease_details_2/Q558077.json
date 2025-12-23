@@ -1,0 +1,114 @@
+{
+    "name": "Williams-Beuren syndrome",
+    "qid": "Q558077",
+    "icd_10": "Q93.8",
+    "description": "neurodevelopmental disorder caused by a deletion of around 27 genes in chromosome 7, characterized by a broad forehead, underdeveloped chin, short nose, full cheeks, challenges with visual tasks, increased empathy and decreased aggression",
+    "aliases": [
+        "WS",
+        "WBS",
+        "Fanconi Schlesinger syndrome",
+        "Williams syndrome",
+        "Williams Syndrome",
+        "WILLIAMS-BEUREN SYNDROME",
+        "Williams-Beuren Syndrome (WBS)",
+        "WILLIAMS-BEUREN SYNDROME; WBS",
+        "Williams–Beuren syndrome, WBS",
+        "chromosome 7Q11.23 Deletion Syndrome, 1.5- to 1.8-Mb",
+        "deletion 7q11.23",
+        "monosomy 7q11.23"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Four%20kids%20with%20Williams%20syndrome.jpg",
+    "url": "https://en.wikipedia.org/wiki/Williams_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "supravalvular aortic stenosis",
+                "qid": "Q16874615",
+                "url": "https://en.wikipedia.org/wiki/Supravalvular_aortic_stenosis"
+            },
+            {
+                "name": "chromosomal deletion syndrome",
+                "qid": "Q16918398",
+                "url": "https://en.wikipedia.org/wiki/Chromosomal_deletion_syndrome"
+            },
+            {
+                "name": "syndrome",
+                "qid": "Q179630",
+                "url": "https://en.wikipedia.org/wiki/Syndrome"
+            },
+            {
+                "name": "organic brain syndrome",
+                "qid": "Q360341",
+                "url": "https://en.wikipedia.org/wiki/Organic_brain_syndrome"
+            },
+            {
+                "name": "autosomal dominant disease",
+                "qid": "Q18553439"
+            },
+            {
+                "name": "multiple congenital anomalies/dysmorphic syndrome-intellectual disability",
+                "qid": "Q55785288"
+            },
+            {
+                "name": "syndromic developmental defect of the eye",
+                "qid": "Q55785336"
+            },
+            {
+                "name": "malformation syndrome with short stature",
+                "qid": "Q55785400"
+            },
+            {
+                "name": "rare syndrome with cardiac malformations",
+                "qid": "Q55785518"
+            },
+            {
+                "name": "genetic hypertension",
+                "qid": "Q55785524"
+            },
+            {
+                "name": "rare abdominal surgical disease",
+                "qid": "Q55785601"
+            },
+            {
+                "name": "genetic syndromic intellectual disability",
+                "qid": "Q55785866"
+            },
+            {
+                "name": "partial deletion of the long arm of chromosome 7",
+                "qid": "Q55786608"
+            },
+            {
+                "name": "motor stereotypies",
+                "qid": "Q55787256"
+            },
+            {
+                "name": "syndromic epicanthus",
+                "qid": "Q55789170"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "supravalvular aortic stenosis",
+                "qid": "Q16874615",
+                "url": "https://en.wikipedia.org/wiki/Supravalvular_aortic_stenosis"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "pediatrics",
+                "qid": "Q123028",
+                "url": "https://en.wikipedia.org/wiki/Pediatrics"
+            },
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

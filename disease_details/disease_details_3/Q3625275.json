@@ -1,0 +1,31 @@
+{
+    "name": "chronic pulmonary aspergillosis",
+    "qid": "Q3625275",
+    "icd_10": "B44.8",
+    "description": "fungal infection",
+    "aliases": [
+        "Aspergillus pneumonia",
+        "obsolete Aspergillus pneumonia",
+        "Pneumonia in aspergillosis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Chronic_pulmonary_aspergillosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "aspergillosis",
+                "qid": "Q259626",
+                "url": "https://en.wikipedia.org/wiki/Aspergillosis"
+            },
+            {
+                "name": "fungal pneumonia",
+                "qid": "Q5509174",
+                "url": "https://en.wikipedia.org/wiki/Fungal_pneumonia"
+            },
+            {
+                "name": "lung disease",
+                "qid": "Q3392853"
+            }
+        ]
+    }
+}

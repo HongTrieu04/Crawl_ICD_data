@@ -1,0 +1,41 @@
+{
+    "name": "Duct ectasia of breast",
+    "qid": "Q3718771",
+    "icd_10": "N60.4",
+    "description": "Human disease",
+    "aliases": [
+        "Comedomastitis",
+        "mammary duct ectasia",
+        "Mammary duct ectasia (disorder)",
+        "Mammary duct ectasia [Ambiguous]",
+        "obsolete mammary duct ectasia"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Inverted-nipple-03.jpg",
+    "url": "https://en.wikipedia.org/wiki/Duct_ectasia_of_breast",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "general surgery",
+                "qid": "Q932510",
+                "url": "https://en.wikipedia.org/wiki/General_surgery"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "ectasia",
+                "qid": "Q1323709",
+                "url": "https://en.wikipedia.org/wiki/Ectasia"
+            },
+            {
+                "name": "Nonpuerperal mastitis",
+                "qid": "Q7049569",
+                "url": "https://en.wikipedia.org/wiki/Nonpuerperal_mastitis"
+            },
+            {
+                "name": "Blocked milk duct",
+                "qid": "Q39048004",
+                "url": "https://en.wikipedia.org/wiki/Blocked_milk_duct"
+            }
+        ]
+    }
+}

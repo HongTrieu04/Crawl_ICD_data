@@ -1,0 +1,303 @@
+{
+    "name": "breast cancer",
+    "qid": "Q128581",
+    "icd_10": "C50",
+    "description": "cancer that originates in the mammary gland",
+    "aliases": [
+        "breast disorder",
+        "malignant neoplasm of breast",
+        "malignant tumor of the breast",
+        "mammary cancer",
+        "primary breast cancer"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Breast%20DCIS%20histopathology%20%281%29.jpg",
+    "url": "https://en.wikipedia.org/wiki/Breast_cancer",
+    "details": {
+        "Anatomical location": [
+            {
+                "name": "female breast",
+                "qid": "Q9103",
+                "url": "https://en.wikipedia.org/wiki/Breast"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "breast disease",
+                "qid": "Q4959796",
+                "url": "https://en.wikipedia.org/wiki/Breast_disease"
+            },
+            {
+                "name": "thoracic cancer",
+                "qid": "Q18556617"
+            },
+            {
+                "name": "breast neoplasm",
+                "qid": "Q23929670"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "doxorubicin",
+                "qid": "Q18936",
+                "url": "https://en.wikipedia.org/wiki/Doxorubicin"
+            },
+            {
+                "name": "irinotecan",
+                "qid": "Q412197",
+                "url": "https://en.wikipedia.org/wiki/Irinotecan"
+            },
+            {
+                "name": "cisplatin",
+                "qid": "Q412415",
+                "url": "https://en.wikipedia.org/wiki/Cisplatin"
+            },
+            {
+                "name": "trastuzumab",
+                "qid": "Q412616",
+                "url": "https://en.wikipedia.org/wiki/Trastuzumab"
+            },
+            {
+                "name": "eribulin",
+                "qid": "Q408717",
+                "url": "https://en.wikipedia.org/wiki/Eribulin"
+            },
+            {
+                "name": "megestrol",
+                "qid": "Q410513",
+                "url": "https://en.wikipedia.org/wiki/Megestrol"
+            },
+            {
+                "name": "fluoxymesterone",
+                "qid": "Q410663",
+                "url": "https://en.wikipedia.org/wiki/Fluoxymesterone"
+            },
+            {
+                "name": "tamoxifen",
+                "qid": "Q412178",
+                "url": "https://en.wikipedia.org/wiki/Tamoxifen"
+            },
+            {
+                "name": "ethinylestradiol",
+                "qid": "Q415563",
+                "url": "https://en.wikipedia.org/wiki/Ethinylestradiol"
+            },
+            {
+                "name": "carboplatin",
+                "qid": "Q415588",
+                "url": "https://en.wikipedia.org/wiki/Carboplatin"
+            },
+            {
+                "name": "chlorambucil",
+                "qid": "Q415939",
+                "url": "https://en.wikipedia.org/wiki/Chlorambucil"
+            },
+            {
+                "name": "letrozole",
+                "qid": "Q194974",
+                "url": "https://en.wikipedia.org/wiki/Letrozole"
+            },
+            {
+                "name": "fluorouracil",
+                "qid": "Q238512",
+                "url": "https://en.wikipedia.org/wiki/Fluorouracil"
+            },
+            {
+                "name": "mitoxantrone",
+                "qid": "Q239426",
+                "url": "https://en.wikipedia.org/wiki/Mitoxantrone"
+            },
+            {
+                "name": "(RS)-aminoglutethimide",
+                "qid": "Q241150",
+                "url": "https://en.wikipedia.org/wiki/Aminoglutethimide"
+            },
+            {
+                "name": "vinblastine",
+                "qid": "Q282629",
+                "url": "https://en.wikipedia.org/wiki/Vinblastine"
+            },
+            {
+                "name": "(RS)-cyclophosphamide",
+                "qid": "Q408524",
+                "url": "https://en.wikipedia.org/wiki/Cyclophosphamide"
+            },
+            {
+                "name": "ifosfamide",
+                "qid": "Q418560",
+                "url": "https://en.wikipedia.org/wiki/Ifosfamide"
+            },
+            {
+                "name": "exemestane",
+                "qid": "Q418819",
+                "url": "https://en.wikipedia.org/wiki/Exemestane"
+            },
+            {
+                "name": "anastrozole",
+                "qid": "Q419143",
+                "url": "https://en.wikipedia.org/wiki/Anastrozole"
+            },
+            {
+                "name": "capecitabine",
+                "qid": "Q420207",
+                "url": "https://en.wikipedia.org/wiki/Capecitabine"
+            },
+            {
+                "name": "docetaxel",
+                "qid": "Q420436",
+                "url": "https://en.wikipedia.org/wiki/Docetaxel"
+            },
+            {
+                "name": "vinorelbine",
+                "qid": "Q420532",
+                "url": "https://en.wikipedia.org/wiki/Vinorelbine"
+            },
+            {
+                "name": "everolimus",
+                "qid": "Q421052",
+                "url": "https://en.wikipedia.org/wiki/Everolimus"
+            },
+            {
+                "name": "(Z)-Toremifene",
+                "qid": "Q3993743",
+                "url": "https://en.wikipedia.org/wiki/Toremifene"
+            },
+            {
+                "name": "fulvestrant",
+                "qid": "Q5508491",
+                "url": "https://en.wikipedia.org/wiki/Fulvestrant"
+            },
+            {
+                "name": "neratinib",
+                "qid": "Q6995920",
+                "url": "https://en.wikipedia.org/wiki/Neratinib"
+            },
+            {
+                "name": "tucatinib",
+                "qid": "Q25100690",
+                "url": "https://en.wikipedia.org/wiki/Tucatinib"
+            },
+            {
+                "name": "ribociclib",
+                "qid": "Q27088552",
+                "url": "https://en.wikipedia.org/wiki/Ribociclib"
+            },
+            {
+                "name": "goserelin acetate",
+                "qid": "Q27265738",
+                "url": "https://en.wikipedia.org/wiki/Goserelin_acetate"
+            },
+            {
+                "name": "nandrolone",
+                "qid": "Q421709",
+                "url": "https://en.wikipedia.org/wiki/Nandrolone"
+            },
+            {
+                "name": "methyltestosterone",
+                "qid": "Q421768",
+                "url": "https://en.wikipedia.org/wiki/Methyltestosterone"
+            },
+            {
+                "name": "methotrexate",
+                "qid": "Q422232",
+                "url": "https://en.wikipedia.org/wiki/Methotrexate"
+            },
+            {
+                "name": "17β-estradiol",
+                "qid": "Q422416",
+                "url": "https://en.wikipedia.org/wiki/Estradiol"
+            },
+            {
+                "name": "paclitaxel",
+                "qid": "Q423762",
+                "url": "https://en.wikipedia.org/wiki/Paclitaxel"
+            },
+            {
+                "name": "diethylstilbestrol",
+                "qid": "Q423989",
+                "url": "https://en.wikipedia.org/wiki/Diethylstilbestrol"
+            },
+            {
+                "name": "epirubicin",
+                "qid": "Q425122",
+                "url": "https://en.wikipedia.org/wiki/Epirubicin"
+            },
+            {
+                "name": "dexrazoxane",
+                "qid": "Q524995",
+                "url": "https://en.wikipedia.org/wiki/Dexrazoxane"
+            },
+            {
+                "name": "leuprolide",
+                "qid": "Q907160",
+                "url": "https://en.wikipedia.org/wiki/Leuprorelin"
+            },
+            {
+                "name": "idarubicin",
+                "qid": "Q1063862",
+                "url": "https://en.wikipedia.org/wiki/Idarubicin"
+            },
+            {
+                "name": "melphalan",
+                "qid": "Q2298283",
+                "url": "https://en.wikipedia.org/wiki/Melphalan"
+            },
+            {
+                "name": "sargramostim",
+                "qid": "Q3950557",
+                "url": "https://en.wikipedia.org/wiki/Sargramostim"
+            },
+            {
+                "name": "testolactone",
+                "qid": "Q3985253",
+                "url": "https://en.wikipedia.org/wiki/Testolactone"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "irritation",
+                "qid": "Q77776",
+                "url": "https://en.wikipedia.org/wiki/Irritation"
+            },
+            {
+                "name": "swelling",
+                "qid": "Q109186",
+                "url": "https://en.wikipedia.org/wiki/Swelling_(medical)"
+            },
+            {
+                "name": "breast lump",
+                "qid": "Q953865",
+                "url": "https://en.wikipedia.org/wiki/Breast_mass"
+            },
+            {
+                "name": "mastodynia",
+                "qid": "Q1907986",
+                "url": "https://en.wikipedia.org/wiki/Breast_pain"
+            },
+            {
+                "name": "nipple discharge",
+                "qid": "Q3543799",
+                "url": "https://en.wikipedia.org/wiki/Nipple_discharge"
+            },
+            {
+                "name": "sore nipples",
+                "qid": "Q3526279"
+            },
+            {
+                "name": "lump in chest",
+                "qid": "Q102187040"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ]
+    }
+}

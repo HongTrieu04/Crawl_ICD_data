@@ -1,0 +1,86 @@
+{
+    "name": "metastrongylosis",
+    "qid": "Q2559038",
+    "icd_10": "B83.8",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Metastrongylosis",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "cough",
+                "qid": "Q35805",
+                "url": "https://en.wikipedia.org/wiki/Cough"
+            },
+            {
+                "name": "anorexia",
+                "qid": "Q254327",
+                "url": "https://en.wikipedia.org/wiki/Anorexia_(symptom)"
+            },
+            {
+                "name": "weight loss",
+                "qid": "Q718113",
+                "url": "https://en.wikipedia.org/wiki/Weight_loss"
+            },
+            {
+                "name": "chronic bronchitis",
+                "qid": "Q1139684",
+                "url": "https://en.wikipedia.org/wiki/Chronic_bronchitis"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "albendazol",
+                "qid": "Q411629",
+                "url": "https://en.wikipedia.org/wiki/Albendazole"
+            },
+            {
+                "name": "mebendazole",
+                "qid": "Q422194",
+                "url": "https://en.wikipedia.org/wiki/Mebendazole"
+            },
+            {
+                "name": "pyrantel",
+                "qid": "Q426897",
+                "url": "https://en.wikipedia.org/wiki/Pyrantel"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            },
+            {
+                "name": "helminthologist",
+                "qid": "Q27497422"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "parasitic helminthiasis infectious disease",
+                "qid": "Q578994",
+                "url": "https://en.wikipedia.org/wiki/Helminthiasis"
+            },
+            {
+                "name": "swine disease",
+                "qid": "Q54947664"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Metastrongylus elongatus",
+                "qid": "Q2392827"
+            },
+            {
+                "name": "Metastrongylus pudendodectus",
+                "qid": "Q5266749"
+            },
+            {
+                "name": "Metastrongylus salmi",
+                "qid": "Q50410450"
+            }
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "name": "anauxetic dysplasia 1",
+    "qid": "Q18553372",
+    "icd_10": "Q77.7",
+    "description": "human disease",
+    "aliases": [
+        "anauxetic dysplasia type 1",
+        "ANXD1",
+        "Spondyloepimetaphyseal dysplasia, anauxetic type",
+        "Spondyloepimetaphyseal dysplasia, Menger type",
+        "Spondylometaepiphyseal Dysplasia, Anauxetic Type",
+        "spondylometaepiphyseal dysplasia, Menger type"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "anauxetic dysplasia",
+                "qid": "Q109836114"
+            }
+        ]
+    }
+}

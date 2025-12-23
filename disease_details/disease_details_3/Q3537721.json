@@ -1,0 +1,22 @@
+{
+    "name": "HIV and pregnancy",
+    "qid": "Q3537721",
+    "icd_10": "O98.7",
+    "description": "HIV transmission route",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/HIV_and_pregnancy",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "vertically transmitted infection",
+                "qid": "Q4113827",
+                "url": "https://en.wikipedia.org/wiki/Vertically_transmitted_infection"
+            },
+            {
+                "name": "complication of pregnancy, childbirth and the puerperium",
+                "qid": "Q18975815"
+            }
+        ]
+    }
+}

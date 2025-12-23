@@ -1,0 +1,181 @@
+{
+    "name": "diffuse large B-cell lymphoma",
+    "qid": "Q2626074",
+    "icd_10": "C83.3",
+    "description": "type of lymphoma (cancer)",
+    "aliases": [
+        "Diffuse large B-cell lymphoma",
+        "Diffuse large B-cell lymphoma, DLBCL",
+        "DLBCL",
+        "Lymphoma, Large B-Cell, Diffuse"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Diffuse%20large%20B%20cell%20lymphoma%20-%20cytology%20low%20mag.jpg",
+    "url": "https://en.wikipedia.org/wiki/Diffuse_large_B-cell_lymphoma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "doxorubicin",
+                "qid": "Q18936",
+                "url": "https://en.wikipedia.org/wiki/Doxorubicin"
+            },
+            {
+                "name": "carboplatin",
+                "qid": "Q415588",
+                "url": "https://en.wikipedia.org/wiki/Carboplatin"
+            },
+            {
+                "name": "ifosfamide",
+                "qid": "Q418560",
+                "url": "https://en.wikipedia.org/wiki/Ifosfamide"
+            },
+            {
+                "name": "procarbazine",
+                "qid": "Q418656",
+                "url": "https://en.wikipedia.org/wiki/Procarbazine"
+            },
+            {
+                "name": "cytarabine",
+                "qid": "Q180983",
+                "url": "https://en.wikipedia.org/wiki/Cytarabine"
+            },
+            {
+                "name": "obinutuzumab",
+                "qid": "Q389496",
+                "url": "https://en.wikipedia.org/wiki/Obinutuzumab"
+            },
+            {
+                "name": "(RS)-cyclophosphamide",
+                "qid": "Q408524",
+                "url": "https://en.wikipedia.org/wiki/Cyclophosphamide"
+            },
+            {
+                "name": "vincristine",
+                "qid": "Q408977",
+                "url": "https://en.wikipedia.org/wiki/Vincristine"
+            },
+            {
+                "name": "ofatumumab",
+                "qid": "Q410656",
+                "url": "https://en.wikipedia.org/wiki/Ofatumumab"
+            },
+            {
+                "name": "rituximab",
+                "qid": "Q412323",
+                "url": "https://en.wikipedia.org/wiki/Rituximab"
+            },
+            {
+                "name": "gemcitabine",
+                "qid": "Q414143",
+                "url": "https://en.wikipedia.org/wiki/Gemcitabine"
+            },
+            {
+                "name": "etoposide",
+                "qid": "Q418817",
+                "url": "https://en.wikipedia.org/wiki/Etoposide"
+            },
+            {
+                "name": "bortezomib",
+                "qid": "Q419319",
+                "url": "https://en.wikipedia.org/wiki/Bortezomib"
+            },
+            {
+                "name": "everolimus",
+                "qid": "Q421052",
+                "url": "https://en.wikipedia.org/wiki/Everolimus"
+            },
+            {
+                "name": "methotrexate",
+                "qid": "Q422232",
+                "url": "https://en.wikipedia.org/wiki/Methotrexate"
+            },
+            {
+                "name": "dexamethasone",
+                "qid": "Q422252",
+                "url": "https://en.wikipedia.org/wiki/Dexamethasone"
+            },
+            {
+                "name": "brentuximab vedotin",
+                "qid": "Q422324",
+                "url": "https://en.wikipedia.org/wiki/Brentuximab_vedotin"
+            },
+            {
+                "name": "prednisone",
+                "qid": "Q424972",
+                "url": "https://en.wikipedia.org/wiki/Prednisone"
+            },
+            {
+                "name": "(RS)-lenalidomide",
+                "qid": "Q425681",
+                "url": "https://en.wikipedia.org/wiki/Lenalidomide"
+            },
+            {
+                "name": "bendamustine",
+                "qid": "Q425745",
+                "url": "https://en.wikipedia.org/wiki/Bendamustine"
+            },
+            {
+                "name": "vorinostat",
+                "qid": "Q905901",
+                "url": "https://en.wikipedia.org/wiki/Vorinostat"
+            },
+            {
+                "name": "pegfilgrastim",
+                "qid": "Q1592932",
+                "url": "https://en.wikipedia.org/wiki/Pegfilgrastim"
+            },
+            {
+                "name": "filgrastim",
+                "qid": "Q3151081",
+                "url": "https://en.wikipedia.org/wiki/Filgrastim"
+            },
+            {
+                "name": "idelalisib",
+                "qid": "Q5908266",
+                "url": "https://en.wikipedia.org/wiki/Idelalisib"
+            },
+            {
+                "name": "ibrutinib",
+                "qid": "Q5984881",
+                "url": "https://en.wikipedia.org/wiki/Ibrutinib"
+            },
+            {
+                "name": "nivolumab",
+                "qid": "Q7041828",
+                "url": "https://en.wikipedia.org/wiki/Nivolumab"
+            },
+            {
+                "name": "prednisolone",
+                "qid": "Q11426176",
+                "url": "https://en.wikipedia.org/wiki/Prednisolone"
+            },
+            {
+                "name": "venetoclax",
+                "qid": "Q23671272",
+                "url": "https://en.wikipedia.org/wiki/Venetoclax"
+            },
+            {
+                "name": "tisagenlecleucel",
+                "qid": "Q30314624",
+                "url": "https://en.wikipedia.org/wiki/Tisagenlecleucel"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "B-cell lymphoma",
+                "qid": "Q4833719",
+                "url": "https://en.wikipedia.org/wiki/B-cell_lymphoma"
+            },
+            {
+                "name": "aggressive B-cell non-Hodgkin lymphoma",
+                "qid": "Q55787212"
+            }
+        ]
+    }
+}

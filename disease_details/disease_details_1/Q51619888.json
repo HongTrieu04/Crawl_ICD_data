@@ -1,0 +1,21 @@
+{
+    "name": "disorder of puberty",
+    "qid": "Q51619888",
+    "icd_10": "E30",
+    "description": "type of disorder",
+    "aliases": [
+        "disorder (puberty)",
+        "puberty disorder"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "endocrine system disease",
+                "qid": "Q2661443",
+                "url": "https://en.wikipedia.org/wiki/Endocrine_disease"
+            }
+        ]
+    }
+}

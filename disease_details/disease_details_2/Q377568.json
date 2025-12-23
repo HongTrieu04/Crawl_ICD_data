@@ -1,0 +1,44 @@
+{
+    "name": "melanocytic nevus",
+    "qid": "Q377568",
+    "icd_10": "D22",
+    "description": "type of melanocytic tumor",
+    "aliases": [
+        "mole",
+        "melanocytic naevi, unspecified",
+        "melanocytic nevi, unspecified (disorder)",
+        "melanocytic nevus (disorder)",
+        "melanocytic nevus of skin (disorder)",
+        "Melanotic nevus",
+        "mole (skin)",
+        "NEVI PIGMENTED",
+        "Nevus, Pigmented",
+        "Pigmented naevus",
+        "Pigmented naevus NOS",
+        "Pigmented nevus",
+        "Pigmented nevus, no ICD-O subtype (morphologic abnormality)",
+        "Sutton's naevus"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nevus.jpg",
+    "url": "https://en.wikipedia.org/wiki/Melanocytic_nevus",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "nevus",
+                "qid": "Q692077",
+                "url": "https://en.wikipedia.org/wiki/Nevus"
+            },
+            {
+                "name": "mole",
+                "qid": "Q1371405"
+            }
+        ]
+    }
+}

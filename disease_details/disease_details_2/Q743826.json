@@ -1,0 +1,28 @@
+{
+    "name": "metatarsalgia",
+    "qid": "Q743826",
+    "icd_10": "M77.4",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Metatarsalgia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "foot pain",
+                "qid": "Q3906882"
+            },
+            {
+                "name": "ankle or tarsus enthesopathy",
+                "qid": "Q18971463"
+            }
+        ]
+    }
+}

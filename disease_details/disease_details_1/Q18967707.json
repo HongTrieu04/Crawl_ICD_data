@@ -1,0 +1,27 @@
+{
+    "name": "congenital pneumonia",
+    "qid": "Q18967707",
+    "icd_10": "P23",
+    "description": "human disease",
+    "aliases": [
+        "Congenital pneumonia (disorder)",
+        "Congenital pneumonia NOS (disorder)",
+        "obsolete congenital pneumonia"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "pneumonia",
+                "qid": "Q12192",
+                "url": "https://en.wikipedia.org/wiki/Pneumonia"
+            },
+            {
+                "name": "congenital disorder",
+                "qid": "Q727096",
+                "url": "https://en.wikipedia.org/wiki/Birth_defect"
+            }
+        ]
+    }
+}

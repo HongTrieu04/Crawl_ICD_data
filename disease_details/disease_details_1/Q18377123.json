@@ -1,0 +1,27 @@
+{
+    "name": "iodine deficiency",
+    "qid": "Q18377123",
+    "icd_10": "E02",
+    "description": "human disease",
+    "aliases": [
+        "obsolete iodine deficiency"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Iodine_deficiency",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "mineral deficiency",
+                "qid": "Q16944888",
+                "url": "https://en.wikipedia.org/wiki/Mineral_deficiency"
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "arthropathy associated with hematological disorder",
+    "qid": "Q19001114",
+    "icd_10": "M36",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete arthropathy associated with hematological disorder"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "arthropathy",
+                "qid": "Q708176",
+                "url": "https://en.wikipedia.org/wiki/Arthropathy"
+            }
+        ]
+    }
+}

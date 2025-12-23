@@ -1,0 +1,55 @@
+{
+    "name": "aphasia",
+    "qid": "Q2836",
+    "icd_10": "R47.0",
+    "description": "inability to comprehend or formulate language",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Aphasia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "language disorder",
+                "qid": "Q10469820",
+                "url": "https://en.wikipedia.org/wiki/Language_disorder"
+            },
+            {
+                "name": "neurological symptom",
+                "qid": "Q12040808"
+            },
+            {
+                "name": "specific language impairment-5",
+                "qid": "Q56003275"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neuropsychology",
+                "qid": "Q3872",
+                "url": "https://en.wikipedia.org/wiki/Neuropsychology"
+            },
+            {
+                "name": "speech-language pathology",
+                "qid": "Q33226",
+                "url": "https://en.wikipedia.org/wiki/Speech%E2%80%93language_pathology"
+            },
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "muteness",
+                "qid": "Q671776",
+                "url": "https://en.wikipedia.org/wiki/Muteness"
+            }
+        ]
+    }
+}

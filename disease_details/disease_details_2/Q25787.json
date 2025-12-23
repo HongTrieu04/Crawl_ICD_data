@@ -1,0 +1,43 @@
+{
+    "name": "recurrent miscarriage",
+    "qid": "Q25787",
+    "icd_10": "N96",
+    "description": "human disease",
+    "aliases": [
+        "Aborter - recurrent",
+        "Abortion, Habitual",
+        "chronic spontaneous abortion",
+        "currently pregnant habitual aborter",
+        "Habitual aborter",
+        "Habitual aborter - unspecified (disorder)",
+        "Habitual aborter NOS (disorder)",
+        "habitual abortion",
+        "obsolete currently pregnant habitual aborter",
+        "obsolete habitual abortion",
+        "recurrent abortion (disorder)",
+        "recurrent pregnancy loss"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Recurrent_miscarriage",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "complications of pregnancy",
+                "qid": "Q2916477",
+                "url": "https://en.wikipedia.org/wiki/Complications_of_pregnancy"
+            },
+            {
+                "name": "miscarriage",
+                "qid": "Q28693",
+                "url": "https://en.wikipedia.org/wiki/Miscarriage"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "obstetrics",
+                "qid": "Q5284418",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics"
+            }
+        ]
+    }
+}

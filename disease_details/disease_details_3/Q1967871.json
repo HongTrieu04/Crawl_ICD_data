@@ -1,0 +1,22 @@
+{
+    "name": "adhesion",
+    "qid": "Q1967871",
+    "icd_10": "N99.4",
+    "description": "subclass of scar",
+    "aliases": [
+        "adhesions",
+        "tissue adhesion",
+        "tissue adhesions"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Adhesion_(medicine)",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "scar",
+                "qid": "Q206060",
+                "url": "https://en.wikipedia.org/wiki/Scar"
+            }
+        ]
+    }
+}

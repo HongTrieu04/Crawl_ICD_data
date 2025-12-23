@@ -1,0 +1,99 @@
+{
+    "name": "intracranial aneurysm",
+    "qid": "Q1198391",
+    "icd_10": "I67.1",
+    "description": "cerebrovascular disorder",
+    "aliases": [
+        "IA",
+        "brain aneurysm",
+        "cerebral aneurysm",
+        "Intracranial aneurysm"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Aneurysem.jpg",
+    "url": "https://en.wikipedia.org/wiki/Intracranial_aneurysm",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "aneurysm",
+                "qid": "Q189389",
+                "url": "https://en.wikipedia.org/wiki/Aneurysm"
+            },
+            {
+                "name": "cerebral arterial disease",
+                "qid": "Q18555970"
+            },
+            {
+                "name": "cerebrovascular disease",
+                "qid": "Q3010352",
+                "url": "https://en.wikipedia.org/wiki/Cerebrovascular_disease"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            },
+            {
+                "name": "neurosurgery",
+                "qid": "Q188449",
+                "url": "https://en.wikipedia.org/wiki/Neurosurgery"
+            },
+            {
+                "name": "interventional neuroradiology",
+                "qid": "Q17147442",
+                "url": "https://en.wikipedia.org/wiki/Interventional_neuroradiology"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "vomiting",
+                "qid": "Q127076",
+                "url": "https://en.wikipedia.org/wiki/Vomiting"
+            },
+            {
+                "name": "mental confusion",
+                "qid": "Q557945",
+                "url": "https://en.wikipedia.org/wiki/Confusion"
+            },
+            {
+                "name": "diplopia",
+                "qid": "Q775940",
+                "url": "https://en.wikipedia.org/wiki/Diplopia"
+            },
+            {
+                "name": "peripheral neuropathy",
+                "qid": "Q945238",
+                "url": "https://en.wikipedia.org/wiki/Peripheral_neuropathy"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "clipping",
+                "qid": "Q5134392",
+                "url": "https://en.wikipedia.org/wiki/Clipping_(medicine)"
+            },
+            {
+                "name": "endovascular coiling",
+                "qid": "Q5376564",
+                "url": "https://en.wikipedia.org/wiki/Endovascular_coiling"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "unknown",
+                "qid": "Q24238356"
+            },
+            {
+                "name": "connective tissue disease",
+                "qid": "Q1779300",
+                "url": "https://en.wikipedia.org/wiki/Connective_tissue_disease"
+            }
+        ]
+    }
+}

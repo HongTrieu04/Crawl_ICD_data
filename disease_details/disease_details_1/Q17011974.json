@@ -1,0 +1,38 @@
+{
+    "name": "elevated alkaline phosphatase",
+    "qid": "Q17011974",
+    "icd_10": "R74.8",
+    "description": "condition where alkaline phosphatase exceeds normal levels in the blood",
+    "aliases": [
+        "elevated tissue non-specific alkaline phosphatase"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Elevated_alkaline_phosphatase",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "hematopoietic system disease",
+                "qid": "Q1963588",
+                "url": "https://en.wikipedia.org/wiki/Hematologic_disease"
+            },
+            {
+                "name": "liver enzyme changes",
+                "qid": "Q21117406"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Hyperphosphatasia with mental retardation syndrome type 1",
+                "qid": "Q3144186",
+                "url": "https://en.wikipedia.org/wiki/Hyperphosphatasia_with_mental_retardation_syndrome"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "pathology",
+                "qid": "Q7208",
+                "url": "https://en.wikipedia.org/wiki/Pathology"
+            }
+        ]
+    }
+}

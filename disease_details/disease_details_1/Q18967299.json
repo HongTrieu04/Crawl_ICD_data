@@ -1,0 +1,26 @@
+{
+    "name": "fusion with defective stereopsis",
+    "qid": "Q18967299",
+    "icd_10": "H53.32",
+    "description": "Human disease",
+    "aliases": [
+        "Fusion with defective stereopsis (disorder)",
+        "obsolete fusion with defective stereopsis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "binocular vision disease",
+                "qid": "Q18554359"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "Q25387291",
+                "qid": "Q25387291"
+            }
+        ]
+    }
+}

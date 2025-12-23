@@ -1,0 +1,25 @@
+{
+    "name": "scorpion sting",
+    "qid": "Q3400924",
+    "icd_10": "T63.2",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Scorpion_sting",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "arthropod bites and stings",
+                "qid": "Q4470772",
+                "url": "https://en.wikipedia.org/wiki/Arthropod_bites_and_stings"
+            }
+        ]
+    }
+}

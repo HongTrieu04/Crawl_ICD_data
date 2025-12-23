@@ -1,0 +1,61 @@
+{
+    "name": "personality disorder",
+    "qid": "Q270673",
+    "icd_10": "F60",
+    "description": "maladaptive patterns of behavior",
+    "aliases": [
+        "character disorder"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Personality_disorder",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "psychology",
+                "qid": "Q9418",
+                "url": "https://en.wikipedia.org/wiki/Psychology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "mental disorder",
+                "qid": "Q12135",
+                "url": "https://en.wikipedia.org/wiki/Mental_disorder"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "psychotherapy",
+                "qid": "Q183257",
+                "url": "https://en.wikipedia.org/wiki/Psychotherapy"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "quetiapine",
+                "qid": "Q408535",
+                "url": "https://en.wikipedia.org/wiki/Quetiapine"
+            },
+            {
+                "name": "aripiprazole",
+                "qid": "Q411188",
+                "url": "https://en.wikipedia.org/wiki/Aripiprazole"
+            },
+            {
+                "name": "risperidone",
+                "qid": "Q412443",
+                "url": "https://en.wikipedia.org/wiki/Risperidone"
+            }
+        ]
+    }
+}

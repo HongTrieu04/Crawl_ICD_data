@@ -1,0 +1,24 @@
+{
+    "name": "aphakia",
+    "qid": "Q558623",
+    "icd_10": "H27.0",
+    "description": "condition where the eye lacks a lens",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Aphakia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "lens disease",
+                "qid": "Q18553990"
+            }
+        ]
+    }
+}

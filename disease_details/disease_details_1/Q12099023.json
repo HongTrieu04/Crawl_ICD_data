@@ -1,0 +1,47 @@
+{
+    "name": "attention deficit hyperactivity disorder, predominantly hyperactive-impulsive",
+    "qid": "Q12099023",
+    "icd_10": "F90.1",
+    "description": null,
+    "aliases": [
+        "ADHD Hyperactive-Impulsive Type",
+        "ADHD-HI",
+        "attention deficit hyperactivity disorder, hyperactive/impulsive type",
+        "Attention deficit hyperactivity disorder, predominantly hyperactive-impulsive presentation",
+        "Attention-Deficit/Hyperactivity Disorder, Predominantly Hyperactive-Impulsive Presentation",
+        "Hyperactive-impulsive ADHD"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder_predominantly_hyperactive-impulsive",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "hyperactivity",
+                "qid": "Q1640850",
+                "url": "https://en.wikipedia.org/wiki/Hyperactivity"
+            },
+            {
+                "name": "impulsivity",
+                "qid": "Q1549918",
+                "url": "https://en.wikipedia.org/wiki/Impulsivity"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "specific developmental disorder",
+                "qid": "Q7574983",
+                "url": "https://en.wikipedia.org/wiki/Specific_developmental_disorder"
+            },
+            {
+                "name": "hyperkinetic disorder",
+                "qid": "Q17028415",
+                "url": "https://en.wikipedia.org/wiki/Hyperkinetic_disorder"
+            },
+            {
+                "name": "attention deficit hyperactivity disorder",
+                "qid": "Q181923",
+                "url": "https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder"
+            }
+        ]
+    }
+}

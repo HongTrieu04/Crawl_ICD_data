@@ -1,0 +1,17 @@
+{
+    "name": "pseudophakia",
+    "qid": "Q558426",
+    "icd_10": "Z96.1",
+    "description": "presence in the eye after cataract extraction of an intraocular lens",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "clinical finding",
+                "qid": "Q28807560"
+            }
+        ]
+    }
+}

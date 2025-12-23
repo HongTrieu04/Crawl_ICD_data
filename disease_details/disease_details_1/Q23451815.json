@@ -1,0 +1,18 @@
+{
+    "name": "Reiter disease",
+    "qid": "Q23451815",
+    "icd_10": "M02.3",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "arthritis",
+                "qid": "Q170990",
+                "url": "https://en.wikipedia.org/wiki/Arthritis"
+            }
+        ]
+    }
+}

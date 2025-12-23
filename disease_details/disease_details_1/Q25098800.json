@@ -1,0 +1,36 @@
+{
+    "name": "Post-vagotomy diarrhea",
+    "qid": "Q25098800",
+    "icd_10": "K91.1",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Post-vagotomy_diarrhea",
+    "details": {
+        "Cause": [
+            {
+                "name": "vagotomy",
+                "qid": "Q1417507",
+                "url": "https://en.wikipedia.org/wiki/Vagotomy"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "diarrhea",
+                "qid": "Q40878",
+                "url": "https://en.wikipedia.org/wiki/Diarrhea"
+            },
+            {
+                "name": "post-vagotomy syndrome",
+                "qid": "Q1668389"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ]
+    }
+}

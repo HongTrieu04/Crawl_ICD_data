@@ -1,0 +1,28 @@
+{
+    "name": "malaise",
+    "qid": "Q2673323",
+    "icd_10": "R53.1",
+    "description": "feeling of uneasiness, hardship, and pain",
+    "aliases": [
+        "general malaise"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Malaise",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "physiological condition",
+                "qid": "Q7189713",
+                "url": "https://en.wikipedia.org/wiki/Physiological_condition"
+            },
+            {
+                "name": "discomfort",
+                "qid": "Q12101178"
+            },
+            {
+                "name": "neurological and physiological symptom",
+                "qid": "Q99860490"
+            }
+        ]
+    }
+}

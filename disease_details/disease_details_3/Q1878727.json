@@ -1,0 +1,18 @@
+{
+    "name": "Lyme arthritis",
+    "qid": "Q1878727",
+    "icd_10": "M01.2",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "Lyme disease",
+                "qid": "Q201989",
+                "url": "https://en.wikipedia.org/wiki/Lyme_disease"
+            }
+        ]
+    }
+}

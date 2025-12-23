@@ -1,0 +1,38 @@
+{
+    "name": "skull fracture",
+    "qid": "Q1971607",
+    "icd_10": "S02",
+    "description": "break in one or more of the eight bones that form the cranial portion of the skull",
+    "aliases": [
+        "fractured skull"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Skull%20fractures%201%20--%20Smart-Servier.png",
+    "url": "https://en.wikipedia.org/wiki/Skull_fracture",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "bone fracture",
+                "qid": "Q68833",
+                "url": "https://en.wikipedia.org/wiki/Bone_fracture"
+            },
+            {
+                "name": "skull disorder",
+                "qid": "Q55790744"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "human skull",
+                "qid": "Q9604",
+                "url": "https://en.wikipedia.org/wiki/Human_skull"
+            }
+        ]
+    }
+}

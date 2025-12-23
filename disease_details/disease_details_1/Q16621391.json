@@ -1,0 +1,30 @@
+{
+    "name": "trachomatous pannus",
+    "qid": "Q16621391",
+    "icd_10": "A71.1",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Cause": [
+            {
+                "name": "trachoma",
+                "qid": "Q193216",
+                "url": "https://en.wikipedia.org/wiki/Trachoma"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "corneal neovascularization",
+                "qid": "Q1266519",
+                "url": "https://en.wikipedia.org/wiki/Corneal_neovascularization"
+            },
+            {
+                "name": "corneal opacity",
+                "qid": "Q21110038",
+                "url": "https://en.wikipedia.org/wiki/Corneal_opacity"
+            }
+        ]
+    }
+}

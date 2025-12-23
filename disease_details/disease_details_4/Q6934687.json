@@ -1,0 +1,22 @@
+{
+    "name": "Multifocal fibrosclerosis",
+    "qid": "Q6934687",
+    "icd_10": "M35.5",
+    "description": "human disease",
+    "aliases": [
+        "FIBROSCLEROSIS, MULTIFOCAL",
+        "Mediastinal Fibrosis, Familial",
+        "Retroperitoneal Fibrosis, Familial"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Multifocal_fibrosclerosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "IgG4-related disease",
+                "qid": "Q11039483",
+                "url": "https://en.wikipedia.org/wiki/IgG4-related_disease"
+            }
+        ]
+    }
+}

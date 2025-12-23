@@ -1,0 +1,25 @@
+{
+    "name": "Tibia shaft fracture",
+    "qid": "Q48785007",
+    "icd_10": "S82.2",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Tibia_shaft_fracture",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "orthopedics",
+                "qid": "Q216685",
+                "url": "https://en.wikipedia.org/wiki/Orthopedic_surgery"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "tibia fracture",
+                "qid": "Q3080298",
+                "url": "https://en.wikipedia.org/wiki/Crus_fracture"
+            }
+        ]
+    }
+}

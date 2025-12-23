@@ -1,0 +1,27 @@
+{
+    "name": "Regional odontodysplasia",
+    "qid": "Q3349339",
+    "icd_10": "K00.4",
+    "description": "tooth disease",
+    "aliases": [
+        "Ghost teeth"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Regional_odontodysplasia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oral and maxillofacial surgery",
+                "qid": "Q504033",
+                "url": "https://en.wikipedia.org/wiki/Oral_and_maxillofacial_surgery"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "dental disease",
+                "qid": "Q5259414",
+                "url": "https://en.wikipedia.org/wiki/Tooth_pathology"
+            }
+        ]
+    }
+}

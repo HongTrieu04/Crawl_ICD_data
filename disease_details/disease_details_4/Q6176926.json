@@ -1,0 +1,30 @@
+{
+    "name": "Jellyfish dermatitis",
+    "qid": "Q6176926",
+    "icd_10": "T63.6",
+    "description": "cutaneous condition caused by stings from a jellyfish",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Jellyfish_dermatitis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "envenomation",
+                "qid": "Q3055418",
+                "url": "https://en.wikipedia.org/wiki/Envenomation"
+            },
+            {
+                "name": "animal attack",
+                "qid": "Q17450153",
+                "url": "https://en.wikipedia.org/wiki/Animal_attack"
+            }
+        ]
+    }
+}

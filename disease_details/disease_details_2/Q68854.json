@@ -1,0 +1,47 @@
+{
+    "name": "snakebite",
+    "qid": "Q68854",
+    "icd_10": "T63.0",
+    "description": "injury caused by a bite from a snake",
+    "aliases": [
+        "ophidic accident",
+        "snake bite",
+        "snake bites",
+        "snake envenomation",
+        "snake envenoming"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cleopatra%20VII%2C%20steel%20engraving%20of%20the%20encaustic%20painting%20found%20at%20Hadrian%27s%20Villa%20in%201818.jpg",
+    "url": "https://en.wikipedia.org/wiki/Snakebite",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "animal bite",
+                "qid": "Q866650",
+                "url": "https://en.wikipedia.org/wiki/Animal_bite"
+            },
+            {
+                "name": "envenomation",
+                "qid": "Q3055418",
+                "url": "https://en.wikipedia.org/wiki/Envenomation"
+            },
+            {
+                "name": "rare intoxication",
+                "qid": "Q55785342"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "animal attack",
+                "qid": "Q17450153",
+                "url": "https://en.wikipedia.org/wiki/Animal_attack"
+            }
+        ]
+    }
+}

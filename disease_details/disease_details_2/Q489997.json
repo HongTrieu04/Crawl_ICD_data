@@ -1,0 +1,51 @@
+{
+    "name": "diabetic angiopathy",
+    "qid": "Q489997",
+    "icd_10": "E10.5",
+    "description": "human disease",
+    "aliases": [
+        "diabetic angiopathies",
+        "diabetic vascular disorder"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Diabetic_angiopathy",
+    "details": {
+        "Cause": [
+            {
+                "name": "diabetes",
+                "qid": "Q12206",
+                "url": "https://en.wikipedia.org/wiki/Diabetes"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "angiology",
+                "qid": "Q539690",
+                "url": "https://en.wikipedia.org/wiki/Angiology"
+            },
+            {
+                "name": "diabetology",
+                "qid": "Q1207969",
+                "url": "https://en.wikipedia.org/wiki/Diabetology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "complications of diabetes mellitus",
+                "qid": "Q4198677",
+                "url": "https://en.wikipedia.org/wiki/Complications_of_diabetes"
+            },
+            {
+                "name": "peripheral vascular disease",
+                "qid": "Q26695607"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "pentoxifylline",
+                "qid": "Q416331",
+                "url": "https://en.wikipedia.org/wiki/Pentoxifylline"
+            }
+        ]
+    }
+}

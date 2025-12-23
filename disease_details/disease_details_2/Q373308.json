@@ -1,0 +1,32 @@
+{
+    "name": "Terson syndrome",
+    "qid": "Q373308",
+    "icd_10": "H43.1",
+    "description": "occurrence of a vitreous hemorrhage of the human eye",
+    "aliases": [
+        "Terson's syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Terson_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "subarachnoid hemorrhage",
+                "qid": "Q693442",
+                "url": "https://en.wikipedia.org/wiki/Subarachnoid_hemorrhage"
+            },
+            {
+                "name": "vitreous hemorrhage",
+                "qid": "Q1529650",
+                "url": "https://en.wikipedia.org/wiki/Vitreous_hemorrhage"
+            }
+        ]
+    }
+}

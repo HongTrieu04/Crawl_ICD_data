@@ -1,0 +1,29 @@
+{
+    "name": "zinc deficiency",
+    "qid": "Q8072298",
+    "icd_10": "E60",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Zinc_deficiency",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "mineral deficiency",
+                "qid": "Q16944888",
+                "url": "https://en.wikipedia.org/wiki/Mineral_deficiency"
+            },
+            {
+                "name": "disorder of zinc metabolism",
+                "qid": "Q55787339"
+            }
+        ]
+    }
+}

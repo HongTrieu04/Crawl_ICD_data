@@ -1,0 +1,59 @@
+{
+    "name": "long QT syndrome",
+    "qid": "Q653924",
+    "icd_10": "I49.8",
+    "description": "condition involving delayed repolarization of the heart during the heartbeat cycle",
+    "aliases": [
+        "LQT",
+        "long Q-T syndrome",
+        "long QT interval syndrome",
+        "LQTS",
+        "prolonged QT-interval on the electrocardiogram",
+        "Ventricular arrhythmia associated with long QT syndrome"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/SinusRhythmLabels.svg",
+    "url": "https://en.wikipedia.org/wiki/Long_QT_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "heart arrhythmia",
+                "qid": "Q189331",
+                "url": "https://en.wikipedia.org/wiki/Arrhythmia"
+            },
+            {
+                "name": "intrinsic cardiomyopathy",
+                "qid": "Q18553611"
+            },
+            {
+                "name": "QT interval prolonged",
+                "qid": "Q53327022"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "heart arrhythmia",
+                "qid": "Q189331",
+                "url": "https://en.wikipedia.org/wiki/Arrhythmia"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "nadolol",
+                "qid": "Q424952",
+                "url": "https://en.wikipedia.org/wiki/Nadolol"
+            }
+        ]
+    }
+}

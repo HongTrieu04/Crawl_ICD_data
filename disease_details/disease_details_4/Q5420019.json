@@ -1,0 +1,37 @@
+{
+    "name": "exercise-induced bronchoconstriction",
+    "qid": "Q5420019",
+    "icd_10": "J45.99",
+    "description": "medical condition",
+    "aliases": [
+        "EIB",
+        "exercise-induced asthma",
+        "Asthma, Exercise-Induced"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Exercise-induced_bronchoconstriction",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "asthma",
+                "qid": "Q35869",
+                "url": "https://en.wikipedia.org/wiki/Asthma"
+            },
+            {
+                "name": "intrinsic asthma",
+                "qid": "Q18558110"
+            },
+            {
+                "name": "dyspnea on effort",
+                "qid": "Q21110302"
+            }
+        ]
+    }
+}

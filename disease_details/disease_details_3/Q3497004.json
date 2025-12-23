@@ -1,0 +1,61 @@
+{
+    "name": "laryngeal papillomatosis",
+    "qid": "Q3497004",
+    "icd_10": "D14.1",
+    "description": "medical condition",
+    "aliases": [
+        "RRP",
+        "adult papillomatosis",
+        "Adult-onset recurrent respiratory papillomatosis (type)",
+        "AORRP (type)",
+        "glottal papillomatosis",
+        "JORRP (type)",
+        "Juvenile laryngeal papilloma",
+        "juvenile papillomatosis",
+        "Juvenile-onset recurrent respiratory papillomatosis (type)",
+        "Laryngeal papilloma, recurrent",
+        "nonkeratinized papilloma",
+        "Recurrent Respiratory Papillomatosis",
+        "recurrent respiratory papillomatosis (RRP)",
+        "respirační papilomatóza",
+        "Respiratory papillomatosis, recurrent",
+        "squamous cell papilloma",
+        "squamous cell papillomatosis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Laryngeal_papillomatosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "head and neck cancer",
+                "qid": "Q1783924",
+                "url": "https://en.wikipedia.org/wiki/Head_and_neck_cancer"
+            },
+            {
+                "name": "papilloma",
+                "qid": "Q912796",
+                "url": "https://en.wikipedia.org/wiki/Papilloma"
+            },
+            {
+                "name": "papillomatosis",
+                "qid": "Q1223924",
+                "url": "https://en.wikipedia.org/wiki/Papillomatosis"
+            },
+            {
+                "name": "lung disease",
+                "qid": "Q3392853"
+            },
+            {
+                "name": "rare otorhinolaryngologic disease",
+                "qid": "Q55789056"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "otolaryngology",
+                "qid": "Q189553",
+                "url": "https://en.wikipedia.org/wiki/Otorhinolaryngology"
+            }
+        ]
+    }
+}

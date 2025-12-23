@@ -1,0 +1,32 @@
+{
+    "name": "myocardial rupture",
+    "qid": "Q4388752",
+    "icd_10": "I23.5",
+    "description": "medical condition",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A0%D0%B0%D0%B7%D1%80%D1%8B%D0%B2%20%D1%81%D0%B5%D1%80%D0%B4%D1%86%D0%B0.jpg",
+    "url": "https://en.wikipedia.org/wiki/Myocardial_rupture",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "myocardium",
+                "qid": "Q84133",
+                "url": "https://en.wikipedia.org/wiki/Cardiac_muscle"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "heart disease",
+                "qid": "Q190805",
+                "url": "https://en.wikipedia.org/wiki/Heart_disease"
+            }
+        ]
+    }
+}

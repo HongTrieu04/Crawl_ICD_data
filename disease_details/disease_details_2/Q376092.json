@@ -1,0 +1,37 @@
+{
+    "name": "pseudofolliculitis barbae",
+    "qid": "Q376092",
+    "icd_10": "L73.1",
+    "description": "human skin condition",
+    "aliases": [
+        "Ingrown Hairs",
+        "Pfb",
+        "Pili Incarnati",
+        "PSEUDOFOLLICULITIS BARBAE"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pseudofolliculitis_barbae",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "genetic disease",
+                "qid": "Q200779",
+                "url": "https://en.wikipedia.org/wiki/Genetic_disorder"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "ingrown hair",
+                "qid": "Q860945",
+                "url": "https://en.wikipedia.org/wiki/Ingrown_hair"
+            }
+        ]
+    }
+}

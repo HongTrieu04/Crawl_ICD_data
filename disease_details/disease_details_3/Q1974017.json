@@ -1,0 +1,39 @@
+{
+    "name": "rib fracture",
+    "qid": "Q1974017",
+    "icd_10": "S22.4",
+    "description": "break in a rib bone",
+    "aliases": [
+        "rib fractures"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fracturedribsmarked.jpg",
+    "url": "https://en.wikipedia.org/wiki/Rib_fracture",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "rib",
+                "qid": "Q196672",
+                "url": "https://en.wikipedia.org/wiki/Rib"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "chest trauma",
+                "qid": "Q368370",
+                "url": "https://en.wikipedia.org/wiki/Chest_injury"
+            },
+            {
+                "name": "bone fracture",
+                "qid": "Q68833",
+                "url": "https://en.wikipedia.org/wiki/Bone_fracture"
+            }
+        ]
+    }
+}

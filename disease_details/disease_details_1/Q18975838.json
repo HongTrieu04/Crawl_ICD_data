@@ -1,0 +1,24 @@
+{
+    "name": "Intraventricular hemorrhage from any perinatal cause",
+    "qid": "Q18975838",
+    "icd_10": "P52.3",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete Intraventricular hemorrhage from any perinatal cause"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "intraventricular hemorrhage",
+                "qid": "Q6058597",
+                "url": "https://en.wikipedia.org/wiki/Intraventricular_hemorrhage"
+            },
+            {
+                "name": "Intracranial haemorrhage of the newborn",
+                "qid": "Q60978675"
+            }
+        ]
+    }
+}

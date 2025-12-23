@@ -1,0 +1,39 @@
+{
+    "name": "familial amyloid neuropathy",
+    "qid": "Q3338677",
+    "icd_10": "E85.1",
+    "description": "human disease",
+    "aliases": [
+        "paramyloidosis",
+        "Amyloid Neuropathies, Familial",
+        "familial amyloid neuropathies",
+        "obsolete paramyloidosis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Familial_amyloid_neuropathy",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "amyloidosis",
+                "qid": "Q816798",
+                "url": "https://en.wikipedia.org/wiki/Amyloidosis"
+            },
+            {
+                "name": "Heredofamilial amyloidosis",
+                "qid": "Q5737919",
+                "url": "https://en.wikipedia.org/wiki/Heredofamilial_amyloidosis"
+            },
+            {
+                "name": "amyloid neuropathy",
+                "qid": "Q54911710"
+            }
+        ]
+    }
+}

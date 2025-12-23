@@ -1,0 +1,118 @@
+{
+    "name": "polyuria",
+    "qid": "Q1124286",
+    "icd_10": "R35",
+    "description": "excessive or abnormally large production or passage of urine",
+    "aliases": [
+        "increased urination"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Polyuria",
+    "details": {
+        "Possible treatment": [
+            {
+                "name": "medication",
+                "qid": "Q12140",
+                "url": "https://en.wikipedia.org/wiki/Medication"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            },
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            },
+            {
+                "name": "nephrology",
+                "qid": "Q177635",
+                "url": "https://en.wikipedia.org/wiki/Nephrology"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "infection",
+                "qid": "Q166231",
+                "url": "https://en.wikipedia.org/wiki/Infection"
+            },
+            {
+                "name": "tumor",
+                "qid": "Q133212",
+                "url": "https://en.wikipedia.org/wiki/Tumor"
+            },
+            {
+                "name": "autoimmunity",
+                "qid": "Q192360",
+                "url": "https://en.wikipedia.org/wiki/Autoimmunity"
+            },
+            {
+                "name": "idiopathy",
+                "qid": "Q594841",
+                "url": "https://en.wikipedia.org/wiki/Idiopathic_disease"
+            },
+            {
+                "name": "mutation",
+                "qid": "Q610425",
+                "url": "https://en.wikipedia.org/wiki/Mutation_(evolutionary_algorithm)"
+            },
+            {
+                "name": "hypopituitarism",
+                "qid": "Q922411",
+                "url": "https://en.wikipedia.org/wiki/Hypopituitarism"
+            },
+            {
+                "name": "cranial trauma",
+                "qid": "Q2920572",
+                "url": "https://en.wikipedia.org/wiki/Head_injury"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "symptom",
+                "qid": "Q169872",
+                "url": "https://en.wikipedia.org/wiki/Symptom"
+            },
+            {
+                "name": "diuresis",
+                "qid": "Q584691",
+                "url": "https://en.wikipedia.org/wiki/Diuresis"
+            },
+            {
+                "name": "medical finding",
+                "qid": "Q639907",
+                "url": "https://en.wikipedia.org/wiki/Medical_findings"
+            },
+            {
+                "name": "clinical sign",
+                "qid": "Q1441305",
+                "url": "https://en.wikipedia.org/wiki/Clinical_sign"
+            },
+            {
+                "name": "urological symptom",
+                "qid": "Q2565950"
+            },
+            {
+                "name": "urination disorder",
+                "qid": "Q19000619"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "amiloride",
+                "qid": "Q419995",
+                "url": "https://en.wikipedia.org/wiki/Amiloride"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "diuresis",
+                "qid": "Q584691",
+                "url": "https://en.wikipedia.org/wiki/Diuresis"
+            }
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name": "pathologic fracture",
+    "qid": "Q1753467",
+    "icd_10": "M80",
+    "description": "bone fracture caused by weakness of the bone structure",
+    "aliases": [
+        "pathological fracture",
+        "spontaneous fracture"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pathologische%20Fraktur%20bei%20Metastase%20Nierencell-Ca%20im%20Humerus.jpg",
+    "url": "https://en.wikipedia.org/wiki/Pathologic_fracture",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "bone fracture",
+                "qid": "Q68833",
+                "url": "https://en.wikipedia.org/wiki/Bone_fracture"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ]
+    }
+}

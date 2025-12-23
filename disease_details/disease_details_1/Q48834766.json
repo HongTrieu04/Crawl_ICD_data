@@ -1,0 +1,25 @@
+{
+    "name": "postcoital bleeding",
+    "qid": "Q48834766",
+    "icd_10": "N93.0",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Postcoital_bleeding",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "vaginal bleeding",
+                "qid": "Q244913",
+                "url": "https://en.wikipedia.org/wiki/Vaginal_bleeding"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gynaecology",
+                "qid": "Q1221899",
+                "url": "https://en.wikipedia.org/wiki/Gynaecology"
+            }
+        ]
+    }
+}

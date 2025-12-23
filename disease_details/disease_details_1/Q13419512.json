@@ -1,0 +1,24 @@
+{
+    "name": "enteropathogenic Escherichia coli",
+    "qid": "Q13419512",
+    "icd_10": "A04.0",
+    "description": "strains of Escherichia coli characterized by attaching-and-effacing histopathology",
+    "aliases": [
+        "Enteropathogenic Escherichia coli gastrointestinal tract infection",
+        "Enteropathogenic Escherichia coli gastrointestinal tract infection (disorder)",
+        "Enteropathogenic Escherichia coli infection",
+        "enteropathogenic Escherichia coli infectious disease",
+        "intestinal infection due to enteropathogenic E. coli",
+        "obsolete enteropathogenic Escherichia coli infectious disease"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "Escherichia coli infectious disease",
+                "qid": "Q4227886"
+            }
+        ]
+    }
+}

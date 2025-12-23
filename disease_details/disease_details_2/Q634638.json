@@ -1,0 +1,26 @@
+{
+    "name": "dislocation of hip",
+    "qid": "Q634638",
+    "icd_10": "S73.0",
+    "description": "orthopedic injury",
+    "aliases": [
+        "hip dislocation"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hip_dislocation",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "hip injury",
+                "qid": "Q54957692"
+            }
+        ]
+    }
+}

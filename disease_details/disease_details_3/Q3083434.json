@@ -1,0 +1,46 @@
+{
+    "name": "endometrial polyp",
+    "qid": "Q3083434",
+    "icd_10": "N84.0",
+    "description": "medical condition",
+    "aliases": [
+        "Endometrial Polyp",
+        "Endometrial Stromal Polyp",
+        "endometrium polyp",
+        "Polyp of Endometrium",
+        "Polyp of the Endometrium",
+        "POLYP, ENDOMETRIAL STROMAL, BENIGN"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Endometrial_polyp",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            },
+            {
+                "name": "gynaecology",
+                "qid": "Q1221899",
+                "url": "https://en.wikipedia.org/wiki/Gynaecology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "polyp",
+                "qid": "Q657665",
+                "url": "https://en.wikipedia.org/wiki/Polyp_(medicine)"
+            },
+            {
+                "name": "Uterine polyp",
+                "qid": "Q15335624"
+            },
+            {
+                "name": "endometrial cancer",
+                "qid": "Q944777",
+                "url": "https://en.wikipedia.org/wiki/Endometrial_cancer"
+            }
+        ]
+    }
+}

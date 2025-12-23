@@ -1,0 +1,39 @@
+{
+    "name": "osteolysis",
+    "qid": "Q2035084",
+    "icd_10": "M89.5",
+    "description": "active resorption of bone matrix by osteoclasts during the natural formation of healthy bones",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Osteolysis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "bone resorption",
+                "qid": "Q4941581",
+                "url": "https://en.wikipedia.org/wiki/Bone_resorption"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "pamidronic acid",
+                "qid": "Q627499",
+                "url": "https://en.wikipedia.org/wiki/Pamidronic_acid"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "osteoclast",
+                "qid": "Q828410",
+                "url": "https://en.wikipedia.org/wiki/Osteoclast"
+            }
+        ]
+    }
+}

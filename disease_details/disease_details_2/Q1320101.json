@@ -1,0 +1,56 @@
+{
+    "name": "nasal fracture",
+    "qid": "Q1320101",
+    "icd_10": "S02.2",
+    "description": "medical condition",
+    "aliases": [
+        "broken nose"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Medical%20X-Ray%20imaging%20NJR06%20Nevit%20nasal%20bone%20fracture.jpg",
+    "url": "https://en.wikipedia.org/wiki/Nasal_fracture",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "facial trauma",
+                "qid": "Q3632931",
+                "url": "https://en.wikipedia.org/wiki/Facial_trauma"
+            },
+            {
+                "name": "injury in humans",
+                "qid": "Q193078",
+                "url": "https://en.wikipedia.org/wiki/Injury_in_humans"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "nosebleed",
+                "qid": "Q202013",
+                "url": "https://en.wikipedia.org/wiki/Nosebleed"
+            },
+            {
+                "name": "hematoma",
+                "qid": "Q468787",
+                "url": "https://en.wikipedia.org/wiki/Hematoma"
+            },
+            {
+                "name": "edema",
+                "qid": "Q152234",
+                "url": "https://en.wikipedia.org/wiki/Edema"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "collision",
+                "qid": "Q238053",
+                "url": "https://en.wikipedia.org/wiki/Collision"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "convergence insufficiency",
+    "qid": "Q5166383",
+    "icd_10": "H51.1",
+    "description": "Human disease",
+    "aliases": [
+        "convergence insufficiency or palsy",
+        "obsolete convergence insufficiency or palsy"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Convergence_insufficiency",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            },
+            {
+                "name": "optometry",
+                "qid": "Q618211",
+                "url": "https://en.wikipedia.org/wiki/Optometry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "ocular motility disease",
+                "qid": "Q11583708"
+            }
+        ]
+    }
+}

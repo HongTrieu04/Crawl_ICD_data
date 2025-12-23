@@ -1,0 +1,36 @@
+{
+    "name": "psychosexual disorder",
+    "qid": "Q7256482",
+    "icd_10": "F66.9",
+    "description": "human disease",
+    "aliases": [
+        "non-organic sexual dysfunction"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Psychosexual_disorder",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychology",
+                "qid": "Q9418",
+                "url": "https://en.wikipedia.org/wiki/Psychology"
+            },
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "mental disorder",
+                "qid": "Q12135",
+                "url": "https://en.wikipedia.org/wiki/Mental_disorder"
+            },
+            {
+                "name": "sexual and gender disorder",
+                "qid": "Q18553616"
+            }
+        ]
+    }
+}

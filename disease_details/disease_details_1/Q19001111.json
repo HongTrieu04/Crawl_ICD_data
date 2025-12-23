@@ -1,0 +1,27 @@
+{
+    "name": "vitamin B deficiency",
+    "qid": "Q19001111",
+    "icd_10": "E53",
+    "description": "class of human diseases",
+    "aliases": [
+        "obsolete vitamin B deficiency"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "vitamin deficiency",
+                "qid": "Q194435",
+                "url": "https://en.wikipedia.org/wiki/Vitamin_deficiency"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "nutrition",
+                "qid": "Q2138622",
+                "url": "https://en.wikipedia.org/wiki/Nutrition"
+            }
+        ]
+    }
+}

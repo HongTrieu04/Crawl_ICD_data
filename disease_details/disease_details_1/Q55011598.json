@@ -1,0 +1,25 @@
+{
+    "name": "entropion and trichiasis of eyelid",
+    "qid": "Q55011598",
+    "icd_10": "H02.0",
+    "description": "human disease",
+    "aliases": [
+        "obsolete entropion and trichiasis of eyelid"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "entropion",
+                "qid": "Q1327273",
+                "url": "https://en.wikipedia.org/wiki/Entropion"
+            },
+            {
+                "name": "trichiasis",
+                "qid": "Q1852755",
+                "url": "https://en.wikipedia.org/wiki/Trichiasis"
+            }
+        ]
+    }
+}

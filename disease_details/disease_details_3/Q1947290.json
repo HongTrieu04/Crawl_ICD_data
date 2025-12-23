@@ -1,0 +1,33 @@
+{
+    "name": "Dermatitis repens",
+    "qid": "Q1947290",
+    "icd_10": "L40.2",
+    "description": "human disease",
+    "aliases": [
+        "acrodermatitis continua suppurativa of Hallopeau"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Dermatitis_repens",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "genodermatosis",
+                "qid": "Q666075",
+                "url": "https://en.wikipedia.org/wiki/Genodermatosis"
+            },
+            {
+                "name": "acropustulosis",
+                "qid": "Q4676432",
+                "url": "https://en.wikipedia.org/wiki/Acropustulosis"
+            },
+            {
+                "name": "genetic epidermal disorder",
+                "qid": "Q55785833"
+            },
+            {
+                "name": "other epidermal disorder",
+                "qid": "Q55788580"
+            }
+        ]
+    }
+}

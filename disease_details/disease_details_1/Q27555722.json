@@ -1,0 +1,38 @@
+{
+    "name": "eosinophilic gastroenteritis",
+    "qid": "Q27555722",
+    "icd_10": "K52.8",
+    "description": "human disease",
+    "aliases": [
+        "Eosinophilic gastroenteritis",
+        "Eosinophilic Gastroenteritis",
+        "Eosinophilic gastroenteritis (disorder)"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Eosinophilic_gastroenteritis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "gastroenteritis",
+                "qid": "Q156103",
+                "url": "https://en.wikipedia.org/wiki/Gastroenteritis"
+            },
+            {
+                "name": "eosinophilic gastrointestinal disease",
+                "qid": "Q55788085"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ]
+    }
+}

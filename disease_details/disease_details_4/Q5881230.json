@@ -1,0 +1,26 @@
+{
+    "name": "Hollenhorst plaque",
+    "qid": "Q5881230",
+    "icd_10": "H34.2",
+    "description": "cholesterol embolus that is seen in a blood vessel of the retina",
+    "aliases": [
+        "Eickenhorst plaque"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hollenhorst_plaque",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "retinal vascular disease",
+                "qid": "Q12195125"
+            }
+        ]
+    }
+}

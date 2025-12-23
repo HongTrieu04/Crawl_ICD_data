@@ -1,0 +1,25 @@
+{
+    "name": "cardiogenic shock",
+    "qid": "Q2477062",
+    "icd_10": "R57.0",
+    "description": "type of circulatory shock resulting from inadequate blood flow due to the dysfunction of the ventricles of the heart",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Cardiogenic_shock",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "shock",
+                "qid": "Q178061",
+                "url": "https://en.wikipedia.org/wiki/Shock_(circulatory)"
+            }
+        ]
+    }
+}

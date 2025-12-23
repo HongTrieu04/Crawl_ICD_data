@@ -1,0 +1,110 @@
+{
+    "name": "Waldenström macroglobulinemia",
+    "qid": "Q1778287",
+    "icd_10": "C88.0",
+    "description": "Type of blood cancer",
+    "aliases": [
+        "WM",
+        "Immunocytoma, Lymphoplasmacytic Type",
+        "LYMPHOMA, LYMPHOPLASMACYTIC, MALIGNANT",
+        "Lymphoma, Plasmacytic",
+        "lymphoplasmacytic lymphoma",
+        "Lymphoplasmacytic lymphoma (Waldenstrom macroglobulinemia)",
+        "lymphoplasmacytic lymphoma with IgM gammopathy",
+        "Lymphoplasmacytoid Lymphoma",
+        "Waldenstroem's macroglobulinemia",
+        "Waldenstrom's macroglobulinemia",
+        "Waldenström's macroglobulinemia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Waldenstr%C3%B6m_macroglobulinemia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "B-cell lymphoma",
+                "qid": "Q4833719",
+                "url": "https://en.wikipedia.org/wiki/B-cell_lymphoma"
+            },
+            {
+                "name": "lymphoplasmacytic lymphoma",
+                "qid": "Q3832894"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            },
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            },
+            {
+                "name": "immunology",
+                "qid": "Q101929",
+                "url": "https://en.wikipedia.org/wiki/Immunology"
+            },
+            {
+                "name": "angiology",
+                "qid": "Q539690",
+                "url": "https://en.wikipedia.org/wiki/Angiology"
+            },
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "idelalisib",
+                "qid": "Q5908266",
+                "url": "https://en.wikipedia.org/wiki/Idelalisib"
+            },
+            {
+                "name": "ibrutinib",
+                "qid": "Q5984881",
+                "url": "https://en.wikipedia.org/wiki/Ibrutinib"
+            },
+            {
+                "name": "bendamustine",
+                "qid": "Q425745",
+                "url": "https://en.wikipedia.org/wiki/Bendamustine"
+            },
+            {
+                "name": "thalidomide",
+                "qid": "Q203174",
+                "url": "https://en.wikipedia.org/wiki/Thalidomide"
+            },
+            {
+                "name": "rituximab",
+                "qid": "Q412323",
+                "url": "https://en.wikipedia.org/wiki/Rituximab"
+            },
+            {
+                "name": "bortezomib",
+                "qid": "Q419319",
+                "url": "https://en.wikipedia.org/wiki/Bortezomib"
+            },
+            {
+                "name": "(RS)-lenalidomide",
+                "qid": "Q425681",
+                "url": "https://en.wikipedia.org/wiki/Lenalidomide"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "macroglobulinemia",
+                "qid": "Q4118092",
+                "url": "https://en.wikipedia.org/wiki/Macroglobulinemia"
+            }
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "name": "chronic otitis media with effusion",
+    "qid": "Q18966685",
+    "icd_10": "H65.3",
+    "description": "Human disease",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "serous glue ear",
+                "qid": "Q2058432"
+            }
+        ]
+    }
+}

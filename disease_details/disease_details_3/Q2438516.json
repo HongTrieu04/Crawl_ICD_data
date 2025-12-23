@@ -1,0 +1,24 @@
+{
+    "name": "reactive airway disease",
+    "qid": "Q2438516",
+    "icd_10": "J45.90",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Reactive_airway_disease",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "irritant-induced asthma",
+                "qid": "Q1854599"
+            }
+        ]
+    }
+}

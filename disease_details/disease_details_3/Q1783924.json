@@ -1,0 +1,117 @@
+{
+    "name": "head and neck cancer",
+    "qid": "Q1783924",
+    "icd_10": "C33",
+    "description": "organ system cancer in the head or neck region",
+    "aliases": [
+        "malignant neoplasm of lip, oral cavity and pharynx",
+        "malignant neoplasm of mouth",
+        "malignant neoplasm of mouth NOS (disorder)",
+        "malignant neoplasm of mouth, unspecified",
+        "malignant neoplasm of oral cavity NOS",
+        "malignant neoplasm of other specified mouth parts (disorder)",
+        "malignant neoplasm of other specified parts of mouth",
+        "malignant neoplasm of palate NOS (disorder)",
+        "malignant neoplasm of palate unspecified (disorder)",
+        "malignant neoplasm of palate, unspecified",
+        "malignant neoplasm of pharynx",
+        "malignant neoplasm of pharynx unspecified (disorder)",
+        "malignant neoplasm of pharynx, NOS",
+        "malignant neoplasm of pharynx, unspecified",
+        "malignant neoplasm of roof of mouth",
+        "malignant Oral cavity neoplasm",
+        "malignant Oral neoplasm",
+        "malignant Pharyngeal tumor",
+        "malignant tumor of oral cavity (disorder)",
+        "malignant tumor of palate (disorder)",
+        "malignant tumor of pharynx (disorder)",
+        "malignant tumor of the Palate",
+        "malignant tumour of mouth",
+        "obsolete malignant neoplasm of lip, oral cavity and pharynx",
+        "throat cancer"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/PET-CT%20scanning%20of%20lymph%20node%20metastases%20in%20cancer%202.jpg",
+    "url": "https://en.wikipedia.org/wiki/Head_and_neck_cancer",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "respiratory system cancer",
+                "qid": "Q7315926",
+                "url": "https://en.wikipedia.org/wiki/Respiratory_tract_neoplasm"
+            },
+            {
+                "name": "organ system cancer",
+                "qid": "Q18553400"
+            },
+            {
+                "name": "head and neck neoplasms",
+                "qid": "Q18975915"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "pilocarpine",
+                "qid": "Q411461",
+                "url": "https://en.wikipedia.org/wiki/Pilocarpine"
+            },
+            {
+                "name": "cisplatin",
+                "qid": "Q412415",
+                "url": "https://en.wikipedia.org/wiki/Cisplatin"
+            },
+            {
+                "name": "carboplatin",
+                "qid": "Q415588",
+                "url": "https://en.wikipedia.org/wiki/Carboplatin"
+            },
+            {
+                "name": "docetaxel",
+                "qid": "Q420436",
+                "url": "https://en.wikipedia.org/wiki/Docetaxel"
+            },
+            {
+                "name": "methotrexate",
+                "qid": "Q422232",
+                "url": "https://en.wikipedia.org/wiki/Methotrexate"
+            },
+            {
+                "name": "doxorubicin hydrochloride",
+                "qid": "Q27032359",
+                "url": "https://en.wikipedia.org/wiki/Doxorubicin_hydrochloride"
+            },
+            {
+                "name": "hydroxycarbamide",
+                "qid": "Q212272",
+                "url": "https://en.wikipedia.org/wiki/Hydroxycarbamide"
+            },
+            {
+                "name": "fluorouracil",
+                "qid": "Q238512",
+                "url": "https://en.wikipedia.org/wiki/Fluorouracil"
+            },
+            {
+                "name": "vinblastine",
+                "qid": "Q282629",
+                "url": "https://en.wikipedia.org/wiki/Vinblastine"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "head and neck",
+                "qid": "Q112075583"
+            }
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "abnormal feces",
+    "qid": "Q102186990",
+    "icd_10": "R19.5",
+    "description": "symptom",
+    "aliases": [
+        "faecal abnormalities"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "feces and droppings symptom",
+                "qid": "Q102186864"
+            }
+        ]
+    }
+}

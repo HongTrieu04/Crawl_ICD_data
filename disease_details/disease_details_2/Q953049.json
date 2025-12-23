@@ -1,0 +1,35 @@
+{
+    "name": "papilledema",
+    "qid": "Q953049",
+    "icd_10": "H47.1",
+    "description": "human disease",
+    "aliases": [
+        "papilledema associated with increased intracranial pressure",
+        "Choked disk",
+        "Edema of the optic disc",
+        "Papilloedema"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Papilledema.jpg",
+    "url": "https://en.wikipedia.org/wiki/Papilledema",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "optic nerve disease",
+                "qid": "Q2879095",
+                "url": "https://en.wikipedia.org/wiki/Optic_neuropathy"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            }
+        ]
+    }
+}

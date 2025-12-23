@@ -1,0 +1,25 @@
+{
+    "name": "Ophiasis",
+    "qid": "Q1744674",
+    "icd_10": "L63.2",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Ophiasis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "alopecia areata",
+                "qid": "Q5075435",
+                "url": "https://en.wikipedia.org/wiki/Alopecia_areata"
+            }
+        ]
+    }
+}

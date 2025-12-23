@@ -1,0 +1,29 @@
+{
+    "name": "electrolyte imbalance",
+    "qid": "Q1326943",
+    "icd_10": "E87",
+    "description": "abnormalities in the levels of electrolytes which are medically significant",
+    "aliases": [
+        "Electrolyte Disorder",
+        "electrolyte disturbance",
+        "water-electrolyte imbalance"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Electrolyte_imbalance",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "nephrology",
+                "qid": "Q177635",
+                "url": "https://en.wikipedia.org/wiki/Nephrology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "metabolic disease",
+                "qid": "Q2351083",
+                "url": "https://en.wikipedia.org/wiki/Metabolic_disorder"
+            }
+        ]
+    }
+}

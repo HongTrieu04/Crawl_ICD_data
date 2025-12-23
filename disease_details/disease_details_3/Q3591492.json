@@ -1,0 +1,31 @@
+{
+    "name": "Leiner's disease",
+    "qid": "Q3591492",
+    "icd_10": "L21.1",
+    "description": "disease",
+    "aliases": [
+        "Erythroderma desquamativa of Leiner",
+        "Erythroderma desquamativum",
+        "Erythroderma Desquamativum of Infancy",
+        "Generalized erythroderma, diarrhea, and failure to thrive",
+        "Leiner disease",
+        "Leiner-Moussous Desquamative Erythroderma"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Leiner%27s_disease",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "immune deficiency with skin involvement",
+                "qid": "Q55788607"
+            }
+        ]
+    }
+}

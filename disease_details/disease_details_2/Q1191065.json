@@ -1,0 +1,33 @@
+{
+    "name": "heat illness",
+    "qid": "Q1191065",
+    "icd_10": "T67.0",
+    "description": "condition caused by the failure of the human body to dissipate heat in a hot environment",
+    "aliases": [
+        "Heat Stress Disorder",
+        "Heat Stress Disorders"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Heat_illness",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "hyperthermia",
+                "qid": "Q242165",
+                "url": "https://en.wikipedia.org/wiki/Hyperthermia"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ]
+    }
+}

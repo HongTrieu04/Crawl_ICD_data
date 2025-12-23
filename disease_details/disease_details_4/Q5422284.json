@@ -1,0 +1,29 @@
+{
+    "name": "extravasation of urine",
+    "qid": "Q5422284",
+    "icd_10": "R39.0",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Extravasation_of_urine",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "urinary system disease",
+                "qid": "Q7900883",
+                "url": "https://en.wikipedia.org/wiki/Urologic_disease"
+            },
+            {
+                "name": "urological symptom",
+                "qid": "Q2565950"
+            }
+        ]
+    }
+}

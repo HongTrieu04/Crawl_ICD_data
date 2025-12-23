@@ -1,0 +1,196 @@
+{
+    "name": "cystic fibrosis",
+    "qid": "Q178194",
+    "icd_10": "E84",
+    "description": "autosomal recessive disease characterized by the buildup of mucus",
+    "aliases": [
+        "mucoviscidosis",
+        "CF",
+        "CYSTIC FIBROSIS",
+        "CYSTIC FIBROSIS; CF"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/ClubbingCF.JPG",
+    "url": "https://en.wikipedia.org/wiki/Cystic_fibrosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "syndrome",
+                "qid": "Q179630",
+                "url": "https://en.wikipedia.org/wiki/Syndrome"
+            },
+            {
+                "name": "lung disease",
+                "qid": "Q3392853"
+            },
+            {
+                "name": "autosomal recessive disease",
+                "qid": "Q10267817"
+            },
+            {
+                "name": "rare genetic respiratory disease",
+                "qid": "Q55785522"
+            },
+            {
+                "name": "genetic biliary tract disease",
+                "qid": "Q55785521"
+            },
+            {
+                "name": "genetic pancreatic disease",
+                "qid": "Q55785598"
+            },
+            {
+                "name": "rare male fertility disorder with obstructive azoospermia",
+                "qid": "Q55788042"
+            },
+            {
+                "name": "rare genetic disorder with obstructive azoospermia",
+                "qid": "Q55788066"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "pneumonia",
+                "qid": "Q12192",
+                "url": "https://en.wikipedia.org/wiki/Pneumonia"
+            },
+            {
+                "name": "hepatitis",
+                "qid": "Q131742",
+                "url": "https://en.wikipedia.org/wiki/Hepatitis"
+            },
+            {
+                "name": "liver cirrhosis",
+                "qid": "Q147778",
+                "url": "https://en.wikipedia.org/wiki/Cirrhosis"
+            },
+            {
+                "name": "bronchiectasis",
+                "qid": "Q32778",
+                "url": "https://en.wikipedia.org/wiki/Bronchiectasis"
+            },
+            {
+                "name": "pulmonary fibrosis",
+                "qid": "Q32446",
+                "url": "https://en.wikipedia.org/wiki/Pulmonary_fibrosis"
+            },
+            {
+                "name": "atelectasis",
+                "qid": "Q754031",
+                "url": "https://en.wikipedia.org/wiki/Atelectasis"
+            },
+            {
+                "name": "cholestasis",
+                "qid": "Q1075923",
+                "url": "https://en.wikipedia.org/wiki/Cholestasis"
+            },
+            {
+                "name": "bowel obstruction",
+                "qid": "Q16244733",
+                "url": "https://en.wikipedia.org/wiki/Bowel_obstruction"
+            },
+            {
+                "name": "osteoporosis",
+                "qid": "Q165328",
+                "url": "https://en.wikipedia.org/wiki/Osteoporosis"
+            },
+            {
+                "name": "peptic ulcer disease",
+                "qid": "Q172941",
+                "url": "https://en.wikipedia.org/wiki/Peptic_ulcer_disease"
+            },
+            {
+                "name": "bronchitis",
+                "qid": "Q173022",
+                "url": "https://en.wikipedia.org/wiki/Bronchitis"
+            },
+            {
+                "name": "heart failure",
+                "qid": "Q181754",
+                "url": "https://en.wikipedia.org/wiki/Heart_failure"
+            },
+            {
+                "name": "dyspnea",
+                "qid": "Q188008",
+                "url": "https://en.wikipedia.org/wiki/Shortness_of_breath"
+            },
+            {
+                "name": "cyanosis",
+                "qid": "Q192120",
+                "url": "https://en.wikipedia.org/wiki/Cyanosis"
+            },
+            {
+                "name": "muscle weakness",
+                "qid": "Q270421",
+                "url": "https://en.wikipedia.org/wiki/Muscle_weakness"
+            },
+            {
+                "name": "gallstone",
+                "qid": "Q272714"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "pediatrics",
+                "qid": "Q123028",
+                "url": "https://en.wikipedia.org/wiki/Pediatrics"
+            },
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            },
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "elexacaftor/ivacaftor/tezacaftor",
+                "qid": "Q72184040",
+                "url": "https://en.wikipedia.org/wiki/Elexacaftor/tezacaftor/ivacaftor"
+            },
+            {
+                "name": "amiloride",
+                "qid": "Q419995",
+                "url": "https://en.wikipedia.org/wiki/Amiloride"
+            },
+            {
+                "name": "tobramycin",
+                "qid": "Q1758380",
+                "url": "https://en.wikipedia.org/wiki/Tobramycin"
+            },
+            {
+                "name": "dornase alfa",
+                "qid": "Q2067922",
+                "url": "https://en.wikipedia.org/wiki/Dornase_alfa"
+            },
+            {
+                "name": "ivacaftor",
+                "qid": "Q6095693",
+                "url": "https://en.wikipedia.org/wiki/Ivacaftor"
+            },
+            {
+                "name": "sodium phenylbutyrate",
+                "qid": "Q7553358",
+                "url": "https://en.wikipedia.org/wiki/Sodium_phenylbutyrate"
+            },
+            {
+                "name": "N-acetyl-L-cysteine",
+                "qid": "Q375613",
+                "url": "https://en.wikipedia.org/wiki/Acetylcysteine"
+            },
+            {
+                "name": "aztreonam",
+                "qid": "Q418546",
+                "url": "https://en.wikipedia.org/wiki/Aztreonam"
+            }
+        ]
+    }
+}

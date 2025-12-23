@@ -1,0 +1,53 @@
+{
+    "name": "nephropathia epidemica",
+    "qid": "Q931323",
+    "icd_10": "A98.5",
+    "description": "human disease",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Nephropathia_epidemica",
+    "details": {
+        "Cause": [
+            {
+                "name": "infection",
+                "qid": "Q166231",
+                "url": "https://en.wikipedia.org/wiki/Infection"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "vomiting",
+                "qid": "Q127076",
+                "url": "https://en.wikipedia.org/wiki/Vomiting"
+            },
+            {
+                "name": "nausea",
+                "qid": "Q186889",
+                "url": "https://en.wikipedia.org/wiki/Nausea"
+            },
+            {
+                "name": "back pain",
+                "qid": "Q5781808",
+                "url": "https://en.wikipedia.org/wiki/Back_pain"
+            },
+            {
+                "name": "hemorrhage",
+                "qid": "Q102186528"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "hemorrhagic fever with renal syndrome",
+                "qid": "Q9002005",
+                "url": "https://en.wikipedia.org/wiki/Hantavirus_hemorrhagic_fever_with_renal_syndrome"
+            }
+        ]
+    }
+}

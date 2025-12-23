@@ -1,0 +1,19 @@
+{
+    "name": "lymphocutaneous sporotrichosis",
+    "qid": "Q55009260",
+    "icd_10": "B42.1",
+    "description": "human disease",
+    "aliases": [
+        "obsolete lymphocutaneous sporotrichosis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "cutaneous sporotrichosis",
+                "qid": "Q18928483"
+            }
+        ]
+    }
+}

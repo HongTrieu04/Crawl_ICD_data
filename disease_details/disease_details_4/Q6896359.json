@@ -1,0 +1,28 @@
+{
+    "name": "Mollaret's meningitis",
+    "qid": "Q6896359",
+    "icd_10": "G03.2",
+    "description": "Human disease",
+    "aliases": [
+        "Benign recurrent meningitis",
+        "Herpes simplex meningitis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Mollaret%27s_meningitis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "aseptic meningitis",
+                "qid": "Q4804182",
+                "url": "https://en.wikipedia.org/wiki/Aseptic_meningitis"
+            }
+        ]
+    }
+}

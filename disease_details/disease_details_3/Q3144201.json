@@ -1,0 +1,32 @@
+{
+    "name": "excessive daytime sleepiness",
+    "qid": "Q3144201",
+    "icd_10": "F51.1",
+    "description": "symptom characterized by persistent sleepiness during daytime",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Excessive_daytime_sleepiness",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "sleep disorder",
+                "qid": "Q177190",
+                "url": "https://en.wikipedia.org/wiki/Sleep_disorder"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "somnolence",
+                "qid": "Q1077823",
+                "url": "https://en.wikipedia.org/wiki/Somnolence"
+            }
+        ]
+    }
+}

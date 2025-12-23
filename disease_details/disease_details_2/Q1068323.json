@@ -1,0 +1,50 @@
+{
+    "name": "temporomandibular joint syndrome",
+    "qid": "Q1068323",
+    "icd_10": "M26.60",
+    "description": "Human disease",
+    "aliases": [
+        "TMD",
+        "Costen's syndrome",
+        "craniomandibular dysfunction",
+        "Myofascial pain - dysfunction syndrome of TMJ",
+        "obsolete temporomandibular joint disorder",
+        "temporomandibular dysfunction syndrome",
+        "temporomandibular joint dysfunction syndrome",
+        "TMJ syndrome",
+        "TMJ-pain-dysfunction syndrome",
+        "TMJD"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gray309-en.svg",
+    "url": "https://en.wikipedia.org/wiki/Temporomandibular_joint_dysfunction",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "joint dislocation",
+                "qid": "Q324509",
+                "url": "https://en.wikipedia.org/wiki/Joint_dislocation"
+            },
+            {
+                "name": "ankylosis",
+                "qid": "Q418418",
+                "url": "https://en.wikipedia.org/wiki/Ankylosis"
+            },
+            {
+                "name": "temporomandibular joint pathology",
+                "qid": "Q2651722",
+                "url": "https://en.wikipedia.org/wiki/Temporomandibular_joint_pathology"
+            },
+            {
+                "name": "internal derangement",
+                "qid": "Q18648707"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oral medicine",
+                "qid": "Q3673891",
+                "url": "https://en.wikipedia.org/wiki/Oral_medicine"
+            }
+        ]
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "name": "herpetic gingivostomatitis",
+    "qid": "Q5563114",
+    "icd_10": "A69.1",
+    "description": "Human disease",
+    "aliases": [
+        "Gingivostomatitides, Herpetic",
+        "gingivostomatitis",
+        "Gingivostomatitis, Herpetic",
+        "Herpes simplex virus gingivostomatitis",
+        "Herpes Simplex, Oral",
+        "Herpetic Gingivostomatitides",
+        "Herpetic Gingivostomatitis",
+        "Herpetic Stomatitides",
+        "Herpetic Stomatitis",
+        "Oral Herpes Simplex",
+        "orolabial herpes",
+        "primary herpetic gingivostomatitis",
+        "Simplex, Oral Herpes",
+        "Stomatitides, Herpetic",
+        "Stomatitis, Herpetic"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Herpetic_gingivostomatitis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            },
+            {
+                "name": "oral medicine",
+                "qid": "Q3673891",
+                "url": "https://en.wikipedia.org/wiki/Oral_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "stomatitis",
+                "qid": "Q911386",
+                "url": "https://en.wikipedia.org/wiki/Stomatitis"
+            },
+            {
+                "name": "Herpesviridae infectious disease",
+                "qid": "Q18975237"
+            }
+        ]
+    }
+}

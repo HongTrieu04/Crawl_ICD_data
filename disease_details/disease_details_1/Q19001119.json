@@ -1,0 +1,25 @@
+{
+    "name": "disorder of amniotic fluid and membranes",
+    "qid": "Q19001119",
+    "icd_10": "O41.9",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete disorder of amniotic fluid and membranes"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "complications of pregnancy",
+                "qid": "Q2916477",
+                "url": "https://en.wikipedia.org/wiki/Complications_of_pregnancy"
+            },
+            {
+                "name": "placenta disease",
+                "qid": "Q7200296",
+                "url": "https://en.wikipedia.org/wiki/Placental_disease"
+            }
+        ]
+    }
+}

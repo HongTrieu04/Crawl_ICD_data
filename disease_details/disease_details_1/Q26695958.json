@@ -1,0 +1,35 @@
+{
+    "name": "gonococcal infectious diseases",
+    "qid": "Q26695958",
+    "icd_10": "A54",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "infection",
+                "qid": "Q166231",
+                "url": "https://en.wikipedia.org/wiki/Infection"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "primary bacterial infectious disease",
+                "qid": "Q18553247"
+            },
+            {
+                "name": "Neisseriaceae infectious disease",
+                "qid": "Q19001422"
+            }
+        ]
+    }
+}

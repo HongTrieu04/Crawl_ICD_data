@@ -1,0 +1,27 @@
+{
+    "name": "maternal death",
+    "qid": "Q1339474",
+    "icd_10": "O95",
+    "description": "death of a woman while pregnant or within 42 days of termination of pregnancy",
+    "aliases": [
+        "maternal mortality"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Maternal_death",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "obstetrics",
+                "qid": "Q5284418",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "death",
+                "qid": "Q4",
+                "url": "https://en.wikipedia.org/wiki/Death"
+            }
+        ]
+    }
+}

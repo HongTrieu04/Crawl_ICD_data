@@ -1,0 +1,29 @@
+{
+    "name": "keratosis pilaris atrophicans",
+    "qid": "Q6393662",
+    "icd_10": "L85.8",
+    "description": "human disease",
+    "aliases": [
+        "keratosis pilaris atrophicans"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Keratosis_pilaris_atrophicans",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "ichthyosis",
+                "qid": "Q523893",
+                "url": "https://en.wikipedia.org/wiki/Ichthyosis"
+            },
+            {
+                "name": "keratosis pilaris",
+                "qid": "Q1637035",
+                "url": "https://en.wikipedia.org/wiki/Keratosis_pilaris"
+            },
+            {
+                "name": "autosomal recessive disease",
+                "qid": "Q10267817"
+            }
+        ]
+    }
+}

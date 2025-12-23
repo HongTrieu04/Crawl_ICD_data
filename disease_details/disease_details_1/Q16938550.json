@@ -1,0 +1,41 @@
+{
+    "name": "Refractory anemia with ring sideroblasts",
+    "qid": "Q16938550",
+    "icd_10": "D46.1",
+    "description": "medical condition",
+    "aliases": [
+        "AISA",
+        "MDS-RS",
+        "Myelodysplastic Syndrome with Ring Sideroblasts",
+        "Primary acquired sideroblastic anemia",
+        "Pure Sideroblastic Anemia",
+        "RARS",
+        "Refractory Anemia with Ring Sideroblasts",
+        "Refractory Anemia with Ringed Sideroblasts"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Refractory_anemia_with_ring_sideroblasts",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "anemia",
+                "qid": "Q5445",
+                "url": "https://en.wikipedia.org/wiki/Anemia"
+            },
+            {
+                "name": "myelodysplastic syndrome",
+                "qid": "Q954625",
+                "url": "https://en.wikipedia.org/wiki/Myelodysplastic_syndrome"
+            },
+            {
+                "name": "sideroblastic anaemia P",
+                "qid": "Q2610084",
+                "url": "https://en.wikipedia.org/wiki/Sideroblastic_anemia"
+            },
+            {
+                "name": "refractory anemia",
+                "qid": "Q54971935"
+            }
+        ]
+    }
+}

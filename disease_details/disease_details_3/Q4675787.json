@@ -1,0 +1,25 @@
+{
+    "name": "Acrokeratosis paraneoplastica of Bazex",
+    "qid": "Q4675787",
+    "icd_10": "L85.1",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Paraneoplastic_acrokeratosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "Paraneoplastic keratoderma",
+                "qid": "Q7135462",
+                "url": "https://en.wikipedia.org/wiki/Paraneoplastic_keratoderma"
+            }
+        ]
+    }
+}

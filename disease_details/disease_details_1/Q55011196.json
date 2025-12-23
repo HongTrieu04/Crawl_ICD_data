@@ -1,0 +1,22 @@
+{
+    "name": "grand mal status epilepticus",
+    "qid": "Q55011196",
+    "icd_10": "G41.0",
+    "description": "human disease",
+    "aliases": [
+        "Grand mal status",
+        "Grand mal status, epileptic",
+        "Tonic-clonic status epilepticus"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "status epilepticus",
+                "qid": "Q980709",
+                "url": "https://en.wikipedia.org/wiki/Status_epilepticus"
+            }
+        ]
+    }
+}

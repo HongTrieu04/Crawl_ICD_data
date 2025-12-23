@@ -1,0 +1,35 @@
+{
+    "name": "kidney stone disease",
+    "qid": "Q64691503",
+    "icd_10": "N20.9",
+    "description": "disease",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            },
+            {
+                "name": "nephrology",
+                "qid": "Q177635",
+                "url": "https://en.wikipedia.org/wiki/Nephrology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "kidney stone disease",
+                "qid": "Q178623",
+                "url": "https://en.wikipedia.org/wiki/Kidney_stone_disease"
+            }
+        ]
+    }
+}

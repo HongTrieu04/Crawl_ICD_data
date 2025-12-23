@@ -1,0 +1,38 @@
+{
+    "name": "pleomorphic adenoma",
+    "qid": "Q2064603",
+    "icd_10": "D11",
+    "description": "gastrointestinal benign neoplasm that is a located in the salivary glands",
+    "aliases": [
+        "Adenoma, Pleomorphic",
+        "mixed tumor of the Salivary gland",
+        "Pleomorphic adenoma",
+        "Pleomorphic adenoma (morphologic abnormality)"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pleomorphic%20Adenoma%20Salivary%20gland%2010x.jpg",
+    "url": "https://en.wikipedia.org/wiki/Pleomorphic_adenoma",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "gastrointestinal system benign neoplasm",
+                "qid": "Q18553363"
+            },
+            {
+                "name": "benign neoplasm of salivary gland",
+                "qid": "Q55789644"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ]
+    }
+}

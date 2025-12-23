@@ -1,0 +1,38 @@
+{
+    "name": "scleroderma",
+    "qid": "Q958797",
+    "icd_10": "M34",
+    "description": "rheumatic disease and collagen disease that involves the abnormal growth of connective tissue, which supports the skin and internal organs",
+    "aliases": [
+        "dermatosclerosis",
+        "scleroderma (rheumatic diseases)"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Scleroderma%20-%20UIP%20-%20Honeycomb%20fibrosis%20Case%20221%20%287262028900%29.jpg",
+    "url": "https://en.wikipedia.org/wiki/Scleroderma",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "rheumatism",
+                "qid": "Q684924",
+                "url": "https://en.wikipedia.org/wiki/Rheumatism"
+            },
+            {
+                "name": "collagen disease",
+                "qid": "Q1446169",
+                "url": "https://en.wikipedia.org/wiki/Collagen_disease"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "immunology",
+                "qid": "Q101929",
+                "url": "https://en.wikipedia.org/wiki/Immunology"
+            }
+        ]
+    }
+}

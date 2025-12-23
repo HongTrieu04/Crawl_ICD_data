@@ -1,0 +1,25 @@
+{
+    "name": "Acute posthemorrhagic anemia",
+    "qid": "Q3616628",
+    "icd_10": "D62",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Acute_posthemorrhagic_anemia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "anemia",
+                "qid": "Q5445",
+                "url": "https://en.wikipedia.org/wiki/Anemia"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            }
+        ]
+    }
+}

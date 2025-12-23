@@ -1,0 +1,17 @@
+{
+    "name": "groin strain",
+    "qid": "Q1815815",
+    "icd_10": "S76.2",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "strain",
+                "qid": "Q2402085"
+            }
+        ]
+    }
+}

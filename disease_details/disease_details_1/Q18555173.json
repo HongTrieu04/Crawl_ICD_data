@@ -1,0 +1,36 @@
+{
+    "name": "hepatic vascular disease",
+    "qid": "Q18555173",
+    "icd_10": "K76.1",
+    "description": "vascular disease that is located in the liver",
+    "aliases": [
+        "hepatic vascular disorder",
+        "liver vascular disorder",
+        "vascular disorder of liver",
+        "vascular disorder of liver (disorder)",
+        "vascular disorder of the liver"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "vascular disease",
+                "qid": "Q1266890",
+                "url": "https://en.wikipedia.org/wiki/Vascular_disease"
+            },
+            {
+                "name": "liver disease",
+                "qid": "Q929737",
+                "url": "https://en.wikipedia.org/wiki/Liver_disease"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "liver",
+                "qid": "Q9368",
+                "url": "https://en.wikipedia.org/wiki/Liver"
+            }
+        ]
+    }
+}

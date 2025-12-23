@@ -1,0 +1,28 @@
+{
+    "name": "Hexokinase deficiency",
+    "qid": "Q5749049",
+    "icd_10": "D55.2",
+    "description": "medical condition",
+    "aliases": [
+        "HEMOLYTIC ANEMIA, NONSPHEROCYTIC, DUE TO HEXOKINASE DEFICIENCY",
+        "Hexokinase deficiency hemolytic anemia",
+        "Nonspherocytic hemolytic anemia due to hexokinase deficiency"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hexokinase_deficiency",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "hemolytic anemia due to a disorder of glycolytic enzymes",
+                "qid": "Q55789127"
+            }
+        ]
+    }
+}

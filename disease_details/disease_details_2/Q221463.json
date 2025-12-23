@@ -1,0 +1,43 @@
+{
+    "name": "mesenteric ischemia",
+    "qid": "Q221463",
+    "icd_10": "K55.9",
+    "description": "medical condition",
+    "aliases": [
+        "intestinal infarction",
+        "mesenteric vascular insufficiency"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ischemicbowel.PNG",
+    "url": "https://en.wikipedia.org/wiki/Intestinal_ischemia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "bowel infarction",
+                "qid": "Q4950796",
+                "url": "https://en.wikipedia.org/wiki/Bowel_infarction"
+            },
+            {
+                "name": "infarction",
+                "qid": "Q207550",
+                "url": "https://en.wikipedia.org/wiki/Infarction"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            },
+            {
+                "name": "general surgery",
+                "qid": "Q932510",
+                "url": "https://en.wikipedia.org/wiki/General_surgery"
+            },
+            {
+                "name": "vascular surgery",
+                "qid": "Q1498222",
+                "url": "https://en.wikipedia.org/wiki/Vascular_surgery"
+            }
+        ]
+    }
+}

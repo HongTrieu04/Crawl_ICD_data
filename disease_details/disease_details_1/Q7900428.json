@@ -1,0 +1,24 @@
+{
+    "name": "urethral caruncle",
+    "qid": "Q7900428",
+    "icd_10": "N36.2",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Urethral_caruncle",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "urethral disease",
+                "qid": "Q18557550"
+            }
+        ]
+    }
+}

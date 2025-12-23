@@ -1,0 +1,38 @@
+{
+    "name": "gastric antral vascular ectasia",
+    "qid": "Q1484679",
+    "icd_10": "K31.88",
+    "description": "Human disease",
+    "aliases": [
+        "gastric antral vascular ectasia (disorder)",
+        "GAVE",
+        "Watermelon stomach",
+        "Watermelon stomach (disorder)"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Gastric_antral_vascular_ectasia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "ectasia",
+                "qid": "Q1323709",
+                "url": "https://en.wikipedia.org/wiki/Ectasia"
+            },
+            {
+                "name": "capillary disease",
+                "qid": "Q18554363"
+            },
+            {
+                "name": "vascular ectasia",
+                "qid": "Q55789773"
+            }
+        ]
+    }
+}

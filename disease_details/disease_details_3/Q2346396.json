@@ -1,0 +1,55 @@
+{
+    "name": "iritis",
+    "qid": "Q2346396",
+    "icd_10": "H20.0",
+    "description": "human disease",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "anterior uveitis",
+                "qid": "Q3154357"
+            },
+            {
+                "name": "iris disease",
+                "qid": "Q18555070"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "tropicamide",
+                "qid": "Q29310",
+                "url": "https://en.wikipedia.org/wiki/Tropicamide"
+            },
+            {
+                "name": "adalimumab",
+                "qid": "Q348260",
+                "url": "https://en.wikipedia.org/wiki/Adalimumab"
+            },
+            {
+                "name": "loteprednol etabonate",
+                "qid": "Q3837481",
+                "url": "https://en.wikipedia.org/wiki/Loteprednol_etabonate"
+            },
+            {
+                "name": "prednisolone acetate",
+                "qid": "Q27108063",
+                "url": "https://en.wikipedia.org/wiki/Prednisolone_acetate"
+            }
+        ]
+    }
+}

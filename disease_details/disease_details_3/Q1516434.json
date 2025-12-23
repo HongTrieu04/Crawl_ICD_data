@@ -1,0 +1,20 @@
+{
+    "name": "Infant toxicosis",
+    "qid": "Q1516434",
+    "icd_10": "P74.1",
+    "description": null,
+    "aliases": [
+        "infant dehydration"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "dehydration",
+                "qid": "Q194290",
+                "url": "https://en.wikipedia.org/wiki/Dehydration"
+            }
+        ]
+    }
+}

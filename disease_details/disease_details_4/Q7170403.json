@@ -1,0 +1,27 @@
+{
+    "name": "persistent aura without infarction",
+    "qid": "Q7170403",
+    "icd_10": "G43.5",
+    "description": "disease",
+    "aliases": [
+        "PAWOI"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Persistent_aura_without_infarction",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "migraine",
+                "qid": "Q133823",
+                "url": "https://en.wikipedia.org/wiki/Migraine"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "name": "stomatognathic system abnormality",
+    "qid": "Q54945665",
+    "icd_10": "Q38",
+    "description": "congenital structural abnormalities of the mouth and jaws, including dentition",
+    "aliases": [
+        "stomatognathic system abnormalities"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oral and maxillofacial surgery",
+                "qid": "Q504033",
+                "url": "https://en.wikipedia.org/wiki/Oral_and_maxillofacial_surgery"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "craniofacial abnormality",
+                "qid": "Q5182137",
+                "url": "https://en.wikipedia.org/wiki/Craniofacial_abnormality"
+            },
+            {
+                "name": "congenital physical abnormality",
+                "qid": "Q3281904"
+            },
+            {
+                "name": "stomatognathic disease",
+                "qid": "Q55082545"
+            }
+        ]
+    }
+}

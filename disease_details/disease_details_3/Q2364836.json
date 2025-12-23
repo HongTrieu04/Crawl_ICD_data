@@ -1,0 +1,40 @@
+{
+    "name": "Herpes labialis",
+    "qid": "Q2364836",
+    "icd_10": "B00.1",
+    "description": "Herpes simplex virus that primarily affects the lip",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Herpes%28PHIL%201573%20lores%29.jpg",
+    "url": "https://en.wikipedia.org/wiki/Cold_sore",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            },
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "herpes simplex",
+                "qid": "Q6473911",
+                "url": "https://en.wikipedia.org/wiki/Herpes"
+            },
+            {
+                "name": "lip disease",
+                "qid": "Q18558095"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "lip  blister",
+                "qid": "Q111024595"
+            }
+        ]
+    }
+}

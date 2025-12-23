@@ -1,0 +1,49 @@
+{
+    "name": "tenosynovitis",
+    "qid": "Q1505689",
+    "icd_10": "M65",
+    "description": "inflammation of the fluid-filled sheath (called the synovium) that surrounds a tendon, typically leading to joint pain, swelling, and stiffness",
+    "aliases": [
+        "Inflammation of tendon sheath",
+        "tendon sheath inflammation",
+        "tendon sheathitis",
+        "Tenosynovitides"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tenosynovitis-3.JPG",
+    "url": "https://en.wikipedia.org/wiki/Tenosynovitis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "tendinitis",
+                "qid": "Q499574",
+                "url": "https://en.wikipedia.org/wiki/Tendinitis"
+            },
+            {
+                "name": "synovitis",
+                "qid": "Q538432",
+                "url": "https://en.wikipedia.org/wiki/Synovitis"
+            },
+            {
+                "name": "arthropathy",
+                "qid": "Q708176",
+                "url": "https://en.wikipedia.org/wiki/Arthropathy"
+            },
+            {
+                "name": "tendon sheath disorder",
+                "qid": "Q55790819"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "physical medicine and rehabilitation",
+                "qid": "Q2678675",
+                "url": "https://en.wikipedia.org/wiki/Physical_medicine_and_rehabilitation"
+            }
+        ]
+    }
+}

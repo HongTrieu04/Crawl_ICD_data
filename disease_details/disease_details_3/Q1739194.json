@@ -1,0 +1,22 @@
+{
+    "name": "odontogenic keratocyst",
+    "qid": "Q1739194",
+    "icd_10": "K09.0",
+    "description": "medical condition",
+    "aliases": [
+        "Keratocystic odontogenic tumour",
+        "KTOC",
+        "Odontogenic keratocystoma"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Keratocystic%20odontogenic%20tumour%20-%202%20-%20very%20high%20mag.jpg",
+    "url": "https://en.wikipedia.org/wiki/Odontogenic_keratocyst",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "odontogenic tumor",
+                "qid": "Q7077953",
+                "url": "https://en.wikipedia.org/wiki/Odontogenic_tumor"
+            }
+        ]
+    }
+}

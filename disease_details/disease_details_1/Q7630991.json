@@ -1,0 +1,25 @@
+{
+    "name": "subcutaneous fat necrosis of the newborn",
+    "qid": "Q7630991",
+    "icd_10": "P83.8",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Subcutaneous_fat_necrosis_of_the_newborn",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "pediatrics",
+                "qid": "Q123028",
+                "url": "https://en.wikipedia.org/wiki/Pediatrics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "fat necrosis",
+                "qid": "Q5437240",
+                "url": "https://en.wikipedia.org/wiki/Fat_necrosis"
+            }
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "name": "intestinal tuberculosis",
+    "qid": "Q1166500",
+    "icd_10": "A18.3",
+    "description": "human disease",
+    "aliases": [
+        "intestine tuberculosis",
+        "tuberculosis of intestine"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Symptoms": [
+            {
+                "name": "vomiting",
+                "qid": "Q127076",
+                "url": "https://en.wikipedia.org/wiki/Vomiting"
+            },
+            {
+                "name": "bleeding",
+                "qid": "Q166019",
+                "url": "https://en.wikipedia.org/wiki/Bleeding"
+            },
+            {
+                "name": "nausea",
+                "qid": "Q186889",
+                "url": "https://en.wikipedia.org/wiki/Nausea"
+            },
+            {
+                "name": "gastrointestinal bleeding",
+                "qid": "Q1495657",
+                "url": "https://en.wikipedia.org/wiki/Gastrointestinal_bleeding"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "intestinal disease",
+                "qid": "Q3055380",
+                "url": "https://en.wikipedia.org/wiki/Enteropathy"
+            },
+            {
+                "name": "gastrointestinal tuberculosis",
+                "qid": "Q18556166"
+            }
+        ]
+    }
+}

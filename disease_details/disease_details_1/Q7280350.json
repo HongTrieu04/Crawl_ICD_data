@@ -1,0 +1,41 @@
+{
+    "name": "Radiation enteropathy",
+    "qid": "Q7280350",
+    "icd_10": "K92.0",
+    "description": "syndrome that may develop following abdominal or pelvic radiation therapy for cancer.",
+    "aliases": [
+        "radiation enteritis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Radiation_enteropathy",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            },
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            },
+            {
+                "name": "surgery",
+                "qid": "Q40821",
+                "url": "https://en.wikipedia.org/wiki/Surgery"
+            },
+            {
+                "name": "Gastrointestinal radiation injury",
+                "qid": "Q2352982"
+            }
+        ]
+    }
+}

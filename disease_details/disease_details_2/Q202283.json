@@ -1,0 +1,29 @@
+{
+    "name": "acrocyanosis",
+    "qid": "Q202283",
+    "icd_10": "I73.8",
+    "description": "vascular disease",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cynosis.JPG",
+    "url": "https://en.wikipedia.org/wiki/Acrocyanosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "cyanosis",
+                "qid": "Q192120",
+                "url": "https://en.wikipedia.org/wiki/Cyanosis"
+            },
+            {
+                "name": "vascular disease of the extremities",
+                "qid": "Q2823517"
+            }
+        ]
+    }
+}

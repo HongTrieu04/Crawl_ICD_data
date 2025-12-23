@@ -1,0 +1,30 @@
+{
+    "name": "non-gonococcal urethritis",
+    "qid": "Q517306",
+    "icd_10": "N34.1",
+    "description": "inflammation of the urethra",
+    "aliases": [
+        "NGU",
+        "idiopathic urethritis",
+        "non-specific urethritis",
+        "nongonococcal urethritis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Non-gonococcal_urethritis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "urethritis",
+                "qid": "Q1122485",
+                "url": "https://en.wikipedia.org/wiki/Urethritis"
+            }
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "name": "angioimmunoblastic T-cell lymphoma",
+    "qid": "Q4763257",
+    "icd_10": "C86.5",
+    "description": "peripheral T-cell lymphoma characterized by autoimmune features and poor prognosis",
+    "aliases": [
+        "Angioimmunoblastic T-cell lymphoma"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Angioimmunoblastic_T-cell_lymphoma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "peripheral T-cell lymphoma",
+                "qid": "Q7168693",
+                "url": "https://en.wikipedia.org/wiki/Peripheral_T-cell_lymphoma"
+            },
+            {
+                "name": "T-cell lymphoma",
+                "qid": "Q7667896",
+                "url": "https://en.wikipedia.org/wiki/T-cell_lymphoma"
+            },
+            {
+                "name": "immunoblastic lymphadenopathy",
+                "qid": "Q55093037"
+            }
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "name": "XYY syndrome",
+    "qid": "Q267602",
+    "icd_10": "Q98.5",
+    "description": "genetic condition in which a male has an extra Y chromosome",
+    "aliases": [
+        "47,XYY",
+        "47,XYY Syndrome",
+        "Disomy Y",
+        "Double Y",
+        "Double Y syndrome",
+        "Jacobs syndrome",
+        "XYY Karyotype",
+        "XYY Syndrome",
+        "Y disomy",
+        "47,XYY syndrome"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Amniocentesis%20results%20showing%2047%2C%20XYY%20karyotype.png",
+    "url": "https://en.wikipedia.org/wiki/XYY_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "sex chromosome disorder",
+                "qid": "Q7458487",
+                "url": "https://en.wikipedia.org/wiki/Sex_chromosome_anomalies"
+            },
+            {
+                "name": "Y chromosome number anomaly",
+                "qid": "Q55786719"
+            }
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name": "xerostomia",
+    "qid": "Q1162276",
+    "icd_10": "R68.2",
+    "description": "medical condition",
+    "aliases": [
+        "dm",
+        "dry mouth",
+        "dry mouth syndrome",
+        "mouth dryness"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Xerostomia%20-%20Dry%20Mouth.jpg",
+    "url": "https://en.wikipedia.org/wiki/Xerostomia",
+    "details": {
+        "Cause": [
+            {
+                "name": "hyposalivation",
+                "qid": "Q2866610"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "dry throat",
+                "qid": "Q21120220"
+            }
+        ]
+    }
+}

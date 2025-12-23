@@ -1,0 +1,33 @@
+{
+    "name": "complete androgen insensitivity syndrome",
+    "qid": "Q473262",
+    "icd_10": "E34.1",
+    "description": "intersex variation where one has no response to androgens and is born with a vulva and clitoris",
+    "aliases": [
+        "CAIS",
+        "complete androgen resistance syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Complete_androgen_insensitivity_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gynaecology",
+                "qid": "Q1221899",
+                "url": "https://en.wikipedia.org/wiki/Gynaecology"
+            },
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "androgen insensitivity syndrome",
+                "qid": "Q512313",
+                "url": "https://en.wikipedia.org/wiki/Androgen_insensitivity_syndrome"
+            }
+        ]
+    }
+}

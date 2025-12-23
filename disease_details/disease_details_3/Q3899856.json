@@ -1,0 +1,20 @@
+{
+    "name": "adhesive pericarditis",
+    "qid": "Q3899856",
+    "icd_10": "I31.0",
+    "description": null,
+    "aliases": [
+        "Fibrosis of pericardium"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "pericarditis",
+                "qid": "Q501561",
+                "url": "https://en.wikipedia.org/wiki/Pericarditis"
+            }
+        ]
+    }
+}

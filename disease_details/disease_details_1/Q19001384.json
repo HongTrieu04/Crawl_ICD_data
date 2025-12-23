@@ -1,0 +1,30 @@
+{
+    "name": "Retracted nipple associated with childbirth",
+    "qid": "Q19001384",
+    "icd_10": "O92.0",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete Retracted nipple associated with childbirth"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "inverted nipple",
+                "qid": "Q1720711",
+                "url": "https://en.wikipedia.org/wiki/Inverted_nipple"
+            },
+            {
+                "name": "breast disease",
+                "qid": "Q4959796",
+                "url": "https://en.wikipedia.org/wiki/Breast_disease"
+            },
+            {
+                "name": "puerperal disorders",
+                "qid": "Q7258523",
+                "url": "https://en.wikipedia.org/wiki/Postpartum_disorder"
+            }
+        ]
+    }
+}

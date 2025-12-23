@@ -1,0 +1,24 @@
+{
+    "name": "pneumatocele",
+    "qid": "Q7205984",
+    "icd_10": "G93.88",
+    "description": "a cavity in the lung parenchyma",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pneumatocele",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "lung disease",
+                "qid": "Q3392853"
+            }
+        ]
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "name": "tension headache",
+    "qid": "Q1338684",
+    "icd_10": "G44.2",
+    "description": "common type of headache classified by The International Classification of Headache Disorders 3rd edition",
+    "aliases": [
+        "tension-type headache"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Tension_headache",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "amitriptyline",
+                "qid": "Q58397",
+                "url": "https://en.wikipedia.org/wiki/Amitriptyline"
+            },
+            {
+                "name": "aspirin",
+                "qid": "Q18216",
+                "url": "https://en.wikipedia.org/wiki/Aspirin"
+            },
+            {
+                "name": "ibuprofen",
+                "qid": "Q186969",
+                "url": "https://en.wikipedia.org/wiki/Ibuprofen"
+            },
+            {
+                "name": "paracetamol",
+                "qid": "Q57055",
+                "url": "https://en.wikipedia.org/wiki/Paracetamol"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "analgesic",
+                "qid": "Q173235",
+                "url": "https://en.wikipedia.org/wiki/Analgesic"
+            },
+            {
+                "name": "tricyclic antidepressant",
+                "qid": "Q908843",
+                "url": "https://en.wikipedia.org/wiki/Tricyclic_antidepressant"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "unknown",
+                "qid": "Q24238356"
+            }
+        ]
+    }
+}

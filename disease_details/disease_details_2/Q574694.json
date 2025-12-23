@@ -1,0 +1,53 @@
+{
+    "name": "pseudomyxoma peritonei",
+    "qid": "Q574694",
+    "icd_10": "C78.6",
+    "description": "appendix cancer that is characterized by progressive accumulation of mucus-secreting tumor cells within the abdomen and pelvis",
+    "aliases": [
+        "PMP",
+        "Adenomucinosis",
+        "Gelatinous Ascites",
+        "mucinous Ascites",
+        "Myxoma Peritonei",
+        "Peritoneal Cavity Pseudomyxoma Peritonei",
+        "Pseudomyxoma peritonei",
+        "Pseudomyxoma peritonei (disorder)",
+        "Pseudomyxoma peritonei (morphologic abnormality)",
+        "Well Differentiated Peritoneal Mucinous Adenocarcinoma"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pseudomyxoma.jpg",
+    "url": "https://en.wikipedia.org/wiki/Pseudomyxoma_peritonei",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "appendix cancer",
+                "qid": "Q4781026",
+                "url": "https://en.wikipedia.org/wiki/Appendix_cancer"
+            },
+            {
+                "name": "peritoneal neoplasm",
+                "qid": "Q19000425"
+            },
+            {
+                "name": "primary peritoneal tumor",
+                "qid": "Q55785645"
+            },
+            {
+                "name": "mucinous adenocarcinoma of the appendix",
+                "qid": "Q55787959"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ]
+    }
+}

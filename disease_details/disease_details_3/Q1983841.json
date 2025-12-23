@@ -1,0 +1,45 @@
+{
+    "name": "viral hepatitis",
+    "qid": "Q1983841",
+    "icd_10": "B19",
+    "description": "liver inflammation due to a viral infection",
+    "aliases": [
+        "human viral hepatitis",
+        "unspecified viral hepatitis with hepatic coma",
+        "viral hepatitis with hepatic coma",
+        "viral hepatitis with hepatic coma (disorder)"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Viral_hepatitis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "viral infectious disease",
+                "qid": "Q1928978",
+                "url": "https://en.wikipedia.org/wiki/Viral_disease"
+            },
+            {
+                "name": "hepatitis",
+                "qid": "Q131742",
+                "url": "https://en.wikipedia.org/wiki/Hepatitis"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            },
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

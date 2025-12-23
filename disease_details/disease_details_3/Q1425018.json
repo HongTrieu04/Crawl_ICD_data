@@ -1,0 +1,87 @@
+{
+    "name": "Pallister–Killian syndrome",
+    "qid": "Q1425018",
+    "icd_10": "Q99.8",
+    "description": "rare disease",
+    "aliases": [
+        "PKS",
+        "Hexasomy 12P, Mosaic",
+        "Isochromosome 12p mosaicism",
+        "Isochromosome 12p syndrome",
+        "Pallister mosaic aneuploidy syndrome",
+        "Pallister-Killian syndrome",
+        "PALLISTER-KILLIAN SYNDROME; PKS",
+        "tetrasomy 12p mosaicism",
+        "Tetrasomy 12P, Mosaic",
+        "Tetrasomy type 12p"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pallister%E2%80%93Killian_syndrome",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "epilepsy",
+                "qid": "Q41571",
+                "url": "https://en.wikipedia.org/wiki/Epilepsy"
+            },
+            {
+                "name": "hypotonia",
+                "qid": "Q1753547",
+                "url": "https://en.wikipedia.org/wiki/Hypotonia"
+            },
+            {
+                "name": "diaphragmatic hernia",
+                "qid": "Q2119430",
+                "url": "https://en.wikipedia.org/wiki/Diaphragmatic_hernia"
+            },
+            {
+                "name": "developmental language disorder",
+                "qid": "Q2313089",
+                "url": "https://en.wikipedia.org/wiki/Developmental_language_disorder"
+            },
+            {
+                "name": "polydactyly",
+                "qid": "Q371520",
+                "url": "https://en.wikipedia.org/wiki/Polydactyly"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "tetrasomy",
+                "qid": "Q906664",
+                "url": "https://en.wikipedia.org/wiki/Tetrasomy"
+            },
+            {
+                "name": "syndromic diaphragmatic or abdominal wall malformation",
+                "qid": "Q55785334"
+            },
+            {
+                "name": "syndromic anorectal malformation",
+                "qid": "Q55785353"
+            },
+            {
+                "name": "chromosomal anomaly with epilepsy as a major feature",
+                "qid": "Q55785627"
+            },
+            {
+                "name": "syndromic diaphragmatic or thoracic malformation",
+                "qid": "Q55785792"
+            },
+            {
+                "name": "partial trisomy/tetrasomy of the short arm of chromosome 12",
+                "qid": "Q55786641"
+            },
+            {
+                "name": "chromosomal disease with overgrowth",
+                "qid": "Q55788828"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

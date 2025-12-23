@@ -1,0 +1,89 @@
+{
+    "name": "erysipelothrix rhusiopathiae infectious disease",
+    "qid": "Q1607983",
+    "icd_10": "A26",
+    "description": "disease affecting human and livestock",
+    "aliases": [
+        "swine erysipelas",
+        "erysipeloid",
+        "Infection due to E. rhusiopathiae",
+        "Infection due to Erysipelothrix rhusiopathiae"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rouget%20humain.png",
+    "url": "https://en.wikipedia.org/wiki/Erysipeloid",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "primary bacterial infectious disease",
+                "qid": "Q18553247"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "ceftriaxone",
+                "qid": "Q421713",
+                "url": "https://en.wikipedia.org/wiki/Ceftriaxone"
+            },
+            {
+                "name": "clindamycin",
+                "qid": "Q422273",
+                "url": "https://en.wikipedia.org/wiki/Clindamycin"
+            },
+            {
+                "name": "amoxicillin",
+                "qid": "Q201928",
+                "url": "https://en.wikipedia.org/wiki/Amoxicillin"
+            },
+            {
+                "name": "benzylpenicillin",
+                "qid": "Q258450",
+                "url": "https://en.wikipedia.org/wiki/Benzylpenicillin"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "erythema",
+                "qid": "Q1166142",
+                "url": "https://en.wikipedia.org/wiki/Erythema"
+            },
+            {
+                "name": "lymphangitis",
+                "qid": "Q1476027",
+                "url": "https://en.wikipedia.org/wiki/Lymphangitis"
+            },
+            {
+                "name": "lymphadenopathy",
+                "qid": "Q847726",
+                "url": "https://en.wikipedia.org/wiki/Lymphadenopathy"
+            },
+            {
+                "name": "papule",
+                "qid": "Q997862",
+                "url": "https://en.wikipedia.org/wiki/Papule"
+            },
+            {
+                "name": "low-grade fever",
+                "qid": "Q480971"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Erysipelothrix rhusiopathiae",
+                "qid": "Q2346390",
+                "url": "https://en.wikipedia.org/wiki/Erysipelothrix_rhusiopathiae"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

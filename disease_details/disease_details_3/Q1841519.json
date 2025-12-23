@@ -1,0 +1,23 @@
+{
+    "name": "face presentation",
+    "qid": "Q1841519",
+    "icd_10": "O64.2",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "obstructed labor",
+                "qid": "Q1811189",
+                "url": "https://en.wikipedia.org/wiki/Obstructed_labour"
+            },
+            {
+                "name": "cephalic presentation",
+                "qid": "Q2258214",
+                "url": "https://en.wikipedia.org/wiki/Cephalic_presentation"
+            }
+        ]
+    }
+}

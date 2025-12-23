@@ -1,0 +1,27 @@
+{
+    "name": "hernia",
+    "qid": "Q133076",
+    "icd_10": "K46",
+    "description": "abnormal exit of tissue or an organ through the wall of the cavity in which it normally resides",
+    "aliases": [
+        "Hernia"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hernia%20de%20Morgani.JPG",
+    "url": "https://en.wikipedia.org/wiki/Hernia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "general surgery",
+                "qid": "Q932510",
+                "url": "https://en.wikipedia.org/wiki/General_surgery"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            }
+        ]
+    }
+}

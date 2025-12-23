@@ -1,0 +1,35 @@
+{
+    "name": "antepartum deep vein thrombosis",
+    "qid": "Q18975662",
+    "icd_10": "O22.3",
+    "description": "Human disease",
+    "aliases": [
+        "Antenatal deep vein thrombosis",
+        "Antenatal deep vein thrombosis NOS (disorder)",
+        "Antenatal deep vein thrombosis unspecified (disorder)",
+        "Antepartum deep phlebothrombosis (disorder)",
+        "antepartum deep-vein thrombosis",
+        "Deep phlebothrombosis, antepartum",
+        "Deep phlebothrombosis, antepartum, unspecified as to episode of care",
+        "Deep phlebothrombosis, antepartum, with delivery",
+        "Deep phlebothrombosis, postpartum, with delivery",
+        "obsolete venous problem",
+        "postpartum deep-vein thrombosis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "deep vein thrombosis",
+                "qid": "Q1762339",
+                "url": "https://en.wikipedia.org/wiki/Deep_vein_thrombosis"
+            },
+            {
+                "name": "complications of pregnancy",
+                "qid": "Q2916477",
+                "url": "https://en.wikipedia.org/wiki/Complications_of_pregnancy"
+            }
+        ]
+    }
+}

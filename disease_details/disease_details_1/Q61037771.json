@@ -1,0 +1,34 @@
+{
+    "name": "car collision",
+    "qid": "Q61037771",
+    "icd_10": "V49.9",
+    "description": "traffic collision involving at least one car",
+    "aliases": [
+        "car accident",
+        "car crash",
+        "car wreck",
+        "accident with automobile",
+        "auto accident",
+        "automobile accident",
+        "automobile collision",
+        "car smash"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Car%20on%20Fire.jpg",
+    "url": null,
+    "details": {
+        "Cause": [
+            {
+                "name": "car",
+                "qid": "Q1420",
+                "url": "https://en.wikipedia.org/wiki/Car"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "traffic collision",
+                "qid": "Q9687",
+                "url": "https://en.wikipedia.org/wiki/Traffic_collision"
+            }
+        ]
+    }
+}

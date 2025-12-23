@@ -1,0 +1,27 @@
+{
+    "name": "cerebroretinal microangiopathy with calcifications and cysts",
+    "qid": "Q5064109",
+    "icd_10": "H35.0",
+    "description": "medical condition",
+    "aliases": [
+        "CRMCC",
+        "Coats plus syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Cerebroretinal_microangiopathy_with_calcifications_and_cysts",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "retinal vascular disease",
+                "qid": "Q12195125"
+            }
+        ]
+    }
+}

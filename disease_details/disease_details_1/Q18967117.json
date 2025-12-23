@@ -1,0 +1,23 @@
+{
+    "name": "diphtheritic membranous angina",
+    "qid": "Q18967117",
+    "icd_10": "A36.0",
+    "description": "Human disease",
+    "aliases": [
+        "Faucial diphtheria",
+        "Faucial Diphtheria",
+        "Faucial diphtheria (disorder)",
+        "obsolete diphtheritic membranous angina"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "diphtheria",
+                "qid": "Q134649",
+                "url": "https://en.wikipedia.org/wiki/Diphtheria"
+            }
+        ]
+    }
+}

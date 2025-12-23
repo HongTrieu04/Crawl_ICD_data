@@ -1,0 +1,29 @@
+{
+    "name": "amputee",
+    "qid": "Q57951251",
+    "icd_10": "Z89",
+    "description": "person with amputation",
+    "aliases": [
+        "amputees",
+        "amputation patient",
+        "limb loss patient",
+        "person with limb differences",
+        "person with limb loss"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/President%20Joe%20Biden%20visits%20Walter%20Reed%20%2804%29.jpg",
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "medical state",
+                "qid": "Q6806605",
+                "url": "https://en.wikipedia.org/wiki/Medical_state"
+            },
+            {
+                "name": "person with disabilities",
+                "qid": "Q10857933",
+                "url": "https://en.wikipedia.org/wiki/Person_with_disabilities"
+            }
+        ]
+    }
+}

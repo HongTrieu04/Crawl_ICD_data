@@ -1,0 +1,36 @@
+{
+    "name": "drug eruption",
+    "qid": "Q718675",
+    "icd_10": "L27.0",
+    "description": "adverse drug reaction of the skin",
+    "aliases": [
+        "drug eruptions"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Drug_eruption",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "exanthem",
+                "qid": "Q14509067",
+                "url": "https://en.wikipedia.org/wiki/Exanthem"
+            },
+            {
+                "name": "adverse drug reaction",
+                "qid": "Q45959",
+                "url": "https://en.wikipedia.org/wiki/Adverse_drug_reaction"
+            },
+            {
+                "name": "toxic dermatosis",
+                "qid": "Q55787028"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ]
+    }
+}

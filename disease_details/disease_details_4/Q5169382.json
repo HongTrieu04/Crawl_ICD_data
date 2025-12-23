@@ -1,0 +1,29 @@
+{
+    "name": "cor triatriatum",
+    "qid": "Q5169382",
+    "icd_10": "Q24.2",
+    "description": "congenital heart defect where the left atrium (cor triatriatum sinistrum) or right atrium (cor triatriatum dextrum) is subdivided by a thin membrane, resulting in three atrial chambers",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Cor_triatriatum",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "congenital heart disease",
+                "qid": "Q939364",
+                "url": "https://en.wikipedia.org/wiki/Congenital_heart_defect"
+            },
+            {
+                "name": "atrial defect and interatrial communication",
+                "qid": "Q55789286"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

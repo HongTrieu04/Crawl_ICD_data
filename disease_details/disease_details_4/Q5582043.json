@@ -1,0 +1,26 @@
+{
+    "name": "Gonococcemia",
+    "qid": "Q5582043",
+    "icd_10": "A54.8",
+    "description": "medical condition",
+    "aliases": [
+        "Disseminated gonococcal infection"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Gonococcemia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "gonococcal infectious diseases",
+                "qid": "Q26695958"
+            }
+        ]
+    }
+}

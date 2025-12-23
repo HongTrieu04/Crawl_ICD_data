@@ -1,0 +1,68 @@
+{
+    "name": "mastitis",
+    "qid": "Q835061",
+    "icd_10": "N61",
+    "description": "inflammation of the breast",
+    "aliases": [
+        "breast infection",
+        "breast inflammation",
+        "breast inflammation NOS",
+        "breast inflammation NOS (disorder)",
+        "breastitis",
+        "Inflammatory breast disease",
+        "Inflammatory disease of breast",
+        "Inflammatory disorder of breast (disorder)"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Atlas%20of%20clinical%20surgery%3B%20with%20special%20reference%20to%20diagnosis%20and%20treatment%20for%20practitioners%20and%20students%20%281908%29%20%2814768289625%29.jpg",
+    "url": "https://en.wikipedia.org/wiki/Mastitis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "breast disease",
+                "qid": "Q4959796",
+                "url": "https://en.wikipedia.org/wiki/Breast_disease"
+            },
+            {
+                "name": "breastfeeding difficulties",
+                "qid": "Q4959811",
+                "url": "https://en.wikipedia.org/wiki/Breastfeeding_difficulties"
+            },
+            {
+                "name": "reproductive system disease",
+                "qid": "Q7314317",
+                "url": "https://en.wikipedia.org/wiki/Reproductive_system_disease"
+            },
+            {
+                "name": "inflammatory disease",
+                "qid": "Q3508753"
+            },
+            {
+                "name": "skin and integumentary tissue symptom",
+                "qid": "Q100751718"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gynaecology",
+                "qid": "Q1221899",
+                "url": "https://en.wikipedia.org/wiki/Gynaecology"
+            },
+            {
+                "name": "family medicine",
+                "qid": "Q3505712",
+                "url": "https://en.wikipedia.org/wiki/Family_medicine"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "novobiocin sodium",
+                "qid": "Q27114724"
+            }
+        ]
+    }
+}

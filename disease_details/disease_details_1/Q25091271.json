@@ -1,0 +1,19 @@
+{
+    "name": "Birth injury",
+    "qid": "Q25091271",
+    "icd_10": "P15.9",
+    "description": "Cerebro-spinal injuries to the foetus occuring during delivery",
+    "aliases": [
+        "Birth trauma"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Birth_injury",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "perinatal disease",
+                "qid": "Q18968218"
+            }
+        ]
+    }
+}

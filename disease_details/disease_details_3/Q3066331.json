@@ -1,0 +1,29 @@
+{
+    "name": "Bitot's spots",
+    "qid": "Q3066331",
+    "icd_10": "E50.1",
+    "description": "buildup of keratin located superficially in the conjunctiva",
+    "aliases": [
+        "obsolete vitamin A deficiency with conjunctival xerosis and Bitot's spot",
+        "vitamin A deficiency with Bitot's spot AND conjunctival xerosis (disorder)",
+        "vitamin A deficiency with Bitot's spot AND conjunctival xerosis [dup] (disorder)",
+        "vitamin A deficiency with conjunctival xerosis and Bitot's spot"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bitot%20spot%20svg%20hariadhi.svg",
+    "url": "https://en.wikipedia.org/wiki/Bitot%27s_spots",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "vitamin A deficiency with conjunctival xerosis",
+                "qid": "Q18966294"
+            }
+        ]
+    }
+}

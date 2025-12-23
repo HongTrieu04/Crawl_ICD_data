@@ -1,0 +1,19 @@
+{
+    "name": "perinatal digestive system disorder",
+    "qid": "Q18968233",
+    "icd_10": "P78.9",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete perinatal digestive system disorder"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "perinatal disease",
+                "qid": "Q18968218"
+            }
+        ]
+    }
+}

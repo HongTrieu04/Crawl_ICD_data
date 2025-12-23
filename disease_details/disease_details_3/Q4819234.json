@@ -1,0 +1,18 @@
+{
+    "name": "management of baldness",
+    "qid": "Q4819234",
+    "icd_10": "L65.9",
+    "description": "the active process of managing the loss of hair in select areas of the scale, beard, neck or on the body. Often in the form of DHT blocking, surgical treatments, or other forms of therapy to manage and mitigate hair decline.",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Management_of_hair_loss",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "medical treatment",
+                "qid": "Q179661",
+                "url": "https://en.wikipedia.org/wiki/Therapy"
+            }
+        ]
+    }
+}

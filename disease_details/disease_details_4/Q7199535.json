@@ -1,0 +1,40 @@
+{
+    "name": "Pituicytoma",
+    "qid": "Q7199535",
+    "icd_10": "C75.1",
+    "description": "medical condition",
+    "aliases": [
+        "Pituicytoma (WHO Grade I)",
+        "Posterior Pituitary Astrocytoma"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pituicytoma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "astrocytoma",
+                "qid": "Q177755",
+                "url": "https://en.wikipedia.org/wiki/Astrocytoma"
+            },
+            {
+                "name": "diencephalic astrocytoma",
+                "qid": "Q18556505"
+            },
+            {
+                "name": "posterior pituitary gland neoplasm",
+                "qid": "Q18556601"
+            },
+            {
+                "name": "low-grade astrocytoma",
+                "qid": "Q55786374"
+            }
+        ]
+    }
+}

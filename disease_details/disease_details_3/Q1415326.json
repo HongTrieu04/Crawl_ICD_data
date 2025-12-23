@@ -1,0 +1,32 @@
+{
+    "name": "Sever's disease",
+    "qid": "Q1415326",
+    "icd_10": "M92.6",
+    "description": "medical condition",
+    "aliases": [
+        "Calcaneal apophysitis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gray1241.png",
+    "url": "https://en.wikipedia.org/wiki/Sever%27s_disease",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "osteochondrosis",
+                "qid": "Q1154055",
+                "url": "https://en.wikipedia.org/wiki/Osteochondrosis"
+            },
+            {
+                "name": "foot diseases",
+                "qid": "Q5282137",
+                "url": "https://en.wikipedia.org/wiki/Diseases_of_the_foot"
+            }
+        ]
+    }
+}

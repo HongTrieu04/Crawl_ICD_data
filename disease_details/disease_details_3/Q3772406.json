@@ -1,0 +1,39 @@
+{
+    "name": "mesangial proliferative glomerulonephritis",
+    "qid": "Q3772406",
+    "icd_10": "N00.3",
+    "description": "glomerulonephritis associated primarily with the mesangium",
+    "aliases": [
+        "Glomerulonephritis - mesangial proliferative",
+        "lupus nephritis class 2",
+        "Mesangial proliferative GN",
+        "Mesangioproliferative glomerulonephritis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Mesangial_proliferative_glomerulonephritis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "lupus nephritis",
+                "qid": "Q1621830",
+                "url": "https://en.wikipedia.org/wiki/Lupus_nephritis"
+            },
+            {
+                "name": "glomerulonephritis",
+                "qid": "Q605006",
+                "url": "https://en.wikipedia.org/wiki/Glomerulonephritis"
+            },
+            {
+                "name": "proliferative glomerulonephritis",
+                "qid": "Q18556474"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "nephrology",
+                "qid": "Q177635",
+                "url": "https://en.wikipedia.org/wiki/Nephrology"
+            }
+        ]
+    }
+}

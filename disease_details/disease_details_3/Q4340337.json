@@ -1,0 +1,36 @@
+{
+    "name": "ophthalmomyiasis",
+    "qid": "Q4340337",
+    "icd_10": "B87.2",
+    "description": "myiasis that involves parasitic infestation of Oestrus ovis larvae in the eye causing severe irritation, edema, and pain",
+    "aliases": [
+        "ophthalmic myiasis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "myiasis",
+                "qid": "Q304601",
+                "url": "https://en.wikipedia.org/wiki/Myiasis"
+            },
+            {
+                "name": "eye disease",
+                "qid": "Q3041498",
+                "url": "https://en.wikipedia.org/wiki/Eye_disease"
+            },
+            {
+                "name": "parasitic eye infection",
+                "qid": "Q54514255"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

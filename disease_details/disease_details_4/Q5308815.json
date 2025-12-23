@@ -1,0 +1,30 @@
+{
+    "name": "Drug-induced nonautoimmune hemolytic anemia",
+    "qid": "Q5308815",
+    "icd_10": "D59.2",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Drug-induced_nonautoimmune_hemolytic_anemia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "Acquired hemolytic anemia",
+                "qid": "Q4674774",
+                "url": "https://en.wikipedia.org/wiki/Acquired_hemolytic_anemia"
+            },
+            {
+                "name": "adverse drug reaction",
+                "qid": "Q45959",
+                "url": "https://en.wikipedia.org/wiki/Adverse_drug_reaction"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            }
+        ]
+    }
+}

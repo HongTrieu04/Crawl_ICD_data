@@ -1,0 +1,25 @@
+{
+    "name": "multiple primary neoplasms",
+    "qid": "Q11793793",
+    "icd_10": "C97",
+    "description": "two or more abnormal growths of tissue occurring simultaneously and presumed to be of separate origin",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "cancer",
+                "qid": "Q12078",
+                "url": "https://en.wikipedia.org/wiki/Cancer"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ]
+    }
+}

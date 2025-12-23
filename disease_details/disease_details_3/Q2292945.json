@@ -1,0 +1,54 @@
+{
+    "name": "papillary thyroid cancer",
+    "qid": "Q2292945",
+    "icd_10": "C73",
+    "description": "thyroid carcinoma that is characterized by the small mushroom shape of the tumor which has a stem attached to the epithelial layer",
+    "aliases": [
+        "Papillary Cancer of the Thyroid",
+        "Papillary Cancer of the Thyroid Gland",
+        "Papillary Cancer of Thyroid",
+        "Papillary Cancer of Thyroid Gland",
+        "Papillary Carcinoma of the Thyroid",
+        "Papillary carcinoma of the Thyroid gland",
+        "Papillary Carcinoma of Thyroid",
+        "Papillary Carcinoma of Thyroid Gland",
+        "Papillary Thyroid Cancer",
+        "papillary thyroid carcinoma",
+        "Papillary Thyroid Gland Carcinoma",
+        "Thyroid Gland Papillary Cancer",
+        "Thyroid Gland Papillary Carcinoma",
+        "Thyroid Papillary Carcinoma"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cytopathology%20of%20papillary%20thyroid%20carcinoma.png",
+    "url": "https://en.wikipedia.org/wiki/Papillary_thyroid_cancer",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "thyroid nodule",
+                "qid": "Q53829",
+                "url": "https://en.wikipedia.org/wiki/Thyroid_nodule"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "papillary carcinoma",
+                "qid": "Q18555294"
+            },
+            {
+                "name": "thyroid carcinoma",
+                "qid": "Q18556131"
+            },
+            {
+                "name": "differentiated thyroid carcinoma",
+                "qid": "Q56013722"
+            }
+        ]
+    }
+}

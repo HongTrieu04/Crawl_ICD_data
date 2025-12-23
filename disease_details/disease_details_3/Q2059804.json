@@ -1,0 +1,28 @@
+{
+    "name": "pellucid marginal degeneration",
+    "qid": "Q2059804",
+    "icd_10": "H18.7",
+    "description": "degenerative corneal condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pellucid_marginal_degeneration",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "corneal degeneration",
+                "qid": "Q18554311"
+            },
+            {
+                "name": "rare acquired eye disease",
+                "qid": "Q55785265"
+            }
+        ]
+    }
+}

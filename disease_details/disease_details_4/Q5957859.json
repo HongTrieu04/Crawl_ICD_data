@@ -1,0 +1,29 @@
+{
+    "name": "hypercoagulability in pregnancy",
+    "qid": "Q5957859",
+    "icd_10": "O99.1",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hypercoagulability_in_pregnancy",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "thrombophilia",
+                "qid": "Q1570013",
+                "url": "https://en.wikipedia.org/wiki/Thrombophilia"
+            },
+            {
+                "name": "hematologic pregnancy complication",
+                "qid": "Q18967181"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "obstetrics",
+                "qid": "Q5284418",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics"
+            }
+        ]
+    }
+}

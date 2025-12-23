@@ -1,0 +1,32 @@
+{
+    "name": "endemic African Kaposi's sarcoma",
+    "qid": "Q18967342",
+    "icd_10": "C46.0",
+    "description": "Kaposi's sarcoma that is located in black Africans",
+    "aliases": [
+        "African cutaneous Kaposi sarcoma",
+        "African Kaposi sarcoma",
+        "African/endemic Kaposi sarcoma",
+        "endemic African Kaposi sarcoma",
+        "endemic Kaposi sarcoma",
+        "obsolete endemic African Kaposi's sarcoma"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/African_cutaneous_Kaposi_sarcoma",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "Kaposi's sarcoma",
+                "qid": "Q725345",
+                "url": "https://en.wikipedia.org/wiki/Kaposi%27s_sarcoma"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ]
+    }
+}

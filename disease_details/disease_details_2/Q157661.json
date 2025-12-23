@@ -1,0 +1,99 @@
+{
+    "name": "hepatitis A",
+    "qid": "Q157661",
+    "icd_10": "B15",
+    "description": "acute infectious disease of the liver",
+    "aliases": [
+        "Hepatitis A Infection",
+        "hepatitis type A",
+        "Viral hepatitis A",
+        "Viral hepatitis, type A"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hepatitis%20A%20virus%2001.jpg",
+    "url": "https://en.wikipedia.org/wiki/Hepatitis_A",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "waterborne disease",
+                "qid": "Q2006636",
+                "url": "https://en.wikipedia.org/wiki/Waterborne_disease"
+            },
+            {
+                "name": "viral infectious disease",
+                "qid": "Q1928978",
+                "url": "https://en.wikipedia.org/wiki/Viral_disease"
+            },
+            {
+                "name": "viral hepatitis",
+                "qid": "Q1983841",
+                "url": "https://en.wikipedia.org/wiki/Viral_hepatitis"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "hepatitis",
+                "qid": "Q131742",
+                "url": "https://en.wikipedia.org/wiki/Hepatitis"
+            },
+            {
+                "name": "vomiting",
+                "qid": "Q127076",
+                "url": "https://en.wikipedia.org/wiki/Vomiting"
+            },
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "jaundice",
+                "qid": "Q133244",
+                "url": "https://en.wikipedia.org/wiki/Jaundice"
+            },
+            {
+                "name": "malaise",
+                "qid": "Q2673323",
+                "url": "https://en.wikipedia.org/wiki/Malaise"
+            },
+            {
+                "name": "nausea",
+                "qid": "Q186889",
+                "url": "https://en.wikipedia.org/wiki/Nausea"
+            },
+            {
+                "name": "anorexia",
+                "qid": "Q254327",
+                "url": "https://en.wikipedia.org/wiki/Anorexia_(symptom)"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "detoxification",
+                "qid": "Q1090423",
+                "url": "https://en.wikipedia.org/wiki/Detoxification"
+            },
+            {
+                "name": "Q4532072",
+                "qid": "Q4532072"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Hepatitis A virus",
+                "qid": "Q4112120"
+            }
+        ]
+    }
+}

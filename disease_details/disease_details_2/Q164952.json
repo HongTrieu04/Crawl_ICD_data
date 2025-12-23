@@ -1,0 +1,39 @@
+{
+    "name": "malignant histiocytosis",
+    "qid": "Q164952",
+    "icd_10": "C96.1",
+    "description": "Human disease",
+    "aliases": [
+        "Histiocytic Disorders, Malignant",
+        "Histiocytic medullary reticulosis",
+        "Histiocytic medullary reticulosis [obs]",
+        "malignant histiocytic disease",
+        "malignant Histiocytic Disorders",
+        "malignant midline reticulosis",
+        "malignant reticulosis",
+        "Stewart's granuloma"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Malignant_histiocytosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            },
+            {
+                "name": "angiology",
+                "qid": "Q539690",
+                "url": "https://en.wikipedia.org/wiki/Angiology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "histiocytosis",
+                "qid": "Q1411740",
+                "url": "https://en.wikipedia.org/wiki/Histiocytosis"
+            }
+        ]
+    }
+}

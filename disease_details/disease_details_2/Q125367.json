@@ -1,0 +1,100 @@
+{
+    "name": "carbon monoxide poisoning",
+    "qid": "Q125367",
+    "icd_10": "T58",
+    "description": "toxicity due to exposure to carbon monoxide",
+    "aliases": [
+        "carbon monoxide exposure",
+        "carbon monoxide toxicity",
+        "CO exposure",
+        "CO poisoning",
+        "CO toxicity"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Carbon-monoxide-3D-balls.png",
+    "url": "https://en.wikipedia.org/wiki/Carbon_monoxide_poisoning",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            },
+            {
+                "name": "fatigue",
+                "qid": "Q9690",
+                "url": "https://en.wikipedia.org/wiki/Fatigue"
+            },
+            {
+                "name": "hallucination",
+                "qid": "Q130741",
+                "url": "https://en.wikipedia.org/wiki/Hallucination"
+            },
+            {
+                "name": "nausea",
+                "qid": "Q186889",
+                "url": "https://en.wikipedia.org/wiki/Nausea"
+            },
+            {
+                "name": "syncope",
+                "qid": "Q180007",
+                "url": "https://en.wikipedia.org/wiki/Syncope_(medicine)"
+            },
+            {
+                "name": "angina pectoris",
+                "qid": "Q180762",
+                "url": "https://en.wikipedia.org/wiki/Angina"
+            },
+            {
+                "name": "dizziness",
+                "qid": "Q10916362",
+                "url": "https://en.wikipedia.org/wiki/Dizziness"
+            },
+            {
+                "name": "cyanosis",
+                "qid": "Q192120",
+                "url": "https://en.wikipedia.org/wiki/Cyanosis"
+            },
+            {
+                "name": "mental confusion",
+                "qid": "Q557945",
+                "url": "https://en.wikipedia.org/wiki/Confusion"
+            },
+            {
+                "name": "tachypnea",
+                "qid": "Q570920",
+                "url": "https://en.wikipedia.org/wiki/Tachypnea"
+            },
+            {
+                "name": "ST depression",
+                "qid": "Q3965303",
+                "url": "https://en.wikipedia.org/wiki/ST_depression"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "carbon monoxide",
+                "qid": "Q2025",
+                "url": "https://en.wikipedia.org/wiki/Carbon_monoxide"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "intoxication",
+                "qid": "Q18621601",
+                "url": "https://en.wikipedia.org/wiki/Poisoning"
+            },
+            {
+                "name": "chemical hazard",
+                "qid": "Q21167512",
+                "url": "https://en.wikipedia.org/wiki/Chemical_hazard"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ]
+    }
+}

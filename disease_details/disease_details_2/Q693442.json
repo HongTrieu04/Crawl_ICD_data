@@ -1,0 +1,91 @@
+{
+    "name": "subarachnoid hemorrhage",
+    "qid": "Q693442",
+    "icd_10": "P10.3",
+    "description": "bleeding into the subarachnoid space",
+    "aliases": [
+        "SAH",
+        "subarachnoid haematoma",
+        "subarachnoid haemorrhage",
+        "subarachnoid hematoma"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Subarachnoid%20haemorrhage.jpg",
+    "url": "https://en.wikipedia.org/wiki/Subarachnoid_hemorrhage",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            },
+            {
+                "name": "neurosurgery",
+                "qid": "Q188449",
+                "url": "https://en.wikipedia.org/wiki/Neurosurgery"
+            },
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "aneurysm",
+                "qid": "Q189389",
+                "url": "https://en.wikipedia.org/wiki/Aneurysm"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "vomiting",
+                "qid": "Q127076",
+                "url": "https://en.wikipedia.org/wiki/Vomiting"
+            },
+            {
+                "name": "photophobia",
+                "qid": "Q281289",
+                "url": "https://en.wikipedia.org/wiki/Photophobia"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "clipping",
+                "qid": "Q5134392",
+                "url": "https://en.wikipedia.org/wiki/Clipping_(medicine)"
+            },
+            {
+                "name": "endovascular coiling",
+                "qid": "Q5376564",
+                "url": "https://en.wikipedia.org/wiki/Endovascular_coiling"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "nimodipine",
+                "qid": "Q421429",
+                "url": "https://en.wikipedia.org/wiki/Nimodipine"
+            },
+            {
+                "name": "tranexamic acid",
+                "qid": "Q418666",
+                "url": "https://en.wikipedia.org/wiki/Tranexamic_acid"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "encephalopathy",
+                "qid": "Q576349",
+                "url": "https://en.wikipedia.org/wiki/Encephalopathy"
+            },
+            {
+                "name": "hemorrhage",
+                "qid": "Q102186528"
+            },
+            {
+                "name": "hemorrhagic stroke",
+                "qid": "Q114754301"
+            }
+        ]
+    }
+}

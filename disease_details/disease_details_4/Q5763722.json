@@ -1,0 +1,35 @@
+{
+    "name": "rhinoscleroma",
+    "qid": "Q5763722",
+    "icd_10": "A48.8",
+    "description": "Human disease",
+    "aliases": [
+        "Rhinoscleroma (disorder)"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Rhinoscleroma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "primary bacterial infectious disease",
+                "qid": "Q18553247"
+            },
+            {
+                "name": "nose, anomalous shape of",
+                "qid": "Q55781290"
+            }
+        ]
+    }
+}

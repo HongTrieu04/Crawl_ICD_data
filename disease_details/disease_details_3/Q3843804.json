@@ -1,0 +1,50 @@
+{
+    "name": "acute erythroid leukemia",
+    "qid": "Q3843804",
+    "icd_10": "C94.0",
+    "description": "rare form of acute myeloid leukemia (less than 5% of AML cases) where the myeloproliferation is of erythroblastic precursors.",
+    "aliases": [
+        "AEL",
+        "acute erythremia and erythroleukemia",
+        "acute erythremia and erythroleukemia in remission",
+        "Acute Erythroblastic Leukemia",
+        "Acute Erythroid Leukemia",
+        "Acute erythroleukemia",
+        "Acute erythroleukemia M6a subtype",
+        "Acute erythroleukemia M6b subtype",
+        "Acute myeloid leukemia FAB-M6",
+        "Acute myeloid leukemia M6",
+        "AML M6",
+        "AML-M6",
+        "Di Guglielmo syndrome",
+        "Di Guglielmo's syndrome",
+        "Erythroblastic Leukemia",
+        "Erythroleukemia",
+        "Fab M6",
+        "LEUKEMIA, ERYTHROID, MALIGNANT",
+        "M6 Acute Myeloid Leukemia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Acute_erythroid_leukemia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            },
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "acute myeloid leukemia",
+                "qid": "Q264118",
+                "url": "https://en.wikipedia.org/wiki/Acute_myeloid_leukemia"
+            }
+        ]
+    }
+}

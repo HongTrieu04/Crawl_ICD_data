@@ -1,0 +1,30 @@
+{
+    "name": "azotemia",
+    "qid": "Q794072",
+    "icd_10": "R79.8",
+    "description": "abnormally high levels of nitrogen in the blood",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Azotemia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            },
+            {
+                "name": "nephrology",
+                "qid": "Q177635",
+                "url": "https://en.wikipedia.org/wiki/Nephrology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "hematopoietic system disease",
+                "qid": "Q1963588",
+                "url": "https://en.wikipedia.org/wiki/Hematologic_disease"
+            }
+        ]
+    }
+}

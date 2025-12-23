@@ -1,0 +1,26 @@
+{
+    "name": "benign mammary dysplasia",
+    "qid": "Q18558146",
+    "icd_10": "N60",
+    "description": "Human disease",
+    "aliases": [
+        "benign dysplasia of breast"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "breast benign neoplasm",
+                "qid": "Q18553643"
+            }
+        ]
+    }
+}

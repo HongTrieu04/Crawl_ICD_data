@@ -1,0 +1,25 @@
+{
+    "name": "esophageal web",
+    "qid": "Q1496010",
+    "icd_10": "Q39.4",
+    "description": "congenital disorder of digestive system",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Esophageal_web",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "esophageal disease",
+                "qid": "Q2912193",
+                "url": "https://en.wikipedia.org/wiki/Esophageal_disease"
+            }
+        ]
+    }
+}

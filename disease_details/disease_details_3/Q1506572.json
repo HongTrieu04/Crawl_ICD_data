@@ -1,0 +1,56 @@
+{
+    "name": "atrial flutter",
+    "qid": "Q1506572",
+    "icd_10": "I48",
+    "description": "abnormal heart rhythm that starts in the atrial chambers of the heart",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Atrial_flutter",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "atrial tachycardia",
+                "qid": "Q3513641",
+                "url": "https://en.wikipedia.org/wiki/Atrial_tachycardia"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "dofetilide",
+                "qid": "Q3712521",
+                "url": "https://en.wikipedia.org/wiki/Dofetilide"
+            },
+            {
+                "name": "rac-warfarin",
+                "qid": "Q113368879",
+                "url": "https://en.wikipedia.org/wiki/Warfarin"
+            },
+            {
+                "name": "amiodarone",
+                "qid": "Q410061",
+                "url": "https://en.wikipedia.org/wiki/Amiodarone"
+            },
+            {
+                "name": "apixaban",
+                "qid": "Q414462",
+                "url": "https://en.wikipedia.org/wiki/Apixaban"
+            },
+            {
+                "name": "rivaroxaban",
+                "qid": "Q420262",
+                "url": "https://en.wikipedia.org/wiki/Rivaroxaban"
+            },
+            {
+                "name": "dabigatran etexilate",
+                "qid": "Q20078502"
+            }
+        ]
+    }
+}

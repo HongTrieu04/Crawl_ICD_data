@@ -1,0 +1,27 @@
+{
+    "name": "perioral dermatitis",
+    "qid": "Q1114789",
+    "icd_10": "L71.0",
+    "description": "medical condition",
+    "aliases": [
+        "Periorificial dermatitis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Periorale%20Dermatitis.jpg",
+    "url": "https://en.wikipedia.org/wiki/Perioral_dermatitis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "skin disease",
+                "qid": "Q949302",
+                "url": "https://en.wikipedia.org/wiki/Skin_condition"
+            }
+        ]
+    }
+}

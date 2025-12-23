@@ -1,0 +1,27 @@
+{
+    "name": "strain",
+    "qid": "Q2402085",
+    "icd_10": "M62.6",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "muscular disease",
+                "qid": "Q692536",
+                "url": "https://en.wikipedia.org/wiki/Myopathy"
+            },
+            {
+                "name": "soft tissue injury",
+                "qid": "Q7554047",
+                "url": "https://en.wikipedia.org/wiki/Soft_tissue_injury"
+            },
+            {
+                "name": "sprains and strains",
+                "qid": "Q100891792"
+            }
+        ]
+    }
+}

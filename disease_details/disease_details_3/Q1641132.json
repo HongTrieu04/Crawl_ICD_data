@@ -1,0 +1,90 @@
+{
+    "name": "malignant hypertension",
+    "qid": "Q1641132",
+    "icd_10": "I16.1",
+    "description": "condition of markedly elevated blood pressure with diastolic pressure typically greater than 120 mm Hg",
+    "aliases": [
+        "Hypertension, Malignant",
+        "hypertensive crisis",
+        "hypertensive emergency"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hypertensive_crisis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "arterial hypertension",
+                "qid": "Q41861",
+                "url": "https://en.wikipedia.org/wiki/Hypertension"
+            },
+            {
+                "name": "hypertensive crisis",
+                "qid": "Q25303605"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "phenoxybenzamine",
+                "qid": "Q419824",
+                "url": "https://en.wikipedia.org/wiki/Phenoxybenzamine"
+            },
+            {
+                "name": "hydralazine",
+                "qid": "Q419987",
+                "url": "https://en.wikipedia.org/wiki/Hydralazine"
+            },
+            {
+                "name": "diazoxide",
+                "qid": "Q420009",
+                "url": "https://en.wikipedia.org/wiki/Diazoxide"
+            },
+            {
+                "name": "phentolamine",
+                "qid": "Q420360",
+                "url": "https://en.wikipedia.org/wiki/Phentolamine"
+            },
+            {
+                "name": "captopril",
+                "qid": "Q421119",
+                "url": "https://en.wikipedia.org/wiki/Captopril"
+            },
+            {
+                "name": "enalapril",
+                "qid": "Q422185",
+                "url": "https://en.wikipedia.org/wiki/Enalapril"
+            },
+            {
+                "name": "minoxidil",
+                "qid": "Q424165",
+                "url": "https://en.wikipedia.org/wiki/Minoxidil"
+            },
+            {
+                "name": "labetalol",
+                "qid": "Q958087",
+                "url": "https://en.wikipedia.org/wiki/Labetalol"
+            },
+            {
+                "name": "fenoldopam",
+                "qid": "Q2357007",
+                "url": "https://en.wikipedia.org/wiki/Fenoldopam"
+            },
+            {
+                "name": "mecamylamine",
+                "qid": "Q3332124",
+                "url": "https://en.wikipedia.org/wiki/Mecamylamine"
+            }
+        ]
+    }
+}

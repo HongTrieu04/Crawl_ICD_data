@@ -1,0 +1,27 @@
+{
+    "name": "subdural hematoma",
+    "qid": "Q3144926",
+    "icd_10": "P10.0",
+    "description": "hematoma usually associated with traumatic brain injury",
+    "aliases": [
+        "SDH",
+        "subdural haematoma"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Subduralandherniation.PNG",
+    "url": "https://en.wikipedia.org/wiki/Subdural_hematoma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurosurgery",
+                "qid": "Q188449",
+                "url": "https://en.wikipedia.org/wiki/Neurosurgery"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "traumatic intracranial hemorrhage",
+                "qid": "Q55092825"
+            }
+        ]
+    }
+}

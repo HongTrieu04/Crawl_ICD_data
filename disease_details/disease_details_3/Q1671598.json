@@ -1,0 +1,44 @@
+{
+    "name": "intrauterine growth restriction",
+    "qid": "Q1671598",
+    "icd_10": "P05.9",
+    "description": "poor growth of fetus in mother's womb during pregnancy",
+    "aliases": [
+        "FGR",
+        "fetal growth restriction",
+        "fetal growth retardation",
+        "Fetal growth retardation",
+        "Fetal SGA",
+        "Fetal Small for Gestational Age",
+        "Fetus Small for Gestational Age",
+        "Intrauterine growth restriction",
+        "Intrauterine Growth Restriction",
+        "intrauterine growth retardation",
+        "Intrauterine Growth Retardation",
+        "IUGR",
+        "IUGR (intrauterine growth restriction)"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/3dultrasound%2020%20weeks.jpg",
+    "url": "https://en.wikipedia.org/wiki/Intrauterine_growth_restriction",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "obstetrics",
+                "qid": "Q5284418",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics"
+            },
+            {
+                "name": "pediatrics",
+                "qid": "Q123028",
+                "url": "https://en.wikipedia.org/wiki/Pediatrics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "failure to thrive",
+                "qid": "Q1497481",
+                "url": "https://en.wikipedia.org/wiki/Failure_to_thrive"
+            }
+        ]
+    }
+}

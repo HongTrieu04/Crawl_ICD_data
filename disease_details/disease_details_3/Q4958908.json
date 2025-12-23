@@ -1,0 +1,107 @@
+{
+    "name": "Brazilian purpuric fever",
+    "qid": "Q4958908",
+    "icd_10": "A48.4",
+    "description": "illness in children",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Brazilian_purpuric_fever",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "conjunctivitis",
+                "qid": "Q167844",
+                "url": "https://en.wikipedia.org/wiki/Conjunctivitis"
+            },
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "vomiting",
+                "qid": "Q127076",
+                "url": "https://en.wikipedia.org/wiki/Vomiting"
+            },
+            {
+                "name": "necrosis",
+                "qid": "Q178069",
+                "url": "https://en.wikipedia.org/wiki/Necrosis"
+            },
+            {
+                "name": "abdominal pain",
+                "qid": "Q183425",
+                "url": "https://en.wikipedia.org/wiki/Abdominal_pain"
+            },
+            {
+                "name": "nausea",
+                "qid": "Q186889",
+                "url": "https://en.wikipedia.org/wiki/Nausea"
+            },
+            {
+                "name": "cyanosis",
+                "qid": "Q192120",
+                "url": "https://en.wikipedia.org/wiki/Cyanosis"
+            },
+            {
+                "name": "rash",
+                "qid": "Q653197",
+                "url": "https://en.wikipedia.org/wiki/Rash"
+            },
+            {
+                "name": "septic shock",
+                "qid": "Q1765564",
+                "url": "https://en.wikipedia.org/wiki/Septic_shock"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "pharynx",
+                "qid": "Q174778",
+                "url": "https://en.wikipedia.org/wiki/Pharynx"
+            },
+            {
+                "name": "conjunctiva",
+                "qid": "Q273554",
+                "url": "https://en.wikipedia.org/wiki/Conjunctiva"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Haemophilus influenzae biogroup aegyptius",
+                "qid": "Q5638269",
+                "url": "https://en.wikipedia.org/wiki/Haemophilus_influenzae_biogroup_aegyptius"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "ampicillin",
+                "qid": "Q244150",
+                "url": "https://en.wikipedia.org/wiki/Ampicillin"
+            },
+            {
+                "name": "rifampicin",
+                "qid": "Q422652",
+                "url": "https://en.wikipedia.org/wiki/Rifampicin"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "bacterial infectious disease",
+                "qid": "Q727028",
+                "url": "https://en.wikipedia.org/wiki/Bacterial_disease"
+            },
+            {
+                "name": "Haemophilus influenzae infectious disease",
+                "qid": "Q15715699"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

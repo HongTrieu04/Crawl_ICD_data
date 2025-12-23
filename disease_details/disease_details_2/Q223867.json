@@ -1,0 +1,41 @@
+{
+    "name": "brain death",
+    "qid": "Q223867",
+    "icd_10": "G92.83",
+    "description": "permanent, irreversible, total cessation of brain function",
+    "aliases": [
+        "brain dead"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Radionuclide%20Cerebral%20Blood%20Flow%20Scan.png",
+    "url": "https://en.wikipedia.org/wiki/Brain_death",
+    "details": {
+        "Cause": [
+            {
+                "name": "cerebrovascular disease",
+                "qid": "Q3010352",
+                "url": "https://en.wikipedia.org/wiki/Cerebrovascular_disease"
+            },
+            {
+                "name": "hanging to death",
+                "qid": "Q175111",
+                "url": "https://en.wikipedia.org/wiki/Hanging"
+            },
+            {
+                "name": "asphyxia",
+                "qid": "Q193840",
+                "url": "https://en.wikipedia.org/wiki/Asphyxia"
+            },
+            {
+                "name": "brain injury",
+                "qid": "Q3280669"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "coma",
+                "qid": "Q159557",
+                "url": "https://en.wikipedia.org/wiki/Coma"
+            }
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "name": "salivary gland neoplasm",
+    "qid": "Q3267772",
+    "icd_10": "C08",
+    "description": "human disease",
+    "aliases": [
+        "salivary gland cancer",
+        "neoplasm of saliva-secreting gland",
+        "Neoplasm of Salivary Gland",
+        "Neoplasm of the Salivary Gland",
+        "saliva-secreting gland neoplasm (disease)",
+        "saliva-secreting gland tumor",
+        "Salivary Gland Neoplasm",
+        "salivary gland neoplasms",
+        "Salivary Gland Tumor",
+        "tumor of saliva-secreting gland",
+        "tumor of salivary gland",
+        "Tumor of the Salivary Gland"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Atlas%20of%20clinical%20surgery%3B%20with%20special%20reference%20to%20diagnosis%20and%20treatment%20for%20practitioners%20and%20students%20%281908%29%20%2814767920232%29.jpg",
+    "url": "https://en.wikipedia.org/wiki/Salivary_gland_tumour",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "salivary gland disease",
+                "qid": "Q17152566",
+                "url": "https://en.wikipedia.org/wiki/Salivary_gland_disease"
+            },
+            {
+                "name": "oral cavity neoplasm",
+                "qid": "Q55789538"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "salivary gland",
+                "qid": "Q134938",
+                "url": "https://en.wikipedia.org/wiki/Salivary_gland"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "name": "tuberculous myelitis",
+    "qid": "Q18966257",
+    "icd_10": "A17.8",
+    "description": "Human disease",
+    "aliases": [
+        "Myelitis due to mycobacterium tuberculosis",
+        "tuberculoma of spinal cord",
+        "Tuberculous abscess of spinal cord"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "myelitis",
+                "qid": "Q551085",
+                "url": "https://en.wikipedia.org/wiki/Myelitis"
+            },
+            {
+                "name": "central nervous system tuberculosis",
+                "qid": "Q18554860"
+            }
+        ]
+    }
+}

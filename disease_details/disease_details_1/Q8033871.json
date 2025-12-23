@@ -1,0 +1,27 @@
+{
+    "name": "Woolly hair nevus",
+    "qid": "Q8033871",
+    "icd_10": "Q82.5",
+    "description": "medical condition",
+    "aliases": [
+        "Wooly hair nevus"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Woolly_hair_nevus",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "nevus",
+                "qid": "Q692077",
+                "url": "https://en.wikipedia.org/wiki/Nevus"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

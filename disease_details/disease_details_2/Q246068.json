@@ -1,0 +1,91 @@
+{
+    "name": "cysticercosis",
+    "qid": "Q246068",
+    "icd_10": "B69",
+    "description": "Human helminthiasis",
+    "aliases": [
+        "neurocysticercosis",
+        "intestinal taenia solium infection",
+        "Pork tapeworm infection",
+        "Tapeworm infection: intestinal taenia solum",
+        "Tapeworm infection: pork",
+        "tenia solium infectious disease"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Neurocysticercosis.gif",
+    "url": "https://en.wikipedia.org/wiki/Cysticercosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "heart disease",
+                "qid": "Q190805",
+                "url": "https://en.wikipedia.org/wiki/Heart_disease"
+            },
+            {
+                "name": "neglected tropical disease",
+                "qid": "Q929451",
+                "url": "https://en.wikipedia.org/wiki/Neglected_tropical_diseases"
+            },
+            {
+                "name": "skin disease",
+                "qid": "Q949302",
+                "url": "https://en.wikipedia.org/wiki/Skin_condition"
+            },
+            {
+                "name": "taeniasis",
+                "qid": "Q1475667",
+                "url": "https://en.wikipedia.org/wiki/Taeniasis"
+            },
+            {
+                "name": "muscular disease",
+                "qid": "Q692536",
+                "url": "https://en.wikipedia.org/wiki/Myopathy"
+            },
+            {
+                "name": "eye disease",
+                "qid": "Q3041498",
+                "url": "https://en.wikipedia.org/wiki/Eye_disease"
+            },
+            {
+                "name": "intestinal disease",
+                "qid": "Q3055380",
+                "url": "https://en.wikipedia.org/wiki/Enteropathy"
+            },
+            {
+                "name": "central nervous system disease",
+                "qid": "Q5062122",
+                "url": "https://en.wikipedia.org/wiki/Central_nervous_system_disease"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "albendazol",
+                "qid": "Q411629",
+                "url": "https://en.wikipedia.org/wiki/Albendazole"
+            },
+            {
+                "name": "praziquantel",
+                "qid": "Q424145",
+                "url": "https://en.wikipedia.org/wiki/Praziquantel"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "infection",
+                "qid": "Q166231",
+                "url": "https://en.wikipedia.org/wiki/Infection"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

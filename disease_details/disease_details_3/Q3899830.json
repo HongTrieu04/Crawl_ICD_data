@@ -1,0 +1,31 @@
+{
+    "name": "nasal septal perforation",
+    "qid": "Q3899830",
+    "icd_10": "J34.8",
+    "description": "nasal surgery",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Nasal_septum_perforation",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "otolaryngology",
+                "qid": "Q189553",
+                "url": "https://en.wikipedia.org/wiki/Otorhinolaryngology"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "nasal septum",
+                "qid": "Q500634",
+                "url": "https://en.wikipedia.org/wiki/Nasal_septum"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "nose disease",
+                "qid": "Q10267828"
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "essential fatty acid deficiency",
+    "qid": "Q3961670",
+    "icd_10": "E63.0",
+    "description": null,
+    "aliases": [
+        "EFAD",
+        "Burr syndrome"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "nutritional deficiency disease",
+                "qid": "Q1890194"
+            }
+        ]
+    }
+}

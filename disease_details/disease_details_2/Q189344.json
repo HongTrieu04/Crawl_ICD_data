@@ -1,0 +1,27 @@
+{
+    "name": "cementoblastoma",
+    "qid": "Q189344",
+    "icd_10": "D16.5",
+    "description": "benign neoplasm of the cementum of the teeth",
+    "aliases": [
+        "benign cementoblastoma"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Cementoblastoma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "cementoma",
+                "qid": "Q4503868",
+                "url": "https://en.wikipedia.org/wiki/Cementoma"
+            }
+        ]
+    }
+}

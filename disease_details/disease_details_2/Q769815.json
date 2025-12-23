@@ -1,0 +1,63 @@
+{
+    "name": "food allergy",
+    "qid": "Q769815",
+    "icd_10": "T78.0",
+    "description": "hypersensitivity reaction type I disease that is an abnormal response to a food, triggered by the body's immune system",
+    "aliases": [
+        "food hypersensitivity",
+        "allergy of FOODON:00002403"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hives%20on%20back.jpg",
+    "url": "https://en.wikipedia.org/wiki/Food_allergy",
+    "details": {
+        "Cause": [
+            {
+                "name": "food",
+                "qid": "Q2095",
+                "url": "https://en.wikipedia.org/wiki/Food"
+            },
+            {
+                "name": "food allergen",
+                "qid": "Q30896751"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "food hypersensitivity",
+                "qid": "Q1812702"
+            },
+            {
+                "name": "gastrointestinal allergy",
+                "qid": "Q23037750"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "immunology",
+                "qid": "Q101929",
+                "url": "https://en.wikipedia.org/wiki/Immunology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "epinephrine",
+                "qid": "Q132621",
+                "url": "https://en.wikipedia.org/wiki/Adrenaline"
+            },
+            {
+                "name": "cromoglicic acid",
+                "qid": "Q416427",
+                "url": "https://en.wikipedia.org/wiki/Cromoglicic_acid"
+            },
+            {
+                "name": "epinephrine / lidocaine",
+                "qid": "Q48566660"
+            }
+        ]
+    }
+}

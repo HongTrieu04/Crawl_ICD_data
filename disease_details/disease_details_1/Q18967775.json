@@ -1,0 +1,32 @@
+{
+    "name": "rheumatic endocarditis",
+    "qid": "Q18967775",
+    "icd_10": "I01.1",
+    "description": "human disease",
+    "aliases": [
+        "acute rheumatic endocarditis",
+        "acute Rheumatic Endocarditis",
+        "acute rheumatic endocarditis (disorder)",
+        "Endocarditis-RH chronic",
+        "obsolete rheumatic endocarditis",
+        "Rheumatic disease of endocardium, valve unspecified",
+        "Rheumatic endocarditis (disorder)",
+        "Rheumatic endocarditis NOS",
+        "Rheumatic endocarditis NOS (disorder)"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "endocarditis",
+                "qid": "Q82504",
+                "url": "https://en.wikipedia.org/wiki/Endocarditis"
+            },
+            {
+                "name": "rheumatic heart disease",
+                "qid": "Q3658498"
+            }
+        ]
+    }
+}

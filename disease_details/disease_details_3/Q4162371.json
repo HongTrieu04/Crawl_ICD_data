@@ -1,0 +1,44 @@
+{
+    "name": "psychogenic non-epileptic seizures",
+    "qid": "Q4162371",
+    "icd_10": "F44.5",
+    "description": "events resembling an epileptic seizure, but without the characteristic electrical discharges associated with epilepsy",
+    "aliases": [
+        "Dissociative convulsions",
+        "Functional seizures",
+        "Hysterical seizures",
+        "Hysteroepilepsy",
+        "Non-epileptic attack disorder",
+        "Pseudoseizures",
+        "Psychogenic Nonepileptic Seizure",
+        "Psychogenic Nonepileptic Seizures"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/EEG%20cap.jpg",
+    "url": "https://en.wikipedia.org/wiki/Psychogenic_non-epileptic_seizure",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "psychology",
+                "qid": "Q9418",
+                "url": "https://en.wikipedia.org/wiki/Psychology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "non-epileptic seizure",
+                "qid": "Q7048905",
+                "url": "https://en.wikipedia.org/wiki/Non-epileptic_seizure"
+            },
+            {
+                "name": "functional neurologic disorder",
+                "qid": "Q17146697",
+                "url": "https://en.wikipedia.org/wiki/Functional_neurological_symptom_disorder"
+            }
+        ]
+    }
+}

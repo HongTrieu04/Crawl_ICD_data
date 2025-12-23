@@ -1,0 +1,138 @@
+{
+    "name": "chronic obstructive pulmonary disease",
+    "qid": "Q199804",
+    "icd_10": "J44",
+    "description": "lung disease involving long-term poor airflow",
+    "aliases": [
+        "COPD",
+        "chronic obstructive airway disease",
+        "Chronic Obstructive Airways Disease",
+        "chronic obstructive airways disease NOS",
+        "chronic obstructive airways disease NOS disorder",
+        "chronic obstructive lung disease",
+        "chronic obstructive lung disease disorder",
+        "Chronic Obstructive Pulmonary Disease (COPD)",
+        "Chronic Obstructive Pulmonary Disease, (COPD)",
+        "COLD",
+        "COLD (chronic obstructive lung disease)",
+        "COPD, Chronic Obstructive Pulmonary Disease",
+        "Disease (COPD), Chronic Obstructive",
+        "obstructive lung disease, chronic",
+        "Obstructive Pulmonary Disease (COPD), Chronic",
+        "Pulmonary Disease (COPD), Chronic Obstructive",
+        "Pulmonary Disease, Chronic Obstructive"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Centrilobular%20emphysema%20865%20lores.jpg",
+    "url": "https://en.wikipedia.org/wiki/Chronic_obstructive_pulmonary_disease",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "obstructive lung disease",
+                "qid": "Q3508797",
+                "url": "https://en.wikipedia.org/wiki/Obstructive_lung_disease"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "cough",
+                "qid": "Q35805",
+                "url": "https://en.wikipedia.org/wiki/Cough"
+            },
+            {
+                "name": "dyspnea",
+                "qid": "Q188008",
+                "url": "https://en.wikipedia.org/wiki/Shortness_of_breath"
+            },
+            {
+                "name": "wheeze",
+                "qid": "Q517104",
+                "url": "https://en.wikipedia.org/wiki/Wheeze"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "dust",
+                "qid": "Q165632",
+                "url": "https://en.wikipedia.org/wiki/Dust"
+            },
+            {
+                "name": "smoking",
+                "qid": "Q662860",
+                "url": "https://en.wikipedia.org/wiki/Smoking"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "ambroxol",
+                "qid": "Q221637",
+                "url": "https://en.wikipedia.org/wiki/Ambroxol"
+            },
+            {
+                "name": "fluticasone furoate",
+                "qid": "Q2166700",
+                "url": "https://en.wikipedia.org/wiki/Fluticasone_furoate"
+            },
+            {
+                "name": "bambuterol",
+                "qid": "Q3633651",
+                "url": "https://en.wikipedia.org/wiki/Bambuterol"
+            },
+            {
+                "name": "erdosteine",
+                "qid": "Q3731252",
+                "url": "https://en.wikipedia.org/wiki/Erdosteine"
+            },
+            {
+                "name": "formoterol",
+                "qid": "Q637247",
+                "url": "https://en.wikipedia.org/wiki/Formoterol"
+            },
+            {
+                "name": "(RS)-clenbuterol",
+                "qid": "Q223412",
+                "url": "https://en.wikipedia.org/wiki/Clenbuterol"
+            },
+            {
+                "name": "L-carbocysteine",
+                "qid": "Q423408",
+                "url": "https://en.wikipedia.org/wiki/Carbocisteine"
+            },
+            {
+                "name": "indacaterol",
+                "qid": "Q425654",
+                "url": "https://en.wikipedia.org/wiki/Indacaterol"
+            },
+            {
+                "name": "glycopyrrolate",
+                "qid": "Q411917"
+            },
+            {
+                "name": "etofylline",
+                "qid": "Q3733837"
+            },
+            {
+                "name": "indacaterol maleate",
+                "qid": "Q27137018"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "symptomatic treatment",
+                "qid": "Q621558",
+                "url": "https://en.wikipedia.org/wiki/Symptomatic_treatment"
+            }
+        ]
+    }
+}

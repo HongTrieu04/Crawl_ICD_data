@@ -1,0 +1,30 @@
+{
+    "name": "hypopigmentation",
+    "qid": "Q1291366",
+    "icd_10": "L80",
+    "description": "area of skin becoming lighter than the baseline color",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hypopigmentation",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "Dyschromia",
+                "qid": "Q1269236",
+                "url": "https://en.wikipedia.org/wiki/Dyschromia"
+            },
+            {
+                "name": "skin discoloration",
+                "qid": "Q48970753",
+                "url": "https://en.wikipedia.org/wiki/Skin_discoloration"
+            }
+        ]
+    }
+}

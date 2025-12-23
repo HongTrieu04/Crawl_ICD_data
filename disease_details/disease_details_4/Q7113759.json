@@ -1,0 +1,30 @@
+{
+    "name": "overlap syndrome",
+    "qid": "Q7113759",
+    "icd_10": "M35.1",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Overlap_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "autoimmune disease",
+                "qid": "Q8084905",
+                "url": "https://en.wikipedia.org/wiki/Autoimmune_disease"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            },
+            {
+                "name": "hepatology",
+                "qid": "Q668064",
+                "url": "https://en.wikipedia.org/wiki/Hepatology"
+            }
+        ]
+    }
+}

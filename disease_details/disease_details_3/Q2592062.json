@@ -1,0 +1,32 @@
+{
+    "name": "fetal distress",
+    "qid": "Q2592062",
+    "icd_10": "O68",
+    "description": "human disease",
+    "aliases": [
+        "Fetal distress",
+        "FETAL DISTRESS",
+        "Fetal distress (finding)",
+        "Fetal distress NOS",
+        "Fetal distress NOS (finding)",
+        "Fetal distress unspecified (finding)",
+        "obsolete fetal distress"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Fetal_distress",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "obstetrics",
+                "qid": "Q5284418",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "fetopathy",
+                "qid": "Q1409154"
+            }
+        ]
+    }
+}

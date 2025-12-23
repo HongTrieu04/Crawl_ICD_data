@@ -1,0 +1,85 @@
+{
+    "name": "Nanophyetiasis",
+    "qid": "Q4312883",
+    "icd_10": "B66.8",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Symptoms": [
+            {
+                "name": "vomiting",
+                "qid": "Q127076",
+                "url": "https://en.wikipedia.org/wiki/Vomiting"
+            },
+            {
+                "name": "nausea",
+                "qid": "Q186889",
+                "url": "https://en.wikipedia.org/wiki/Nausea"
+            },
+            {
+                "name": "diarrhea",
+                "qid": "Q40878",
+                "url": "https://en.wikipedia.org/wiki/Diarrhea"
+            },
+            {
+                "name": "eosinophilia",
+                "qid": "Q505142",
+                "url": "https://en.wikipedia.org/wiki/Eosinophilia"
+            },
+            {
+                "name": "weight loss",
+                "qid": "Q718113",
+                "url": "https://en.wikipedia.org/wiki/Weight_loss"
+            },
+            {
+                "name": "fatigue",
+                "qid": "Q15729017"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "intestine",
+                "qid": "Q9639",
+                "url": "https://en.wikipedia.org/wiki/Intestine"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "praziquantel",
+                "qid": "Q424145",
+                "url": "https://en.wikipedia.org/wiki/Praziquantel"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            },
+            {
+                "name": "helminthologist",
+                "qid": "Q27497422"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "distomatosis",
+                "qid": "Q3030745",
+                "url": "https://en.wikipedia.org/wiki/Trematodiasis"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Nanophyetus",
+                "qid": "Q18519866",
+                "url": "https://en.wikipedia.org/wiki/Nanophyetus"
+            },
+            {
+                "name": "Nanophyetus salmincola",
+                "qid": "Q10335474"
+            }
+        ]
+    }
+}

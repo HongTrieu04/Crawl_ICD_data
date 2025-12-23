@@ -1,0 +1,30 @@
+{
+    "name": "Bowen's disease",
+    "qid": "Q979564",
+    "icd_10": "D04",
+    "description": "disease",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bowen%20disease%20%281%29.jpg",
+    "url": "https://en.wikipedia.org/wiki/Bowen%27s_disease",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            },
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "squamous cell carcinoma",
+                "qid": "Q681817",
+                "url": "https://en.wikipedia.org/wiki/Squamous-cell_carcinoma"
+            }
+        ]
+    }
+}

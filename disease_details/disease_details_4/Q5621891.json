@@ -1,0 +1,45 @@
+{
+    "name": "guttate psoriasis",
+    "qid": "Q5621891",
+    "icd_10": "L40.4",
+    "description": "medical condition",
+    "aliases": [
+        "psoriasis guttata",
+        "Psoriasis guttate"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Guttate_psoriasis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "etanercept",
+                "qid": "Q415343",
+                "url": "https://en.wikipedia.org/wiki/Etanercept"
+            },
+            {
+                "name": "apremilast",
+                "qid": "Q2858961",
+                "url": "https://en.wikipedia.org/wiki/Apremilast"
+            },
+            {
+                "name": "adalimumab",
+                "qid": "Q348260",
+                "url": "https://en.wikipedia.org/wiki/Adalimumab"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "psoriasis",
+                "qid": "Q179945",
+                "url": "https://en.wikipedia.org/wiki/Psoriasis"
+            }
+        ]
+    }
+}

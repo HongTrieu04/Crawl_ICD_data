@@ -1,0 +1,188 @@
+{
+    "name": "trench fever",
+    "qid": "Q393477",
+    "icd_10": "A79.07",
+    "description": "human disease",
+    "aliases": [
+        "Bartonellosis due to Bartonella quintana infection",
+        "Fever, Trench",
+        "Fevers, Trench",
+        "His-Werner disease",
+        "Quintan fever",
+        "shin bone fever",
+        "tibialgic fever",
+        "Trench fever",
+        "Trench Fevers",
+        "Wolhynian fever"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Trench_fever",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            },
+            {
+                "name": "swelling",
+                "qid": "Q109186",
+                "url": "https://en.wikipedia.org/wiki/Swelling_(medical)"
+            },
+            {
+                "name": "vomiting",
+                "qid": "Q127076",
+                "url": "https://en.wikipedia.org/wiki/Vomiting"
+            },
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "diarrhea",
+                "qid": "Q40878",
+                "url": "https://en.wikipedia.org/wiki/Diarrhea"
+            },
+            {
+                "name": "hypersomnia",
+                "qid": "Q751641",
+                "url": "https://en.wikipedia.org/wiki/Hypersomnia"
+            },
+            {
+                "name": "bacillary angiomatosis",
+                "qid": "Q812671",
+                "url": "https://en.wikipedia.org/wiki/Bacillary_angiomatosis"
+            },
+            {
+                "name": "lymphadenopathy",
+                "qid": "Q847726",
+                "url": "https://en.wikipedia.org/wiki/Lymphadenopathy"
+            },
+            {
+                "name": "somnolence",
+                "qid": "Q1077823",
+                "url": "https://en.wikipedia.org/wiki/Somnolence"
+            },
+            {
+                "name": "splenomegaly",
+                "qid": "Q1129121",
+                "url": "https://en.wikipedia.org/wiki/Splenomegaly"
+            },
+            {
+                "name": "hepatomegaly",
+                "qid": "Q1362864",
+                "url": "https://en.wikipedia.org/wiki/Hepatomegaly"
+            },
+            {
+                "name": "tachycardia",
+                "qid": "Q209583",
+                "url": "https://en.wikipedia.org/wiki/Tachycardia"
+            },
+            {
+                "name": "muscle weakness",
+                "qid": "Q270421",
+                "url": "https://en.wikipedia.org/wiki/Muscle_weakness"
+            },
+            {
+                "name": "hypotension",
+                "qid": "Q275419",
+                "url": "https://en.wikipedia.org/wiki/Hypotension"
+            },
+            {
+                "name": "myalgia",
+                "qid": "Q474959",
+                "url": "https://en.wikipedia.org/wiki/Myalgia"
+            },
+            {
+                "name": "rash",
+                "qid": "Q653197",
+                "url": "https://en.wikipedia.org/wiki/Rash"
+            },
+            {
+                "name": "arthralgia",
+                "qid": "Q683498",
+                "url": "https://en.wikipedia.org/wiki/Arthralgia"
+            },
+            {
+                "name": "meningism signs",
+                "qid": "Q12122651"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "bartonellosis",
+                "qid": "Q809561",
+                "url": "https://en.wikipedia.org/wiki/Bartonellosis"
+            },
+            {
+                "name": "bacterial infectious disease",
+                "qid": "Q727028",
+                "url": "https://en.wikipedia.org/wiki/Bacterial_disease"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "antibiotic",
+                "qid": "Q12187",
+                "url": "https://en.wikipedia.org/wiki/Antibiotic"
+            },
+            {
+                "name": "detoxification",
+                "qid": "Q1090423",
+                "url": "https://en.wikipedia.org/wiki/Detoxification"
+            },
+            {
+                "name": "analgesic",
+                "qid": "Q173235",
+                "url": "https://en.wikipedia.org/wiki/Analgesic"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Bartonella quintana",
+                "qid": "Q148561",
+                "url": "https://en.wikipedia.org/wiki/Bartonella_quintana"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "azithromycin",
+                "qid": "Q165399",
+                "url": "https://en.wikipedia.org/wiki/Azithromycin"
+            },
+            {
+                "name": "ceftriaxone",
+                "qid": "Q421713",
+                "url": "https://en.wikipedia.org/wiki/Ceftriaxone"
+            },
+            {
+                "name": "doxycycline",
+                "qid": "Q422442",
+                "url": "https://en.wikipedia.org/wiki/Doxycycline"
+            },
+            {
+                "name": "gentamicin",
+                "qid": "Q422482",
+                "url": "https://en.wikipedia.org/wiki/Gentamicin"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            },
+            {
+                "name": "military medicine",
+                "qid": "Q1480945",
+                "url": "https://en.wikipedia.org/wiki/Military_medicine"
+            }
+        ]
+    }
+}

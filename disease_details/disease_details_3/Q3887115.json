@@ -1,0 +1,33 @@
+{
+    "name": "purulent acute otitis media",
+    "qid": "Q3887115",
+    "icd_10": "H66.0",
+    "description": "suppurative otitis media with sudden onset and a short course",
+    "aliases": [
+        "acute suppurative otitis media with tympanic membrane intact",
+        "acute suppurative otitis media without spontaneous rupture of ear drum",
+        "acute suppurative otitis media without spontaneous rupture of ear drum (disorder)",
+        "suppurative otitis media, acute"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "Acute Otitis Media",
+                "qid": "Q864028"
+            },
+            {
+                "name": "suppurative otitis media",
+                "qid": "Q18554096"
+            }
+        ]
+    }
+}

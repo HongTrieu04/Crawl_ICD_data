@@ -1,0 +1,27 @@
+{
+    "name": "post-schizophrenic depression",
+    "qid": "Q3208285",
+    "icd_10": "F20.4",
+    "description": "depressive episode arising in the aftermath of a schizophrenic psychosis",
+    "aliases": [
+        "postschizophrenic depression"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Post-schizophrenic_depression",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "schizophrenia",
+                "qid": "Q41112",
+                "url": "https://en.wikipedia.org/wiki/Schizophrenia"
+            }
+        ]
+    }
+}

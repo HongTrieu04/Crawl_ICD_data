@@ -1,0 +1,27 @@
+{
+    "name": "Antepartum haemorrhage",
+    "qid": "Q2071048",
+    "icd_10": "O46",
+    "description": "medical condition",
+    "aliases": [
+        "prepartum hemorrhage"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Antepartum_bleeding",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "obstetrical hemorrhage",
+                "qid": "Q2496447",
+                "url": "https://en.wikipedia.org/wiki/Obstetrical_bleeding"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "obstetrics",
+                "qid": "Q5284418",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics"
+            }
+        ]
+    }
+}

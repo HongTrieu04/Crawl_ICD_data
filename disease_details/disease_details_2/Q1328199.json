@@ -1,0 +1,62 @@
+{
+    "name": "body odor",
+    "qid": "Q1328199",
+    "icd_10": "L75.0",
+    "description": "odor produced by a living animal",
+    "aliases": [
+        "body odour"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Body_odor",
+    "details": {
+        "Anatomical location": [
+            {
+                "name": "skin",
+                "qid": "Q1074",
+                "url": "https://en.wikipedia.org/wiki/Skin"
+            },
+            {
+                "name": "anus",
+                "qid": "Q497",
+                "url": "https://en.wikipedia.org/wiki/Anus"
+            },
+            {
+                "name": "armpit",
+                "qid": "Q499",
+                "url": "https://en.wikipedia.org/wiki/Axilla"
+            },
+            {
+                "name": "mouth",
+                "qid": "Q9635",
+                "url": "https://en.wikipedia.org/wiki/Mouth"
+            },
+            {
+                "name": "sex organ",
+                "qid": "Q4620674",
+                "url": "https://en.wikipedia.org/wiki/Sex_organ"
+            },
+            {
+                "name": "fur",
+                "qid": "Q197204",
+                "url": "https://en.wikipedia.org/wiki/Fur"
+            },
+            {
+                "name": "foot",
+                "qid": "Q15807",
+                "url": "https://en.wikipedia.org/wiki/Foot"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "odor",
+                "qid": "Q485537",
+                "url": "https://en.wikipedia.org/wiki/Odor"
+            },
+            {
+                "name": "side effect",
+                "qid": "Q3269441",
+                "url": "https://en.wikipedia.org/wiki/Side_effect"
+            }
+        ]
+    }
+}

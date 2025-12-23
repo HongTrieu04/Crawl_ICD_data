@@ -1,0 +1,30 @@
+{
+    "name": "Odontogenic myxoma",
+    "qid": "Q7077955",
+    "icd_10": "D16.4",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Odontogenic_myxoma",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "odontogenic tumor",
+                "qid": "Q7077953",
+                "url": "https://en.wikipedia.org/wiki/Odontogenic_tumor"
+            },
+            {
+                "name": "myxoma",
+                "qid": "Q589612",
+                "url": "https://en.wikipedia.org/wiki/Myxoma"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ]
+    }
+}

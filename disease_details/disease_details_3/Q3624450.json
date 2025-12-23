@@ -1,0 +1,31 @@
+{
+    "name": "enteropathic arthropathy",
+    "qid": "Q3624450",
+    "icd_10": "M07.6",
+    "description": "medical condition",
+    "aliases": [
+        "enteropathic arthritis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Enteropathic_arthropathy",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "arthritis",
+                "qid": "Q170990",
+                "url": "https://en.wikipedia.org/wiki/Arthritis"
+            },
+            {
+                "name": "infectious arthropathy",
+                "qid": "Q70971408"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "inflammatory bowel diseases",
+                "qid": "Q917447",
+                "url": "https://en.wikipedia.org/wiki/Inflammatory_bowel_disease"
+            }
+        ]
+    }
+}

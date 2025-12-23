@@ -1,0 +1,36 @@
+{
+    "name": "hepatic veno-occlusive disease",
+    "qid": "Q5731687",
+    "icd_10": "K76.5",
+    "description": "hepatic vascular disease that is characterized by obstruction of some of the small veins of the liver",
+    "aliases": [
+        "SOS",
+        "hepatic VOD",
+        "HVOD",
+        "Liver Veno-Occlusive Disease",
+        "Sinusoidal obstruction syndrome",
+        "veno-occlusive disease"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hepatic_veno-occlusive_disease",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "vein disorder",
+                "qid": "Q7918687",
+                "url": "https://en.wikipedia.org/wiki/Vein_disorders"
+            },
+            {
+                "name": "hepatic vascular disease",
+                "qid": "Q18555173"
+            }
+        ]
+    }
+}

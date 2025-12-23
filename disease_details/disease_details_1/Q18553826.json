@@ -1,0 +1,29 @@
+{
+    "name": "subendocardial infarction acute myocardial infarction",
+    "qid": "Q18553826",
+    "icd_10": "I21.4",
+    "description": "Human disease",
+    "aliases": [
+        "acute nontransmural infarction",
+        "acute subendocardial infarction",
+        "subendocardial myocardial infarction, acute"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "acute myocardial infarction",
+                "qid": "Q18558122",
+                "url": "https://en.wikipedia.org/wiki/Acute_myocardial_infarction"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "name": "follicular lymphoma",
+    "qid": "Q123251",
+    "icd_10": "C82",
+    "description": "non-Hodgkin lymphoma that is characterized as an indolent non-Hodgkin's lymphoma and has_material_basis_in follicle center B-cells (centrocytes and centroblasts).",
+    "aliases": [
+        "Follicle Center Lymphoma",
+        "Follicular low grade B-cell lymphoma (disorder)",
+        "Follicular lymphoma, FL",
+        "Follicular non-Hodgkin's lymphoma (disorder)",
+        "Giant follicular lymphosarcoma",
+        "Lymphoma, Follicular",
+        "malignant lymphoma, follicle centre",
+        "malignant lymphoma, nodular NOS (morphologic abnormality)",
+        "nodular lymphoma",
+        "nodular lymphoma (Brill - Symmers disease)",
+        "obsolete nodular lymphoma"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lymphoma%20macro.jpg",
+    "url": "https://en.wikipedia.org/wiki/Follicular_lymphoma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "B-cell lymphoma",
+                "qid": "Q4833719",
+                "url": "https://en.wikipedia.org/wiki/B-cell_lymphoma"
+            }
+        ]
+    }
+}

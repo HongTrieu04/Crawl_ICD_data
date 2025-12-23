@@ -1,0 +1,26 @@
+{
+    "name": "talus fracture",
+    "qid": "Q28501283",
+    "icd_10": "S92.1",
+    "description": null,
+    "aliases": [
+        "talar fracture"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Talar%20Fractures.jpg",
+    "url": null,
+    "details": {
+        "Anatomical location": [
+            {
+                "name": "talus",
+                "qid": "Q13100",
+                "url": "https://en.wikipedia.org/wiki/Talus_bone"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "foot fracture",
+                "qid": "Q30904172"
+            }
+        ]
+    }
+}

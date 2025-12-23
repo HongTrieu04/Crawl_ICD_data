@@ -1,0 +1,155 @@
+{
+    "name": "West Nile fever",
+    "qid": "Q11627066",
+    "icd_10": "A92.3",
+    "description": "human disease",
+    "aliases": [
+        "obsolete West Nile virus infectious disease",
+        "West Nile virus infectious disease"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NIAID-west-Nile.jpg",
+    "url": "https://en.wikipedia.org/wiki/West_Nile_fever",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            },
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "meningitis",
+                "qid": "Q48143",
+                "url": "https://en.wikipedia.org/wiki/Meningitis"
+            },
+            {
+                "name": "vomiting",
+                "qid": "Q127076",
+                "url": "https://en.wikipedia.org/wiki/Vomiting"
+            },
+            {
+                "name": "conjunctivitis",
+                "qid": "Q167844",
+                "url": "https://en.wikipedia.org/wiki/Conjunctivitis"
+            },
+            {
+                "name": "nausea",
+                "qid": "Q186889",
+                "url": "https://en.wikipedia.org/wiki/Nausea"
+            },
+            {
+                "name": "encephalitis",
+                "qid": "Q199615",
+                "url": "https://en.wikipedia.org/wiki/Encephalitis"
+            },
+            {
+                "name": "meningoencephalitis",
+                "qid": "Q2346415",
+                "url": "https://en.wikipedia.org/wiki/Meningoencephalitis"
+            },
+            {
+                "name": "rash",
+                "qid": "Q653197",
+                "url": "https://en.wikipedia.org/wiki/Rash"
+            },
+            {
+                "name": "arthralgia",
+                "qid": "Q683498",
+                "url": "https://en.wikipedia.org/wiki/Arthralgia"
+            },
+            {
+                "name": "lymphadenopathy",
+                "qid": "Q847726",
+                "url": "https://en.wikipedia.org/wiki/Lymphadenopathy"
+            },
+            {
+                "name": "splenomegaly",
+                "qid": "Q1129121",
+                "url": "https://en.wikipedia.org/wiki/Splenomegaly"
+            },
+            {
+                "name": "hepatomegaly",
+                "qid": "Q1362864",
+                "url": "https://en.wikipedia.org/wiki/Hepatomegaly"
+            },
+            {
+                "name": "myalgia",
+                "qid": "Q474959",
+                "url": "https://en.wikipedia.org/wiki/Myalgia"
+            },
+            {
+                "name": "poisoning",
+                "qid": "Q114953"
+            },
+            {
+                "name": "meningism signs",
+                "qid": "Q12122651"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            },
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "West Nile virus",
+                "qid": "Q158856",
+                "url": "https://en.wikipedia.org/wiki/West_Nile_virus"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "mechanical ventilation",
+                "qid": "Q3766250",
+                "url": "https://en.wikipedia.org/wiki/Mechanical_ventilation"
+            },
+            {
+                "name": "anticonvulsant agent",
+                "qid": "Q576618",
+                "url": "https://en.wikipedia.org/wiki/Anticonvulsant"
+            },
+            {
+                "name": "symptomatic treatment",
+                "qid": "Q621558",
+                "url": "https://en.wikipedia.org/wiki/Symptomatic_treatment"
+            },
+            {
+                "name": "diuretic",
+                "qid": "Q200656",
+                "url": "https://en.wikipedia.org/wiki/Diuretic"
+            },
+            {
+                "name": "corticosteroid",
+                "qid": "Q210420",
+                "url": "https://en.wikipedia.org/wiki/Corticosteroid"
+            },
+            {
+                "name": "intravenous fluid replacement",
+                "qid": "Q24885926"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "viral infectious disease",
+                "qid": "Q1928978",
+                "url": "https://en.wikipedia.org/wiki/Viral_disease"
+            },
+            {
+                "name": "flavivirus infectious disease",
+                "qid": "Q19001421"
+            }
+        ]
+    }
+}

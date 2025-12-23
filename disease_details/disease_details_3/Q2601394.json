@@ -1,0 +1,38 @@
+{
+    "name": "abnormal posturing",
+    "qid": "Q2601394",
+    "icd_10": "R29.3",
+    "description": "strange posture from brain injury",
+    "aliases": [
+        "abnormal posture",
+        "Abnormal posturing",
+        "Decerebrate extension",
+        "Decorticate flexion"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Abnormal_posturing",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "movement disorders",
+                "qid": "Q2608695",
+                "url": "https://en.wikipedia.org/wiki/Movement_disorder"
+            },
+            {
+                "name": "postural reaction",
+                "qid": "Q102187148"
+            },
+            {
+                "name": "musculoskeletal system symptom",
+                "qid": "Q102187380"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "name": "macrocephaly",
+    "qid": "Q635339",
+    "icd_10": "Q75.3",
+    "description": "human disease",
+    "aliases": [
+        "(Macroencephaly) or (megalencephaly) or (enlarged brain) or (macrocephaly)",
+        "Benign familial macrocephaly",
+        "Benign familial megalencephaly",
+        "Cole-Hughes syndrome",
+        "macrocephalia",
+        "Macrocephaly (disorder)",
+        "MACROCEPHALY, benign familial",
+        "megacephaly",
+        "obsolete macrocephaly"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Parasagittal%20MRI%20of%20human%20head%20in%20patient%20with%20benign%20familial%20macrocephaly%20prior%20to%20brain%20injury%20%28ANIMATED%29.gif",
+    "url": "https://en.wikipedia.org/wiki/Macrocephaly",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "genetic disease",
+                "qid": "Q200779",
+                "url": "https://en.wikipedia.org/wiki/Genetic_disorder"
+            },
+            {
+                "name": "craniofacial abnormality",
+                "qid": "Q5182137",
+                "url": "https://en.wikipedia.org/wiki/Craniofacial_abnormality"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

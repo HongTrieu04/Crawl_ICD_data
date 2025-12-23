@@ -1,0 +1,36 @@
+{
+    "name": "adverse effect",
+    "qid": "Q2047938",
+    "icd_10": "T78",
+    "description": "undesired harmful effect resulting from a medication or other medical intervention",
+    "aliases": [
+        "side effect",
+        "adverse consequence",
+        "adverse reaction",
+        "Long Term Adverse Effect",
+        "Long Term Adverse Effects"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Adverse_effect",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "pharmacology",
+                "qid": "Q128406",
+                "url": "https://en.wikipedia.org/wiki/Pharmacology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "iatrogenesis",
+                "qid": "Q284220",
+                "url": "https://en.wikipedia.org/wiki/Iatrogenesis"
+            },
+            {
+                "name": "side effect",
+                "qid": "Q3269441",
+                "url": "https://en.wikipedia.org/wiki/Side_effect"
+            }
+        ]
+    }
+}

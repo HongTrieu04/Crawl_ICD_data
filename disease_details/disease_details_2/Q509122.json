@@ -1,0 +1,50 @@
+{
+    "name": "avoidant personality disorder",
+    "qid": "Q509122",
+    "icd_10": "F60.6",
+    "description": "personality disorder involving severe social anxiety",
+    "aliases": [
+        "anxious personality disorder",
+        "AvPD"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Avoidant_personality_disorder",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "psychology",
+                "qid": "Q9418",
+                "url": "https://en.wikipedia.org/wiki/Psychology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "personality disorder",
+                "qid": "Q270673",
+                "url": "https://en.wikipedia.org/wiki/Personality_disorder"
+            },
+            {
+                "name": "harm avoidance",
+                "qid": "Q5659011",
+                "url": "https://en.wikipedia.org/wiki/Harm_avoidance"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "avoidance coping",
+                "qid": "Q2517007",
+                "url": "https://en.wikipedia.org/wiki/Avoidance_coping"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "aneurysm of hepatic artery",
+    "qid": "Q2857924",
+    "icd_10": "I72.8",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "aneurysm",
+                "qid": "Q189389",
+                "url": "https://en.wikipedia.org/wiki/Aneurysm"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ]
+    }
+}

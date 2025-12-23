@@ -1,0 +1,28 @@
+{
+    "name": "ganglion cyst",
+    "qid": "Q1144367",
+    "icd_10": "M67.4",
+    "description": "fluid-filled bump associated with a joint or tendon sheath",
+    "aliases": [
+        "Ganglion Cyst",
+        "ganglion cysts"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cyst%20Profile2.JPG",
+    "url": "https://en.wikipedia.org/wiki/Ganglion_cyst",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "cyst",
+                "qid": "Q193211",
+                "url": "https://en.wikipedia.org/wiki/Cyst"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ]
+    }
+}

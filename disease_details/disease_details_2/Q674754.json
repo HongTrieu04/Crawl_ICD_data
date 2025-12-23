@@ -1,0 +1,19 @@
+{
+    "name": "Jugular foramen syndrome",
+    "qid": "Q674754",
+    "icd_10": "G52.7",
+    "description": "medical condition",
+    "aliases": [
+        "Vernet's syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Jugular_foramen_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "multiple cranial nerve palsy",
+                "qid": "Q18554623"
+            }
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "name": "acrodermatitis chronica atrophicans",
+    "qid": "Q420804",
+    "icd_10": "L90.4",
+    "description": "acrodermatitis characterized by a chronically progressive course, leading to widespread atrophy of the skin. It is a clinical manifestation of Lyme borreliosis",
+    "aliases": [
+        "Acrodermatitis atrophicans chronica",
+        "Herxheimer disease",
+        "primary diffuse atrophy"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Acrodermatitis_chronica_atrophicans",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "Lyme disease",
+                "qid": "Q201989",
+                "url": "https://en.wikipedia.org/wiki/Lyme_disease"
+            },
+            {
+                "name": "acrodermatitis",
+                "qid": "Q4675757",
+                "url": "https://en.wikipedia.org/wiki/Acrodermatitis"
+            }
+        ]
+    }
+}

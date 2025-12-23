@@ -1,0 +1,17 @@
+{
+    "name": "primary cutaneous gamma/delta-positive T-cell lymphoma",
+    "qid": "Q55785735",
+    "icd_10": "C84.5",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "aggressive primary cutaneous T-cell lymphoma",
+                "qid": "Q55785738"
+            }
+        ]
+    }
+}

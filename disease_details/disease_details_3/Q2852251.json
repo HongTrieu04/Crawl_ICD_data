@@ -1,0 +1,32 @@
+{
+    "name": "abdominal wall defect",
+    "qid": "Q2852251",
+    "icd_10": "Q79",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Abdominal_wall_defect",
+    "details": {
+        "Anatomical location": [
+            {
+                "name": "abdominal wall",
+                "qid": "Q354111",
+                "url": "https://en.wikipedia.org/wiki/Abdominal_wall"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "congenital disorder",
+                "qid": "Q727096",
+                "url": "https://en.wikipedia.org/wiki/Birth_defect"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

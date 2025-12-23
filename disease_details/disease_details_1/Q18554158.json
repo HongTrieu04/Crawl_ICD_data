@@ -1,0 +1,27 @@
+{
+    "name": "odontoclasia",
+    "qid": "Q18554158",
+    "icd_10": "K02.4",
+    "description": "Human disease",
+    "aliases": [
+        "Odontoclasia (disorder)"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "dental caries",
+                "qid": "Q133772",
+                "url": "https://en.wikipedia.org/wiki/Tooth_decay"
+            }
+        ]
+    }
+}

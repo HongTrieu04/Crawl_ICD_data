@@ -1,0 +1,30 @@
+{
+    "name": "symptom-depleted schizophrenia",
+    "qid": "Q28741649",
+    "icd_10": "F21.5",
+    "description": "subtype of schizophrenia defined in Russia, characterized by negative symptoms (apathy, asthenia, flattened affect, autism)",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "schizophrenia spectrum disorder",
+                "qid": "Q2903417",
+                "url": "https://en.wikipedia.org/wiki/Schizophrenia_spectrum"
+            },
+            {
+                "name": "schizophrenia",
+                "qid": "Q41112",
+                "url": "https://en.wikipedia.org/wiki/Schizophrenia"
+            }
+        ]
+    }
+}

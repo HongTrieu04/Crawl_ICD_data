@@ -1,0 +1,121 @@
+{
+    "name": "chickenpox",
+    "qid": "Q44727",
+    "icd_10": "B01",
+    "description": "human disease",
+    "aliases": [
+        "chicken pox",
+        "chicken pox infection",
+        "varicella"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Child%20with%20chickenpox.jpg",
+    "url": "https://en.wikipedia.org/wiki/Chickenpox",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            },
+            {
+                "name": "fatigue",
+                "qid": "Q9690",
+                "url": "https://en.wikipedia.org/wiki/Fatigue"
+            },
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "papule",
+                "qid": "Q997862",
+                "url": "https://en.wikipedia.org/wiki/Papule"
+            },
+            {
+                "name": "macula",
+                "qid": "Q1515219",
+                "url": "https://en.wikipedia.org/wiki/Macule"
+            },
+            {
+                "name": "itch",
+                "qid": "Q199602",
+                "url": "https://en.wikipedia.org/wiki/Itch"
+            },
+            {
+                "name": "lymphadenopathy",
+                "qid": "Q847726",
+                "url": "https://en.wikipedia.org/wiki/Lymphadenopathy"
+            },
+            {
+                "name": "vesicle",
+                "qid": "Q189206",
+                "url": "https://en.wikipedia.org/wiki/Vesicle_(biology_and_chemistry)"
+            },
+            {
+                "name": "low-grade fever",
+                "qid": "Q480971"
+            },
+            {
+                "name": "erosion",
+                "qid": "Q991153"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Human herpesvirus 3",
+                "qid": "Q6868",
+                "url": "https://en.wikipedia.org/wiki/Varicella_zoster_virus"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "pediatrics",
+                "qid": "Q123028",
+                "url": "https://en.wikipedia.org/wiki/Pediatrics"
+            },
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "aciclovir",
+                "qid": "Q147101",
+                "url": "https://en.wikipedia.org/wiki/Aciclovir"
+            },
+            {
+                "name": "ganciclovir",
+                "qid": "Q417640",
+                "url": "https://en.wikipedia.org/wiki/Ganciclovir"
+            },
+            {
+                "name": "zinc oxide",
+                "qid": "Q190077",
+                "url": "https://en.wikipedia.org/wiki/Zinc_oxide"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "viral infectious disease",
+                "qid": "Q1928978",
+                "url": "https://en.wikipedia.org/wiki/Viral_disease"
+            },
+            {
+                "name": "skin infection",
+                "qid": "Q2458539",
+                "url": "https://en.wikipedia.org/wiki/Skin_infection"
+            },
+            {
+                "name": "Herpesviridae infectious disease",
+                "qid": "Q18975237"
+            },
+            {
+                "name": "varicella zoster infection",
+                "qid": "Q55779917"
+            }
+        ]
+    }
+}

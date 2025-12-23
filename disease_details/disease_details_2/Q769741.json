@@ -1,0 +1,40 @@
+{
+    "name": "adenoviral keratoconjunctivitis",
+    "qid": "Q769741",
+    "icd_10": "B30.0",
+    "description": "common and highly contagious viral infection of the eye",
+    "aliases": [
+        "EKC",
+        "Epidemic keratoconjunctivitis",
+        "Epidemic Keratoconjunctivitis",
+        "Sanders’ disease",
+        "shipyard eye"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Adenoviral_keratoconjunctivitis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "adenovirus infection",
+                "qid": "Q837054",
+                "url": "https://en.wikipedia.org/wiki/Adenovirus_infection"
+            },
+            {
+                "name": "keratoconjunctivitis",
+                "qid": "Q1623006",
+                "url": "https://en.wikipedia.org/wiki/Keratoconjunctivitis"
+            },
+            {
+                "name": "viral conjunctivitis",
+                "qid": "Q54974347"
+            }
+        ]
+    }
+}

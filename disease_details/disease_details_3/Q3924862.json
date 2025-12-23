@@ -1,0 +1,32 @@
+{
+    "name": "intestinal pseudo-obstruction",
+    "qid": "Q3924862",
+    "icd_10": "K59.88",
+    "description": "Human disease",
+    "aliases": [
+        "intestinal Pseudo-obstruction",
+        "intestine pseudoobstruction",
+        "obsolete intestinal pseudo-obstruction",
+        "Ogilvie Syndrome",
+        "Pseudo-obstruction of intestine",
+        "Pseudo-obstruction of intestine (disorder)"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Intestinal_pseudo-obstruction",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "ileus",
+                "qid": "Q738153",
+                "url": "https://en.wikipedia.org/wiki/Ileus"
+            }
+        ]
+    }
+}

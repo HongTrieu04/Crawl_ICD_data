@@ -1,0 +1,25 @@
+{
+    "name": "Congenital anomalies of spine",
+    "qid": "Q5160409",
+    "icd_10": "Q67.5",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Congenital_anomalies_of_spine",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "congenital vertebral anomaly",
+                "qid": "Q332343",
+                "url": "https://en.wikipedia.org/wiki/Congenital_vertebral_anomaly"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

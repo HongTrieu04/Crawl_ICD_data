@@ -1,0 +1,72 @@
+{
+    "name": "aceruloplasminemia",
+    "qid": "Q337604",
+    "icd_10": "E83.1",
+    "description": "adult-onset disorder of neurodegeneration with brain iron accumulation",
+    "aliases": [
+        "ACERULOPLASMINEMIA",
+        "Ceruloplasmin Deficiency",
+        "Familial apoceruloplasmin deficiency",
+        "Hemosiderosis, Systemic, Due to Aceruloplasminemia",
+        "Hereditary ceruloplasmin deficiency",
+        "Hypoceruloplasminemia",
+        "Systemic hemosiderosis due to aceruloplasminemia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Aceruloplasminemia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "iron overload",
+                "qid": "Q2025687",
+                "url": "https://en.wikipedia.org/wiki/Iron_overload"
+            },
+            {
+                "name": "iron metabolism disease",
+                "qid": "Q6072985",
+                "url": "https://en.wikipedia.org/wiki/Iron_metabolism_disorder"
+            },
+            {
+                "name": "neurodegeneration with brain iron accumulation",
+                "qid": "Q16892735",
+                "url": "https://en.wikipedia.org/wiki/Neurodegeneration_with_brain_iron_accumulation"
+            },
+            {
+                "name": "autosomal recessive disease",
+                "qid": "Q10267817"
+            },
+            {
+                "name": "hereditary retinal dystrophy",
+                "qid": "Q18557955"
+            },
+            {
+                "name": "eye degenerative disease",
+                "qid": "Q18558225"
+            },
+            {
+                "name": "nervous system heredodegenerative disease",
+                "qid": "Q19001236"
+            },
+            {
+                "name": "constitutional anemia due to iron metabolism disorder",
+                "qid": "Q55789120"
+            },
+            {
+                "name": "metabolic disease with pigmentary retinitis",
+                "qid": "Q55789276"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ]
+    }
+}

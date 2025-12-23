@@ -1,0 +1,29 @@
+{
+    "name": "Hurthle cell",
+    "qid": "Q4223446",
+    "icd_10": "C73.9",
+    "description": "Thyroid follicles lined by deeply eosinophilic Hürthle cells are seen in Hashimoto disease",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/H%C3%BCrthle_cell",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "cell",
+                "qid": "Q7868",
+                "url": "https://en.wikipedia.org/wiki/Cell_(biology)"
+            },
+            {
+                "name": "abnormal cell",
+                "qid": "Q106161446"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ]
+    }
+}

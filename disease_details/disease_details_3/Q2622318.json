@@ -1,0 +1,36 @@
+{
+    "name": "neonatal alloimmune thrombocytopenia",
+    "qid": "Q2622318",
+    "icd_10": "P61.0",
+    "description": "platelet-related disease affecting fetuses and infants, which can be fatal",
+    "aliases": [
+        "NATP",
+        "NAIT",
+        "Thrombocytopenia, Neonatal Alloimmune"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Neonatal_alloimmune_thrombocytopenia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "pediatrics",
+                "qid": "Q123028",
+                "url": "https://en.wikipedia.org/wiki/Pediatrics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "neonatal alloimmune disease",
+                "qid": "Q3149939"
+            },
+            {
+                "name": "thrombocytopenia due to platelet alloimmunization",
+                "qid": "Q18554848"
+            },
+            {
+                "name": "rare hemorrhagic disorder due to an acquired platelet anomaly",
+                "qid": "Q55786343"
+            }
+        ]
+    }
+}

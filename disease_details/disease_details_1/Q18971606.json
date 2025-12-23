@@ -1,0 +1,21 @@
+{
+    "name": "adhesions and disruptions of iris and ciliary body",
+    "qid": "Q18971606",
+    "icd_10": "H21.5",
+    "description": "Human disease",
+    "aliases": [
+        "adhesions and disruptions of iris and ciliary body (disorder)",
+        "adhesions and disruptions of iris and ciliary body NOS (disorder)",
+        "obsolete adhesions and disruptions of iris and ciliary body"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "iris disease",
+                "qid": "Q18555070"
+            }
+        ]
+    }
+}

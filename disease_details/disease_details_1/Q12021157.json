@@ -1,0 +1,27 @@
+{
+    "name": "hyperglobulinemia",
+    "qid": "Q12021157",
+    "icd_10": "R77.1",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "symptom",
+                "qid": "Q169872",
+                "url": "https://en.wikipedia.org/wiki/Symptom"
+            },
+            {
+                "name": "hyperproteinemia",
+                "qid": "Q3144191",
+                "url": "https://en.wikipedia.org/wiki/Hyperproteinemia"
+            },
+            {
+                "name": "abnormally high value",
+                "qid": "Q63345803"
+            }
+        ]
+    }
+}

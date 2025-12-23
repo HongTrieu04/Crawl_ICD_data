@@ -1,0 +1,27 @@
+{
+    "name": "post-dural-puncture headache",
+    "qid": "Q1810609",
+    "icd_10": "G44.82",
+    "description": "common side-effect of lumbar puncture or spinal anaesthesia",
+    "aliases": [
+        "post-lumbar-puncture headache"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Post-dural-puncture_headache",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ]
+    }
+}

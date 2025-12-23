@@ -1,0 +1,38 @@
+{
+    "name": "malignant pleural effusion",
+    "qid": "Q6743514",
+    "icd_10": "C78.2",
+    "description": "human disease",
+    "aliases": [
+        "malignant Pleural Effusion",
+        "neoplastic pleural effusion (disorder)",
+        "obsolete malignant pleural effusion",
+        "Pleural Effusion, Malignant"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Malignant_pleural_effusion",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "pleural effusion",
+                "qid": "Q1334541",
+                "url": "https://en.wikipedia.org/wiki/Pleural_effusion"
+            },
+            {
+                "name": "metastasis to pleura",
+                "qid": "Q18967563"
+            },
+            {
+                "name": "pleural neoplasm",
+                "qid": "Q56014471"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ]
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "name": "iron deficiency anemia",
+    "qid": "Q954674",
+    "icd_10": "D50",
+    "description": "anemia caused by a lack of iron",
+    "aliases": [
+        "IDA",
+        "Anemia, Iron-Deficiency",
+        "iron deficiency anaemia",
+        "Iron-Deficiency Anemia"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Heme%20b.svg",
+    "url": "https://en.wikipedia.org/wiki/Iron-deficiency_anemia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "deficiency anemia",
+                "qid": "Q7070519",
+                "url": "https://en.wikipedia.org/wiki/Nutritional_anemia"
+            },
+            {
+                "name": "iron deficiency",
+                "qid": "Q1313081",
+                "url": "https://en.wikipedia.org/wiki/Iron_deficiency"
+            },
+            {
+                "name": "hypochromic anemia",
+                "qid": "Q2306782",
+                "url": "https://en.wikipedia.org/wiki/Hypochromic_anemia"
+            },
+            {
+                "name": "nutritional deficiency disease",
+                "qid": "Q1890194"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "sodium ferric gluconate complex",
+                "qid": "Q7553318",
+                "url": "https://en.wikipedia.org/wiki/Sodium_ferric_gluconate_complex"
+            },
+            {
+                "name": "ferric carboxymaltose",
+                "qid": "Q20817270",
+                "url": "https://en.wikipedia.org/wiki/Ferric_carboxymaltose"
+            },
+            {
+                "name": "iron",
+                "qid": "Q677",
+                "url": "https://en.wikipedia.org/wiki/Iron"
+            },
+            {
+                "name": "iron(II) fumarate",
+                "qid": "Q416370",
+                "url": "https://en.wikipedia.org/wiki/Iron(II)_fumarate"
+            },
+            {
+                "name": "ferrous sulfate heptahydrate",
+                "qid": "Q27105054"
+            },
+            {
+                "name": "ferrous gluconate dihydrate",
+                "qid": "Q27290556"
+            },
+            {
+                "name": "iron sucrose",
+                "qid": "Q27888379"
+            },
+            {
+                "name": "Ferumoxides",
+                "qid": "Q47495792"
+            }
+        ]
+    }
+}

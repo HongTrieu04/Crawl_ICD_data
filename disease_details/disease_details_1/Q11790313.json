@@ -1,0 +1,48 @@
+{
+    "name": "intermittent hydrarthrosis",
+    "qid": "Q11790313",
+    "icd_10": "M12.4",
+    "description": "human disease",
+    "aliases": [
+        "periodic benign synovitis",
+        "periodic hydrarthritis",
+        "periodic synoviosis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Intermittent_hydrarthrosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "arthropathy",
+                "qid": "Q708176",
+                "url": "https://en.wikipedia.org/wiki/Arthropathy"
+            },
+            {
+                "name": "rare rheumatologic disease",
+                "qid": "Q55785828"
+            },
+            {
+                "name": "genetic systemic or rheumatologic disease",
+                "qid": "Q55786852"
+            },
+            {
+                "name": "rare genetic disease",
+                "qid": "Q55789522"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "joint effusion",
+                "qid": "Q1499629",
+                "url": "https://en.wikipedia.org/wiki/Joint_effusion"
+            }
+        ]
+    }
+}

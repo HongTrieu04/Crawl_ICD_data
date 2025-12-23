@@ -1,0 +1,44 @@
+{
+    "name": "keratoconjunctivitis sicca",
+    "qid": "Q1162694",
+    "icd_10": "H04.1",
+    "description": "condition of having dry eyes",
+    "aliases": [
+        "KCS",
+        "Sicca, Keratoconjunctivitis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Dry_eye_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "keratoconjunctivitis",
+                "qid": "Q1623006",
+                "url": "https://en.wikipedia.org/wiki/Keratoconjunctivitis"
+            },
+            {
+                "name": "dry eye syndrome",
+                "qid": "Q18553790"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "artificial tears",
+                "qid": "Q1703024",
+                "url": "https://en.wikipedia.org/wiki/Artificial_tears"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "idiopathic hypersomnia",
+    "qid": "Q2730080",
+    "icd_10": "G47.12",
+    "description": "neurological disorder which is characterized primarily by excessive sleep and excessive daytime sleepiness",
+    "aliases": [
+        "Idiopathic hypersomnia",
+        "Idiopathic hypersomnolence",
+        "Primary hypersomnia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Idiopathic_hypersomnia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "hypersomnia",
+                "qid": "Q751641",
+                "url": "https://en.wikipedia.org/wiki/Hypersomnia"
+            }
+        ]
+    }
+}

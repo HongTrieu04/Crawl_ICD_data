@@ -1,0 +1,34 @@
+{
+    "name": "nephrotoxicity",
+    "qid": "Q1468324",
+    "icd_10": "N14",
+    "description": "toxic effect on the kidneys",
+    "aliases": [
+        "drug-induced kidney injury",
+        "Nephropathy toxic",
+        "toxic nephropaty"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Nephrotoxicity",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "toxicity",
+                "qid": "Q274160",
+                "url": "https://en.wikipedia.org/wiki/Toxicity"
+            },
+            {
+                "name": "kidney disease",
+                "qid": "Q1054718",
+                "url": "https://en.wikipedia.org/wiki/Kidney_disease"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "intoxication",
+                "qid": "Q18621601",
+                "url": "https://en.wikipedia.org/wiki/Poisoning"
+            }
+        ]
+    }
+}

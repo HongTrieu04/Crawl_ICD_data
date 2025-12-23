@@ -1,0 +1,32 @@
+{
+    "name": "arthritis mutilans",
+    "qid": "Q4797639",
+    "icd_10": "M07.1",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Arthritis_mutilans",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "polyarthritis",
+                "qid": "Q1274464",
+                "url": "https://en.wikipedia.org/wiki/Polyarthritis"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "psoriatic arthritis",
+                "qid": "Q511097",
+                "url": "https://en.wikipedia.org/wiki/Psoriatic_arthritis"
+            }
+        ]
+    }
+}

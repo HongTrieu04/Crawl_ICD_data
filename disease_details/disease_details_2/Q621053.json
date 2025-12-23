@@ -1,0 +1,25 @@
+{
+    "name": "taijin kyofusho",
+    "qid": "Q621053",
+    "icd_10": "F40.8",
+    "description": "Japanese culture-bound syndrome",
+    "aliases": [
+        "taijin kyōfushō"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Taijin_kyofusho",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "social anxiety disorder",
+                "qid": "Q281928",
+                "url": "https://en.wikipedia.org/wiki/Social_anxiety_disorder"
+            },
+            {
+                "name": "culture-bound syndrome",
+                "qid": "Q1791709",
+                "url": "https://en.wikipedia.org/wiki/Culture-bound_syndrome"
+            }
+        ]
+    }
+}

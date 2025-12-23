@@ -1,0 +1,25 @@
+{
+    "name": "gyromitrin syndrome",
+    "qid": "Q3961701",
+    "icd_10": "T62.0",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "mushroom poisoning",
+                "qid": "Q852186",
+                "url": "https://en.wikipedia.org/wiki/Mushroom_poisoning"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ]
+    }
+}

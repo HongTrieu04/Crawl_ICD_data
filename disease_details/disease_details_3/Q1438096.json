@@ -1,0 +1,25 @@
+{
+    "name": "sibling rivalry",
+    "qid": "Q1438096",
+    "icd_10": "F93.3",
+    "description": "type of competition or animosity among siblings",
+    "aliases": [
+        "sibling rivalry disorder"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Siblings%201900%20hg.jpg",
+    "url": "https://en.wikipedia.org/wiki/Sibling_rivalry",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "rivalry",
+                "qid": "Q1139327",
+                "url": "https://en.wikipedia.org/wiki/Rivalry"
+            },
+            {
+                "name": "sibling relationship",
+                "qid": "Q1518105",
+                "url": "https://en.wikipedia.org/wiki/Sibling_relationship"
+            }
+        ]
+    }
+}

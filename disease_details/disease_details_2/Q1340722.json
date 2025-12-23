@@ -1,0 +1,43 @@
+{
+    "name": "Graves' ophthalmopathy",
+    "qid": "Q1340722",
+    "icd_10": "H05.2",
+    "description": "thyroid eye disease often associated with Graves' disease",
+    "aliases": [
+        "Graves Ophthalmopathy"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Graves%27_ophthalmopathy",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "Von Graefe's sign",
+                "qid": "Q913912",
+                "url": "https://en.wikipedia.org/wiki/Von_Graefe%27s_sign"
+            },
+            {
+                "name": "lid lag",
+                "qid": "Q25098595",
+                "url": "https://en.wikipedia.org/wiki/Lid_lag"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "toxic diffuse goiter",
+                "qid": "Q16483",
+                "url": "https://en.wikipedia.org/wiki/Graves%27_disease"
+            },
+            {
+                "name": "eye and adnexa disease",
+                "qid": "Q18554821"
+            }
+        ]
+    }
+}

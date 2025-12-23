@@ -1,0 +1,29 @@
+{
+    "name": "corneal perforation",
+    "qid": "Q5171111",
+    "icd_10": "S05.3",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Corneal_perforation",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            },
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "corneal damage",
+                "qid": "Q21110016"
+            }
+        ]
+    }
+}

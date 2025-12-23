@@ -1,0 +1,61 @@
+{
+    "name": "bone fracture",
+    "qid": "Q68833",
+    "icd_10": "T14.2",
+    "description": "medical condition in which there is physical damage to the continuity of the bones",
+    "aliases": [
+        "broken bone"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Broken%20fixed%20arm.jpg",
+    "url": "https://en.wikipedia.org/wiki/Bone_fracture",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "bone disease",
+                "qid": "Q4941552",
+                "url": "https://en.wikipedia.org/wiki/Bone_disease"
+            },
+            {
+                "name": "injury in humans",
+                "qid": "Q193078",
+                "url": "https://en.wikipedia.org/wiki/Injury_in_humans"
+            },
+            {
+                "name": "major trauma",
+                "qid": "Q1064904",
+                "url": "https://en.wikipedia.org/wiki/Major_trauma"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "injury in humans",
+                "qid": "Q193078",
+                "url": "https://en.wikipedia.org/wiki/Injury_in_humans"
+            },
+            {
+                "name": "stress fracture",
+                "qid": "Q41392",
+                "url": "https://en.wikipedia.org/wiki/Stress_fracture"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "denosumab",
+                "qid": "Q408283",
+                "url": "https://en.wikipedia.org/wiki/Denosumab"
+            },
+            {
+                "name": "teriparatide",
+                "qid": "Q411781",
+                "url": "https://en.wikipedia.org/wiki/Teriparatide"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "osteology",
+                "qid": "Q819121",
+                "url": "https://en.wikipedia.org/wiki/Osteology"
+            }
+        ]
+    }
+}

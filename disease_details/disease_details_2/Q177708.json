@@ -1,0 +1,37 @@
+{
+    "name": "menopause",
+    "qid": "Q177708",
+    "icd_10": "N95",
+    "description": "when menstrual periods stop permanently",
+    "aliases": [
+        "climacteric",
+        "GO:0042697",
+        "menopause, postmenopausal syndrome"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Perimenopause.jpg",
+    "url": "https://en.wikipedia.org/wiki/Menopause",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "climacteric",
+                "qid": "Q603557",
+                "url": "https://en.wikipedia.org/wiki/Climacteric_(human)"
+            },
+            {
+                "name": "menstrual cycle phase",
+                "qid": "Q14908045"
+            },
+            {
+                "name": "reproductive senescence",
+                "qid": "Q22299008"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gynaecology",
+                "qid": "Q1221899",
+                "url": "https://en.wikipedia.org/wiki/Gynaecology"
+            }
+        ]
+    }
+}

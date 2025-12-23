@@ -1,0 +1,28 @@
+{
+    "name": "traumatic amputation",
+    "qid": "Q7835822",
+    "icd_10": "T14.7",
+    "description": "removal of a body extremity due to an accident or combat",
+    "aliases": [
+        "Amputation, Traumatic",
+        "crushing injury and traumatic amputation of unspecified body region",
+        "crushing injury NOS",
+        "traumatic amputation NOS"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Traumatic_amputation",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "amputation",
+                "qid": "Q477415",
+                "url": "https://en.wikipedia.org/wiki/Amputation"
+            },
+            {
+                "name": "major trauma",
+                "qid": "Q1064904",
+                "url": "https://en.wikipedia.org/wiki/Major_trauma"
+            }
+        ]
+    }
+}

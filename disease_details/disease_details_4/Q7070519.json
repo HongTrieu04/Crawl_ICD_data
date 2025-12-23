@@ -1,0 +1,35 @@
+{
+    "name": "deficiency anemia",
+    "qid": "Q7070519",
+    "icd_10": "D53",
+    "description": "Human disease",
+    "aliases": [
+        "deficiency anemias",
+        "deficiency anemias (disorder)",
+        "deficiency anemias NOS (disorder)",
+        "rare deficiency anemia",
+        "Unspecified deficiency anemia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Nutritional_anemia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "anemia",
+                "qid": "Q5445",
+                "url": "https://en.wikipedia.org/wiki/Anemia"
+            },
+            {
+                "name": "nutritional deficiency disease",
+                "qid": "Q1890194"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            }
+        ]
+    }
+}

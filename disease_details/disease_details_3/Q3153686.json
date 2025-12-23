@@ -1,0 +1,127 @@
+{
+    "name": "toluene toxicity",
+    "qid": "Q3153686",
+    "icd_10": "T52.2",
+    "description": "hazardous chemical exposure",
+    "aliases": [
+        "toluene exposure"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Toluene_toxicity",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            },
+            {
+                "name": "fatigue",
+                "qid": "Q9690",
+                "url": "https://en.wikipedia.org/wiki/Fatigue"
+            },
+            {
+                "name": "dermatitis",
+                "qid": "Q229256",
+                "url": "https://en.wikipedia.org/wiki/Dermatitis"
+            },
+            {
+                "name": "mental confusion",
+                "qid": "Q557945",
+                "url": "https://en.wikipedia.org/wiki/Confusion"
+            },
+            {
+                "name": "anxiety",
+                "qid": "Q154430",
+                "url": "https://en.wikipedia.org/wiki/Anxiety"
+            },
+            {
+                "name": "euphoria",
+                "qid": "Q203994",
+                "url": "https://en.wikipedia.org/wiki/Euphoria"
+            },
+            {
+                "name": "paresthesia",
+                "qid": "Q769220",
+                "url": "https://en.wikipedia.org/wiki/Paresthesia"
+            },
+            {
+                "name": "kidney disease",
+                "qid": "Q1054718",
+                "url": "https://en.wikipedia.org/wiki/Kidney_disease"
+            },
+            {
+                "name": "mydriasis",
+                "qid": "Q1128283",
+                "url": "https://en.wikipedia.org/wiki/Mydriasis"
+            },
+            {
+                "name": "hepatotoxicity",
+                "qid": "Q1349821",
+                "url": "https://en.wikipedia.org/wiki/Hepatotoxicity"
+            },
+            {
+                "name": "insomnia",
+                "qid": "Q1869874",
+                "url": "https://en.wikipedia.org/wiki/Insomnia"
+            },
+            {
+                "name": "muscle fatigue",
+                "qid": "Q6940317",
+                "url": "https://en.wikipedia.org/wiki/Muscle_fatigue"
+            },
+            {
+                "name": "dizziness",
+                "qid": "Q10916362",
+                "url": "https://en.wikipedia.org/wiki/Dizziness"
+            },
+            {
+                "name": "eye irritation",
+                "qid": "Q11820606"
+            },
+            {
+                "name": "tear secretion",
+                "qid": "Q12153824"
+            },
+            {
+                "name": "nasal irritation",
+                "qid": "Q21118859"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "chemical hazard",
+                "qid": "Q21167512",
+                "url": "https://en.wikipedia.org/wiki/Chemical_hazard"
+            },
+            {
+                "name": "solvent exposure",
+                "qid": "Q7559033",
+                "url": "https://en.wikipedia.org/wiki/Solvent_exposure"
+            },
+            {
+                "name": "hazardous chemical exposure",
+                "qid": "Q68182219"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "toluene",
+                "qid": "Q15779",
+                "url": "https://en.wikipedia.org/wiki/Toluene"
+            },
+            {
+                "name": "intoxication",
+                "qid": "Q18621601",
+                "url": "https://en.wikipedia.org/wiki/Poisoning"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ]
+    }
+}

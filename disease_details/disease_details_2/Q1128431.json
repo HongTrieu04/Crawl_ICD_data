@@ -1,0 +1,37 @@
+{
+    "name": "vaginismus",
+    "qid": "Q1128431",
+    "icd_10": "N94.2",
+    "description": "condition in which involuntary muscle spasm interferes with penetration of the vagina",
+    "aliases": [
+        "genito-pelvic pain disorder",
+        "vaginism"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Vaginismus",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "vaginal disease",
+                "qid": "Q18211693",
+                "url": "https://en.wikipedia.org/wiki/Vaginal_disease"
+            },
+            {
+                "name": "dyspareunia",
+                "qid": "Q120395",
+                "url": "https://en.wikipedia.org/wiki/Dyspareunia"
+            },
+            {
+                "name": "reproductive system symptom",
+                "qid": "Q102186786"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gynaecology",
+                "qid": "Q1221899",
+                "url": "https://en.wikipedia.org/wiki/Gynaecology"
+            }
+        ]
+    }
+}

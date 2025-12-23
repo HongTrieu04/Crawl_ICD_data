@@ -1,0 +1,25 @@
+{
+    "name": "akathisia",
+    "qid": "Q416417",
+    "icd_10": "G21.1",
+    "description": "movement disorder",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Akathisia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "psychomotor agitation",
+                "qid": "Q394129",
+                "url": "https://en.wikipedia.org/wiki/Psychomotor_agitation"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "name": "traumatic amputation of ankle and foot",
+    "qid": "Q17044723",
+    "icd_10": "S98",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "traumatic amputation",
+                "qid": "Q7835822",
+                "url": "https://en.wikipedia.org/wiki/Traumatic_amputation"
+            },
+            {
+                "name": "injury to the ankle and foot",
+                "qid": "Q17044757"
+            }
+        ]
+    }
+}

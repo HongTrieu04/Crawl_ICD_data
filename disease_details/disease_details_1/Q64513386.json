@@ -1,0 +1,69 @@
+{
+    "name": "bulimia nervosa",
+    "qid": "Q64513386",
+    "icd_10": "F50.2",
+    "description": "eating disorder that is characterized by a cycle of bulimia (binge eating) followed by inappropriate acts such as purging to avert weight gain",
+    "aliases": [
+        "bulimia",
+        "BN"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Bulimia_nervosa",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "vomiting",
+                "qid": "Q127076",
+                "url": "https://en.wikipedia.org/wiki/Vomiting"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "(RS)-fenfluramine",
+                "qid": "Q418928",
+                "url": "https://en.wikipedia.org/wiki/Fenfluramine"
+            },
+            {
+                "name": "fluoxetine",
+                "qid": "Q422244",
+                "url": "https://en.wikipedia.org/wiki/Fluoxetine"
+            },
+            {
+                "name": "maprotiline",
+                "qid": "Q418361",
+                "url": "https://en.wikipedia.org/wiki/Maprotiline"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "polyphagia",
+                "qid": "Q653267",
+                "url": "https://en.wikipedia.org/wiki/Polyphagia"
+            },
+            {
+                "name": "eating disorder",
+                "qid": "Q373822",
+                "url": "https://en.wikipedia.org/wiki/Eating_disorder"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "cognitive behavioral therapy",
+                "qid": "Q1147152",
+                "url": "https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy"
+            },
+            {
+                "name": "psychomotor education",
+                "qid": "Q2116083",
+                "url": "https://en.wikipedia.org/wiki/Psychomotor_education"
+            }
+        ]
+    }
+}

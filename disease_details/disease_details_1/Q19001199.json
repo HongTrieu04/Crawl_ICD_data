@@ -1,0 +1,29 @@
+{
+    "name": "allergic gastroenteritis and colitis",
+    "qid": "Q19001199",
+    "icd_10": "K52.2",
+    "description": "human disease",
+    "aliases": [
+        "obsolete allergic gastroenteritis and colitis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "food allergy",
+                "qid": "Q769815",
+                "url": "https://en.wikipedia.org/wiki/Food_allergy"
+            },
+            {
+                "name": "intestinal disease",
+                "qid": "Q3055380",
+                "url": "https://en.wikipedia.org/wiki/Enteropathy"
+            },
+            {
+                "name": "gastrointestinal allergy",
+                "qid": "Q23037750"
+            }
+        ]
+    }
+}

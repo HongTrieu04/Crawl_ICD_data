@@ -1,0 +1,35 @@
+{
+    "name": "congenital adrenal hyperplasia due to 21-hydroxylase deficiency",
+    "qid": "Q4127185",
+    "icd_10": "E25.0",
+    "description": "medical condition",
+    "aliases": [
+        "AH3",
+        "21-hydroxylase deficieny",
+        "adrenal gland hyperplasia 3",
+        "adrenal gland hyperplasia III",
+        "CYP21 deficiency"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Congenital_adrenal_hyperplasia_due_to_21-hydroxylase_deficiency",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "congenital adrenal hyperplasia",
+                "qid": "Q366868",
+                "url": "https://en.wikipedia.org/wiki/Congenital_adrenal_hyperplasia"
+            },
+            {
+                "name": "adrenal enzyme deficiency",
+                "qid": "Q18457493"
+            }
+        ]
+    }
+}

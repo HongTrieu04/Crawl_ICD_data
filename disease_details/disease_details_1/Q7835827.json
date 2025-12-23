@@ -1,0 +1,25 @@
+{
+    "name": "traumatic diaphragmatic hernia",
+    "qid": "Q7835827",
+    "icd_10": "S27.8",
+    "description": "type of diaphragmatic hernia caused by trauma or injury",
+    "aliases": [
+        "Hernia, Diaphragmatic, Traumatic"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Traumatic_diaphragmatic_hernia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "abdominal trauma:",
+                "qid": "Q308292",
+                "url": "https://en.wikipedia.org/wiki/Abdominal_trauma"
+            },
+            {
+                "name": "diaphragmatic hernia",
+                "qid": "Q2119430",
+                "url": "https://en.wikipedia.org/wiki/Diaphragmatic_hernia"
+            }
+        ]
+    }
+}

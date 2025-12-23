@@ -1,0 +1,58 @@
+{
+    "name": "pharyngeal cancer",
+    "qid": "Q2085187",
+    "icd_10": "C14.0",
+    "description": "gastrointestinal system cancer that is located in the pharynx",
+    "aliases": [
+        "pharynx cancer"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Anatomical location": [
+            {
+                "name": "pharynx",
+                "qid": "Q174778",
+                "url": "https://en.wikipedia.org/wiki/Pharynx"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "otolaryngology",
+                "qid": "Q189553",
+                "url": "https://en.wikipedia.org/wiki/Otorhinolaryngology"
+            },
+            {
+                "name": "oral and maxillofacial surgery",
+                "qid": "Q504033",
+                "url": "https://en.wikipedia.org/wiki/Oral_and_maxillofacial_surgery"
+            },
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "head and neck cancer",
+                "qid": "Q1783924",
+                "url": "https://en.wikipedia.org/wiki/Head_and_neck_cancer"
+            },
+            {
+                "name": "gastrointestinal system cancer",
+                "qid": "Q5526839",
+                "url": "https://en.wikipedia.org/wiki/Gastrointestinal_cancer"
+            },
+            {
+                "name": "carcinoma",
+                "qid": "Q33525",
+                "url": "https://en.wikipedia.org/wiki/Carcinoma"
+            },
+            {
+                "name": "pharynx neoplasm",
+                "qid": "Q56014508"
+            }
+        ]
+    }
+}

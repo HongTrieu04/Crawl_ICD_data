@@ -1,0 +1,43 @@
+{
+    "name": "aneurysmal bone cyst",
+    "qid": "Q4761773",
+    "icd_10": "M85.5",
+    "description": "human disease",
+    "aliases": [
+        "ABC",
+        "ANEURYSMAL BONE CYSTS",
+        "Aneurysmal Cyst of Bone",
+        "Aneurysmal Cyst of the Bone",
+        "Bone Cysts, Aneurysmal"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cisti%20aneurismatica.jpg",
+    "url": "https://en.wikipedia.org/wiki/Aneurysmal_bone_cyst",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "genetic disease",
+                "qid": "Q200779",
+                "url": "https://en.wikipedia.org/wiki/Genetic_disorder"
+            },
+            {
+                "name": "bone cyst",
+                "qid": "Q826918",
+                "url": "https://en.wikipedia.org/wiki/Bone_cyst"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "denosumab",
+                "qid": "Q408283",
+                "url": "https://en.wikipedia.org/wiki/Denosumab"
+            }
+        ]
+    }
+}

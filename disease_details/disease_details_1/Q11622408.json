@@ -1,0 +1,23 @@
+{
+    "name": "drug induced aplastic anemia",
+    "qid": "Q11622408",
+    "icd_10": "D61.1",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "aplastic anemia",
+                "qid": "Q846316",
+                "url": "https://en.wikipedia.org/wiki/Aplastic_anemia"
+            },
+            {
+                "name": "adverse drug reaction",
+                "qid": "Q45959",
+                "url": "https://en.wikipedia.org/wiki/Adverse_drug_reaction"
+            }
+        ]
+    }
+}

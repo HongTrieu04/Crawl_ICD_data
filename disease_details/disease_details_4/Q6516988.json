@@ -1,0 +1,25 @@
+{
+    "name": "Left posterior fascicular block",
+    "qid": "Q6516988",
+    "icd_10": "I44.5",
+    "description": "condition where the left posterior fascicle does not conduct the electrical impulses from the atrioventricular node",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Left_posterior_fascicular_block",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "left bundle branch hemiblock",
+                "qid": "Q2143688",
+                "url": "https://en.wikipedia.org/wiki/Left_bundle_branch_block"
+            }
+        ]
+    }
+}

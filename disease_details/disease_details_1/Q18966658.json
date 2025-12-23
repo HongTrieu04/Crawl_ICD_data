@@ -1,0 +1,31 @@
+{
+    "name": "anthrax septicemia",
+    "qid": "Q18966658",
+    "icd_10": "A22.7",
+    "description": "Human disease",
+    "aliases": [
+        "Anthrax septicemia (disorder)"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Drug used for treatment": [
+            {
+                "name": "benzylpenicillin",
+                "qid": "Q258450",
+                "url": "https://en.wikipedia.org/wiki/Benzylpenicillin"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "anthrax",
+                "qid": "Q129104",
+                "url": "https://en.wikipedia.org/wiki/Anthrax"
+            },
+            {
+                "name": "bacterial sepsis",
+                "qid": "Q55009180"
+            }
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "cannabis consumption",
+    "qid": "Q5032594",
+    "icd_10": "F12.9",
+    "description": "methods of marijuana use",
+    "aliases": [
+        "cannabis use",
+        "marijuana consumption",
+        "marijuana use"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Cannabis_consumption",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "drug consumption",
+                "qid": "Q47404651"
+            }
+        ]
+    }
+}

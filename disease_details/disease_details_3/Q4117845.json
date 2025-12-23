@@ -1,0 +1,22 @@
+{
+    "name": "health effects from noise",
+    "qid": "Q4117845",
+    "icd_10": "Z58.0",
+    "description": "health consequences of exposure to elevated sound levels",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Health_effects_from_noise",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "external causes of illness and death",
+                "qid": "Q5422022",
+                "url": "https://en.wikipedia.org/wiki/External_cause"
+            },
+            {
+                "name": "determinants of health",
+                "qid": "Q3706138"
+            }
+        ]
+    }
+}

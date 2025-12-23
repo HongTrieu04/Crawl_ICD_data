@@ -1,0 +1,20 @@
+{
+    "name": "dislocation of finger",
+    "qid": "Q16574510",
+    "icd_10": "S63.2",
+    "description": null,
+    "aliases": [
+        "Finger luxation"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "joint dislocation",
+                "qid": "Q324509",
+                "url": "https://en.wikipedia.org/wiki/Joint_dislocation"
+            }
+        ]
+    }
+}

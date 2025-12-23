@@ -1,0 +1,19 @@
+{
+    "name": "adult-onset immunodeficiency syndrome",
+    "qid": "Q4685878",
+    "icd_10": "D84.8",
+    "description": "type of immunodeficiency",
+    "aliases": [
+        "Adult-onset immunodeficiency with anti-interferon-gamma autoantibodies"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Adult-onset_immunodeficiency_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "acquired immunodeficiency",
+                "qid": "Q12131931"
+            }
+        ]
+    }
+}

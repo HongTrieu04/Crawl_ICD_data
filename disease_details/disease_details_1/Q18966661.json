@@ -1,0 +1,22 @@
+{
+    "name": "vascular lesions of cord complicating labor and delivery",
+    "qid": "Q18966661",
+    "icd_10": "O69.5",
+    "description": "Human disease",
+    "aliases": [
+        "antepartum vascular lesions of cord complicating labor and delivery",
+        "obsolete vascular lesions of cord complicating labor and delivery",
+        "vascular lesions of cord complicating labor and delivery, delivered"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "obstetric labor complication",
+                "qid": "Q7075540",
+                "url": "https://en.wikipedia.org/wiki/Obstetric_labor_complication"
+            }
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "name": "congenital aortic stenosis",
+    "qid": "Q3501498",
+    "icd_10": "Q23.0",
+    "description": "human disease",
+    "aliases": [
+        "Aortic valves stenosis of the child",
+        "childhood aortic valve stenosis",
+        "Fetal aortic stenosis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Fetal_aortic_stenosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "aortic valve stenosis",
+                "qid": "Q531019",
+                "url": "https://en.wikipedia.org/wiki/Aortic_stenosis"
+            },
+            {
+                "name": "congenital heart disease",
+                "qid": "Q939364",
+                "url": "https://en.wikipedia.org/wiki/Congenital_heart_defect"
+            },
+            {
+                "name": "aortic valve disease",
+                "qid": "Q18557169"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neonatology",
+                "qid": "Q898674",
+                "url": "https://en.wikipedia.org/wiki/Neonatology"
+            }
+        ]
+    }
+}

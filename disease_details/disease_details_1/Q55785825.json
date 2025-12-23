@@ -1,0 +1,26 @@
+{
+    "name": "non-syndromic urogenital tract malformation of male",
+    "qid": "Q55785825",
+    "icd_10": "Q55",
+    "description": "human disease",
+    "aliases": [
+        "isolated urogenital tract malformation of male",
+        "nonsyndromic urogenital tract malformation of male"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "congenital anomaly of the genitalia",
+                "qid": "Q4066792",
+                "url": "https://en.wikipedia.org/wiki/Congenital_anomalies_of_the_genitalia"
+            },
+            {
+                "name": "male reproductive system disease",
+                "qid": "Q6742925",
+                "url": "https://en.wikipedia.org/wiki/Male_genital_disease"
+            }
+        ]
+    }
+}

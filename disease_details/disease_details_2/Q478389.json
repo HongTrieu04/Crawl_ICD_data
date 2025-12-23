@@ -1,0 +1,33 @@
+{
+    "name": "abnormal kyphosis",
+    "qid": "Q478389",
+    "icd_10": "M40.2",
+    "description": "abnormal convex curvature of the spine",
+    "aliases": [
+        "Dowager's hump",
+        "hyperkyphosis",
+        "kyphosis deformity of spine"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vertebral%20column%20disorders%20-%20Kyphosis%20--%20Smart-Servier.png",
+    "url": "https://en.wikipedia.org/wiki/Kyphosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "abnormal spinal curvature",
+                "qid": "Q7577456",
+                "url": "https://en.wikipedia.org/wiki/Spinal_curvature"
+            },
+            {
+                "name": "kyphosis",
+                "qid": "Q125983810"
+            }
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "name": "metal fume fever",
+    "qid": "Q1520741",
+    "icd_10": "T59.9",
+    "description": "illness caused by exposure to metal oxide fumes when heating e.g. zinc or aluminum.",
+    "aliases": [
+        "brass founders' ague",
+        "metal dust fever",
+        "zinc shakes"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Metal_fume_fever",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "occupational disease",
+                "qid": "Q637816",
+                "url": "https://en.wikipedia.org/wiki/Occupational_disease"
+            },
+            {
+                "name": "intoxication",
+                "qid": "Q18621601",
+                "url": "https://en.wikipedia.org/wiki/Poisoning"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "exposure to welding fumes",
+                "qid": "Q21175421"
+            }
+        ]
+    }
+}

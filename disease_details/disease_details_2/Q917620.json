@@ -1,0 +1,81 @@
+{
+    "name": "onychomycosis",
+    "qid": "Q917620",
+    "icd_10": "B35.1",
+    "description": "fungal infection of the nail",
+    "aliases": [
+        "tinea unguium",
+        "obsolete onychomycosis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Toefungus.jpg",
+    "url": "https://en.wikipedia.org/wiki/Onychomycosis",
+    "details": {
+        "Cause": [
+            {
+                "name": "Trichophyton tonsurans",
+                "qid": "Q5928559",
+                "url": "https://en.wikipedia.org/wiki/Trichophyton_tonsurans"
+            },
+            {
+                "name": "Trichophyton interdigitale",
+                "qid": "Q7840903",
+                "url": "https://en.wikipedia.org/wiki/Trichophyton_interdigitale"
+            },
+            {
+                "name": "Trichophyton rubrum",
+                "qid": "Q138834",
+                "url": "https://en.wikipedia.org/wiki/Trichophyton_rubrum"
+            },
+            {
+                "name": "Microsporum canis",
+                "qid": "Q140376",
+                "url": "https://en.wikipedia.org/wiki/Microsporum_canis"
+            },
+            {
+                "name": "Epidermophyton floccosum",
+                "qid": "Q149541",
+                "url": "https://en.wikipedia.org/wiki/Epidermophyton_floccosum"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "itraconazole",
+                "qid": "Q411229",
+                "url": "https://en.wikipedia.org/wiki/Itraconazole"
+            },
+            {
+                "name": "terbinafine",
+                "qid": "Q415259",
+                "url": "https://en.wikipedia.org/wiki/Terbinafine"
+            },
+            {
+                "name": "ciclopirox",
+                "qid": "Q419468",
+                "url": "https://en.wikipedia.org/wiki/Ciclopirox"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            },
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "fungal infectious disease",
+                "qid": "Q464067",
+                "url": "https://en.wikipedia.org/wiki/Fungal_infection"
+            },
+            {
+                "name": "nail infection",
+                "qid": "Q55790545"
+            }
+        ]
+    }
+}

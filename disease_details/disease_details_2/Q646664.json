@@ -1,0 +1,66 @@
+{
+    "name": "rickettsiosis",
+    "qid": "Q646664",
+    "icd_10": "A79",
+    "description": "Human disease",
+    "aliases": [
+        "Rickettsialpox",
+        "flea-borne rickettsiosis",
+        "Infections, Rickettsia",
+        "mite-borne rickettsiosis",
+        "rickettsia infection",
+        "Rickettsia Infection",
+        "Rickettsia Infections",
+        "tick-borne rickettsiosis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Rickettsiosis",
+    "details": {
+        "Drug used for treatment": [
+            {
+                "name": "oxytetracycline",
+                "qid": "Q411646",
+                "url": "https://en.wikipedia.org/wiki/Oxytetracycline"
+            },
+            {
+                "name": "doxycycline",
+                "qid": "Q422442",
+                "url": "https://en.wikipedia.org/wiki/Doxycycline"
+            },
+            {
+                "name": "tetracycline",
+                "qid": "Q193045",
+                "url": "https://en.wikipedia.org/wiki/Tetracycline"
+            },
+            {
+                "name": "chloramphenicol",
+                "qid": "Q274515",
+                "url": "https://en.wikipedia.org/wiki/Chloramphenicol"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Rickettsia",
+                "qid": "Q627992",
+                "url": "https://en.wikipedia.org/wiki/Rickettsia"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "primary bacterial infectious disease",
+                "qid": "Q18553247"
+            },
+            {
+                "name": "Rickettsiaceae infectious disease",
+                "qid": "Q55011088"
+            }
+        ]
+    }
+}

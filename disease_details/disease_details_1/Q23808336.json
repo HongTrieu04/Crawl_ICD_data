@@ -1,0 +1,30 @@
+{
+    "name": "fungal sinusitis",
+    "qid": "Q23808336",
+    "icd_10": "J32.9",
+    "description": "Inflammation of the paranasal sinuses due to fungal infection",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Fungal_sinusitis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "fungal infectious disease",
+                "qid": "Q464067",
+                "url": "https://en.wikipedia.org/wiki/Fungal_infection"
+            },
+            {
+                "name": "sinusitis",
+                "qid": "Q183344",
+                "url": "https://en.wikipedia.org/wiki/Sinusitis"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "name": "folliculitis decalvans",
+    "qid": "Q1435530",
+    "icd_10": "L66.2",
+    "description": "medical condition",
+    "aliases": [
+        "alopecia decalvans",
+        "Folliculitis decalvans",
+        "Quinquaud's decalvans folliculitis",
+        "Quinquaud's disease",
+        "Quinquaud’s disease"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Foliculites%20decalven.jpg",
+    "url": "https://en.wikipedia.org/wiki/Folliculitis_decalvans",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "hair diseases",
+                "qid": "Q2989168",
+                "url": "https://en.wikipedia.org/wiki/Hair_disease"
+            },
+            {
+                "name": "hair loss",
+                "qid": "Q181391",
+                "url": "https://en.wikipedia.org/wiki/Hair_loss"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ]
+    }
+}

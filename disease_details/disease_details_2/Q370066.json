@@ -1,0 +1,49 @@
+{
+    "name": "tolosa-hunt syndrome",
+    "qid": "Q370066",
+    "icd_10": "G44.85",
+    "description": "Human disease",
+    "aliases": [
+        "THS",
+        "Nonspecific inflammation of the cavernous sinus or superior orbital fissure",
+        "Painful ophthalmoplegia",
+        "Tolosa Hunt syndrome",
+        "Tolosa-Hunt syndrome",
+        "Tolosa-Hunt syndrome (disorder)",
+        "Tolosa–Hunt syndrome; THS"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Tolosa%E2%80%93Hunt_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "ocular motility disease",
+                "qid": "Q11583708"
+            },
+            {
+                "name": "nuclear oculomotor paralysis",
+                "qid": "Q55785239"
+            },
+            {
+                "name": "genetic peripheral neuropathy",
+                "qid": "Q55789138"
+            },
+            {
+                "name": "rare strabismus and restriction syndrome",
+                "qid": "Q55789245"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ]
+    }
+}

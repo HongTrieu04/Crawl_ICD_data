@@ -1,0 +1,17 @@
+{
+    "name": "myeloid and lymphoid neoplasms associated with FGFR1 abnormalities",
+    "qid": "Q28024543",
+    "icd_10": "D47.1",
+    "description": "myeloid and lymphoid neoplasms with eosinophilia and abnormalities of PDGFRA, PDGFRB, and FGFR1 that is characterized by the rearrangement of the FGFR1 gene, resulting in translocations with an 8p11 breakpoint",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "myeloid and lymphoid neoplasms with eosinophilia and abnormalities of PDGFRA, PDGFRB, and FGFR1",
+                "qid": "Q102294983"
+            }
+        ]
+    }
+}

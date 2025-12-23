@@ -1,0 +1,26 @@
+{
+    "name": "malignant neoplasm of pelvis",
+    "qid": "Q18966288",
+    "icd_10": "C76.3",
+    "description": "Human disease",
+    "aliases": [
+        "malignant neoplasm of pelvis NOS (disorder)",
+        "malignant neoplasm of pelvis, NOS",
+        "malignant tumor of pelvis (disorder)",
+        "obsolete malignant neoplasm of pelvis",
+        "obsolete pelvic cancer",
+        "pelvic cancer",
+        "pelvis neoplasm"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "pelvic neoplasm",
+                "qid": "Q7161811",
+                "url": "https://en.wikipedia.org/wiki/Pelvic_tumor"
+            }
+        ]
+    }
+}

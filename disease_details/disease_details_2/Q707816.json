@@ -1,0 +1,126 @@
+{
+    "name": "giant cell arteritis",
+    "qid": "Q707816",
+    "icd_10": "M31.6",
+    "description": "human disease",
+    "aliases": [
+        "Polymyalgia Rheumatica",
+        "GCA",
+        "Cranial Arteritis",
+        "Giant cell arteritis (disorder)",
+        "Giant cell arteritis NOS (disorder)",
+        "Giant-cell arteritis",
+        "Horton disease",
+        "Horton's disease",
+        "Temporal arteritis",
+        "Temporal arteritis (disorder)"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gray508.png",
+    "url": "https://en.wikipedia.org/wiki/Giant_cell_arteritis",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            },
+            {
+                "name": "fatigue",
+                "qid": "Q9690",
+                "url": "https://en.wikipedia.org/wiki/Fatigue"
+            },
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "diplopia",
+                "qid": "Q775940",
+                "url": "https://en.wikipedia.org/wiki/Diplopia"
+            },
+            {
+                "name": "tenderness",
+                "qid": "Q4922732",
+                "url": "https://en.wikipedia.org/wiki/Tenderness_(medicine)"
+            },
+            {
+                "name": "weight loss",
+                "qid": "Q718113",
+                "url": "https://en.wikipedia.org/wiki/Weight_loss"
+            },
+            {
+                "name": "jaw pain",
+                "qid": "Q12680516"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "autoimmune disease of cardiovascular system",
+                "qid": "Q4826340",
+                "url": "https://en.wikipedia.org/wiki/Autoimmune_heart_disease"
+            },
+            {
+                "name": "central nervous system vasculitis",
+                "qid": "Q191557",
+                "url": "https://en.wikipedia.org/wiki/Cerebral_vasculitis"
+            },
+            {
+                "name": "autoimmune disease of the nervous system",
+                "qid": "Q18556300"
+            },
+            {
+                "name": "predominantly large-vessel vasculitis",
+                "qid": "Q55785504"
+            },
+            {
+                "name": "secondary glomerular disease",
+                "qid": "Q55788835"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "immunology",
+                "qid": "Q101929",
+                "url": "https://en.wikipedia.org/wiki/Immunology"
+            },
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "prednisolone",
+                "qid": "Q11426176",
+                "url": "https://en.wikipedia.org/wiki/Prednisolone"
+            },
+            {
+                "name": "sumatriptan",
+                "qid": "Q416978",
+                "url": "https://en.wikipedia.org/wiki/Sumatriptan"
+            },
+            {
+                "name": "methotrexate",
+                "qid": "Q422232",
+                "url": "https://en.wikipedia.org/wiki/Methotrexate"
+            },
+            {
+                "name": "prednisone",
+                "qid": "Q424972",
+                "url": "https://en.wikipedia.org/wiki/Prednisone"
+            },
+            {
+                "name": "tocilizumab",
+                "qid": "Q425154",
+                "url": "https://en.wikipedia.org/wiki/Tocilizumab"
+            }
+        ]
+    }
+}

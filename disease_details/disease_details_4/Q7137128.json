@@ -1,0 +1,32 @@
+{
+    "name": "Parinaud's oculoglandular syndrome",
+    "qid": "Q7137128",
+    "icd_10": "H10.8",
+    "description": "A syndrome of the eye",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Parinaud%27s_oculoglandular_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "conjunctivitis",
+                "qid": "Q167844",
+                "url": "https://en.wikipedia.org/wiki/Conjunctivitis"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "optometry",
+                "qid": "Q618211",
+                "url": "https://en.wikipedia.org/wiki/Optometry"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "cat-scratch disease",
+                "qid": "Q639776",
+                "url": "https://en.wikipedia.org/wiki/Cat-scratch_disease"
+            }
+        ]
+    }
+}

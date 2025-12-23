@@ -1,0 +1,46 @@
+{
+    "name": "Liddle syndrome",
+    "qid": "Q1823656",
+    "icd_10": "I15.1",
+    "description": "genetic disorder inherited in an autosomal dominant manner that is characterized by early, and frequently severe, high blood pressure",
+    "aliases": [
+        "LIDDLE SYNDROME",
+        "LIDDLE SYNDROME; LIDLS",
+        "Liddle's syndrome",
+        "LIDLS",
+        "Pseudoaldosteronism",
+        "Pseudohyperaldosteronism type 1"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Liddle%27s_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "pseudohyperaldosteronism",
+                "qid": "Q524766",
+                "url": "https://en.wikipedia.org/wiki/Pseudohyperaldosteronism"
+            },
+            {
+                "name": "renal tubular transport disease",
+                "qid": "Q6013986",
+                "url": "https://en.wikipedia.org/wiki/Inborn_errors_of_renal_tubular_transport"
+            },
+            {
+                "name": "genetic hypertension",
+                "qid": "Q55785524"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "nephrology",
+                "qid": "Q177635",
+                "url": "https://en.wikipedia.org/wiki/Nephrology"
+            }
+        ]
+    }
+}

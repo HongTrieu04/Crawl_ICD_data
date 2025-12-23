@@ -1,0 +1,25 @@
+{
+    "name": "chromium deficiency",
+    "qid": "Q5113829",
+    "icd_10": "E61.4",
+    "description": "physiological finding",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Chromium_deficiency",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "mineral deficiency",
+                "qid": "Q16944888",
+                "url": "https://en.wikipedia.org/wiki/Mineral_deficiency"
+            }
+        ]
+    }
+}

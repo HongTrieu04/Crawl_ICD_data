@@ -1,0 +1,37 @@
+{
+    "name": "hairy tongue",
+    "qid": "Q1084600",
+    "icd_10": "K14.3",
+    "description": "Human disease",
+    "aliases": [
+        "Black hairy tongue",
+        "Hairy Tongue",
+        "Hairy Tongues",
+        "Overgrowth of filiform papillae",
+        "Overgrowth of filiform papillae (disorder)",
+        "Tongues, Hairy"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Black%20tongue.jpg",
+    "url": "https://en.wikipedia.org/wiki/Black_hairy_tongue",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "tongue disease",
+                "qid": "Q7107436",
+                "url": "https://en.wikipedia.org/wiki/Tongue_disease"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oral medicine",
+                "qid": "Q3673891",
+                "url": "https://en.wikipedia.org/wiki/Oral_medicine"
+            }
+        ]
+    }
+}

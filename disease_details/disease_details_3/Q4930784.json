@@ -1,0 +1,37 @@
+{
+    "name": "Blunt splenic trauma",
+    "qid": "Q4930784",
+    "icd_10": "S36.0",
+    "description": "medical condition",
+    "aliases": [
+        "spleen injury"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Blunt_splenic_trauma",
+    "details": {
+        "Anatomical location": [
+            {
+                "name": "spleen",
+                "qid": "Q9371",
+                "url": "https://en.wikipedia.org/wiki/Spleen"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "abdominal trauma:",
+                "qid": "Q308292",
+                "url": "https://en.wikipedia.org/wiki/Abdominal_trauma"
+            },
+            {
+                "name": "major trauma",
+                "qid": "Q1064904",
+                "url": "https://en.wikipedia.org/wiki/Major_trauma"
+            },
+            {
+                "name": "splenic disease",
+                "qid": "Q7578540",
+                "url": "https://en.wikipedia.org/wiki/Splenic_disease"
+            }
+        ]
+    }
+}

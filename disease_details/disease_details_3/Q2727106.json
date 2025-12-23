@@ -1,0 +1,25 @@
+{
+    "name": "biliary colic",
+    "qid": "Q2727106",
+    "icd_10": "K80.5",
+    "description": "medical condition in which gallstones cause acute pain",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gallstones.jpg",
+    "url": "https://en.wikipedia.org/wiki/Biliary_colic",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "gallstone disease",
+                "qid": "Q7069348",
+                "url": "https://en.wikipedia.org/wiki/Gallstone"
+            }
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "name": "hypothermia",
+    "qid": "Q1036696",
+    "icd_10": "T68",
+    "description": "condition caused when the human body gets too cold",
+    "aliases": [
+        "freezing",
+        "low body temperature"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Napoleons%20retreat%20from%20Moscow%20by%20Adolph%20Northen.jpg",
+    "url": "https://en.wikipedia.org/wiki/Hypothermia",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "hallucination",
+                "qid": "Q130741",
+                "url": "https://en.wikipedia.org/wiki/Hallucination"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "cardiopulmonary resuscitation",
+                "qid": "Q185325",
+                "url": "https://en.wikipedia.org/wiki/Cardiopulmonary_resuscitation"
+            },
+            {
+                "name": "intravenous fluid replacement",
+                "qid": "Q24885926"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "cold weather",
+                "qid": "Q14212031"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "neurological and physiological symptom",
+                "qid": "Q99860490"
+            }
+        ]
+    }
+}

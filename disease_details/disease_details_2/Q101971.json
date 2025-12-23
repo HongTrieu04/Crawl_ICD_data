@@ -1,0 +1,35 @@
+{
+    "name": "wart",
+    "qid": "Q101971",
+    "icd_10": "B07",
+    "description": "small, rough growth resembling a cauliflower or a solid blister, often found on hands",
+    "aliases": [
+        "verruca",
+        "warts",
+        "MesquinoC"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dornwarzen.jpg",
+    "url": "https://en.wikipedia.org/wiki/Wart",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "human papillomavirus infection",
+                "qid": "Q184627",
+                "url": "https://en.wikipedia.org/wiki/Human_papillomavirus_infection"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "viral skin disease",
+                "qid": "Q54911470"
+            }
+        ]
+    }
+}

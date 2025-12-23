@@ -1,0 +1,66 @@
+{
+    "name": "folie à deux",
+    "qid": "Q1435409",
+    "icd_10": "F24",
+    "description": "shared psychosis, a psychiatric syndrome in which symptoms of a delusional belief are transmitted from one individual to another",
+    "aliases": [
+        "folie a deux",
+        "induced psychotic disorder",
+        "Induced psychotic disorder",
+        "obsolete shared paranoid disease",
+        "shared paranoid disease",
+        "shared paranoid diseases",
+        "shared paranoid disorder",
+        "shared paranoid disorders",
+        "shared psychotic disorder"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Folie_%C3%A0_deux",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "clinical psychology",
+                "qid": "Q199906",
+                "url": "https://en.wikipedia.org/wiki/Clinical_psychology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "schizophrenia",
+                "qid": "Q41112",
+                "url": "https://en.wikipedia.org/wiki/Schizophrenia"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "psychotherapy",
+                "qid": "Q183257",
+                "url": "https://en.wikipedia.org/wiki/Psychotherapy"
+            },
+            {
+                "name": "counseling",
+                "qid": "Q4390239",
+                "url": "https://en.wikipedia.org/wiki/Counseling"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "delusion",
+                "qid": "Q189643",
+                "url": "https://en.wikipedia.org/wiki/Delusion"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "idiopathy",
+                "qid": "Q594841",
+                "url": "https://en.wikipedia.org/wiki/Idiopathic_disease"
+            }
+        ]
+    }
+}

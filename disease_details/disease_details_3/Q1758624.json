@@ -1,0 +1,29 @@
+{
+    "name": "pseudarthrosis",
+    "qid": "Q1758624",
+    "icd_10": "M96.0",
+    "description": "permanent failure of healing following a broken bone",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pseudarthrose.jpg",
+    "url": "https://en.wikipedia.org/wiki/Pseudarthrosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "nonunion",
+                "qid": "Q7049641",
+                "url": "https://en.wikipedia.org/wiki/Nonunion"
+            },
+            {
+                "name": "nearthrosis",
+                "qid": "Q1977494"
+            }
+        ]
+    }
+}

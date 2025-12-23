@@ -1,0 +1,40 @@
+{
+    "name": "hidrocystoma",
+    "qid": "Q1617386",
+    "icd_10": "D23.1",
+    "description": "Human disease",
+    "aliases": [
+        "Apocrine Cystadenoma",
+        "Apocrine cystadenoma (disorder)",
+        "apocrine/eccrine hidrocystoma",
+        "cystadenoma",
+        "Eccrine Cystadenoma",
+        "Eccrine hidrocystoma of skin",
+        "Eccrine hidrocystoma of skin (disorder)",
+        "Hidrocystoma",
+        "Hidrocystoma (morphologic abnormality)",
+        "Hydrocystoma",
+        "Moll's gland cyst"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hidrocystoma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "pathology",
+                "qid": "Q7208",
+                "url": "https://en.wikipedia.org/wiki/Pathology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "apocrine sweat gland neoplasm",
+                "qid": "Q18557050"
+            },
+            {
+                "name": "benign neoplasm of sweat gland",
+                "qid": "Q55789684"
+            }
+        ]
+    }
+}

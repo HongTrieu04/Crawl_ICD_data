@@ -1,0 +1,38 @@
+{
+    "name": "tinnitus",
+    "qid": "Q192309",
+    "icd_10": "H93.1",
+    "description": "perception of sound within the human ear (\"ringing of the ears\") when no external sound is present",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/PMC4148481%20gr3%20%281%29.png",
+    "url": "https://en.wikipedia.org/wiki/Tinnitus",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            },
+            {
+                "name": "otolaryngology",
+                "qid": "Q189553",
+                "url": "https://en.wikipedia.org/wiki/Otorhinolaryngology"
+            },
+            {
+                "name": "audiology",
+                "qid": "Q569965",
+                "url": "https://en.wikipedia.org/wiki/Audiology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "hearing disorder",
+                "qid": "Q1644260"
+            },
+            {
+                "name": "ear symptom",
+                "qid": "Q102187283"
+            }
+        ]
+    }
+}

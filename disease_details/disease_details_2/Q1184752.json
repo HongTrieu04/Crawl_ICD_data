@@ -1,0 +1,35 @@
+{
+    "name": "barbiturate overdose",
+    "qid": "Q1184752",
+    "icd_10": "T42.3",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Barbiturate_overdose",
+    "details": {
+        "Cause": [
+            {
+                "name": "barbiturates",
+                "qid": "Q206348",
+                "url": "https://en.wikipedia.org/wiki/Barbiturate"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "poisoning by drugs",
+                "qid": "Q387175"
+            },
+            {
+                "name": "sedative overdose",
+                "qid": "Q25377859"
+            }
+        ]
+    }
+}

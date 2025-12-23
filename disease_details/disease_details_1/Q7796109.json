@@ -1,0 +1,29 @@
+{
+    "name": "thoracic aorta injury",
+    "qid": "Q7796109",
+    "icd_10": "S25.0",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Thoracic_aorta_injury",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "chest trauma",
+                "qid": "Q368370",
+                "url": "https://en.wikipedia.org/wiki/Chest_injury"
+            },
+            {
+                "name": "aortic disease",
+                "qid": "Q18556675"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "thoracic aorta",
+                "qid": "Q615993",
+                "url": "https://en.wikipedia.org/wiki/Thoracic_aorta"
+            }
+        ]
+    }
+}

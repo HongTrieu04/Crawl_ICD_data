@@ -1,0 +1,30 @@
+{
+    "name": "fibromatosis",
+    "qid": "Q1410851",
+    "icd_10": "M72.9",
+    "description": "poorly defined neoplasm arising from the soft tissues",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Desmoid-type%20fibromatosis.gross%20pathology.jpg",
+    "url": "https://en.wikipedia.org/wiki/Fibromatosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "fibrosarcoma",
+                "qid": "Q1362453",
+                "url": "https://en.wikipedia.org/wiki/Fibrosarcoma"
+            },
+            {
+                "name": "soft tissue disorder",
+                "qid": "Q7554046",
+                "url": "https://en.wikipedia.org/wiki/Soft_tissue_disorder"
+            }
+        ]
+    }
+}

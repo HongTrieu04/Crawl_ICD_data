@@ -1,0 +1,25 @@
+{
+    "name": "Spondylopathy",
+    "qid": "Q7578962",
+    "icd_10": "M49",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Spondylopathy",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "spinal disease",
+                "qid": "Q7577457",
+                "url": "https://en.wikipedia.org/wiki/Spinal_disease"
+            }
+        ]
+    }
+}

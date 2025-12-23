@@ -1,0 +1,35 @@
+{
+    "name": "hydropneumothorax",
+    "qid": "Q5955350",
+    "icd_10": "J94.8",
+    "description": "presence of both air and fluid within the pleural space",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hydropneumothorax",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            },
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "pneumothorax",
+                "qid": "Q203601",
+                "url": "https://en.wikipedia.org/wiki/Pneumothorax"
+            },
+            {
+                "name": "hydrothorax",
+                "qid": "Q1505538",
+                "url": "https://en.wikipedia.org/wiki/Hydrothorax"
+            }
+        ]
+    }
+}

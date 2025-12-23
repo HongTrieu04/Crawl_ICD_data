@@ -1,0 +1,21 @@
+{
+    "name": "polyglandular dysfunction",
+    "qid": "Q55010679",
+    "icd_10": "E31",
+    "description": "human disease",
+    "aliases": [
+        "obsolete polyglandular dysfunction",
+        "polyendocrinopathy"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "endocrine system disease",
+                "qid": "Q2661443",
+                "url": "https://en.wikipedia.org/wiki/Endocrine_disease"
+            }
+        ]
+    }
+}

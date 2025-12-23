@@ -1,0 +1,30 @@
+{
+    "name": "sudden sensorineural hearing loss",
+    "qid": "Q20820133",
+    "icd_10": "H91.2",
+    "description": "sensorineural hearing loss which develops over hours or a few days",
+    "aliases": [
+        "Hearing Loss, Sudden",
+        "Sudden deafness",
+        "sudden hearing loss",
+        "sudden idiopathic hearing loss"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "deafness",
+                "qid": "Q12133",
+                "url": "https://en.wikipedia.org/wiki/Deafness"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ]
+    }
+}

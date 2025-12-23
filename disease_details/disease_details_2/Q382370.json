@@ -1,0 +1,99 @@
+{
+    "name": "mpox",
+    "qid": "Q382370",
+    "icd_10": "B04",
+    "description": "viral disease",
+    "aliases": [
+        "monkeypox",
+        "monkey pox",
+        "monkeypox virus infection"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Monkeypox.jpg",
+    "url": "https://en.wikipedia.org/wiki/Mpox",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "zoonosis",
+                "qid": "Q182672",
+                "url": "https://en.wikipedia.org/wiki/Zoonosis"
+            },
+            {
+                "name": "viral infectious disease",
+                "qid": "Q1928978",
+                "url": "https://en.wikipedia.org/wiki/Viral_disease"
+            },
+            {
+                "name": "Poxviridae infectious disease",
+                "qid": "Q12353899"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            },
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "lymphadenopathy",
+                "qid": "Q847726",
+                "url": "https://en.wikipedia.org/wiki/Lymphadenopathy"
+            },
+            {
+                "name": "sore throat",
+                "qid": "Q1292082",
+                "url": "https://en.wikipedia.org/wiki/Sore_throat"
+            },
+            {
+                "name": "itch",
+                "qid": "Q199602",
+                "url": "https://en.wikipedia.org/wiki/Itch"
+            },
+            {
+                "name": "blister",
+                "qid": "Q276469",
+                "url": "https://en.wikipedia.org/wiki/Blister"
+            },
+            {
+                "name": "myalgia",
+                "qid": "Q474959",
+                "url": "https://en.wikipedia.org/wiki/Myalgia"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "metisazone",
+                "qid": "Q4562049",
+                "url": "https://en.wikipedia.org/wiki/Metisazone"
+            },
+            {
+                "name": "tecovirimat",
+                "qid": "Q7692792",
+                "url": "https://en.wikipedia.org/wiki/Tecovirimat"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Orthopoxvirus monkeypox",
+                "qid": "Q6900886",
+                "url": "https://en.wikipedia.org/wiki/Monkeypox_virus"
+            }
+        ]
+    }
+}

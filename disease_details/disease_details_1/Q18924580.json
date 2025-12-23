@@ -1,0 +1,18 @@
+{
+    "name": "disseminated paracoccidioidomycosis",
+    "qid": "Q18924580",
+    "icd_10": "B41.7",
+    "description": "Human disease",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "paracoccidioidomycosis",
+                "qid": "Q247096",
+                "url": "https://en.wikipedia.org/wiki/Paracoccidioidomycosis"
+            }
+        ]
+    }
+}

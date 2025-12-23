@@ -1,0 +1,35 @@
+{
+    "name": "vesical tenesmus",
+    "qid": "Q2319686",
+    "icd_10": "R30.1",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Vesical_tenesmus",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "tenesmus",
+                "qid": "Q1887933",
+                "url": "https://en.wikipedia.org/wiki/Tenesmus"
+            },
+            {
+                "name": "strangury",
+                "qid": "Q474914",
+                "url": "https://en.wikipedia.org/wiki/Strangury"
+            },
+            {
+                "name": "dysuria",
+                "qid": "Q1269399",
+                "url": "https://en.wikipedia.org/wiki/Dysuria"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            }
+        ]
+    }
+}

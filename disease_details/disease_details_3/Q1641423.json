@@ -1,0 +1,19 @@
+{
+    "name": "hyposmia",
+    "qid": "Q1641423",
+    "icd_10": "R43.8",
+    "description": "reduced ability to smell and to detect odors",
+    "aliases": [
+        "microsmia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hyposmia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "olfaction disorder",
+                "qid": "Q11419348"
+            }
+        ]
+    }
+}

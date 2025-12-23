@@ -1,0 +1,45 @@
+{
+    "name": "pure red-cell aplasia",
+    "qid": "Q751631",
+    "icd_10": "D60",
+    "description": "human disease",
+    "aliases": [
+        "PRCA",
+        "primary red cell aplasia",
+        "Pure Red cell Aplasia",
+        "Pure red cell aplasia (disorder)",
+        "Pure red cell aplasia; PRCA",
+        "Red cell hypoplasia",
+        "Red-Cell Aplasia, Pure"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pure_red_cell_aplasia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "(RS)-cyclophosphamide",
+                "qid": "Q408524",
+                "url": "https://en.wikipedia.org/wiki/Cyclophosphamide"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "aplastic anemia",
+                "qid": "Q846316",
+                "url": "https://en.wikipedia.org/wiki/Aplastic_anemia"
+            },
+            {
+                "name": "erythroblastopenia",
+                "qid": "Q3591490",
+                "url": "https://en.wikipedia.org/wiki/Erythroblastopenia"
+            }
+        ]
+    }
+}

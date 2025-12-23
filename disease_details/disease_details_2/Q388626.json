@@ -1,0 +1,33 @@
+{
+    "name": "sleepwalking",
+    "qid": "Q388626",
+    "icd_10": "F51.3",
+    "description": "phenomenon of combined sleep and wakefulness",
+    "aliases": [
+        "somnambulism",
+        "noctambulism",
+        "sleep-walking"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Johann%20Heinrich%20F%C3%BCssli%20-%20Lady%20Macbeth.jpg",
+    "url": "https://en.wikipedia.org/wiki/Sleepwalking",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "parasomnia",
+                "qid": "Q559869",
+                "url": "https://en.wikipedia.org/wiki/Parasomnia"
+            },
+            {
+                "name": "semiconsciousness",
+                "qid": "Q22965419"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "sleep medicine",
+                "qid": "Q744029",
+                "url": "https://en.wikipedia.org/wiki/Sleep_medicine"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Irregular menstruation",
+    "qid": "Q6073603",
+    "icd_10": "N92.1",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Irregular_menstruation",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gynaecology",
+                "qid": "Q1221899",
+                "url": "https://en.wikipedia.org/wiki/Gynaecology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "menstrual cycle disorder",
+                "qid": "Q2137326"
+            }
+        ]
+    }
+}

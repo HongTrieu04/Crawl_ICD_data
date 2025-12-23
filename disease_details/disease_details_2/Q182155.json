@@ -1,0 +1,159 @@
+{
+    "name": "herpes zoster",
+    "qid": "Q182155",
+    "icd_10": "B02",
+    "description": "viral disease caused by the Varicella zoster virus",
+    "aliases": [
+        "shingles",
+        "SAF",
+        "postherpetic neuralgia",
+        "herpes zona",
+        "Herpes Zoster",
+        "Herpes zoster, Zoster",
+        "St. Anthony's Fire",
+        "zona",
+        "zoster"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Herpes%20zoster%20neck.png",
+    "url": "https://en.wikipedia.org/wiki/Shingles",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            },
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "blister",
+                "qid": "Q276469",
+                "url": "https://en.wikipedia.org/wiki/Blister"
+            },
+            {
+                "name": "paresthesia",
+                "qid": "Q769220",
+                "url": "https://en.wikipedia.org/wiki/Paresthesia"
+            },
+            {
+                "name": "postherpetic neuralgia",
+                "qid": "Q1714245",
+                "url": "https://en.wikipedia.org/wiki/Postherpetic_neuralgia"
+            },
+            {
+                "name": "chills",
+                "qid": "Q2260058",
+                "url": "https://en.wikipedia.org/wiki/Chills"
+            },
+            {
+                "name": "chronic neuropathic pain",
+                "qid": "Q58490835"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "viral infectious disease",
+                "qid": "Q1928978",
+                "url": "https://en.wikipedia.org/wiki/Viral_disease"
+            },
+            {
+                "name": "skin infection",
+                "qid": "Q2458539",
+                "url": "https://en.wikipedia.org/wiki/Skin_infection"
+            },
+            {
+                "name": "neurological disorder",
+                "qid": "Q3339235",
+                "url": "https://en.wikipedia.org/wiki/Neurological_disorder"
+            },
+            {
+                "name": "viral skin disease",
+                "qid": "Q54911470"
+            },
+            {
+                "name": "varicella zoster infection",
+                "qid": "Q55779917"
+            },
+            {
+                "name": "post-viral disorder",
+                "qid": "Q55789779"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Human herpesvirus 3",
+                "qid": "Q6868",
+                "url": "https://en.wikipedia.org/wiki/Varicella_zoster_virus"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "nervous system",
+                "qid": "Q9404",
+                "url": "https://en.wikipedia.org/wiki/Nervous_system"
+            },
+            {
+                "name": "ganglion",
+                "qid": "Q108158",
+                "url": "https://en.wikipedia.org/wiki/Ganglion"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "gabapentin",
+                "qid": "Q410352",
+                "url": "https://en.wikipedia.org/wiki/Gabapentin"
+            },
+            {
+                "name": "capsaicin",
+                "qid": "Q273169",
+                "url": "https://en.wikipedia.org/wiki/Capsaicin"
+            },
+            {
+                "name": "pregabalin",
+                "qid": "Q412174",
+                "url": "https://en.wikipedia.org/wiki/Pregabalin"
+            },
+            {
+                "name": "valacyclovir",
+                "qid": "Q418594",
+                "url": "https://en.wikipedia.org/wiki/Valaciclovir"
+            },
+            {
+                "name": "famciclovir",
+                "qid": "Q420186",
+                "url": "https://en.wikipedia.org/wiki/Famciclovir"
+            },
+            {
+                "name": "aciclovir",
+                "qid": "Q147101",
+                "url": "https://en.wikipedia.org/wiki/Aciclovir"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            },
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            },
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ]
+    }
+}

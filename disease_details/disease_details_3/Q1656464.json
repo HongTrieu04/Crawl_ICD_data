@@ -1,0 +1,25 @@
+{
+    "name": "Id reaction",
+    "qid": "Q1656464",
+    "icd_10": "L30.2",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Id_reaction",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "Autosensitization dermatitis",
+                "qid": "Q4826986",
+                "url": "https://en.wikipedia.org/wiki/Autosensitization_dermatitis"
+            }
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "name": "renal hypertension",
+    "qid": "Q11788761",
+    "icd_10": "I12",
+    "description": "human disease",
+    "aliases": [
+        "hypertensive nephropathy",
+        "hypertensive renal disease"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Anatomical location": [
+            {
+                "name": "kidney",
+                "qid": "Q9377",
+                "url": "https://en.wikipedia.org/wiki/Kidney"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "secondary hypertension",
+                "qid": "Q987319",
+                "url": "https://en.wikipedia.org/wiki/Secondary_hypertension"
+            },
+            {
+                "name": "kidney disease",
+                "qid": "Q1054718",
+                "url": "https://en.wikipedia.org/wiki/Kidney_disease"
+            }
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Nabothian cyst",
+    "qid": "Q280206",
+    "icd_10": "N72",
+    "description": "benign, mucus-filled cervical cyst that occurs when mucus-secreting columnar epithelial cells are covered with squamous epithelium",
+    "aliases": [
+        "nabothian cyst",
+        "Nabothian cyst, nabothian follicle"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Nabothian_cyst",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "obstetrics and gynaecology",
+                "qid": "Q80015",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics_and_gynaecology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "cyst",
+                "qid": "Q193211",
+                "url": "https://en.wikipedia.org/wiki/Cyst"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "newborn respiratory distress syndrome",
+    "qid": "Q47519106",
+    "icd_10": "P22",
+    "description": "condition of the newborn marked by dyspnea with cyanosis",
+    "aliases": [
+        "NRDS",
+        "Respiratory Distress Syndrome, Newborn"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "respiratory failure",
+                "qid": "Q767485",
+                "url": "https://en.wikipedia.org/wiki/Respiratory_failure"
+            },
+            {
+                "name": "perinatal respiratory disorder",
+                "qid": "Q18966634"
+            }
+        ]
+    }
+}

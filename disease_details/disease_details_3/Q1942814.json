@@ -1,0 +1,51 @@
+{
+    "name": "foot drop",
+    "qid": "Q1942814",
+    "icd_10": "M21.3",
+    "description": "Foot drop is a challenging condition that affects the ability to lift the front part of the foot, often resulting in a dragging gait that can be both frustrating and risky. It is typically caused by neurological, muscular, or anatomical problems.",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Foot_drop",
+    "details": {
+        "Cause": [
+            {
+                "name": "peripheral neuropathy",
+                "qid": "Q945238",
+                "url": "https://en.wikipedia.org/wiki/Peripheral_neuropathy"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "surgery",
+                "qid": "Q40821",
+                "url": "https://en.wikipedia.org/wiki/Surgery"
+            },
+            {
+                "name": "physiotherapy",
+                "qid": "Q186005",
+                "url": "https://en.wikipedia.org/wiki/Physical_therapy"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "muscle weakness",
+                "qid": "Q270421",
+                "url": "https://en.wikipedia.org/wiki/Muscle_weakness"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "gait abnormality",
+                "qid": "Q827017",
+                "url": "https://en.wikipedia.org/wiki/Gait_abnormality"
+            }
+        ]
+    }
+}

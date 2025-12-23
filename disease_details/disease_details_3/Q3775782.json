@@ -1,0 +1,41 @@
+{
+    "name": "apical granuloma",
+    "qid": "Q3775782",
+    "icd_10": "K04.5",
+    "description": "tooth disease",
+    "aliases": [
+        "Apical granuloma",
+        "Apical granuloma (disorder)",
+        "dental granuloma",
+        "periapical granuloma",
+        "Periapical granuloma"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Periapical_granuloma",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "periapical periodontitis",
+                "qid": "Q618622",
+                "url": "https://en.wikipedia.org/wiki/Periapical_periodontitis"
+            },
+            {
+                "name": "granuloma",
+                "qid": "Q1129338",
+                "url": "https://en.wikipedia.org/wiki/Granuloma"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "dentistry",
+                "qid": "Q12128",
+                "url": "https://en.wikipedia.org/wiki/Dentistry"
+            }
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "rupture of ligament of ankle",
+    "qid": "Q20181915",
+    "icd_10": "S93.2",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "injury to the ankle and foot",
+                "qid": "Q17044757"
+            },
+            {
+                "name": "ligament injury",
+                "qid": "Q38039238"
+            }
+        ]
+    }
+}

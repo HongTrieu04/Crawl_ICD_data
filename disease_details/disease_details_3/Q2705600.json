@@ -1,0 +1,25 @@
+{
+    "name": "dysorthography",
+    "qid": "Q2705600",
+    "icd_10": "F81.1",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Dysorthography",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "writing disorder",
+                "qid": "Q5282510",
+                "url": "https://en.wikipedia.org/wiki/Disorder_of_written_expression"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neuropsychology",
+                "qid": "Q3872",
+                "url": "https://en.wikipedia.org/wiki/Neuropsychology"
+            }
+        ]
+    }
+}

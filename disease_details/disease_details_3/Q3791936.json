@@ -1,0 +1,32 @@
+{
+    "name": "papillary hidradenoma",
+    "qid": "Q3791936",
+    "icd_10": "C44.5",
+    "description": "Human disease",
+    "aliases": [
+        "Hidradenoma Papilliferum"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Papillary%20hidradenoma%20-%20very%20high%20mag.jpg",
+    "url": "https://en.wikipedia.org/wiki/Papillary_hidradenoma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            },
+            {
+                "name": "gynaecology",
+                "qid": "Q1221899",
+                "url": "https://en.wikipedia.org/wiki/Gynaecology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "hidradenoma",
+                "qid": "Q12822297",
+                "url": "https://en.wikipedia.org/wiki/Hidradenoma"
+            }
+        ]
+    }
+}

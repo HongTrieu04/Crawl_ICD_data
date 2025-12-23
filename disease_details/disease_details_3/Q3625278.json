@@ -1,0 +1,51 @@
+{
+    "name": "invasive aspergillosis",
+    "qid": "Q3625278",
+    "icd_10": "B44.1",
+    "description": "human disease",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Anatomical location": [
+            {
+                "name": "human lung",
+                "qid": "Q2640512",
+                "url": "https://en.wikipedia.org/wiki/Human_lung"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "pneumonia",
+                "qid": "Q12192",
+                "url": "https://en.wikipedia.org/wiki/Pneumonia"
+            },
+            {
+                "name": "hemorrhage",
+                "qid": "Q102186528"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "aspergillosis",
+                "qid": "Q259626",
+                "url": "https://en.wikipedia.org/wiki/Aspergillosis"
+            },
+            {
+                "name": "lung disease",
+                "qid": "Q3392853"
+            },
+            {
+                "name": "pulmonary aspergilloma",
+                "qid": "Q18553218"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

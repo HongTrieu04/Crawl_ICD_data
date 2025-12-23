@@ -1,0 +1,21 @@
+{
+    "name": "recurrent manic episodes in full remission",
+    "qid": "Q19001131",
+    "icd_10": "F31.7",
+    "description": "Human disease",
+    "aliases": [
+        "Manic disorder, recurrent episode, in full remission",
+        "obsolete recurrent manic episodes in full remission",
+        "recurrent manic episodes, in full remission (disorder)"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "recurrent manic episodes",
+                "qid": "Q19001125"
+            }
+        ]
+    }
+}

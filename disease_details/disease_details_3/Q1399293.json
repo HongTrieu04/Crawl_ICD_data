@@ -1,0 +1,33 @@
+{
+    "name": "Binswanger's disease",
+    "qid": "Q1399293",
+    "icd_10": "I67.3",
+    "description": "form of small vessel vascular dementia caused by damage to the white brain matter",
+    "aliases": [
+        "subcortical arteriosclerotic encephalopathy",
+        "subcortical leukoencephalopathy"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Binswanger%27s_disease",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "vascular dementia",
+                "qid": "Q583908",
+                "url": "https://en.wikipedia.org/wiki/Vascular_dementia"
+            },
+            {
+                "name": "Subcortical dementia",
+                "qid": "Q2802231",
+                "url": "https://en.wikipedia.org/wiki/Subcortical_dementia"
+            }
+        ]
+    }
+}

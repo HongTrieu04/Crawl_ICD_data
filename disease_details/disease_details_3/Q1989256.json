@@ -1,0 +1,25 @@
+{
+    "name": "renal infarction",
+    "qid": "Q1989256",
+    "icd_10": "N28.0",
+    "description": null,
+    "aliases": [
+        "kidney infarction"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "infarction",
+                "qid": "Q207550",
+                "url": "https://en.wikipedia.org/wiki/Infarction"
+            },
+            {
+                "name": "renal ischemia",
+                "qid": "Q7312492",
+                "url": "https://en.wikipedia.org/wiki/Renal_ischemia"
+            }
+        ]
+    }
+}

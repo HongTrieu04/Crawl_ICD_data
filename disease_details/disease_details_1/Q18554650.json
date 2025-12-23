@@ -1,0 +1,31 @@
+{
+    "name": "Morgagni cataract",
+    "qid": "Q18554650",
+    "icd_10": "H25.2",
+    "description": "Human disease",
+    "aliases": [
+        "Cataract: [hypermature] or [Morgagni]",
+        "hypermature cataract",
+        "hypermature cataract (disorder)",
+        "hypermature cataract (disorder) [Ambiguous]",
+        "Morgagnian cataract (disorder)",
+        "Morgagnian cataract (finding)"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "senile cataract",
+                "qid": "Q18558188"
+            }
+        ]
+    }
+}

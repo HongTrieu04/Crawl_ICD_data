@@ -1,0 +1,48 @@
+{
+    "name": "Helicobacter pylori infectious disease",
+    "qid": "Q4497153",
+    "icd_10": "B98.0",
+    "description": "human disease",
+    "aliases": [
+        "Helicobacter pylori",
+        "Helicobacter pylori infection",
+        "Helicobacter Pylori Infection",
+        "obsolete Helicobacter pylori infectious disease"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            },
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "infection",
+                "qid": "Q166231",
+                "url": "https://en.wikipedia.org/wiki/Infection"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "clarithromycin",
+                "qid": "Q118551",
+                "url": "https://en.wikipedia.org/wiki/Clarithromycin"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "Helicobacter infection",
+                "qid": "Q65666252"
+            }
+        ]
+    }
+}

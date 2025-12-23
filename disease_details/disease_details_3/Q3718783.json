@@ -1,0 +1,27 @@
+{
+    "name": "renal ectopia",
+    "qid": "Q3718783",
+    "icd_10": "Q63.2",
+    "description": "congenital disorder describing a kidney that is not located in its usual position",
+    "aliases": [
+        "ectopic kidney"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ectopia%20Renale.jpg",
+    "url": "https://en.wikipedia.org/wiki/Ectopic_kidney",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "kidney disease",
+                "qid": "Q1054718",
+                "url": "https://en.wikipedia.org/wiki/Kidney_disease"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

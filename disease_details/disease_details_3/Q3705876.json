@@ -1,0 +1,86 @@
+{
+    "name": "dermatomycosis",
+    "qid": "Q3705876",
+    "icd_10": "B36",
+    "description": "cutaneous mycosis that results in fungal infection located in skin or of its appendages, has material basis in Ascomycota fungi other than the dermatophytes",
+    "aliases": [
+        "cutaneous mycosis",
+        "dermatomycoses"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Dermatomycosis",
+    "details": {
+        "Drug used for treatment": [
+            {
+                "name": "griseofulvin",
+                "qid": "Q416096",
+                "url": "https://en.wikipedia.org/wiki/Griseofulvin"
+            },
+            {
+                "name": "sulconazole",
+                "qid": "Q2392530",
+                "url": "https://en.wikipedia.org/wiki/Sulconazole"
+            },
+            {
+                "name": "clotrimazole",
+                "qid": "Q413546",
+                "url": "https://en.wikipedia.org/wiki/Clotrimazole"
+            },
+            {
+                "name": "terbinafine",
+                "qid": "Q415259",
+                "url": "https://en.wikipedia.org/wiki/Terbinafine"
+            },
+            {
+                "name": "amorolfine",
+                "qid": "Q123195",
+                "url": "https://en.wikipedia.org/wiki/Amorolfine"
+            },
+            {
+                "name": "ketoconazole",
+                "qid": "Q407883",
+                "url": "https://en.wikipedia.org/wiki/Ketoconazole"
+            },
+            {
+                "name": "miconazole",
+                "qid": "Q410534",
+                "url": "https://en.wikipedia.org/wiki/Miconazole"
+            },
+            {
+                "name": "itraconazole",
+                "qid": "Q411229",
+                "url": "https://en.wikipedia.org/wiki/Itraconazole"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "fungal infectious disease",
+                "qid": "Q464067",
+                "url": "https://en.wikipedia.org/wiki/Fungal_infection"
+            },
+            {
+                "name": "skin disease",
+                "qid": "Q949302",
+                "url": "https://en.wikipedia.org/wiki/Skin_condition"
+            },
+            {
+                "name": "skin infection",
+                "qid": "Q2458539",
+                "url": "https://en.wikipedia.org/wiki/Skin_infection"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "zone of skin",
+                "qid": "Q30029801"
+            }
+        ]
+    }
+}

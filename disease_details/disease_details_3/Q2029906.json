@@ -1,0 +1,17 @@
+{
+    "name": "Paraproctitis",
+    "qid": "Q2029906",
+    "icd_10": "K61",
+    "description": "inflammation of the cellular tissues surrounding the rectum",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Paraproctitis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "rectal disease",
+                "qid": "Q18554389"
+            }
+        ]
+    }
+}

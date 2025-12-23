@@ -1,0 +1,37 @@
+{
+    "name": "dyskinetic cerebral palsy",
+    "qid": "Q4813631",
+    "icd_10": "G80.3",
+    "description": "human disease",
+    "aliases": [
+        "Athetoid cerebral palsy",
+        "Athetoid Dyskinetic Cerebral Palsy",
+        "cerebral palsy athetoid",
+        "Cerebral palsy dyskinetic"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Athetoid_cerebral_palsy",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "cerebral palsy",
+                "qid": "Q210427",
+                "url": "https://en.wikipedia.org/wiki/Cerebral_palsy"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "athetosis",
+                "qid": "Q755524",
+                "url": "https://en.wikipedia.org/wiki/Athetosis"
+            }
+        ]
+    }
+}

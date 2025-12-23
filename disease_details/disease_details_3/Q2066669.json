@@ -1,0 +1,34 @@
+{
+    "name": "Spigelian hernia",
+    "qid": "Q2066669",
+    "icd_10": "K43.9",
+    "description": "surgical case",
+    "aliases": [
+        "lateral ventral hernia"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Spigelian%20Hernia.jpg",
+    "url": "https://en.wikipedia.org/wiki/Spigelian_hernia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "hernia",
+                "qid": "Q133076",
+                "url": "https://en.wikipedia.org/wiki/Hernia"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "Linea semilunaris",
+                "qid": "Q6553359",
+                "url": "https://en.wikipedia.org/wiki/Linea_semilunaris"
+            }
+        ]
+    }
+}

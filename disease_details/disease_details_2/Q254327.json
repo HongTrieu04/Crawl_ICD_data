@@ -1,0 +1,64 @@
+{
+    "name": "anorexia",
+    "qid": "Q254327",
+    "icd_10": "R63.0",
+    "description": "medical symptom",
+    "aliases": [
+        "loss of appetite",
+        "ANA",
+        "appetite loss"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Symptoms-lost-appetite.jpg",
+    "url": "https://en.wikipedia.org/wiki/Anorexia_(symptom)",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "psychology",
+                "qid": "Q9418",
+                "url": "https://en.wikipedia.org/wiki/Psychology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "symptom",
+                "qid": "Q169872",
+                "url": "https://en.wikipedia.org/wiki/Symptom"
+            },
+            {
+                "name": "eating disorder",
+                "qid": "Q373822",
+                "url": "https://en.wikipedia.org/wiki/Eating_disorder"
+            },
+            {
+                "name": "physiological condition",
+                "qid": "Q7189713",
+                "url": "https://en.wikipedia.org/wiki/Physiological_condition"
+            },
+            {
+                "name": "decreased appetite",
+                "qid": "Q102186869"
+            },
+            {
+                "name": "nutrition, metabolism, and development symptom",
+                "qid": "Q102187407"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "tetrahydrocannabinol",
+                "qid": "Q190067",
+                "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+            },
+            {
+                "name": "megestrol",
+                "qid": "Q410513",
+                "url": "https://en.wikipedia.org/wiki/Megestrol"
+            }
+        ]
+    }
+}

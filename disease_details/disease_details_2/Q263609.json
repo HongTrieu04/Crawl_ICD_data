@@ -1,0 +1,31 @@
+{
+    "name": "pemphigus foliaceus",
+    "qid": "Q263609",
+    "icd_10": "L10.2",
+    "description": "autoimmune blistering disease",
+    "aliases": [
+        "PF"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Plate%20XVIII%2C%20Pemphigus%20foliaceus%2C%20Crocker%201896%20Wellcome%20L0074328.jpg",
+    "url": "https://en.wikipedia.org/wiki/Pemphigus_foliaceus",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "pemphigus",
+                "qid": "Q1483214",
+                "url": "https://en.wikipedia.org/wiki/Pemphigus"
+            },
+            {
+                "name": "superficial pemphigus",
+                "qid": "Q55788306"
+            }
+        ]
+    }
+}

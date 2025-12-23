@@ -1,0 +1,28 @@
+{
+    "name": "preauricular sinus and cyst",
+    "qid": "Q2604355",
+    "icd_10": "Q18.1",
+    "description": "human anatomy",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Preauricular%20sinus.jpg",
+    "url": "https://en.wikipedia.org/wiki/Preauricular_sinus_and_cyst",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "otolaryngology",
+                "qid": "Q189553",
+                "url": "https://en.wikipedia.org/wiki/Otorhinolaryngology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "external ear disease",
+                "qid": "Q18556075"
+            },
+            {
+                "name": "cysts and fistulae of the face and oral cavity",
+                "qid": "Q55785496"
+            }
+        ]
+    }
+}

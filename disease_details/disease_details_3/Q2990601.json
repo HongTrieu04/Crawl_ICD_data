@@ -1,0 +1,36 @@
+{
+    "name": "sexual risk behavior",
+    "qid": "Q2990601",
+    "icd_10": "Z72.5",
+    "description": "sexual behavior risking contracting sexually transmitted disease or pregnancy",
+    "aliases": [
+        "Fluid bonding",
+        "risky sexual behavior",
+        "risky sexual behaviour",
+        "unsafe sex"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Risky_sexual_behavior",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "sexuality",
+                "qid": "Q3043188",
+                "url": "https://en.wikipedia.org/wiki/Sexuality"
+            },
+            {
+                "name": "human sexual behavior",
+                "qid": "Q608",
+                "url": "https://en.wikipedia.org/wiki/Human_sexual_activity"
+            },
+            {
+                "name": "dangerous behavior",
+                "qid": "Q2990599"
+            },
+            {
+                "name": "health risk",
+                "qid": "Q87075524"
+            }
+        ]
+    }
+}

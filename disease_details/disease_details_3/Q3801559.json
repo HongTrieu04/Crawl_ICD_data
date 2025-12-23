@@ -1,0 +1,27 @@
+{
+    "name": "hyperthecosis",
+    "qid": "Q3801559",
+    "icd_10": "E28.8",
+    "description": "hyperplasia of the theca interna of the ovary",
+    "aliases": [
+        "ovarian stromal hyperthecosis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hyperthecosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "ovarian disease",
+                "qid": "Q7113244",
+                "url": "https://en.wikipedia.org/wiki/Ovarian_disease"
+            }
+        ]
+    }
+}

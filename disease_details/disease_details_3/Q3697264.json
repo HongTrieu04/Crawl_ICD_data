@@ -1,0 +1,26 @@
+{
+    "name": "Cryptotia",
+    "qid": "Q3697264",
+    "icd_10": "Q17.8",
+    "description": "human disease",
+    "aliases": [
+        "cryptotia, familial",
+        "CRYPTOTIA, FAMILIAL",
+        "pocket ear"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Cryptotia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "genetic disease",
+                "qid": "Q200779",
+                "url": "https://en.wikipedia.org/wiki/Genetic_disorder"
+            },
+            {
+                "name": "external ear malformation",
+                "qid": "Q55785514"
+            }
+        ]
+    }
+}

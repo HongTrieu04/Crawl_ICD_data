@@ -1,0 +1,25 @@
+{
+    "name": "dual-role transvestism",
+    "qid": "Q10384302",
+    "icd_10": "F64.1",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Dual-role_transvestism",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "gender dysphoria",
+                "qid": "Q1049021",
+                "url": "https://en.wikipedia.org/wiki/Gender_dysphoria"
+            }
+        ]
+    }
+}

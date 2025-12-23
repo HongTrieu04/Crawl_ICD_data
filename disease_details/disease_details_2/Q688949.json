@@ -1,0 +1,30 @@
+{
+    "name": "fibromuscular dysplasia",
+    "qid": "Q688949",
+    "icd_10": "I77.3",
+    "description": "human arterial disease",
+    "aliases": [
+        "Fibromuscular hyperplasia of arteries NOS (disorder)",
+        "Fibromuscular hyperplasia of artery",
+        "Fibromuscular hyperplasia of artery (disorder)",
+        "Fibromuscular hyperplasia of artery [Ambiguous]",
+        "obsolete fibromuscular dysplasia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Fibromuscular_dysplasia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "peripheral vascular disease",
+                "qid": "Q26695607"
+            }
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "name": "copper toxicity",
+    "qid": "Q5168803",
+    "icd_10": "T56.4",
+    "description": "type of metal poisoning caused by excess copper in the body",
+    "aliases": [
+        "copperiedus"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Main%20symptoms%20of%20copper%20poisoning.svg",
+    "url": "https://en.wikipedia.org/wiki/Copper_toxicity",
+    "details": {
+        "Cause": [
+            {
+                "name": "copper",
+                "qid": "Q753",
+                "url": "https://en.wikipedia.org/wiki/Copper"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "copper in biology",
+                "qid": "Q3754605",
+                "url": "https://en.wikipedia.org/wiki/Copper_in_biology"
+            },
+            {
+                "name": "metal poisoning",
+                "qid": "Q4215775",
+                "url": "https://en.wikipedia.org/wiki/Metal_toxicity"
+            }
+        ]
+    }
+}

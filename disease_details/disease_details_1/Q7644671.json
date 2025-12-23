@@ -1,0 +1,30 @@
+{
+    "name": "Supracondylar humerus fracture",
+    "qid": "Q7644671",
+    "icd_10": "S42.4",
+    "description": "type of bone fracture",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Supracondylar_humerus_fracture",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "orthopedics",
+                "qid": "Q216685",
+                "url": "https://en.wikipedia.org/wiki/Orthopedic_surgery"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "fracture of lower end of humerus",
+                "qid": "Q1229341",
+                "url": "https://en.wikipedia.org/wiki/Distal_humeral_fracture"
+            },
+            {
+                "name": "elbow fracture",
+                "qid": "Q3752478",
+                "url": "https://en.wikipedia.org/wiki/Elbow_fracture"
+            }
+        ]
+    }
+}

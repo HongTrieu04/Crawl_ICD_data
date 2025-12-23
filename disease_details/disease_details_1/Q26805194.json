@@ -1,0 +1,38 @@
+{
+    "name": "sclerosing encapsulating peritonitis",
+    "qid": "Q26805194",
+    "icd_10": "K66.8",
+    "description": "rare disease",
+    "aliases": [
+        "SEP",
+        "ACS",
+        "abdominal cocoon",
+        "abdominal cocoon syndrome",
+        "peritoneal fibrosis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Cause": [
+            {
+                "name": "peritoneal dialysis",
+                "qid": "Q1756474",
+                "url": "https://en.wikipedia.org/wiki/Peritoneal_dialysis"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "peritonitis",
+                "qid": "Q223102",
+                "url": "https://en.wikipedia.org/wiki/Peritonitis"
+            }
+        ]
+    }
+}

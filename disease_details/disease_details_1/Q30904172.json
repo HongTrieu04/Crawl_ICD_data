@@ -1,0 +1,21 @@
+{
+    "name": "foot fracture",
+    "qid": "Q30904172",
+    "icd_10": "S92",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "leg fracture",
+                "qid": "Q4350502"
+            },
+            {
+                "name": "foot injury",
+                "qid": "Q15728074"
+            }
+        ]
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "name": "histoplasmosis",
+    "qid": "Q627625",
+    "icd_10": "B39",
+    "description": "human disease",
+    "aliases": [
+        "Darling's disease",
+        "Reticuloendothelial hyperplasia",
+        "reticuloendotheliosis",
+        "RETICULOENDOTHELIOSIS, X-LINKED"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Histoplasmosis%20Case%20159%20%285441206765%29.jpg",
+    "url": "https://en.wikipedia.org/wiki/Histoplasmosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "genetic disease",
+                "qid": "Q200779",
+                "url": "https://en.wikipedia.org/wiki/Genetic_disorder"
+            },
+            {
+                "name": "primary systemic mycosis",
+                "qid": "Q18553244"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "infection",
+                "qid": "Q166231",
+                "url": "https://en.wikipedia.org/wiki/Infection"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "natamycin",
+                "qid": "Q248466",
+                "url": "https://en.wikipedia.org/wiki/Natamycin"
+            },
+            {
+                "name": "amphotericin B",
+                "qid": "Q412223",
+                "url": "https://en.wikipedia.org/wiki/Amphotericin_B"
+            },
+            {
+                "name": "ketoconazole",
+                "qid": "Q407883",
+                "url": "https://en.wikipedia.org/wiki/Ketoconazole"
+            },
+            {
+                "name": "itraconazole",
+                "qid": "Q411229",
+                "url": "https://en.wikipedia.org/wiki/Itraconazole"
+            },
+            {
+                "name": "fluconazole",
+                "qid": "Q411478",
+                "url": "https://en.wikipedia.org/wiki/Fluconazole"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

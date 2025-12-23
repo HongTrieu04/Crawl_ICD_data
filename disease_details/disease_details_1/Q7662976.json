@@ -1,0 +1,21 @@
+{
+    "name": "Syphilid",
+    "qid": "Q7662976",
+    "icd_10": "A51.3",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Syphilid",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "secondary syphilis",
+                "qid": "Q18556216"
+            },
+            {
+                "name": "secondary cutaneous syphilis",
+                "qid": "Q18967577"
+            }
+        ]
+    }
+}

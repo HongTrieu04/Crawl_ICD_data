@@ -1,0 +1,39 @@
+{
+    "name": "tuberculous meningitis",
+    "qid": "Q3854687",
+    "icd_10": "G01",
+    "description": "human disease",
+    "aliases": [
+        "meningeal tuberculosis",
+        "tuberculoma of meninges",
+        "Tuberculosis, Meningeal"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20diseases%20of%20infancy%20and%20childhood%20%281910%29%20%2814783888033%29.jpg",
+    "url": "https://en.wikipedia.org/wiki/Tuberculous_meningitis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "rifampicin",
+                "qid": "Q422652",
+                "url": "https://en.wikipedia.org/wiki/Rifampicin"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "bacterial meningitis",
+                "qid": "Q3678510"
+            },
+            {
+                "name": "central nervous system tuberculosis",
+                "qid": "Q18554860"
+            }
+        ]
+    }
+}

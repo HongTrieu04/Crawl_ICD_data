@@ -1,0 +1,32 @@
+{
+    "name": "lisp",
+    "qid": "Q527892",
+    "icd_10": "F80.8",
+    "description": "speech impediment in which a person misarticulates sibilants",
+    "aliases": [
+        "sigmatism"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Lisp",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "dyslalia",
+                "qid": "Q1087232",
+                "url": "https://en.wikipedia.org/wiki/Dyslalia"
+            },
+            {
+                "name": "speech sound disorder",
+                "qid": "Q4133283",
+                "url": "https://en.wikipedia.org/wiki/Speech_sound_disorder"
+            }
+        ]
+    }
+}

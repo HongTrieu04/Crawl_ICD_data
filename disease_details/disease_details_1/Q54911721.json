@@ -1,0 +1,37 @@
+{
+    "name": "digestive system abnormality",
+    "qid": "Q54911721",
+    "icd_10": "Q45.9",
+    "description": "congenital structural abnormalities of the digestive system",
+    "aliases": [
+        "congenital anomaly of digestive system",
+        "digestive system abnormalities",
+        "digestive tract malformation"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "gastrointestinal system disease",
+                "qid": "Q2300099",
+                "url": "https://en.wikipedia.org/wiki/Gastrointestinal_disease"
+            },
+            {
+                "name": "rare abdominal surgical disease",
+                "qid": "Q55785601"
+            },
+            {
+                "name": "developmental defect during embryogenesis",
+                "qid": "Q55788864"
+            }
+        ]
+    }
+}

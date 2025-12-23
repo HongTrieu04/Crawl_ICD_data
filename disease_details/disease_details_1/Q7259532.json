@@ -1,0 +1,43 @@
+{
+    "name": "pulmonary hypoplasia",
+    "qid": "Q7259532",
+    "icd_10": "Q33.6",
+    "description": "congenital disorder of respiratory system",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pulmonary_hypoplasia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neonatology",
+                "qid": "Q898674",
+                "url": "https://en.wikipedia.org/wiki/Neonatology"
+            },
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            },
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "congenital disorder",
+                "qid": "Q727096",
+                "url": "https://en.wikipedia.org/wiki/Birth_defect"
+            },
+            {
+                "name": "lung disease",
+                "qid": "Q3392853"
+            },
+            {
+                "name": "respiratory system abnormality",
+                "qid": "Q18975820"
+            }
+        ]
+    }
+}

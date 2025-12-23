@@ -1,0 +1,69 @@
+{
+    "name": "neuroleptic malignant syndrome",
+    "qid": "Q1424956",
+    "icd_10": "G21.0",
+    "description": "nervous system disease that is characterized by hyperthermia, muscular rigidity, autonomic dysfunction and altered consciousness and is associated with administration of antipsychotic and other central dopaminergic blockers",
+    "aliases": [
+        "NMS"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Neuroleptic_malignant_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "adverse drug reaction",
+                "qid": "Q45959",
+                "url": "https://en.wikipedia.org/wiki/Adverse_drug_reaction"
+            },
+            {
+                "name": "neurological disorder",
+                "qid": "Q3339235",
+                "url": "https://en.wikipedia.org/wiki/Neurological_disorder"
+            },
+            {
+                "name": "rare disease with malignant hyperthermia",
+                "qid": "Q55788310"
+            },
+            {
+                "name": "advers effect of psychopharmacological medication",
+                "qid": "Q62665995"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "antipsychotics",
+                "qid": "Q208144",
+                "url": "https://en.wikipedia.org/wiki/Antipsychotic"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            },
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "bromocriptine",
+                "qid": "Q413581",
+                "url": "https://en.wikipedia.org/wiki/Bromocriptine"
+            },
+            {
+                "name": "dantrolene",
+                "qid": "Q421274",
+                "url": "https://en.wikipedia.org/wiki/Dantrolene"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Bochdalek hernia",
+    "qid": "Q13359975",
+    "icd_10": "Q79.0",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Bochdalek_hernia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            },
+            {
+                "name": "thoracic surgery",
+                "qid": "Q2964004",
+                "url": "https://en.wikipedia.org/wiki/Thoracic_surgery"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "congenital diaphragmatic hernia",
+                "qid": "Q2163245",
+                "url": "https://en.wikipedia.org/wiki/Congenital_diaphragmatic_hernia"
+            }
+        ]
+    }
+}

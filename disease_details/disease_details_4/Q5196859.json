@@ -1,0 +1,25 @@
+{
+    "name": "Cutis rhomboidalis nuchae",
+    "qid": "Q5196859",
+    "icd_10": "L57.2",
+    "description": "Medical condition.",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Cutis_rhomboidalis_nuchae",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "photoaging",
+                "qid": "Q3705873",
+                "url": "https://en.wikipedia.org/wiki/Photoaging"
+            }
+        ]
+    }
+}

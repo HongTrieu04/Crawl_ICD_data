@@ -1,0 +1,31 @@
+{
+    "name": "hirsutism",
+    "qid": "Q1620594",
+    "icd_10": "L68.0",
+    "description": "masculine hair growth on a woman",
+    "aliases": [
+        "bearded lady"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jones%2C%20Annie.jpg",
+    "url": "https://en.wikipedia.org/wiki/Hirsutism",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "hypertrichosis",
+                "qid": "Q595010",
+                "url": "https://en.wikipedia.org/wiki/Hypertrichosis"
+            },
+            {
+                "name": "virilism",
+                "qid": "Q2527831"
+            }
+        ]
+    }
+}

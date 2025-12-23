@@ -1,0 +1,17 @@
+{
+    "name": "pancreatin",
+    "qid": "Q426846",
+    "icd_10": "K91.5",
+    "description": "mixture of several digestive enzymes produced by the exocrine cells of the pancreas",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pancreatin",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "pancreatic extracts",
+                "qid": "Q76719737"
+            }
+        ]
+    }
+}

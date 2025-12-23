@@ -1,0 +1,25 @@
+{
+    "name": "myxoma",
+    "qid": "Q589612",
+    "icd_10": "D21.9",
+    "description": "myxoid tumor of primitive connective tissue",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Myxoma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "cancer",
+                "qid": "Q12078",
+                "url": "https://en.wikipedia.org/wiki/Cancer"
+            }
+        ]
+    }
+}

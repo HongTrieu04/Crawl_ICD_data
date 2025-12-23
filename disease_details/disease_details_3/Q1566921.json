@@ -1,0 +1,18 @@
+{
+    "name": "recurrent dislocation",
+    "qid": "Q1566921",
+    "icd_10": "M24.4",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "joint dislocation",
+                "qid": "Q324509",
+                "url": "https://en.wikipedia.org/wiki/Joint_dislocation"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "name": "epidural cranial hematoma",
+    "qid": "Q2716919",
+    "icd_10": "I62.1",
+    "description": "build-up of blood between the dura mater and skull",
+    "aliases": [
+        "epidural haematoma",
+        "epidural hematoma",
+        "Epidural hematoma",
+        "extradural haematoma",
+        "extradural hematoma",
+        "Hematoma, Epidural, Cranial"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Epidural%20hematoma.png",
+    "url": "https://en.wikipedia.org/wiki/Epidural_hematoma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "extradural hemorrhage",
+                "qid": "Q3724758"
+            },
+            {
+                "name": "traumatic intracranial hemorrhage",
+                "qid": "Q55092825"
+            }
+        ]
+    }
+}

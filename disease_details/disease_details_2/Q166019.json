@@ -1,0 +1,79 @@
+{
+    "name": "bleeding",
+    "qid": "Q166019",
+    "icd_10": "R58",
+    "description": "loss of blood escaping from the circulatory system",
+    "aliases": [
+        "blood loss",
+        "hemorrhage",
+        "hemorrhaging",
+        "excessive blood loss",
+        "hemorrage",
+        "loss of blood"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bleeding%20finger.jpg",
+    "url": "https://en.wikipedia.org/wiki/Bleeding",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "protamine sulfate",
+                "qid": "Q22075855",
+                "url": "https://en.wikipedia.org/wiki/Protamine_sulfate"
+            },
+            {
+                "name": "aprotinin",
+                "qid": "Q418625",
+                "url": "https://en.wikipedia.org/wiki/Aprotinin"
+            },
+            {
+                "name": "tranexamic acid",
+                "qid": "Q418666",
+                "url": "https://en.wikipedia.org/wiki/Tranexamic_acid"
+            },
+            {
+                "name": "silver nitrate",
+                "qid": "Q207442",
+                "url": "https://en.wikipedia.org/wiki/Silver_nitrate"
+            },
+            {
+                "name": "desmopressin",
+                "qid": "Q241006",
+                "url": "https://en.wikipedia.org/wiki/Desmopressin"
+            },
+            {
+                "name": "aminocaproic acid",
+                "qid": "Q255968",
+                "url": "https://en.wikipedia.org/wiki/Aminocaproic_acid"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "clinical sign",
+                "qid": "Q1441305",
+                "url": "https://en.wikipedia.org/wiki/Clinical_sign"
+            },
+            {
+                "name": "cause of death",
+                "qid": "Q1931388",
+                "url": "https://en.wikipedia.org/wiki/Cause_of_death"
+            },
+            {
+                "name": "general symptom",
+                "qid": "Q31836626"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "destruction",
+                "qid": "Q17781833"
+            }
+        ]
+    }
+}

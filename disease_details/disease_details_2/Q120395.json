@@ -1,0 +1,30 @@
+{
+    "name": "dyspareunia",
+    "qid": "Q120395",
+    "icd_10": "N94.1",
+    "description": "painful sexual intercourse due to medical or psychological causes",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Dyspareunia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "pain",
+                "qid": "Q81938",
+                "url": "https://en.wikipedia.org/wiki/Pain"
+            },
+            {
+                "name": "pelvic pain",
+                "qid": "Q7161805",
+                "url": "https://en.wikipedia.org/wiki/Pelvic_pain"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gynaecology",
+                "qid": "Q1221899",
+                "url": "https://en.wikipedia.org/wiki/Gynaecology"
+            }
+        ]
+    }
+}

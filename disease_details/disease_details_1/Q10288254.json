@@ -1,0 +1,23 @@
+{
+    "name": "gangosa of yaws",
+    "qid": "Q10288254",
+    "icd_10": "A66.5",
+    "description": "human disease",
+    "aliases": [
+        "Gangosa",
+        "Gangosa of yaws (disorder)",
+        "obsolete gangosa of yaws",
+        "Rhinopharyngitis mutilans"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Rhinopharyngitis_mutilans",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "yaws",
+                "qid": "Q76973",
+                "url": "https://en.wikipedia.org/wiki/Yaws"
+            }
+        ]
+    }
+}

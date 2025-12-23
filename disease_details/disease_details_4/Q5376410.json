@@ -1,0 +1,28 @@
+{
+    "name": "endosalpingiosis",
+    "qid": "Q5376410",
+    "icd_10": "N80.8",
+    "description": "Human disease",
+    "aliases": [
+        "Endosalpingiosis",
+        "Endosalpingiosis (disorder)"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Endosalpingiosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "endometriosis",
+                "qid": "Q205764",
+                "url": "https://en.wikipedia.org/wiki/Endometriosis"
+            }
+        ]
+    }
+}

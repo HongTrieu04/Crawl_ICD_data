@@ -1,0 +1,29 @@
+{
+    "name": "Chloramphenicol toxicity",
+    "qid": "Q55782724",
+    "icd_10": "T36.2",
+    "description": "human disease",
+    "aliases": [
+        "Anemia, Chloramphenicol-Induced",
+        "Chloramphenicol Resistance",
+        "CHLORAMPHENICOL TOXICITY"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Cause": [
+            {
+                "name": "chloramphenicol",
+                "qid": "Q274515",
+                "url": "https://en.wikipedia.org/wiki/Chloramphenicol"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "adverse drug reaction",
+                "qid": "Q45959",
+                "url": "https://en.wikipedia.org/wiki/Adverse_drug_reaction"
+            }
+        ]
+    }
+}

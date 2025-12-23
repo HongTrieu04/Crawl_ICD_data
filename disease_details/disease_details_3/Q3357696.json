@@ -1,0 +1,25 @@
+{
+    "name": "otorrhagia",
+    "qid": "Q3357696",
+    "icd_10": "H92.2",
+    "description": "bleeding from ear",
+    "aliases": [
+        "bleeding ear"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "bleeding",
+                "qid": "Q166019",
+                "url": "https://en.wikipedia.org/wiki/Bleeding"
+            },
+            {
+                "name": "ear disease",
+                "qid": "Q5325633",
+                "url": "https://en.wikipedia.org/wiki/Ear_disease"
+            }
+        ]
+    }
+}

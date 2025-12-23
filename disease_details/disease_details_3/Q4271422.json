@@ -1,0 +1,46 @@
+{
+    "name": "mediastinal neoplasm",
+    "qid": "Q4271422",
+    "icd_10": "C38.1",
+    "description": "tumor in the mediastinum area of the body",
+    "aliases": [
+        "Mediastinal Neoplasm",
+        "Mediastinal Neoplasm NOS",
+        "mediastinal neoplasms",
+        "mediastinal tumor",
+        "mediastinum neoplasm (disease)",
+        "mediastinum tumor",
+        "neoplasm of mediastinum",
+        "Neoplasm of the Mediastinum",
+        "Tumor of Mediastinum",
+        "Tumor of the Mediastinum"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Mediastinal_tumors",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "mediastinum",
+                "qid": "Q337247",
+                "url": "https://en.wikipedia.org/wiki/Mediastinum"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "mediastinal disease",
+                "qid": "Q54943832"
+            },
+            {
+                "name": "neoplasm of thorax",
+                "qid": "Q56014516"
+            }
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "genetic anomaly of leucocyte",
+    "qid": "Q19001365",
+    "icd_10": "D72.0",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete genetic anomaly of leucocyte"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "leukocyte disease",
+                "qid": "Q18558143"
+            }
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "name": "anterior interosseous syndrome",
+    "qid": "Q1741415",
+    "icd_10": "G56.0",
+    "description": "medical condition in which damage to the anterior interosseous nerve causes pain in the forearm and a characteristic weakness of the pincer movement of the thumb and index finger.",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Anterior_interosseous_syndrome",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "pain",
+                "qid": "Q81938",
+                "url": "https://en.wikipedia.org/wiki/Pain"
+            },
+            {
+                "name": "muscle weakness",
+                "qid": "Q270421",
+                "url": "https://en.wikipedia.org/wiki/Muscle_weakness"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            },
+            {
+                "name": "hand surgery",
+                "qid": "Q286452",
+                "url": "https://en.wikipedia.org/wiki/Hand_surgery"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "nerve compression syndrome",
+                "qid": "Q1978084",
+                "url": "https://en.wikipedia.org/wiki/Nerve_compression_syndrome"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "nerve compression syndrome",
+                "qid": "Q1978084",
+                "url": "https://en.wikipedia.org/wiki/Nerve_compression_syndrome"
+            },
+            {
+                "name": "mononeuropathy",
+                "qid": "Q18554205",
+                "url": "https://en.wikipedia.org/wiki/Peripheral_mononeuropathy"
+            }
+        ]
+    }
+}

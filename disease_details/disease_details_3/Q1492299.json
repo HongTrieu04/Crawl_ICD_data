@@ -1,0 +1,30 @@
+{
+    "name": "gallstone ileus",
+    "qid": "Q1492299",
+    "icd_10": "K56.3",
+    "description": "form of small bowel obstruction caused by an impaction of a gallstone within the lumen of the small intestine",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Gallstone_ileus",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "bowel obstruction",
+                "qid": "Q16244733",
+                "url": "https://en.wikipedia.org/wiki/Bowel_obstruction"
+            },
+            {
+                "name": "gallstone disease",
+                "qid": "Q7069348",
+                "url": "https://en.wikipedia.org/wiki/Gallstone"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ]
+    }
+}

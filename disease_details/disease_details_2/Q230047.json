@@ -1,0 +1,59 @@
+{
+    "name": "burning mouth syndrome",
+    "qid": "Q230047",
+    "icd_10": "K14.6",
+    "description": "human disease",
+    "aliases": [
+        "BMS",
+        "Stomatopyrosis",
+        "Oral dysesthesia",
+        "Orodynia",
+        "stomatodynia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Burning_mouth_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "dysesthesia",
+                "qid": "Q1269376",
+                "url": "https://en.wikipedia.org/wiki/Dysesthesia"
+            },
+            {
+                "name": "mouth disease",
+                "qid": "Q2508462",
+                "url": "https://en.wikipedia.org/wiki/Oral_and_maxillofacial_pathology"
+            },
+            {
+                "name": "glossalgia",
+                "qid": "Q1532173"
+            },
+            {
+                "name": "burning sensation",
+                "qid": "Q3645517"
+            },
+            {
+                "name": "rare headache disorder",
+                "qid": "Q55789050"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oral medicine",
+                "qid": "Q3673891",
+                "url": "https://en.wikipedia.org/wiki/Oral_medicine"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "burning mouth",
+                "qid": "Q21120214"
+            }
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "name": "nubbin",
+    "qid": "Q2297224",
+    "icd_10": "Q83.3",
+    "description": "additional nipple occurring in mammals",
+    "aliases": [
+        "accessory nipple",
+        "polymastia",
+        "polythelia",
+        "supernumerary nipple",
+        "third nipple",
+        "triple nipple"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Trzeci%20sutek.jpg",
+    "url": "https://en.wikipedia.org/wiki/Supernumerary_nipple",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "breast disease",
+                "qid": "Q4959796",
+                "url": "https://en.wikipedia.org/wiki/Breast_disease"
+            },
+            {
+                "name": "supernumerary body part",
+                "qid": "Q14387830",
+                "url": "https://en.wikipedia.org/wiki/Supernumerary_body_part"
+            }
+        ]
+    }
+}

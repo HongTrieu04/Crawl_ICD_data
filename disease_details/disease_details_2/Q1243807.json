@@ -1,0 +1,56 @@
+{
+    "name": "tinea cruris",
+    "qid": "Q1243807",
+    "icd_10": "B35.6",
+    "description": "type of fungal infection of the groin region in either sex, though more often seen in males",
+    "aliases": [
+        "(Dermatophytosis of groin & perianal area) or (Dhobie itch) or (tinea cruris)",
+        "crotch itch",
+        "Dermatophytosis of groin & perianal area",
+        "Dermatophytosis of Groin and Perianal Area",
+        "Dermatophytosis of groin and perianal area (disorder)",
+        "Dermatophytosis of groin and perianal area NOS (disorder)",
+        "Dhobie itch",
+        "jock rot"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tinea%20cruris.jpg",
+    "url": "https://en.wikipedia.org/wiki/Tinea_cruris",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "skin disease",
+                "qid": "Q949302",
+                "url": "https://en.wikipedia.org/wiki/Skin_condition"
+            },
+            {
+                "name": "dermatophytosis",
+                "qid": "Q1909343",
+                "url": "https://en.wikipedia.org/wiki/Dermatophytosis"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "sulconazole",
+                "qid": "Q2392530",
+                "url": "https://en.wikipedia.org/wiki/Sulconazole"
+            },
+            {
+                "name": "oxiconazole",
+                "qid": "Q3359058",
+                "url": "https://en.wikipedia.org/wiki/Oxiconazole"
+            },
+            {
+                "name": "luliconazole",
+                "qid": "Q15624030",
+                "url": "https://en.wikipedia.org/wiki/Luliconazole"
+            }
+        ]
+    }
+}

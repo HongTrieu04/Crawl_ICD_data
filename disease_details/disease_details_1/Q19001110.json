@@ -1,0 +1,20 @@
+{
+    "name": "nerve root and plexus disorder",
+    "qid": "Q19001110",
+    "icd_10": "G54",
+    "description": "human disease",
+    "aliases": [
+        "obsolete nerve root and plexus disorder"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "peripheral neuropathy",
+                "qid": "Q945238",
+                "url": "https://en.wikipedia.org/wiki/Peripheral_neuropathy"
+            }
+        ]
+    }
+}

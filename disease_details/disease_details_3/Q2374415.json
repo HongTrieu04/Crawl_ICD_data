@@ -1,0 +1,21 @@
+{
+    "name": "symblepharon",
+    "qid": "Q2374415",
+    "icd_10": "H11.2",
+    "description": "medical condition",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Symblepharon.jpg",
+    "url": "https://en.wikipedia.org/wiki/Symblepharon",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "conjunctival disease",
+                "qid": "Q18556249"
+            },
+            {
+                "name": "eyelid disease",
+                "qid": "Q18556729"
+            }
+        ]
+    }
+}

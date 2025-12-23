@@ -1,0 +1,29 @@
+{
+    "name": "lower limb cancer",
+    "qid": "Q18966254",
+    "icd_10": "C76.5",
+    "description": "Human disease",
+    "aliases": [
+        "cancer of lower limb",
+        "malignant neoplasm of lower limb",
+        "obsolete lower limb cancer"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "human leg",
+                "qid": "Q6027402",
+                "url": "https://en.wikipedia.org/wiki/Human_leg"
+            }
+        ]
+    }
+}

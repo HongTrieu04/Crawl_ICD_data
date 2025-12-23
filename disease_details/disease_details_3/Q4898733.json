@@ -1,0 +1,31 @@
+{
+    "name": "epilepsia partialis continua",
+    "qid": "Q4898733",
+    "icd_10": "G40.5",
+    "description": "Human disease",
+    "aliases": [
+        "Epilepsia partialis continua",
+        "epilepsia partialis continua with intractable epilepsy",
+        "Kozhevnikov's epilepsia",
+        "Kozhevnikov's epilepsy",
+        "obsolete epilepsia partialis continua"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Epilepsia_partialis_continua",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "status epilepticus",
+                "qid": "Q980709",
+                "url": "https://en.wikipedia.org/wiki/Status_epilepticus"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ]
+    }
+}

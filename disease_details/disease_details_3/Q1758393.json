@@ -1,0 +1,55 @@
+{
+    "name": "inherited metabolic disorder",
+    "qid": "Q1758393",
+    "icd_10": "E90",
+    "description": "class of disease including endocrine diseases, nutritional diseases and metabolic diseases",
+    "aliases": [
+        "congenital metabolic disease",
+        "Inborn error of metabolism",
+        "Inborn errors of metabolism",
+        "Inborn Errors of Metabolism",
+        "Inborn metabolism disorder",
+        "Metabolic hereditary disorder",
+        "Metabolism, Inborn Errors"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Inborn_errors_of_metabolism",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "metabolic disease",
+                "qid": "Q2351083",
+                "url": "https://en.wikipedia.org/wiki/Metabolic_disorder"
+            },
+            {
+                "name": "rare disease",
+                "qid": "Q929833",
+                "url": "https://en.wikipedia.org/wiki/Rare_disease"
+            },
+            {
+                "name": "genetic disease",
+                "qid": "Q200779",
+                "url": "https://en.wikipedia.org/wiki/Genetic_disorder"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "biotin",
+                "qid": "Q181354",
+                "url": "https://en.wikipedia.org/wiki/Biotin"
+            }
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "name": "cat eye syndrome",
+    "qid": "Q1199621",
+    "icd_10": "Q92.8",
+    "description": "disease",
+    "aliases": [
+        "CES",
+        "CAT EYE SYNDROME",
+        "CAT EYE SYNDROME; CES",
+        "cat-eye syndrome",
+        "Chromosome 22 Partial Tetrasomy",
+        "Inv Dup(22)(Q11)",
+        "Schmid-Fraccaro Syndrome"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Coloboma-2.png",
+    "url": "https://en.wikipedia.org/wiki/Cat_eye_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "trisomy 22",
+                "qid": "Q1426698",
+                "url": "https://en.wikipedia.org/wiki/Trisomy_22"
+            },
+            {
+                "name": "syndromic developmental defect of the eye",
+                "qid": "Q55785336"
+            },
+            {
+                "name": "syndromic anorectal malformation",
+                "qid": "Q55785353"
+            },
+            {
+                "name": "complex chromosomal rearrangement",
+                "qid": "Q55786712"
+            },
+            {
+                "name": "syndromic renal or urinary tract malformation",
+                "qid": "Q55788832"
+            },
+            {
+                "name": "syndrome with a symptomatic strabismus",
+                "qid": "Q55789247"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "name": "labyrinthine fistula",
+    "qid": "Q3286202",
+    "icd_10": "H83.1",
+    "description": "medical condition",
+    "aliases": [
+        "perilymph fistula"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Labyrinthine_fistula",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "otolaryngology",
+                "qid": "Q189553",
+                "url": "https://en.wikipedia.org/wiki/Otorhinolaryngology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "labyrinthosis",
+                "qid": "Q3825166"
+            },
+            {
+                "name": "inner ear disease",
+                "qid": "Q18555242"
+            }
+        ]
+    }
+}

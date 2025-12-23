@@ -1,0 +1,46 @@
+{
+    "name": "pitted keratolysis",
+    "qid": "Q2521341",
+    "icd_10": "L08.85",
+    "description": "bacterial skin infection of the foot",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pitted_keratolysis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "foot",
+                "qid": "Q15807",
+                "url": "https://en.wikipedia.org/wiki/Foot"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "hyperhidrosis",
+                "qid": "Q935781",
+                "url": "https://en.wikipedia.org/wiki/Hyperhidrosis"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "foot diseases",
+                "qid": "Q5282137",
+                "url": "https://en.wikipedia.org/wiki/Diseases_of_the_foot"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "fetor",
+                "qid": "Q5445966",
+                "url": "https://en.wikipedia.org/wiki/Fetor"
+            }
+        ]
+    }
+}

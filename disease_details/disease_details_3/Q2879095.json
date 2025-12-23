@@ -1,0 +1,64 @@
+{
+    "name": "optic nerve disease",
+    "qid": "Q2879095",
+    "icd_10": "H46",
+    "description": "cranial nerve disease that is located in the optic nerve",
+    "aliases": [
+        "disorder of optic nerve (disorder)",
+        "disorder of the second nerve",
+        "optic nerve atrophy",
+        "optic nerve damage",
+        "optic nerve diseases",
+        "optic nerve disorder",
+        "optic neuropathy",
+        "optic neuropathy (disorder)"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Optic_neuropathy",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "cranial nerve disease",
+                "qid": "Q5182126",
+                "url": "https://en.wikipedia.org/wiki/Cranial_nerve_disease"
+            },
+            {
+                "name": "vision disorder",
+                "qid": "Q767669",
+                "url": "https://en.wikipedia.org/wiki/Vision_disorder"
+            },
+            {
+                "name": "peripheral neuropathy",
+                "qid": "Q945238",
+                "url": "https://en.wikipedia.org/wiki/Peripheral_neuropathy"
+            },
+            {
+                "name": "visual pathway disease",
+                "qid": "Q18554635"
+            },
+            {
+                "name": "neuro-ophthalmological disease",
+                "qid": "Q55785426"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "optic nerve",
+                "qid": "Q186029",
+                "url": "https://en.wikipedia.org/wiki/Optic_nerve"
+            }
+        ]
+    }
+}

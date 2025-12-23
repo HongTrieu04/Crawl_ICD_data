@@ -1,0 +1,50 @@
+{
+    "name": "variegate porphyria",
+    "qid": "Q275385",
+    "icd_10": "E80.2",
+    "description": "Human disease",
+    "aliases": [
+        "VP",
+        "PORPHYRIA VARIEGATA",
+        "Porphyria variegate",
+        "Porphyria, South African Type",
+        "Ppox Deficiency",
+        "Protocoproporphyria",
+        "Protoporphyrinogen oxidase deficiency",
+        "Variegate porphyria",
+        "Variegate porphyria (disorder)",
+        "Variegate Porphyria, Homozygous Variant"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Variegate_porphyria",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "porphyria",
+                "qid": "Q271759",
+                "url": "https://en.wikipedia.org/wiki/Porphyria"
+            },
+            {
+                "name": "porphyria due to ALAD deficiency",
+                "qid": "Q419897",
+                "url": "https://en.wikipedia.org/wiki/Aminolevulinic_acid_dehydratase_deficiency_porphyria"
+            },
+            {
+                "name": "acute hepatic porphyria",
+                "qid": "Q55788880"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "name": "vesicointestinal fistula",
+    "qid": "Q17141312",
+    "icd_10": "N32.1",
+    "description": "between the bladder and the bowel",
+    "aliases": [
+        "enterovesical fistula"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Vesicointestinal_fistula",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "digestive system fistula",
+                "qid": "Q34397578"
+            }
+        ]
+    }
+}

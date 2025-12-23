@@ -1,0 +1,44 @@
+{
+    "name": "nodding disease",
+    "qid": "Q895930",
+    "icd_10": "R25.0",
+    "description": "medical condition",
+    "aliases": [
+        "Nodding syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Nodding_disease",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            },
+            {
+                "name": "infectious disease",
+                "qid": "Q18123741",
+                "url": "https://en.wikipedia.org/wiki/Infectious_disease"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "parasitic infectious diseases",
+                "qid": "Q1601794",
+                "url": "https://en.wikipedia.org/wiki/Parasitic_disease"
+            },
+            {
+                "name": "autoimmune disease",
+                "qid": "Q8084905",
+                "url": "https://en.wikipedia.org/wiki/Autoimmune_disease"
+            }
+        ]
+    }
+}

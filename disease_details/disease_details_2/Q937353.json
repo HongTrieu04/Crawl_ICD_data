@@ -1,0 +1,46 @@
+{
+    "name": "echolalia",
+    "qid": "Q937353",
+    "icd_10": "R48.8",
+    "description": "speech disorder that involves the automatic repetition of vocalizations made by another person",
+    "aliases": [
+        "echophrasia"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Autism%20Aspect%20Echolalia%201.png",
+    "url": "https://en.wikipedia.org/wiki/Echolalia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "speech disorder",
+                "qid": "Q1282114",
+                "url": "https://en.wikipedia.org/wiki/Speech_disorder"
+            },
+            {
+                "name": "echophenomenon",
+                "qid": "Q16966700",
+                "url": "https://en.wikipedia.org/wiki/Echophenomenon"
+            },
+            {
+                "name": "involuntary speech",
+                "qid": "Q12391880"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Post-SSRI sexual dysfunction",
+    "qid": "Q778642",
+    "icd_10": "F19.9",
+    "description": "iatrogenic pathology caused by serotonin reuptake inhibitors (SSRIs) and serotonin-noradrenaline reuptake inhibitors (SNRIs)",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Post-SSRI_sexual_dysfunction",
+    "details": {
+        "Cause": [
+            {
+                "name": "selective serotonin reuptake inhibitor",
+                "qid": "Q334477",
+                "url": "https://en.wikipedia.org/wiki/Selective_serotonin_reuptake_inhibitor"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "sexual dysfunction",
+                "qid": "Q1137463",
+                "url": "https://en.wikipedia.org/wiki/Sexual_dysfunction"
+            },
+            {
+                "name": "advers effect of psychopharmacological medication",
+                "qid": "Q62665995"
+            }
+        ]
+    }
+}

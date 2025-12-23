@@ -1,0 +1,23 @@
+{
+    "name": "organic anxiety disorder",
+    "qid": "Q2870714",
+    "icd_10": "F06.4",
+    "description": "human disease",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "organic brain syndrome",
+                "qid": "Q360341",
+                "url": "https://en.wikipedia.org/wiki/Organic_brain_syndrome"
+            },
+            {
+                "name": "anxiety disorder",
+                "qid": "Q544006",
+                "url": "https://en.wikipedia.org/wiki/Anxiety_disorder"
+            }
+        ]
+    }
+}

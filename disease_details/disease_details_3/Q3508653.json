@@ -1,0 +1,51 @@
+{
+    "name": "Lytico-bodig disease",
+    "qid": "Q3508653",
+    "icd_10": "F02.3",
+    "description": "human disease",
+    "aliases": [
+        "ALS-PDC",
+        "amyotrophic lateral sclerosis-parkinsonism-dementia complex",
+        "Amyotrophic lateral sclerosis-parkinsonism-dementia of Guam syndrome",
+        "AMYOTROPHIC LATERAL SCLEROSIS-PARKINSONISM/DEMENTIA COMPLEX 1",
+        "Amyotrophic Lateral Sclerosis-Parkinsonism/Dementia Complex of Guam",
+        "Amyotrophic Lateral Sclerosis-Parkinsonism/Dementia Complex type 1",
+        "Guam Disease",
+        "Lytico-Bodig disease",
+        "Lytigo-Bodig disease",
+        "Parkinsonism-dementia-ALS complex",
+        "PDALS"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Lytico-bodig_disease",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "neurodegeneration",
+                "qid": "Q1755122",
+                "url": "https://en.wikipedia.org/wiki/Neurodegenerative_disease"
+            },
+            {
+                "name": "amyotrophic lateral sclerosis",
+                "qid": "Q206901",
+                "url": "https://en.wikipedia.org/wiki/ALS"
+            },
+            {
+                "name": "progressive supranuclear palsy",
+                "qid": "Q945930",
+                "url": "https://en.wikipedia.org/wiki/Progressive_supranuclear_palsy"
+            },
+            {
+                "name": "neurodegenerative disease with dementia",
+                "qid": "Q55346096"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ]
+    }
+}

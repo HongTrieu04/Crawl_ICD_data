@@ -1,0 +1,32 @@
+{
+    "name": "rare head and neck malformation",
+    "qid": "Q55785495",
+    "icd_10": "Q18",
+    "description": "human disease",
+    "aliases": [
+        "genetic head and neck malformation"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "craniofacial abnormality",
+                "qid": "Q5182137",
+                "url": "https://en.wikipedia.org/wiki/Craniofacial_abnormality"
+            },
+            {
+                "name": "rare genetic developmental defect during embryogenesis",
+                "qid": "Q55785846"
+            },
+            {
+                "name": "developmental defect during embryogenesis",
+                "qid": "Q55788864"
+            },
+            {
+                "name": "head and neck disease",
+                "qid": "Q55789477"
+            }
+        ]
+    }
+}

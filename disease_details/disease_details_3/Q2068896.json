@@ -1,0 +1,40 @@
+{
+    "name": "drug allergy",
+    "qid": "Q2068896",
+    "icd_10": "T88.7",
+    "description": "human disease",
+    "aliases": [
+        "allergy of ECTO:0000509",
+        "drug hypersensitivity"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Drug_allergy",
+    "details": {
+        "Cause": [
+            {
+                "name": "drug",
+                "qid": "Q8386",
+                "url": "https://en.wikipedia.org/wiki/Drug"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "allergy",
+                "qid": "Q42982",
+                "url": "https://en.wikipedia.org/wiki/Allergy"
+            },
+            {
+                "name": "drug intolerance",
+                "qid": "Q1671531",
+                "url": "https://en.wikipedia.org/wiki/Drug_intolerance"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ]
+    }
+}

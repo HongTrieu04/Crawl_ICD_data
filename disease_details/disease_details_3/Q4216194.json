@@ -1,0 +1,42 @@
+{
+    "name": "arterial tortuosity syndrome",
+    "qid": "Q4216194",
+    "icd_10": "Q87.82",
+    "description": "connective tissue disease that is characterized by elongation and generalized tortuosity of the major arteries including the aorta",
+    "aliases": [
+        "ATS",
+        "Arterial Tortuosity",
+        "ARTERIAL TORTUOSITY SYNDROME",
+        "ARTERIAL TORTUOSITY SYNDROME; ATS"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Arterial_tortuosity_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "connective tissue disease",
+                "qid": "Q1779300",
+                "url": "https://en.wikipedia.org/wiki/Connective_tissue_disease"
+            },
+            {
+                "name": "vascular skin disease",
+                "qid": "Q18558156"
+            },
+            {
+                "name": "genetic skin vascular disorder",
+                "qid": "Q55785835"
+            },
+            {
+                "name": "rare disease with thoracic aortic aneurysm and aortic dissection",
+                "qid": "Q55786976"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ]
+    }
+}

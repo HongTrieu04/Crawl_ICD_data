@@ -1,0 +1,21 @@
+{
+    "name": "internal derangement",
+    "qid": "Q18648707",
+    "icd_10": "M24.9",
+    "description": "Disruption of the normal architecture of the joint",
+    "aliases": [
+        "joint derangement",
+        "obsolete joint derangement"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "arthropathy",
+                "qid": "Q708176",
+                "url": "https://en.wikipedia.org/wiki/Arthropathy"
+            }
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "name": "congenital rubella syndrome",
+    "qid": "Q1724539",
+    "icd_10": "P35.0",
+    "description": "human disease",
+    "aliases": [
+        "CRS",
+        "congenital rubella",
+        "Congenital Rubella",
+        "Congenital Rubella syndrome",
+        "Fetal rubella syndrome",
+        "Gestational rubella syndrome (disorder)",
+        "Rubella Syndrome, Congenital"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cataracts%20due%20to%20Congenital%20Rubella%20Syndrome%20%28CRS%29%20PHIL%204284%20lores.jpg",
+    "url": "https://en.wikipedia.org/wiki/Congenital_rubella_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "pediatrics",
+                "qid": "Q123028",
+                "url": "https://en.wikipedia.org/wiki/Pediatrics"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "rubella",
+                "qid": "Q155857",
+                "url": "https://en.wikipedia.org/wiki/Rubella"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "congenital transmission",
+                "qid": "Q15304507"
+            },
+            {
+                "name": "rubella virus infectious disease",
+                "qid": "Q19000421"
+            },
+            {
+                "name": "infectious disease with epilepsy",
+                "qid": "Q55785635"
+            },
+            {
+                "name": "infectious embryofetopathy",
+                "qid": "Q55786275"
+            }
+        ]
+    }
+}

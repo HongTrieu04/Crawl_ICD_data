@@ -1,0 +1,24 @@
+{
+    "name": "Microcheilia",
+    "qid": "Q6839343",
+    "icd_10": "Q18.7",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Microcheilia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "lip disease",
+                "qid": "Q18558095"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "name": "ototoxicity",
+    "qid": "Q1351381",
+    "icd_10": "H91.0",
+    "description": "property of being toxic to the ear",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Ototoxicity",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "audiologist",
+                "qid": "Q1644347",
+                "url": "https://en.wikipedia.org/wiki/Audiologist"
+            },
+            {
+                "name": "otolaryngology",
+                "qid": "Q189553",
+                "url": "https://en.wikipedia.org/wiki/Otorhinolaryngology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "toxicity",
+                "qid": "Q274160",
+                "url": "https://en.wikipedia.org/wiki/Toxicity"
+            }
+        ]
+    }
+}

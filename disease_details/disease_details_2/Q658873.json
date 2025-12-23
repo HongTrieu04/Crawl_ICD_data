@@ -1,0 +1,44 @@
+{
+    "name": "radiation burn",
+    "qid": "Q658873",
+    "icd_10": "L58",
+    "description": "damage to the skin or other biological tissue caused by exposure to radiation",
+    "aliases": [
+        "radiation-nduced dermatitis",
+        "radiodermatitis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Radiation_burn",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "dermatitis",
+                "qid": "Q229256",
+                "url": "https://en.wikipedia.org/wiki/Dermatitis"
+            },
+            {
+                "name": "burn",
+                "qid": "Q170518",
+                "url": "https://en.wikipedia.org/wiki/Burn"
+            },
+            {
+                "name": "radiation sickness",
+                "qid": "Q21652028"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "irradiation",
+                "qid": "Q2737837",
+                "url": "https://en.wikipedia.org/wiki/Irradiation"
+            }
+        ]
+    }
+}

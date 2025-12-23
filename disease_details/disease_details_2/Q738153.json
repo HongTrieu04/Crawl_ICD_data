@@ -1,0 +1,32 @@
+{
+    "name": "ileus",
+    "qid": "Q738153",
+    "icd_10": "P76.1",
+    "description": "human disease characterized by impairment of intestinal peristalsis; in modern language usually excludes mechanical bowel obstruction",
+    "aliases": [
+        "ileus of intestine"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Ileus",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "bowel obstruction",
+                "qid": "Q16244733",
+                "url": "https://en.wikipedia.org/wiki/Bowel_obstruction"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "general surgery",
+                "qid": "Q932510",
+                "url": "https://en.wikipedia.org/wiki/General_surgery"
+            }
+        ]
+    }
+}

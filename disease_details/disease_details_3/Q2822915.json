@@ -1,0 +1,36 @@
+{
+    "name": "cerebral malaria",
+    "qid": "Q2822915",
+    "icd_10": "B50.0",
+    "description": "malaria that involves neurologic damage resulting from blockage of the blood vessels, caused due to the infection of the red blood cells by Plasmodium species",
+    "aliases": [
+        "Cerebral malaria",
+        "Cerebral malaria (disorder)",
+        "Malarial encephalitis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "malaria",
+                "qid": "Q12156",
+                "url": "https://en.wikipedia.org/wiki/Malaria"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "pentoxifylline",
+                "qid": "Q416331",
+                "url": "https://en.wikipedia.org/wiki/Pentoxifylline"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

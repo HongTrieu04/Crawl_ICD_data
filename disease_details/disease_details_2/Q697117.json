@@ -1,0 +1,35 @@
+{
+    "name": "spinal disc herniation",
+    "qid": "Q697117",
+    "icd_10": "M51.2",
+    "description": "injury to the intervertebral disc between two vertebrae, usually caused by excessive strain or trauma to the spine",
+    "aliases": [
+        "disc herniation",
+        "intervertebral disc displacement",
+        "intervertebral disk herniation",
+        "slipped disc",
+        "bulging disc",
+        "herniated disc",
+        "herniated nucleus pulposus",
+        "prolapsed disc",
+        "ruptured disc"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Disc%20herniation%20--%20Smart-Servier.png",
+    "url": "https://en.wikipedia.org/wiki/Disc_herniation",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurosurgery",
+                "qid": "Q188449",
+                "url": "https://en.wikipedia.org/wiki/Neurosurgery"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "Intervertebral disc disorder",
+                "qid": "Q6057394",
+                "url": "https://en.wikipedia.org/wiki/Intervertebral_disc_disorder"
+            }
+        ]
+    }
+}

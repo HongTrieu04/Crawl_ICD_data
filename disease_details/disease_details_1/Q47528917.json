@@ -1,0 +1,23 @@
+{
+    "name": "ejaculatory dysfunction",
+    "qid": "Q47528917",
+    "icd_10": "N53.1",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "Dysfunction",
+                "qid": "Q947048",
+                "url": "https://en.wikipedia.org/wiki/Dysfunction"
+            },
+            {
+                "name": "male reproductive system disease",
+                "qid": "Q6742925",
+                "url": "https://en.wikipedia.org/wiki/Male_genital_disease"
+            }
+        ]
+    }
+}

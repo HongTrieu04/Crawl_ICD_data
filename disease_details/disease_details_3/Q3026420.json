@@ -1,0 +1,33 @@
+{
+    "name": "diastematomyelia",
+    "qid": "Q3026420",
+    "icd_10": "Q06.2",
+    "description": "rare congenital abnormality in which the spinal cord is split in half by fibrous or bony tissue. It may present as an isolated phenomenon or in association with spina bifida",
+    "aliases": [
+        "DIASTEMATOMYELIA",
+        "SCM type 1",
+        "Split cord malformation type 1"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Diastematomyelia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "congenital vertebral anomaly",
+                "qid": "Q332343",
+                "url": "https://en.wikipedia.org/wiki/Congenital_vertebral_anomaly"
+            },
+            {
+                "name": "malformation of the neurenteric canal, spinal cord and column",
+                "qid": "Q55786799"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "childhood arthritis",
+    "qid": "Q1029413",
+    "icd_10": "M08",
+    "description": "arthritis in children, with onset before 16 years of age",
+    "aliases": [
+        "Arthritis, Juvenile",
+        "juvenile arthritis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Childhood_arthritis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "arthritis",
+                "qid": "Q170990",
+                "url": "https://en.wikipedia.org/wiki/Arthritis"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            },
+            {
+                "name": "pediatric rheumatology",
+                "qid": "Q1029420"
+            }
+        ]
+    }
+}

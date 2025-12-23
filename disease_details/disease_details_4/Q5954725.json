@@ -1,0 +1,32 @@
+{
+    "name": "hydrocolpos",
+    "qid": "Q5954725",
+    "icd_10": "N89.8",
+    "description": "distension of the vagina caused by accumulation of fluid due to congenital vaginal obstruction",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hydrocolpos",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "obstetrics and gynaecology",
+                "qid": "Q80015",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics_and_gynaecology"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "imperforate hymen",
+                "qid": "Q2065620",
+                "url": "https://en.wikipedia.org/wiki/Imperforate_hymen"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "vaginal disease",
+                "qid": "Q18211693",
+                "url": "https://en.wikipedia.org/wiki/Vaginal_disease"
+            }
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "name": "adrenal crisis",
+    "qid": "Q4057453",
+    "icd_10": "E27.2",
+    "description": "medical emergency",
+    "aliases": [
+        "Addisonian crisis",
+        "acute adrenal failure",
+        "acute adrenal insufficiency",
+        "acute adrenocortical insufficiency",
+        "adrenocortical crisis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Adrenal_crisis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            },
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "adrenal insufficiency",
+                "qid": "Q2507454",
+                "url": "https://en.wikipedia.org/wiki/Adrenal_insufficiency"
+            },
+            {
+                "name": "primary adrenal insufficiency",
+                "qid": "Q55785269"
+            }
+        ]
+    }
+}

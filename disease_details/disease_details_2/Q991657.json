@@ -1,0 +1,46 @@
+{
+    "name": "meralgia paraesthetica",
+    "qid": "Q991657",
+    "icd_10": "G57.1",
+    "description": "human disease",
+    "aliases": [
+        "bernhardt-rot syndrome",
+        "Bernhardt-Roth syndrome",
+        "bernhardt's paresthesia",
+        "compression of lateral cutaneous femoral nerve of thigh",
+        "entrapment of lateral cutaneous nerve of thigh",
+        "Lateral cutaneous femoral nerve of thigh compression or syndrome",
+        "lateral cutaneous femoral nerve of thigh syndrome",
+        "Lateral femoral cutaneous nerve entrapment",
+        "Meralgia paraesthetica",
+        "Meralgia paraesthetica familial (type)",
+        "meralgia paresthetica",
+        "Meralgia paresthetica",
+        "meralgia paresthetica (disorder)",
+        "obsolete Lateral cutaneous femoral nerve of thigh compression or syndrome"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gray826-LFC.png",
+    "url": "https://en.wikipedia.org/wiki/Meralgia_paraesthetica",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "lateral cutaneous nerve of thigh",
+                "qid": "Q510755",
+                "url": "https://en.wikipedia.org/wiki/Lateral_cutaneous_nerve_of_thigh"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "mononeuritis of lower limb",
+                "qid": "Q18558137"
+            }
+        ]
+    }
+}

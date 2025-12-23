@@ -1,0 +1,65 @@
+{
+    "name": "paraphilia",
+    "qid": "Q178059",
+    "icd_10": "F65",
+    "description": "experience of intense sexual arousal to atypical objects, situations, or individuals",
+    "aliases": [
+        "Deviation, Sex",
+        "Deviations, Sex",
+        "disorder of sexual preference",
+        "Disorder, Paraphilic",
+        "Disorders, Paraphilic",
+        "Paraphilia",
+        "paraphilia disorder",
+        "Paraphilias",
+        "Paraphilic Disorder",
+        "Sex Deviation",
+        "Sex Deviations",
+        "sexual deviation",
+        "sexual perversion"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Martin%20van%20Maele%20-%20La%20Comtesse%20au%20fouet%2001.jpg",
+    "url": "https://en.wikipedia.org/wiki/Paraphilia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "psychology",
+                "qid": "Q9418",
+                "url": "https://en.wikipedia.org/wiki/Psychology"
+            },
+            {
+                "name": "sexology",
+                "qid": "Q170912",
+                "url": "https://en.wikipedia.org/wiki/Sexology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "psychosexual disorder",
+                "qid": "Q7256482",
+                "url": "https://en.wikipedia.org/wiki/Psychosexual_disorder"
+            },
+            {
+                "name": "sexual and gender disorder",
+                "qid": "Q18553616"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "psychotherapy",
+                "qid": "Q183257",
+                "url": "https://en.wikipedia.org/wiki/Psychotherapy"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Jefferson fracture",
+    "qid": "Q204995",
+    "icd_10": "S12.0",
+    "description": "fracture of the anterior and posterior arches of the C1 vertebra",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeffersonfraktur%20-%2084jm-%20CT%20axial%20-%20001.jpg",
+    "url": "https://en.wikipedia.org/wiki/Jefferson_fracture",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "cervical fracture",
+                "qid": "Q3538106",
+                "url": "https://en.wikipedia.org/wiki/Cervical_fracture"
+            }
+        ]
+    }
+}

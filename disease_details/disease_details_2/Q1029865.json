@@ -1,0 +1,32 @@
+{
+    "name": "Loose body in joint",
+    "qid": "Q1029865",
+    "icd_10": "M24.0",
+    "description": "Fibrous, bony, cartilaginous and osteocartilaginous fragments in a synovial joint. Major causes are osteochondritis dissecans, synovial chondromatosis, osteophytes, fractured articular surfaces and damaged menisci.",
+    "aliases": [
+        "Joint Loose Bodies",
+        "joint mouse"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "osteochondropathy",
+                "qid": "Q4338646",
+                "url": "https://en.wikipedia.org/wiki/Osteochondropathy"
+            },
+            {
+                "name": "joint disorder",
+                "qid": "Q18967642"
+            }
+        ]
+    }
+}

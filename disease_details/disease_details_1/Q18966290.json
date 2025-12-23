@@ -1,0 +1,20 @@
+{
+    "name": "delayed separation of umbilical cord",
+    "qid": "Q18966290",
+    "icd_10": "P96.82",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete delayed separation of umbilical cord"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Anatomical location": [
+            {
+                "name": "umbilical cord",
+                "qid": "Q172563",
+                "url": "https://en.wikipedia.org/wiki/Umbilical_cord"
+            }
+        ]
+    }
+}

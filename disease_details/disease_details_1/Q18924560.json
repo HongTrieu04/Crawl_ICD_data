@@ -1,0 +1,24 @@
+{
+    "name": "cutaneous listeriosis",
+    "qid": "Q18924560",
+    "icd_10": "A32.0",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete cutaneous listeriosis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "listeriosis",
+                "qid": "Q160653",
+                "url": "https://en.wikipedia.org/wiki/Listeriosis"
+            },
+            {
+                "name": "bacterial skin disease",
+                "qid": "Q11864371"
+            }
+        ]
+    }
+}

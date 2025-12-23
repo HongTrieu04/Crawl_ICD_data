@@ -1,0 +1,51 @@
+{
+    "name": "dystonia",
+    "qid": "Q906492",
+    "icd_10": "G24.92",
+    "description": "human disease",
+    "aliases": [
+        "dystonic disease",
+        "nonsyndromic dystonia (disease)",
+        "Pure dystonia",
+        "rare dystonia",
+        "rare dystonia (disease)",
+        "Rare dystonic disorder"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dystonia2010.JPG",
+    "url": "https://en.wikipedia.org/wiki/Dystonia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "movement disorders",
+                "qid": "Q2608695",
+                "url": "https://en.wikipedia.org/wiki/Movement_disorder"
+            },
+            {
+                "name": "rare genetic dystonia",
+                "qid": "Q55787960"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "botulinum toxin type A",
+                "qid": "Q4095199"
+            },
+            {
+                "name": "botulinum toxin Type B",
+                "qid": "Q15709005"
+            }
+        ]
+    }
+}

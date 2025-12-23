@@ -1,0 +1,23 @@
+{
+    "name": "senility",
+    "qid": "Q438971",
+    "icd_10": "R54",
+    "description": "weakness or disability due to old age",
+    "aliases": [
+        "old age",
+        "senescence",
+        "senile asthenia",
+        "senile debility"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disability",
+                "qid": "Q12131",
+                "url": "https://en.wikipedia.org/wiki/Disability"
+            }
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Monckeberg arteriosclerosis",
+    "qid": "Q938991",
+    "icd_10": "I70.2",
+    "description": "Human's arterial pathology",
+    "aliases": [
+        "Mönckeberg Arteriosclerosis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Monckeberg%27s_arteriosclerosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "arteriosclerosis",
+                "qid": "Q184559",
+                "url": "https://en.wikipedia.org/wiki/Arteriosclerosis"
+            },
+            {
+                "name": "vascular calcification",
+                "qid": "Q54911504"
+            }
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "name": "ectoparasitism",
+    "qid": "Q5334259",
+    "icd_10": "B85",
+    "description": "parasitic disease caused by organisms that live primarily on the surface of the host",
+    "aliases": [
+        "ectoparasitic disease",
+        "Ectoparasitic Infestation",
+        "Ectoparasitic Infestations",
+        "external infestation",
+        "Infestation, Ectoparasitic",
+        "Infestations, Ectoparasitic",
+        "parasitic ectoparasitic infectious disease"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Piscicola%20geometra%20Salmo%20trutta%20fario.jpg",
+    "url": "https://en.wikipedia.org/wiki/Ectoparasitic_infestation",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "parasitic infectious diseases",
+                "qid": "Q1601794",
+                "url": "https://en.wikipedia.org/wiki/Parasitic_disease"
+            },
+            {
+                "name": "parasitism",
+                "qid": "Q186517",
+                "url": "https://en.wikipedia.org/wiki/Parasitism"
+            },
+            {
+                "name": "parasitic skin disease",
+                "qid": "Q54911414"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "ectoparasite",
+                "qid": "Q7880449"
+            }
+        ]
+    }
+}

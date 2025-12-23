@@ -1,0 +1,28 @@
+{
+    "name": "chemotherapy-induced acral erythema",
+    "qid": "Q593277",
+    "icd_10": "Y43.3",
+    "description": "chemotherapy-induced dermal side effects associated with the use of cytostatic agents",
+    "aliases": [
+        "hand-foot syndrome",
+        "Hand-foot syndrome",
+        "Palmar-plantar erythrodysesthesia syndrome"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hand-foot%20Syndrome.jpg",
+    "url": "https://en.wikipedia.org/wiki/Chemotherapy-induced_acral_erythema",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "adverse effects of chemotherapy",
+                "qid": "Q20921177"
+            }
+        ]
+    }
+}

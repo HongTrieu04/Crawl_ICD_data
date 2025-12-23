@@ -1,0 +1,64 @@
+{
+    "name": "carcinoid tumor",
+    "qid": "Q1734755",
+    "icd_10": "C75",
+    "description": "type of neuroendocrine tumor originating in the cells of the neuroendocrine system",
+    "aliases": [
+        "carcinoid",
+        "carcinoid tumors",
+        "carcinoid tumour",
+        "NET G1",
+        "neuroendocrine neoplasm G1",
+        "neuroendocrine tumor G1"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Atypical%20carcinoid%20tumor%20of%20lung%20metastatic%20to%20the%20adrenal%20gland%20Case%20255%20%288268009504%29.jpg",
+    "url": "https://en.wikipedia.org/wiki/Carcinoid",
+    "details": {
+        "Drug used for treatment": [
+            {
+                "name": "everolimus",
+                "qid": "Q421052",
+                "url": "https://en.wikipedia.org/wiki/Everolimus"
+            },
+            {
+                "name": "telotristat ethyl",
+                "qid": "Q27270371",
+                "url": "https://en.wikipedia.org/wiki/Telotristat_ethyl"
+            },
+            {
+                "name": "bevacizumab",
+                "qid": "Q413299",
+                "url": "https://en.wikipedia.org/wiki/Bevacizumab"
+            },
+            {
+                "name": "sunitinib",
+                "qid": "Q417542",
+                "url": "https://en.wikipedia.org/wiki/Sunitinib"
+            },
+            {
+                "name": "octreotide",
+                "qid": "Q419935",
+                "url": "https://en.wikipedia.org/wiki/Octreotide"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "neuroendocrine tumor",
+                "qid": "Q1981276",
+                "url": "https://en.wikipedia.org/wiki/Neuroendocrine_tumor"
+            },
+            {
+                "name": "adenocarcinoma",
+                "qid": "Q356033",
+                "url": "https://en.wikipedia.org/wiki/Adenocarcinoma"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ]
+    }
+}

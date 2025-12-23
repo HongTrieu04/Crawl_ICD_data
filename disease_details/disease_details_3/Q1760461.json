@@ -1,0 +1,65 @@
+{
+    "name": "ovarian hyperstimulation syndrome",
+    "qid": "Q1760461",
+    "icd_10": "N98.1",
+    "description": "human disease",
+    "aliases": [
+        "OHSS",
+        "Ovarian Hyperstimulation Syndrome, Familial Gestational Spontaneous",
+        "secondary Meig's syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Ovarian_hyperstimulation_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "ovarian disease",
+                "qid": "Q7113244",
+                "url": "https://en.wikipedia.org/wiki/Ovarian_disease"
+            },
+            {
+                "name": "rare genetic endocrine disease",
+                "qid": "Q55785525"
+            },
+            {
+                "name": "rare non-malformative uterine adnexal disease",
+                "qid": "Q55785787"
+            },
+            {
+                "name": "rare genetic gynecological and obstetrical diseases",
+                "qid": "Q55785863"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "vomiting",
+                "qid": "Q127076",
+                "url": "https://en.wikipedia.org/wiki/Vomiting"
+            },
+            {
+                "name": "nausea",
+                "qid": "Q186889",
+                "url": "https://en.wikipedia.org/wiki/Nausea"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gynaecology",
+                "qid": "Q1221899",
+                "url": "https://en.wikipedia.org/wiki/Gynaecology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "Ganirelix",
+                "qid": "Q5521314",
+                "url": "https://en.wikipedia.org/wiki/Ganirelix"
+            }
+        ]
+    }
+}

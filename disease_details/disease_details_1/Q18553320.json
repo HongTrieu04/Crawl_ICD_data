@@ -1,0 +1,28 @@
+{
+    "name": "occult macular dystrophy",
+    "qid": "Q18553320",
+    "icd_10": "H35.5",
+    "description": "macular degeneration that is characterized by a central cone dysfunction leading to a loss of vision with a normal fundus and normal fluorescein angiography findings",
+    "aliases": [
+        "OMD",
+        "OCMD",
+        "Occult macular dystrophy",
+        "OCCULT MACULAR DYSTROPHY",
+        "OCCULT MACULAR DYSTROPHY; OCMD"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Occult_macular_dystrophy",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "macular degeneration",
+                "qid": "Q27429789",
+                "url": "https://en.wikipedia.org/wiki/Macular_degeneration"
+            },
+            {
+                "name": "genetic macular dystrophy",
+                "qid": "Q55789238"
+            }
+        ]
+    }
+}

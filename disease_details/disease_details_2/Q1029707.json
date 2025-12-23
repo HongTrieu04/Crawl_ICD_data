@@ -1,0 +1,18 @@
+{
+    "name": "hottentotism",
+    "qid": "Q1029707",
+    "icd_10": "F80.0",
+    "description": "obsolescent language disorder",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "dyslalia",
+                "qid": "Q1087232",
+                "url": "https://en.wikipedia.org/wiki/Dyslalia"
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Aspirin poisoning",
+    "qid": "Q4808101",
+    "icd_10": "T39.0",
+    "description": "medical condition",
+    "aliases": [
+        "Salicylism"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Salicylate_poisoning",
+    "details": {
+        "Possible treatment": [
+            {
+                "name": "activated carbon",
+                "qid": "Q190878",
+                "url": "https://en.wikipedia.org/wiki/Activated_carbon"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "poisoning by drugs",
+                "qid": "Q387175"
+            }
+        ]
+    }
+}

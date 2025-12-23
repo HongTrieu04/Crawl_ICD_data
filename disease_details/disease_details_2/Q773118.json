@@ -1,0 +1,69 @@
+{
+    "name": "Andersen-Tawil syndrome",
+    "qid": "Q773118",
+    "icd_10": "I45.8",
+    "description": "Human disease",
+    "aliases": [
+        "ATS",
+        "LQT7",
+        "ANDERSEN CARDIODYSRHYTHMIC PERIODIC PARALYSIS",
+        "Andersen syndrome",
+        "Andersen-Tawil Syndrome",
+        "Cardiodysrhythmic potassium-sensitive periodic paralysis",
+        "Long QT syndrome 7",
+        "Long QT syndrome type 7",
+        "Periodic Paralysis, Potassium-Sensitive Cardiodysrhythmic Type",
+        "Potassium-Sensitive Cardiodysrhythmic Type"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Andersen%E2%80%93Tawil_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            },
+            {
+                "name": "neuromuscular medicine",
+                "qid": "Q7002432",
+                "url": "https://en.wikipedia.org/wiki/Neuromuscular_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "periodic paralysis",
+                "qid": "Q1788314",
+                "url": "https://en.wikipedia.org/wiki/Periodic_paralysis"
+            },
+            {
+                "name": "long QT syndrome",
+                "qid": "Q653924",
+                "url": "https://en.wikipedia.org/wiki/Long_QT_syndrome"
+            },
+            {
+                "name": "autosomal dominant disease",
+                "qid": "Q18553439"
+            },
+            {
+                "name": "genetic cardiac rhythm disease",
+                "qid": "Q55785258"
+            },
+            {
+                "name": "muscular channelopathy",
+                "qid": "Q55788493"
+            },
+            {
+                "name": "genetic peripheral neuropathy",
+                "qid": "Q55789138"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "heart arrhythmia",
+                "qid": "Q189331",
+                "url": "https://en.wikipedia.org/wiki/Arrhythmia"
+            }
+        ]
+    }
+}

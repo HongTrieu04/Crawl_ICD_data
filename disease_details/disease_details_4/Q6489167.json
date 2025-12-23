@@ -1,0 +1,25 @@
+{
+    "name": "Large plaque parapsoriasis",
+    "qid": "Q6489167",
+    "icd_10": "L41.4",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Large_plaque_parapsoriasis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "parapsoriasis",
+                "qid": "Q2051832",
+                "url": "https://en.wikipedia.org/wiki/Parapsoriasis"
+            }
+        ]
+    }
+}

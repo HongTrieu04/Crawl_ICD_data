@@ -1,0 +1,27 @@
+{
+    "name": "lymphomatoid papulosis",
+    "qid": "Q1878745",
+    "icd_10": "C86.6",
+    "description": "medical condition",
+    "aliases": [
+        "LyP"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Lymphomatoid_papulosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "CD30+ cutaneous T-cell lymphoma",
+                "qid": "Q5009807",
+                "url": "https://en.wikipedia.org/wiki/Primary_cutaneous_CD-30_positive_T-cell_lymphoproliferative_disorders"
+            }
+        ]
+    }
+}

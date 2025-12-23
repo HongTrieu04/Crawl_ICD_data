@@ -1,0 +1,54 @@
+{
+    "name": "ventricular tachycardia",
+    "qid": "Q56002",
+    "icd_10": "I47.2",
+    "description": "fast heart rhythm that originates in one of the ventricles of the heart",
+    "aliases": [
+        "VT",
+        "Tachycardia, Ventricular",
+        "V-tach"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Ventricular_tachycardia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "tachycardia",
+                "qid": "Q209583",
+                "url": "https://en.wikipedia.org/wiki/Tachycardia"
+            },
+            {
+                "name": "paroxysmal tachycardia",
+                "qid": "Q3980025",
+                "url": "https://en.wikipedia.org/wiki/Paroxysmal_tachycardia"
+            },
+            {
+                "name": "ventricular dysrhythmia",
+                "qid": "Q21402560"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "(RS)-metoprolol",
+                "qid": "Q409468",
+                "url": "https://en.wikipedia.org/wiki/Metoprolol"
+            },
+            {
+                "name": "amiodarone",
+                "qid": "Q410061",
+                "url": "https://en.wikipedia.org/wiki/Amiodarone"
+            },
+            {
+                "name": "epinephrine / lidocaine",
+                "qid": "Q48566660"
+            }
+        ]
+    }
+}

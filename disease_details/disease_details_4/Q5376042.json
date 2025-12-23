@@ -1,0 +1,18 @@
+{
+    "name": "Endemic pemphigus",
+    "qid": "Q5376042",
+    "icd_10": "L10.3",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Endemic_pemphigus",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "pemphigus foliaceus",
+                "qid": "Q263609",
+                "url": "https://en.wikipedia.org/wiki/Pemphigus_foliaceus"
+            }
+        ]
+    }
+}

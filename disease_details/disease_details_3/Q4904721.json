@@ -1,0 +1,25 @@
+{
+    "name": "Bifascicular block",
+    "qid": "Q4904721",
+    "icd_10": "I45.2",
+    "description": "conduction abnormality in the heart",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Bifascicular_block",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "heart conduction disease",
+                "qid": "Q1361515",
+                "url": "https://en.wikipedia.org/wiki/Heart_block"
+            }
+        ]
+    }
+}

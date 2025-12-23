@@ -1,0 +1,49 @@
+{
+    "name": "salivary gland disease",
+    "qid": "Q17152566",
+    "icd_10": "K11",
+    "description": "Human disease",
+    "aliases": [
+        "disease of saliva-secreting gland",
+        "disorder of saliva-secreting gland",
+        "Non-neoplastic Salivary gland disease",
+        "saliva-secreting gland disease",
+        "Salivary gland disease",
+        "Salivary Gland Disorder"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Salivary_gland_disease",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            },
+            {
+                "name": "oral and maxillofacial surgery",
+                "qid": "Q504033",
+                "url": "https://en.wikipedia.org/wiki/Oral_and_maxillofacial_surgery"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "salivary gland",
+                "qid": "Q134938",
+                "url": "https://en.wikipedia.org/wiki/Salivary_gland"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "mouth disease",
+                "qid": "Q2508462",
+                "url": "https://en.wikipedia.org/wiki/Oral_and_maxillofacial_pathology"
+            },
+            {
+                "name": "gastrointestinal system disease",
+                "qid": "Q2300099",
+                "url": "https://en.wikipedia.org/wiki/Gastrointestinal_disease"
+            }
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "migralepsy",
+    "qid": "Q928489",
+    "icd_10": "G43.1",
+    "description": "migraine-triggered epileptic seizures",
+    "aliases": [
+        "migraine triggered seizures"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Migralepsy",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "epilepsy",
+                "qid": "Q41571",
+                "url": "https://en.wikipedia.org/wiki/Epilepsy"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "name": "trigger finger disorder",
+    "qid": "Q2093127",
+    "icd_10": "M65.3",
+    "description": "disorder of the finger",
+    "aliases": [
+        "trigger finger",
+        "Bilateral trigger thumb (type)",
+        "Congenital trigger thumb (type)",
+        "Recurrent trigger thumb (type)",
+        "TRIGGER THUMB"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tenontothikitis%20deiktou.jpg",
+    "url": "https://en.wikipedia.org/wiki/Trigger_finger",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "stenosing tenosynovitis",
+                "qid": "Q7607891",
+                "url": "https://en.wikipedia.org/wiki/Stenosing_tenosynovitis"
+            },
+            {
+                "name": "genetic disease",
+                "qid": "Q200779",
+                "url": "https://en.wikipedia.org/wiki/Genetic_disorder"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "name": "barotrauma",
+    "qid": "Q808760",
+    "icd_10": "T70.1",
+    "description": "physical damage to body tissues caused by a difference in pressure",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Barotrauma",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "dysbarism",
+                "qid": "Q3709266",
+                "url": "https://en.wikipedia.org/wiki/Dysbarism"
+            },
+            {
+                "name": "tissue damage",
+                "qid": "Q21119857"
+            }
+        ]
+    }
+}

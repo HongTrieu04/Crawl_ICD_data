@@ -1,0 +1,26 @@
+{
+    "name": "mononeuritis of lower limb",
+    "qid": "Q18558137",
+    "icd_10": "G57",
+    "description": "Human disease",
+    "aliases": [
+        "hindlimb mononeuritis simplex"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "mononeuritis",
+                "qid": "Q18554914"
+            }
+        ]
+    }
+}

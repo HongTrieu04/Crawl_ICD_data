@@ -1,0 +1,40 @@
+{
+    "name": "disseminated intravascular coagulation",
+    "qid": "Q823027",
+    "icd_10": "D65",
+    "description": "pathological process characterized by the widespread activation of the clotting cascade that results in the formation of blood clots in the small blood vessels throughout the body",
+    "aliases": [
+        "DIC",
+        "Coagulation (DIC), Disseminated Intravascular",
+        "Consumptive Coagulopathy",
+        "Defibrination syndrome",
+        "DIC, Disseminated Intravascular Coagulation",
+        "Diffuse or disseminated intravascular coagulation",
+        "Disseminated Intravascular Coagulation",
+        "Disseminated Intravascular Coagulation (DIC)",
+        "Intravascular Coagulation (DIC), Disseminated"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/DIC%20With%20Microangiopathic%20Hemolytic%20Anemia.jpg",
+    "url": "https://en.wikipedia.org/wiki/Disseminated_intravascular_coagulation",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "thrombophilia",
+                "qid": "Q1570013",
+                "url": "https://en.wikipedia.org/wiki/Thrombophilia"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            }
+        ]
+    }
+}

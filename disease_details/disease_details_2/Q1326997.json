@@ -1,0 +1,28 @@
+{
+    "name": "pulseless electrical activity",
+    "qid": "Q1326997",
+    "icd_10": "I46.9",
+    "description": "cardiac arrest with electrical signal but insufficient pumping",
+    "aliases": [
+        "PEA",
+        "electromechanical dissociation"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pulseless_electrical_activity",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "cardiac arrest",
+                "qid": "Q202837",
+                "url": "https://en.wikipedia.org/wiki/Cardiac_arrest"
+            }
+        ]
+    }
+}

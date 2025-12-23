@@ -1,0 +1,84 @@
+{
+    "name": "trichotillomania",
+    "qid": "Q608259",
+    "icd_10": "F63.3",
+    "description": "impulse control disorder with uncontrollable hair pulling",
+    "aliases": [
+        "TTM",
+        "compulsive hair-pulling disorder",
+        "hair pulling disorder",
+        "trichotillosis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Trichotillomania%201.jpg",
+    "url": "https://en.wikipedia.org/wiki/Trichotillomania",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "body-focused repetitive behavior disorders",
+                "qid": "Q4936774",
+                "url": "https://en.wikipedia.org/wiki/Body-focused_repetitive_behavior"
+            },
+            {
+                "name": "traction alopecia",
+                "qid": "Q7831635",
+                "url": "https://en.wikipedia.org/wiki/Traction_alopecia"
+            },
+            {
+                "name": "impulse control disorder",
+                "qid": "Q1201835",
+                "url": "https://en.wikipedia.org/wiki/Impulse-control_disorder"
+            },
+            {
+                "name": "genetic disease",
+                "qid": "Q200779",
+                "url": "https://en.wikipedia.org/wiki/Genetic_disorder"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "psychology",
+                "qid": "Q9418",
+                "url": "https://en.wikipedia.org/wiki/Psychology"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "depression",
+                "qid": "Q4340209",
+                "url": "https://en.wikipedia.org/wiki/Depression_(mood)"
+            },
+            {
+                "name": "stress",
+                "qid": "Q123414",
+                "url": "https://en.wikipedia.org/wiki/Stress_(biology)"
+            },
+            {
+                "name": "anxiety",
+                "qid": "Q154430",
+                "url": "https://en.wikipedia.org/wiki/Anxiety"
+            },
+            {
+                "name": "obsessive-compulsive disorder",
+                "qid": "Q178190",
+                "url": "https://en.wikipedia.org/wiki/Obsessive%E2%80%93compulsive_disorder"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "alopecia",
+                "qid": "Q2697787",
+                "url": "https://en.wikipedia.org/wiki/Alopecia"
+            }
+        ]
+    }
+}

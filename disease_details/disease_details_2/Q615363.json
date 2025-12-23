@@ -1,0 +1,29 @@
+{
+    "name": "torticollis",
+    "qid": "Q615363",
+    "icd_10": "M43.6",
+    "description": "dystonic condition defined by an abnormal, asymmetrical head or neck position, which may be due to a variety of causes",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mvc-872s.jpg",
+    "url": "https://en.wikipedia.org/wiki/Torticollis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "dystonia",
+                "qid": "Q906492",
+                "url": "https://en.wikipedia.org/wiki/Dystonia"
+            },
+            {
+                "name": "musculoskeletal system symptom",
+                "qid": "Q102187380"
+            }
+        ]
+    }
+}

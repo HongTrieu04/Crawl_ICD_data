@@ -1,0 +1,18 @@
+{
+    "name": "Disseminated herpes zoster",
+    "qid": "Q5282747",
+    "icd_10": "B02.7",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Disseminated_herpes_zoster",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "herpes zoster",
+                "qid": "Q182155",
+                "url": "https://en.wikipedia.org/wiki/Shingles"
+            }
+        ]
+    }
+}

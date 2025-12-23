@@ -1,0 +1,34 @@
+{
+    "name": "nosebleed",
+    "qid": "Q202013",
+    "icd_10": "R04.0",
+    "description": "bleeding from the nose",
+    "aliases": [
+        "epistaxis",
+        "nose bleed",
+        "nasal bleeding",
+        "nasal hemorrhage"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Epistaxis1.jpg",
+    "url": "https://en.wikipedia.org/wiki/Nosebleed",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "bleeding",
+                "qid": "Q166019",
+                "url": "https://en.wikipedia.org/wiki/Bleeding"
+            },
+            {
+                "name": "nose symptom",
+                "qid": "Q102186674"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "otolaryngology",
+                "qid": "Q189553",
+                "url": "https://en.wikipedia.org/wiki/Otorhinolaryngology"
+            }
+        ]
+    }
+}

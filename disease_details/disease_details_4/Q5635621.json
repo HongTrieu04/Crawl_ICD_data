@@ -1,0 +1,33 @@
+{
+    "name": "HPV-positive oropharyngeal cancer",
+    "qid": "Q5635621",
+    "icd_10": "C14.2",
+    "description": "cancer of the throat",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/HPV-positive_oropharyngeal_cancer",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "oropharynx cancer",
+                "qid": "Q2031424",
+                "url": "https://en.wikipedia.org/wiki/Oropharyngeal_cancer"
+            },
+            {
+                "name": "pharynx squamous cell carcinoma",
+                "qid": "Q18553564"
+            },
+            {
+                "name": "human papillomavirus related squamous cell carcinoma",
+                "qid": "Q18975601"
+            }
+        ]
+    }
+}

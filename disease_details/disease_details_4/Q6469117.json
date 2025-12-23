@@ -1,0 +1,27 @@
+{
+    "name": "lacunar stroke",
+    "qid": "Q6469117",
+    "icd_10": "I63.8",
+    "description": "medical condition",
+    "aliases": [
+        "lacunar infarct",
+        "Stroke, Lacunar"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Lacunar_stroke",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "thrombotic stroke",
+                "qid": "Q107538760"
+            }
+        ]
+    }
+}

@@ -1,0 +1,139 @@
+{
+    "name": "campylobacteriosis",
+    "qid": "Q683861",
+    "icd_10": "A04.5",
+    "description": "infections cased by a genus of Gram-negative bacteria",
+    "aliases": [
+        "Campylobacter coli infectious disease",
+        "(Campylobacter GIT infection (& [diarrhea] or [enteritis]) or (helicobacter gastritis)",
+        "Campylobacter enteritis",
+        "Campylobacter Gastroenteritis",
+        "Campylobacter infection",
+        "Campylobacter infections",
+        "Campylobacter jejuni gastroenteritis",
+        "Campylobacter jejuni infection",
+        "Campylobacteriosis",
+        "Campylobacteriosis (disorder)"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Campylobacteriosis",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            },
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "diarrhea",
+                "qid": "Q40878",
+                "url": "https://en.wikipedia.org/wiki/Diarrhea"
+            },
+            {
+                "name": "sepsis",
+                "qid": "Q183134",
+                "url": "https://en.wikipedia.org/wiki/Sepsis"
+            },
+            {
+                "name": "abdominal pain",
+                "qid": "Q183425",
+                "url": "https://en.wikipedia.org/wiki/Abdominal_pain"
+            },
+            {
+                "name": "myalgia",
+                "qid": "Q474959",
+                "url": "https://en.wikipedia.org/wiki/Myalgia"
+            },
+            {
+                "name": "arthralgia",
+                "qid": "Q683498",
+                "url": "https://en.wikipedia.org/wiki/Arthralgia"
+            },
+            {
+                "name": "blood in stool",
+                "qid": "Q1214063",
+                "url": "https://en.wikipedia.org/wiki/Blood_in_stool"
+            },
+            {
+                "name": "poisoning",
+                "qid": "Q114953"
+            },
+            {
+                "name": "abdominal cramps",
+                "qid": "Q3002092"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Campylobacter",
+                "qid": "Q131488",
+                "url": "https://en.wikipedia.org/wiki/Campylobacter"
+            },
+            {
+                "name": "Campylobacter jejuni",
+                "qid": "Q265488",
+                "url": "https://en.wikipedia.org/wiki/Campylobacter_jejuni"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "gastroenteritis",
+                "qid": "Q156103",
+                "url": "https://en.wikipedia.org/wiki/Gastroenteritis"
+            },
+            {
+                "name": "bacterial infectious disease",
+                "qid": "Q727028",
+                "url": "https://en.wikipedia.org/wiki/Bacterial_disease"
+            },
+            {
+                "name": "primary bacterial infectious disease",
+                "qid": "Q18553247"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "azithromycin",
+                "qid": "Q165399",
+                "url": "https://en.wikipedia.org/wiki/Azithromycin"
+            },
+            {
+                "name": "ciprofloxacin",
+                "qid": "Q256602",
+                "url": "https://en.wikipedia.org/wiki/Ciprofloxacin"
+            },
+            {
+                "name": "clindamycin",
+                "qid": "Q422273",
+                "url": "https://en.wikipedia.org/wiki/Clindamycin"
+            },
+            {
+                "name": "doxycycline",
+                "qid": "Q422442",
+                "url": "https://en.wikipedia.org/wiki/Doxycycline"
+            },
+            {
+                "name": "gentamicin",
+                "qid": "Q422482",
+                "url": "https://en.wikipedia.org/wiki/Gentamicin"
+            },
+            {
+                "name": "levofloxacin",
+                "qid": "Q424193",
+                "url": "https://en.wikipedia.org/wiki/Levofloxacin"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

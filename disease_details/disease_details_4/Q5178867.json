@@ -1,0 +1,33 @@
+{
+    "name": "Couvelaire uterus",
+    "qid": "Q5178867",
+    "icd_10": "O45.8",
+    "description": "Blood from detached placental site'which enter into uterine musculature and peritoneal cavity",
+    "aliases": [
+        "Pain,purplish uterus,hypovolemic shock,bleeding,fetal death"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Couvelaire_uterus",
+    "details": {
+        "Cause": [
+            {
+                "name": "placental abruption",
+                "qid": "Q388113",
+                "url": "https://en.wikipedia.org/wiki/Placental_abruption"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "obstetrics",
+                "qid": "Q5284418",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "uterine disease",
+                "qid": "Q18555940"
+            }
+        ]
+    }
+}

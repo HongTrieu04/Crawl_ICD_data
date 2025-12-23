@@ -1,0 +1,25 @@
+{
+    "name": "Sulzberger–Garbe syndrome",
+    "qid": "Q7636864",
+    "icd_10": "L98.8",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Sulzberger%E2%80%93Garbe_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "eczema",
+                "qid": "Q988594",
+                "url": "https://en.wikipedia.org/wiki/Eczema"
+            }
+        ]
+    }
+}

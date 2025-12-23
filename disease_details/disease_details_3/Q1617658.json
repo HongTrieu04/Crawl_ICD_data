@@ -1,0 +1,29 @@
+{
+    "name": "hyper IgM syndrome",
+    "qid": "Q1617658",
+    "icd_10": "D80.5",
+    "description": "primary immune deficiency disorders characterized by defective CD40 signaling",
+    "aliases": [
+        "class switch recombination defect",
+        "immunodeficiency with hyper-IgM",
+        "immunodeficiency with increased IgM",
+        "obsolete immunodeficiency with increased IgM"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hyper_IgM_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "immunology",
+                "qid": "Q101929",
+                "url": "https://en.wikipedia.org/wiki/Immunology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "hyperimmunoglobulin syndrome",
+                "qid": "Q18555244"
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "name": "succinimide",
+    "qid": "Q419430",
+    "icd_10": "Y46.0",
+    "description": "chemical compound",
+    "aliases": [
+        "2,5-Diketopyrrolidine",
+        "2,5-dioxopyrrolidine",
+        "2,5-Pyrrolidinedione",
+        "3,4-dihydropyrrole-2,5-dione",
+        "Butanimide",
+        "dihydro-3-pyrroline-2,5-dione",
+        "succinic acid imide"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Succinimide",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "pyrrolidine alkaloid",
+                "qid": "Q17325781",
+                "url": "https://en.wikipedia.org/wiki/Pyrrolidine_alkaloids"
+            }
+        ]
+    }
+}

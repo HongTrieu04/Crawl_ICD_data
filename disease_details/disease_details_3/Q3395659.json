@@ -1,0 +1,46 @@
+{
+    "name": "polymenorrhea",
+    "qid": "Q3395659",
+    "icd_10": "N92.0",
+    "description": "abnormally frequent menstruation",
+    "aliases": [
+        "epimenorrhea",
+        "epimenorrhoea",
+        "polymenorrhoea",
+        "polymenorrhœa"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Polymenorrhea",
+    "details": {
+        "Cause": [
+            {
+                "name": "polycystic ovary syndrome",
+                "qid": "Q500816",
+                "url": "https://en.wikipedia.org/wiki/Polycystic_ovary_syndrome"
+            },
+            {
+                "name": "anovulation",
+                "qid": "Q25556",
+                "url": "https://en.wikipedia.org/wiki/Anovulation"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gynaecology",
+                "qid": "Q1221899",
+                "url": "https://en.wikipedia.org/wiki/Gynaecology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "abnormal uterine bleeding",
+                "qid": "Q2633143",
+                "url": "https://en.wikipedia.org/wiki/Abnormal_uterine_bleeding"
+            },
+            {
+                "name": "menstrual cycle disorder",
+                "qid": "Q2137326"
+            }
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name": "ocular manifestation of diabetes",
+    "qid": "Q18971488",
+    "icd_10": "E14.3",
+    "description": "Human disease",
+    "aliases": [
+        "diabetes mellitus insulin dependent type, uncontrolled, with ophthalmic manifestations",
+        "Diabetes mellitus juvenile type, uncontrolled, with ophthalmic manifestations",
+        "Diabetes mellitus type I [juvenile type], uncontrolled, with ophthalmic manifestations",
+        "diabetic oculopathy",
+        "obsolete diabetic oculopathy"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "complications of diabetes mellitus",
+                "qid": "Q4198677",
+                "url": "https://en.wikipedia.org/wiki/Complications_of_diabetes"
+            },
+            {
+                "name": "ocular changes",
+                "qid": "Q21112553"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "ingrown nail",
+    "qid": "Q1060425",
+    "icd_10": "L60.0",
+    "description": "common nail disease",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vandenbosbefore1.jpg",
+    "url": "https://en.wikipedia.org/wiki/Ingrown_nail",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "surgical treatment of ingrown toe nails",
+                "qid": "Q1963528",
+                "url": "https://en.wikipedia.org/wiki/Surgical_treatment_of_ingrown_toenails"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "nail disease",
+                "qid": "Q2084035",
+                "url": "https://en.wikipedia.org/wiki/Nail_disease"
+            }
+        ]
+    }
+}

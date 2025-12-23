@@ -1,0 +1,83 @@
+{
+    "name": "autoimmune disease",
+    "qid": "Q8084905",
+    "icd_10": "M35.9",
+    "description": "type of human disease",
+    "aliases": [
+        "autoimmune diseases",
+        "autoimmune hypersensitivity disease",
+        "hypersensitivity reaction type II disease"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Warm%20autoimmune%20hemolytic%20anemia.jpg",
+    "url": "https://en.wikipedia.org/wiki/Autoimmune_disease",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "hypersensitivity",
+                "qid": "Q5958765",
+                "url": "https://en.wikipedia.org/wiki/Hypersensitivity"
+            },
+            {
+                "name": "primary immunodeficiency disease",
+                "qid": "Q3043160",
+                "url": "https://en.wikipedia.org/wiki/Primary_immunodeficiency"
+            },
+            {
+                "name": "immune disorder",
+                "qid": "Q3843811",
+                "url": "https://en.wikipedia.org/wiki/Immune_disorder"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "immunology",
+                "qid": "Q101929",
+                "url": "https://en.wikipedia.org/wiki/Immunology"
+            },
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "azathioprine",
+                "qid": "Q18939",
+                "url": "https://en.wikipedia.org/wiki/Azathioprine"
+            },
+            {
+                "name": "cyclosporine",
+                "qid": "Q367700",
+                "url": "https://en.wikipedia.org/wiki/Ciclosporin"
+            },
+            {
+                "name": "methylprednisolone",
+                "qid": "Q417222",
+                "url": "https://en.wikipedia.org/wiki/Methylprednisolone"
+            },
+            {
+                "name": "dexamethasone",
+                "qid": "Q422252",
+                "url": "https://en.wikipedia.org/wiki/Dexamethasone"
+            },
+            {
+                "name": "prednisone",
+                "qid": "Q424972",
+                "url": "https://en.wikipedia.org/wiki/Prednisone"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "type II hypersensitivity",
+                "qid": "Q5898312",
+                "url": "https://en.wikipedia.org/wiki/Type_II_hypersensitivity"
+            }
+        ]
+    }
+}

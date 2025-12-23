@@ -1,0 +1,17 @@
+{
+    "name": "superficial keratitis without conjunctivitis",
+    "qid": "Q55013748",
+    "icd_10": "H16.1",
+    "description": "human disease",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "superficial keratitis",
+                "qid": "Q18554266"
+            }
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "name": "short bowel syndrome",
+    "qid": "Q662272",
+    "icd_10": "K91.8",
+    "description": "human disease",
+    "aliases": [
+        "acquired short bowel syndrome",
+        "Short bowel syndrome",
+        "short gut syndrome"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/ResectedIleum.jpg",
+    "url": "https://en.wikipedia.org/wiki/Short_bowel_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "intestinal disease",
+                "qid": "Q3055380",
+                "url": "https://en.wikipedia.org/wiki/Enteropathy"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "diarrhea",
+                "qid": "Q40878",
+                "url": "https://en.wikipedia.org/wiki/Diarrhea"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "L-glutamine",
+                "qid": "Q181619",
+                "url": "https://en.wikipedia.org/wiki/Glutamine"
+            },
+            {
+                "name": "teduglutide",
+                "qid": "Q7694156",
+                "url": "https://en.wikipedia.org/wiki/Teduglutide"
+            }
+        ]
+    }
+}

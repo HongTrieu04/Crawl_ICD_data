@@ -1,0 +1,25 @@
+{
+    "name": "abortion complication",
+    "qid": "Q30348304",
+    "icd_10": "O06.8",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "adverse effect",
+                "qid": "Q2047938",
+                "url": "https://en.wikipedia.org/wiki/Adverse_effect"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "abortion",
+                "qid": "Q8452",
+                "url": "https://en.wikipedia.org/wiki/Abortion"
+            }
+        ]
+    }
+}

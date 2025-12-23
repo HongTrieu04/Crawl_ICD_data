@@ -1,0 +1,29 @@
+{
+    "name": "uterine perforation",
+    "qid": "Q3918693",
+    "icd_10": "O71.5",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Uterine_perforation",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "organ perforation",
+                "qid": "Q16965421",
+                "url": "https://en.wikipedia.org/wiki/Organ_perforation"
+            },
+            {
+                "name": "female genital trauma",
+                "qid": "Q4366482"
+            }
+        ]
+    }
+}

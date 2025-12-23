@@ -1,0 +1,29 @@
+{
+    "name": "Medial pontine syndrome",
+    "qid": "Q6806075",
+    "icd_10": "G46.3",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Medial_pontine_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "brain stem stroke syndrome",
+                "qid": "Q4955837",
+                "url": "https://en.wikipedia.org/wiki/Brainstem_stroke_syndrome"
+            },
+            {
+                "name": "pontine syndrome",
+                "qid": "Q30928361"
+            }
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Xerosis cutis",
+    "qid": "Q2723497",
+    "icd_10": "L85.3",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Xerosis_cutis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "skin disease",
+                "qid": "Q949302",
+                "url": "https://en.wikipedia.org/wiki/Skin_condition"
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "name": "pneumopericardium",
+    "qid": "Q7206009",
+    "icd_10": "P25.3",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete pneumopericardium"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pneumopericardium",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "pericardium disease",
+                "qid": "Q18553502"
+            }
+        ]
+    }
+}

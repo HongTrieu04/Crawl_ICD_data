@@ -1,0 +1,17 @@
+{
+    "name": "Kemerovo tickborne viral fever",
+    "qid": "Q6386930",
+    "icd_10": "A93.8",
+    "description": "infectious disease",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Kemerovo_tickborne_viral_fever",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "Reoviridae infectious disease",
+                "qid": "Q18967534"
+            }
+        ]
+    }
+}

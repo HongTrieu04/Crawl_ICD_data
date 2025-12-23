@@ -1,0 +1,20 @@
+{
+    "name": "recurrent fever",
+    "qid": "Q3073149",
+    "icd_10": "A68",
+    "description": "type of fever",
+    "aliases": [
+        "Recurrent fever"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            }
+        ]
+    }
+}

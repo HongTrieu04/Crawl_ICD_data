@@ -1,0 +1,29 @@
+{
+    "name": "Locked twins",
+    "qid": "Q16934007",
+    "icd_10": "O66.1",
+    "description": "multiple pregnancy in which fetuses are interlocked",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Locked_twins",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "obstructed labor",
+                "qid": "Q1811189",
+                "url": "https://en.wikipedia.org/wiki/Obstructed_labour"
+            },
+            {
+                "name": "diseases in twins",
+                "qid": "Q54943950"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "obstetrics",
+                "qid": "Q5284418",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics"
+            }
+        ]
+    }
+}

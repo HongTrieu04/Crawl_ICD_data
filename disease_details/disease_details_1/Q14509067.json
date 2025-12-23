@@ -1,0 +1,49 @@
+{
+    "name": "exanthem",
+    "qid": "Q14509067",
+    "icd_10": "B08",
+    "description": "human disease",
+    "aliases": [
+        "rash",
+        "exanthem rash",
+        "exanthema",
+        "post-viral rash",
+        "reactive rash",
+        "viral exanthem rash"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Severerash.jpg",
+    "url": "https://en.wikipedia.org/wiki/Exanthem",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "family medicine",
+                "qid": "Q3505712",
+                "url": "https://en.wikipedia.org/wiki/Family_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "rash",
+                "qid": "Q653197",
+                "url": "https://en.wikipedia.org/wiki/Rash"
+            },
+            {
+                "name": "skin disease",
+                "qid": "Q949302",
+                "url": "https://en.wikipedia.org/wiki/Skin_condition"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "rash",
+                "qid": "Q653197",
+                "url": "https://en.wikipedia.org/wiki/Rash"
+            }
+        ]
+    }
+}

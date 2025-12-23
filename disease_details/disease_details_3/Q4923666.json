@@ -1,0 +1,21 @@
+{
+    "name": "bladder spasm",
+    "qid": "Q4923666",
+    "icd_10": "N32.8",
+    "description": null,
+    "aliases": [
+        "Spasm of bladder",
+        "spastic bladder"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Bladder_spasm",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "bladder disease",
+                "qid": "Q6066379",
+                "url": "https://en.wikipedia.org/wiki/Urinary_bladder_disease"
+            }
+        ]
+    }
+}

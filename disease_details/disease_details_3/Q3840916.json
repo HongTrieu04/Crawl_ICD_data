@@ -1,0 +1,37 @@
+{
+    "name": "luteoma",
+    "qid": "Q3840916",
+    "icd_10": "C56.9",
+    "description": "ovarian benign neoplasm characterized by solid proliferations of luteinized cells, resulting in a tumor-like ovarian enlargement that regresses during the puerperium",
+    "aliases": [
+        "leuteoma of pregnancy",
+        "luteoma of pregnancy"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Luteoma",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "ovarian disease",
+                "qid": "Q7113244",
+                "url": "https://en.wikipedia.org/wiki/Ovarian_disease"
+            },
+            {
+                "name": "ovarian benign neoplasm",
+                "qid": "Q18553671"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ]
+    }
+}

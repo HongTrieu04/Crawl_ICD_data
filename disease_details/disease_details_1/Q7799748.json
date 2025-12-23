@@ -1,0 +1,44 @@
+{
+    "name": "Thyroid dyshormonogenesis",
+    "qid": "Q7799748",
+    "icd_10": "E07.1",
+    "description": "Familial thyroid dyshormonogenesis is a type of primary congenital hypothyroidism (see this term), a permanent thyroid hormone deficiency that is present from birth, which results from inborn errors of thyroid hormone synthesis",
+    "aliases": [
+        "TDH1",
+        "dyshormogenetic goiter",
+        "Dyshormonogenesis",
+        "Hypothyroidism, Congenital, Due to Dyshormonogenesis, 1",
+        "Iodine Accumulation, Transport, or Trapping Defect",
+        "THYROID DYSHORMONOGENESIS 1",
+        "THYROID DYSHORMONOGENESIS 1; TDH1",
+        "Thyroid Dyshormonogenesis type 1",
+        "Thyroid Hormonogenesis, Genetic Defect In, 1"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Thyroid_dyshormonogenesis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "hypothyroidism",
+                "qid": "Q16501",
+                "url": "https://en.wikipedia.org/wiki/Hypothyroidism"
+            },
+            {
+                "name": "metabolic disease",
+                "qid": "Q2351083",
+                "url": "https://en.wikipedia.org/wiki/Metabolic_disorder"
+            },
+            {
+                "name": "primary congenital hypothyroidism without thyroid developmental anomaly",
+                "qid": "Q55788927"
+            }
+        ]
+    }
+}

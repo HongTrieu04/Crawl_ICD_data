@@ -1,0 +1,84 @@
+{
+    "name": "paracetamol toxicity",
+    "qid": "Q2572879",
+    "icd_10": "T39.1",
+    "description": "poisoning by paracetamol overdose",
+    "aliases": [
+        "acetaminophen poisoning",
+        "paracetamol poisoning",
+        "Tylenol poisoning"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Paracetamol_poisoning",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "toxicology",
+                "qid": "Q7218",
+                "url": "https://en.wikipedia.org/wiki/Toxicology"
+            },
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "nausea",
+                "qid": "Q186889",
+                "url": "https://en.wikipedia.org/wiki/Nausea"
+            },
+            {
+                "name": "jaundice",
+                "qid": "Q133244",
+                "url": "https://en.wikipedia.org/wiki/Jaundice"
+            },
+            {
+                "name": "abdominal pain",
+                "qid": "Q183425",
+                "url": "https://en.wikipedia.org/wiki/Abdominal_pain"
+            },
+            {
+                "name": "hepatic encephalopathy",
+                "qid": "Q642548",
+                "url": "https://en.wikipedia.org/wiki/Hepatic_encephalopathy"
+            },
+            {
+                "name": "blood coagulation disease",
+                "qid": "Q890200",
+                "url": "https://en.wikipedia.org/wiki/Coagulopathy"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "activated carbon",
+                "qid": "Q190878",
+                "url": "https://en.wikipedia.org/wiki/Activated_carbon"
+            },
+            {
+                "name": "N-acetyl-L-cysteine",
+                "qid": "Q375613",
+                "url": "https://en.wikipedia.org/wiki/Acetylcysteine"
+            },
+            {
+                "name": "liver transplantation",
+                "qid": "Q1368191",
+                "url": "https://en.wikipedia.org/wiki/Liver_transplantation"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "drug overdose",
+                "qid": "Q3505252",
+                "url": "https://en.wikipedia.org/wiki/Drug_overdose"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "poisoning by drugs",
+                "qid": "Q387175"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "hyperphenylalaninemia",
+    "qid": "Q5898279",
+    "icd_10": "E70.1",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hyperphenylalaninemia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "metabolic disease",
+                "qid": "Q2351083",
+                "url": "https://en.wikipedia.org/wiki/Metabolic_disorder"
+            },
+            {
+                "name": "disorder of phenylalanine metabolism",
+                "qid": "Q55786974"
+            }
+        ]
+    }
+}

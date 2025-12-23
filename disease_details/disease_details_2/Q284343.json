@@ -1,0 +1,33 @@
+{
+    "name": "irritant diaper dermatitis",
+    "qid": "Q284343",
+    "icd_10": "L22",
+    "description": "skin rashes in the diaper area that are caused by various skin disorders and/or irritants",
+    "aliases": [
+        "Diaper or napkin erythema",
+        "Diaper or napkin rash",
+        "diaper rash",
+        "Diaper rash (disorder)",
+        "Irritant contact dermatitis due to contact with urine and/or faeces",
+        "Jacquet's dermatitis",
+        "nappy rash"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Irritant%20diaper%20dermatitis.jpg",
+    "url": "https://en.wikipedia.org/wiki/Irritant_diaper_dermatitis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "intertrigo",
+                "qid": "Q796150",
+                "url": "https://en.wikipedia.org/wiki/Intertrigo"
+            }
+        ]
+    }
+}

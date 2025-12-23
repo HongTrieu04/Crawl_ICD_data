@@ -1,0 +1,40 @@
+{
+    "name": "aniseikonia",
+    "qid": "Q548913",
+    "icd_10": "H52.3",
+    "description": "Human disease",
+    "aliases": [
+        "anisometropia and aniseikonia",
+        "Anisometropia and aniseikonia (disorder)",
+        "Anisometropia or aniseikonia NOS (disorder)",
+        "obsolete anisometropia and aniseikonia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Aniseikonia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "refractive error",
+                "qid": "Q470427",
+                "url": "https://en.wikipedia.org/wiki/Refractive_error"
+            },
+            {
+                "name": "dysmetropsia",
+                "qid": "Q5319483",
+                "url": "https://en.wikipedia.org/wiki/Dysmetropsia"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            }
+        ]
+    }
+}

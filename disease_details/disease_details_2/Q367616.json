@@ -1,0 +1,25 @@
+{
+    "name": "Laryngopharyngeal reflux",
+    "qid": "Q367616",
+    "icd_10": "K21",
+    "description": "retrograde flow of gastric contents to the upper aero-digestive tract, which causes a variety of symptoms, such as cough, hoarseness, and wheezing",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Laryngopharyngeal_reflux",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "gastroesophageal reflux disease",
+                "qid": "Q223591",
+                "url": "https://en.wikipedia.org/wiki/Gastroesophageal_reflux_disease"
+            }
+        ]
+    }
+}

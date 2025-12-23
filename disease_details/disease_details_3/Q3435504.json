@@ -1,0 +1,40 @@
+{
+    "name": "AIDS dementia complex",
+    "qid": "Q3435504",
+    "icd_10": "F02.4",
+    "description": "Human disease",
+    "aliases": [
+        "acquired immune deficiency syndrome dementia complex",
+        "AIDS Dementia",
+        "HAND",
+        "HIV associated cognitive and motor complex",
+        "HIV-associated dementia",
+        "obsolete AIDS dementia complex"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/HIV-associated_neurocognitive_disorder",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "cognitive disorder",
+                "qid": "Q3065932",
+                "url": "https://en.wikipedia.org/wiki/Neurocognitive_disorder"
+            },
+            {
+                "name": "HIV encephalopathy",
+                "qid": "Q18967433"
+            },
+            {
+                "name": "AIDS related disease",
+                "qid": "Q28608836"
+            }
+        ]
+    }
+}

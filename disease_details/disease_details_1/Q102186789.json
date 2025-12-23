@@ -1,0 +1,28 @@
+{
+    "name": "painful respiration",
+    "qid": "Q102186789",
+    "icd_10": "R07.1",
+    "description": "symptom",
+    "aliases": [
+        "Breathing painful"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "chest pain",
+                "qid": "Q693058",
+                "url": "https://en.wikipedia.org/wiki/Chest_pain"
+            },
+            {
+                "name": "abnormal breathing",
+                "qid": "Q2056816"
+            },
+            {
+                "name": "respiratory signs and symptoms",
+                "qid": "Q42183538"
+            }
+        ]
+    }
+}

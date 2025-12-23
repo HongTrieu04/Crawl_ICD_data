@@ -1,0 +1,19 @@
+{
+    "name": "transplant rejection",
+    "qid": "Q1765748",
+    "icd_10": "T86",
+    "description": "rejection of transplanted tissue by the recipients immune system",
+    "aliases": [
+        "Graft Rejection"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lung%20transplant%20rejection%20-%20high%20mag.jpg",
+    "url": "https://en.wikipedia.org/wiki/Transplant_rejection",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "transplant-related disease",
+                "qid": "Q18971461"
+            }
+        ]
+    }
+}

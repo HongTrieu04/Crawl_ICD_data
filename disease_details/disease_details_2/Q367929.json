@@ -1,0 +1,46 @@
+{
+    "name": "Klüver–Bucy syndrome",
+    "qid": "Q367929",
+    "icd_10": "F07.0",
+    "description": "syndrome resulting from bilateral lesions of the medial temporal lobe",
+    "aliases": [
+        "Kluver Bucy syndrome",
+        "Kluver-Bucy syndrome",
+        "Klver-Bucy syndrome",
+        "post-encephalitic Klüver–Bucy syndrome",
+        "post-traumatic Klüver–Bucy syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Kl%C3%BCver%E2%80%93Bucy_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            },
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "impulse control disorder",
+                "qid": "Q1201835",
+                "url": "https://en.wikipedia.org/wiki/Impulse-control_disorder"
+            }
+        ]
+    }
+}

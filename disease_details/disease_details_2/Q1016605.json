@@ -1,0 +1,50 @@
+{
+    "name": "Burkitt lymphoma",
+    "qid": "Q1016605",
+    "icd_10": "C91.8",
+    "description": "type of cancer",
+    "aliases": [
+        "Burkitt lymphoma/leukaemia",
+        "Burkitt's Lymphoma",
+        "Burkitt's tumor",
+        "Burkitt's tumor or lymphoma",
+        "malignant lymphoma, Burkitt's type",
+        "small Non-Cleaved cell Lymphoma, Burkitt's type"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Burkitt%20lymphoma%2C%20touch%20prep%2C%20Wright%20stain.jpg",
+    "url": "https://en.wikipedia.org/wiki/Burkitt_lymphoma",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "mature B-cell neoplasm",
+                "qid": "Q18557464"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "(RS)-cyclophosphamide",
+                "qid": "Q408524",
+                "url": "https://en.wikipedia.org/wiki/Cyclophosphamide"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Epstein–Barr virus infection",
+                "qid": "Q5384031",
+                "url": "https://en.wikipedia.org/wiki/Epstein%E2%80%93Barr_virus_infection"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            }
+        ]
+    }
+}

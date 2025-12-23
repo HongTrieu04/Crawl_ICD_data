@@ -1,0 +1,39 @@
+{
+    "name": "ichthyosis",
+    "qid": "Q523893",
+    "icd_10": "Q80",
+    "description": "skin disease in which dry, scaly skin accumulates",
+    "aliases": [
+        "ichthyoses",
+        "ichthyosis follicularis",
+        "ichthyotic scaling",
+        "non-syndromic ichthyosis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ichthyosis%202.jpg",
+    "url": "https://en.wikipedia.org/wiki/Ichthyosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "skin disease",
+                "qid": "Q949302",
+                "url": "https://en.wikipedia.org/wiki/Skin_condition"
+            },
+            {
+                "name": "epidermal disease",
+                "qid": "Q55788577"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "name": "Taeniasis saginata",
+    "qid": "Q4454701",
+    "icd_10": "B68.1",
+    "description": "parasitic disease caused by Taenia saginata",
+    "aliases": [
+        "beef tapeworm infection"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Symptoms": [
+            {
+                "name": "constipation",
+                "qid": "Q178436",
+                "url": "https://en.wikipedia.org/wiki/Constipation"
+            },
+            {
+                "name": "diarrhea",
+                "qid": "Q40878",
+                "url": "https://en.wikipedia.org/wiki/Diarrhea"
+            },
+            {
+                "name": "abdominal pain",
+                "qid": "Q183425",
+                "url": "https://en.wikipedia.org/wiki/Abdominal_pain"
+            },
+            {
+                "name": "nausea",
+                "qid": "Q186889",
+                "url": "https://en.wikipedia.org/wiki/Nausea"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "praziquantel",
+                "qid": "Q424145",
+                "url": "https://en.wikipedia.org/wiki/Praziquantel"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "parasitic helminthiasis infectious disease",
+                "qid": "Q578994",
+                "url": "https://en.wikipedia.org/wiki/Helminthiasis"
+            },
+            {
+                "name": "taeniasis",
+                "qid": "Q1475667",
+                "url": "https://en.wikipedia.org/wiki/Taeniasis"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Taenia saginata",
+                "qid": "Q773607",
+                "url": "https://en.wikipedia.org/wiki/Taenia_saginata"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

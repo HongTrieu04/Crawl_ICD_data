@@ -1,0 +1,22 @@
+{
+    "name": "nasopharyngeal myiasis",
+    "qid": "Q4312080",
+    "icd_10": "B87.3",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "myiasis",
+                "qid": "Q304601",
+                "url": "https://en.wikipedia.org/wiki/Myiasis"
+            },
+            {
+                "name": "nasopharyngeal disease",
+                "qid": "Q18558167"
+            }
+        ]
+    }
+}

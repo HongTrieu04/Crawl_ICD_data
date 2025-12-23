@@ -1,0 +1,47 @@
+{
+    "name": "AA amyloidosis",
+    "qid": "Q2844591",
+    "icd_10": "E85",
+    "description": "protein deposition disease",
+    "aliases": [
+        "Amyloid A amyloidosis",
+        "Amyloidosis AA",
+        "Inflammatory amyloidosis",
+        "Reactive amyloidosis",
+        "Secondary amyloidosis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/AA_amyloidosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "amyloidosis",
+                "qid": "Q816798",
+                "url": "https://en.wikipedia.org/wiki/Amyloidosis"
+            },
+            {
+                "name": "acquired metabolic disease",
+                "qid": "Q18553699"
+            },
+            {
+                "name": "acquired amyloid peripheral neuropathy",
+                "qid": "Q55785997"
+            },
+            {
+                "name": "non-familial restrictive cardiomyopathy",
+                "qid": "Q55786159"
+            },
+            {
+                "name": "secondary glomerular disease",
+                "qid": "Q55788835"
+            }
+        ]
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "name": "Zika fever",
+    "qid": "Q8071861",
+    "icd_10": "U06",
+    "description": "infectious arboviral disease",
+    "aliases": [
+        "Zika",
+        "Zika virus disease"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexius%20Salvador%20Zika-Virus.jpg",
+    "url": "https://en.wikipedia.org/wiki/Zika_fever",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            },
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "conjunctivitis",
+                "qid": "Q167844",
+                "url": "https://en.wikipedia.org/wiki/Conjunctivitis"
+            },
+            {
+                "name": "arthralgia",
+                "qid": "Q683498",
+                "url": "https://en.wikipedia.org/wiki/Arthralgia"
+            },
+            {
+                "name": "maculopapular rash",
+                "qid": "Q6725808",
+                "url": "https://en.wikipedia.org/wiki/Maculopapular_rash"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "notifiable disease",
+                "qid": "Q314676",
+                "url": "https://en.wikipedia.org/wiki/Notifiable_disease"
+            },
+            {
+                "name": "Zika virus infection",
+                "qid": "Q27043680"
+            },
+            {
+                "name": "viral infectious disease",
+                "qid": "Q1928978",
+                "url": "https://en.wikipedia.org/wiki/Viral_disease"
+            },
+            {
+                "name": "mosquito-borne disease",
+                "qid": "Q6916469",
+                "url": "https://en.wikipedia.org/wiki/Mosquito-borne_disease"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "symptomatic treatment",
+                "qid": "Q621558",
+                "url": "https://en.wikipedia.org/wiki/Symptomatic_treatment"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Zika virus",
+                "qid": "Q202864",
+                "url": "https://en.wikipedia.org/wiki/Zika_virus"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            },
+            {
+                "name": "neonatology",
+                "qid": "Q898674",
+                "url": "https://en.wikipedia.org/wiki/Neonatology"
+            }
+        ]
+    }
+}

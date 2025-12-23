@@ -1,0 +1,28 @@
+{
+    "name": "Polymorphous light eruption",
+    "qid": "Q1895782",
+    "icd_10": "L56.4",
+    "description": "medical condition",
+    "aliases": [
+        "PMLE",
+        "polymorphic light eruption"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Polymorphic%20Light%20Eruption%20on%20the%20chest.jpg",
+    "url": "https://en.wikipedia.org/wiki/Polymorphous_light_eruption",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "photodermatosis",
+                "qid": "Q2986815",
+                "url": "https://en.wikipedia.org/wiki/Photodermatosis"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "psychogenic vomiting",
+    "qid": "Q105965515",
+    "icd_10": "F50.5",
+    "description": "vomiting with a psychological etiology, or without any obvious organic pathology",
+    "aliases": [
+        "psychogenic nausea"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "Psychogenic disease",
+                "qid": "Q2471453",
+                "url": "https://en.wikipedia.org/wiki/Psychogenic_disease"
+            },
+            {
+                "name": "vomiting",
+                "qid": "Q127076",
+                "url": "https://en.wikipedia.org/wiki/Vomiting"
+            }
+        ]
+    }
+}

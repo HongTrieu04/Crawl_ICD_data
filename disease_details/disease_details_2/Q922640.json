@@ -1,0 +1,50 @@
+{
+    "name": "bronchopulmonary dysplasia",
+    "qid": "Q922640",
+    "icd_10": "P27.1",
+    "description": "Human disease of premature infants",
+    "aliases": [
+        "BPD",
+        "Bronchopulmonary dysplasia of newborn (disorder)",
+        "chronic lung disease of infancy",
+        "neonatal chronic respiratory disease",
+        "obsolete bronchopulmonary dysplasia",
+        "Perinatal bronchopulmonary dysplasia"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/CXR%20-%20Bronchopulmonary%20dysplasia.jpg",
+    "url": "https://en.wikipedia.org/wiki/Bronchopulmonary_dysplasia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "pediatrics",
+                "qid": "Q123028",
+                "url": "https://en.wikipedia.org/wiki/Pediatrics"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "palivizumab",
+                "qid": "Q412765",
+                "url": "https://en.wikipedia.org/wiki/Palivizumab"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "perinatal respiratory disorder",
+                "qid": "Q18966634"
+            },
+            {
+                "name": "respiratory system abnormality",
+                "qid": "Q18975820"
+            },
+            {
+                "name": "non-syndromic respiratory or mediastinal malformation",
+                "qid": "Q55785339"
+            },
+            {
+                "name": "rare genetic respiratory disease",
+                "qid": "Q55785522"
+            }
+        ]
+    }
+}

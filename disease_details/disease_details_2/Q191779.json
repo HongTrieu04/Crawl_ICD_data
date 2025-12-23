@@ -1,0 +1,107 @@
+{
+    "name": "Tourette syndrome",
+    "qid": "Q191779",
+    "icd_10": "F95.29",
+    "description": "neurodevelopmental condition",
+    "aliases": [
+        "TS",
+        "GTS",
+        "Gilles de la Tourette syndrome",
+        "Guinon's disease",
+        "motor-verbal tic disorder",
+        "psychogenic tics",
+        "Tourette Disorder",
+        "Tourette's syndrome"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Gilles%20de%20la%20Tourette.png",
+    "url": "https://en.wikipedia.org/wiki/Tourette_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "genetic disease",
+                "qid": "Q200779",
+                "url": "https://en.wikipedia.org/wiki/Genetic_disorder"
+            },
+            {
+                "name": "tic disorder",
+                "qid": "Q1077139",
+                "url": "https://en.wikipedia.org/wiki/Tic_disorder"
+            },
+            {
+                "name": "genetic movement disorder",
+                "qid": "Q55785843"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "pimozide",
+                "qid": "Q144085",
+                "url": "https://en.wikipedia.org/wiki/Pimozide"
+            },
+            {
+                "name": "ziprasidone",
+                "qid": "Q205517",
+                "url": "https://en.wikipedia.org/wiki/Ziprasidone"
+            },
+            {
+                "name": "haloperidol",
+                "qid": "Q251347",
+                "url": "https://en.wikipedia.org/wiki/Haloperidol"
+            },
+            {
+                "name": "aripiprazole",
+                "qid": "Q411188",
+                "url": "https://en.wikipedia.org/wiki/Aripiprazole"
+            },
+            {
+                "name": "clonidine",
+                "qid": "Q412221",
+                "url": "https://en.wikipedia.org/wiki/Clonidine"
+            },
+            {
+                "name": "risperidone",
+                "qid": "Q412443",
+                "url": "https://en.wikipedia.org/wiki/Risperidone"
+            },
+            {
+                "name": "tetrabenazine",
+                "qid": "Q413050",
+                "url": "https://en.wikipedia.org/wiki/Tetrabenazine"
+            },
+            {
+                "name": "pergolide",
+                "qid": "Q415752",
+                "url": "https://en.wikipedia.org/wiki/Pergolide"
+            },
+            {
+                "name": "perphenazine",
+                "qid": "Q423520",
+                "url": "https://en.wikipedia.org/wiki/Perphenazine"
+            },
+            {
+                "name": "mecamylamine",
+                "qid": "Q3332124",
+                "url": "https://en.wikipedia.org/wiki/Mecamylamine"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "tic",
+                "qid": "Q738538",
+                "url": "https://en.wikipedia.org/wiki/Tic"
+            }
+        ]
+    }
+}

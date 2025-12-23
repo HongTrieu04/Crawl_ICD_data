@@ -1,0 +1,32 @@
+{
+    "name": "complex partial status epilepticus",
+    "qid": "Q5156592",
+    "icd_10": "G41.2",
+    "description": "medical condition",
+    "aliases": [
+        "CPSE"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Complex_partial_status_epilepticus",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "status epilepticus",
+                "qid": "Q980709",
+                "url": "https://en.wikipedia.org/wiki/Status_epilepticus"
+            },
+            {
+                "name": "complex partial seizure",
+                "qid": "Q2895302",
+                "url": "https://en.wikipedia.org/wiki/Complex_partial_seizure"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ]
+    }
+}

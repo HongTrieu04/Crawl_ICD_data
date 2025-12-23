@@ -1,0 +1,28 @@
+{
+    "name": "immune hydrops fetalis",
+    "qid": "Q18967008",
+    "icd_10": "P56.0",
+    "description": "Human disease",
+    "aliases": [
+        "IHF",
+        "Hydrops fetalis - due to isoim",
+        "Hydrops fetalis due to isoimmunization",
+        "Hydrops fetalis due to isoimmunization (disorder)",
+        "Hydrops fetalis due to isoimmunization [dup] (disorder)",
+        "Immune fetal edema",
+        "Immune fetal hydrops",
+        "Immune HF",
+        "obsolete immune hydrops fetalis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "hydrops fetalis",
+                "qid": "Q1679678",
+                "url": "https://en.wikipedia.org/wiki/Hydrops_fetalis"
+            }
+        ]
+    }
+}

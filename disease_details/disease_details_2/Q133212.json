@@ -1,0 +1,20 @@
+{
+    "name": "tumor",
+    "qid": "Q133212",
+    "icd_10": "C00",
+    "description": "abnormal growth of tissue forming a mass",
+    "aliases": [
+        "tumour"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pati%C3%ABnt%20met%20een%20rugontsteking%20in%20het%20ziekenhuis%20van%20Penang%2C%20Bestanddeelnr%20255-6745.jpg",
+    "url": "https://en.wikipedia.org/wiki/Tumor",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "neoplasm",
+                "qid": "Q1216998",
+                "url": "https://en.wikipedia.org/wiki/Neoplasm"
+            }
+        ]
+    }
+}

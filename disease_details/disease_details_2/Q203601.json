@@ -1,0 +1,85 @@
+{
+    "name": "pneumothorax",
+    "qid": "Q203601",
+    "icd_10": "J93",
+    "description": "abnormal collection of air in the pleural space",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pneumothorax%20CT.jpg",
+    "url": "https://en.wikipedia.org/wiki/Pneumothorax",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "pleural disease",
+                "qid": "Q7204732",
+                "url": "https://en.wikipedia.org/wiki/Pleural_disease"
+            },
+            {
+                "name": "emphysema",
+                "qid": "Q1339243",
+                "url": "https://en.wikipedia.org/wiki/Pneumatosis"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "dyspnea",
+                "qid": "Q188008",
+                "url": "https://en.wikipedia.org/wiki/Shortness_of_breath"
+            },
+            {
+                "name": "chest pain",
+                "qid": "Q693058",
+                "url": "https://en.wikipedia.org/wiki/Chest_pain"
+            },
+            {
+                "name": "dry cough",
+                "qid": "Q97464125"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            },
+            {
+                "name": "thoracic surgery",
+                "qid": "Q2964004",
+                "url": "https://en.wikipedia.org/wiki/Thoracic_surgery"
+            },
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "talc",
+                "qid": "Q134583",
+                "url": "https://en.wikipedia.org/wiki/Talc"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "conservative management",
+                "qid": "Q13495660",
+                "url": "https://en.wikipedia.org/wiki/Conservative_treatment"
+            },
+            {
+                "name": "pleurodesis",
+                "qid": "Q1229945",
+                "url": "https://en.wikipedia.org/wiki/Pleurodesis"
+            },
+            {
+                "name": "chest tube",
+                "qid": "Q1969019",
+                "url": "https://en.wikipedia.org/wiki/Chest_tube"
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "name": "reduction defects of upper limb",
+    "qid": "Q6000089",
+    "icd_10": "Q71",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "dysmelia",
+                "qid": "Q1269288",
+                "url": "https://en.wikipedia.org/wiki/Dysmelia"
+            },
+            {
+                "name": "hand and arm congenital deformity",
+                "qid": "Q20571563"
+            },
+            {
+                "name": "non-syndromic limb reduction defect",
+                "qid": "Q55788825"
+            }
+        ]
+    }
+}

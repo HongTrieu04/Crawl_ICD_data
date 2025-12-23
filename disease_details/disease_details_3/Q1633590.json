@@ -1,0 +1,49 @@
+{
+    "name": "pruritus ani",
+    "qid": "Q1633590",
+    "icd_10": "L29.0",
+    "description": "irritation of the skin of the anus, causing itching",
+    "aliases": [
+        "anal itching",
+        "itchy butt"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/DSCB4096%28anal%20worms%20or%20just%20toilet%20paper%20remainders%40%29.JPG",
+    "url": "https://en.wikipedia.org/wiki/Pruritus_ani",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "cortisol",
+                "qid": "Q190875",
+                "url": "https://en.wikipedia.org/wiki/Cortisol"
+            },
+            {
+                "name": "betamethasone",
+                "qid": "Q416132",
+                "url": "https://en.wikipedia.org/wiki/Betamethasone"
+            },
+            {
+                "name": "phenylephrine",
+                "qid": "Q421910",
+                "url": "https://en.wikipedia.org/wiki/Phenylephrine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "itch",
+                "qid": "Q199602",
+                "url": "https://en.wikipedia.org/wiki/Itch"
+            },
+            {
+                "name": "anal disease",
+                "qid": "Q56603543"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Mondor's disease",
+    "qid": "Q555816",
+    "icd_10": "I80.8",
+    "description": "medical condition",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Enfermedad%20de%20Mondor%20%28RPS%2007-12-2021%29%20cord%C3%B3n%20subcut%C3%A1neo%20en%20costado%20izquierdo%20del%20t%C3%B3rax.png",
+    "url": "https://en.wikipedia.org/wiki/Mondor%27s_disease",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "thrombophlebitis",
+                "qid": "Q377978",
+                "url": "https://en.wikipedia.org/wiki/Thrombophlebitis"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "family medicine",
+                "qid": "Q3505712",
+                "url": "https://en.wikipedia.org/wiki/Family_medicine"
+            }
+        ]
+    }
+}

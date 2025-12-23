@@ -1,0 +1,31 @@
+{
+    "name": "pervasive developmental disorder not otherwise specified",
+    "qid": "Q3288122",
+    "icd_10": "F84.9",
+    "description": "neurodevelopmental condition",
+    "aliases": [
+        "atypical autism",
+        "Other pervasive developmental disorders",
+        "PDD NOS",
+        "PDD-NOS",
+        "pervasive developmental disorder NOS"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ben%20Jigsaw%20Puzzle%20Puzzle%20Puzzle.png",
+    "url": "https://en.wikipedia.org/wiki/Pervasive_developmental_disorder_not_otherwise_specified",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "pervasive developmental disorder",
+                "qid": "Q6691991",
+                "url": "https://en.wikipedia.org/wiki/Pervasive_developmental_disorder"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ]
+    }
+}

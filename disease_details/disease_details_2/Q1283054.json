@@ -1,0 +1,39 @@
+{
+    "name": "hypochondroplasia",
+    "qid": "Q1283054",
+    "icd_10": "Q77.4",
+    "description": "osteochondrodysplasia that has material basis in mutation in the FGFR3 gene which affects ossification of cartilage and results in short limb dwarfism",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hypochondroplasia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "osteochondrodysplasia",
+                "qid": "Q3251367",
+                "url": "https://en.wikipedia.org/wiki/Osteochondrodysplasia"
+            },
+            {
+                "name": "genetic disease",
+                "qid": "Q200779",
+                "url": "https://en.wikipedia.org/wiki/Genetic_disorder"
+            },
+            {
+                "name": "autosomal dominant disease",
+                "qid": "Q18553439"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

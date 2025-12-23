@@ -1,0 +1,30 @@
+{
+    "name": "amniotic fluid embolism",
+    "qid": "Q1470833",
+    "icd_10": "O88.1",
+    "description": "potentially fatal complication of pregnancy",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Amniotic%20fluid%20embolism.jpg",
+    "url": "https://en.wikipedia.org/wiki/Amniotic_fluid_embolism",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "embolism",
+                "qid": "Q275466",
+                "url": "https://en.wikipedia.org/wiki/Embolism"
+            },
+            {
+                "name": "complications of pregnancy",
+                "qid": "Q2916477",
+                "url": "https://en.wikipedia.org/wiki/Complications_of_pregnancy"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "obstetrics",
+                "qid": "Q5284418",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics"
+            }
+        ]
+    }
+}

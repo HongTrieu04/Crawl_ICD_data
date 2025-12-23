@@ -1,0 +1,69 @@
+{
+    "name": "inflammatory myopathy",
+    "qid": "Q4117658",
+    "icd_10": "M33",
+    "description": "muscle disease",
+    "aliases": [
+        "inflammatory muscle disease"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Inflammatory_myopathy",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "methocarbamol",
+                "qid": "Q411456",
+                "url": "https://en.wikipedia.org/wiki/Methocarbamol"
+            },
+            {
+                "name": "carisoprodol",
+                "qid": "Q416905",
+                "url": "https://en.wikipedia.org/wiki/Carisoprodol"
+            },
+            {
+                "name": "chlorphenesin",
+                "qid": "Q5103226",
+                "url": "https://en.wikipedia.org/wiki/Chlorphenesin_carbamate"
+            },
+            {
+                "name": "cyclobenzaprine",
+                "qid": "Q5198674",
+                "url": "https://en.wikipedia.org/wiki/Cyclobenzaprine"
+            },
+            {
+                "name": "metaxalone",
+                "qid": "Q6823309",
+                "url": "https://en.wikipedia.org/wiki/Metaxalone"
+            },
+            {
+                "name": "tizanidine",
+                "qid": "Q423538",
+                "url": "https://en.wikipedia.org/wiki/Tizanidine"
+            },
+            {
+                "name": "orphenadrine",
+                "qid": "Q3292273",
+                "url": "https://en.wikipedia.org/wiki/Orphenadrine"
+            },
+            {
+                "name": "chlorzoxazone",
+                "qid": "Q3294630",
+                "url": "https://en.wikipedia.org/wiki/Chlorzoxazone"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "myositis",
+                "qid": "Q1433212",
+                "url": "https://en.wikipedia.org/wiki/Myositis"
+            }
+        ]
+    }
+}

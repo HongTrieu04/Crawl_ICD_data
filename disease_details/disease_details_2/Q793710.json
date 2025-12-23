@@ -1,0 +1,18 @@
+{
+    "name": "acetabular fracture",
+    "qid": "Q793710",
+    "icd_10": "S32.4",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Acetabular_fracture",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "bone fracture",
+                "qid": "Q68833",
+                "url": "https://en.wikipedia.org/wiki/Bone_fracture"
+            }
+        ]
+    }
+}

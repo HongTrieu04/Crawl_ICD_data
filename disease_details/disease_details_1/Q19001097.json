@@ -1,0 +1,22 @@
+{
+    "name": "ectopic calcitonin production",
+    "qid": "Q19001097",
+    "icd_10": "E34.2",
+    "description": "Human disease",
+    "aliases": [
+        "Ectopic calcitonin production (finding)",
+        "Ectopic Calcitonin Secretion",
+        "obsolete ectopic calcitonin production"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "endocrine system disease",
+                "qid": "Q2661443",
+                "url": "https://en.wikipedia.org/wiki/Endocrine_disease"
+            }
+        ]
+    }
+}

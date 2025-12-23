@@ -1,0 +1,138 @@
+{
+    "name": "vulvovaginal candidiasis",
+    "qid": "Q977090",
+    "icd_10": "B37.3",
+    "description": "excessive growth of yeast in the vagina that results in irritation",
+    "aliases": [
+        "Candidal vulvovaginitis",
+        "Candidal vulvovaginitis (disorder)",
+        "Candidal vulvovaginitis NOS (disorder)",
+        "Candidal: [vulvovaginitis NOS] or [cervix]",
+        "Candidal: cervix",
+        "Candidiasis of vulva and vagina",
+        "genital candidiasis",
+        "Monilial vulvovaginitis",
+        "Vaginal Candidiasis",
+        "vaginal thrush",
+        "vaginal yeast infection",
+        "Vulvovaginal Candidiasis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Speculum%20exam%20in%20candidal%20vulvovaginitis.jpg",
+    "url": "https://en.wikipedia.org/wiki/Vaginal_yeast_infection",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "candidiasis",
+                "qid": "Q273510",
+                "url": "https://en.wikipedia.org/wiki/Candidiasis"
+            },
+            {
+                "name": "vaginal disease",
+                "qid": "Q18211693",
+                "url": "https://en.wikipedia.org/wiki/Vaginal_disease"
+            },
+            {
+                "name": "vulvovaginitis",
+                "qid": "Q2535470"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "swelling",
+                "qid": "Q109186",
+                "url": "https://en.wikipedia.org/wiki/Swelling_(medical)"
+            },
+            {
+                "name": "rash",
+                "qid": "Q653197",
+                "url": "https://en.wikipedia.org/wiki/Rash"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "vagina",
+                "qid": "Q5880",
+                "url": "https://en.wikipedia.org/wiki/Vagina"
+            },
+            {
+                "name": "vulva",
+                "qid": "Q2192288",
+                "url": "https://en.wikipedia.org/wiki/Vulva"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "ketoconazole",
+                "qid": "Q407883",
+                "url": "https://en.wikipedia.org/wiki/Ketoconazole"
+            },
+            {
+                "name": "miconazole",
+                "qid": "Q410534",
+                "url": "https://en.wikipedia.org/wiki/Miconazole"
+            },
+            {
+                "name": "itraconazole",
+                "qid": "Q411229",
+                "url": "https://en.wikipedia.org/wiki/Itraconazole"
+            },
+            {
+                "name": "nystatin",
+                "qid": "Q251005",
+                "url": "https://en.wikipedia.org/wiki/Nystatin"
+            },
+            {
+                "name": "tioconazole",
+                "qid": "Q260326",
+                "url": "https://en.wikipedia.org/wiki/Tioconazole"
+            },
+            {
+                "name": "butoconazole",
+                "qid": "Q2928948",
+                "url": "https://en.wikipedia.org/wiki/Butoconazole"
+            },
+            {
+                "name": "terconazole",
+                "qid": "Q7701687",
+                "url": "https://en.wikipedia.org/wiki/Terconazole"
+            },
+            {
+                "name": "fluconazole",
+                "qid": "Q411478",
+                "url": "https://en.wikipedia.org/wiki/Fluconazole"
+            },
+            {
+                "name": "clotrimazole",
+                "qid": "Q413546",
+                "url": "https://en.wikipedia.org/wiki/Clotrimazole"
+            },
+            {
+                "name": "crystal violet",
+                "qid": "Q420705",
+                "url": "https://en.wikipedia.org/wiki/Crystal_violet"
+            },
+            {
+                "name": "sulfanilamide",
+                "qid": "Q423423",
+                "url": "https://en.wikipedia.org/wiki/Sulfanilamide"
+            },
+            {
+                "name": "Momordica charantia",
+                "qid": "Q428750",
+                "url": "https://en.wikipedia.org/wiki/Momordica_charantia"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gynaecology",
+                "qid": "Q1221899",
+                "url": "https://en.wikipedia.org/wiki/Gynaecology"
+            }
+        ]
+    }
+}

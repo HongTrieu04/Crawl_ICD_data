@@ -1,0 +1,22 @@
+{
+    "name": "internal hirudiniasis",
+    "qid": "Q55790470",
+    "icd_10": "B83.4",
+    "description": "A condition resulting from accidental ingestion of leeches in drinking water. They may attach themselves to the wall of the pharynx, nasal cavity, or larynx.",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "leech infestation",
+                "qid": "Q4138959",
+                "url": "https://en.wikipedia.org/wiki/Leech_bite"
+            },
+            {
+                "name": "upper respiratory tract disease",
+                "qid": "Q18558209"
+            }
+        ]
+    }
+}

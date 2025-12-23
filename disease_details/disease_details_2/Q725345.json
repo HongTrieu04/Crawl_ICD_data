@@ -1,0 +1,118 @@
+{
+    "name": "Kaposi's sarcoma",
+    "qid": "Q725345",
+    "icd_10": "C46",
+    "description": "connective tissue cancer, common among early AIDS patients",
+    "aliases": [
+        "KS",
+        "Kaposi sarcoma",
+        "Kaposi's sarcoma-associated herpesvirus (KSHV)",
+        "multiple hemorrhagic sarcoma"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kaposi%E2%80%99s%20sarcoma%20intraoral%20AIDS%20072%20lores.jpg",
+    "url": "https://en.wikipedia.org/wiki/Kaposi%27s_sarcoma",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "viral infectious disease",
+                "qid": "Q1928978",
+                "url": "https://en.wikipedia.org/wiki/Viral_disease"
+            },
+            {
+                "name": "connective tissue neoplasm",
+                "qid": "Q3542012",
+                "url": "https://en.wikipedia.org/wiki/Connective_tissue_neoplasm"
+            },
+            {
+                "name": "human herpesvirus 8 infectious disease",
+                "qid": "Q18975234"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "tumor",
+                "qid": "Q133212",
+                "url": "https://en.wikipedia.org/wiki/Tumor"
+            },
+            {
+                "name": "metastasis",
+                "qid": "Q181876",
+                "url": "https://en.wikipedia.org/wiki/Metastasis"
+            },
+            {
+                "name": "lymphadenopathy",
+                "qid": "Q847726",
+                "url": "https://en.wikipedia.org/wiki/Lymphadenopathy"
+            },
+            {
+                "name": "cachexia",
+                "qid": "Q6003455",
+                "url": "https://en.wikipedia.org/wiki/Cachexia"
+            },
+            {
+                "name": "poisoning",
+                "qid": "Q114953"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "dactinomycin",
+                "qid": "Q186127",
+                "url": "https://en.wikipedia.org/wiki/Dactinomycin"
+            },
+            {
+                "name": "vinblastine",
+                "qid": "Q282629",
+                "url": "https://en.wikipedia.org/wiki/Vinblastine"
+            },
+            {
+                "name": "etoposide",
+                "qid": "Q418817",
+                "url": "https://en.wikipedia.org/wiki/Etoposide"
+            },
+            {
+                "name": "paclitaxel",
+                "qid": "Q423762",
+                "url": "https://en.wikipedia.org/wiki/Paclitaxel"
+            },
+            {
+                "name": "alitretinoin",
+                "qid": "Q3611854",
+                "url": "https://en.wikipedia.org/wiki/Alitretinoin"
+            },
+            {
+                "name": "daunorubicin citrate",
+                "qid": "Q27262517"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Kaposi's sarcoma-associated herpesvirus",
+                "qid": "Q983850",
+                "url": "https://en.wikipedia.org/wiki/Kaposi%27s_sarcoma-associated_herpesvirus"
+            },
+            {
+                "name": "carcinogenesis",
+                "qid": "Q1637543",
+                "url": "https://en.wikipedia.org/wiki/Carcinogenesis"
+            }
+        ]
+    }
+}

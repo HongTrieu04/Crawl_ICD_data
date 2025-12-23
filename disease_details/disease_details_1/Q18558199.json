@@ -1,0 +1,39 @@
+{
+    "name": "vitreous disease",
+    "qid": "Q18558199",
+    "icd_10": "H43",
+    "description": "eye and adnexa disease that is located in the vitreous of the eye",
+    "aliases": [
+        "disease of vitreous humor",
+        "disorder of vitreous humor",
+        "Vitreous disorder",
+        "vitreous humor disease"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Anatomical location": [
+            {
+                "name": "vitreous humour",
+                "qid": "Q326710",
+                "url": "https://en.wikipedia.org/wiki/Vitreous_body"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "connective tissue disease",
+                "qid": "Q1779300",
+                "url": "https://en.wikipedia.org/wiki/Connective_tissue_disease"
+            },
+            {
+                "name": "eye disease",
+                "qid": "Q3041498",
+                "url": "https://en.wikipedia.org/wiki/Eye_disease"
+            },
+            {
+                "name": "eye and adnexa disease",
+                "qid": "Q18554821"
+            }
+        ]
+    }
+}

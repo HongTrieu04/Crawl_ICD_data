@@ -1,0 +1,51 @@
+{
+    "name": "supine hypotensive syndrome",
+    "qid": "Q18553889",
+    "icd_10": "O26.5",
+    "description": "vascular disease that is characterized by severe supine hypotension in late pregnancy, whose clinical presentation ranges from minimal cardiovascular alterations to severe shock, resulting from inferior vena cava compression by gravid uterus",
+    "aliases": [
+        "antepartum maternal hypotension syndrome",
+        "postpartum maternal hypotension syndrome"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Cause": [
+            {
+                "name": "aortocaval compression syndrome",
+                "qid": "Q4778771",
+                "url": "https://en.wikipedia.org/wiki/Aortocaval_compression_syndrome"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "obstetrics",
+                "qid": "Q5284418",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "shock",
+                "qid": "Q178061",
+                "url": "https://en.wikipedia.org/wiki/Shock_(circulatory)"
+            },
+            {
+                "name": "vascular alteration",
+                "qid": "Q102186567"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "vascular disease",
+                "qid": "Q1266890",
+                "url": "https://en.wikipedia.org/wiki/Vascular_disease"
+            },
+            {
+                "name": "complications of pregnancy",
+                "qid": "Q2916477",
+                "url": "https://en.wikipedia.org/wiki/Complications_of_pregnancy"
+            }
+        ]
+    }
+}

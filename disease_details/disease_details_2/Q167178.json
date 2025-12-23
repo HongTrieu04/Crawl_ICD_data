@@ -1,0 +1,104 @@
+{
+    "name": "scabies",
+    "qid": "Q167178",
+    "icd_10": "B86",
+    "description": "human disease",
+    "aliases": [
+        "infestation by Sarcoptes scabiei",
+        "infestation by Sarcoptes scabiei var hominis",
+        "Manqa",
+        "Sarcoptic itch"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sarcoptes%20scabei%202.jpg",
+    "url": "https://en.wikipedia.org/wiki/Scabies",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "neglected tropical disease",
+                "qid": "Q929451",
+                "url": "https://en.wikipedia.org/wiki/Neglected_tropical_diseases"
+            },
+            {
+                "name": "acariasis",
+                "qid": "Q337998",
+                "url": "https://en.wikipedia.org/wiki/Acariasis"
+            },
+            {
+                "name": "skin infection",
+                "qid": "Q2458539",
+                "url": "https://en.wikipedia.org/wiki/Skin_infection"
+            },
+            {
+                "name": "infectious disease",
+                "qid": "Q18123741",
+                "url": "https://en.wikipedia.org/wiki/Infectious_disease"
+            },
+            {
+                "name": "acarodermatitis",
+                "qid": "Q4059324"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "itch",
+                "qid": "Q199602",
+                "url": "https://en.wikipedia.org/wiki/Itch"
+            },
+            {
+                "name": "rash",
+                "qid": "Q653197",
+                "url": "https://en.wikipedia.org/wiki/Rash"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "ivermectin",
+                "qid": "Q415178",
+                "url": "https://en.wikipedia.org/wiki/Ivermectin"
+            },
+            {
+                "name": "piperonyl butoxide",
+                "qid": "Q420891",
+                "url": "https://en.wikipedia.org/wiki/Piperonyl_butoxide"
+            },
+            {
+                "name": "lindane",
+                "qid": "Q282003",
+                "url": "https://en.wikipedia.org/wiki/Lindane"
+            },
+            {
+                "name": "permethrin",
+                "qid": "Q411635",
+                "url": "https://en.wikipedia.org/wiki/Permethrin"
+            },
+            {
+                "name": "(E)-crotamiton",
+                "qid": "Q2439845"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Sarcoptes scabiei",
+                "qid": "Q500869",
+                "url": "https://en.wikipedia.org/wiki/Sarcoptes_scabiei"
+            }
+        ]
+    }
+}

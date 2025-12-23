@@ -1,0 +1,76 @@
+{
+    "name": "subacute sclerosing panencephalitis",
+    "qid": "Q2475919",
+    "icd_10": "A81.1",
+    "description": "rare insidious sequela from measles infection",
+    "aliases": [
+        "Dawson disease",
+        "Dawson Encephalitis",
+        "Dawson's encephalitis",
+        "Immunosuppressive measles encephalitis",
+        "PANENCEPHALITIS, SUBACUTE SCLEROSING",
+        "SSPE",
+        "Subacute inclusion body encephalitis",
+        "Subacute sclerosing leukoencephalitis",
+        "subacute sclerosing leukoencephalopathy",
+        "Subacute sclerosing panencephalitis",
+        "Subacute Sclerosing Panencephalitis",
+        "Subacute sclerosing panencephalitis (disorder)",
+        "Subacute sclerosing panencephalitis (disorder) [Ambiguous]",
+        "Van Bogaert disease",
+        "Van Bogaert encephalitis",
+        "Van Bogaert's sclerosing leukoencephalitis",
+        "Van Bogaert's sclerosing leukoencephalitis (disorder)"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bonthius1b.gif",
+    "url": "https://en.wikipedia.org/wiki/Subacute_sclerosing_panencephalitis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "measles",
+                "qid": "Q79793",
+                "url": "https://en.wikipedia.org/wiki/Measles"
+            },
+            {
+                "name": "genetic disease",
+                "qid": "Q200779",
+                "url": "https://en.wikipedia.org/wiki/Genetic_disorder"
+            },
+            {
+                "name": "viral infectious disease",
+                "qid": "Q1928978",
+                "url": "https://en.wikipedia.org/wiki/Viral_disease"
+            },
+            {
+                "name": "infectious disease with epilepsy",
+                "qid": "Q55785635"
+            },
+            {
+                "name": "rare genetic epilepsy",
+                "qid": "Q55785842"
+            },
+            {
+                "name": "chronic encephalitis",
+                "qid": "Q55789100"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "acedoben sodium",
+                "qid": "Q27280825"
+            }
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name": "bezoar",
+    "qid": "Q851415",
+    "icd_10": "T18",
+    "description": "mass found trapped in the gastrointestinal system",
+    "aliases": [
+        "bezoars",
+        "gastrobezoar"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ring%20med%20besoarsten%2C%201600-tal%20-%20Livrustkammaren%20-%2098876.tif",
+    "url": "https://en.wikipedia.org/wiki/Bezoar",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "physical object",
+                "qid": "Q223557",
+                "url": "https://en.wikipedia.org/wiki/Physical_object"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Anotia",
+    "qid": "Q15057288",
+    "icd_10": "Q17.0",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Anotia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "agenesis",
+                "qid": "Q392604",
+                "url": "https://en.wikipedia.org/wiki/Agenesis"
+            },
+            {
+                "name": "microtia",
+                "qid": "Q1759560",
+                "url": "https://en.wikipedia.org/wiki/Microtia"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

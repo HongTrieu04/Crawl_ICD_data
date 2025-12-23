@@ -1,0 +1,93 @@
+{
+    "name": "acute beryllium poisoning",
+    "qid": "Q4896104",
+    "icd_10": "T56.7",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Acute_beryllium_poisoning",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "cyanosis",
+                "qid": "Q192120",
+                "url": "https://en.wikipedia.org/wiki/Cyanosis"
+            },
+            {
+                "name": "cough",
+                "qid": "Q35805",
+                "url": "https://en.wikipedia.org/wiki/Cough"
+            },
+            {
+                "name": "fatigue",
+                "qid": "Q9690",
+                "url": "https://en.wikipedia.org/wiki/Fatigue"
+            },
+            {
+                "name": "pulmonary valve insufficiency",
+                "qid": "Q3799243",
+                "url": "https://en.wikipedia.org/wiki/Pulmonary_regurgitation"
+            },
+            {
+                "name": "dermatitis",
+                "qid": "Q229256",
+                "url": "https://en.wikipedia.org/wiki/Dermatitis"
+            },
+            {
+                "name": "anorexia",
+                "qid": "Q254327",
+                "url": "https://en.wikipedia.org/wiki/Anorexia_(symptom)"
+            },
+            {
+                "name": "berylliosis",
+                "qid": "Q684810",
+                "url": "https://en.wikipedia.org/wiki/Berylliosis"
+            },
+            {
+                "name": "chest pain",
+                "qid": "Q693058",
+                "url": "https://en.wikipedia.org/wiki/Chest_pain"
+            },
+            {
+                "name": "weight loss",
+                "qid": "Q718113",
+                "url": "https://en.wikipedia.org/wiki/Weight_loss"
+            },
+            {
+                "name": "nail clubbing",
+                "qid": "Q1340669",
+                "url": "https://en.wikipedia.org/wiki/Nail_clubbing"
+            },
+            {
+                "name": "eye irritation",
+                "qid": "Q11820606"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "beryllium",
+                "qid": "Q569",
+                "url": "https://en.wikipedia.org/wiki/Beryllium"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "chemical hazard",
+                "qid": "Q21167512",
+                "url": "https://en.wikipedia.org/wiki/Chemical_hazard"
+            },
+            {
+                "name": "Beryllium poisoning",
+                "qid": "Q25114661",
+                "url": "https://en.wikipedia.org/wiki/Beryllium_poisoning"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ]
+    }
+}

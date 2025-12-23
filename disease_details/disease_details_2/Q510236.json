@@ -1,0 +1,37 @@
+{
+    "name": "neurasthenia",
+    "qid": "Q510236",
+    "icd_10": "F48.0",
+    "description": "psychopathological term to denote a condition with symptoms of fatigue, anxiety, headache, heart palpitations, high blood pressure, neuralgia, and depressed mood",
+    "aliases": [
+        "effort syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Neurasthenia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "psychotherapy",
+                "qid": "Q183257",
+                "url": "https://en.wikipedia.org/wiki/Psychotherapy"
+            },
+            {
+                "name": "psychology",
+                "qid": "Q9418",
+                "url": "https://en.wikipedia.org/wiki/Psychology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "somatic symptom disorder",
+                "qid": "Q936549",
+                "url": "https://en.wikipedia.org/wiki/Somatic_symptom_disorder"
+            }
+        ]
+    }
+}

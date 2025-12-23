@@ -1,0 +1,29 @@
+{
+    "name": "postpartum thyroiditis",
+    "qid": "Q16488",
+    "icd_10": "O90.5",
+    "description": "thyroid disease",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Postpartum_thyroiditis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "obstetrics",
+                "qid": "Q5284418",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "puerperal disorders",
+                "qid": "Q7258523",
+                "url": "https://en.wikipedia.org/wiki/Postpartum_disorder"
+            },
+            {
+                "name": "thyroid dysfunction complicating pregnancy, childbirth, or the puerperium",
+                "qid": "Q18966377"
+            }
+        ]
+    }
+}

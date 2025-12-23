@@ -1,0 +1,26 @@
+{
+    "name": "granuloma faciale",
+    "qid": "Q186488",
+    "icd_10": "L92.2",
+    "description": "medical condition",
+    "aliases": [
+        "eosinophilic granuloma of skin"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Granuloma_faciale",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "skin granuloma",
+                "qid": "Q21117568"
+            }
+        ]
+    }
+}

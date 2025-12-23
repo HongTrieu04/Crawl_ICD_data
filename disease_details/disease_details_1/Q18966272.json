@@ -1,0 +1,31 @@
+{
+    "name": "failed induction of labor",
+    "qid": "Q18966272",
+    "icd_10": "O61",
+    "description": "human disease",
+    "aliases": [
+        "failed induction",
+        "failed mechanical induction of labor, antepartum",
+        "obsolete failed induction",
+        "unsuccessful attempt to induce labor",
+        "unsuccessfully induced labor"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Cause": [
+            {
+                "name": "labor induction",
+                "qid": "Q1497276",
+                "url": "https://en.wikipedia.org/wiki/Labor_induction"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "obstetric labor complication",
+                "qid": "Q7075540",
+                "url": "https://en.wikipedia.org/wiki/Obstetric_labor_complication"
+            }
+        ]
+    }
+}

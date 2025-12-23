@@ -1,0 +1,20 @@
+{
+    "name": "medication induced tremor",
+    "qid": "Q113245042",
+    "icd_10": "G25.1",
+    "description": null,
+    "aliases": [
+        "drug induced tremor"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "tremor",
+                "qid": "Q223907",
+                "url": "https://en.wikipedia.org/wiki/Tremor"
+            }
+        ]
+    }
+}

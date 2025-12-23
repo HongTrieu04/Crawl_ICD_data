@@ -1,0 +1,25 @@
+{
+    "name": "bipolar disorder not otherwise specified",
+    "qid": "Q3540858",
+    "icd_10": "F31.9",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Bipolar_disorder_not_otherwise_specified",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "bipolar disorder",
+                "qid": "Q131755",
+                "url": "https://en.wikipedia.org/wiki/Bipolar_disorder"
+            }
+        ]
+    }
+}

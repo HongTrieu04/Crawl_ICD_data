@@ -1,0 +1,122 @@
+{
+    "name": "hepatitis E",
+    "qid": "Q326643",
+    "icd_10": "B17.2",
+    "description": "an inflammation of the liver caused by infection with the hepatitis E virus",
+    "aliases": [
+        "hepatitis type E"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hepatitis%20E%20virus.jpg",
+    "url": "https://en.wikipedia.org/wiki/Hepatitis_E",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "viral infectious disease",
+                "qid": "Q1928978",
+                "url": "https://en.wikipedia.org/wiki/Viral_disease"
+            },
+            {
+                "name": "viral hepatitis",
+                "qid": "Q1983841",
+                "url": "https://en.wikipedia.org/wiki/Viral_hepatitis"
+            },
+            {
+                "name": "Hepeviridae infectious disease",
+                "qid": "Q18928402"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "obstetrics and gynaecology",
+                "qid": "Q80015",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics_and_gynaecology"
+            },
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "vomiting",
+                "qid": "Q127076",
+                "url": "https://en.wikipedia.org/wiki/Vomiting"
+            },
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "hepatitis",
+                "qid": "Q131742",
+                "url": "https://en.wikipedia.org/wiki/Hepatitis"
+            },
+            {
+                "name": "jaundice",
+                "qid": "Q133244",
+                "url": "https://en.wikipedia.org/wiki/Jaundice"
+            },
+            {
+                "name": "nausea",
+                "qid": "Q186889",
+                "url": "https://en.wikipedia.org/wiki/Nausea"
+            },
+            {
+                "name": "anorexia",
+                "qid": "Q254327",
+                "url": "https://en.wikipedia.org/wiki/Anorexia_(symptom)"
+            },
+            {
+                "name": "hepatic encephalopathy",
+                "qid": "Q642548",
+                "url": "https://en.wikipedia.org/wiki/Hepatic_encephalopathy"
+            },
+            {
+                "name": "acute liver failure",
+                "qid": "Q1192530",
+                "url": "https://en.wikipedia.org/wiki/Acute_liver_failure"
+            },
+            {
+                "name": "hepatomegaly",
+                "qid": "Q1362864",
+                "url": "https://en.wikipedia.org/wiki/Hepatomegaly"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "ribavirin",
+                "qid": "Q421862",
+                "url": "https://en.wikipedia.org/wiki/Ribavirin"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "antiviral drug",
+                "qid": "Q846227",
+                "url": "https://en.wikipedia.org/wiki/Antiviral_drug"
+            },
+            {
+                "name": "detoxification",
+                "qid": "Q1090423",
+                "url": "https://en.wikipedia.org/wiki/Detoxification"
+            },
+            {
+                "name": "Q4532072",
+                "qid": "Q4532072"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "hepatitis E virus",
+                "qid": "Q5731737"
+            }
+        ]
+    }
+}

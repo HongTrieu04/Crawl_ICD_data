@@ -1,0 +1,74 @@
+{
+    "name": "eating disorder",
+    "qid": "Q373822",
+    "icd_10": "F50",
+    "description": "habit of eating either insufficient or excessive food, to the detriment of health",
+    "aliases": [
+        "ED",
+        "eating disorders",
+        "feeding and eating disorders",
+        "feeding disorder"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Eating_disorder",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "clinical psychology",
+                "qid": "Q199906",
+                "url": "https://en.wikipedia.org/wiki/Clinical_psychology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "nutrition disorder",
+                "qid": "Q1361144",
+                "url": "https://en.wikipedia.org/wiki/List_of_types_of_malnutrition"
+            },
+            {
+                "name": "specific developmental disorder",
+                "qid": "Q7574983",
+                "url": "https://en.wikipedia.org/wiki/Specific_developmental_disorder"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "psychotherapy",
+                "qid": "Q183257",
+                "url": "https://en.wikipedia.org/wiki/Psychotherapy"
+            },
+            {
+                "name": "psychomotor education",
+                "qid": "Q2116083",
+                "url": "https://en.wikipedia.org/wiki/Psychomotor_education"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "sertraline",
+                "qid": "Q407617",
+                "url": "https://en.wikipedia.org/wiki/Sertraline"
+            },
+            {
+                "name": "paroxetine",
+                "qid": "Q408471",
+                "url": "https://en.wikipedia.org/wiki/Paroxetine"
+            },
+            {
+                "name": "fluoxetine",
+                "qid": "Q422244",
+                "url": "https://en.wikipedia.org/wiki/Fluoxetine"
+            }
+        ]
+    }
+}

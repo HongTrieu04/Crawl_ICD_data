@@ -1,0 +1,25 @@
+{
+    "name": "erythema chronicum migrans",
+    "qid": "Q2558634",
+    "icd_10": "A69.2",
+    "description": "rash in several vector-borne diseases",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Erythemamigrans.jpg",
+    "url": "https://en.wikipedia.org/wiki/Erythema_migrans",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "clinical sign",
+                "qid": "Q1441305",
+                "url": "https://en.wikipedia.org/wiki/Clinical_sign"
+            }
+        ]
+    }
+}

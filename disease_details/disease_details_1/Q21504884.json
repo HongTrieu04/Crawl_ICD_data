@@ -1,0 +1,137 @@
+{
+    "name": "fentanyl toxicity",
+    "qid": "Q21504884",
+    "icd_10": "T40.2",
+    "description": "overdose of fentanyl",
+    "aliases": [
+        "fentanyl overdose"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Symptoms": [
+            {
+                "name": "coma",
+                "qid": "Q159557",
+                "url": "https://en.wikipedia.org/wiki/Coma"
+            },
+            {
+                "name": "shock",
+                "qid": "Q178061",
+                "url": "https://en.wikipedia.org/wiki/Shock_(circulatory)"
+            },
+            {
+                "name": "hypoxia",
+                "qid": "Q105688",
+                "url": "https://en.wikipedia.org/wiki/Hypoxia_(medicine)"
+            },
+            {
+                "name": "fatigue",
+                "qid": "Q9690",
+                "url": "https://en.wikipedia.org/wiki/Fatigue"
+            },
+            {
+                "name": "acidosis",
+                "qid": "Q185089",
+                "url": "https://en.wikipedia.org/wiki/Acidosis"
+            },
+            {
+                "name": "bradycardia",
+                "qid": "Q217111",
+                "url": "https://en.wikipedia.org/wiki/Bradycardia"
+            },
+            {
+                "name": "hypotension",
+                "qid": "Q275419",
+                "url": "https://en.wikipedia.org/wiki/Hypotension"
+            },
+            {
+                "name": "spasm",
+                "qid": "Q574360",
+                "url": "https://en.wikipedia.org/wiki/Spasm"
+            },
+            {
+                "name": "miosis",
+                "qid": "Q596899",
+                "url": "https://en.wikipedia.org/wiki/Miosis"
+            },
+            {
+                "name": "ileus",
+                "qid": "Q738153",
+                "url": "https://en.wikipedia.org/wiki/Ileus"
+            },
+            {
+                "name": "pulmonary edema",
+                "qid": "Q857667",
+                "url": "https://en.wikipedia.org/wiki/Pulmonary_edema"
+            },
+            {
+                "name": "hypoventilation",
+                "qid": "Q1641494",
+                "url": "https://en.wikipedia.org/wiki/Hypoventilation"
+            },
+            {
+                "name": "respiratory arrest",
+                "qid": "Q3774744",
+                "url": "https://en.wikipedia.org/wiki/Respiratory_arrest"
+            },
+            {
+                "name": "central nervous system depression",
+                "qid": "Q5062120",
+                "url": "https://en.wikipedia.org/wiki/Central_nervous_system_depression"
+            },
+            {
+                "name": "wooden chest",
+                "qid": "Q16873382",
+                "url": "https://en.wikipedia.org/wiki/Wooden_chest_syndrome"
+            },
+            {
+                "name": "muscle rigidity",
+                "qid": "Q1529977"
+            },
+            {
+                "name": "eye irritation",
+                "qid": "Q11820606"
+            },
+            {
+                "name": "intracranial hypertension",
+                "qid": "Q18558125"
+            },
+            {
+                "name": "gastric hypomotility",
+                "qid": "Q21504931"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "naloxone",
+                "qid": "Q282902",
+                "url": "https://en.wikipedia.org/wiki/Naloxone"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "fentanyl",
+                "qid": "Q407541",
+                "url": "https://en.wikipedia.org/wiki/Fentanyl"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "drug overdose",
+                "qid": "Q3505252",
+                "url": "https://en.wikipedia.org/wiki/Drug_overdose"
+            },
+            {
+                "name": "opioid overdose",
+                "qid": "Q17154378",
+                "url": "https://en.wikipedia.org/wiki/Opioid_overdose"
+            },
+            {
+                "name": "chemical hazard",
+                "qid": "Q21167512",
+                "url": "https://en.wikipedia.org/wiki/Chemical_hazard"
+            }
+        ]
+    }
+}

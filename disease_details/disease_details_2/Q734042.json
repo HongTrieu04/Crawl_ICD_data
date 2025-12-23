@@ -1,0 +1,34 @@
+{
+    "name": "paroxysmal cold hemoglobinuria",
+    "qid": "Q734042",
+    "icd_10": "D59.6",
+    "description": "medical condition",
+    "aliases": [
+        "PCH",
+        "Donath-Landsteiner hemolytic anemia",
+        "Donath-Landsteiner syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Paroxysmal_cold_hemoglobinuria",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "Cold autoimmune hemolytic anemia",
+                "qid": "Q9615018",
+                "url": "https://en.wikipedia.org/wiki/Cold_autoimmune_hemolytic_anemia"
+            },
+            {
+                "name": "hemoglobinuria",
+                "qid": "Q1553850",
+                "url": "https://en.wikipedia.org/wiki/Hemoglobinuria"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            }
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "name": "deformity of chest and rib",
+    "qid": "Q25377767",
+    "icd_10": "M95.4",
+    "description": "human disease",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "deformity",
+                "qid": "Q1182746",
+                "url": "https://en.wikipedia.org/wiki/Deformity"
+            },
+            {
+                "name": "respiratory or thoracic malformation",
+                "qid": "Q55789043"
+            }
+        ]
+    }
+}

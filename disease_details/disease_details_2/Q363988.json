@@ -1,0 +1,25 @@
+{
+    "name": "neonatal conjunctivitis",
+    "qid": "Q363988",
+    "icd_10": "P39.1",
+    "description": "eye infection shortly after birth",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gonococcal%20ophthalmia%20neonatorum.jpg",
+    "url": "https://en.wikipedia.org/wiki/Neonatal_conjunctivitis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "pediatrics",
+                "qid": "Q123028",
+                "url": "https://en.wikipedia.org/wiki/Pediatrics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "conjunctivitis",
+                "qid": "Q167844",
+                "url": "https://en.wikipedia.org/wiki/Conjunctivitis"
+            }
+        ]
+    }
+}

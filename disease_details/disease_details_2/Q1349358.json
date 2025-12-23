@@ -1,0 +1,33 @@
+{
+    "name": "sedentary lifestyle",
+    "qid": "Q1349358",
+    "icd_10": "Z72.3",
+    "description": "inactive lifestyle with health risks",
+    "aliases": [
+        "lack of exercise",
+        "lack of movement",
+        "lack of physical exercise",
+        "physical inactivity",
+        "sedentary behavior"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sofa%20-%20Delapouite%20-%20game-icons.svg",
+    "url": "https://en.wikipedia.org/wiki/Sedentary_lifestyle",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "risk factor",
+                "qid": "Q1475848",
+                "url": "https://en.wikipedia.org/wiki/Risk_factor"
+            },
+            {
+                "name": "human behavior",
+                "qid": "Q3769299",
+                "url": "https://en.wikipedia.org/wiki/Human_behavior"
+            },
+            {
+                "name": "unhealthy lifestyle",
+                "qid": "Q113377923"
+            }
+        ]
+    }
+}

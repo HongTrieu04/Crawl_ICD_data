@@ -1,0 +1,28 @@
+{
+    "name": "Idiopathic pure sudomotor failure",
+    "qid": "Q5988903",
+    "icd_10": "L74.8",
+    "description": "medical condition",
+    "aliases": [
+        "Acquired idiopathic generalized anhidrosis",
+        "Idiopathic acquired systemic anhidrosis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Idiopathic_pure_sudomotor_failure",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "Acquired idiopathic generalized anhidrosis",
+                "qid": "Q16975956",
+                "url": "https://en.wikipedia.org/wiki/Acquired_idiopathic_generalized_anhidrosis"
+            }
+        ]
+    }
+}

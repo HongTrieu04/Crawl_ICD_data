@@ -1,0 +1,27 @@
+{
+    "name": "pilonidal cyst",
+    "qid": "Q961331",
+    "icd_10": "L05",
+    "description": "hair-containing cyst or sinus, occurring chiefly in the coccygeal region",
+    "aliases": [
+        "pilonidal sinus"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Two%20pilonidal%20cysts%20in%20the%20natal%20cleft.jpg",
+    "url": "https://en.wikipedia.org/wiki/Pilonidal_disease",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "genetic disease",
+                "qid": "Q200779",
+                "url": "https://en.wikipedia.org/wiki/Genetic_disorder"
+            }
+        ]
+    }
+}

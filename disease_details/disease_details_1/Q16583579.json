@@ -1,0 +1,22 @@
+{
+    "name": "traumatic pneumothorax",
+    "qid": "Q16583579",
+    "icd_10": "S27.0",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "pneumothorax",
+                "qid": "Q203601",
+                "url": "https://en.wikipedia.org/wiki/Pneumothorax"
+            },
+            {
+                "name": "pulmonary injury",
+                "qid": "Q7259546"
+            }
+        ]
+    }
+}

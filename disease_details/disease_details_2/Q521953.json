@@ -1,0 +1,28 @@
+{
+    "name": "anisocoria",
+    "qid": "Q521953",
+    "icd_10": "H57.0",
+    "description": "condition characterized by an unequal size of the eyes' pupils",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Anizokoria.JPG",
+    "url": "https://en.wikipedia.org/wiki/Anisocoria",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "pupil disorder",
+                "qid": "Q18555067"
+            },
+            {
+                "name": "eye symptom",
+                "qid": "Q102186610"
+            }
+        ]
+    }
+}

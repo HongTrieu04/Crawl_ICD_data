@@ -1,0 +1,22 @@
+{
+    "name": "colour vision deficiency",
+    "qid": "Q471812",
+    "icd_10": "H53.5",
+    "description": "human disease",
+    "aliases": [
+        "protanomaly",
+        "color blindness",
+        "color vision defect"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Colour_vision_deficiency",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "vision disorder",
+                "qid": "Q767669",
+                "url": "https://en.wikipedia.org/wiki/Vision_disorder"
+            }
+        ]
+    }
+}

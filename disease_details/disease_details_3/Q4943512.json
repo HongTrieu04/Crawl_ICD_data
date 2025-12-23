@@ -1,0 +1,37 @@
+{
+    "name": "Boomerang dysplasia",
+    "qid": "Q4943512",
+    "icd_10": "Q68.5",
+    "description": "Human disease",
+    "aliases": [
+        "BOOMERANG DYSPLASIA",
+        "Boomerang-like skeletal dysplasia",
+        "Dwarfism with short, bowed, rigid limbs and characteristic facies"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Boomerang_dysplasia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "osteochondrodysplasia",
+                "qid": "Q3251367",
+                "url": "https://en.wikipedia.org/wiki/Osteochondrodysplasia"
+            },
+            {
+                "name": "filamin-related bone disorder",
+                "qid": "Q55788802"
+            },
+            {
+                "name": "primary bone dysplasia with multiple joint dislocations",
+                "qid": "Q55788812"
+            }
+        ]
+    }
+}

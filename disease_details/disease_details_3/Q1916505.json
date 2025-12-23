@@ -1,0 +1,60 @@
+{
+    "name": "alpha chain disease",
+    "qid": "Q1916505",
+    "icd_10": "C88.3",
+    "description": "heavy chain disease that results from an overproduction of alpha antibodies (IgA)",
+    "aliases": [
+        "Alpha Heavy Chain Disease",
+        "Alpha-HCD",
+        "immunoproliferative small intestinal disease",
+        "Immunoproliferative Small Intestinal Disease",
+        "IPSID",
+        "Mediterranean Abdominal Lymphoma",
+        "Mediterranean lymphoma",
+        "Mediterraneanl Lymphoma",
+        "Seligmann's disease"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "immunology",
+                "qid": "Q101929",
+                "url": "https://en.wikipedia.org/wiki/Immunology"
+            },
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            },
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            },
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            },
+            {
+                "name": "angiology",
+                "qid": "Q539690",
+                "url": "https://en.wikipedia.org/wiki/Angiology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "heavy chain disease",
+                "qid": "Q3281328",
+                "url": "https://en.wikipedia.org/wiki/Heavy_chain_disease"
+            },
+            {
+                "name": "intestinal neoplasm",
+                "qid": "Q16116595",
+                "url": "https://en.wikipedia.org/wiki/Intestinal_tumors"
+            }
+        ]
+    }
+}

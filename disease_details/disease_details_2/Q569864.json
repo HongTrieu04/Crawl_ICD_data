@@ -1,0 +1,34 @@
+{
+    "name": "cardiac asthma",
+    "qid": "Q569864",
+    "icd_10": "I50.1",
+    "description": "medical diagnosis of wheezing, coughing or shortness of breath due to congestive heart failure",
+    "aliases": [
+        "asthma cardiale"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Cardiac_asthma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "heart disease",
+                "qid": "Q190805",
+                "url": "https://en.wikipedia.org/wiki/Heart_disease"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "nesiritide",
+                "qid": "Q6997373",
+                "url": "https://en.wikipedia.org/wiki/Nesiritide"
+            }
+        ]
+    }
+}

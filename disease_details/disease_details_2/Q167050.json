@@ -1,0 +1,38 @@
+{
+    "name": "Sertoli cell-only syndrome",
+    "qid": "Q167050",
+    "icd_10": "N46.01",
+    "description": "Human disease",
+    "aliases": [
+        "DEL CASTILLO SYNDROME",
+        "Germinal Cell Aplasia",
+        "Sertoli Cell-Only Syndrome",
+        "SPERMATOGENIC FAILURE, X-LINKED, 1",
+        "SPERMATOGENIC FAILURE, X-LINKED, 1; SPGFX1",
+        "Spermatogenic Failure, X-Linked, type 1",
+        "SPGFX1"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Sertoli_cell-only_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "andrology",
+                "qid": "Q335057",
+                "url": "https://en.wikipedia.org/wiki/Andrology"
+            },
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "male infertility",
+                "qid": "Q280156",
+                "url": "https://en.wikipedia.org/wiki/Male_infertility"
+            }
+        ]
+    }
+}

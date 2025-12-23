@@ -1,0 +1,22 @@
+{
+    "name": "opioid-induced constipation",
+    "qid": "Q97380251",
+    "icd_10": "K59.02",
+    "description": null,
+    "aliases": [
+        "OIC",
+        "OIBD",
+        "opioid-induced bowel dysfunction"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "constipation",
+                "qid": "Q178436",
+                "url": "https://en.wikipedia.org/wiki/Constipation"
+            }
+        ]
+    }
+}

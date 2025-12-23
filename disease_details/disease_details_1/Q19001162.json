@@ -1,0 +1,37 @@
+{
+    "name": "carcinoma in situ of digestive organ",
+    "qid": "Q19001162",
+    "icd_10": "D01.9",
+    "description": "Human disease",
+    "aliases": [
+        "carcinoma in situ of digestive organ (disorder)",
+        "carcinoma in situ of digestive organ NOS",
+        "carcinoma in situ of digestive organ, unspecified (disorder)",
+        "carcinoma in situ of digestive organs",
+        "carcinoma in situ of digestive organs NOS (disorder)",
+        "carcinoma in situ of other and unspecified digestive organs (disorder)",
+        "obsolete carcinoma in situ of digestive organ"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "in situ carcinoma",
+                "qid": "Q1035645",
+                "url": "https://en.wikipedia.org/wiki/Carcinoma_in_situ"
+            },
+            {
+                "name": "gastrointestinal carcinoma",
+                "qid": "Q18553565"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "human digestive system",
+                "qid": "Q9649",
+                "url": "https://en.wikipedia.org/wiki/Human_digestive_system"
+            }
+        ]
+    }
+}

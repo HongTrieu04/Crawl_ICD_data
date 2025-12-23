@@ -1,0 +1,21 @@
+{
+    "name": "Atrophoderma of Pasini and Pierini",
+    "qid": "Q4817694",
+    "icd_10": "L90.3",
+    "description": null,
+    "aliases": [
+        "Congenital atrophoderma of Pasini and Pierini",
+        "Idiopathic atrophoderma of Pasini and Pierini"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Atrophoderma_of_Pasini_and_Pierini",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "localized scleroderma",
+                "qid": "Q3324389",
+                "url": "https://en.wikipedia.org/wiki/Morphea"
+            }
+        ]
+    }
+}

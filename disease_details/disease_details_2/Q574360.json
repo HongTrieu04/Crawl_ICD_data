@@ -1,0 +1,82 @@
+{
+    "name": "spasm",
+    "qid": "Q574360",
+    "icd_10": "R25.22",
+    "description": "involuntary contraction of a muscle, organ or orifice",
+    "aliases": [
+        "muscle spasm",
+        "muscular spasm"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Spasm",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "muscle contraction",
+                "qid": "Q127006",
+                "url": "https://en.wikipedia.org/wiki/Muscle_contraction"
+            },
+            {
+                "name": "clinical sign",
+                "qid": "Q1441305",
+                "url": "https://en.wikipedia.org/wiki/Clinical_sign"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "methocarbamol",
+                "qid": "Q411456",
+                "url": "https://en.wikipedia.org/wiki/Methocarbamol"
+            },
+            {
+                "name": "hyoscyamine",
+                "qid": "Q413762",
+                "url": "https://en.wikipedia.org/wiki/Hyoscyamine"
+            },
+            {
+                "name": "carisoprodol",
+                "qid": "Q416905",
+                "url": "https://en.wikipedia.org/wiki/Carisoprodol"
+            },
+            {
+                "name": "meprobamate",
+                "qid": "Q418351",
+                "url": "https://en.wikipedia.org/wiki/Meprobamate"
+            },
+            {
+                "name": "tizanidine",
+                "qid": "Q423538",
+                "url": "https://en.wikipedia.org/wiki/Tizanidine"
+            },
+            {
+                "name": "orphenadrine",
+                "qid": "Q3292273",
+                "url": "https://en.wikipedia.org/wiki/Orphenadrine"
+            },
+            {
+                "name": "chlorzoxazone",
+                "qid": "Q3294630",
+                "url": "https://en.wikipedia.org/wiki/Chlorzoxazone"
+            },
+            {
+                "name": "chlorphenesin",
+                "qid": "Q5103226",
+                "url": "https://en.wikipedia.org/wiki/Chlorphenesin_carbamate"
+            },
+            {
+                "name": "cyclobenzaprine",
+                "qid": "Q5198674",
+                "url": "https://en.wikipedia.org/wiki/Cyclobenzaprine"
+            },
+            {
+                "name": "metaxalone",
+                "qid": "Q6823309",
+                "url": "https://en.wikipedia.org/wiki/Metaxalone"
+            },
+            {
+                "name": "propanthelinium",
+                "qid": "Q3275451"
+            }
+        ]
+    }
+}

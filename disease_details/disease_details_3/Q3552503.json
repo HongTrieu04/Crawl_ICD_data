@@ -1,0 +1,30 @@
+{
+    "name": "cold urticaria",
+    "qid": "Q3552503",
+    "icd_10": "L50.2",
+    "description": "allergic reaction to low temperatures",
+    "aliases": [
+        "Cold contact urticaria",
+        "Primary cold contact urticaria",
+        "Primary idiopathic cold urticaria",
+        "Urticaria idiopathic cold"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cold%20urticaria3.jpg",
+    "url": "https://en.wikipedia.org/wiki/Cold_urticaria",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "urticaria",
+                "qid": "Q187440",
+                "url": "https://en.wikipedia.org/wiki/Hives"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ]
+    }
+}

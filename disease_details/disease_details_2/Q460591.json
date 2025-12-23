@@ -1,0 +1,171 @@
+{
+    "name": "decompression sickness",
+    "qid": "Q460591",
+    "icd_10": "T70.3",
+    "description": "disorder caused by dissolved gases emerging from solution",
+    "aliases": [
+        "barotrauma",
+        "DCS",
+        "aerobullosis",
+        "aeroembolism",
+        "caisson disease",
+        "divers' disease",
+        "the bends"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Decompression%20chamber.jpg",
+    "url": "https://en.wikipedia.org/wiki/Decompression_sickness",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            },
+            {
+                "name": "fatigue",
+                "qid": "Q9690",
+                "url": "https://en.wikipedia.org/wiki/Fatigue"
+            },
+            {
+                "name": "deafness",
+                "qid": "Q12133",
+                "url": "https://en.wikipedia.org/wiki/Deafness"
+            },
+            {
+                "name": "amnesia",
+                "qid": "Q11072",
+                "url": "https://en.wikipedia.org/wiki/Amnesia"
+            },
+            {
+                "name": "pain",
+                "qid": "Q81938",
+                "url": "https://en.wikipedia.org/wiki/Pain"
+            },
+            {
+                "name": "arthralgia",
+                "qid": "Q683498",
+                "url": "https://en.wikipedia.org/wiki/Arthralgia"
+            },
+            {
+                "name": "itch",
+                "qid": "Q199602",
+                "url": "https://en.wikipedia.org/wiki/Itch"
+            },
+            {
+                "name": "mental confusion",
+                "qid": "Q557945",
+                "url": "https://en.wikipedia.org/wiki/Confusion"
+            },
+            {
+                "name": "hyperesthesia",
+                "qid": "Q1638131",
+                "url": "https://en.wikipedia.org/wiki/Hyperesthesia"
+            },
+            {
+                "name": "paresthesia",
+                "qid": "Q769220",
+                "url": "https://en.wikipedia.org/wiki/Paresthesia"
+            },
+            {
+                "name": "convulsion",
+                "qid": "Q852376",
+                "url": "https://en.wikipedia.org/wiki/Convulsion"
+            },
+            {
+                "name": "paralysis",
+                "qid": "Q107231",
+                "url": "https://en.wikipedia.org/wiki/Paralysis"
+            },
+            {
+                "name": "vomiting",
+                "qid": "Q127076",
+                "url": "https://en.wikipedia.org/wiki/Vomiting"
+            },
+            {
+                "name": "nausea",
+                "qid": "Q186889",
+                "url": "https://en.wikipedia.org/wiki/Nausea"
+            },
+            {
+                "name": "dyspnea",
+                "qid": "Q188008",
+                "url": "https://en.wikipedia.org/wiki/Shortness_of_breath"
+            },
+            {
+                "name": "formication",
+                "qid": "Q5470185",
+                "url": "https://en.wikipedia.org/wiki/Formication"
+            },
+            {
+                "name": "mood swing",
+                "qid": "Q7933601",
+                "url": "https://en.wikipedia.org/wiki/Mood_swing"
+            },
+            {
+                "name": "vertigo",
+                "qid": "Q10686316",
+                "url": "https://en.wikipedia.org/wiki/Vertigo"
+            },
+            {
+                "name": "dizziness",
+                "qid": "Q10916362",
+                "url": "https://en.wikipedia.org/wiki/Dizziness"
+            },
+            {
+                "name": "unconsciousness",
+                "qid": "Q12829165",
+                "url": "https://en.wikipedia.org/wiki/Unconsciousness"
+            },
+            {
+                "name": "visual disturbance",
+                "qid": "Q2266426"
+            },
+            {
+                "name": "impairment of continence",
+                "qid": "Q3232712"
+            },
+            {
+                "name": "godet sign",
+                "qid": "Q3954319"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "occupational medicine",
+                "qid": "Q628764",
+                "url": "https://en.wikipedia.org/wiki/Occupational_medicine"
+            },
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            },
+            {
+                "name": "hyperbaric medicine",
+                "qid": "Q731615",
+                "url": "https://en.wikipedia.org/wiki/Hyperbaric_medicine"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "diving chamber",
+                "qid": "Q549046",
+                "url": "https://en.wikipedia.org/wiki/Diving_chamber"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "decompression illness",
+                "qid": "Q1153171",
+                "url": "https://en.wikipedia.org/wiki/Decompression_illness"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "decompression",
+                "qid": "Q1183684",
+                "url": "https://en.wikipedia.org/wiki/Decompression_(diving)"
+            }
+        ]
+    }
+}

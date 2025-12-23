@@ -1,0 +1,43 @@
+{
+    "name": "levo-transposition of the great arteries",
+    "qid": "Q1784755",
+    "icd_10": "Q20.5",
+    "description": "medical condition",
+    "aliases": [
+        "CC-TGA",
+        "ccTGA",
+        "congenitally corrected transposition of the great arteries",
+        "Congenitally corrected transposition of the great vessels",
+        "Corrected transposition of great arteries",
+        "Discordant ventriculoarterial and atrioventricular connections",
+        "Double discordance",
+        "l-TGA",
+        "L-transposition of the great arteries",
+        "L-Transposition of the Great Vessels",
+        "levo-TGA",
+        "Levo-transposition of the great arteries",
+        "Levo-Transposition of the Great Vessels",
+        "Transposition of the great arteries, congenitally corrected",
+        "Transposition of the great vessels, congenitally corrected",
+        "Ventricular inversion",
+        "Ventriculoarterial and atrioventricular discordance"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Levo-Transposition_of_the_great_arteries",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "transposition of great vessels",
+                "qid": "Q1758730",
+                "url": "https://en.wikipedia.org/wiki/Transposition_of_the_great_vessels"
+            }
+        ]
+    }
+}

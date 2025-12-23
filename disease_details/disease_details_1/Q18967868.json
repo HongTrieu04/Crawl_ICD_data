@@ -1,0 +1,21 @@
+{
+    "name": "nontoxic uninodular goiter",
+    "qid": "Q18967868",
+    "icd_10": "E04.1",
+    "description": "Human disease",
+    "aliases": [
+        "Non-toxic uninodular goiter (disorder)",
+        "Non-toxic uninodular goiter (disorder) [Ambiguous]",
+        "Non-toxic uninodular goitre"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "nontoxic goiter",
+                "qid": "Q18554462"
+            }
+        ]
+    }
+}

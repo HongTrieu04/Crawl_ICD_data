@@ -1,0 +1,18 @@
+{
+    "name": "Pepper syndrome",
+    "qid": "Q3961683",
+    "icd_10": "C78.7",
+    "description": "hepatomegaly",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "hepatomegaly",
+                "qid": "Q1362864",
+                "url": "https://en.wikipedia.org/wiki/Hepatomegaly"
+            }
+        ]
+    }
+}

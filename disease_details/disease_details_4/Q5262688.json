@@ -1,0 +1,23 @@
+{
+    "name": "Dermatitis gangrenosa",
+    "qid": "Q5262688",
+    "icd_10": "L08.0",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Dermatitis_gangrenosa",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "gangrene",
+                "qid": "Q168805",
+                "url": "https://en.wikipedia.org/wiki/Gangrene"
+            },
+            {
+                "name": "dermatitis",
+                "qid": "Q229256",
+                "url": "https://en.wikipedia.org/wiki/Dermatitis"
+            }
+        ]
+    }
+}

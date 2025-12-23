@@ -1,0 +1,40 @@
+{
+    "name": "pyromania",
+    "qid": "Q622604",
+    "icd_10": "F63.1",
+    "description": "impulse control disorder",
+    "aliases": [
+        "pyromaniac",
+        "incendiarism",
+        "firesetting behavior",
+        "Pathological firesetting"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Burned%20container.jpg",
+    "url": "https://en.wikipedia.org/wiki/Pyromania",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "psychology",
+                "qid": "Q9418",
+                "url": "https://en.wikipedia.org/wiki/Psychology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "impulse control disorder",
+                "qid": "Q1201835",
+                "url": "https://en.wikipedia.org/wiki/Impulse-control_disorder"
+            }
+        ]
+    }
+}

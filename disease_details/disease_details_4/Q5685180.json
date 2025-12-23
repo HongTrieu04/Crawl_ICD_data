@@ -1,0 +1,38 @@
+{
+    "name": "hawkinsinuria",
+    "qid": "Q5685180",
+    "icd_10": "E72.1",
+    "description": "disease",
+    "aliases": [
+        "4-alpha-hydroxyphenylpyruvate hydroxylase deficiency",
+        "4-HPPD deficiency",
+        "4-hydroxyphenylpyruvic acid dioxygenase deficiency",
+        "HAWKINSINURIA"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hawkinsinuria",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "tyrosinemia",
+                "qid": "Q1122668",
+                "url": "https://en.wikipedia.org/wiki/Tyrosinemia"
+            },
+            {
+                "name": "autosomal dominant disease",
+                "qid": "Q18553439"
+            },
+            {
+                "name": "amino acid metabolic disorder",
+                "qid": "Q18558086"
+            }
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name": "benign hypertensive renal disease",
+    "qid": "Q18554100",
+    "icd_10": "I12.9",
+    "description": "Human disease",
+    "aliases": [
+        "benign hypertensive renal disease (disorder)",
+        "hypertensive renal disease, benign",
+        "hypertensive renal disease, benign, without mention of renal failure"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "renal hypertension",
+                "qid": "Q11788761"
+            }
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "hypergonadism",
+    "qid": "Q1640929",
+    "icd_10": "E29.0",
+    "description": "Medical condition",
+    "aliases": [
+        "Hypergenitalism"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hypergonadism",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "gonadal disease",
+                "qid": "Q18555048"
+            }
+        ]
+    }
+}

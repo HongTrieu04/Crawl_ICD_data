@@ -1,0 +1,35 @@
+{
+    "name": "osteochondritis",
+    "qid": "Q13616307",
+    "icd_10": "M93.9",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Osteochondritis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "inflammation",
+                "qid": "Q101991",
+                "url": "https://en.wikipedia.org/wiki/Inflammation"
+            },
+            {
+                "name": "osteochondrosis",
+                "qid": "Q1154055",
+                "url": "https://en.wikipedia.org/wiki/Osteochondrosis"
+            },
+            {
+                "name": "chondritis",
+                "qid": "Q4115500",
+                "url": "https://en.wikipedia.org/wiki/Chondritis"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ]
+    }
+}

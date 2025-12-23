@@ -1,0 +1,34 @@
+{
+    "name": "presbyopia",
+    "qid": "Q319595",
+    "icd_10": "H52.4",
+    "description": "medical condition associated with aging of the eye",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Presbyopia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "eye accommodation disease",
+                "qid": "Q18553766"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "optometry",
+                "qid": "Q618211",
+                "url": "https://en.wikipedia.org/wiki/Optometry"
+            },
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            }
+        ]
+    }
+}

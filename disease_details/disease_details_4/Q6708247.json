@@ -1,0 +1,33 @@
+{
+    "name": "lymphoblastic lymphoma",
+    "qid": "Q6708247",
+    "icd_10": "C83.5",
+    "description": "lymphoma that has material basis in immature malignant lymphocytes (lymphoblasts) committed to the B-cell or T-cell lineage and located in primarily lymph nodes or located in extranodal sites",
+    "aliases": [
+        "lymphoblastoma",
+        "Lymphoma, Lymphoblastic",
+        "LYMPHOMA, LYMPHOBLASTIC, MALIGNANT",
+        "Precursor Cell Lymphoblastic Lymphoma",
+        "Precursor Lymphoblastic Lymphoma"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Lymphoblastic_lymphoma",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "lymphoma",
+                "qid": "Q208414",
+                "url": "https://en.wikipedia.org/wiki/Lymphoma"
+            },
+            {
+                "name": "non-Hodgkin lymphoma",
+                "qid": "Q1138590",
+                "url": "https://en.wikipedia.org/wiki/Non-Hodgkin_lymphoma"
+            },
+            {
+                "name": "lymphatic system symptom",
+                "qid": "Q102186753"
+            }
+        ]
+    }
+}

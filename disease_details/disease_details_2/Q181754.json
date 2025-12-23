@@ -1,0 +1,119 @@
+{
+    "name": "heart failure",
+    "qid": "Q181754",
+    "icd_10": "I50",
+    "description": "failure of the heart to provide sufficient blood flow",
+    "aliases": [
+        "CF",
+        "HF",
+        "cardiac failure",
+        "cardiac insufficiency",
+        "Cardiovascular insufficiency",
+        "congestive cardiac failure",
+        "congestive heart failure"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Heartfailure.jpg",
+    "url": "https://en.wikipedia.org/wiki/Heart_failure",
+    "details": {
+        "Anatomical location": [
+            {
+                "name": "heart",
+                "qid": "Q1072",
+                "url": "https://en.wikipedia.org/wiki/Heart"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "fatigue",
+                "qid": "Q9690",
+                "url": "https://en.wikipedia.org/wiki/Fatigue"
+            },
+            {
+                "name": "anasarka",
+                "qid": "Q486485",
+                "url": "https://en.wikipedia.org/wiki/Anasarca"
+            },
+            {
+                "name": "edema",
+                "qid": "Q152234",
+                "url": "https://en.wikipedia.org/wiki/Edema"
+            },
+            {
+                "name": "dyspnea",
+                "qid": "Q188008",
+                "url": "https://en.wikipedia.org/wiki/Shortness_of_breath"
+            },
+            {
+                "name": "ascites",
+                "qid": "Q193889",
+                "url": "https://en.wikipedia.org/wiki/Ascites"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "alcoholism",
+                "qid": "Q15326",
+                "url": "https://en.wikipedia.org/wiki/Alcoholism"
+            },
+            {
+                "name": "myocardial infarction",
+                "qid": "Q12152",
+                "url": "https://en.wikipedia.org/wiki/Myocardial_infarction"
+            },
+            {
+                "name": "arterial hypertension",
+                "qid": "Q41861",
+                "url": "https://en.wikipedia.org/wiki/Hypertension"
+            },
+            {
+                "name": "infection",
+                "qid": "Q166231",
+                "url": "https://en.wikipedia.org/wiki/Infection"
+            },
+            {
+                "name": "heart arrhythmia",
+                "qid": "Q189331",
+                "url": "https://en.wikipedia.org/wiki/Arrhythmia"
+            },
+            {
+                "name": "heart disease",
+                "qid": "Q190805",
+                "url": "https://en.wikipedia.org/wiki/Heart_disease"
+            },
+            {
+                "name": "heart damage",
+                "qid": "Q21128925"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "clinical sign",
+                "qid": "Q1441305",
+                "url": "https://en.wikipedia.org/wiki/Clinical_sign"
+            },
+            {
+                "name": "cardiovascular disease",
+                "qid": "Q389735",
+                "url": "https://en.wikipedia.org/wiki/Cardiovascular_disease"
+            },
+            {
+                "name": "cardiovascular system symptom",
+                "qid": "Q102186826"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "diuretic",
+                "qid": "Q200656",
+                "url": "https://en.wikipedia.org/wiki/Diuretic"
+            }
+        ]
+    }
+}

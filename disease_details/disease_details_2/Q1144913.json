@@ -1,0 +1,28 @@
+{
+    "name": "water intoxication",
+    "qid": "Q1144913",
+    "icd_10": "E87.7",
+    "description": "excessive intake of water",
+    "aliases": [
+        "overhydration",
+        "water poisoning",
+        "Water toxemia"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Glass-half-full.jpeg",
+    "url": "https://en.wikipedia.org/wiki/Water_intoxication",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "poisoning",
+                "qid": "Q114953"
+            }
+        ]
+    }
+}

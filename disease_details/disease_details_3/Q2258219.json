@@ -1,0 +1,25 @@
+{
+    "name": "abuse of medicaments",
+    "qid": "Q2258219",
+    "icd_10": "F55",
+    "description": "repeated and inappropriate use of medicaments and/or folk remedies",
+    "aliases": [
+        "non dependent drug abuse"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "substance abuse",
+                "qid": "Q3184856",
+                "url": "https://en.wikipedia.org/wiki/Substance_abuse"
+            },
+            {
+                "name": "substance dependence",
+                "qid": "Q3378593",
+                "url": "https://en.wikipedia.org/wiki/Substance_dependence"
+            }
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "name": "diffuse myelinoclastic sclerosis",
+    "qid": "Q2909420",
+    "icd_10": "G37.0",
+    "description": "a progressive demyelinating disorder of the central nervous system",
+    "aliases": [
+        "Diffuse Cerebral Sclerosis of Schilder",
+        "Myelinoclastic diffuse sclerosis",
+        "Schilder Disease",
+        "Schilder's disease",
+        "SUDANOPHILIC CEREBRAL SCLEROSIS"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Diffuse_myelinoclastic_sclerosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "CNS demyelinating autoimmune diseases",
+                "qid": "Q5013186",
+                "url": "https://en.wikipedia.org/wiki/CNS_demyelinating_autoimmune_diseases"
+            }
+        ]
+    }
+}

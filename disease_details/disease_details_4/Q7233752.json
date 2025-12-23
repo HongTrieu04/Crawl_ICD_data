@@ -1,0 +1,20 @@
+{
+    "name": "post-stroke depression",
+    "qid": "Q7233752",
+    "icd_10": "F06.3",
+    "description": "depression caused by a stroke",
+    "aliases": [
+        "post stroke depression"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Post-stroke_depression",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "depression",
+                "qid": "Q4340209",
+                "url": "https://en.wikipedia.org/wiki/Depression_(mood)"
+            }
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "name": "sleep apnea",
+    "qid": "Q213600",
+    "icd_10": "G47.3",
+    "description": "sleep disorder characterized by repeated cessation and commencing of breathing that disrupts sleep",
+    "aliases": [
+        "kos",
+        "sleep apnea syndrome",
+        "sleep apnea syndromes",
+        "sleep apnoea"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Obstruction%20ventilation%20apn%C3%A9e%20sommeil.svg",
+    "url": "https://en.wikipedia.org/wiki/Sleep_apnea",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "sleep disorder",
+                "qid": "Q177190",
+                "url": "https://en.wikipedia.org/wiki/Sleep_disorder"
+            },
+            {
+                "name": "apnea",
+                "qid": "Q754424",
+                "url": "https://en.wikipedia.org/wiki/Apnea"
+            },
+            {
+                "name": "sleep-related breathing disorder",
+                "qid": "Q102221481",
+                "url": "https://en.wikipedia.org/wiki/Sleep-related_breathing_disorder"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "otolaryngology",
+                "qid": "Q189553",
+                "url": "https://en.wikipedia.org/wiki/Otorhinolaryngology"
+            },
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "weight loss",
+                "qid": "Q718113",
+                "url": "https://en.wikipedia.org/wiki/Weight_loss"
+            },
+            {
+                "name": "continuous positive airway pressure",
+                "qid": "Q5165502",
+                "url": "https://en.wikipedia.org/wiki/Continuous_positive_airway_pressure"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "continuous positive airway pressure",
+                "qid": "Q5165502",
+                "url": "https://en.wikipedia.org/wiki/Continuous_positive_airway_pressure"
+            }
+        ]
+    }
+}

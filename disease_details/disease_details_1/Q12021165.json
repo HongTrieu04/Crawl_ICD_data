@@ -1,0 +1,33 @@
+{
+    "name": "hypostatic pneumonia",
+    "qid": "Q12021165",
+    "icd_10": "J18.2",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete pulmonary congestion and hypostasis",
+        "pulmonary congestion and hypostasis",
+        "pulmonary congestion and hypostasis (disorder)",
+        "pulmonary congestion and hypostasis NOS (disorder)"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "pneumonia",
+                "qid": "Q12192",
+                "url": "https://en.wikipedia.org/wiki/Pneumonia"
+            },
+            {
+                "name": "pulmonary edema",
+                "qid": "Q857667",
+                "url": "https://en.wikipedia.org/wiki/Pulmonary_edema"
+            },
+            {
+                "name": "clinical sign",
+                "qid": "Q1441305",
+                "url": "https://en.wikipedia.org/wiki/Clinical_sign"
+            }
+        ]
+    }
+}

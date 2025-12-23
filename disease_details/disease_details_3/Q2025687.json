@@ -1,0 +1,38 @@
+{
+    "name": "iron overload",
+    "qid": "Q2025687",
+    "icd_10": "R79.0",
+    "description": "human disease",
+    "aliases": [
+        "hereditary haemochromatosis",
+        "iron overload (disorder)",
+        "obsolete iron overload"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hemochromatosis%20liver%20section.JPG",
+    "url": "https://en.wikipedia.org/wiki/Iron_overload",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "metal metabolism disorder",
+                "qid": "Q3281373",
+                "url": "https://en.wikipedia.org/wiki/Inborn_errors_of_metal_metabolism"
+            },
+            {
+                "name": "iron metabolism disease",
+                "qid": "Q6072985",
+                "url": "https://en.wikipedia.org/wiki/Iron_metabolism_disorder"
+            },
+            {
+                "name": "overload disease",
+                "qid": "Q1496114"
+            }
+        ]
+    }
+}

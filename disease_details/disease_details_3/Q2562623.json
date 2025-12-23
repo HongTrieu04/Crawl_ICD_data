@@ -1,0 +1,33 @@
+{
+    "name": "perforated eardrum",
+    "qid": "Q2562623",
+    "icd_10": "H72",
+    "description": "an injury leading to a hole in the eardrum",
+    "aliases": [
+        "eardrum perforation",
+        "Eardrum perforation",
+        "Traumatic tympanic membrane perforations"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Trommelfellperforation.png",
+    "url": "https://en.wikipedia.org/wiki/Perforated_eardrum",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "otolaryngology",
+                "qid": "Q189553",
+                "url": "https://en.wikipedia.org/wiki/Otorhinolaryngology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "organ perforation",
+                "qid": "Q16965421",
+                "url": "https://en.wikipedia.org/wiki/Organ_perforation"
+            },
+            {
+                "name": "tympanic membrane disease",
+                "qid": "Q18557008"
+            }
+        ]
+    }
+}

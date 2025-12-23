@@ -1,0 +1,19 @@
+{
+    "name": "macrophthalmia",
+    "qid": "Q104213447",
+    "icd_10": "Q11.3",
+    "description": "disease",
+    "aliases": [
+        "Macrophthalmos"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "eye abnormalities",
+                "qid": "Q54911717"
+            }
+        ]
+    }
+}

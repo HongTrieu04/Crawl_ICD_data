@@ -1,0 +1,31 @@
+{
+    "name": "paresthesia",
+    "qid": "Q769220",
+    "icd_10": "R20.2",
+    "description": "dermal sensation",
+    "aliases": [
+        "paraesthesia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Paresthesia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "somatosensory disorder",
+                "qid": "Q1641015",
+                "url": "https://en.wikipedia.org/wiki/Somatosensory_disorder"
+            },
+            {
+                "name": "skin and integumentary tissue symptom",
+                "qid": "Q100751718"
+            }
+        ]
+    }
+}

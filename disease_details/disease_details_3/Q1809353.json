@@ -1,0 +1,17 @@
+{
+    "name": "laxative abuse",
+    "qid": "Q1809353",
+    "icd_10": "F55.2",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "abuse of medicaments",
+                "qid": "Q2258219"
+            }
+        ]
+    }
+}

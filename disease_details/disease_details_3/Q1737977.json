@@ -1,0 +1,26 @@
+{
+    "name": "germ cell tumor",
+    "qid": "Q1737977",
+    "icd_10": "C62",
+    "description": "medical condition",
+    "aliases": [
+        "germ cell neoplasia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Germ_cell_tumor",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "germ cell and embryonal neoplasms",
+                "qid": "Q58833955"
+            }
+        ]
+    }
+}

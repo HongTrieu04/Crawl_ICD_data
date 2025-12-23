@@ -1,0 +1,28 @@
+{
+    "name": "spinal muscular atrophies",
+    "qid": "Q7577466",
+    "icd_10": "G12",
+    "description": "group of diseases",
+    "aliases": [
+        "SMA",
+        "spinal muscular atrophy"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Spinal_muscular_atrophies",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "motor neuron disease",
+                "qid": "Q3221083",
+                "url": "https://en.wikipedia.org/wiki/Motor_neuron_diseases"
+            }
+        ]
+    }
+}

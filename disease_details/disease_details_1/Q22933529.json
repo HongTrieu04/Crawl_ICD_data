@@ -1,0 +1,25 @@
+{
+    "name": "Excoriated acne",
+    "qid": "Q22933529",
+    "icd_10": "L70.5",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Excoriated_acne",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "excoriation disorder",
+                "qid": "Q904200",
+                "url": "https://en.wikipedia.org/wiki/Excoriation_disorder"
+            }
+        ]
+    }
+}

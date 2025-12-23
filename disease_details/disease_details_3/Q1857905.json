@@ -1,0 +1,54 @@
+{
+    "name": "cyclic vomiting syndrome",
+    "qid": "Q1857905",
+    "icd_10": "G43",
+    "description": "human disease",
+    "aliases": [
+        "CVS",
+        "Cvs-Plus",
+        "CYCLIC VOMITING SYNDROME",
+        "Cyclic Vomiting Syndrome With Neuromuscular Disease",
+        "Cyclic Vomiting Syndrome-Plus",
+        "CYCLIC VOMITING SYNDROME; CVS",
+        "cyclical vomiting syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Cyclic_vomiting_syndrome",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "abdominal pain",
+                "qid": "Q183425",
+                "url": "https://en.wikipedia.org/wiki/Abdominal_pain"
+            },
+            {
+                "name": "fatigue",
+                "qid": "Q9690",
+                "url": "https://en.wikipedia.org/wiki/Fatigue"
+            },
+            {
+                "name": "nausea",
+                "qid": "Q186889",
+                "url": "https://en.wikipedia.org/wiki/Nausea"
+            },
+            {
+                "name": "hyperemesis",
+                "qid": "Q18968158"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "genetic disease",
+                "qid": "Q200779",
+                "url": "https://en.wikipedia.org/wiki/Genetic_disorder"
+            }
+        ]
+    }
+}

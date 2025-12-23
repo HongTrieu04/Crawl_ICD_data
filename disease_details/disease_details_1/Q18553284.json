@@ -1,0 +1,73 @@
+{
+    "name": "O'nyong'nyong fever",
+    "qid": "Q18553284",
+    "icd_10": "A92.1",
+    "description": "Human disease",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Symptoms": [
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "rash",
+                "qid": "Q653197",
+                "url": "https://en.wikipedia.org/wiki/Rash"
+            },
+            {
+                "name": "arthralgia",
+                "qid": "Q683498",
+                "url": "https://en.wikipedia.org/wiki/Arthralgia"
+            },
+            {
+                "name": "polyarthritis",
+                "qid": "Q1274464",
+                "url": "https://en.wikipedia.org/wiki/Polyarthritis"
+            },
+            {
+                "name": "lymphadenitis",
+                "qid": "Q3269466"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "alphavirus infections",
+                "qid": "Q4735280",
+                "url": "https://en.wikipedia.org/wiki/Alphavirus_infection"
+            },
+            {
+                "name": "viral infectious disease",
+                "qid": "Q1928978",
+                "url": "https://en.wikipedia.org/wiki/Viral_disease"
+            },
+            {
+                "name": "arbovirosis",
+                "qid": "Q2859732"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "O'nyong'nyong virus",
+                "qid": "Q1407583",
+                "url": "https://en.wikipedia.org/wiki/O%27nyong%27nyong_virus"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "supportive care",
+                "qid": "Q3488952"
+            }
+        ]
+    }
+}

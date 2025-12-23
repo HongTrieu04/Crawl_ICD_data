@@ -1,0 +1,128 @@
+{
+    "name": "infectious mononucleosis",
+    "qid": "Q207367",
+    "icd_10": "B27.02",
+    "description": "common viral infectious disease",
+    "aliases": [
+        "mono",
+        "mononucleosis",
+        "Filatov's disease",
+        "Gammaherpesviral mononucleosis",
+        "Gammaherpesviral mononucleosis (disorder)",
+        "glandular fever",
+        "IM; Infectious mononucleosis",
+        "kissing disease",
+        "Monocytic angina",
+        "Pfeiffer's disease",
+        "Pfeiffer's disease (disorder)"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Infectious%20Mononucleosis%203.jpg",
+    "url": "https://en.wikipedia.org/wiki/Infectious_mononucleosis",
+    "details": {
+        "Possible treatment": [
+            {
+                "name": "corticosteroid",
+                "qid": "Q210420",
+                "url": "https://en.wikipedia.org/wiki/Corticosteroid"
+            },
+            {
+                "name": "histamine antagonist",
+                "qid": "Q324089",
+                "url": "https://en.wikipedia.org/wiki/Antihistamine"
+            },
+            {
+                "name": "gargling",
+                "qid": "Q1555174",
+                "url": "https://en.wikipedia.org/wiki/Gargling"
+            },
+            {
+                "name": "antimicrobial drug",
+                "qid": "Q178859"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "tonsillitis",
+                "qid": "Q186470",
+                "url": "https://en.wikipedia.org/wiki/Tonsillitis"
+            },
+            {
+                "name": "lymphadenopathy",
+                "qid": "Q847726",
+                "url": "https://en.wikipedia.org/wiki/Lymphadenopathy"
+            },
+            {
+                "name": "leukocytosis",
+                "qid": "Q974869",
+                "url": "https://en.wikipedia.org/wiki/Leukocytosis"
+            },
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "lymphocytosis",
+                "qid": "Q612345",
+                "url": "https://en.wikipedia.org/wiki/Lymphocytosis"
+            },
+            {
+                "name": "rash",
+                "qid": "Q653197",
+                "url": "https://en.wikipedia.org/wiki/Rash"
+            },
+            {
+                "name": "splenomegaly",
+                "qid": "Q1129121",
+                "url": "https://en.wikipedia.org/wiki/Splenomegaly"
+            },
+            {
+                "name": "hepatomegaly",
+                "qid": "Q1362864",
+                "url": "https://en.wikipedia.org/wiki/Hepatomegaly"
+            },
+            {
+                "name": "enlargement of lymph nodes",
+                "qid": "Q102187500"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Epstein–Barr virus",
+                "qid": "Q6900",
+                "url": "https://en.wikipedia.org/wiki/Epstein%E2%80%93Barr_virus"
+            },
+            {
+                "name": "Human betaherpesvirus 5",
+                "qid": "Q24808725"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "viral infectious disease",
+                "qid": "Q1928978",
+                "url": "https://en.wikipedia.org/wiki/Viral_disease"
+            },
+            {
+                "name": "Epstein–Barr virus infection",
+                "qid": "Q5384031",
+                "url": "https://en.wikipedia.org/wiki/Epstein%E2%80%93Barr_virus_infection"
+            },
+            {
+                "name": "cytomegaloviral disease",
+                "qid": "Q2076966"
+            },
+            {
+                "name": "angina",
+                "qid": "Q130313321"
+            }
+        ]
+    }
+}

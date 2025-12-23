@@ -1,0 +1,37 @@
+{
+    "name": "Freiberg disease",
+    "qid": "Q1688105",
+    "icd_10": "M92.7",
+    "description": "medical condition",
+    "aliases": [
+        "Freiberg-Kohler syndrome",
+        "Freiberg's disease",
+        "Freiberg's infraction",
+        "Kohler's second disease",
+        "Osteochondrosis of the metatarsal head, usually the second",
+        "Second metatarsal osteochondrosis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/X-ray%20of%20Freiberg%20disease.jpg",
+    "url": "https://en.wikipedia.org/wiki/Freiberg_disease",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "orthopedics",
+                "qid": "Q216685",
+                "url": "https://en.wikipedia.org/wiki/Orthopedic_surgery"
+            },
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "osteonecrosis",
+                "qid": "Q503629",
+                "url": "https://en.wikipedia.org/wiki/Avascular_necrosis"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "erythema",
+    "qid": "Q1166142",
+    "icd_10": "L54",
+    "description": "symptom",
+    "aliases": [
+        "redness",
+        "skin erythema",
+        "skin redness"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Erythema%20migrans%20-%20erythematous%20rash%20in%20Lyme%20disease%20-%20PHIL%209875.jpg",
+    "url": "https://en.wikipedia.org/wiki/Erythema",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "flushing",
+                "qid": "Q3443277",
+                "url": "https://en.wikipedia.org/wiki/Flushing_(physiology)"
+            }
+        ]
+    }
+}

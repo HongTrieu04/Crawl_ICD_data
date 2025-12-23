@@ -1,0 +1,31 @@
+{
+    "name": "enterotoxigenic Escherichia coli",
+    "qid": "Q265214",
+    "icd_10": "A04.1",
+    "description": "bacterial cause of diarrhea",
+    "aliases": [
+        "Enterotoxigenic Escherichia coli gastrointestinal tract infection",
+        "Enterotoxigenic Escherichia coli gastrointestinal tract infection (disorder)",
+        "Enterotoxigenic Escherichia coli infection",
+        "enterotoxigenic Escherichia coli infectious disease",
+        "intestinal infection due to enterotoxigenic E. coli",
+        "obsolete enterotoxigenic Escherichia coli infectious disease"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Enterotoxigenic_Escherichia_coli",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "Escherichia coli infectious disease",
+                "qid": "Q4227886"
+            }
+        ]
+    }
+}

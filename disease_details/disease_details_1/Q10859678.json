@@ -1,0 +1,49 @@
+{
+    "name": "necrotizing enterocolitis",
+    "qid": "Q10859678",
+    "icd_10": "P77",
+    "description": "human disease",
+    "aliases": [
+        "NEC",
+        "necrotising enterocolitis",
+        "necrotizing enterocolitis in fetus OR newborn",
+        "necrotizing enterocolitis in fetus OR newborn (disorder)",
+        "perinatal necrotising enterocolitis",
+        "perinatal necrotizing enterocolitis",
+        "perinatal necrotizing enterocolitis (disorder)",
+        "pseudomembranous enterocolitis in newborn"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Necrotizing_enterocolitis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "gastrointestinal system disease",
+                "qid": "Q2300099",
+                "url": "https://en.wikipedia.org/wiki/Gastrointestinal_disease"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            },
+            {
+                "name": "pediatrics",
+                "qid": "Q123028",
+                "url": "https://en.wikipedia.org/wiki/Pediatrics"
+            },
+            {
+                "name": "neonatology",
+                "qid": "Q898674",
+                "url": "https://en.wikipedia.org/wiki/Neonatology"
+            }
+        ]
+    }
+}

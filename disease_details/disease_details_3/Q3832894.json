@@ -1,0 +1,25 @@
+{
+    "name": "lymphoplasmacytic lymphoma",
+    "qid": "Q3832894",
+    "icd_10": "C83.0",
+    "description": null,
+    "aliases": [
+        "lymfoplasmacytair lymphoma"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "non-Hodgkin lymphoma",
+                "qid": "Q1138590",
+                "url": "https://en.wikipedia.org/wiki/Non-Hodgkin_lymphoma"
+            },
+            {
+                "name": "B-cell lymphoma",
+                "qid": "Q4833719",
+                "url": "https://en.wikipedia.org/wiki/B-cell_lymphoma"
+            }
+        ]
+    }
+}

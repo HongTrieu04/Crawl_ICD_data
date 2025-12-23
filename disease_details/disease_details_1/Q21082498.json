@@ -1,0 +1,26 @@
+{
+    "name": "spastic ataxia",
+    "qid": "Q21082498",
+    "icd_10": "G11.4",
+    "description": "Human disease",
+    "aliases": [
+        "SPAX"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "hereditary  ataxia",
+                "qid": "Q3731293"
+            }
+        ]
+    }
+}

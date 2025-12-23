@@ -1,0 +1,27 @@
+{
+    "name": "ectopic testis",
+    "qid": "Q3047124",
+    "icd_10": "Q53.0",
+    "description": "medical condition",
+    "aliases": [
+        "testicular ectopia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Ectopic_testis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "cryptorchidism",
+                "qid": "Q966052",
+                "url": "https://en.wikipedia.org/wiki/Cryptorchidism"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

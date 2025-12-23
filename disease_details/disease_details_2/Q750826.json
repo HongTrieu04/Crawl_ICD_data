@@ -1,0 +1,48 @@
+{
+    "name": "medium chain acyl-CoA dehydrogenase deficiency",
+    "qid": "Q750826",
+    "icd_10": "E71.31",
+    "description": "lipid metabolism disorder that is characterized by a deficiency of the enzyme medium chain acyl-CoA dehydrogenase that results in the inability to convert medium chain fatty acids to energy, particularly during fasting",
+    "aliases": [
+        "MCAD",
+        "Acadm Deficiency",
+        "ACADMD",
+        "Acyl-CoA Dehydrogenase, Medium-Chain Deficiency",
+        "ACYL-CoA DEHYDROGENASE, MEDIUM-CHAIN, DEFICIENCY OF",
+        "ACYL-CoA DEHYDROGENASE, MEDIUM-CHAIN, DEFICIENCY OF; ACADMD",
+        "Carnitine Deficiency Secondary to Medium-Chain Acyl-Coa Dehydrogenase Deficiency",
+        "MCAD deficiency",
+        "MCADD",
+        "Mcadh Deficiency",
+        "Medium chain acyl-coenzyme A dehydrogenase deficiency",
+        "Medium-Chain Acyl-CoA Dehydrogenase Deficiency",
+        "Medium-Chain Acyl-Coenzyme A Dehydrogenase Deficiency"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Medium-chain_acyl-coenzyme_A_dehydrogenase_deficiency",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "Fatty-acid metabolism disorder",
+                "qid": "Q5437988",
+                "url": "https://en.wikipedia.org/wiki/Fatty-acid_metabolism_disorder"
+            },
+            {
+                "name": "lipid metabolism disorder",
+                "qid": "Q1476525",
+                "url": "https://en.wikipedia.org/wiki/Dyslipidemia"
+            },
+            {
+                "name": "acyl-CoA dehydrogenase deficiency",
+                "qid": "Q55787302"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ]
+    }
+}

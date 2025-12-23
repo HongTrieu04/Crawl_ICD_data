@@ -1,0 +1,29 @@
+{
+    "name": "obstetrical hemorrhage",
+    "qid": "Q2496447",
+    "icd_10": "O72",
+    "description": "heavy bleeding in pregnancy",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Obstetrical_bleeding",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "gynecologic hemorrhage",
+                "qid": "Q554130",
+                "url": "https://en.wikipedia.org/wiki/Gynecologic_hemorrhage"
+            },
+            {
+                "name": "complication of pregnancy, childbirth and the puerperium",
+                "qid": "Q18975815"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "obstetrics",
+                "qid": "Q5284418",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics"
+            }
+        ]
+    }
+}

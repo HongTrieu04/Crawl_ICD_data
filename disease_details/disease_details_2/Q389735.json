@@ -1,0 +1,74 @@
+{
+    "name": "cardiovascular disease",
+    "qid": "Q389735",
+    "icd_10": "I51.6",
+    "description": "class of diseases that involve the heart or blood vessels",
+    "aliases": [
+        "CVD",
+        "cardiovascular diseases",
+        "cardiovascular dysfunction",
+        "cardiovascular system disease",
+        "CV disease",
+        "disease of subdivision of hemolymphoid system",
+        "diseases of the circulatory system",
+        "heart, respiratory, and blood vessel disease",
+        "myocardiovascular system disease"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cardiac%20amyloidosis%20very%20high%20mag%20movat.jpg",
+    "url": "https://en.wikipedia.org/wiki/Cardiovascular_disease",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "disease of anatomical entity",
+                "qid": "Q18557436"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "fatigue",
+                "qid": "Q9690",
+                "url": "https://en.wikipedia.org/wiki/Fatigue"
+            },
+            {
+                "name": "chest pain",
+                "qid": "Q693058",
+                "url": "https://en.wikipedia.org/wiki/Chest_pain"
+            },
+            {
+                "name": "unconsciousness",
+                "qid": "Q12829165",
+                "url": "https://en.wikipedia.org/wiki/Unconsciousness"
+            },
+            {
+                "name": "dyspnea",
+                "qid": "Q188008",
+                "url": "https://en.wikipedia.org/wiki/Shortness_of_breath"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "cholecalciferol",
+                "qid": "Q139347",
+                "url": "https://en.wikipedia.org/wiki/Cholecalciferol"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "cardiovascular system",
+                "qid": "Q13168533"
+            }
+        ]
+    }
+}

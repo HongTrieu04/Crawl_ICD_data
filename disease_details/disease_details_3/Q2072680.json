@@ -1,0 +1,45 @@
+{
+    "name": "nematode infection",
+    "qid": "Q2072680",
+    "icd_10": "B80",
+    "description": "human disease",
+    "aliases": [
+        "creeping eruption",
+        "larva migrans",
+        "Nematoda infectious disease",
+        "Nematode infection",
+        "nematode infections",
+        "Roundworm",
+        "Roundworm infection"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Trichinella%20larv1%20DPDx.JPG",
+    "url": "https://en.wikipedia.org/wiki/Nematode_infection",
+    "details": {
+        "Cause": [
+            {
+                "name": "Nematoda",
+                "qid": "Q5185",
+                "url": "https://en.wikipedia.org/wiki/Nematode"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "parasitic helminthiasis infectious disease",
+                "qid": "Q578994",
+                "url": "https://en.wikipedia.org/wiki/Helminthiasis"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            },
+            {
+                "name": "helminthology",
+                "qid": "Q1976068",
+                "url": "https://en.wikipedia.org/wiki/Helminthology"
+            }
+        ]
+    }
+}

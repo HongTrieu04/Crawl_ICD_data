@@ -1,0 +1,119 @@
+{
+    "name": "panic disorder",
+    "qid": "Q741713",
+    "icd_10": "F41.0",
+    "description": "anxiety disorder characterized by reoccurring unexpected panic attacks",
+    "aliases": [
+        "PD",
+        "panic anxiety syndrome"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Panic%20attack.jpg",
+    "url": "https://en.wikipedia.org/wiki/Panic_disorder",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "anxiety disorder",
+                "qid": "Q544006",
+                "url": "https://en.wikipedia.org/wiki/Anxiety_disorder"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "sertraline",
+                "qid": "Q407617",
+                "url": "https://en.wikipedia.org/wiki/Sertraline"
+            },
+            {
+                "name": "clonazepam",
+                "qid": "Q407988",
+                "url": "https://en.wikipedia.org/wiki/Clonazepam"
+            },
+            {
+                "name": "maprotiline",
+                "qid": "Q418361",
+                "url": "https://en.wikipedia.org/wiki/Maprotiline"
+            },
+            {
+                "name": "fluoxetine",
+                "qid": "Q422244",
+                "url": "https://en.wikipedia.org/wiki/Fluoxetine"
+            },
+            {
+                "name": "propranolol",
+                "qid": "Q423364",
+                "url": "https://en.wikipedia.org/wiki/Propranolol"
+            },
+            {
+                "name": "diazepam",
+                "qid": "Q210402",
+                "url": "https://en.wikipedia.org/wiki/Diazepam"
+            },
+            {
+                "name": "alprazolam",
+                "qid": "Q319877",
+                "url": "https://en.wikipedia.org/wiki/Alprazolam"
+            },
+            {
+                "name": "imipramine",
+                "qid": "Q58396",
+                "url": "https://en.wikipedia.org/wiki/Imipramine"
+            },
+            {
+                "name": "clomipramine",
+                "qid": "Q58713",
+                "url": "https://en.wikipedia.org/wiki/Clomipramine"
+            },
+            {
+                "name": "paroxetine",
+                "qid": "Q408471",
+                "url": "https://en.wikipedia.org/wiki/Paroxetine"
+            },
+            {
+                "name": "fluvoxamine",
+                "qid": "Q409236",
+                "url": "https://en.wikipedia.org/wiki/Fluvoxamine"
+            },
+            {
+                "name": "temazepam",
+                "qid": "Q414796",
+                "url": "https://en.wikipedia.org/wiki/Temazepam"
+            },
+            {
+                "name": "nordazepam",
+                "qid": "Q3180288",
+                "url": "https://en.wikipedia.org/wiki/Nordazepam"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "panic attack",
+                "qid": "Q696490",
+                "url": "https://en.wikipedia.org/wiki/Panic_attack"
+            },
+            {
+                "name": "palpitation",
+                "qid": "Q1123260",
+                "url": "https://en.wikipedia.org/wiki/Palpitations"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "cognitive behavioral therapy",
+                "qid": "Q1147152",
+                "url": "https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy"
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "name": "true hermaphroditism",
+    "qid": "Q7847568",
+    "icd_10": "Q99.1",
+    "description": "outdated medical diagnosis for intersex persons with ovotesticular tissue",
+    "aliases": [
+        "hermaphroditism",
+        "gynandrism",
+        "ovotesticular disorder of sex development",
+        "Gynandromorphism syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Ovotesticular_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "sex differentiation disease",
+                "qid": "Q18554938",
+                "url": "https://en.wikipedia.org/wiki/Sex_differentiation_disorder"
+            },
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "bigonadal",
+                "qid": "Q130899392"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "obstetrics and gynaecology",
+                "qid": "Q80015",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics_and_gynaecology"
+            },
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ]
+    }
+}

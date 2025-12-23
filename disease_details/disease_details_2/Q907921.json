@@ -1,0 +1,53 @@
+{
+    "name": "incontinentia pigmenti achromians",
+    "qid": "Q907921",
+    "icd_10": "L81.6",
+    "description": "Human disease",
+    "aliases": [
+        "Incontinentia pigmenti syndrome",
+        "Bloch-Siemans syndrome",
+        "Hypomelanosis of Ito",
+        "Hypomelanosis of Ito [Ambiguous]",
+        "Incontinentia pigmenti achromians syndrome",
+        "Incontinentia pigmenti achromians syndrome (disorder)",
+        "Incontinentia pigmenti syndrome (disorder) [Ambiguous]",
+        "Ito's nevus",
+        "nevus of Ito",
+        "nevus of Ito (disorder)"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Incontinentia_pigmenti_achromians",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "skin disease",
+                "qid": "Q949302",
+                "url": "https://en.wikipedia.org/wiki/Skin_condition"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            },
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "trioxsalen",
+                "qid": "Q854263",
+                "url": "https://en.wikipedia.org/wiki/Trioxsalen"
+            }
+        ]
+    }
+}

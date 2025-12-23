@@ -1,0 +1,28 @@
+{
+    "name": "chronic mountain sickness",
+    "qid": "Q582189",
+    "icd_10": "T70.2",
+    "description": "disease in which the proportion of blood volume that is occupied by red blood cells increases and there is an abnormally low level of oxygen in the blood",
+    "aliases": [
+        "CMS",
+        "Monge's disease"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Chronic_mountain_sickness",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ]
+    }
+}

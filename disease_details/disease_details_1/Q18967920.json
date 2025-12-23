@@ -1,0 +1,26 @@
+{
+    "name": "parainfluenzal pneumonia",
+    "qid": "Q18967920",
+    "icd_10": "J12.2",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete parainfluenzal pneumonia",
+        "Parainfluenza virus pneumonia (disorder)"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "human parainfluenza",
+                "qid": "Q2051533",
+                "url": "https://en.wikipedia.org/wiki/Human_parainfluenza_viruses"
+            },
+            {
+                "name": "viral pneumonia",
+                "qid": "Q2603200",
+                "url": "https://en.wikipedia.org/wiki/Viral_pneumonia"
+            }
+        ]
+    }
+}

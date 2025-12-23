@@ -1,0 +1,37 @@
+{
+    "name": "hypomania",
+    "qid": "Q188611",
+    "icd_10": "F30.0",
+    "description": "mood state characterized by persistent and pervasive elevated or irritable mood",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hypomania",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "psychology",
+                "qid": "Q9418",
+                "url": "https://en.wikipedia.org/wiki/Psychology"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "bipolar disorder",
+                "qid": "Q131755",
+                "url": "https://en.wikipedia.org/wiki/Bipolar_disorder"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "mood disorder",
+                "qid": "Q188638",
+                "url": "https://en.wikipedia.org/wiki/Mood_disorder"
+            }
+        ]
+    }
+}

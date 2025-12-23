@@ -1,0 +1,27 @@
+{
+    "name": "reversible cerebral vasoconstriction syndrome",
+    "qid": "Q7318292",
+    "icd_10": "I67.84",
+    "description": "syndrome",
+    "aliases": [
+        "RCVS",
+        "code first underlying condition, if applicable, such as eclampsia (ICD-10)"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Reversible_cerebral_vasoconstriction_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "rare headache disorder",
+                "qid": "Q55789050"
+            }
+        ]
+    }
+}

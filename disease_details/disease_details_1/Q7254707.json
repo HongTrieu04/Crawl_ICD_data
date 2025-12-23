@@ -1,0 +1,30 @@
+{
+    "name": "Pseudocowpox",
+    "qid": "Q7254707",
+    "icd_10": "B08.0",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pseudocowpox",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "Poxviridae infectious disease",
+                "qid": "Q12353899"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "pseudocowpox virus",
+                "qid": "Q17476605"
+            }
+        ]
+    }
+}

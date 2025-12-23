@@ -1,0 +1,123 @@
+{
+    "name": "acrodermatitis enteropathica",
+    "qid": "Q937818",
+    "icd_10": "E83.2",
+    "description": "Human disease",
+    "aliases": [
+        "AE",
+        "AEZ",
+        "Acrodermatitis enteropathica zinc deficiency type",
+        "Acrodermatitis enteropathica, zinc deficiency type",
+        "ACRODERMATITIS ENTEROPATHICA, ZINC-DEFICIENCY TYPE",
+        "ACRODERMATITIS ENTEROPATHICA, ZINC-DEFICIENCY TYPE; AEZ",
+        "Brandt syndrome",
+        "Danbolt-Cross syndrome",
+        "Inherited zinc deficiency"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Acrodermatitis_enteropathica",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "genetic disease",
+                "qid": "Q200779",
+                "url": "https://en.wikipedia.org/wiki/Genetic_disorder"
+            },
+            {
+                "name": "metal metabolism disorder",
+                "qid": "Q3281373",
+                "url": "https://en.wikipedia.org/wiki/Inborn_errors_of_metal_metabolism"
+            },
+            {
+                "name": "acrodermatitis",
+                "qid": "Q4675757",
+                "url": "https://en.wikipedia.org/wiki/Acrodermatitis"
+            },
+            {
+                "name": "intestinal disease due to fat malabsorption",
+                "qid": "Q55785307"
+            },
+            {
+                "name": "metabolic disease with intestinal involvement",
+                "qid": "Q55785312"
+            },
+            {
+                "name": "developmental anomaly of metabolic origin",
+                "qid": "Q55785399"
+            },
+            {
+                "name": "malformation syndrome with skin/mucosae involvement",
+                "qid": "Q55785402"
+            },
+            {
+                "name": "disorder of zinc metabolism",
+                "qid": "Q55787339"
+            },
+            {
+                "name": "other metabolic disease with skin involvement",
+                "qid": "Q55788569"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "blister",
+                "qid": "Q276469",
+                "url": "https://en.wikipedia.org/wiki/Blister"
+            },
+            {
+                "name": "alopecia",
+                "qid": "Q2697787",
+                "url": "https://en.wikipedia.org/wiki/Alopecia"
+            },
+            {
+                "name": "short stature",
+                "qid": "Q7502090",
+                "url": "https://en.wikipedia.org/wiki/Short_stature"
+            },
+            {
+                "name": "erythema",
+                "qid": "Q1166142",
+                "url": "https://en.wikipedia.org/wiki/Erythema"
+            },
+            {
+                "name": "pimple",
+                "qid": "Q1172159",
+                "url": "https://en.wikipedia.org/wiki/Pimple"
+            },
+            {
+                "name": "malabsorption",
+                "qid": "Q1442923",
+                "url": "https://en.wikipedia.org/wiki/Malabsorption"
+            },
+            {
+                "name": "xeroderma",
+                "qid": "Q1929023",
+                "url": "https://en.wikipedia.org/wiki/Xeroderma"
+            },
+            {
+                "name": "chronic diarrhea",
+                "qid": "Q10266065"
+            },
+            {
+                "name": "abnormality of the eyebrow",
+                "qid": "Q46978629"
+            },
+            {
+                "name": "cerebral cortical atrophy",
+                "qid": "Q46978740"
+            }
+        ]
+    }
+}

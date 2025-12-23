@@ -1,0 +1,29 @@
+{
+    "name": "emotionally unstable personality disorder, impulsive type",
+    "qid": "Q4200416",
+    "icd_10": "F60.30",
+    "description": "subtype of borderline personality disorder, with the ICD-10 classification of F60.30",
+    "aliases": [
+        "explosive personality disorder",
+        "aggressive personality disorder",
+        "borderline personality disorder: impulsive type"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "borderline personality disorder",
+                "qid": "Q208166",
+                "url": "https://en.wikipedia.org/wiki/Borderline_personality_disorder"
+            }
+        ]
+    }
+}

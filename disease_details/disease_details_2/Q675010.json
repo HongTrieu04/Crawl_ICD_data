@@ -1,0 +1,46 @@
+{
+    "name": "lysosomal storage disease",
+    "qid": "Q675010",
+    "icd_10": "E77",
+    "description": "inherited metabolic disorder that involve an abnormal accumulation of substances inside the lysosome resulting from defects in lysosomal function",
+    "aliases": [
+        "LSD",
+        "Lysosomal storage disease",
+        "disorder of lysosomal enzyme",
+        "disorder of lysosomal enzyme (disorder)",
+        "Disorder of Lysosomal Enzymes",
+        "inborn lysosomal enzyme disorder",
+        "LSDs",
+        "lysosomal disease",
+        "Lysosomal Storage Disorder",
+        "lysosomal storage metabolism disorder",
+        "PHOSPHOLIPIDOSIS"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gaucher%20disease%20-%20very%20high%20mag.jpg",
+    "url": "https://en.wikipedia.org/wiki/Lysosomal_storage_disease",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "inherited metabolic disorder",
+                "qid": "Q1758393",
+                "url": "https://en.wikipedia.org/wiki/Inborn_errors_of_metabolism"
+            },
+            {
+                "name": "overload disease",
+                "qid": "Q1496114"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ]
+    }
+}

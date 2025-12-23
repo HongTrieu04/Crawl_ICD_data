@@ -1,0 +1,144 @@
+{
+    "name": "Ross River fever",
+    "qid": "Q2744442",
+    "icd_10": "B33.1",
+    "description": "Human disease",
+    "aliases": [
+        "Ross River virus disease",
+        "Ross River Virus Infection"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alphavirus.png",
+    "url": "https://en.wikipedia.org/wiki/Ross_River_fever",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "diarrhea",
+                "qid": "Q40878",
+                "url": "https://en.wikipedia.org/wiki/Diarrhea"
+            },
+            {
+                "name": "meningitis",
+                "qid": "Q48143",
+                "url": "https://en.wikipedia.org/wiki/Meningitis"
+            },
+            {
+                "name": "rhinitis",
+                "qid": "Q114085",
+                "url": "https://en.wikipedia.org/wiki/Rhinitis"
+            },
+            {
+                "name": "lymphadenopathy",
+                "qid": "Q847726",
+                "url": "https://en.wikipedia.org/wiki/Lymphadenopathy"
+            },
+            {
+                "name": "splenomegaly",
+                "qid": "Q1129121",
+                "url": "https://en.wikipedia.org/wiki/Splenomegaly"
+            },
+            {
+                "name": "sore throat",
+                "qid": "Q1292082",
+                "url": "https://en.wikipedia.org/wiki/Sore_throat"
+            },
+            {
+                "name": "encephalitis",
+                "qid": "Q199615",
+                "url": "https://en.wikipedia.org/wiki/Encephalitis"
+            },
+            {
+                "name": "glomerulonephritis",
+                "qid": "Q605006",
+                "url": "https://en.wikipedia.org/wiki/Glomerulonephritis"
+            },
+            {
+                "name": "rash",
+                "qid": "Q653197",
+                "url": "https://en.wikipedia.org/wiki/Rash"
+            },
+            {
+                "name": "arthralgia",
+                "qid": "Q683498",
+                "url": "https://en.wikipedia.org/wiki/Arthralgia"
+            },
+            {
+                "name": "poisoning",
+                "qid": "Q114953"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "joint",
+                "qid": "Q9644",
+                "url": "https://en.wikipedia.org/wiki/Joint"
+            },
+            {
+                "name": "muscular system",
+                "qid": "Q7060553",
+                "url": "https://en.wikipedia.org/wiki/Muscular_system"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "detoxification",
+                "qid": "Q1090423",
+                "url": "https://en.wikipedia.org/wiki/Detoxification"
+            },
+            {
+                "name": "non-steroidal anti-inflammatory drug",
+                "qid": "Q188724",
+                "url": "https://en.wikipedia.org/wiki/Nonsteroidal_anti-inflammatory_drug"
+            },
+            {
+                "name": "corticosteroid",
+                "qid": "Q210420",
+                "url": "https://en.wikipedia.org/wiki/Corticosteroid"
+            },
+            {
+                "name": "antipyretic",
+                "qid": "Q582687",
+                "url": "https://en.wikipedia.org/wiki/Antipyretic"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "viral infectious disease",
+                "qid": "Q1928978",
+                "url": "https://en.wikipedia.org/wiki/Viral_disease"
+            },
+            {
+                "name": "alphavirus infections",
+                "qid": "Q4735280",
+                "url": "https://en.wikipedia.org/wiki/Alphavirus_infection"
+            },
+            {
+                "name": "mosquito-borne disease",
+                "qid": "Q6916469",
+                "url": "https://en.wikipedia.org/wiki/Mosquito-borne_disease"
+            },
+            {
+                "name": "arbovirosis",
+                "qid": "Q2859732"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Ross River virus",
+                "qid": "Q660537",
+                "url": "https://en.wikipedia.org/wiki/Ross_River_virus"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "puerperal mastitis",
+    "qid": "Q7258525",
+    "icd_10": "O91.2",
+    "description": "infection related to having children in women",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Puerperal_mastitis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "mastitis",
+                "qid": "Q835061",
+                "url": "https://en.wikipedia.org/wiki/Mastitis"
+            },
+            {
+                "name": "puerperal disorders",
+                "qid": "Q7258523",
+                "url": "https://en.wikipedia.org/wiki/Postpartum_disorder"
+            }
+        ]
+    }
+}

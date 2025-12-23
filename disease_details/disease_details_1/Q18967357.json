@@ -1,0 +1,27 @@
+{
+    "name": "thyrotoxicosis from ectopic thyroid nodule",
+    "qid": "Q18967357",
+    "icd_10": "E05.3",
+    "description": "Human disease",
+    "aliases": [
+        "hyperthyroidism due to ectopic thyroid nodule (disorder)",
+        "obsolete thyrotoxicosis from ectopic thyroid nodule",
+        "Thyrotoxicosis from ectopic thyroid nodule NOS (disorder)",
+        "thyrotoxicosis from ectopic thyroid nodule with crisis",
+        "Thyrotoxicosis from ectopic thyroid nodule with crisis (disorder)",
+        "Thyrotoxicosis from ectopic thyroid nodule with mention of thyrotoxic crisis or storm",
+        "thyrotoxicosis from ectopic thyroid nodule with no crisis",
+        "Thyrotoxicosis from ectopic thyroid nodule with no crisis (disorder)",
+        "Thyrotoxicosis from ectopic thyroid nodule without mention of thyrotoxic crisis or storm"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "thyrotoxicosis",
+                "qid": "Q3991731"
+            }
+        ]
+    }
+}

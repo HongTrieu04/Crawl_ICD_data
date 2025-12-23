@@ -1,0 +1,33 @@
+{
+    "name": "Barodontalgia",
+    "qid": "Q4862068",
+    "icd_10": "W94",
+    "description": "tooth pain caused by pressure",
+    "aliases": [
+        "aerodontaldia",
+        "tooth squeeze"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Barodontalgia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "dental disease",
+                "qid": "Q5259414",
+                "url": "https://en.wikipedia.org/wiki/Tooth_pathology"
+            },
+            {
+                "name": "Dental barotrauma",
+                "qid": "Q17007356",
+                "url": "https://en.wikipedia.org/wiki/Dental_barotrauma"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "dentistry",
+                "qid": "Q12128",
+                "url": "https://en.wikipedia.org/wiki/Dentistry"
+            }
+        ]
+    }
+}

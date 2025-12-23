@@ -1,0 +1,23 @@
+{
+    "name": "meningitis with clear cerebrospinal fluid",
+    "qid": "Q18967014",
+    "icd_10": "G03.0",
+    "description": "Human disease",
+    "aliases": [
+        "Non-pyogenic meningitis (disorder)",
+        "Nonpyogenic meningitis",
+        "Nonpyogenic meningitis (disorder)",
+        "obsolete meningitis with clear cerebrospinal fluid"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "meningitis",
+                "qid": "Q48143",
+                "url": "https://en.wikipedia.org/wiki/Meningitis"
+            }
+        ]
+    }
+}

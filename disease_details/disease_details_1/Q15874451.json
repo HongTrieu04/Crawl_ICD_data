@@ -1,0 +1,25 @@
+{
+    "name": "wrist osteoarthritis",
+    "qid": "Q15874451",
+    "icd_10": "M19.93",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Wrist_osteoarthritis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "orthopedics",
+                "qid": "Q216685",
+                "url": "https://en.wikipedia.org/wiki/Orthopedic_surgery"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "osteoarthritis",
+                "qid": "Q62736",
+                "url": "https://en.wikipedia.org/wiki/Osteoarthritis"
+            }
+        ]
+    }
+}

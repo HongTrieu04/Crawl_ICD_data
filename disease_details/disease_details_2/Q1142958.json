@@ -1,0 +1,25 @@
+{
+    "name": "elbow osteoarthritis",
+    "qid": "Q1142958",
+    "icd_10": "M19.92",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "osteoarthritis",
+                "qid": "Q62736",
+                "url": "https://en.wikipedia.org/wiki/Osteoarthritis"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "elbow",
+                "qid": "Q42586",
+                "url": "https://en.wikipedia.org/wiki/Elbow"
+            }
+        ]
+    }
+}

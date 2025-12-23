@@ -1,0 +1,29 @@
+{
+    "name": "Urachal cyst",
+    "qid": "Q7899540",
+    "icd_10": "Q64.4",
+    "description": "congenital disorder of urinary system",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Urachal_cyst",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "cyst",
+                "qid": "Q193211",
+                "url": "https://en.wikipedia.org/wiki/Cyst"
+            },
+            {
+                "name": "congenital urachal anomaly",
+                "qid": "Q55788182"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

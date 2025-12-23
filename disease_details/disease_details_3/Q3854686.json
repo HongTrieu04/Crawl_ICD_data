@@ -1,0 +1,32 @@
+{
+    "name": "staphylococcal meningitis",
+    "qid": "Q3854686",
+    "icd_10": "G00.3",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete staphylococcal meningitis",
+        "Staphylococcal meningitis (disorder)"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "staphylococcal infection",
+                "qid": "Q34879",
+                "url": "https://en.wikipedia.org/wiki/Staphylococcal_infection"
+            },
+            {
+                "name": "bacterial meningitis",
+                "qid": "Q3678510"
+            }
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "name": "stress incontinence",
+    "qid": "Q3797702",
+    "icd_10": "N39.3",
+    "description": "involuntary discharge of urine as a result of physical activities that increase abdominal pressure on the urinary bladder, without detrusor contraction or overdistended bladder",
+    "aliases": [
+        "SUI",
+        "Stress Urinary Incontinence",
+        "Urinary Incontinence, Stress"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Stress_incontinence",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "urogynecology",
+                "qid": "Q7900864",
+                "url": "https://en.wikipedia.org/wiki/Urogynecology"
+            },
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            },
+            {
+                "name": "gynaecology",
+                "qid": "Q1221899",
+                "url": "https://en.wikipedia.org/wiki/Gynaecology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "urinary incontinence",
+                "qid": "Q281490",
+                "url": "https://en.wikipedia.org/wiki/Urinary_incontinence"
+            }
+        ]
+    }
+}

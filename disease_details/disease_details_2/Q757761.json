@@ -1,0 +1,21 @@
+{
+    "name": "Atrophic spots of skin",
+    "qid": "Q757761",
+    "icd_10": "L95.0",
+    "description": null,
+    "aliases": [
+        "atrophie blanche",
+        "white atrophy"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "blanch",
+                "qid": "Q4924780",
+                "url": "https://en.wikipedia.org/wiki/Blanch_(medical)"
+            }
+        ]
+    }
+}

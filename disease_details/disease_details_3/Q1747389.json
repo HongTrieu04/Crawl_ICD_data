@@ -1,0 +1,24 @@
+{
+    "name": "Scombroid food poisoning",
+    "qid": "Q1747389",
+    "icd_10": "T61.1",
+    "description": "foodborne illness that typically results from eating spoiled old fish",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Scombroid_food_poisoning",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "seafood poisoning",
+                "qid": "Q3147703"
+            }
+        ]
+    }
+}

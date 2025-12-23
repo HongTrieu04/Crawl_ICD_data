@@ -1,0 +1,25 @@
+{
+    "name": "Trifascicular block",
+    "qid": "Q3640997",
+    "icd_10": "I45.3",
+    "description": "problem with the electrical conduction of the heart",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Trifascicular_block",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "bundle branch block",
+                "qid": "Q13365162",
+                "url": "https://en.wikipedia.org/wiki/Bundle_branch_block"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ]
+    }
+}

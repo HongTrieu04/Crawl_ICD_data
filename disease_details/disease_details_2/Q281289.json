@@ -1,0 +1,276 @@
+{
+    "name": "photophobia",
+    "qid": "Q281289",
+    "icd_10": "H53.1",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Photophobia",
+    "details": {
+        "Cause": [
+            {
+                "name": "light",
+                "qid": "Q9128",
+                "url": "https://en.wikipedia.org/wiki/Light"
+            },
+            {
+                "name": "influenza",
+                "qid": "Q2840",
+                "url": "https://en.wikipedia.org/wiki/Influenza"
+            },
+            {
+                "name": "rabies",
+                "qid": "Q39222",
+                "url": "https://en.wikipedia.org/wiki/Rabies"
+            },
+            {
+                "name": "uveitis",
+                "qid": "Q280027",
+                "url": "https://en.wikipedia.org/wiki/Uveitis"
+            },
+            {
+                "name": "isotretinoin",
+                "qid": "Q287029",
+                "url": "https://en.wikipedia.org/wiki/Isotretinoin"
+            },
+            {
+                "name": "mercury poisoning",
+                "qid": "Q408089",
+                "url": "https://en.wikipedia.org/wiki/Mercury_poisoning"
+            },
+            {
+                "name": "achromatopsia",
+                "qid": "Q432396",
+                "url": "https://en.wikipedia.org/wiki/Achromatopsia"
+            },
+            {
+                "name": "aniridia",
+                "qid": "Q548719",
+                "url": "https://en.wikipedia.org/wiki/Aniridia"
+            },
+            {
+                "name": "aphakia",
+                "qid": "Q558623",
+                "url": "https://en.wikipedia.org/wiki/Aphakia"
+            },
+            {
+                "name": "keratoconus",
+                "qid": "Q611984",
+                "url": "https://en.wikipedia.org/wiki/Keratoconus"
+            },
+            {
+                "name": "encephalitis",
+                "qid": "Q199615",
+                "url": "https://en.wikipedia.org/wiki/Encephalitis"
+            },
+            {
+                "name": "infectious mononucleosis",
+                "qid": "Q207367",
+                "url": "https://en.wikipedia.org/wiki/Infectious_mononucleosis"
+            },
+            {
+                "name": "chronic fatigue syndrome",
+                "qid": "Q209733",
+                "url": "https://en.wikipedia.org/wiki/Myalgic_encephalomyelitis/chronic_fatigue_syndrome"
+            },
+            {
+                "name": "chikungunya",
+                "qid": "Q243257",
+                "url": "https://en.wikipedia.org/wiki/Chikungunya"
+            },
+            {
+                "name": "retinal detachment",
+                "qid": "Q625164",
+                "url": "https://en.wikipedia.org/wiki/Retinal_detachment"
+            },
+            {
+                "name": "subarachnoid hemorrhage",
+                "qid": "Q693442",
+                "url": "https://en.wikipedia.org/wiki/Subarachnoid_hemorrhage"
+            },
+            {
+                "name": "keratitis",
+                "qid": "Q757838",
+                "url": "https://en.wikipedia.org/wiki/Keratitis"
+            },
+            {
+                "name": "meibomian cyst",
+                "qid": "Q769595",
+                "url": "https://en.wikipedia.org/wiki/Chalazion"
+            },
+            {
+                "name": "blepharitis",
+                "qid": "Q845698",
+                "url": "https://en.wikipedia.org/wiki/Blepharitis"
+            },
+            {
+                "name": "albinism",
+                "qid": "Q81867",
+                "url": "https://en.wikipedia.org/wiki/Albinism"
+            },
+            {
+                "name": "benzodiazepine drug",
+                "qid": "Q83871",
+                "url": "https://en.wikipedia.org/wiki/Benzodiazepine"
+            },
+            {
+                "name": "cataract",
+                "qid": "Q127724",
+                "url": "https://en.wikipedia.org/wiki/Cataract"
+            },
+            {
+                "name": "dyslexia",
+                "qid": "Q132971",
+                "url": "https://en.wikipedia.org/wiki/Dyslexia"
+            },
+            {
+                "name": "migraine",
+                "qid": "Q133823",
+                "url": "https://en.wikipedia.org/wiki/Migraine"
+            },
+            {
+                "name": "cone dystrophy",
+                "qid": "Q147270",
+                "url": "https://en.wikipedia.org/wiki/Cone_dystrophy"
+            },
+            {
+                "name": "glaucoma",
+                "qid": "Q159701",
+                "url": "https://en.wikipedia.org/wiki/Glaucoma"
+            },
+            {
+                "name": "meningitis",
+                "qid": "Q48143",
+                "url": "https://en.wikipedia.org/wiki/Meningitis"
+            },
+            {
+                "name": "ankylosing spondylitis",
+                "qid": "Q52849",
+                "url": "https://en.wikipedia.org/wiki/Ankylosing_spondylitis"
+            },
+            {
+                "name": "progressive supranuclear palsy",
+                "qid": "Q945930",
+                "url": "https://en.wikipedia.org/wiki/Progressive_supranuclear_palsy"
+            },
+            {
+                "name": "optic neuritis",
+                "qid": "Q972514",
+                "url": "https://en.wikipedia.org/wiki/Optic_neuritis"
+            },
+            {
+                "name": "chemotherapy",
+                "qid": "Q974135",
+                "url": "https://en.wikipedia.org/wiki/Chemotherapy"
+            },
+            {
+                "name": "Arnold-Chiari malformation",
+                "qid": "Q1071707",
+                "url": "https://en.wikipedia.org/wiki/Chiari_malformation"
+            },
+            {
+                "name": "cystinosis",
+                "qid": "Q1149042",
+                "url": "https://en.wikipedia.org/wiki/Cystinosis"
+            },
+            {
+                "name": "endophthalmitis",
+                "qid": "Q1294912",
+                "url": "https://en.wikipedia.org/wiki/Endophthalmitis"
+            },
+            {
+                "name": "autism spectrum disorder",
+                "qid": "Q1436063",
+                "url": "https://en.wikipedia.org/wiki/Autism_spectrum"
+            },
+            {
+                "name": "foreign body",
+                "qid": "Q1455142",
+                "url": "https://en.wikipedia.org/wiki/Foreign_body"
+            },
+            {
+                "name": "corneal ulcer",
+                "qid": "Q1628473",
+                "url": "https://en.wikipedia.org/wiki/Corneal_ulcer"
+            },
+            {
+                "name": "ectopia lentis",
+                "qid": "Q1827028",
+                "url": "https://en.wikipedia.org/wiki/Ectopia_lentis"
+            },
+            {
+                "name": "corneal dystrophy",
+                "qid": "Q2044949",
+                "url": "https://en.wikipedia.org/wiki/Corneal_dystrophy"
+            },
+            {
+                "name": "corneal abrasion",
+                "qid": "Q3510332",
+                "url": "https://en.wikipedia.org/wiki/Corneal_abrasion"
+            },
+            {
+                "name": "hypomagnesemia",
+                "qid": "Q3771629",
+                "url": "https://en.wikipedia.org/wiki/Magnesium_deficiency"
+            },
+            {
+                "name": "buphthalmos",
+                "qid": "Q4305015",
+                "url": "https://en.wikipedia.org/wiki/Buphthalmos"
+            },
+            {
+                "name": "optic nerve hypoplasia",
+                "qid": "Q7098797",
+                "url": "https://en.wikipedia.org/wiki/Optic_nerve_hypoplasia"
+            },
+            {
+                "name": "pupillary response",
+                "qid": "Q7260673",
+                "url": "https://en.wikipedia.org/wiki/Pupillary_response"
+            },
+            {
+                "name": "tyrosinemia type II",
+                "qid": "Q7484623",
+                "url": "https://en.wikipedia.org/wiki/Tyrosinemia_type_II"
+            },
+            {
+                "name": "viral conjunctivitis",
+                "qid": "Q54974347"
+            },
+            {
+                "name": "congenital disorder",
+                "qid": "Q55014976"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "Diclofenac",
+                "qid": "Q244408",
+                "url": "https://en.wikipedia.org/wiki/Diclofenac"
+            },
+            {
+                "name": "ketorolac tromethamine",
+                "qid": "Q27107089"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "vision disorder",
+                "qid": "Q767669",
+                "url": "https://en.wikipedia.org/wiki/Vision_disorder"
+            },
+            {
+                "name": "photosensitivity",
+                "qid": "Q2944236",
+                "url": "https://en.wikipedia.org/wiki/Photosensitivity_in_humans"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            }
+        ]
+    }
+}

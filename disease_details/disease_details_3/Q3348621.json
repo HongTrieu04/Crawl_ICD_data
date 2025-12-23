@@ -1,0 +1,25 @@
+{
+    "name": "chronic total occlusion  of coronary artery",
+    "qid": "Q3348621",
+    "icd_10": "I25.82",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "coronary occlusion",
+                "qid": "Q5172192",
+                "url": "https://en.wikipedia.org/wiki/Coronary_occlusion"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ]
+    }
+}

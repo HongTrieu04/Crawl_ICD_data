@@ -1,0 +1,19 @@
+{
+    "name": "oligodontism",
+    "qid": "Q21011980",
+    "icd_10": "K00.0",
+    "description": "reduced number of teeth, whereby more than 6 teeth are missing",
+    "aliases": [
+        "Oligodontia"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "tooth agenesis",
+                "qid": "Q1923603"
+            }
+        ]
+    }
+}

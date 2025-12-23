@@ -1,0 +1,75 @@
+{
+    "name": "cat-scratch disease",
+    "qid": "Q639776",
+    "icd_10": "A28.1",
+    "description": "human disease",
+    "aliases": [
+        "CSD",
+        "Bartonellosis due to Bartonella henselae infection",
+        "benign lymphoreticulosis",
+        "cat scratch disease",
+        "cat scratch fever",
+        "cat-scratch fever",
+        "Debre-Mollaret syndrome",
+        "Debre's syndrome",
+        "Foshay-Mollaret cat scratch fever"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cat-scratch-disease.jpg",
+    "url": "https://en.wikipedia.org/wiki/Cat-scratch_disease",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "bacterial infectious disease",
+                "qid": "Q727028",
+                "url": "https://en.wikipedia.org/wiki/Bacterial_disease"
+            },
+            {
+                "name": "bartonellosis",
+                "qid": "Q809561",
+                "url": "https://en.wikipedia.org/wiki/Bartonellosis"
+            },
+            {
+                "name": "immune disorder",
+                "qid": "Q3843811",
+                "url": "https://en.wikipedia.org/wiki/Immune_disorder"
+            },
+            {
+                "name": "lymph node disease",
+                "qid": "Q18558262"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "chills",
+                "qid": "Q2260058",
+                "url": "https://en.wikipedia.org/wiki/Chills"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Bartonella henselae",
+                "qid": "Q140599",
+                "url": "https://en.wikipedia.org/wiki/Bartonella_henselae"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "lymph node",
+                "qid": "Q170758",
+                "url": "https://en.wikipedia.org/wiki/Lymph_node"
+            }
+        ]
+    }
+}

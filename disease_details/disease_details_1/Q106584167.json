@@ -1,0 +1,28 @@
+{
+    "name": "excessive ear wax",
+    "qid": "Q106584167",
+    "icd_10": "H61.2",
+    "description": "symptom/complaint due to wax in ear canal",
+    "aliases": [
+        "ceruminosis",
+        "excessive cerumen",
+        "impacted cerumen"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/OhrenSchmalzBrocken.jpg",
+    "url": null,
+    "details": {
+        "Drug used for treatment": [
+            {
+                "name": "cerumenolytic agent",
+                "qid": "Q50573446",
+                "url": "https://en.wikipedia.org/wiki/Cerumenolytic"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "external ear disease",
+                "qid": "Q18556075"
+            }
+        ]
+    }
+}

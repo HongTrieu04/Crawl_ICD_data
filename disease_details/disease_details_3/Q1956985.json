@@ -1,0 +1,30 @@
+{
+    "name": "Myxedema coma",
+    "qid": "Q1956985",
+    "icd_10": "E03.5",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Myxedema_coma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "hypothyroidism",
+                "qid": "Q16501",
+                "url": "https://en.wikipedia.org/wiki/Hypothyroidism"
+            },
+            {
+                "name": "myxedema",
+                "qid": "Q966229",
+                "url": "https://en.wikipedia.org/wiki/Myxedema"
+            }
+        ]
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "name": "nevus of Ota",
+    "qid": "Q2053690",
+    "icd_10": "D22.3",
+    "description": "macular lesion on the side of the face",
+    "aliases": [
+        "Naevus fuscocerulophthalmomaxillaris",
+        "Naevus fusoceruleus ophthalmomaxillaris",
+        "Nevus fusculoceruleus ophthalmomaxillaris",
+        "nevus of ota",
+        "nevus of Ota (disorder)",
+        "obsolete nevus of ota",
+        "Oculocutaneous melanocytic nevus",
+        "Oculodermal malanocytosis",
+        "Oculodermal Melanocytosis",
+        "Ota's Nevus",
+        "primary acquired melanosis",
+        "primary acquired melanosis of conjunctiva (disorder)"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nevus%20013.jpg",
+    "url": "https://en.wikipedia.org/wiki/Nevus_of_Ota",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "nevus",
+                "qid": "Q692077",
+                "url": "https://en.wikipedia.org/wiki/Nevus"
+            },
+            {
+                "name": "ocular melanosis",
+                "qid": "Q1392911",
+                "url": "https://en.wikipedia.org/wiki/Ocular_melanosis"
+            },
+            {
+                "name": "hyperpigmentation",
+                "qid": "Q1641068",
+                "url": "https://en.wikipedia.org/wiki/Hyperpigmentation"
+            },
+            {
+                "name": "conjunctival nevus",
+                "qid": "Q18553551"
+            }
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "name": "Ganser syndrome",
+    "qid": "Q911160",
+    "icd_10": "F44.80",
+    "description": "rare dissociative disorder previously classified as a factitious disorder",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Ganser_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "psychology",
+                "qid": "Q9418",
+                "url": "https://en.wikipedia.org/wiki/Psychology"
+            },
+            {
+                "name": "psychotherapy",
+                "qid": "Q183257",
+                "url": "https://en.wikipedia.org/wiki/Psychotherapy"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "dissociative disorder",
+                "qid": "Q2627467",
+                "url": "https://en.wikipedia.org/wiki/Dissociative_disorder"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "twilight state",
+                "qid": "Q3591816"
+            }
+        ]
+    }
+}

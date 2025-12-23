@@ -1,0 +1,30 @@
+{
+    "name": "Chance fracture",
+    "qid": "Q5070742",
+    "icd_10": "S22.0",
+    "description": "medical condition",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/PchancefracCT.png",
+    "url": "https://en.wikipedia.org/wiki/Chance_fracture",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "spinal fracture",
+                "qid": "Q7577460",
+                "url": "https://en.wikipedia.org/wiki/Spinal_fracture"
+            },
+            {
+                "name": "bone fracture",
+                "qid": "Q68833",
+                "url": "https://en.wikipedia.org/wiki/Bone_fracture"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ]
+    }
+}

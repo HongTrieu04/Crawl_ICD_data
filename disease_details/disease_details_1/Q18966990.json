@@ -1,0 +1,34 @@
+{
+    "name": "anorectal gonorrhea",
+    "qid": "Q18966990",
+    "icd_10": "A54.6",
+    "description": "human disease",
+    "aliases": [
+        "Gonococcal infection of anus and rectum",
+        "gonococcal infectious disease of anus and rectum",
+        "gonococcal proctitis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Drug used for treatment": [
+            {
+                "name": "cefpodoxime",
+                "qid": "Q415173",
+                "url": "https://en.wikipedia.org/wiki/Cefpodoxime"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "anorectal disorder",
+                "qid": "Q4770164",
+                "url": "https://en.wikipedia.org/wiki/Anorectal_disorder"
+            },
+            {
+                "name": "gonorrhea",
+                "qid": "Q101896",
+                "url": "https://en.wikipedia.org/wiki/Gonorrhea"
+            }
+        ]
+    }
+}

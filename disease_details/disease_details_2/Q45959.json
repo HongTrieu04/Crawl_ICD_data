@@ -1,0 +1,38 @@
+{
+    "name": "adverse drug reaction",
+    "qid": "Q45959",
+    "icd_10": "Y59",
+    "description": "unintended effect due to administration of one or more drugs",
+    "aliases": [
+        "ADR",
+        "adverse reaction to drug",
+        "drug adverse reaction",
+        "drug side effect",
+        "Drug-Related Side Effects and Adverse Reactions"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Adverse_drug_reaction",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "iatrogenesis",
+                "qid": "Q284220",
+                "url": "https://en.wikipedia.org/wiki/Iatrogenesis"
+            },
+            {
+                "name": "adverse effect",
+                "qid": "Q2047938",
+                "url": "https://en.wikipedia.org/wiki/Adverse_effect"
+            },
+            {
+                "name": "adverse event",
+                "qid": "Q11516357",
+                "url": "https://en.wikipedia.org/wiki/Adverse_event"
+            },
+            {
+                "name": "response to drug",
+                "qid": "Q14599775"
+            }
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "name": "tension pneumothorax",
+    "qid": "Q440153",
+    "icd_10": "J93.0",
+    "description": "life-threatening condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Tension_pneumothorax",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "pneumothorax",
+                "qid": "Q203601",
+                "url": "https://en.wikipedia.org/wiki/Pneumothorax"
+            }
+        ]
+    }
+}

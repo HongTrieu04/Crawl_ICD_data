@@ -1,0 +1,99 @@
+{
+    "name": "cerebral venous sinus thrombosis",
+    "qid": "Q1428132",
+    "icd_10": "I67.6",
+    "description": "presence of acute thrombosis (a blood clot) in the dural venous sinuses, which drain blood from the brain.",
+    "aliases": [
+        "(Superior) sagittal sinus thrombosis)",
+        "cerebral vein thrombosis",
+        "Cerebral venous and sinus thrombosis",
+        "Cerebral Venous Thrombosis",
+        "CVST",
+        "Dural sinus thrombosis",
+        "intracranial sinus thrombosis",
+        "Intracranial venous thrombosis",
+        "Sinus Thrombosis, Intracranial"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MBq%20sinusvenenthrombose.jpg",
+    "url": "https://en.wikipedia.org/wiki/Cerebral_venous_sinus_thrombosis",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            },
+            {
+                "name": "asthenia",
+                "qid": "Q633403",
+                "url": "https://en.wikipedia.org/wiki/Asthenia"
+            },
+            {
+                "name": "convulsion",
+                "qid": "Q852376",
+                "url": "https://en.wikipedia.org/wiki/Convulsion"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "stroke",
+                "qid": "Q12202",
+                "url": "https://en.wikipedia.org/wiki/Stroke"
+            },
+            {
+                "name": "venous thrombosis",
+                "qid": "Q2751330",
+                "url": "https://en.wikipedia.org/wiki/Venous_thrombosis"
+            },
+            {
+                "name": "intracranial thrombosis",
+                "qid": "Q18556223"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "circulatory system",
+                "qid": "Q11068",
+                "url": "https://en.wikipedia.org/wiki/Circulatory_system"
+            },
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "anticoagulant",
+                "qid": "Q215118",
+                "url": "https://en.wikipedia.org/wiki/Anticoagulant"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "thrombophilia",
+                "qid": "Q1570013",
+                "url": "https://en.wikipedia.org/wiki/Thrombophilia"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "cranial cavity",
+                "qid": "Q1710207",
+                "url": "https://en.wikipedia.org/wiki/Cranial_cavity"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "low molecular weight heparin",
+                "qid": "Q2750727",
+                "url": "https://en.wikipedia.org/wiki/Low-molecular-weight_heparin"
+            }
+        ]
+    }
+}

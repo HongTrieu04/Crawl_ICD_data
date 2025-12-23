@@ -1,0 +1,25 @@
+{
+    "name": "waxy flexibility",
+    "qid": "Q460263",
+    "icd_10": "F20.2",
+    "description": "psychomotor symptom of catatonia, abnormal maintenance of postures",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Waxy_flexibility",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "catatonia",
+                "qid": "Q501571",
+                "url": "https://en.wikipedia.org/wiki/Catatonia"
+            }
+        ]
+    }
+}

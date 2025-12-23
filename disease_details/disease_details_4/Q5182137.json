@@ -1,0 +1,39 @@
+{
+    "name": "craniofacial abnormality",
+    "qid": "Q5182137",
+    "icd_10": "Q75",
+    "description": "Human disease",
+    "aliases": [
+        "Congenital abnormality of skull and face bones (disorder)",
+        "Congenital anomalies of skull and face bones",
+        "Craniofacial Abnormalities",
+        "obsolete craniofacial abnormality",
+        "Skull and face &/or face bone anomalies",
+        "Skull or face bone anomaly NOS",
+        "Skull or face bone anomaly NOS (disorder)"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Craniofacial_abnormality",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "craniofacial disease",
+                "qid": "Q5182134",
+                "url": "https://en.wikipedia.org/wiki/Craniofacial"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "abnormal facial shape",
+                "qid": "Q29019704"
+            }
+        ]
+    }
+}

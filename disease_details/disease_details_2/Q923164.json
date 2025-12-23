@@ -1,0 +1,35 @@
+{
+    "name": "expressive aphasia",
+    "qid": "Q923164",
+    "icd_10": "F80.1",
+    "description": "type of aphasia characterized by partial loss of the ability to produce language",
+    "aliases": [
+        "Broca's aphasia"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Broca%27s%20aphasia.png",
+    "url": "https://en.wikipedia.org/wiki/Expressive_aphasia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "aphasia",
+                "qid": "Q2836",
+                "url": "https://en.wikipedia.org/wiki/Aphasia"
+            },
+            {
+                "name": "acute aphasia",
+                "qid": "Q15636221"
+            },
+            {
+                "name": "expressive dysphasia",
+                "qid": "Q21816967"
+            }
+        ]
+    }
+}

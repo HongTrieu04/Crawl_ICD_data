@@ -1,0 +1,28 @@
+{
+    "name": "apparent life-threatening event syndrome",
+    "qid": "Q1472019",
+    "icd_10": "P28",
+    "description": "medical condition",
+    "aliases": [
+        "apparent life-threatening events",
+        "brief resolved unexplained event"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Brief_resolved_unexplained_event",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "cyanosis",
+                "qid": "Q192120",
+                "url": "https://en.wikipedia.org/wiki/Cyanosis"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ]
+    }
+}

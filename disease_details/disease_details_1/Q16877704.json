@@ -1,0 +1,25 @@
+{
+    "name": "mycetoma",
+    "qid": "Q16877704",
+    "icd_10": "B47",
+    "description": "chronic subcutaneous infection caused by aerobic actinomycetic bacteria or fungi",
+    "aliases": [
+        "Madura foot"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Madura%20foot.jpg",
+    "url": "https://en.wikipedia.org/wiki/Mycetoma",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "nocardiosis",
+                "qid": "Q1856914",
+                "url": "https://en.wikipedia.org/wiki/Nocardiosis"
+            },
+            {
+                "name": "dermatomycosis",
+                "qid": "Q3705876",
+                "url": "https://en.wikipedia.org/wiki/Dermatomycosis"
+            }
+        ]
+    }
+}

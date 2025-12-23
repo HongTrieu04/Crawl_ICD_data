@@ -1,0 +1,25 @@
+{
+    "name": "chronic tubulointerstitial nephritis",
+    "qid": "Q10549448",
+    "icd_10": "N11",
+    "description": null,
+    "aliases": [
+        "Chronic interstitial nephritis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "chronic renal insufficiency",
+                "qid": "Q736715",
+                "url": "https://en.wikipedia.org/wiki/Chronic_kidney_disease"
+            },
+            {
+                "name": "interstitial nephritis",
+                "qid": "Q1424106",
+                "url": "https://en.wikipedia.org/wiki/Interstitial_nephritis"
+            }
+        ]
+    }
+}

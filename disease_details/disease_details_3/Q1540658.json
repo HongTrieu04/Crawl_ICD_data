@@ -1,0 +1,24 @@
+{
+    "name": "cardiac syndrome X",
+    "qid": "Q1540658",
+    "icd_10": "I20.8",
+    "description": "angina (chest pain) with signs associated with decreased blood flow to heart tissue but with normal coronary arteries",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Microvascular_angina",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "microvascular angina",
+                "qid": "Q30900016"
+            }
+        ]
+    }
+}

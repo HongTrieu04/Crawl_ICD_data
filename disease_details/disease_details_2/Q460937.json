@@ -1,0 +1,39 @@
+{
+    "name": "hemangioblastoma",
+    "qid": "Q460937",
+    "icd_10": "D48.1",
+    "description": "tumor of the central nervous system that originates from the vascular system",
+    "aliases": [
+        "Angioblastoma",
+        "capillary hemangioblastoma",
+        "haemangioblastomas",
+        "Hemangioblastoma"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hemangioblastoma%20cerebellum.jpg",
+    "url": "https://en.wikipedia.org/wiki/Hemangioblastoma",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "hemangioma",
+                "qid": "Q861028",
+                "url": "https://en.wikipedia.org/wiki/Hemangioma"
+            },
+            {
+                "name": "rare nervous system tumor",
+                "qid": "Q55789072"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Meconium plug syndrome",
+    "qid": "Q3961649",
+    "icd_10": "P76.0",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "Neonatal bowel obstruction",
+                "qid": "Q17151226",
+                "url": "https://en.wikipedia.org/wiki/Neonatal_bowel_obstruction"
+            }
+        ]
+    }
+}

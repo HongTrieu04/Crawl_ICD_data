@@ -1,0 +1,20 @@
+{
+    "name": "water retention",
+    "qid": "Q3143800",
+    "icd_10": "R60.9",
+    "description": "also known as fluid retention, in various tissues and vessels",
+    "aliases": [
+        "dropsy"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "edema",
+                "qid": "Q152234",
+                "url": "https://en.wikipedia.org/wiki/Edema"
+            }
+        ]
+    }
+}

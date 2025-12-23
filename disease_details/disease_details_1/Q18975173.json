@@ -1,0 +1,24 @@
+{
+    "name": "tumors of body of uterus, with delivery",
+    "qid": "Q18975173",
+    "icd_10": "O34.1",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete tumors of body of uterus, with delivery",
+        "tumors of body of uterus complicating pregnancy, childbirth, or the puerperium"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "neoplasm of body of uterus",
+                "qid": "Q19000469"
+            },
+            {
+                "name": "Congenital abnormalities of uterus complicating pregnancy, childbirth, or the puerperium",
+                "qid": "Q19001343"
+            }
+        ]
+    }
+}

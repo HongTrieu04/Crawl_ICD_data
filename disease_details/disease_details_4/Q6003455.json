@@ -1,0 +1,60 @@
+{
+    "name": "cachexia",
+    "qid": "Q6003455",
+    "icd_10": "R64",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Cachexia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "internal medicine",
+                "qid": "Q11180",
+                "url": "https://en.wikipedia.org/wiki/Internal_medicine"
+            },
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "somatrem",
+                "qid": "Q7559307",
+                "url": "https://en.wikipedia.org/wiki/Somatrem"
+            },
+            {
+                "name": "megestrol",
+                "qid": "Q410513",
+                "url": "https://en.wikipedia.org/wiki/Megestrol"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "wasting",
+                "qid": "Q7972881",
+                "url": "https://en.wikipedia.org/wiki/Wasting"
+            },
+            {
+                "name": "physiological condition",
+                "qid": "Q7189713",
+                "url": "https://en.wikipedia.org/wiki/Physiological_condition"
+            },
+            {
+                "name": "health problem",
+                "qid": "Q2057971"
+            },
+            {
+                "name": "nutrition, metabolism, and development symptom",
+                "qid": "Q102187407"
+            }
+        ]
+    }
+}

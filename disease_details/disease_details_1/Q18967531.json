@@ -1,0 +1,27 @@
+{
+    "name": "Toxoplasma hepatitis",
+    "qid": "Q18967531",
+    "icd_10": "B58.1",
+    "description": "Human disease",
+    "aliases": [
+        "Hepatitis due to toxoplasmosis",
+        "obsolete Toxoplasma hepatitis",
+        "Toxoplasma hepatitis (disorder)"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "toxoplasmosis",
+                "qid": "Q154878",
+                "url": "https://en.wikipedia.org/wiki/Toxoplasmosis"
+            },
+            {
+                "name": "hepatitis",
+                "qid": "Q131742",
+                "url": "https://en.wikipedia.org/wiki/Hepatitis"
+            }
+        ]
+    }
+}

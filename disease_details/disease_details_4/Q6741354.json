@@ -1,0 +1,28 @@
+{
+    "name": "malarial nephropathy",
+    "qid": "Q6741354",
+    "icd_10": "B52.0",
+    "description": "renal failure attributed to malarial infection",
+    "aliases": [
+        "malarial renal failure",
+        "quartan nephropathy"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Malarial_nephropathy",
+    "details": {
+        "Cause": [
+            {
+                "name": "malaria",
+                "qid": "Q12156",
+                "url": "https://en.wikipedia.org/wiki/Malaria"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "kidney disease",
+                "qid": "Q1054718",
+                "url": "https://en.wikipedia.org/wiki/Kidney_disease"
+            }
+        ]
+    }
+}

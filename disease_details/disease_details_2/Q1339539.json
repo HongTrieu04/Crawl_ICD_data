@@ -1,0 +1,31 @@
+{
+    "name": "empyema",
+    "qid": "Q1339539",
+    "icd_10": "J86.9",
+    "description": "gathering of pus within a naturally existing anatomical cavity",
+    "aliases": [
+        "collection of pus"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Empyema%20%283705506694%29.jpg",
+    "url": "https://en.wikipedia.org/wiki/Empyema",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "surgery",
+                "qid": "Q40821",
+                "url": "https://en.wikipedia.org/wiki/Surgery"
+            },
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "suppuration",
+                "qid": "Q3504924"
+            }
+        ]
+    }
+}

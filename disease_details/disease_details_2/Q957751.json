@@ -1,0 +1,43 @@
+{
+    "name": "XY gonadal dysgenesis",
+    "qid": "Q957751",
+    "icd_10": "Q56.4",
+    "description": "gonadal dysgenesis that is characterized by a normal 46,XY karyotype along with a progressive loss of germ cells on the developing gonads of an embryo",
+    "aliases": [
+        "46 XY gonadal dysgenesis",
+        "46, XY disorders of sex development",
+        "46,XY sex reversal",
+        "Gonadal Dysgenesis, 46,XY",
+        "Pure gonadal dysgenesis 46,XY",
+        "Pure gonadal dysgenesis 46,XY (disorder)",
+        "Swyer syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/XY_gonadal_dysgenesis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "gonadal dysgenesis",
+                "qid": "Q1332427",
+                "url": "https://en.wikipedia.org/wiki/Gonadal_dysgenesis"
+            },
+            {
+                "name": "disorder of sex development, 46,XY",
+                "qid": "Q66653235",
+                "url": "https://en.wikipedia.org/wiki/Male_pseudohermaphrodism"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

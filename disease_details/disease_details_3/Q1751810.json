@@ -1,0 +1,24 @@
+{
+    "name": "arteritis",
+    "qid": "Q1751810",
+    "icd_10": "I77.6",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Arteritis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "angiitis",
+                "qid": "Q539392"
+            }
+        ]
+    }
+}

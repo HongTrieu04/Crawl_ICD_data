@@ -1,0 +1,52 @@
+{
+    "name": "cryoglobulinemia",
+    "qid": "Q1790371",
+    "icd_10": "D89.1",
+    "description": "medical condition",
+    "aliases": [
+        "Cryoglobulinaemia",
+        "CRYOGLOBULINEMIA",
+        "cryoglobulinemy",
+        "Cryoimmunoglobulinaemia"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cryoglobulinemia2.jpg",
+    "url": "https://en.wikipedia.org/wiki/Cryoglobulinemia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "type IV hypersensitivity",
+                "qid": "Q7860879",
+                "url": "https://en.wikipedia.org/wiki/Type_IV_hypersensitivity"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            },
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            },
+            {
+                "name": "immunology",
+                "qid": "Q101929",
+                "url": "https://en.wikipedia.org/wiki/Immunology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "rituximab",
+                "qid": "Q412323",
+                "url": "https://en.wikipedia.org/wiki/Rituximab"
+            }
+        ]
+    }
+}

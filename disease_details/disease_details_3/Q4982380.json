@@ -1,0 +1,24 @@
+{
+    "name": "Buccal bifurcation cyst",
+    "qid": "Q4982380",
+    "icd_10": "K09.8",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Buccal_bifurcation_cyst",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "Paradental cyst",
+                "qid": "Q11546777",
+                "url": "https://en.wikipedia.org/wiki/Paradental_cyst"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "Oral surgery, oral medicine, and oral pathology",
+                "qid": "Q27712466"
+            }
+        ]
+    }
+}

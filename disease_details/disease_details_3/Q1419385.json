@@ -1,0 +1,35 @@
+{
+    "name": "tendinosis",
+    "qid": "Q1419385",
+    "icd_10": "M67",
+    "description": "chronic tendon injury with damage to a tendon at a cellular level",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Tendinosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "occupational disease",
+                "qid": "Q637816",
+                "url": "https://en.wikipedia.org/wiki/Occupational_disease"
+            },
+            {
+                "name": "tendinopathy",
+                "qid": "Q1682583",
+                "url": "https://en.wikipedia.org/wiki/Tendinopathy"
+            },
+            {
+                "name": "chronic condition",
+                "qid": "Q383126",
+                "url": "https://en.wikipedia.org/wiki/Chronic_condition"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ]
+    }
+}

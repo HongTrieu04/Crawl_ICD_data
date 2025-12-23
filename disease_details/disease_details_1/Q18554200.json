@@ -1,0 +1,33 @@
+{
+    "name": "chronic erythremia",
+    "qid": "Q18554200",
+    "icd_10": "C94.1",
+    "description": "Human disease",
+    "aliases": [
+        "chronic erythremia in remission",
+        "obsolete chronic erythremia"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "leukemia",
+                "qid": "Q29496",
+                "url": "https://en.wikipedia.org/wiki/Leukemia"
+            },
+            {
+                "name": "polycythemia",
+                "qid": "Q933716",
+                "url": "https://en.wikipedia.org/wiki/Polycythemia"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ]
+    }
+}

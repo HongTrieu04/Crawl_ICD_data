@@ -1,0 +1,25 @@
+{
+    "name": "umbilical cord compression",
+    "qid": "Q7881314",
+    "icd_10": "P02.5",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Umbilical_cord_compression",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "pediatrics",
+                "qid": "Q123028",
+                "url": "https://en.wikipedia.org/wiki/Pediatrics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "obstetric labor complication",
+                "qid": "Q7075540",
+                "url": "https://en.wikipedia.org/wiki/Obstetric_labor_complication"
+            }
+        ]
+    }
+}

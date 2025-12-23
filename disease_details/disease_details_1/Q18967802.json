@@ -1,0 +1,20 @@
+{
+    "name": "malnutrition of mild degree",
+    "qid": "Q18967802",
+    "icd_10": "E44.1",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete malnutrition of mild degree"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "protein-energy malnutrition",
+                "qid": "Q4082071",
+                "url": "https://en.wikipedia.org/wiki/Protein%E2%80%93energy_malnutrition"
+            }
+        ]
+    }
+}

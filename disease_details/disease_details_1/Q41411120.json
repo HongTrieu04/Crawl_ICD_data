@@ -1,0 +1,44 @@
+{
+    "name": "Non-progressive congenital ataxia",
+    "qid": "Q41411120",
+    "icd_10": "G11.0",
+    "description": "form of cerebellar ataxia which can occur with or without cerebellar hypoplasia.",
+    "aliases": [
+        "Cerebellar ataxia, non-progressive",
+        "congenital non progressive cerebellar ataxia",
+        "Non progressive congenital ataxia",
+        "Non-progressive congenital cerebellar ataxia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Non-progressive_congenital_ataxia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            },
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "cerebellar ataxia",
+                "qid": "Q154709",
+                "url": "https://en.wikipedia.org/wiki/Cerebellar_ataxia"
+            },
+            {
+                "name": "congenital disorder",
+                "qid": "Q727096",
+                "url": "https://en.wikipedia.org/wiki/Birth_defect"
+            },
+            {
+                "name": "cerebellar disease",
+                "qid": "Q564123"
+            }
+        ]
+    }
+}

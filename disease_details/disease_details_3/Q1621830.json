@@ -1,0 +1,105 @@
+{
+    "name": "lupus nephritis",
+    "qid": "Q1621830",
+    "icd_10": "M32.1",
+    "description": "inflammation of the kidneys",
+    "aliases": [
+        "Glomerulonephritides, Lupus",
+        "Glomerulonephritis, Lupus",
+        "Lupus Glomerulonephritides",
+        "Lupus Glomerulonephritis",
+        "Lupus Nephritides",
+        "Lupus Nephritis",
+        "Nephritides, Lupus",
+        "Nephritis, Lupus",
+        "SLE Nephritis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Lupus_nephritis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "glomerulonephritis",
+                "qid": "Q605006",
+                "url": "https://en.wikipedia.org/wiki/Glomerulonephritis"
+            },
+            {
+                "name": "kidney disease",
+                "qid": "Q1054718",
+                "url": "https://en.wikipedia.org/wiki/Kidney_disease"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "inflammation",
+                "qid": "Q101991",
+                "url": "https://en.wikipedia.org/wiki/Inflammation"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "nephrology",
+                "qid": "Q177635",
+                "url": "https://en.wikipedia.org/wiki/Nephrology"
+            },
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "systemic lupus erythematosus",
+                "qid": "Q1485",
+                "url": "https://en.wikipedia.org/wiki/Lupus"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "prednisone",
+                "qid": "Q424972",
+                "url": "https://en.wikipedia.org/wiki/Prednisone"
+            },
+            {
+                "name": "belimumab",
+                "qid": "Q1996249",
+                "url": "https://en.wikipedia.org/wiki/Belimumab"
+            },
+            {
+                "name": "(RS)-cyclophosphamide",
+                "qid": "Q408524",
+                "url": "https://en.wikipedia.org/wiki/Cyclophosphamide"
+            },
+            {
+                "name": "tacrolimus",
+                "qid": "Q411648",
+                "url": "https://en.wikipedia.org/wiki/Tacrolimus"
+            },
+            {
+                "name": "rituximab",
+                "qid": "Q412323",
+                "url": "https://en.wikipedia.org/wiki/Rituximab"
+            },
+            {
+                "name": "methylprednisolone",
+                "qid": "Q417222",
+                "url": "https://en.wikipedia.org/wiki/Methylprednisolone"
+            },
+            {
+                "name": "mycophenolic acid",
+                "qid": "Q420553",
+                "url": "https://en.wikipedia.org/wiki/Mycophenolic_acid"
+            },
+            {
+                "name": "mycophenolate mofetil",
+                "qid": "Q4567614"
+            }
+        ]
+    }
+}

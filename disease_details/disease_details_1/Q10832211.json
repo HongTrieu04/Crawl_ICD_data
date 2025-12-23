@@ -1,0 +1,69 @@
+{
+    "name": "megaloblastic anemia",
+    "qid": "Q10832211",
+    "icd_10": "D51.0",
+    "description": "macrocytic anemia that is characterized by inhibition of DNA synthesis during red blood cell production",
+    "aliases": [
+        "IGS",
+        "Anaemia megaloblastic",
+        "Anemia, Megaloblastic",
+        "Grasbeck-Imerslund syndrome",
+        "Imerslund-Grasbeck syndrome",
+        "megaloblastic anaemia",
+        "MGA1 Norwegian type",
+        "recessive hereditary megaloblastic anemia 1",
+        "RH-MGA1"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hypersegmented%20neutrophil.png",
+    "url": "https://en.wikipedia.org/wiki/Megaloblastic_anemia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "macrocytic anemia",
+                "qid": "Q2070695",
+                "url": "https://en.wikipedia.org/wiki/Macrocytic_anemia"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "vitamin B12 deficiency",
+                "qid": "Q3234995",
+                "url": "https://en.wikipedia.org/wiki/Vitamin_B12_deficiency"
+            },
+            {
+                "name": "orotic aciduria",
+                "qid": "Q3276506",
+                "url": "https://en.wikipedia.org/wiki/Orotic_aciduria"
+            },
+            {
+                "name": "congenital dyserythropoietic anemia",
+                "qid": "Q5160422",
+                "url": "https://en.wikipedia.org/wiki/Congenital_dyserythropoietic_anemia"
+            },
+            {
+                "name": "folate deficiency",
+                "qid": "Q2915477",
+                "url": "https://en.wikipedia.org/wiki/Folate_deficiency"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "folic acid",
+                "qid": "Q127060",
+                "url": "https://en.wikipedia.org/wiki/Folate"
+            }
+        ]
+    }
+}

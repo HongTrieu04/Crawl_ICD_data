@@ -1,0 +1,23 @@
+{
+    "name": "nontraumatic rupture of muscle",
+    "qid": "Q18966374",
+    "icd_10": "M62.1",
+    "description": "human disease",
+    "aliases": [
+        "Non-traumatic muscle tear",
+        "Nontraumatic rupture of muscle (disorder)",
+        "obsolete nontraumatic rupture of muscle",
+        "Rupture of muscle, nontraumatic"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "muscular disease",
+                "qid": "Q692536",
+                "url": "https://en.wikipedia.org/wiki/Myopathy"
+            }
+        ]
+    }
+}

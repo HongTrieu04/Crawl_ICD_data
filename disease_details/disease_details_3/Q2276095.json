@@ -1,0 +1,40 @@
+{
+    "name": "androgenic alopecia",
+    "qid": "Q2276095",
+    "icd_10": "L64",
+    "description": "hair loss due to susceptibility of hair follicles to androgenic miniaturization",
+    "aliases": [
+        "alopecia androgenetica",
+        "alopecia androgenetica, male pattern baldness",
+        "androgenetic alopecia",
+        "male pattern baldness"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Male%20pattern%20baldness.jpg",
+    "url": "https://en.wikipedia.org/wiki/Pattern_hair_loss",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "hair loss",
+                "qid": "Q181391",
+                "url": "https://en.wikipedia.org/wiki/Hair_loss"
+            },
+            {
+                "name": "androgen-dependent syndrome",
+                "qid": "Q4759436",
+                "url": "https://en.wikipedia.org/wiki/Androgen-dependent_condition"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ]
+    }
+}

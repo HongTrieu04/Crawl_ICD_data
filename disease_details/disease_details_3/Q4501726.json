@@ -1,0 +1,35 @@
+{
+    "name": "chronic tonsillitis",
+    "qid": "Q4501726",
+    "icd_10": "J35.0",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "upper respiratory tract infection",
+                "qid": "Q2622199",
+                "url": "https://en.wikipedia.org/wiki/Upper_respiratory_tract_infection"
+            },
+            {
+                "name": "tonsillitis",
+                "qid": "Q186470",
+                "url": "https://en.wikipedia.org/wiki/Tonsillitis"
+            },
+            {
+                "name": "chronic condition",
+                "qid": "Q383126",
+                "url": "https://en.wikipedia.org/wiki/Chronic_condition"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ]
+    }
+}

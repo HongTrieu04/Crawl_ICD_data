@@ -1,0 +1,57 @@
+{
+    "name": "hemiplegia",
+    "qid": "Q304497",
+    "icd_10": "G81",
+    "description": "paralysis of the arm, leg, and trunk on the same side of the body",
+    "aliases": [
+        "Epilepsy syndrome",
+        "Hemiconvulsion hemiplegia epilepsy syndrome",
+        "Infantile hemiplegia",
+        "Infantile hemiplegia (disorder)",
+        "Infantile hemiplegia [Ambiguous]",
+        "Infantile hemiplegia NOS",
+        "Infantile hemiplegia NOS (disorder)",
+        "One side convulsions",
+        "Postnatal infantile hemiplegia",
+        "Postnatal infantile hemiplegia NOS"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hemiplegia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "paralysis",
+                "qid": "Q107231",
+                "url": "https://en.wikipedia.org/wiki/Paralysis"
+            },
+            {
+                "name": "central nervous system disease",
+                "qid": "Q5062122",
+                "url": "https://en.wikipedia.org/wiki/Central_nervous_system_disease"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "sodium oxybate",
+                "qid": "Q7553347",
+                "url": "https://en.wikipedia.org/wiki/Sodium_oxybate"
+            },
+            {
+                "name": "botulinum toxin type A",
+                "qid": "Q4095199"
+            }
+        ]
+    }
+}

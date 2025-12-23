@@ -1,0 +1,56 @@
+{
+    "name": "homelessness",
+    "qid": "Q131327",
+    "icd_10": "Z59.0",
+    "description": "circumstance when people desire a permanent dwelling but do not have one",
+    "aliases": [
+        "life on the street",
+        "no place to stay"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kodutu%20telk%20Tartus%2C%20Puiestee%20kandis.%202016.%20aasta%20novembris..jpg",
+    "url": "https://en.wikipedia.org/wiki/Homelessness",
+    "details": {
+        "Cause": [
+            {
+                "name": "poverty",
+                "qid": "Q10294",
+                "url": "https://en.wikipedia.org/wiki/Poverty"
+            },
+            {
+                "name": "unemployment",
+                "qid": "Q41171",
+                "url": "https://en.wikipedia.org/wiki/Unemployment"
+            },
+            {
+                "name": "foreclosure",
+                "qid": "Q231710",
+                "url": "https://en.wikipedia.org/wiki/Foreclosure"
+            },
+            {
+                "name": "bad debt",
+                "qid": "Q1365583",
+                "url": "https://en.wikipedia.org/wiki/Bad_debt"
+            },
+            {
+                "name": "eviction",
+                "qid": "Q1893186",
+                "url": "https://en.wikipedia.org/wiki/Eviction"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "social issue",
+                "qid": "Q1920219",
+                "url": "https://en.wikipedia.org/wiki/Social_issue"
+            },
+            {
+                "name": "houselessness",
+                "qid": "Q2588141"
+            },
+            {
+                "name": "people in financial hardship",
+                "qid": "Q48752631"
+            }
+        ]
+    }
+}

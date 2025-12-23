@@ -1,0 +1,49 @@
+{
+    "name": "22q13 deletion syndrome",
+    "qid": "Q1926345",
+    "icd_10": "Q93",
+    "description": "human disease",
+    "aliases": [
+        "22q13 deletion",
+        "22q13.3 deletion syndrome",
+        "Chromosome 22Q13.3 Deletion Syndrome",
+        "monosomy 22q13 syndrome",
+        "Monosomy type 22q13",
+        "Phelan-McDermid syndrome",
+        "PHELAN-MCDERMID SYNDROME",
+        "PHELAN-MCDERMID SYNDROME; PHMDS",
+        "PHMDS",
+        "Telomeric 22Q13 Monosomy Syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/22q13_deletion_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "chromosomal deletion syndrome",
+                "qid": "Q16918398",
+                "url": "https://en.wikipedia.org/wiki/Chromosomal_deletion_syndrome"
+            },
+            {
+                "name": "genetic syndromic intellectual disability",
+                "qid": "Q55785866"
+            },
+            {
+                "name": "partial deletion of the long arm of chromosome 22",
+                "qid": "Q55786629"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "genetics",
+                "qid": "Q7162",
+                "url": "https://en.wikipedia.org/wiki/Genetics"
+            }
+        ]
+    }
+}

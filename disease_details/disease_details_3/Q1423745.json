@@ -1,0 +1,33 @@
+{
+    "name": "Kayser–Fleischer ring",
+    "qid": "Q1423745",
+    "icd_10": "H18.0",
+    "description": "dark ring that appears to encircle the iris of the eye",
+    "aliases": [
+        "KF ring"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kayser-Fleischer%20ring.jpg",
+    "url": "https://en.wikipedia.org/wiki/Kayser%E2%80%93Fleischer_ring",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "copper toxicity",
+                "qid": "Q5168803",
+                "url": "https://en.wikipedia.org/wiki/Copper_toxicity"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "corneal deposit",
+                "qid": "Q18554103"
+            }
+        ]
+    }
+}

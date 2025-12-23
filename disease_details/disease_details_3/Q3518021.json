@@ -1,0 +1,39 @@
+{
+    "name": "pes anserinus tendinitis",
+    "qid": "Q3518021",
+    "icd_10": "M76.86",
+    "description": "Human disease",
+    "aliases": [
+        "pes anserinus tendinitis or bursitis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Anatomical location": [
+            {
+                "name": "pes anserinus",
+                "qid": "Q1640882",
+                "url": "https://en.wikipedia.org/wiki/Pes_anserinus_(leg)"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "tendinitis",
+                "qid": "Q499574",
+                "url": "https://en.wikipedia.org/wiki/Tendinitis"
+            },
+            {
+                "name": "enthesopathy",
+                "qid": "Q52844",
+                "url": "https://en.wikipedia.org/wiki/Enthesopathy"
+            }
+        ]
+    }
+}

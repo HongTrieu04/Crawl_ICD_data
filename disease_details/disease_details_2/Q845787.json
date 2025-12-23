@@ -1,0 +1,53 @@
+{
+    "name": "histrionic personality disorder",
+    "qid": "Q845787",
+    "icd_10": "F60.4",
+    "description": "personality disorder characterized by excessive emotionality and attention-seeking",
+    "aliases": [
+        "HPD",
+        "hysterical personality",
+        "hysterical personality disorder",
+        "psychoinfantile personality",
+        "psychoinfantile personality disorder"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Histrionic_personality_disorder",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "clinical psychology",
+                "qid": "Q199906",
+                "url": "https://en.wikipedia.org/wiki/Clinical_psychology"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "psychotherapy",
+                "qid": "Q183257",
+                "url": "https://en.wikipedia.org/wiki/Psychotherapy"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "personality disorder",
+                "qid": "Q270673",
+                "url": "https://en.wikipedia.org/wiki/Personality_disorder"
+            },
+            {
+                "name": "Cluster B personality disorders",
+                "qid": "Q5136677",
+                "url": "https://en.wikipedia.org/wiki/Cluster_B"
+            }
+        ]
+    }
+}

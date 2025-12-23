@@ -1,0 +1,28 @@
+{
+    "name": "immune disorder",
+    "qid": "Q3843811",
+    "icd_10": "D89.9",
+    "description": "a disease of the immune system",
+    "aliases": [
+        "immune disorders",
+        "Immune System Disease",
+        "Immune System Diseases"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Immune_disorder",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "immunology",
+                "qid": "Q101929",
+                "url": "https://en.wikipedia.org/wiki/Immunology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease of anatomical entity",
+                "qid": "Q18557436"
+            }
+        ]
+    }
+}

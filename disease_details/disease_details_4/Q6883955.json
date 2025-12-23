@@ -1,0 +1,20 @@
+{
+    "name": "mixed anxiety-depressive disorder",
+    "qid": "Q6883955",
+    "icd_10": "F41.2",
+    "description": "mental illness",
+    "aliases": [
+        "MADD"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Mixed_anxiety%E2%80%93depressive_disorder",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "anxiety disorder",
+                "qid": "Q544006",
+                "url": "https://en.wikipedia.org/wiki/Anxiety_disorder"
+            }
+        ]
+    }
+}

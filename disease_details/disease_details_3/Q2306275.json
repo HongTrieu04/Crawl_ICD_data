@@ -1,0 +1,29 @@
+{
+    "name": "sprained ankle",
+    "qid": "Q2306275",
+    "icd_10": "S93.4",
+    "description": "medical condition",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ankle%20sprain%201%20--%20Smart-Servier.png",
+    "url": "https://en.wikipedia.org/wiki/Sprained_ankle",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "orthopedics",
+                "qid": "Q216685",
+                "url": "https://en.wikipedia.org/wiki/Orthopedic_surgery"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "sprain",
+                "qid": "Q470747",
+                "url": "https://en.wikipedia.org/wiki/Sprain"
+            },
+            {
+                "name": "injury to the ankle and foot",
+                "qid": "Q17044757"
+            }
+        ]
+    }
+}

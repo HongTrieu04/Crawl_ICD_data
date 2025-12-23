@@ -1,0 +1,27 @@
+{
+    "name": "erythema annulare centrifugum",
+    "qid": "Q17148651",
+    "icd_10": "L53.1",
+    "description": "medical condition",
+    "aliases": [
+        "EAC"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Erythema_annulare_centrifugum",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "erythema",
+                "qid": "Q1166142",
+                "url": "https://en.wikipedia.org/wiki/Erythema"
+            }
+        ]
+    }
+}

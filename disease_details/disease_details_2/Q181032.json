@@ -1,0 +1,18 @@
+{
+    "name": "neurosis",
+    "qid": "Q181032",
+    "icd_10": "F48.9",
+    "description": "term and disease in psychology",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Neurosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychoanalysis",
+                "qid": "Q41630",
+                "url": "https://en.wikipedia.org/wiki/Psychoanalysis"
+            }
+        ]
+    }
+}

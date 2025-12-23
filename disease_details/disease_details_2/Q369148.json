@@ -1,0 +1,36 @@
+{
+    "name": "neurilemmoma",
+    "qid": "Q369148",
+    "icd_10": "D36.1",
+    "description": "benign tumor of the nerve sheat composed of Schwann cells",
+    "aliases": [
+        "Neurilemmoma (disorder)",
+        "neurolemoma",
+        "Psammomatous schwannoma",
+        "Schwann cell tumor",
+        "Schwannoma"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Schwannoma.jpg",
+    "url": "https://en.wikipedia.org/wiki/Schwannoma",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "neuroma",
+                "qid": "Q1981345",
+                "url": "https://en.wikipedia.org/wiki/Neuroma"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ]
+    }
+}

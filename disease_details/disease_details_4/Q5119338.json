@@ -1,0 +1,25 @@
+{
+    "name": "cicatricial alopecia",
+    "qid": "Q5119338",
+    "icd_10": "L66.90",
+    "description": "medical condition",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dissecting%20cellulitis%20of%20the%20scalp%20-%20perifolliculitis%20capitis%20abscedens%20et%20suffodiens%20-%20Hoffman%20disease%20-%2040yo%20male%20of%20African%20descent.jpg",
+    "url": "https://en.wikipedia.org/wiki/Scarring_hair_loss",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "alopecia",
+                "qid": "Q2697787",
+                "url": "https://en.wikipedia.org/wiki/Alopecia"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Focal hyperhidrosis",
+    "qid": "Q5463851",
+    "icd_10": "L74.5",
+    "description": "medical condition",
+    "aliases": [
+        "Localised hyperhidrosis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Focal_hyperhidrosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "hyperhidrosis",
+                "qid": "Q935781",
+                "url": "https://en.wikipedia.org/wiki/Hyperhidrosis"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "localized sweating",
+                "qid": "Q21112341"
+            }
+        ]
+    }
+}

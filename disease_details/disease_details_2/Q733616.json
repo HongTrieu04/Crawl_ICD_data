@@ -1,0 +1,29 @@
+{
+    "name": "Erythema induratum",
+    "qid": "Q733616",
+    "icd_10": "A18.4",
+    "description": "panniculitis on the calves",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Erythema_induratum",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "panniculitis",
+                "qid": "Q780629",
+                "url": "https://en.wikipedia.org/wiki/Panniculitis"
+            },
+            {
+                "name": "cutaneous tuberculosis",
+                "qid": "Q12794230"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

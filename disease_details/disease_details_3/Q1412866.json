@@ -1,0 +1,51 @@
+{
+    "name": "subcutaneous emphysema",
+    "qid": "Q1412866",
+    "icd_10": "T81.8",
+    "description": "condition occuring when gas or air travels under the skin",
+    "aliases": [
+        "sub Q air",
+        "Surgical Emphysema",
+        "tissue emphysema"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Subcutaneous%20emphysema%20abdomen%20arrows2.jpg",
+    "url": "https://en.wikipedia.org/wiki/Subcutaneous_emphysema",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "dyspnea",
+                "qid": "Q188008",
+                "url": "https://en.wikipedia.org/wiki/Shortness_of_breath"
+            },
+            {
+                "name": "wheeze",
+                "qid": "Q517104",
+                "url": "https://en.wikipedia.org/wiki/Wheeze"
+            },
+            {
+                "name": "dysphagia",
+                "qid": "Q623289",
+                "url": "https://en.wikipedia.org/wiki/Dysphagia"
+            },
+            {
+                "name": "chest pain",
+                "qid": "Q693058",
+                "url": "https://en.wikipedia.org/wiki/Chest_pain"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "emphysema",
+                "qid": "Q1339243",
+                "url": "https://en.wikipedia.org/wiki/Pneumatosis"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ]
+    }
+}

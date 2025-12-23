@@ -1,0 +1,25 @@
+{
+    "name": "dolichocephaly",
+    "qid": "Q748758",
+    "icd_10": "Q67.2",
+    "description": "condition where the head is longer than would be expected, relative to its width",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Dolichocephaly",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "cephalic index",
+                "qid": "Q1998874",
+                "url": "https://en.wikipedia.org/wiki/Cephalic_index"
+            }
+        ]
+    }
+}

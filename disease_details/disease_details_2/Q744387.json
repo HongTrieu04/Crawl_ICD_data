@@ -1,0 +1,194 @@
+{
+    "name": "Rocky Mountain spotted fever",
+    "qid": "Q744387",
+    "icd_10": "A77.0",
+    "description": "human disease",
+    "aliases": [
+        "Choix",
+        "Blue disease",
+        "Brazillian spotted",
+        "Exanthematic typhus of Sao Paulo",
+        "Fiebre maculosa",
+        "Fiebre manchada",
+        "RMSF",
+        "Rocky Mountain exantemal typhus",
+        "Sao Paulo typhus",
+        "So Paulo fever",
+        "Tick typhus",
+        "Tobia fever"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rocky%20mountain%20spotted%20fever.jpg",
+    "url": "https://en.wikipedia.org/wiki/Rocky_Mountain_spotted_fever",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            },
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "vomiting",
+                "qid": "Q127076",
+                "url": "https://en.wikipedia.org/wiki/Vomiting"
+            },
+            {
+                "name": "jaundice",
+                "qid": "Q133244",
+                "url": "https://en.wikipedia.org/wiki/Jaundice"
+            },
+            {
+                "name": "paralysis",
+                "qid": "Q107231",
+                "url": "https://en.wikipedia.org/wiki/Paralysis"
+            },
+            {
+                "name": "coma",
+                "qid": "Q159557",
+                "url": "https://en.wikipedia.org/wiki/Coma"
+            },
+            {
+                "name": "nausea",
+                "qid": "Q186889",
+                "url": "https://en.wikipedia.org/wiki/Nausea"
+            },
+            {
+                "name": "nosebleed",
+                "qid": "Q202013",
+                "url": "https://en.wikipedia.org/wiki/Nosebleed"
+            },
+            {
+                "name": "tachycardia",
+                "qid": "Q209583",
+                "url": "https://en.wikipedia.org/wiki/Tachycardia"
+            },
+            {
+                "name": "gangrene",
+                "qid": "Q168805",
+                "url": "https://en.wikipedia.org/wiki/Gangrene"
+            },
+            {
+                "name": "constipation",
+                "qid": "Q178436",
+                "url": "https://en.wikipedia.org/wiki/Constipation"
+            },
+            {
+                "name": "myalgia",
+                "qid": "Q474959",
+                "url": "https://en.wikipedia.org/wiki/Myalgia"
+            },
+            {
+                "name": "rash",
+                "qid": "Q653197",
+                "url": "https://en.wikipedia.org/wiki/Rash"
+            },
+            {
+                "name": "arthralgia",
+                "qid": "Q683498",
+                "url": "https://en.wikipedia.org/wiki/Arthralgia"
+            },
+            {
+                "name": "paraplegia",
+                "qid": "Q1049655",
+                "url": "https://en.wikipedia.org/wiki/Paraplegia"
+            },
+            {
+                "name": "splenomegaly",
+                "qid": "Q1129121",
+                "url": "https://en.wikipedia.org/wiki/Splenomegaly"
+            },
+            {
+                "name": "prodrome",
+                "qid": "Q1140331",
+                "url": "https://en.wikipedia.org/wiki/Prodrome"
+            },
+            {
+                "name": "hyperesthesia",
+                "qid": "Q1638131",
+                "url": "https://en.wikipedia.org/wiki/Hyperesthesia"
+            },
+            {
+                "name": "insomnia",
+                "qid": "Q1869874",
+                "url": "https://en.wikipedia.org/wiki/Insomnia"
+            },
+            {
+                "name": "chills",
+                "qid": "Q2260058",
+                "url": "https://en.wikipedia.org/wiki/Chills"
+            },
+            {
+                "name": "hemiparesis",
+                "qid": "Q2291130",
+                "url": "https://en.wikipedia.org/wiki/Hemiparesis"
+            },
+            {
+                "name": "primary affect",
+                "qid": "Q24084959"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "spotted fever",
+                "qid": "Q9274700",
+                "url": "https://en.wikipedia.org/wiki/Spotted_fever"
+            },
+            {
+                "name": "rickettsiosis",
+                "qid": "Q646664",
+                "url": "https://en.wikipedia.org/wiki/Rickettsiosis"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "chloramphenicol",
+                "qid": "Q274515",
+                "url": "https://en.wikipedia.org/wiki/Chloramphenicol"
+            },
+            {
+                "name": "doxycycline",
+                "qid": "Q422442",
+                "url": "https://en.wikipedia.org/wiki/Doxycycline"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Rickettsia rickettsii",
+                "qid": "Q2698925",
+                "url": "https://en.wikipedia.org/wiki/Rickettsia_rickettsii"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "detoxification",
+                "qid": "Q1090423",
+                "url": "https://en.wikipedia.org/wiki/Detoxification"
+            },
+            {
+                "name": "oxygen therapy",
+                "qid": "Q1988216",
+                "url": "https://en.wikipedia.org/wiki/Oxygen_therapy"
+            },
+            {
+                "name": "etiotropic treatment",
+                "qid": "Q4533004"
+            }
+        ]
+    }
+}

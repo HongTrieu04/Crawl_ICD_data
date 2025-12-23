@@ -1,0 +1,89 @@
+{
+    "name": "seasonal allergic rhinitis",
+    "qid": "Q3740609",
+    "icd_10": "J30.2",
+    "description": "inflammation in the nose",
+    "aliases": [
+        "hay fever",
+        "Rhinitis, Allergic, Seasonal"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Misc%20pollen.jpg",
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "immunology",
+                "qid": "Q101929",
+                "url": "https://en.wikipedia.org/wiki/Immunology"
+            },
+            {
+                "name": "otolaryngology",
+                "qid": "Q189553",
+                "url": "https://en.wikipedia.org/wiki/Otorhinolaryngology"
+            },
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "fluticasone",
+                "qid": "Q1002165",
+                "url": "https://en.wikipedia.org/wiki/Fluticasone"
+            },
+            {
+                "name": "mometasone",
+                "qid": "Q28208887",
+                "url": "https://en.wikipedia.org/wiki/Mometasone_(prodrug)"
+            },
+            {
+                "name": "levocetirizine",
+                "qid": "Q421091",
+                "url": "https://en.wikipedia.org/wiki/Levocetirizine"
+            },
+            {
+                "name": "cetirizine",
+                "qid": "Q423075",
+                "url": "https://en.wikipedia.org/wiki/Cetirizine"
+            },
+            {
+                "name": "loratadine",
+                "qid": "Q424049",
+                "url": "https://en.wikipedia.org/wiki/Loratadine"
+            },
+            {
+                "name": "montelukast",
+                "qid": "Q417767",
+                "url": "https://en.wikipedia.org/wiki/Montelukast"
+            },
+            {
+                "name": "desloratadine",
+                "qid": "Q418060",
+                "url": "https://en.wikipedia.org/wiki/Desloratadine"
+            },
+            {
+                "name": "azelastine",
+                "qid": "Q419820",
+                "url": "https://en.wikipedia.org/wiki/Azelastine"
+            },
+            {
+                "name": "fexofenadine",
+                "qid": "Q415122",
+                "url": "https://en.wikipedia.org/wiki/Fexofenadine"
+            },
+            {
+                "name": "azelastine / fluticasone",
+                "qid": "Q48566767"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "allergic rhinitis",
+                "qid": "Q272436",
+                "url": "https://en.wikipedia.org/wiki/Allergic_rhinitis"
+            }
+        ]
+    }
+}

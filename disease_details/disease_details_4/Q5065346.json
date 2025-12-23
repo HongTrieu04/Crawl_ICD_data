@@ -1,0 +1,25 @@
+{
+    "name": "cervical pregnancy",
+    "qid": "Q5065346",
+    "icd_10": "O00.8",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Cervical_pregnancy",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "ectopic pregnancy",
+                "qid": "Q207087",
+                "url": "https://en.wikipedia.org/wiki/Ectopic_pregnancy"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "obstetrics",
+                "qid": "Q5284418",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics"
+            }
+        ]
+    }
+}

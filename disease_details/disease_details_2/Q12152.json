@@ -1,0 +1,198 @@
+{
+    "name": "myocardial infarction",
+    "qid": "Q12152",
+    "icd_10": "I21",
+    "description": "interruption of blood supply to a part of the heart",
+    "aliases": [
+        "heart attack",
+        "MI",
+        "acute myocardial infarction",
+        "infarctus myocardii acutus",
+        "myocardial infarct"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Heart%20attack%20diagram.png",
+    "url": "https://en.wikipedia.org/wiki/Myocardial_infarction",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "ischemia",
+                "qid": "Q188151",
+                "url": "https://en.wikipedia.org/wiki/Ischemia"
+            },
+            {
+                "name": "infarction",
+                "qid": "Q207550",
+                "url": "https://en.wikipedia.org/wiki/Infarction"
+            },
+            {
+                "name": "coronary artery disease",
+                "qid": "Q844935",
+                "url": "https://en.wikipedia.org/wiki/Coronary_artery_disease"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "edema",
+                "qid": "Q152234",
+                "url": "https://en.wikipedia.org/wiki/Edema"
+            },
+            {
+                "name": "necrosis",
+                "qid": "Q178069",
+                "url": "https://en.wikipedia.org/wiki/Necrosis"
+            },
+            {
+                "name": "angina pectoris",
+                "qid": "Q180762",
+                "url": "https://en.wikipedia.org/wiki/Angina"
+            },
+            {
+                "name": "nausea",
+                "qid": "Q186889",
+                "url": "https://en.wikipedia.org/wiki/Nausea"
+            },
+            {
+                "name": "chest pain",
+                "qid": "Q693058",
+                "url": "https://en.wikipedia.org/wiki/Chest_pain"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "bisoprolol",
+                "qid": "Q412515",
+                "url": "https://en.wikipedia.org/wiki/Bisoprolol"
+            },
+            {
+                "name": "carvedilol",
+                "qid": "Q412534",
+                "url": "https://en.wikipedia.org/wiki/Carvedilol"
+            },
+            {
+                "name": "(RS)-metoprolol",
+                "qid": "Q409468",
+                "url": "https://en.wikipedia.org/wiki/Metoprolol"
+            },
+            {
+                "name": "verapamil",
+                "qid": "Q410291",
+                "url": "https://en.wikipedia.org/wiki/Verapamil"
+            },
+            {
+                "name": "atenolol",
+                "qid": "Q411325",
+                "url": "https://en.wikipedia.org/wiki/Atenolol"
+            },
+            {
+                "name": "(S)-(−)-timolol",
+                "qid": "Q413994",
+                "url": "https://en.wikipedia.org/wiki/Timolol"
+            },
+            {
+                "name": "tirofiban",
+                "qid": "Q415366",
+                "url": "https://en.wikipedia.org/wiki/Tirofiban"
+            },
+            {
+                "name": "Streptokinase",
+                "qid": "Q416485",
+                "url": "https://en.wikipedia.org/wiki/Streptokinase"
+            },
+            {
+                "name": "pindolol",
+                "qid": "Q418101",
+                "url": "https://en.wikipedia.org/wiki/Pindolol"
+            },
+            {
+                "name": "esmolol",
+                "qid": "Q418139",
+                "url": "https://en.wikipedia.org/wiki/Esmolol"
+            },
+            {
+                "name": "acebutolol",
+                "qid": "Q418857",
+                "url": "https://en.wikipedia.org/wiki/Acebutolol"
+            },
+            {
+                "name": "diltiazem",
+                "qid": "Q422229",
+                "url": "https://en.wikipedia.org/wiki/Diltiazem"
+            },
+            {
+                "name": "propranolol",
+                "qid": "Q423364",
+                "url": "https://en.wikipedia.org/wiki/Propranolol"
+            },
+            {
+                "name": "nadolol",
+                "qid": "Q424952",
+                "url": "https://en.wikipedia.org/wiki/Nadolol"
+            },
+            {
+                "name": "penbutolol",
+                "qid": "Q944244",
+                "url": "https://en.wikipedia.org/wiki/Penbutolol"
+            },
+            {
+                "name": "labetalol",
+                "qid": "Q958087",
+                "url": "https://en.wikipedia.org/wiki/Labetalol"
+            },
+            {
+                "name": "tenecteplase",
+                "qid": "Q1644947",
+                "url": "https://en.wikipedia.org/wiki/Tenecteplase"
+            },
+            {
+                "name": "dalteparin",
+                "qid": "Q1851701",
+                "url": "https://en.wikipedia.org/wiki/Dalteparin_sodium"
+            },
+            {
+                "name": "eptifibatide",
+                "qid": "Q2295855",
+                "url": "https://en.wikipedia.org/wiki/Eptifibatide"
+            },
+            {
+                "name": "pharmaceutical preparation of nitroglycerin",
+                "qid": "Q3221044",
+                "url": "https://en.wikipedia.org/wiki/Nitroglycerin_(medication)"
+            },
+            {
+                "name": "anisindione",
+                "qid": "Q3617574",
+                "url": "https://en.wikipedia.org/wiki/Anisindione"
+            },
+            {
+                "name": "sulfinpyrazone",
+                "qid": "Q3790542",
+                "url": "https://en.wikipedia.org/wiki/Sulfinpyrazone"
+            },
+            {
+                "name": "anistreplase",
+                "qid": "Q4765471",
+                "url": "https://en.wikipedia.org/wiki/Anistreplase"
+            },
+            {
+                "name": "esatenolol",
+                "qid": "Q24255323"
+            },
+            {
+                "name": "urokinase",
+                "qid": "Q110969665"
+            }
+        ]
+    }
+}

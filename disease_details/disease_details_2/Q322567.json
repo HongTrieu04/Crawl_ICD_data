@@ -1,0 +1,18 @@
+{
+    "name": "exposure to abnormal gravitational force",
+    "qid": "Q322567",
+    "icd_10": "W49",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "external causes of illness and death",
+                "qid": "Q5422022",
+                "url": "https://en.wikipedia.org/wiki/External_cause"
+            }
+        ]
+    }
+}

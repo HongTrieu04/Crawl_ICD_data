@@ -1,0 +1,25 @@
+{
+    "name": "intestinal helminthiasis",
+    "qid": "Q55790457",
+    "icd_10": "B81",
+    "description": "parasitic helminthiasis infectious disease that involves the intestine",
+    "aliases": [
+        "intestine parasitic helminthiasis infectious disease"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "intestinal parasite infection",
+                "qid": "Q475510",
+                "url": "https://en.wikipedia.org/wiki/Intestinal_parasite_infection"
+            },
+            {
+                "name": "parasitic helminthiasis infectious disease",
+                "qid": "Q578994",
+                "url": "https://en.wikipedia.org/wiki/Helminthiasis"
+            }
+        ]
+    }
+}

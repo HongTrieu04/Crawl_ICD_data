@@ -1,0 +1,30 @@
+{
+    "name": "voyeurism",
+    "qid": "Q183548",
+    "icd_10": "F65.36",
+    "description": "sexual interest in or practice of spying on people engaged in intimate behaviors",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Rader%20-%20Over%20Exposed%20-%201962.jpg",
+    "url": "https://en.wikipedia.org/wiki/Voyeurism",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "paraphilia",
+                "qid": "Q178059",
+                "url": "https://en.wikipedia.org/wiki/Paraphilia"
+            }
+        ]
+    }
+}

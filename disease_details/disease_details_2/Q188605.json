@@ -1,0 +1,76 @@
+{
+    "name": "pulmonary emphysema",
+    "qid": "Q188605",
+    "icd_10": "J43",
+    "description": "air-filled enlargement in the body's tissues",
+    "aliases": [
+        "emphysema"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Emphysema%20H%20and%20E.jpg",
+    "url": "https://en.wikipedia.org/wiki/Emphysema",
+    "details": {
+        "Drug used for treatment": [
+            {
+                "name": "oxtriphylline",
+                "qid": "Q5104342",
+                "url": "https://en.wikipedia.org/wiki/Choline_theophyllinate"
+            },
+            {
+                "name": "theophylline",
+                "qid": "Q407308",
+                "url": "https://en.wikipedia.org/wiki/Theophylline"
+            },
+            {
+                "name": "aminophylline",
+                "qid": "Q471763",
+                "url": "https://en.wikipedia.org/wiki/Aminophylline"
+            },
+            {
+                "name": "N-acetyl-L-cysteine",
+                "qid": "Q375613",
+                "url": "https://en.wikipedia.org/wiki/Acetylcysteine"
+            },
+            {
+                "name": "dyphylline",
+                "qid": "Q1073333",
+                "url": "https://en.wikipedia.org/wiki/Diprophylline"
+            },
+            {
+                "name": "acefylline",
+                "qid": "Q4673059",
+                "url": "https://en.wikipedia.org/wiki/Acefylline"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "smoking",
+                "qid": "Q662860",
+                "url": "https://en.wikipedia.org/wiki/Smoking"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "emphysema",
+                "qid": "Q1339243",
+                "url": "https://en.wikipedia.org/wiki/Pneumatosis"
+            },
+            {
+                "name": "respiratory disease",
+                "qid": "Q3286546",
+                "url": "https://en.wikipedia.org/wiki/Respiratory_disease"
+            },
+            {
+                "name": "chronic obstructive pulmonary disease",
+                "qid": "Q199804",
+                "url": "https://en.wikipedia.org/wiki/Chronic_obstructive_pulmonary_disease"
+            }
+        ]
+    }
+}

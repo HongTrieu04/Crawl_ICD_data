@@ -1,0 +1,35 @@
+{
+    "name": "Bromoderma",
+    "qid": "Q4973728",
+    "icd_10": "L27.1",
+    "description": "medical condition",
+    "aliases": [
+        "Acne bromata"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Bromoderma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "halogenoderma",
+                "qid": "Q5643382",
+                "url": "https://en.wikipedia.org/wiki/Halogenoderma"
+            },
+            {
+                "name": "bromine exposure",
+                "qid": "Q21173316"
+            },
+            {
+                "name": "toxic dermatosis",
+                "qid": "Q55787028"
+            }
+        ]
+    }
+}

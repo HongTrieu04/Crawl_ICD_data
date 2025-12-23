@@ -1,0 +1,119 @@
+{
+    "name": "sexually transmitted infection",
+    "qid": "Q12198",
+    "icd_10": "A64",
+    "description": "infection transmitted through human sexual behavior",
+    "aliases": [
+        "STI",
+        "STD",
+        "sexually transmitted disease",
+        "sexually transmitted diseases",
+        "sexually transmitted infections",
+        "VD",
+        "venereal disease"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Captain%20Condom%20and%20Lady%20Latex%20comic%20cover.jpg",
+    "url": "https://en.wikipedia.org/wiki/Sexually_transmitted_infection",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "bleeding",
+                "qid": "Q166019",
+                "url": "https://en.wikipedia.org/wiki/Bleeding"
+            },
+            {
+                "name": "infection",
+                "qid": "Q166231",
+                "url": "https://en.wikipedia.org/wiki/Infection"
+            },
+            {
+                "name": "tumor",
+                "qid": "Q133212",
+                "url": "https://en.wikipedia.org/wiki/Tumor"
+            },
+            {
+                "name": "dyspnea",
+                "qid": "Q188008",
+                "url": "https://en.wikipedia.org/wiki/Shortness_of_breath"
+            },
+            {
+                "name": "chronic fatigue syndrome",
+                "qid": "Q209733",
+                "url": "https://en.wikipedia.org/wiki/Myalgic_encephalomyelitis/chronic_fatigue_syndrome"
+            },
+            {
+                "name": "lesion",
+                "qid": "Q827023",
+                "url": "https://en.wikipedia.org/wiki/Lesion"
+            },
+            {
+                "name": "acute weight loss",
+                "qid": "Q102186770"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "infection",
+                "qid": "Q166231",
+                "url": "https://en.wikipedia.org/wiki/Infection"
+            },
+            {
+                "name": "human sexual behavior",
+                "qid": "Q608",
+                "url": "https://en.wikipedia.org/wiki/Human_sexual_activity"
+            },
+            {
+                "name": "sexual risk behavior",
+                "qid": "Q2990601",
+                "url": "https://en.wikipedia.org/wiki/Risky_sexual_behavior"
+            },
+            {
+                "name": "absence",
+                "qid": "Q19829125"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "antibiotic",
+                "qid": "Q12187",
+                "url": "https://en.wikipedia.org/wiki/Antibiotic"
+            },
+            {
+                "name": "antiviral drug",
+                "qid": "Q846227",
+                "url": "https://en.wikipedia.org/wiki/Antiviral_drug"
+            },
+            {
+                "name": "post-exposure prophylaxis",
+                "qid": "Q1361206",
+                "url": "https://en.wikipedia.org/wiki/Post-exposure_prophylaxis"
+            },
+            {
+                "name": "ablation",
+                "qid": "Q1886589"
+            },
+            {
+                "name": "local anti-infective agent",
+                "qid": "Q50377188"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "infectious disease",
+                "qid": "Q18123741",
+                "url": "https://en.wikipedia.org/wiki/Infectious_disease"
+            },
+            {
+                "name": "pandemic and epidemic-prone diseases",
+                "qid": "Q131345497"
+            }
+        ]
+    }
+}

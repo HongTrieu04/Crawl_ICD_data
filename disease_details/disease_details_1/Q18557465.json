@@ -1,0 +1,36 @@
+{
+    "name": "precursor B lymphoblastic lymphoma/leukemia",
+    "qid": "Q18557465",
+    "icd_10": "C91.0",
+    "description": "Human disease",
+    "aliases": [
+        "B Lymphoblastic Leukemia/Lymphoma",
+        "B-lymphoblastic leukemia/lymphoma",
+        "obsolete precursor B lymphoblastic lymphoma/leukemia",
+        "Precursor B Lymphoblastic Leukemia/Lymphoma",
+        "Precursor B-Lymphoblastic Lymphoma/Leukemia"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "B-cell lymphoma",
+                "qid": "Q4833719",
+                "url": "https://en.wikipedia.org/wiki/B-cell_lymphoma"
+            },
+            {
+                "name": "precursor lymphoblastic lymphoma/leukemia",
+                "qid": "Q18556893"
+            },
+            {
+                "name": "B-cell non-Hodgkin lymphoma",
+                "qid": "Q55785695"
+            },
+            {
+                "name": "B-cell acute lymphoblastic leukemia",
+                "qid": "Q102293395"
+            }
+        ]
+    }
+}

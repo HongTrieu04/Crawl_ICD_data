@@ -1,0 +1,20 @@
+{
+    "name": "adrenal hemorrhage of fetus or newborn",
+    "qid": "Q18967276",
+    "icd_10": "P54.4",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete adrenal hemorrhage of fetus or newborn"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "adrenal gland disease",
+                "qid": "Q4684717",
+                "url": "https://en.wikipedia.org/wiki/Adrenal_gland_disorder"
+            }
+        ]
+    }
+}

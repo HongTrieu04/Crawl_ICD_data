@@ -1,0 +1,31 @@
+{
+    "name": "balanitis xerotica obliterans",
+    "qid": "Q4850044",
+    "icd_10": "N48.0",
+    "description": "Human disease",
+    "aliases": [
+        "Balanitis xerotica obliterans (disorder)",
+        "Lichen sclerosus et atrophicus of glans penis AND prepuce (disorder) [Ambiguous]",
+        "Lichen Sclerosus of Penis",
+        "Lichen Sclerosus of the Penis",
+        "Penile Lichen Sclerosus"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Balanitis%20xerotica%20obliterans.jpg",
+    "url": "https://en.wikipedia.org/wiki/Balanitis_xerotica_obliterans",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "balanitis",
+                "qid": "Q1138584",
+                "url": "https://en.wikipedia.org/wiki/Balanitis"
+            }
+        ]
+    }
+}

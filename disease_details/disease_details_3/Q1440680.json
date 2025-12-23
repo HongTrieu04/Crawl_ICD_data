@@ -1,0 +1,24 @@
+{
+    "name": "Bifid rib",
+    "qid": "Q1440680",
+    "icd_10": "Q76.7",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Bifid_rib",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "sternal foramen",
+                "qid": "Q20725918"
+            }
+        ]
+    }
+}

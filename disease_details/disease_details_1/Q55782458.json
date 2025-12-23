@@ -1,0 +1,30 @@
+{
+    "name": "Tn Polyagglutination syndrome",
+    "qid": "Q55782458",
+    "icd_10": "D59.8",
+    "description": "human disease",
+    "aliases": [
+        "TNPS",
+        "galactosyltransferase deficiency",
+        "Galactosyltransferase Deficiency",
+        "Tn polyagglutination syndrome",
+        "TN POLYAGGLUTINATION SYNDROME",
+        "TN POLYAGGLUTINATION SYNDROME; TNPS"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "genetic disease",
+                "qid": "Q200779",
+                "url": "https://en.wikipedia.org/wiki/Genetic_disorder"
+            },
+            {
+                "name": "hematopoietic system disease",
+                "qid": "Q1963588",
+                "url": "https://en.wikipedia.org/wiki/Hematologic_disease"
+            }
+        ]
+    }
+}

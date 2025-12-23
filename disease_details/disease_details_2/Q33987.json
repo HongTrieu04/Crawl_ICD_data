@@ -1,0 +1,25 @@
+{
+    "name": "webbed toes",
+    "qid": "Q33987",
+    "icd_10": "Q70.3",
+    "description": "medical condition of the human foot, sometimes related to a specific medical disorder",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Webbed_toes",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "syndactyly",
+                "qid": "Q1360044",
+                "url": "https://en.wikipedia.org/wiki/Syndactyly"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "name": "rectal tenesmus",
+    "qid": "Q403648",
+    "icd_10": "R19.8",
+    "description": "condition of the bowel",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Rectal_tenesmus",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "tenesmus",
+                "qid": "Q1887933",
+                "url": "https://en.wikipedia.org/wiki/Tenesmus"
+            },
+            {
+                "name": "symptom",
+                "qid": "Q169872",
+                "url": "https://en.wikipedia.org/wiki/Symptom"
+            },
+            {
+                "name": "constipation",
+                "qid": "Q178436",
+                "url": "https://en.wikipedia.org/wiki/Constipation"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "general surgery",
+                "qid": "Q932510",
+                "url": "https://en.wikipedia.org/wiki/General_surgery"
+            }
+        ]
+    }
+}

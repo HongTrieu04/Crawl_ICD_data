@@ -1,0 +1,30 @@
+{
+    "name": "single umbilical artery",
+    "qid": "Q392185",
+    "icd_10": "P02.6",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Single_umbilical_artery",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "vascular malformation",
+                "qid": "Q121576",
+                "url": "https://en.wikipedia.org/wiki/Vascular_malformation"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "maternal-fetal medicine",
+                "qid": "Q582071",
+                "url": "https://en.wikipedia.org/wiki/Maternal%E2%80%93fetal_medicine"
+            },
+            {
+                "name": "obstetrics",
+                "qid": "Q5284418",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics"
+            }
+        ]
+    }
+}

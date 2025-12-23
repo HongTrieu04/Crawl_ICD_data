@@ -1,0 +1,23 @@
+{
+    "name": "Pruritus vulvae",
+    "qid": "Q7253120",
+    "icd_10": "L29.2",
+    "description": "itching of the vulva",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pruritus_vulvae",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "itch",
+                "qid": "Q199602",
+                "url": "https://en.wikipedia.org/wiki/Itch"
+            },
+            {
+                "name": "vulvar disease",
+                "qid": "Q18211751",
+                "url": "https://en.wikipedia.org/wiki/Vulvar_disease"
+            }
+        ]
+    }
+}

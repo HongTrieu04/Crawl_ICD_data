@@ -1,0 +1,40 @@
+{
+    "name": "chemical burn",
+    "qid": "Q2141836",
+    "icd_10": "T26",
+    "description": "medical condition",
+    "aliases": [
+        "caustic burn",
+        "Burns, Chemical",
+        "chemical burns"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mustard%20gas%20chemical%20burns%20on%20combat%20soldier%20of%20the%20First%20World%20War%20in%20France%20about%201918.jpg",
+    "url": "https://en.wikipedia.org/wiki/Chemical_burn",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "burn",
+                "qid": "Q170518",
+                "url": "https://en.wikipedia.org/wiki/Burn"
+            },
+            {
+                "name": "occupational disease",
+                "qid": "Q637816",
+                "url": "https://en.wikipedia.org/wiki/Occupational_disease"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "treatment of chemical burns",
+                "qid": "Q21402565"
+            }
+        ]
+    }
+}

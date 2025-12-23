@@ -1,0 +1,31 @@
+{
+    "name": "growth hormone deficiency",
+    "qid": "Q369262",
+    "icd_10": "E23.0",
+    "description": "Human disease",
+    "aliases": [
+        "Dwarfism: [pituitary] or [hypophyseal (& Lorain-Levi)]",
+        "hypopituitary dwarfism",
+        "Lorain - Levi dwarfism",
+        "obsolete pituitary dwarfism",
+        "pituitary dwarfism"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Growth_hormone_deficiency",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "dwarfism",
+                "qid": "Q194101",
+                "url": "https://en.wikipedia.org/wiki/Dwarfism"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "eating disorder not otherwise specified",
+    "qid": "Q492054",
+    "icd_10": "F50.9",
+    "description": "eating disorder",
+    "aliases": [
+        "EDNOS",
+        "UFED",
+        "unspecified feeding or eating disorder"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Unspecified_feeding_or_eating_disorder",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "eating disorder",
+                "qid": "Q373822",
+                "url": "https://en.wikipedia.org/wiki/Eating_disorder"
+            }
+        ]
+    }
+}

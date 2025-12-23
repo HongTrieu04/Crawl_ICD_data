@@ -1,0 +1,27 @@
+{
+    "name": "pelvic fracture",
+    "qid": "Q813680",
+    "icd_10": "S32.8",
+    "description": "fractures of the hip bone",
+    "aliases": [
+        "Fracture of pelvis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/PZ%20fraktura%20acetabula%20%2841%29.jpg",
+    "url": "https://en.wikipedia.org/wiki/Pelvic_fracture",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "bone fracture",
+                "qid": "Q68833",
+                "url": "https://en.wikipedia.org/wiki/Bone_fracture"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "pelvis",
+                "qid": "Q713102",
+                "url": "https://en.wikipedia.org/wiki/Pelvis"
+            }
+        ]
+    }
+}

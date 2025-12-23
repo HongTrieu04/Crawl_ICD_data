@@ -1,0 +1,30 @@
+{
+    "name": "pleural plaque",
+    "qid": "Q10634401",
+    "icd_10": "J92",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pleural_thickening",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "asbestos-related disease",
+                "qid": "Q4803677",
+                "url": "https://en.wikipedia.org/wiki/Asbestos-related_diseases"
+            },
+            {
+                "name": "pleural disease",
+                "qid": "Q7204732",
+                "url": "https://en.wikipedia.org/wiki/Pleural_disease"
+            }
+        ]
+    }
+}

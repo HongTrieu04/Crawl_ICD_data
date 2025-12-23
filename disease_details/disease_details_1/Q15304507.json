@@ -1,0 +1,27 @@
+{
+    "name": "congenital transmission",
+    "qid": "Q15304507",
+    "icd_10": "P37.9",
+    "description": "type of direct pathogen transmission",
+    "aliases": [
+        "congenital",
+        "Congenital",
+        "intrauterine infection"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "congenital disorder",
+                "qid": "Q727096",
+                "url": "https://en.wikipedia.org/wiki/Birth_defect"
+            },
+            {
+                "name": "vertically transmitted infection",
+                "qid": "Q4113827",
+                "url": "https://en.wikipedia.org/wiki/Vertically_transmitted_infection"
+            }
+        ]
+    }
+}

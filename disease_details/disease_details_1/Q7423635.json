@@ -1,0 +1,36 @@
+{
+    "name": "sarcosinemia",
+    "qid": "Q7423635",
+    "icd_10": "E72.5",
+    "description": "Sarcosinemia is a metabolic disorder characterized by an increased concentration of sarcosine in plasma and urine due to sarcosine dehydrogenase deficiency",
+    "aliases": [
+        "Hypersarcosinemia",
+        "SARCOS",
+        "Sarcosine Dehydrogenase Complex Deficiency",
+        "SARCOSINEMIA",
+        "SARCOSINEMIA; SARCOS",
+        "Sard Deficiency",
+        "Sardh Deficiency"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Sarcosinemia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "amino acid metabolic disorder",
+                "qid": "Q18558086"
+            },
+            {
+                "name": "inborn disorder of serine or glycine metabolism",
+                "qid": "Q55788559"
+            }
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "name": "otitis externa",
+    "qid": "Q680873",
+    "icd_10": "H60",
+    "description": "inflammation of the outer ear and ear canal.",
+    "aliases": [
+        "External Ear Infection",
+        "external otitis",
+        "Infectious Otitis Externa",
+        "Otitis externa",
+        "Outer Ear Infection",
+        "swimmer's ear"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Otitis_externa",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "otitis",
+                "qid": "Q480700",
+                "url": "https://en.wikipedia.org/wiki/Otitis"
+            },
+            {
+                "name": "external ear disease",
+                "qid": "Q18556075"
+            },
+            {
+                "name": "post-infectious disorder",
+                "qid": "Q55789778"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "otolaryngology",
+                "qid": "Q189553",
+                "url": "https://en.wikipedia.org/wiki/Otorhinolaryngology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "chloramphenicol",
+                "qid": "Q274515",
+                "url": "https://en.wikipedia.org/wiki/Chloramphenicol"
+            },
+            {
+                "name": "acetic acid",
+                "qid": "Q47512",
+                "url": "https://en.wikipedia.org/wiki/Acetic_acid"
+            },
+            {
+                "name": "DL-ofloxacin",
+                "qid": "Q411447",
+                "url": "https://en.wikipedia.org/wiki/Ofloxacin"
+            },
+            {
+                "name": "benzocaine",
+                "qid": "Q422745",
+                "url": "https://en.wikipedia.org/wiki/Benzocaine"
+            },
+            {
+                "name": "aluminum subacetate",
+                "qid": "Q2651741",
+                "url": "https://en.wikipedia.org/wiki/Aluminium_diacetate"
+            },
+            {
+                "name": "finafloxacin",
+                "qid": "Q21011229",
+                "url": "https://en.wikipedia.org/wiki/Finafloxacin"
+            }
+        ]
+    }
+}

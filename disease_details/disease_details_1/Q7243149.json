@@ -1,0 +1,32 @@
+{
+    "name": "Primary lymphedema",
+    "qid": "Q7243149",
+    "icd_10": "Q82.0",
+    "description": "Human disease",
+    "aliases": [
+        "Hereditary edema of legs",
+        "Hereditary edema of legs [dup] (disorder)",
+        "Hereditary edema of legs NOS (disorder)",
+        "hereditary trophedema",
+        "Hereditary trophedema (disorder)",
+        "Hereditary trophoedeme",
+        "obsolete hereditary trophedema",
+        "Primary Lymphedema",
+        "Troncular lymphatic malformation"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Primary_lymphedema",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "lymphedema",
+                "qid": "Q916398",
+                "url": "https://en.wikipedia.org/wiki/Lymphedema"
+            },
+            {
+                "name": "lymphatic system malformation",
+                "qid": "Q55786076"
+            }
+        ]
+    }
+}

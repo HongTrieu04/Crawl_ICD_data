@@ -1,0 +1,67 @@
+{
+    "name": "intellectual disability",
+    "qid": "Q183560",
+    "icd_10": "F79",
+    "description": "generalized neurodevelopmental disorder",
+    "aliases": [
+        "slowness",
+        "ID",
+        "IDD",
+        "general learning disability",
+        "intellectual developmental disability",
+        "Intellectual Disabilities",
+        "intelligence quotient under 70",
+        "IQ under 70",
+        "mental retardation",
+        "MENTAL RETARDATION, AUTOSOMAL RECESSIVE 15",
+        "rare intellectual disability",
+        "syndromic intellectual disability"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Intellectual_disability",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "psychology",
+                "qid": "Q9418",
+                "url": "https://en.wikipedia.org/wiki/Psychology"
+            },
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            },
+            {
+                "name": "medical specialist for people with intellectual disability",
+                "qid": "Q2522100"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "disability",
+                "qid": "Q12131",
+                "url": "https://en.wikipedia.org/wiki/Disability"
+            },
+            {
+                "name": "cognitive deficit",
+                "qid": "Q5141203",
+                "url": "https://en.wikipedia.org/wiki/Cognitive_impairment"
+            },
+            {
+                "name": "specific developmental disorder",
+                "qid": "Q7574983",
+                "url": "https://en.wikipedia.org/wiki/Specific_developmental_disorder"
+            }
+        ]
+    }
+}

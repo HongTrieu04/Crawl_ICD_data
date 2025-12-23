@@ -1,0 +1,17 @@
+{
+    "name": "persistent left superior vena cava",
+    "qid": "Q4009452",
+    "icd_10": "Q26.1",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Persistent_left_superior_vena_cava",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "congenital anomaly of superior vena cava",
+                "qid": "Q55788903"
+            }
+        ]
+    }
+}

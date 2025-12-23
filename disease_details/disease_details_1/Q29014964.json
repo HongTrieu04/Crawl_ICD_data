@@ -1,0 +1,30 @@
+{
+    "name": "acryocystitis-osteopoikilosis syndrome",
+    "qid": "Q29014964",
+    "icd_10": "H04.3",
+    "description": null,
+    "aliases": [
+        "Gunal-Seber-Basaran syndrome",
+        "OSTEOPOIKILOSIS AND DACRYOCYSTITIS"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "dacryocystitis",
+                "qid": "Q1157761",
+                "url": "https://en.wikipedia.org/wiki/Dacryocystitis"
+            },
+            {
+                "name": "osteopoikilosis",
+                "qid": "Q1477777",
+                "url": "https://en.wikipedia.org/wiki/Osteopoikilosis"
+            },
+            {
+                "name": "primary bone dysplasia with increased bone density",
+                "qid": "Q55788814"
+            }
+        ]
+    }
+}

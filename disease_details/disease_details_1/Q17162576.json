@@ -1,0 +1,45 @@
+{
+    "name": "childhood schizophrenia",
+    "qid": "Q17162576",
+    "icd_10": "F20.8",
+    "description": "childhood-onset mental disorder",
+    "aliases": [
+        "childhood Schizophrenia",
+        "childhood schizophrenia NOS",
+        "childhood type schizophrenia",
+        "childhood-onset schizophrenia",
+        "Childhood-Onset Schizophrenia",
+        "obsolete childhood schizophrenia",
+        "pediatric schizophrenia",
+        "schizophrenic syndrome of childhood NOS",
+        "Schizophrenic syndrome of childhood NOS",
+        "very early-onset schizophrenia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Childhood_schizophrenia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "child and adolescent psychiatry",
+                "qid": "Q1741745",
+                "url": "https://en.wikipedia.org/wiki/Child_and_adolescent_psychiatry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "mental disorder diagnosed in childhood",
+                "qid": "Q6817451",
+                "url": "https://en.wikipedia.org/wiki/Mental_disorders_diagnosed_in_childhood"
+            },
+            {
+                "name": "schizophrenia",
+                "qid": "Q41112",
+                "url": "https://en.wikipedia.org/wiki/Schizophrenia"
+            },
+            {
+                "name": "early-onset schizophrenia",
+                "qid": "Q55789008"
+            }
+        ]
+    }
+}

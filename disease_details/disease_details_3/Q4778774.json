@@ -1,0 +1,27 @@
+{
+    "name": "Aortopulmonary septal defect",
+    "qid": "Q4778774",
+    "icd_10": "Q21.4",
+    "description": "medical condition",
+    "aliases": [
+        "A-P window"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Aortopulmonary_septal_defect",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "congenital heart disease",
+                "qid": "Q939364",
+                "url": "https://en.wikipedia.org/wiki/Congenital_heart_defect"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

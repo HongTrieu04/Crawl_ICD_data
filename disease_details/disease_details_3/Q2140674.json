@@ -1,0 +1,47 @@
+{
+    "name": "gunshot wound",
+    "qid": "Q2140674",
+    "icd_10": "X95",
+    "description": "form of physical trauma sustained from the discharge of arms or munitions",
+    "aliases": [
+        "shot",
+        "GSW",
+        "ballistic trauma",
+        "bullet wound",
+        "firearm trauma",
+        "firearm wound",
+        "gunshot injury",
+        "gunshot wounds",
+        "wounds, gunshot"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gunshot%20skull.jpg",
+    "url": "https://en.wikipedia.org/wiki/Gunshot_wound",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "major trauma",
+                "qid": "Q1064904",
+                "url": "https://en.wikipedia.org/wiki/Major_trauma"
+            },
+            {
+                "name": "penetrating trauma",
+                "qid": "Q7162621",
+                "url": "https://en.wikipedia.org/wiki/Penetrating_trauma"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "gunshot",
+                "qid": "Q2992372",
+                "url": "https://en.wikipedia.org/wiki/Gunshot"
+            }
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "name": "intracranial hemorrhage",
+    "qid": "Q426199",
+    "icd_10": "I62",
+    "description": "bleeding within the skull",
+    "aliases": [
+        "ICH",
+        "intracranial haemorrhage",
+        "intracranial haemorrhages",
+        "Intracranial Hemorrhages"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Intracerebral%20hemorrage%20%28CT%20scan%29.jpg",
+    "url": "https://en.wikipedia.org/wiki/Intracranial_hemorrhage",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "internal bleeding",
+                "qid": "Q2361887",
+                "url": "https://en.wikipedia.org/wiki/Internal_bleeding"
+            },
+            {
+                "name": "cerebrovascular disease",
+                "qid": "Q3010352",
+                "url": "https://en.wikipedia.org/wiki/Cerebrovascular_disease"
+            },
+            {
+                "name": "hemorrhagic stroke",
+                "qid": "Q114754301"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ]
+    }
+}

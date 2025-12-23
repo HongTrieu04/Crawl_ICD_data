@@ -1,0 +1,29 @@
+{
+    "name": "NAME syndrome",
+    "qid": "Q1959715",
+    "icd_10": "D44.8",
+    "description": "syndrome",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            },
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "heart neoplasm",
+                "qid": "Q10385444"
+            }
+        ]
+    }
+}

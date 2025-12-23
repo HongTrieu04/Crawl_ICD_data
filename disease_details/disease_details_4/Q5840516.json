@@ -1,0 +1,26 @@
+{
+    "name": "schizophrenic prodrome",
+    "qid": "Q5840516",
+    "icd_10": "F21",
+    "description": null,
+    "aliases": [
+        "incipient schizophrenia",
+        "prepsychotic schizophrenia",
+        "Schizophrenia prodrome"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "schizotypal personality disorder",
+                "qid": "Q861560",
+                "url": "https://en.wikipedia.org/wiki/Schizotypal_personality_disorder"
+            },
+            {
+                "name": "prepsychosis",
+                "qid": "Q10638540"
+            }
+        ]
+    }
+}

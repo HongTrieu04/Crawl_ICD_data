@@ -1,0 +1,29 @@
+{
+    "name": "Coronavirus",
+    "qid": "Q57751738",
+    "icd_10": "B97.2",
+    "description": "subfamily of viruses",
+    "aliases": [
+        "Coronaviruses",
+        "CoV",
+        "CoVs",
+        "Corona-virus",
+        "Corona virus",
+        "Corona Virus",
+        "Coronavirinai",
+        "Orthocoronavirinae",
+        "orthocoronavirus",
+        "orthocoronaviruses"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Middle%20East%20respiratory%20syndrome-related%20coronavirus.jpg",
+    "url": "https://en.wikipedia.org/wiki/Coronavirus",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "virus",
+                "qid": "Q808",
+                "url": "https://en.wikipedia.org/wiki/Virus"
+            }
+        ]
+    }
+}

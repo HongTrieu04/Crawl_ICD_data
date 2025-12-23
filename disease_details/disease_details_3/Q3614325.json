@@ -1,0 +1,18 @@
+{
+    "name": "Isolated atrial amyloidosis",
+    "qid": "Q3614325",
+    "icd_10": "E85.4",
+    "description": "form of amyloidosis affecting the atria of the heart",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Isolated_atrial_amyloidosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "Organ-limited amyloidosis",
+                "qid": "Q7101745",
+                "url": "https://en.wikipedia.org/wiki/Organ-limited_amyloidosis"
+            }
+        ]
+    }
+}

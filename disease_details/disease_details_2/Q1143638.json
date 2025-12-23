@@ -1,0 +1,22 @@
+{
+    "name": "Warfarin necrosis",
+    "qid": "Q1143638",
+    "icd_10": "Y44.2",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Warfarin_necrosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "adverse drug reaction",
+                "qid": "Q45959",
+                "url": "https://en.wikipedia.org/wiki/Adverse_drug_reaction"
+            },
+            {
+                "name": "skin necrosis",
+                "qid": "Q21117421"
+            }
+        ]
+    }
+}

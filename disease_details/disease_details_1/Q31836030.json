@@ -1,0 +1,24 @@
+{
+    "name": "anal prolapse",
+    "qid": "Q31836030",
+    "icd_10": "K62.2",
+    "description": null,
+    "aliases": [
+        "Proctoptosis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "prolapse",
+                "qid": "Q2112703",
+                "url": "https://en.wikipedia.org/wiki/Prolapse"
+            },
+            {
+                "name": "anal disease",
+                "qid": "Q56603543"
+            }
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "name": "partial pancreatic agenesis",
+    "qid": "Q18553528",
+    "icd_10": "Q45.0",
+    "description": "pancreas disease that is characterized by the failure of the pancreas to develop prior to birth",
+    "aliases": [
+        "Pagen",
+        "PAGEN1",
+        "PANCREATIC AGENESIS 1; PAGEN1",
+        "Pancreatic Hypoplasia, Congenital"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "agenesis",
+                "qid": "Q392604",
+                "url": "https://en.wikipedia.org/wiki/Agenesis"
+            },
+            {
+                "name": "pancreas disease",
+                "qid": "Q7130407",
+                "url": "https://en.wikipedia.org/wiki/Pancreatic_disease"
+            },
+            {
+                "name": "pancreatic agenesis",
+                "qid": "Q18412084"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

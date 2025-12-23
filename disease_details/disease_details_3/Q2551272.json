@@ -1,0 +1,37 @@
+{
+    "name": "hypereosinophilic syndrome",
+    "qid": "Q2551272",
+    "icd_10": "D72.1",
+    "description": "unexplained chronic eosinophila",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hypereosinophilic_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "eosinophilia",
+                "qid": "Q505142",
+                "url": "https://en.wikipedia.org/wiki/Eosinophilia"
+            },
+            {
+                "name": "Hypereosinophilia",
+                "qid": "Q2305206",
+                "url": "https://en.wikipedia.org/wiki/Hypereosinophilia"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "hydroxycarbamide",
+                "qid": "Q212272",
+                "url": "https://en.wikipedia.org/wiki/Hydroxycarbamide"
+            }
+        ]
+    }
+}

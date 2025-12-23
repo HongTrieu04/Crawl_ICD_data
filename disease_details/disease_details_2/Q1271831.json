@@ -1,0 +1,27 @@
+{
+    "name": "small intestinal bacterial overgrowth",
+    "qid": "Q1271831",
+    "icd_10": "K90.4",
+    "description": "medical condition",
+    "aliases": [
+        "SBBOS",
+        "small bowel bacterial overgrowth syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Small_intestinal_bacterial_overgrowth",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "small-intestine disease",
+                "qid": "Q2852245"
+            }
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "name": "cercarial dermatitis",
+    "qid": "Q191672",
+    "icd_10": "B65.3",
+    "description": "human disease",
+    "aliases": [
+        "cutaneous schistosomiasis",
+        "Duck Itch",
+        "Lake Itch",
+        "Sea bather's eruption",
+        "Sea bather's eruption (disorder)",
+        "Swimmer's itch"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cercarial%20dermatitis%20lower%20legs.jpg",
+    "url": "https://en.wikipedia.org/wiki/Swimmer%27s_itch",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "schistosomiasis",
+                "qid": "Q221159",
+                "url": "https://en.wikipedia.org/wiki/Schistosomiasis"
+            },
+            {
+                "name": "skin disease",
+                "qid": "Q949302",
+                "url": "https://en.wikipedia.org/wiki/Skin_condition"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "zone of skin",
+                "qid": "Q30029801"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Q67207084",
+                "qid": "Q67207084"
+            }
+        ]
+    }
+}

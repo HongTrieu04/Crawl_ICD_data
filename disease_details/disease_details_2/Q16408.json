@@ -1,0 +1,40 @@
+{
+    "name": "halitosis",
+    "qid": "Q16408",
+    "icd_10": "R19.6",
+    "description": "presence of unpleasant odors in exhaled breath",
+    "aliases": [
+        "bad breath",
+        "fetor oris",
+        "oral malodor",
+        "putrid breath"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Bad_breath",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "symptom",
+                "qid": "Q169872",
+                "url": "https://en.wikipedia.org/wiki/Symptom"
+            },
+            {
+                "name": "body odor",
+                "qid": "Q1328199",
+                "url": "https://en.wikipedia.org/wiki/Body_odor"
+            },
+            {
+                "name": "fetor",
+                "qid": "Q5445966",
+                "url": "https://en.wikipedia.org/wiki/Fetor"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "herpes zoster meningitis",
+    "qid": "Q19001227",
+    "icd_10": "B02.1",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete herpes zoster meningitis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "herpes zoster",
+                "qid": "Q182155",
+                "url": "https://en.wikipedia.org/wiki/Shingles"
+            },
+            {
+                "name": "viral meningitis",
+                "qid": "Q3301664",
+                "url": "https://en.wikipedia.org/wiki/Viral_meningitis"
+            }
+        ]
+    }
+}

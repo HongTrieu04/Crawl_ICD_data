@@ -1,0 +1,24 @@
+{
+    "name": "skin trauma",
+    "qid": "Q7535430",
+    "icd_10": "T14.8",
+    "description": null,
+    "aliases": [
+        "skin injury"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Skin_trauma",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "injury in humans",
+                "qid": "Q193078",
+                "url": "https://en.wikipedia.org/wiki/Injury_in_humans"
+            },
+            {
+                "name": "skin lesion",
+                "qid": "Q102187434"
+            }
+        ]
+    }
+}

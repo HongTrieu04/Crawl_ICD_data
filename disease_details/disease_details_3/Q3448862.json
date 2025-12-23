@@ -1,0 +1,38 @@
+{
+    "name": "enuresis",
+    "qid": "Q3448862",
+    "icd_10": "F98.0",
+    "description": "repeated inability to control urination",
+    "aliases": [
+        "Enuresis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Enuresis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "desmopressin",
+                "qid": "Q241006",
+                "url": "https://en.wikipedia.org/wiki/Desmopressin"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "urinary incontinence",
+                "qid": "Q281490",
+                "url": "https://en.wikipedia.org/wiki/Urinary_incontinence"
+            },
+            {
+                "name": "elimination disorders",
+                "qid": "Q69906769"
+            }
+        ]
+    }
+}

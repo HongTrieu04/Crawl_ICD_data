@@ -1,0 +1,25 @@
+{
+    "name": "neonatal metabolic disturbance",
+    "qid": "Q19001430",
+    "icd_10": "P74",
+    "description": "Human disease",
+    "aliases": [
+        "endocrine and metabolic disturbances specific to the fetus and newborn",
+        "obsolete endocrine and metabolic disturbances specific to the fetus and newborn"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "metabolic disease",
+                "qid": "Q2351083",
+                "url": "https://en.wikipedia.org/wiki/Metabolic_disorder"
+            },
+            {
+                "name": "perinatal disease",
+                "qid": "Q18968218"
+            }
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "name": "progressive iris atrophy",
+    "qid": "Q18966604",
+    "icd_10": "H21.2",
+    "description": "Human disease",
+    "aliases": [
+        "Essential iris atrophy (disorder)",
+        "Essential or progressive iris atrophy",
+        "obsolete progressive iris atrophy"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "iridocorneal endothelial syndrome",
+                "qid": "Q17121503",
+                "url": "https://en.wikipedia.org/wiki/Iridocorneal_endothelial_syndrome"
+            }
+        ]
+    }
+}

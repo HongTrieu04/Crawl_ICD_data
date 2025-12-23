@@ -1,0 +1,28 @@
+{
+    "name": "personality disorder not otherwise specified",
+    "qid": "Q2540067",
+    "icd_10": "F60.9",
+    "description": "medical condition",
+    "aliases": [
+        "PDNOS",
+        "personality disorder NOS"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Other_and_unspecified_personality_disorders",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "personality disorder",
+                "qid": "Q270673",
+                "url": "https://en.wikipedia.org/wiki/Personality_disorder"
+            }
+        ]
+    }
+}

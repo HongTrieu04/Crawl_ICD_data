@@ -1,0 +1,30 @@
+{
+    "name": "acute hemorrhagic cystitis",
+    "qid": "Q21109048",
+    "icd_10": "N30.0",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "hemorrhagic cystitis",
+                "qid": "Q5712565",
+                "url": "https://en.wikipedia.org/wiki/Hemorrhagic_cystitis"
+            },
+            {
+                "name": "urinary tract infection",
+                "qid": "Q221668",
+                "url": "https://en.wikipedia.org/wiki/Urinary_tract_infection"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            }
+        ]
+    }
+}

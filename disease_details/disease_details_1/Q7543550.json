@@ -1,0 +1,25 @@
+{
+    "name": "Small plaque parapsoriasis",
+    "qid": "Q7543550",
+    "icd_10": "L41.3",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Small_plaque_parapsoriasis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "parapsoriasis",
+                "qid": "Q2051832",
+                "url": "https://en.wikipedia.org/wiki/Parapsoriasis"
+            }
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "name": "underweight",
+    "qid": "Q1146902",
+    "icd_10": "R63.6",
+    "description": "classification of human body weight",
+    "aliases": [
+        "thinness",
+        "skinny",
+        "leanness"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Prisoner%20of%20war%2C%20from%20Belle%20Isle%2C%20Richmond%2C%20at%20the%20U.S.%20General%20Hospital%2C%20Div.%201%2C%20Annapolis.jpg",
+    "url": "https://en.wikipedia.org/wiki/Underweight",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            },
+            {
+                "name": "psychology",
+                "qid": "Q9418",
+                "url": "https://en.wikipedia.org/wiki/Psychology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "abnormal loss of weight and underweight",
+                "qid": "Q102186860"
+            }
+        ]
+    }
+}

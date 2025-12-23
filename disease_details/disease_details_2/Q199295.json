@@ -1,0 +1,46 @@
+{
+    "name": "Zieve's syndrome",
+    "qid": "Q199295",
+    "icd_10": "K70.0",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Zieve%27s_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "jaundice",
+                "qid": "Q133244",
+                "url": "https://en.wikipedia.org/wiki/Jaundice"
+            },
+            {
+                "name": "abdominal pain",
+                "qid": "Q183425",
+                "url": "https://en.wikipedia.org/wiki/Abdominal_pain"
+            },
+            {
+                "name": "hemolytic anemia",
+                "qid": "Q1145668",
+                "url": "https://en.wikipedia.org/wiki/Hemolytic_anemia"
+            },
+            {
+                "name": "hyperlipoproteinemia",
+                "qid": "Q68639544"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "alcoholic liver disease",
+                "qid": "Q558404",
+                "url": "https://en.wikipedia.org/wiki/Alcoholic_liver_disease"
+            }
+        ]
+    }
+}

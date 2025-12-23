@@ -1,0 +1,19 @@
+{
+    "name": "Pellegrini-Stieda syndrome",
+    "qid": "Q1625660",
+    "icd_10": "M76.4",
+    "description": "medical condition",
+    "aliases": [
+        "Tibial collateral bursitis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stieda-Pellegrini-Schatten.jpg",
+    "url": "https://en.wikipedia.org/wiki/Pellegrini%E2%80%93Stieda_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "knee disorder",
+                "qid": "Q18971535"
+            }
+        ]
+    }
+}

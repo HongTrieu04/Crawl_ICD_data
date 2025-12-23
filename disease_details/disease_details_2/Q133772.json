@@ -1,0 +1,90 @@
+{
+    "name": "dental caries",
+    "qid": "Q133772",
+    "icd_10": "K02",
+    "description": "deformation of teeth made by acids from bacteria",
+    "aliases": [
+        "caries",
+        "cavities",
+        "tooth decay",
+        "dental caries extending into pulp",
+        "dental caries of smooth surface",
+        "dental caries pit and fissure"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tooth%20model.jpg",
+    "url": "https://en.wikipedia.org/wiki/Tooth_decay",
+    "details": {
+        "Cause": [
+            {
+                "name": "sugar",
+                "qid": "Q11002",
+                "url": "https://en.wikipedia.org/wiki/Sugar"
+            },
+            {
+                "name": "Lactobacillus",
+                "qid": "Q1061596",
+                "url": "https://en.wikipedia.org/wiki/Lactobacillus"
+            },
+            {
+                "name": "Streptococcus mutans",
+                "qid": "Q131452",
+                "url": "https://en.wikipedia.org/wiki/Streptococcus_mutans"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "caries",
+                "qid": "Q2250111",
+                "url": "https://en.wikipedia.org/wiki/Caries"
+            },
+            {
+                "name": "teeth hard tissue disease",
+                "qid": "Q18555006"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "caries vaccine",
+                "qid": "Q5039551",
+                "url": "https://en.wikipedia.org/wiki/Caries_vaccine"
+            },
+            {
+                "name": "aluminum chloride hexahydrate",
+                "qid": "Q17028316",
+                "url": "https://en.wikipedia.org/wiki/Aluminum_chloride_hexahydrate"
+            },
+            {
+                "name": "tooth regeneration",
+                "qid": "Q18394785",
+                "url": "https://en.wikipedia.org/wiki/Tooth_regeneration"
+            },
+            {
+                "name": "Amine Fluoride",
+                "qid": "Q25324102",
+                "url": "https://en.wikipedia.org/wiki/Amine_fluoride"
+            },
+            {
+                "name": "sodium fluoride",
+                "qid": "Q407520",
+                "url": "https://en.wikipedia.org/wiki/Sodium_fluoride"
+            },
+            {
+                "name": "tin(II) fluoride",
+                "qid": "Q204962",
+                "url": "https://en.wikipedia.org/wiki/Tin(II)_fluoride"
+            },
+            {
+                "name": "xylitol",
+                "qid": "Q212093",
+                "url": "https://en.wikipedia.org/wiki/Xylitol"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "dentistry",
+                "qid": "Q12128",
+                "url": "https://en.wikipedia.org/wiki/Dentistry"
+            }
+        ]
+    }
+}

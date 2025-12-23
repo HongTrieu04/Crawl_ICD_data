@@ -1,0 +1,32 @@
+{
+    "name": "vitamin A deficiency",
+    "qid": "Q2655893",
+    "icd_10": "E50",
+    "description": "lack of vitamin A in blood and tissues",
+    "aliases": [
+        "VAD",
+        "Deficiencies, Vitamin A",
+        "Deficiency, Vitamin A",
+        "hypovitaminosis A",
+        "obsolete vitamin A deficiency",
+        "vitamin A deficiencies"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/All-trans-Retinol2.svg",
+    "url": "https://en.wikipedia.org/wiki/Vitamin_A_deficiency",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "vitamin deficiency",
+                "qid": "Q194435",
+                "url": "https://en.wikipedia.org/wiki/Vitamin_deficiency"
+            }
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "name": "shoulder problem",
+    "qid": "Q7502714",
+    "icd_10": "M75",
+    "description": "pain, dislocation or other issues with the shoulder or shoulder joint",
+    "aliases": [
+        "shoulder disease",
+        "stiff shoulder"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Shoulder_problems",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "orthopedics",
+                "qid": "Q216685",
+                "url": "https://en.wikipedia.org/wiki/Orthopedic_surgery"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "musculoskeletal disorder",
+                "qid": "Q4116663",
+                "url": "https://en.wikipedia.org/wiki/Musculoskeletal_disorder"
+            },
+            {
+                "name": "musculoskeletal disorder of the upper extremities",
+                "qid": "Q26989030"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "shoulder",
+                "qid": "Q16363",
+                "url": "https://en.wikipedia.org/wiki/Shoulder"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Masters-Allen syndrome",
+    "qid": "Q3508670",
+    "icd_10": "N83.8",
+    "description": "Human disease",
+    "aliases": [
+        "Broad ligament laceration syndrome",
+        "Broad ligament laceration syndrome (disorder)"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "broad ligament of the uterus",
+                "qid": "Q629796",
+                "url": "https://en.wikipedia.org/wiki/Broad_ligament_of_the_uterus"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "female reproductive system disease",
+                "qid": "Q5442760",
+                "url": "https://en.wikipedia.org/wiki/Female_genital_disease"
+            }
+        ]
+    }
+}

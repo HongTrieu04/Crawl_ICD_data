@@ -1,0 +1,46 @@
+{
+    "name": "esophageal tuberculosis",
+    "qid": "Q18557555",
+    "icd_10": "K23.0",
+    "description": "gastrointestinal tuberculosis that involves formation of tuberculous ulcers located in esophagus",
+    "aliases": [
+        "esophagus tuberculosis",
+        "tuberculosis of esophagus"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Symptoms": [
+            {
+                "name": "dysphagia",
+                "qid": "Q623289",
+                "url": "https://en.wikipedia.org/wiki/Dysphagia"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "esophageal disease",
+                "qid": "Q2912193",
+                "url": "https://en.wikipedia.org/wiki/Esophageal_disease"
+            },
+            {
+                "name": "gastrointestinal tuberculosis",
+                "qid": "Q18556166"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "esophagus",
+                "qid": "Q173710",
+                "url": "https://en.wikipedia.org/wiki/Esophagus"
+            }
+        ]
+    }
+}

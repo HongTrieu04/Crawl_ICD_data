@@ -1,0 +1,18 @@
+{
+    "name": "Kinking hair",
+    "qid": "Q6413925",
+    "icd_10": "L67.8",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Kinking_hair",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "hair diseases",
+                "qid": "Q2989168",
+                "url": "https://en.wikipedia.org/wiki/Hair_disease"
+            }
+        ]
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "name": "meningococcal disease",
+    "qid": "Q890785",
+    "icd_10": "A39.2",
+    "description": "human disease",
+    "aliases": [
+        "Meningococcal septicaemia",
+        "infections, Neisseria meningitidis",
+        "Meningococcal Infection",
+        "Meningococcal Infections",
+        "meningococcal infectious disease",
+        "Neisseria meningitidis infection"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charlotte%20Cleverley-Bisman%20Meningicoccal%20Disease.jpg",
+    "url": "https://en.wikipedia.org/wiki/Meningococcal_disease",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            },
+            {
+                "name": "meningitis",
+                "qid": "Q48143",
+                "url": "https://en.wikipedia.org/wiki/Meningitis"
+            },
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "septic shock",
+                "qid": "Q1765564",
+                "url": "https://en.wikipedia.org/wiki/Septic_shock"
+            },
+            {
+                "name": "rash",
+                "qid": "Q653197",
+                "url": "https://en.wikipedia.org/wiki/Rash"
+            },
+            {
+                "name": "sore throat",
+                "qid": "Q1292082",
+                "url": "https://en.wikipedia.org/wiki/Sore_throat"
+            },
+            {
+                "name": "meningism signs",
+                "qid": "Q12122651"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "corticosteroid",
+                "qid": "Q210420",
+                "url": "https://en.wikipedia.org/wiki/Corticosteroid"
+            },
+            {
+                "name": "ampicillin",
+                "qid": "Q244150",
+                "url": "https://en.wikipedia.org/wiki/Ampicillin"
+            },
+            {
+                "name": "cefotaxime",
+                "qid": "Q417968",
+                "url": "https://en.wikipedia.org/wiki/Cefotaxime"
+            },
+            {
+                "name": "ceftriaxone",
+                "qid": "Q421713",
+                "url": "https://en.wikipedia.org/wiki/Ceftriaxone"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Neisseria meningitidis",
+                "qid": "Q154625",
+                "url": "https://en.wikipedia.org/wiki/Neisseria_meningitidis"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "gram-negative bacterial infection",
+                "qid": "Q19597369",
+                "url": "https://en.wikipedia.org/wiki/Gram-negative_bacterial_infection"
+            },
+            {
+                "name": "Neisseriaceae infectious disease",
+                "qid": "Q19001422"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

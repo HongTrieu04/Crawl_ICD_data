@@ -1,0 +1,32 @@
+{
+    "name": "cerebral salt-wasting syndrome",
+    "qid": "Q190454",
+    "icd_10": "N28.8",
+    "description": "rare disease",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Cerebral_salt-wasting_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "neurological disorder",
+                "qid": "Q3339235",
+                "url": "https://en.wikipedia.org/wiki/Neurological_disorder"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "hyponatremia",
+                "qid": "Q824292",
+                "url": "https://en.wikipedia.org/wiki/Hyponatremia"
+            }
+        ]
+    }
+}

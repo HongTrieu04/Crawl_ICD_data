@@ -1,0 +1,18 @@
+{
+    "name": "post-traumatic arthrosis",
+    "qid": "Q2106319",
+    "icd_10": "M19.1",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "osteoarthritis",
+                "qid": "Q62736",
+                "url": "https://en.wikipedia.org/wiki/Osteoarthritis"
+            }
+        ]
+    }
+}

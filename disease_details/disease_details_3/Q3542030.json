@@ -1,0 +1,41 @@
+{
+    "name": "endocrine gland neoplasm",
+    "qid": "Q3542030",
+    "icd_10": "D35",
+    "description": "benign or malignant neoplasm arising from the epithelial cells of an endocrine organ, e.g. pituitary gland adenoma, pituitary gland carcinoma, thyroid gland carcinoma, carcinoid tumor, or neuroendocrine carcinoma",
+    "aliases": [
+        "endocrine neoplasm",
+        "neoplasm of endocrine gland",
+        "endocrine gland neoplasm (disease)",
+        "Endocrine Gland Neoplasms",
+        "endocrine gland tumor",
+        "Endocrine System Neoplasm",
+        "Endocrine System Tumor",
+        "Endocrine Tumor",
+        "malignant Endocrine tumor",
+        "tumor of endocrine gland"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Endocrine_gland_neoplasm",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "endocrine system disease",
+                "qid": "Q2661443",
+                "url": "https://en.wikipedia.org/wiki/Endocrine_disease"
+            },
+            {
+                "name": "tumor",
+                "qid": "Q133212",
+                "url": "https://en.wikipedia.org/wiki/Tumor"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ]
+    }
+}

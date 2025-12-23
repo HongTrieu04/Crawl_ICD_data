@@ -1,0 +1,44 @@
+{
+    "name": "hypochondrogenesis",
+    "qid": "Q5959327",
+    "icd_10": "Q77.0",
+    "description": "human disease",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hypochondrogenesis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "osteochondrodysplasia",
+                "qid": "Q3251367",
+                "url": "https://en.wikipedia.org/wiki/Osteochondrodysplasia"
+            },
+            {
+                "name": "spinal disease",
+                "qid": "Q7577457",
+                "url": "https://en.wikipedia.org/wiki/Spinal_disease"
+            },
+            {
+                "name": "genetic disease",
+                "qid": "Q200779",
+                "url": "https://en.wikipedia.org/wiki/Genetic_disorder"
+            },
+            {
+                "name": "achondrogenesis",
+                "qid": "Q2823145",
+                "url": "https://en.wikipedia.org/wiki/Achondrogenesis"
+            },
+            {
+                "name": "monogenic disease",
+                "qid": "Q1225194"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

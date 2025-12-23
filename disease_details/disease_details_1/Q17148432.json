@@ -1,0 +1,75 @@
+{
+    "name": "systemic-onset juvenile idiopathic arthritis",
+    "qid": "Q17148432",
+    "icd_10": "M08.2",
+    "description": "Systemic inflammatory disorder, and a subtype of juvenile idiopathic arthritis, associated with fever, rash, and arthritis.",
+    "aliases": [
+        "SoJIA",
+        "Still disease",
+        "Still's disease",
+        "Still's disease (formerly)",
+        "systemic juvenile idiopathic arthritis",
+        "Systemic juvenile idiopathic arthritis",
+        "Systemic onset juvenile idiopathic arthritis",
+        "systemic onset juvenile rheumatoid arthritis",
+        "Systemic onset juvenile rheumatoid arthritis",
+        "Systemic polyarthritis",
+        "Systemic-onset JIA",
+        "Systemic-onset juvenile idiopathic arthritis",
+        "systemic-onset juvenile rheumatoid arthritis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Systemic-onset_juvenile_idiopathic_arthritis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "pediatrics",
+                "qid": "Q123028",
+                "url": "https://en.wikipedia.org/wiki/Pediatrics"
+            },
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "etanercept",
+                "qid": "Q415343",
+                "url": "https://en.wikipedia.org/wiki/Etanercept"
+            },
+            {
+                "name": "anakinra",
+                "qid": "Q415411",
+                "url": "https://en.wikipedia.org/wiki/Anakinra"
+            },
+            {
+                "name": "prednisolone",
+                "qid": "Q11426176",
+                "url": "https://en.wikipedia.org/wiki/Prednisolone"
+            },
+            {
+                "name": "methotrexate",
+                "qid": "Q422232",
+                "url": "https://en.wikipedia.org/wiki/Methotrexate"
+            },
+            {
+                "name": "tocilizumab",
+                "qid": "Q425154",
+                "url": "https://en.wikipedia.org/wiki/Tocilizumab"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "juvenile rheumatoid arthritis",
+                "qid": "Q861224",
+                "url": "https://en.wikipedia.org/wiki/Juvenile_idiopathic_arthritis"
+            },
+            {
+                "name": "Still's disease",
+                "qid": "Q3281303"
+            }
+        ]
+    }
+}

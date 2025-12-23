@@ -1,0 +1,72 @@
+{
+    "name": "croup",
+    "qid": "Q836356",
+    "icd_10": "J05.0",
+    "description": "respiratory condition that is usually triggered by an acute viral infection of the upper airway",
+    "aliases": [
+        "acute laryngotracheobronchitis",
+        "acute obstructive laryngitis",
+        "croup syndrome",
+        "laryngotracheobronchitis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Croup%20steeple%20sign.jpg",
+    "url": "https://en.wikipedia.org/wiki/Croup",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "respiratory disease",
+                "qid": "Q3286546",
+                "url": "https://en.wikipedia.org/wiki/Respiratory_disease"
+            },
+            {
+                "name": "acute laryngitis",
+                "qid": "Q3827083"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "pediatrics",
+                "qid": "Q123028",
+                "url": "https://en.wikipedia.org/wiki/Pediatrics"
+            },
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "cough",
+                "qid": "Q35805",
+                "url": "https://en.wikipedia.org/wiki/Cough"
+            },
+            {
+                "name": "stridor",
+                "qid": "Q1525170",
+                "url": "https://en.wikipedia.org/wiki/Stridor"
+            },
+            {
+                "name": "hoarseness",
+                "qid": "Q3930506"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "epinephrine",
+                "qid": "Q132621",
+                "url": "https://en.wikipedia.org/wiki/Adrenaline"
+            },
+            {
+                "name": "steroid",
+                "qid": "Q177911",
+                "url": "https://en.wikipedia.org/wiki/Steroid"
+            }
+        ]
+    }
+}

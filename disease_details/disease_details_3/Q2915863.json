@@ -1,0 +1,46 @@
+{
+    "name": "lower gastrointestinal bleeding",
+    "qid": "Q2915863",
+    "icd_10": "K62.5",
+    "description": "medical condition",
+    "aliases": [
+        "intestinal hemorrhage",
+        "LGIB",
+        "lower gastrointestinal hemorrhage"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Lower_gastrointestinal_bleeding",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "hematochezia",
+                "qid": "Q1642049",
+                "url": "https://en.wikipedia.org/wiki/Hematochezia"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "gastrointestinal bleeding",
+                "qid": "Q1495657",
+                "url": "https://en.wikipedia.org/wiki/Gastrointestinal_bleeding"
+            },
+            {
+                "name": "digestive sign",
+                "qid": "Q54926352"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "lower gastrointestinal tract",
+                "qid": "Q31861950"
+            }
+        ]
+    }
+}

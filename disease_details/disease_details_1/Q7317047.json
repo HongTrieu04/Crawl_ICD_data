@@ -1,0 +1,27 @@
+{
+    "name": "retroperitoneal hemorrhage",
+    "qid": "Q7317047",
+    "icd_10": "R93.5",
+    "description": "medical condition",
+    "aliases": [
+        "retroperitoneal bleeding"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Retroperitoneal_bleeding",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "general surgery",
+                "qid": "Q932510",
+                "url": "https://en.wikipedia.org/wiki/General_surgery"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "internal bleeding",
+                "qid": "Q2361887",
+                "url": "https://en.wikipedia.org/wiki/Internal_bleeding"
+            }
+        ]
+    }
+}

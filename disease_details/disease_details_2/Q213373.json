@@ -1,0 +1,37 @@
+{
+    "name": "ataxia",
+    "qid": "Q213373",
+    "icd_10": "R27.0",
+    "description": "neurological sign consisting of lack of voluntary coordination of muscle movements",
+    "aliases": [
+        "impaired gait",
+        "inabiliy to move",
+        "incoordination"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Ataxia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "dyskinesia",
+                "qid": "Q629444",
+                "url": "https://en.wikipedia.org/wiki/Dyskinesia"
+            },
+            {
+                "name": "neurological and physiological symptom",
+                "qid": "Q99860490"
+            },
+            {
+                "name": "lack of coordination",
+                "qid": "Q102187136"
+            }
+        ]
+    }
+}

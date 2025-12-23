@@ -1,0 +1,22 @@
+{
+    "name": "foreign body in ear",
+    "qid": "Q106584076",
+    "icd_10": "T16",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "foreign body",
+                "qid": "Q1455142",
+                "url": "https://en.wikipedia.org/wiki/Foreign_body"
+            },
+            {
+                "name": "external ear disease",
+                "qid": "Q18556075"
+            }
+        ]
+    }
+}

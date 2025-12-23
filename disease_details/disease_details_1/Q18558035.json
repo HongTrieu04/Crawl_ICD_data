@@ -1,0 +1,39 @@
+{
+    "name": "retromolar area cancer",
+    "qid": "Q18558035",
+    "icd_10": "C06.2",
+    "description": "Human disease",
+    "aliases": [
+        "malignant tumor of retromolar area",
+        "malignant tumor of retromolar area (disorder)"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "mouth cancer",
+                "qid": "Q1143025",
+                "url": "https://en.wikipedia.org/wiki/Oral_cancer"
+            },
+            {
+                "name": "mandibular cancer",
+                "qid": "Q18555054"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "retromolar space",
+                "qid": "Q7317042",
+                "url": "https://en.wikipedia.org/wiki/Retromolar_space"
+            }
+        ]
+    }
+}

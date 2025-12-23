@@ -1,0 +1,35 @@
+{
+    "name": "pyridoxine deficiency",
+    "qid": "Q7263598",
+    "icd_10": "E53.1",
+    "description": "paediatric disease due to a lack of pyridoxine",
+    "aliases": [
+        "vitamin B6 deficiency"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Vitamin_B6_deficiency",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "vitamin deficiency",
+                "qid": "Q194435",
+                "url": "https://en.wikipedia.org/wiki/Vitamin_deficiency"
+            },
+            {
+                "name": "vitamin B deficiency",
+                "qid": "Q19001111"
+            },
+            {
+                "name": "disorder of pyridoxine metabolism",
+                "qid": "Q55788558"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "nutrition",
+                "qid": "Q2138622",
+                "url": "https://en.wikipedia.org/wiki/Nutrition"
+            }
+        ]
+    }
+}

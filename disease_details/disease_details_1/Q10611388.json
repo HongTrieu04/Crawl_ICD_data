@@ -1,0 +1,20 @@
+{
+    "name": "orgasmic dysfunction",
+    "qid": "Q10611388",
+    "icd_10": "F52.3",
+    "description": "orgasm either does not occur or is markedly delayed",
+    "aliases": [
+        "orgasm disorder"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "sexual dysfunction",
+                "qid": "Q1137463",
+                "url": "https://en.wikipedia.org/wiki/Sexual_dysfunction"
+            }
+        ]
+    }
+}

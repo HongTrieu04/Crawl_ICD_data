@@ -1,0 +1,25 @@
+{
+    "name": "Varicose veins of leg",
+    "qid": "Q106584263",
+    "icd_10": "I83",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Anatomical location": [
+            {
+                "name": "leg",
+                "qid": "Q133105",
+                "url": "https://en.wikipedia.org/wiki/Leg"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "varicose veins",
+                "qid": "Q201180",
+                "url": "https://en.wikipedia.org/wiki/Varicose_veins"
+            }
+        ]
+    }
+}

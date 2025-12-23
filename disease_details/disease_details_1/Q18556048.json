@@ -1,0 +1,31 @@
+{
+    "name": "extramedullary plasmacytoma",
+    "qid": "Q18556048",
+    "icd_10": "C90.2",
+    "description": "Human disease",
+    "aliases": [
+        "Extramedullary plasmacytoma",
+        "Extramedullary plasmacytoma (clinical)",
+        "extraosseous plasmacytoma",
+        "plasmacytoma, extramedullary",
+        "plasmacytoma, extramedullary (not occurring in bone)"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "plasmacytoma",
+                "qid": "Q2090167",
+                "url": "https://en.wikipedia.org/wiki/Plasmacytoma"
+            }
+        ]
+    }
+}

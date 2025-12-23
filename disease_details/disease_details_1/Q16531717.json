@@ -1,0 +1,18 @@
+{
+    "name": "appendicolith",
+    "qid": "Q16531717",
+    "icd_10": "K38.1",
+    "description": "fecalith in the appendix",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/X-ray%20showing%20fecalith%20which%20has%20caused%20appendicitis.jpg",
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "fecolith",
+                "qid": "Q1785462",
+                "url": "https://en.wikipedia.org/wiki/Fecalith"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "name": "phyllodes tumor",
+    "qid": "Q1149070",
+    "icd_10": "D48.6",
+    "description": "medical condition",
+    "aliases": [
+        "breast phyllodes tumor"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Phyllodes%20tumour%20-%20very%20low%20mag.jpg",
+    "url": "https://en.wikipedia.org/wiki/Phyllodes_tumor",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "breast disease",
+                "qid": "Q4959796",
+                "url": "https://en.wikipedia.org/wiki/Breast_disease"
+            },
+            {
+                "name": "breast neoplasm",
+                "qid": "Q23929670"
+            }
+        ]
+    }
+}

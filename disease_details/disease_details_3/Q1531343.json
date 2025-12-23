@@ -1,0 +1,20 @@
+{
+    "name": "limb pain",
+    "qid": "Q1531343",
+    "icd_10": "M79.6",
+    "description": null,
+    "aliases": [
+        "Pain in limb"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "pain",
+                "qid": "Q81938",
+                "url": "https://en.wikipedia.org/wiki/Pain"
+            }
+        ]
+    }
+}

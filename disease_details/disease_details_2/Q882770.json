@@ -1,0 +1,24 @@
+{
+    "name": "black eye",
+    "qid": "Q882770",
+    "icd_10": "S00.1",
+    "description": "brusing injury to the face",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Black%20Eye%2001.jpg",
+    "url": "https://en.wikipedia.org/wiki/Black_eye",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "orbital disease",
+                "qid": "Q18558098"
+            }
+        ]
+    }
+}

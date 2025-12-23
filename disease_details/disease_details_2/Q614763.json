@@ -1,0 +1,25 @@
+{
+    "name": "Macropsia",
+    "qid": "Q614763",
+    "icd_10": "H53",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Macropsia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "dysmetropsia",
+                "qid": "Q5319483",
+                "url": "https://en.wikipedia.org/wiki/Dysmetropsia"
+            }
+        ]
+    }
+}

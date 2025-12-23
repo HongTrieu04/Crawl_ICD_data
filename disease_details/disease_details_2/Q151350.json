@@ -1,0 +1,38 @@
+{
+    "name": "digoxin toxicity",
+    "qid": "Q151350",
+    "icd_10": "T46.0",
+    "description": "medical condition",
+    "aliases": [
+        "digitalis poisoning"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Digoxin_toxicity",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "intoxication",
+                "qid": "Q18621601",
+                "url": "https://en.wikipedia.org/wiki/Poisoning"
+            },
+            {
+                "name": "poisoning by drugs",
+                "qid": "Q387175"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "digoxin",
+                "qid": "Q422222",
+                "url": "https://en.wikipedia.org/wiki/Digoxin"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ]
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "name": "type 2 diabetes",
+    "qid": "Q3025883",
+    "icd_10": "E11",
+    "description": "type of diabetes mellitus with high blood sugar and insulin resistance",
+    "aliases": [
+        "T2D",
+        "adult-onset diabetes",
+        "diabetes (type 2)",
+        "diabetes mellitus type 2",
+        "diabetes Mellitus, Type 2",
+        "NIDDM",
+        "non-insulin-dependent diabetes mellitus",
+        "rare insulin-independent diabetes mellitus",
+        "type 2 diabetes mellitus",
+        "type II diabetes mellitus"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Blue%20circle%20for%20diabetes.svg",
+    "url": "https://en.wikipedia.org/wiki/Type_2_diabetes",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            },
+            {
+                "name": "family medicine",
+                "qid": "Q3505712",
+                "url": "https://en.wikipedia.org/wiki/Family_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "diabetes",
+                "qid": "Q12206",
+                "url": "https://en.wikipedia.org/wiki/Diabetes"
+            },
+            {
+                "name": "endocrine system disease",
+                "qid": "Q2661443",
+                "url": "https://en.wikipedia.org/wiki/Endocrine_disease"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "metformin",
+                "qid": "Q19484",
+                "url": "https://en.wikipedia.org/wiki/Metformin"
+            },
+            {
+                "name": "ACE inhibitor",
+                "qid": "Q288280",
+                "url": "https://en.wikipedia.org/wiki/ACE_inhibitor"
+            },
+            {
+                "name": "physical activity",
+                "qid": "Q747883",
+                "url": "https://en.wikipedia.org/wiki/Physical_activity"
+            },
+            {
+                "name": "statin",
+                "qid": "Q954845",
+                "url": "https://en.wikipedia.org/wiki/Statin"
+            },
+            {
+                "name": "healthy diet",
+                "qid": "Q5906358",
+                "url": "https://en.wikipedia.org/wiki/Healthy_diet"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "polydipsia",
+                "qid": "Q635195",
+                "url": "https://en.wikipedia.org/wiki/Polydipsia"
+            },
+            {
+                "name": "polyphagia",
+                "qid": "Q653267",
+                "url": "https://en.wikipedia.org/wiki/Polyphagia"
+            },
+            {
+                "name": "polyuria",
+                "qid": "Q1124286",
+                "url": "https://en.wikipedia.org/wiki/Polyuria"
+            }
+        ]
+    }
+}

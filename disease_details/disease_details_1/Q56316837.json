@@ -1,0 +1,24 @@
+{
+    "name": "congenital malformation of pancreas",
+    "qid": "Q56316837",
+    "icd_10": "Q45.3",
+    "description": null,
+    "aliases": [
+        "Anomalies of pancreas"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "pancreas disease",
+                "qid": "Q7130407",
+                "url": "https://en.wikipedia.org/wiki/Pancreatic_disease"
+            },
+            {
+                "name": "digestive system abnormality",
+                "qid": "Q54911721"
+            }
+        ]
+    }
+}

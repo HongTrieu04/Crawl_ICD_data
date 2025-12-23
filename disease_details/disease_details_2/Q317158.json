@@ -1,0 +1,38 @@
+{
+    "name": "adjustment disorder",
+    "qid": "Q317158",
+    "icd_10": "F43.2",
+    "description": "human disease",
+    "aliases": [
+        "adjustment disease",
+        "adjustment reaction"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Adjustment_disorder",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "clinical psychology",
+                "qid": "Q199906",
+                "url": "https://en.wikipedia.org/wiki/Clinical_psychology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "mental disorder",
+                "qid": "Q12135",
+                "url": "https://en.wikipedia.org/wiki/Mental_disorder"
+            }
+        ]
+    }
+}

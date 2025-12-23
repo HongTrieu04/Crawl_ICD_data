@@ -1,0 +1,30 @@
+{
+    "name": "postsurgical testicular hypofunction",
+    "qid": "Q18966612",
+    "icd_10": "E89.5",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete postsurgical testicular hypofunction",
+        "Post-surgical testicular hypofunction (disorder)",
+        "Postablative testicular hypofunction",
+        "Postablative testicular hypofunction (disorder)",
+        "Postablative testicular hypofunction NOS (disorder)",
+        "Postsurgical testicular hypofunction (disorder) [Ambiguous]"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "adverse effect",
+                "qid": "Q2047938",
+                "url": "https://en.wikipedia.org/wiki/Adverse_effect"
+            },
+            {
+                "name": "testicular disease",
+                "qid": "Q7705854",
+                "url": "https://en.wikipedia.org/wiki/Testicular_disease"
+            }
+        ]
+    }
+}

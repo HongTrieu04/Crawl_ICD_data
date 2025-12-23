@@ -1,0 +1,27 @@
+{
+    "name": "achylia",
+    "qid": "Q341201",
+    "icd_10": "K86.8",
+    "description": "lack of hydrochloric acid in the gastric juice and digestive enzymes",
+    "aliases": [
+        "achylia  gastrica"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "achlorhydria",
+                "qid": "Q340548",
+                "url": "https://en.wikipedia.org/wiki/Achlorhydria"
+            }
+        ]
+    }
+}

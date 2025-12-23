@@ -1,0 +1,27 @@
+{
+    "name": "peripheral T-cell lymphoma",
+    "qid": "Q7168693",
+    "icd_10": "C84.4",
+    "description": "mature T-cell and NK-cell lymphoma includes a group of T-cell lymphomas that develop away from the thymus",
+    "aliases": [
+        "Peripheral T-cell lymphoma"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Peripheral_T-cell_lymphoma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "mature T-cell and NK-cell lymphoma",
+                "qid": "Q18553445",
+                "url": "https://en.wikipedia.org/wiki/Mature_T-cell_lymphoma"
+            }
+        ]
+    }
+}

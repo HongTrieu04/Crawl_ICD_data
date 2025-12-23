@@ -1,0 +1,31 @@
+{
+    "name": "railway accident",
+    "qid": "Q19403959",
+    "icd_10": "V89.3",
+    "description": "when a train collides with a pedestrian, animal or other objects (for train crash, see Q1078765 or Q11396408)",
+    "aliases": [
+        "train accident",
+        "rail accident",
+        "traffic colision"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Railway_accident",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "train wreck",
+                "qid": "Q1078765",
+                "url": "https://en.wikipedia.org/wiki/Train_wreck"
+            },
+            {
+                "name": "traffic collision",
+                "qid": "Q9687",
+                "url": "https://en.wikipedia.org/wiki/Traffic_collision"
+            },
+            {
+                "name": "railway incident",
+                "qid": "Q4202290"
+            }
+        ]
+    }
+}

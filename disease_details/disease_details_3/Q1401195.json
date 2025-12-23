@@ -1,0 +1,30 @@
+{
+    "name": "malformation syndrome",
+    "qid": "Q1401195",
+    "icd_10": "Q87",
+    "description": null,
+    "aliases": [
+        "malformative syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Malformative_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "syndrome",
+                "qid": "Q179630",
+                "url": "https://en.wikipedia.org/wiki/Syndrome"
+            },
+            {
+                "name": "congenital abnormality",
+                "qid": "Q2852249",
+                "url": "https://en.wikipedia.org/wiki/Congenital_abnormality"
+            },
+            {
+                "name": "multiple abnormalities",
+                "qid": "Q6934911",
+                "url": "https://en.wikipedia.org/wiki/Multiple_abnormalities"
+            }
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "name": "radiation colitis",
+    "qid": "Q2353003",
+    "icd_10": "K52.0",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Radiation_colitis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "colitis",
+                "qid": "Q2453464",
+                "url": "https://en.wikipedia.org/wiki/Colitis"
+            },
+            {
+                "name": "Gastrointestinal radiation injury",
+                "qid": "Q2352982"
+            }
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Hodgkin's lymphoma, lymphocytic depletion",
+    "qid": "Q18557981",
+    "icd_10": "C81.3",
+    "description": "Human disease",
+    "aliases": [
+        "Hodgkin lymphoma, lymphocyte depletion",
+        "Hodgkin's disease, lymphocytic depletion",
+        "Hodgkin's disease, lymphocytic depletion (disorder)",
+        "Hodgkin's disease, lymphocytic depletion NOS",
+        "Hodgkin's disease, lymphocytic depletion NOS (disorder)",
+        "Hodgkin's disease, lymphocytic depletion NOS (morphologic abnormality)",
+        "Hodgkin's disease, lymphocytic depletion, unspecified site, extranodal and solid organ sites",
+        "Hodgkin's lymphocytic depletion of unspecified site",
+        "Hodgkin's lymphocytic depletion of unspecified site (disorder)",
+        "Lymphocyte-Depleted Classical Hodgkin Lymphoma"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "Hodgkin lymphoma",
+                "qid": "Q209369",
+                "url": "https://en.wikipedia.org/wiki/Hodgkin_lymphoma"
+            }
+        ]
+    }
+}

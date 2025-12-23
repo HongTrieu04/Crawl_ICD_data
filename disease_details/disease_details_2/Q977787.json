@@ -1,0 +1,59 @@
+{
+    "name": "gallbladder cancer",
+    "qid": "Q977787",
+    "icd_10": "C24",
+    "description": "biliary tract cancer that is located in the gallbladder",
+    "aliases": [
+        "gall bladder cancer",
+        "cancer of gall bladder",
+        "gallbladder Ca",
+        "localized malignant gallbladder neoplasm",
+        "malignant gall bladder neoplasm",
+        "Malignant Gallbladder Neoplasm",
+        "Malignant Gallbladder Tumor",
+        "malignant neoplasm of gall bladder",
+        "malignant neoplasm of gallbladder",
+        "Malignant Neoplasm of the Gallbladder",
+        "Malignant Tumor of Gallbladder",
+        "malignant tumor of the gallbladder",
+        "malignant tumour of gallbladder"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Diagram%20showing%20stage%20T3%20gallbladder%20cancer%20CRUK%20436.svg",
+    "url": "https://en.wikipedia.org/wiki/Gallbladder_cancer",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "gallbladder disease",
+                "qid": "Q5518905",
+                "url": "https://en.wikipedia.org/wiki/Gallbladder_disease"
+            },
+            {
+                "name": "Q18556397",
+                "qid": "Q18556397"
+            },
+            {
+                "name": "gallbladder neoplasm",
+                "qid": "Q56014509"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "gallbladder",
+                "qid": "Q64386",
+                "url": "https://en.wikipedia.org/wiki/Gallbladder"
+            }
+        ]
+    }
+}

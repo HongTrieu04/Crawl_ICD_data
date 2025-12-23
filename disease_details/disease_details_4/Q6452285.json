@@ -1,0 +1,58 @@
+{
+    "name": "ulcer",
+    "qid": "Q6452285",
+    "icd_10": "L89",
+    "description": "lesion on the surface of the skin or a mucous surface, produced by the sloughing of inflammatory necrotic tissue",
+    "aliases": [
+        "sore",
+        "corneal ulcer",
+        "peptic ulcer",
+        "pressure ulcer",
+        "mouth ulcer",
+        "stomach ulcer",
+        "genital ulcer",
+        "skin ulcer",
+        "stress ulcer"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ulcer%20on%20the%20ankle%20Wellcome%20L0061469.jpg",
+    "url": "https://en.wikipedia.org/wiki/Ulcer_(dermatology)",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "surgery",
+                "qid": "Q40821",
+                "url": "https://en.wikipedia.org/wiki/Surgery"
+            },
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "skin disease",
+                "qid": "Q949302",
+                "url": "https://en.wikipedia.org/wiki/Skin_condition"
+            },
+            {
+                "name": "clinical sign",
+                "qid": "Q1441305",
+                "url": "https://en.wikipedia.org/wiki/Clinical_sign"
+            },
+            {
+                "name": "ulcer",
+                "qid": "Q3567921",
+                "url": "https://en.wikipedia.org/wiki/Ulcer"
+            },
+            {
+                "name": "pathologic processes",
+                "qid": "Q66824578"
+            },
+            {
+                "name": "skin lesion",
+                "qid": "Q102187434"
+            }
+        ]
+    }
+}

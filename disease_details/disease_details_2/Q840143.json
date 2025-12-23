@@ -1,0 +1,108 @@
+{
+    "name": "streptococcal pharyngitis",
+    "qid": "Q840143",
+    "icd_10": "J02.0",
+    "description": "infection of the back of the throat including the tonsils caused by group A streptococcus",
+    "aliases": [
+        "Septic sore throat due to streptococcal infection",
+        "Septic throat due to streptococcal infection",
+        "strep throat",
+        "Strept throat",
+        "Streptococcal angina",
+        "Streptococcal sore throat",
+        "Streptococcal sore throat NOS (disorder)"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pos%20strep.JPG",
+    "url": "https://en.wikipedia.org/wiki/Streptococcal_pharyngitis",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            },
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "abdominal pain",
+                "qid": "Q183425",
+                "url": "https://en.wikipedia.org/wiki/Abdominal_pain"
+            },
+            {
+                "name": "tonsillitis",
+                "qid": "Q186470",
+                "url": "https://en.wikipedia.org/wiki/Tonsillitis"
+            },
+            {
+                "name": "nausea",
+                "qid": "Q186889",
+                "url": "https://en.wikipedia.org/wiki/Nausea"
+            },
+            {
+                "name": "sore throat",
+                "qid": "Q1292082",
+                "url": "https://en.wikipedia.org/wiki/Sore_throat"
+            },
+            {
+                "name": "poisoning",
+                "qid": "Q114953"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "penicillin",
+                "qid": "Q12190",
+                "url": "https://en.wikipedia.org/wiki/Penicillin"
+            },
+            {
+                "name": "clarithromycin",
+                "qid": "Q118551",
+                "url": "https://en.wikipedia.org/wiki/Clarithromycin"
+            },
+            {
+                "name": "cefixime",
+                "qid": "Q163901",
+                "url": "https://en.wikipedia.org/wiki/Cefixime"
+            },
+            {
+                "name": "amoxicillin",
+                "qid": "Q201928",
+                "url": "https://en.wikipedia.org/wiki/Amoxicillin"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "Group A streptococcal infection",
+                "qid": "Q13587764",
+                "url": "https://en.wikipedia.org/wiki/Group_A_streptococcal_infection"
+            },
+            {
+                "name": "pharyngitis",
+                "qid": "Q2085267",
+                "url": "https://en.wikipedia.org/wiki/Pharyngitis"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "otolaryngology",
+                "qid": "Q189553",
+                "url": "https://en.wikipedia.org/wiki/Otorhinolaryngology"
+            },
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "bacterial infection",
+                "qid": "Q804503",
+                "url": "https://en.wikipedia.org/wiki/Bacterial_infection"
+            }
+        ]
+    }
+}

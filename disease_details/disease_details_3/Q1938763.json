@@ -1,0 +1,41 @@
+{
+    "name": "fecal vomiting",
+    "qid": "Q1938763",
+    "icd_10": "R11.13",
+    "description": "medical condition",
+    "aliases": [
+        "faecal emesis",
+        "faecal vomiting",
+        "fecal emesis",
+        "feculent vomiting",
+        "stercoraceous vomiting"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Fecal_vomiting",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "vomiting",
+                "qid": "Q127076",
+                "url": "https://en.wikipedia.org/wiki/Vomiting"
+            },
+            {
+                "name": "symptom",
+                "qid": "Q169872",
+                "url": "https://en.wikipedia.org/wiki/Symptom"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "bowel obstruction",
+                "qid": "Q16244733",
+                "url": "https://en.wikipedia.org/wiki/Bowel_obstruction"
+            }
+        ]
+    }
+}

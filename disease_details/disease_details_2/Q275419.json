@@ -1,0 +1,67 @@
+{
+    "name": "hypotension",
+    "qid": "Q275419",
+    "icd_10": "I95",
+    "description": "abnormally low blood pressure",
+    "aliases": [
+        "low blood pressure"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Depiction%20of%20a%20hypotension%20%28low%20blood%20pressure%29%20patient%20getting%20her%20blood%20pressure%20checked.png",
+    "url": "https://en.wikipedia.org/wiki/Hypotension",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            },
+            {
+                "name": "family medicine",
+                "qid": "Q3505712",
+                "url": "https://en.wikipedia.org/wiki/Family_medicine"
+            },
+            {
+                "name": "intensive care medicine",
+                "qid": "Q679690",
+                "url": "https://en.wikipedia.org/wiki/Intensive_care_medicine"
+            },
+            {
+                "name": "internal medicine",
+                "qid": "Q11180",
+                "url": "https://en.wikipedia.org/wiki/Internal_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "clinical sign",
+                "qid": "Q1441305",
+                "url": "https://en.wikipedia.org/wiki/Clinical_sign"
+            },
+            {
+                "name": "general symptom",
+                "qid": "Q31836626"
+            },
+            {
+                "name": "hemic system symptom",
+                "qid": "Q102186671"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "metaraminol",
+                "qid": "Q409981",
+                "url": "https://en.wikipedia.org/wiki/Metaraminol"
+            },
+            {
+                "name": "phenylephrine",
+                "qid": "Q421910",
+                "url": "https://en.wikipedia.org/wiki/Phenylephrine"
+            },
+            {
+                "name": "epinephrine",
+                "qid": "Q132621",
+                "url": "https://en.wikipedia.org/wiki/Adrenaline"
+            }
+        ]
+    }
+}

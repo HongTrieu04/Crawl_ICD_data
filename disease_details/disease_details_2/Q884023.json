@@ -1,0 +1,34 @@
+{
+    "name": "conjugate gaze palsy",
+    "qid": "Q884023",
+    "icd_10": "H51.0",
+    "description": "Human disease",
+    "aliases": [
+        "Conjugate gaze palsy [Ambiguous]",
+        "Palsy of conjugate gaze",
+        "Palsy of conjugate gaze (disorder)"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Conjugate_gaze_palsy",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "strabismus",
+                "qid": "Q179951",
+                "url": "https://en.wikipedia.org/wiki/Strabismus"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            }
+        ]
+    }
+}

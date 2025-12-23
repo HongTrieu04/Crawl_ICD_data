@@ -1,0 +1,30 @@
+{
+    "name": "absent adrenal gland",
+    "qid": "Q4669713",
+    "icd_10": "Q89.1",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Absent_adrenal_gland",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "agenesis",
+                "qid": "Q392604",
+                "url": "https://en.wikipedia.org/wiki/Agenesis"
+            },
+            {
+                "name": "adrenal insufficiency",
+                "qid": "Q2507454",
+                "url": "https://en.wikipedia.org/wiki/Adrenal_insufficiency"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

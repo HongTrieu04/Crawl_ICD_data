@@ -1,0 +1,27 @@
+{
+    "name": "aneurysm",
+    "qid": "Q189389",
+    "icd_10": "I72",
+    "description": "bulge in the wall of a blood vessel",
+    "aliases": [
+        "aneurism"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dissecting%20aneurysm%2001.jpg",
+    "url": "https://en.wikipedia.org/wiki/Aneurysm",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "vascular disease",
+                "qid": "Q1266890",
+                "url": "https://en.wikipedia.org/wiki/Vascular_disease"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "vascular surgery",
+                "qid": "Q1498222",
+                "url": "https://en.wikipedia.org/wiki/Vascular_surgery"
+            }
+        ]
+    }
+}

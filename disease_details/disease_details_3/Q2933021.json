@@ -1,0 +1,35 @@
+{
+    "name": "health effects of caffeine",
+    "qid": "Q2933021",
+    "icd_10": "F15.0",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Health_effects_of_caffeine",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "health effects of coffee",
+                "qid": "Q4115270",
+                "url": "https://en.wikipedia.org/wiki/Health_effects_of_coffee"
+            },
+            {
+                "name": "stimulant use disorder",
+                "qid": "Q28208977",
+                "url": "https://en.wikipedia.org/wiki/Stimulant_use_disorder"
+            }
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "name": "anisocytosis",
+    "qid": "Q935997",
+    "icd_10": "R71",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Anisocytosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "abnormality of red blood cells",
+                "qid": "Q5670888"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Vaginal stenosis",
+    "qid": "Q55636901",
+    "icd_10": "N89.5",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Vaginal_stenosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gynaecology",
+                "qid": "Q1221899",
+                "url": "https://en.wikipedia.org/wiki/Gynaecology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "vaginal disease",
+                "qid": "Q18211693",
+                "url": "https://en.wikipedia.org/wiki/Vaginal_disease"
+            }
+        ]
+    }
+}

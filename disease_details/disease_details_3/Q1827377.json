@@ -1,0 +1,29 @@
+{
+    "name": "obsolete lipogranuloma",
+    "qid": "Q1827377",
+    "icd_10": "L92.8",
+    "description": "human disease",
+    "aliases": [
+        "Lipogranuloma (disorder)",
+        "Lipogranuloma (morphologic abnormality)",
+        "lipogranulomatosis",
+        "Oil granuloma (disorder)",
+        "Xanthogranuloma",
+        "Xanthogranuloma (disorder)"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "granuloma",
+                "qid": "Q1129338",
+                "url": "https://en.wikipedia.org/wiki/Granuloma"
+            },
+            {
+                "name": "oleogranuloma",
+                "qid": "Q12557103"
+            }
+        ]
+    }
+}

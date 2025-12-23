@@ -1,0 +1,43 @@
+{
+    "name": "psychosomatic disease",
+    "qid": "Q10267833",
+    "icd_10": "F54",
+    "description": "physiological malfunction arising from mental factors",
+    "aliases": [
+        "psychophysiologic disorder",
+        "psychosomatic disorder"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "clinical psychology",
+                "qid": "Q199906",
+                "url": "https://en.wikipedia.org/wiki/Clinical_psychology"
+            },
+            {
+                "name": "psychosomatic medicine",
+                "qid": "Q473867",
+                "url": "https://en.wikipedia.org/wiki/Psychosomatic_medicine"
+            },
+            {
+                "name": "abnormal psychology",
+                "qid": "Q1987782",
+                "url": "https://en.wikipedia.org/wiki/Abnormal_psychology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            }
+        ]
+    }
+}

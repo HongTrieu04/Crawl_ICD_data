@@ -1,0 +1,18 @@
+{
+    "name": "plasma cell gingivitis",
+    "qid": "Q123055675",
+    "icd_10": "K05",
+    "description": "medical condition",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Plasma%20cell%20gingivitis%20in%20adult.jpg",
+    "url": "https://en.wikipedia.org/wiki/Plasma_cell_gingivitis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "gingivitis",
+                "qid": "Q673083",
+                "url": "https://en.wikipedia.org/wiki/Gingivitis"
+            }
+        ]
+    }
+}

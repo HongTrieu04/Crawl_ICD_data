@@ -1,0 +1,18 @@
+{
+    "name": "Trimalleolar fracture",
+    "qid": "Q7842131",
+    "icd_10": "S82.8",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Trimalleolar_fracture",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "ankle fracture",
+                "qid": "Q2314265",
+                "url": "https://en.wikipedia.org/wiki/Ankle_fracture"
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Miliaria crystallina",
+    "qid": "Q2179162",
+    "icd_10": "L74.1",
+    "description": "miliaria that is characterized by clear, superficial, noninflammed, subcorneal vesicles that easily rupture when rubbed and is located in the stratum corneum",
+    "aliases": [
+        "miliaria crystallina"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Miliaria_crystallina",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "miliaria",
+                "qid": "Q768888",
+                "url": "https://en.wikipedia.org/wiki/Miliaria"
+            }
+        ]
+    }
+}

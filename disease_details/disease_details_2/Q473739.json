@@ -1,0 +1,36 @@
+{
+    "name": "chorioamnionitis",
+    "qid": "Q473739",
+    "icd_10": "O41.1",
+    "description": "placenta disease that is an inflammation of the fetal membranes (amnion and chorion) due to a bacterial infection",
+    "aliases": [
+        "fetal membrane inflammation",
+        "fetal membraneitis",
+        "intra-amniotic infection",
+        "intra-amniotic inflammation",
+        "intraamniotic infection"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chorioamnionitis%20-%20high%20mag.jpg",
+    "url": "https://en.wikipedia.org/wiki/Chorioamnionitis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "obstetrics and gynaecology",
+                "qid": "Q80015",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics_and_gynaecology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "placenta disease",
+                "qid": "Q7200296",
+                "url": "https://en.wikipedia.org/wiki/Placental_disease"
+            },
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            }
+        ]
+    }
+}

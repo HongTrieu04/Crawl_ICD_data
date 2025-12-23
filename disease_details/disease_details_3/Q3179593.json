@@ -1,0 +1,39 @@
+{
+    "name": "skin tag",
+    "qid": "Q3179593",
+    "icd_10": "L91.8",
+    "description": "small benign skin tumor",
+    "aliases": [
+        "acrochordon",
+        "cutaneous tag",
+        "Fibroepithelial polyp",
+        "Fibroepithelial polyp (morphologic abnormality)",
+        "Fibroepithelial polyp of skin",
+        "skin tag (disorder)",
+        "skin tag NOS",
+        "skin tag NOS (disorder)",
+        "soft fibroma",
+        "Tag (morphologic abnormality)"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NeckAcrochordons.jpg",
+    "url": "https://en.wikipedia.org/wiki/Skin_tag",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "reactive cutaneous fibrous lesion",
+                "qid": "Q18554972"
+            },
+            {
+                "name": "skin benign neoplasm",
+                "qid": "Q18555315"
+            }
+        ]
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "name": "toxoplasmosis",
+    "qid": "Q154878",
+    "icd_10": "B58",
+    "description": "parasitic disease",
+    "aliases": [
+        "disseminated toxoplasmosis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Toxoplasma%20gondii%20tachy.jpg",
+    "url": "https://en.wikipedia.org/wiki/Toxoplasmosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "zoonosis",
+                "qid": "Q182672",
+                "url": "https://en.wikipedia.org/wiki/Zoonosis"
+            },
+            {
+                "name": "coccidiosis",
+                "qid": "Q487837",
+                "url": "https://en.wikipedia.org/wiki/Coccidiosis"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "encephalitis",
+                "qid": "Q199615",
+                "url": "https://en.wikipedia.org/wiki/Encephalitis"
+            },
+            {
+                "name": "lymphadenopathy",
+                "qid": "Q847726",
+                "url": "https://en.wikipedia.org/wiki/Lymphadenopathy"
+            },
+            {
+                "name": "splenomegaly",
+                "qid": "Q1129121",
+                "url": "https://en.wikipedia.org/wiki/Splenomegaly"
+            },
+            {
+                "name": "hepatosplenomegaly",
+                "qid": "Q1260186",
+                "url": "https://en.wikipedia.org/wiki/Hepatosplenomegaly"
+            },
+            {
+                "name": "hepatomegaly",
+                "qid": "Q1362864",
+                "url": "https://en.wikipedia.org/wiki/Hepatomegaly"
+            },
+            {
+                "name": "low-grade fever",
+                "qid": "Q480971"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            },
+            {
+                "name": "obstetrics and gynaecology",
+                "qid": "Q80015",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics_and_gynaecology"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Toxoplasma gondii",
+                "qid": "Q131003",
+                "url": "https://en.wikipedia.org/wiki/Toxoplasma_gondii"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "pyrimethamine",
+                "qid": "Q421072",
+                "url": "https://en.wikipedia.org/wiki/Pyrimethamine"
+            },
+            {
+                "name": "spiramycin",
+                "qid": "Q422265",
+                "url": "https://en.wikipedia.org/wiki/Spiramycin"
+            },
+            {
+                "name": "clindamycin",
+                "qid": "Q422273",
+                "url": "https://en.wikipedia.org/wiki/Clindamycin"
+            },
+            {
+                "name": "chloroquine",
+                "qid": "Q422438",
+                "url": "https://en.wikipedia.org/wiki/Chloroquine"
+            },
+            {
+                "name": "sulfamethoxazole/trimethoprim",
+                "qid": "Q898623",
+                "url": "https://en.wikipedia.org/wiki/Trimethoprim/sulfamethoxazole"
+            },
+            {
+                "name": "sulfadiazine",
+                "qid": "Q2555060",
+                "url": "https://en.wikipedia.org/wiki/Sulfadiazine"
+            }
+        ]
+    }
+}

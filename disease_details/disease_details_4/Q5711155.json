@@ -1,0 +1,35 @@
+{
+    "name": "hematocolpos",
+    "qid": "Q5711155",
+    "icd_10": "N89.7",
+    "description": "medical condition in which the vagina fills with menstrual blood",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hematocolpos",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "hemometra",
+                "qid": "Q7476276",
+                "url": "https://en.wikipedia.org/wiki/Hematometra"
+            },
+            {
+                "name": "vaginal disease",
+                "qid": "Q18211693",
+                "url": "https://en.wikipedia.org/wiki/Vaginal_disease"
+            },
+            {
+                "name": "hydrocolpos",
+                "qid": "Q5954725",
+                "url": "https://en.wikipedia.org/wiki/Hydrocolpos"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gynaecology",
+                "qid": "Q1221899",
+                "url": "https://en.wikipedia.org/wiki/Gynaecology"
+            }
+        ]
+    }
+}

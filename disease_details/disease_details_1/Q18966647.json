@@ -1,0 +1,18 @@
+{
+    "name": "glaucoma associated with ocular disorder",
+    "qid": "Q18966647",
+    "icd_10": "H40.5",
+    "description": "Human disease",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "glaucoma",
+                "qid": "Q159701",
+                "url": "https://en.wikipedia.org/wiki/Glaucoma"
+            }
+        ]
+    }
+}

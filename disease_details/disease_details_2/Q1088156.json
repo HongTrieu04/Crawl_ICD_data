@@ -1,0 +1,207 @@
+{
+    "name": "chronic lymphocytic leukemia",
+    "qid": "Q1088156",
+    "icd_10": "C91.1",
+    "description": "lymphoblastic leukemia characterized by over production of B-cells and their accumulation in bone marrow and blood",
+    "aliases": [
+        "B Cell Chronic Lymphocytic Leukemia",
+        "B Cell CLL",
+        "B Cell Lymphocytic Leukemia",
+        "B-cell chronic lymphocytic leukemia",
+        "B-Cell Chronic Lymphogenous Leukemia",
+        "B-cell chronic lymphoid leukemia",
+        "B-Cell CLL",
+        "B-Cell Lymphocytic Leukemia",
+        "B-CLL",
+        "BCLL",
+        "Chronic B-Cell Lymphocytic Leukemia",
+        "chronic lymphatic leukemia",
+        "chronic lymphocytic leukaemia",
+        "Chronic lymphocytic leukaemia",
+        "Chronic Lymphocytic Leukemia",
+        "Chronic Lymphocytic Leukemia (CLL)",
+        "Chronic lymphocytic leukemia, NOS",
+        "Chronic lymphocytic leukemia; CLL",
+        "Chronic Lymphogenous Leukemia",
+        "chronic lymphoid leukemia",
+        "CLL",
+        "Hematopoeitic - Chronic Lymphocytic Leukemia (CLL)",
+        "Leukemia, Chronic Lymphatic",
+        "LEUKEMIA, CHRONIC LYMPHOCYTIC",
+        "LEUKEMIA, CHRONIC LYMPHOCYTIC; CLL",
+        "Leukemia, Lymphocytic, Chronic, B-Cell",
+        "lymphoplasmacytic leukemia",
+        "Small lymphocytic lymphoma"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chronic%20lymphocytic%20leukemia.jpg",
+    "url": "https://en.wikipedia.org/wiki/Chronic_lymphocytic_leukemia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "leukemia",
+                "qid": "Q29496",
+                "url": "https://en.wikipedia.org/wiki/Leukemia"
+            },
+            {
+                "name": "lymphoma",
+                "qid": "Q208414",
+                "url": "https://en.wikipedia.org/wiki/Lymphoma"
+            },
+            {
+                "name": "chronic leukemia",
+                "qid": "Q5113979",
+                "url": "https://en.wikipedia.org/wiki/Chronic_leukemia"
+            },
+            {
+                "name": "small lymphocytic lymphoma",
+                "qid": "Q9022766"
+            },
+            {
+                "name": "lymphoblastic leukemia",
+                "qid": "Q18553852"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "doxorubicin",
+                "qid": "Q18936",
+                "url": "https://en.wikipedia.org/wiki/Doxorubicin"
+            },
+            {
+                "name": "obinutuzumab",
+                "qid": "Q389496",
+                "url": "https://en.wikipedia.org/wiki/Obinutuzumab"
+            },
+            {
+                "name": "(RS)-cyclophosphamide",
+                "qid": "Q408524",
+                "url": "https://en.wikipedia.org/wiki/Cyclophosphamide"
+            },
+            {
+                "name": "vincristine",
+                "qid": "Q408977",
+                "url": "https://en.wikipedia.org/wiki/Vincristine"
+            },
+            {
+                "name": "ofatumumab",
+                "qid": "Q410656",
+                "url": "https://en.wikipedia.org/wiki/Ofatumumab"
+            },
+            {
+                "name": "rituximab",
+                "qid": "Q412323",
+                "url": "https://en.wikipedia.org/wiki/Rituximab"
+            },
+            {
+                "name": "nilotinib",
+                "qid": "Q412327",
+                "url": "https://en.wikipedia.org/wiki/Nilotinib"
+            },
+            {
+                "name": "cladribine",
+                "qid": "Q414030",
+                "url": "https://en.wikipedia.org/wiki/Cladribine"
+            },
+            {
+                "name": "chlorambucil",
+                "qid": "Q415939",
+                "url": "https://en.wikipedia.org/wiki/Chlorambucil"
+            },
+            {
+                "name": "mercaptopurine",
+                "qid": "Q418529",
+                "url": "https://en.wikipedia.org/wiki/Mercaptopurine"
+            },
+            {
+                "name": "ifosfamide",
+                "qid": "Q418560",
+                "url": "https://en.wikipedia.org/wiki/Ifosfamide"
+            },
+            {
+                "name": "alemtuzumab",
+                "qid": "Q420164",
+                "url": "https://en.wikipedia.org/wiki/Alemtuzumab"
+            },
+            {
+                "name": "dexamethasone",
+                "qid": "Q422252",
+                "url": "https://en.wikipedia.org/wiki/Dexamethasone"
+            },
+            {
+                "name": "prednisone",
+                "qid": "Q424972",
+                "url": "https://en.wikipedia.org/wiki/Prednisone"
+            },
+            {
+                "name": "pentostatin",
+                "qid": "Q425470",
+                "url": "https://en.wikipedia.org/wiki/Pentostatin"
+            },
+            {
+                "name": "(RS)-lenalidomide",
+                "qid": "Q425681",
+                "url": "https://en.wikipedia.org/wiki/Lenalidomide"
+            },
+            {
+                "name": "bendamustine",
+                "qid": "Q425745",
+                "url": "https://en.wikipedia.org/wiki/Bendamustine"
+            },
+            {
+                "name": "pegfilgrastim",
+                "qid": "Q1592932",
+                "url": "https://en.wikipedia.org/wiki/Pegfilgrastim"
+            },
+            {
+                "name": "idelalisib",
+                "qid": "Q5908266",
+                "url": "https://en.wikipedia.org/wiki/Idelalisib"
+            },
+            {
+                "name": "ibrutinib",
+                "qid": "Q5984881",
+                "url": "https://en.wikipedia.org/wiki/Ibrutinib"
+            },
+            {
+                "name": "pegaspargase",
+                "qid": "Q7160547",
+                "url": "https://en.wikipedia.org/wiki/Pegaspargase"
+            },
+            {
+                "name": "uracil mustard",
+                "qid": "Q15211075",
+                "url": "https://en.wikipedia.org/wiki/Uramustine"
+            },
+            {
+                "name": "acalabrutinib",
+                "qid": "Q23668732",
+                "url": "https://en.wikipedia.org/wiki/Acalabrutinib"
+            },
+            {
+                "name": "venetoclax",
+                "qid": "Q23671272",
+                "url": "https://en.wikipedia.org/wiki/Venetoclax"
+            },
+            {
+                "name": "dasatinib monohydrate",
+                "qid": "Q27139135"
+            },
+            {
+                "name": "etoposide phosphate",
+                "qid": "Q27260984"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            }
+        ]
+    }
+}

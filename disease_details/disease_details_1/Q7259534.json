@@ -1,0 +1,29 @@
+{
+    "name": "pulmonary interstitial emphysema",
+    "qid": "Q7259534",
+    "icd_10": "P25.0",
+    "description": "collection of air outside of the normal air space of the pulmonary alveoli",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pulmonary_interstitial_emphysema",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "pediatrics",
+                "qid": "Q123028",
+                "url": "https://en.wikipedia.org/wiki/Pediatrics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "emphysema",
+                "qid": "Q1339243",
+                "url": "https://en.wikipedia.org/wiki/Pneumatosis"
+            },
+            {
+                "name": "perinatal respiratory disorder",
+                "qid": "Q18966634"
+            }
+        ]
+    }
+}

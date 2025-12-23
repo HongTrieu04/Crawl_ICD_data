@@ -1,0 +1,27 @@
+{
+    "name": "emergency cesarean section",
+    "qid": "Q29997105",
+    "icd_10": "O82.1",
+    "description": "cesarean section that is not scheduled",
+    "aliases": [
+        "emergency caesarean delivery",
+        "emergency caesarean section",
+        "emergency cesarean delivery"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "cesarean section",
+                "qid": "Q228036",
+                "url": "https://en.wikipedia.org/wiki/Caesarean_section"
+            },
+            {
+                "name": "surgical emergency",
+                "qid": "Q7646211",
+                "url": "https://en.wikipedia.org/wiki/Surgical_emergency"
+            }
+        ]
+    }
+}

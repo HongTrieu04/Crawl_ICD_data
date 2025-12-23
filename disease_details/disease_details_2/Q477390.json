@@ -1,0 +1,24 @@
+{
+    "name": "hyperinsulinism",
+    "qid": "Q477390",
+    "icd_10": "E16.1",
+    "description": "above normal level of insulin in the blood",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hyperinsulinism",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "glucose metabolism disease",
+                "qid": "Q18556224"
+            }
+        ]
+    }
+}

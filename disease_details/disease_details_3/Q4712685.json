@@ -1,0 +1,41 @@
+{
+    "name": "Albright's hereditary osteodystrophy",
+    "qid": "Q4712685",
+    "icd_10": "E20.1",
+    "description": "osteochondrodysplasia that has material basis in lack of responsiveness to parathyroid hormone which results in shortening and widening of long bones of the located in hand or located in foot along with short stature, obesity, and rounded face",
+    "aliases": [
+        "PHP1A",
+        "AHO-PHP syndrome Ia",
+        "Albright hereditary osteodystrophy",
+        "Albright Hereditary Osteodystrophy With Multiple Hormone Resistance",
+        "Albright hereditary osteodystrophy-PHP syndrome Ia",
+        "Php 1A",
+        "pseudohypoparathyroidism 1a",
+        "pseudohypoparathyroidism Ia",
+        "pseudohypoparathyroidism type 1a",
+        "PSEUDOHYPOPARATHYROIDISM, TYPE IA",
+        "PSEUDOHYPOPARATHYROIDISM, TYPE IA; PHP1A"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Albright%27s_hereditary_osteodystrophy",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "pseudohypoparathyroidism",
+                "qid": "Q819207",
+                "url": "https://en.wikipedia.org/wiki/Pseudohypoparathyroidism"
+            },
+            {
+                "name": "pseudohypoparathyroidism with Albright hereditary osteodystrophy",
+                "qid": "Q55788263"
+            }
+        ]
+    }
+}

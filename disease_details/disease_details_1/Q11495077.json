@@ -1,0 +1,21 @@
+{
+    "name": "chronic renal disease",
+    "qid": "Q11495077",
+    "icd_10": "N18",
+    "description": null,
+    "aliases": [
+        "CKD",
+        "chronic kidney disease"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "kidney disease",
+                "qid": "Q1054718",
+                "url": "https://en.wikipedia.org/wiki/Kidney_disease"
+            }
+        ]
+    }
+}

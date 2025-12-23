@@ -1,0 +1,38 @@
+{
+    "name": "gestational hypertension",
+    "qid": "Q1519482",
+    "icd_10": "O13",
+    "description": "Human disease",
+    "aliases": [
+        "Hypertension Associated Disorders of Pregnancy",
+        "hypertension induced by pregnancy",
+        "hypertension-associated pregnancy disorder",
+        "Hypertension-Associated Pregnancy Disorder",
+        "pregnancy associated hypertension",
+        "pregnancy toxemia",
+        "Pregnancy-induced hypertension"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Gestational_hypertension",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "arterial hypertension",
+                "qid": "Q41861",
+                "url": "https://en.wikipedia.org/wiki/Hypertension"
+            },
+            {
+                "name": "hypertensive disease of pregnancy",
+                "qid": "Q19001368",
+                "url": "https://en.wikipedia.org/wiki/Hypertensive_disease_of_pregnancy"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "obstetrics",
+                "qid": "Q5284418",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics"
+            }
+        ]
+    }
+}

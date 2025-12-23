@@ -1,0 +1,18 @@
+{
+    "name": "Panmyelosis",
+    "qid": "Q7131354",
+    "icd_10": "C94.4",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Panmyelosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ]
+    }
+}

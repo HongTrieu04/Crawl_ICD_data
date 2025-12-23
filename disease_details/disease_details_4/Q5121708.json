@@ -1,0 +1,29 @@
+{
+    "name": "circulatory collapse",
+    "qid": "Q5121708",
+    "icd_10": "R57.9",
+    "description": "failure of circulation, such as blood flow",
+    "aliases": [
+        "cardiovascular collapse"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Circulatory_collapse",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "hypotension",
+                "qid": "Q275419",
+                "url": "https://en.wikipedia.org/wiki/Hypotension"
+            },
+            {
+                "name": "cardiovascular disease",
+                "qid": "Q389735",
+                "url": "https://en.wikipedia.org/wiki/Cardiovascular_disease"
+            },
+            {
+                "name": "circulatory insufficiency",
+                "qid": "Q11791872"
+            }
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "name": "rheumatic heart disease",
+    "qid": "Q3658498",
+    "icd_10": "I01",
+    "description": "acute inflammatory disease following an episode of Group A streptococcus pharyngitis",
+    "aliases": [
+        "RHD",
+        "Bouillaud Disease",
+        "rheumatic carditis",
+        "Rheumatic heart disease",
+        "Rheumatic Heart Disease"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "heart valve disease",
+                "qid": "Q1130519",
+                "url": "https://en.wikipedia.org/wiki/Valvular_heart_disease"
+            },
+            {
+                "name": "pancarditis",
+                "qid": "Q1729125",
+                "url": "https://en.wikipedia.org/wiki/Carditis"
+            },
+            {
+                "name": "rheumatic fever",
+                "qid": "Q753904",
+                "url": "https://en.wikipedia.org/wiki/Rheumatic_fever"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            },
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "inflammation",
+                "qid": "Q101991",
+                "url": "https://en.wikipedia.org/wiki/Inflammation"
+            }
+        ]
+    }
+}

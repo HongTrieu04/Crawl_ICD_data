@@ -1,0 +1,19 @@
+{
+    "name": "vitreous bulge",
+    "qid": "Q60791025",
+    "icd_10": "H43.0",
+    "description": "type of complication in the eye",
+    "aliases": [
+        "Vitreous prolapse"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Vitreous_bulge",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "vitreous disease",
+                "qid": "Q18558199"
+            }
+        ]
+    }
+}

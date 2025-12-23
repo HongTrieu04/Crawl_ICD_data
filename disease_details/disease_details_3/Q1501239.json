@@ -1,0 +1,60 @@
+{
+    "name": "insulinoma",
+    "qid": "Q1501239",
+    "icd_10": "D13.7",
+    "description": "tumor that produces too much insulin",
+    "aliases": [
+        "beta cell neoplasm",
+        "Beta Cell Tumor",
+        "Beta Cell Tumor of Pancreas",
+        "beta cell tumor of the pancreas",
+        "Insulin-Producing Islet Cell Tumor",
+        "Insulin-Producing tumor of Islet cells",
+        "Insulin-Producing Tumor of the Islet Cells",
+        "Islet cell adenoma",
+        "Islet cell adenoma (morphologic abnormality)",
+        "Pancreatic Beta Cell Tumor",
+        "Pancreatic Insulin Producing Neoplasm",
+        "Pancreatic Insulin Producing NET",
+        "Pancreatic Insulin Producing Tumor",
+        "Pancreatic Insulin-Producing Neuroendocrine Tumor",
+        "pancreatic insulin-producing tumor"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pancreatic%20insulinoma%20%282%29.JPG",
+    "url": "https://en.wikipedia.org/wiki/Insulinoma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "benign neoplasms by histologic type",
+                "qid": "Q18553645"
+            },
+            {
+                "name": "pancreatic cystadenoma",
+                "qid": "Q18556116"
+            },
+            {
+                "name": "islet cell adenoma",
+                "qid": "Q66759383"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "everolimus",
+                "qid": "Q421052",
+                "url": "https://en.wikipedia.org/wiki/Everolimus"
+            }
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "name": "simple kidney cyst",
+    "qid": "Q3678249",
+    "icd_10": "N28.1",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "renal cyst",
+                "qid": "Q1425737",
+                "url": "https://en.wikipedia.org/wiki/Renal_cyst"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Idiopathic guttate hypomelanosis",
+    "qid": "Q5988879",
+    "icd_10": "L81.5",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Idiopathic_guttate_hypomelanosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "hypopigmentation",
+                "qid": "Q1291366",
+                "url": "https://en.wikipedia.org/wiki/Hypopigmentation"
+            }
+        ]
+    }
+}

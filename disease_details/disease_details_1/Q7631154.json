@@ -1,0 +1,22 @@
+{
+    "name": "Meniscal cyst",
+    "qid": "Q7631154",
+    "icd_10": "M23.0",
+    "description": "cyst lesion of the knee",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Meniscal_cyst",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "cyst",
+                "qid": "Q193211",
+                "url": "https://en.wikipedia.org/wiki/Cyst"
+            },
+            {
+                "name": "knee disorder",
+                "qid": "Q18971535"
+            }
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "name": "gangrene and necrosis of lung",
+    "qid": "Q1525534",
+    "icd_10": "J85.0",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "gangrene",
+                "qid": "Q168805",
+                "url": "https://en.wikipedia.org/wiki/Gangrene"
+            },
+            {
+                "name": "lung disease",
+                "qid": "Q3392853"
+            }
+        ]
+    }
+}

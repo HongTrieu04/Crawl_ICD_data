@@ -1,0 +1,22 @@
+{
+    "name": "acute myeloid leukemia with abnormal bone marrow eosinophils inv(16)(p13q22) or t(16;16)(p13;q22)",
+    "qid": "Q56014405",
+    "icd_10": "C92.5",
+    "description": null,
+    "aliases": [
+        "CBFB-MYH11",
+        "Acute myelomonocytic leukemia",
+        "AML with abnormal bone marrow eosinophils inv(16)(p13q22) or t(16;16)(p13;q22)",
+        "AML with inv(16)(p13.1q22) or t(16;16)(p13.1;q22)"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "acute myeloid leukemia with recurrent genetic anomaly",
+                "qid": "Q56014396"
+            }
+        ]
+    }
+}

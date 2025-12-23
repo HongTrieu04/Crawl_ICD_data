@@ -1,0 +1,54 @@
+{
+    "name": "acromegaly",
+    "qid": "Q189580",
+    "icd_10": "E22.0",
+    "description": "Human disease / micro cephaly opposite",
+    "aliases": [
+        "Acromegalia",
+        "Acromegalic",
+        "Gigacromegaly",
+        "Growth hormone excess",
+        "Growth hormone-secreting pituitary adenoma",
+        "Pseudoacromegaly"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Acromegaly%20prognathism.JPEG",
+    "url": "https://en.wikipedia.org/wiki/Acromegaly",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "hyperpituitarism",
+                "qid": "Q3801524",
+                "url": "https://en.wikipedia.org/wiki/Hyperpituitarism"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "pegvisomant",
+                "qid": "Q409697",
+                "url": "https://en.wikipedia.org/wiki/Pegvisomant"
+            },
+            {
+                "name": "bromocriptine",
+                "qid": "Q413581",
+                "url": "https://en.wikipedia.org/wiki/Bromocriptine"
+            },
+            {
+                "name": "octreotide",
+                "qid": "Q419935",
+                "url": "https://en.wikipedia.org/wiki/Octreotide"
+            }
+        ]
+    }
+}

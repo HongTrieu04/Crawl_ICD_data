@@ -1,0 +1,37 @@
+{
+    "name": "Pityriasis lichenoides",
+    "qid": "Q7199563",
+    "icd_10": "L41.1",
+    "description": "medical condition",
+    "aliases": [
+        "Acute Pityriasis Lichenoides",
+        "Chronic Pityriasis Lichenoides",
+        "Pityriasis Lichenoides Chronica",
+        "Pityriasis Lichenoides et Varioliformis Acuta",
+        "Pityriasis Lichenoides, Acute",
+        "Pityriasis Lichenoides, Chronic"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pityriasis_lichenoides",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "pityriasis",
+                "qid": "Q2097389",
+                "url": "https://en.wikipedia.org/wiki/Pityriasis"
+            },
+            {
+                "name": "parapsoriasis",
+                "qid": "Q2051832",
+                "url": "https://en.wikipedia.org/wiki/Parapsoriasis"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ]
+    }
+}

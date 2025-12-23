@@ -1,0 +1,53 @@
+{
+    "name": "neurosyphilis",
+    "qid": "Q7888578",
+    "icd_10": "A52.1",
+    "description": "infection of the central nervous system in a patient with syphilis",
+    "aliases": [
+        "Gpi",
+        "demencia paralítica",
+        "Parálisis general de los dementes"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tabes%20Dorsalis.jpg",
+    "url": "https://en.wikipedia.org/wiki/Neurosyphilis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "neurodegeneration",
+                "qid": "Q1755122",
+                "url": "https://en.wikipedia.org/wiki/Neurodegenerative_disease"
+            },
+            {
+                "name": "dementia",
+                "qid": "Q83030",
+                "url": "https://en.wikipedia.org/wiki/Dementia"
+            },
+            {
+                "name": "chronic condition",
+                "qid": "Q383126",
+                "url": "https://en.wikipedia.org/wiki/Chronic_condition"
+            },
+            {
+                "name": "bacterial infectious disease",
+                "qid": "Q727028",
+                "url": "https://en.wikipedia.org/wiki/Bacterial_disease"
+            },
+            {
+                "name": "syphilis",
+                "qid": "Q41083",
+                "url": "https://en.wikipedia.org/wiki/Syphilis"
+            },
+            {
+                "name": "Q39646515",
+                "qid": "Q39646515"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "extrinsic cardiomyopathy",
+    "qid": "Q18556137",
+    "icd_10": "I42.7",
+    "description": "cardiomyopathy that is characterized by the pathology occuring outside of the myocardium",
+    "aliases": [
+        "obsolete secondary cardiomyopathy",
+        "secondary cardiomyopathy",
+        "secondary cardiomyopathy (disorder)",
+        "secondary cardiomyopathy NOS",
+        "secondary cardiomyopathy NOS (disorder)",
+        "secondary cardiomyopathy, unspecified"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "cardiomyopathy",
+                "qid": "Q847583",
+                "url": "https://en.wikipedia.org/wiki/Cardiomyopathy"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ]
+    }
+}

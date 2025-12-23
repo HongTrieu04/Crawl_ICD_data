@@ -1,0 +1,36 @@
+{
+    "name": "transient myeloproliferative syndrome",
+    "qid": "Q32136782",
+    "icd_10": "D47.7",
+    "description": "myeloproliferative neoplasm characterized by leukocytosis in newborns with Down syndrome and rarely in non-Down's infants",
+    "aliases": [
+        "MST",
+        "TMD",
+        "TAM",
+        "Leukemia, Transient",
+        "MYELOPROLIFERATIVE SYNDROME, TRANSIENT",
+        "obsolete leukemoid reaction",
+        "transient abnormal myelopoiesis",
+        "transient leukemia",
+        "transient leurkemia of Down syndrome",
+        "transient myeloproliferative disease",
+        "Transient myeloproliferative disease",
+        "transient myeloproliferative disorder",
+        "Transient Myeloproliferative Disorder"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Transient_myeloproliferative_disease",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "leukemoid reaction",
+                "qid": "Q6534506",
+                "url": "https://en.wikipedia.org/wiki/Leukemoid_reaction"
+            },
+            {
+                "name": "myeloproliferative neoplasm",
+                "qid": "Q18555039"
+            }
+        ]
+    }
+}

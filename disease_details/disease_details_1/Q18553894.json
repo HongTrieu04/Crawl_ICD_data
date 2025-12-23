@@ -1,0 +1,28 @@
+{
+    "name": "idiopathic progressive polyneuropathy",
+    "qid": "Q18553894",
+    "icd_10": "G60.3",
+    "description": "human disease",
+    "aliases": [
+        "Idiopathic progressive polyneuropathy",
+        "Idiopathic progressive polyneuropathy (disorder)"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "polyneuropathy",
+                "qid": "Q1502312",
+                "url": "https://en.wikipedia.org/wiki/Polyneuropathy"
+            }
+        ]
+    }
+}

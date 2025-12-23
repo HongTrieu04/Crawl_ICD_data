@@ -1,0 +1,31 @@
+{
+    "name": "Watson syndrome",
+    "qid": "Q1112752",
+    "icd_10": "Q87.1",
+    "description": "medical condition",
+    "aliases": [
+        "Cafe-Au-Lait Spots With Pulmonic Stenosis",
+        "Pulmonic Stenosis With Cafe-Au-Lait Spots",
+        "WATSON SYNDROME",
+        "WATSON SYNDROME; WTSN",
+        "WTSN"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Watson_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "pulmonary valve stenosis",
+                "qid": "Q579527",
+                "url": "https://en.wikipedia.org/wiki/Pulmonary_valve_stenosis"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

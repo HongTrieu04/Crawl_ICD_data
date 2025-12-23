@@ -1,0 +1,25 @@
+{
+    "name": "Adrenalitis",
+    "qid": "Q3535214",
+    "icd_10": "E27.8",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Adrenalitis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "adrenal gland disease",
+                "qid": "Q4684717",
+                "url": "https://en.wikipedia.org/wiki/Adrenal_gland_disorder"
+            }
+        ]
+    }
+}

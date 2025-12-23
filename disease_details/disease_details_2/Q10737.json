@@ -1,0 +1,66 @@
+{
+    "name": "suicide",
+    "qid": "Q10737",
+    "icd_10": "X84",
+    "description": "intentional act of causing one's own death",
+    "aliases": [
+        "killed by self",
+        "killing oneself",
+        "self-inflicted death",
+        "self-killing",
+        "self-murder"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Edouard%20Manet%20-%20Le%20Suicid%C3%A9.jpg",
+    "url": "https://en.wikipedia.org/wiki/Suicide",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "psychology",
+                "qid": "Q9418",
+                "url": "https://en.wikipedia.org/wiki/Psychology"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "psychological stress",
+                "qid": "Q3500368",
+                "url": "https://en.wikipedia.org/wiki/Psychological_stress"
+            },
+            {
+                "name": "frustration",
+                "qid": "Q192242",
+                "url": "https://en.wikipedia.org/wiki/Frustration"
+            },
+            {
+                "name": "human overpopulation",
+                "qid": "Q331439",
+                "url": "https://en.wikipedia.org/wiki/Human_overpopulation"
+            },
+            {
+                "name": "existential crisis",
+                "qid": "Q2603358",
+                "url": "https://en.wikipedia.org/wiki/Existential_crisis"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "tragedy",
+                "qid": "Q1881552",
+                "url": "https://en.wikipedia.org/wiki/Tragedy_(event)"
+            },
+            {
+                "name": "killing",
+                "qid": "Q844482"
+            },
+            {
+                "name": "autoaggression",
+                "qid": "Q4072473"
+            }
+        ]
+    }
+}

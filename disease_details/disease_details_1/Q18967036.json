@@ -1,0 +1,23 @@
+{
+    "name": "vitamin A deficiency with xerophthalmic corneal scar",
+    "qid": "Q18967036",
+    "icd_10": "E50.6",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete vitamin A deficiency with xerophthalmic corneal scar",
+        "vitamin A deficiency with xerophthalmic corneal scars (disorder)",
+        "vitamin A deficiency with xerophthalmic scars of cornea",
+        "vitamin A deficiency with xerophthalmic scars of cornea (disorder)"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "vitamin A deficiency",
+                "qid": "Q2655893",
+                "url": "https://en.wikipedia.org/wiki/Vitamin_A_deficiency"
+            }
+        ]
+    }
+}

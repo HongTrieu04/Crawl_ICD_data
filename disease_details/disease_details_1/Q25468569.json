@@ -1,0 +1,25 @@
+{
+    "name": "short Achilles tendon",
+    "qid": "Q25468569",
+    "icd_10": "M67.0",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Symptoms": [
+            {
+                "name": "toe walking",
+                "qid": "Q1097541",
+                "url": "https://en.wikipedia.org/wiki/Toe_walking"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "tendinopathy",
+                "qid": "Q1682583",
+                "url": "https://en.wikipedia.org/wiki/Tendinopathy"
+            }
+        ]
+    }
+}

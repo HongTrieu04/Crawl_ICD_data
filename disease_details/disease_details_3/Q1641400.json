@@ -1,0 +1,33 @@
+{
+    "name": "lichen sclerosus",
+    "qid": "Q1641400",
+    "icd_10": "L90.0",
+    "description": "chronic inflammatory process affecting the skin",
+    "aliases": [
+        "LSA",
+        "lichen sclerosus et atrophicus"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Lichen_sclerosus",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            },
+            {
+                "name": "gynaecology",
+                "qid": "Q1221899",
+                "url": "https://en.wikipedia.org/wiki/Gynaecology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "lichenoid eruption",
+                "qid": "Q6543234",
+                "url": "https://en.wikipedia.org/wiki/Lichenoid_eruption"
+            }
+        ]
+    }
+}

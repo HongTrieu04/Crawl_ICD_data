@@ -1,0 +1,29 @@
+{
+    "name": "follicular cyst of ovary",
+    "qid": "Q5464655",
+    "icd_10": "N83.0",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Follicular_cyst_of_ovary",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "ovarian cyst",
+                "qid": "Q147362",
+                "url": "https://en.wikipedia.org/wiki/Ovarian_cyst"
+            },
+            {
+                "name": "follicular cyst",
+                "qid": "Q67376135"
+            }
+        ]
+    }
+}

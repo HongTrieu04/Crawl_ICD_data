@@ -1,0 +1,34 @@
+{
+    "name": "Ichthyosis hystrix",
+    "qid": "Q5986448",
+    "icd_10": "Q80.8",
+    "description": "group of rare skin disorders in the ichthyosis family of skin",
+    "aliases": [
+        "ICHTHYOSIS HYSTRIX GRAVIOR",
+        "Ichthyosis, Lambert type",
+        "Lambert type ichthyosis",
+        "Porcupine Man"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Ichthyosis_hystrix",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "ichthyosis",
+                "qid": "Q523893",
+                "url": "https://en.wikipedia.org/wiki/Ichthyosis"
+            },
+            {
+                "name": "keratinopathic ichthyosis",
+                "qid": "Q55786950"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "name": "intracranial laceration and haemorrhage due to birth injury",
+    "qid": "Q4388750",
+    "icd_10": "P10",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "physical birth injuries",
+                "qid": "Q1235888",
+                "url": "https://en.wikipedia.org/wiki/Birth_trauma_(physical)"
+            },
+            {
+                "name": "Intracranial haemorrhage of the newborn",
+                "qid": "Q60978675"
+            }
+        ]
+    }
+}

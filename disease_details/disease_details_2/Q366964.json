@@ -1,0 +1,66 @@
+{
+    "name": "X-linked adrenoleukodystrophy",
+    "qid": "Q366964",
+    "icd_10": "E71.3",
+    "description": "peroxisomal disorder resulting in cerebral demyelination, axonal dysfunction in the spinal cord leading to spastic paraplegia, adrenal insufficiency and in some cases testicular insufficiency",
+    "aliases": [
+        "ALD",
+        "Encephalitis periaxialis concentrica",
+        "Schilder's disease",
+        "SUDANOPHILIC CEREBRAL SCLEROSIS",
+        "Adrenoleukodystrophy",
+        "adrenoleukodystrophy, X-linked",
+        "Bronze Schilder disease",
+        "diffuse cerebral sclerosis of Schilder",
+        "diffuse sclerosis",
+        "Encephalitis periaxialis, Schilder's",
+        "Schilder disease",
+        "Siemerling-Creutzfeldt Disease",
+        "X-ALD",
+        "X-linked ALD"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Adrenoleukodystrophy",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "leukodystrophy",
+                "qid": "Q1821559",
+                "url": "https://en.wikipedia.org/wiki/Leukodystrophy"
+            },
+            {
+                "name": "X-linked recessive disease",
+                "qid": "Q55010090",
+                "url": "https://en.wikipedia.org/wiki/X-linked_recessive_disorder"
+            },
+            {
+                "name": "nervous system heredodegenerative disease",
+                "qid": "Q19001236"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "genetics",
+                "qid": "Q7162",
+                "url": "https://en.wikipedia.org/wiki/Genetics"
+            },
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "Lorenzo's oil",
+                "qid": "Q1321793",
+                "url": "https://en.wikipedia.org/wiki/Lorenzo%27s_oil"
+            }
+        ]
+    }
+}

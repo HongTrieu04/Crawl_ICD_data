@@ -1,0 +1,29 @@
+{
+    "name": "avoidant/restrictive food intake disorder",
+    "qid": "Q7447762",
+    "icd_10": "F50.82",
+    "description": "eating disorder",
+    "aliases": [
+        "Avoidant/Restrictive Food Intake Disorder",
+        "ARFID",
+        "selective eating disorder"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Avoidant/restrictive_food_intake_disorder",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "eating disorder",
+                "qid": "Q373822",
+                "url": "https://en.wikipedia.org/wiki/Eating_disorder"
+            }
+        ]
+    }
+}

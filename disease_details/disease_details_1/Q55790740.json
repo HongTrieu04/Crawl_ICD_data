@@ -1,0 +1,23 @@
+{
+    "name": "drug-induced osteoporosis",
+    "qid": "Q55790740",
+    "icd_10": "M81.4",
+    "description": "human disease",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "osteoporosis",
+                "qid": "Q165328",
+                "url": "https://en.wikipedia.org/wiki/Osteoporosis"
+            },
+            {
+                "name": "adverse drug reaction",
+                "qid": "Q45959",
+                "url": "https://en.wikipedia.org/wiki/Adverse_drug_reaction"
+            }
+        ]
+    }
+}

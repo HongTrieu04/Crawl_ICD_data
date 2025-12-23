@@ -1,0 +1,49 @@
+{
+    "name": "respiratory system cancer",
+    "qid": "Q7315926",
+    "icd_10": "D14",
+    "description": "organ system cancer located in the respiratory system that is characterized by uncontrolled cellular proliferation in the respiratory tract",
+    "aliases": [
+        "cancer of respiratory system",
+        "malignant neoplasm of respiratory system",
+        "malignant respiratory system neoplasm"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Respiratory_tract_neoplasm",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "respiratory system",
+                "qid": "Q7891",
+                "url": "https://en.wikipedia.org/wiki/Respiratory_system"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "respiratory disease",
+                "qid": "Q3286546",
+                "url": "https://en.wikipedia.org/wiki/Respiratory_disease"
+            },
+            {
+                "name": "cancer",
+                "qid": "Q12078",
+                "url": "https://en.wikipedia.org/wiki/Cancer"
+            },
+            {
+                "name": "organ system cancer",
+                "qid": "Q18553400"
+            },
+            {
+                "name": "respiratory tract neoplasm",
+                "qid": "Q58833963"
+            }
+        ]
+    }
+}

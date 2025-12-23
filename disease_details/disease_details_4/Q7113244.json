@@ -1,0 +1,73 @@
+{
+    "name": "ovarian disease",
+    "qid": "Q7113244",
+    "icd_10": "N83",
+    "description": "Human disease",
+    "aliases": [
+        "disease of ovary",
+        "disorder of ovary",
+        "disorder of ovary (disorder)",
+        "Ovarian Disease",
+        "ovarian diseases",
+        "ovarian disorder",
+        "ovary disease",
+        "ovary disorder"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Ovarian_disease",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "inflammation",
+                "qid": "Q101991",
+                "url": "https://en.wikipedia.org/wiki/Inflammation"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "urofollitropin",
+                "qid": "Q4006490",
+                "url": "https://en.wikipedia.org/wiki/Urofollitropin"
+            },
+            {
+                "name": "ethinylestradiol",
+                "qid": "Q415563",
+                "url": "https://en.wikipedia.org/wiki/Ethinylestradiol"
+            },
+            {
+                "name": "17β-estradiol",
+                "qid": "Q422416",
+                "url": "https://en.wikipedia.org/wiki/Estradiol"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "female reproductive system disease",
+                "qid": "Q5442760",
+                "url": "https://en.wikipedia.org/wiki/Female_genital_disease"
+            },
+            {
+                "name": "gonadal disease",
+                "qid": "Q18555048"
+            },
+            {
+                "name": "adnexal disease",
+                "qid": "Q54945591"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "ovary",
+                "qid": "Q9631",
+                "url": "https://en.wikipedia.org/wiki/Ovary"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gynaecology",
+                "qid": "Q1221899",
+                "url": "https://en.wikipedia.org/wiki/Gynaecology"
+            }
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "name": "mandibular fracture",
+    "qid": "Q1127367",
+    "icd_10": "S02.6",
+    "description": "break through the mandibular bone",
+    "aliases": [
+        "broken jaw",
+        "fracture of the jaw",
+        "jaw fracture",
+        "jaw fractures",
+        "mandibular fractures"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/3D%20CT%20of%20bilateral%20mandible%20fracture.jpg",
+    "url": "https://en.wikipedia.org/wiki/Mandibular_fracture",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "traumatology",
+                "qid": "Q376680",
+                "url": "https://en.wikipedia.org/wiki/Traumatology"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "mandible",
+                "qid": "Q16370",
+                "url": "https://en.wikipedia.org/wiki/Mandible"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "mandibular injury",
+                "qid": "Q54943919"
+            },
+            {
+                "name": "jaw fractures",
+                "qid": "Q69033924"
+            }
+        ]
+    }
+}

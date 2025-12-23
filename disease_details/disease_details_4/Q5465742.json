@@ -1,0 +1,40 @@
+{
+    "name": "foot deformity",
+    "qid": "Q5465742",
+    "icd_10": "M20",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Foot_deformity",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            },
+            {
+                "name": "podiatry",
+                "qid": "Q11865729",
+                "url": "https://en.wikipedia.org/wiki/Podiatry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "deformity",
+                "qid": "Q1182746",
+                "url": "https://en.wikipedia.org/wiki/Deformity"
+            },
+            {
+                "name": "foot diseases",
+                "qid": "Q5282137",
+                "url": "https://en.wikipedia.org/wiki/Diseases_of_the_foot"
+            },
+            {
+                "name": "musculoskeletal abnormality",
+                "qid": "Q6940403",
+                "url": "https://en.wikipedia.org/wiki/Musculoskeletal_abnormality"
+            }
+        ]
+    }
+}

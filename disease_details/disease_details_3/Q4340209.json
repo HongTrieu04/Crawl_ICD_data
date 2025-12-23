@@ -1,0 +1,120 @@
+{
+    "name": "depression",
+    "qid": "Q4340209",
+    "icd_10": "F32",
+    "description": "state of low mood and aversion to activity",
+    "aliases": [
+        "mental depression"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mental%20Illness%20Icon%202.png",
+    "url": "https://en.wikipedia.org/wiki/Depression_(mood)",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "neurological and physiological symptom",
+                "qid": "Q99860490"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "fatigue",
+                "qid": "Q9690",
+                "url": "https://en.wikipedia.org/wiki/Fatigue"
+            },
+            {
+                "name": "dysphoria",
+                "qid": "Q290620",
+                "url": "https://en.wikipedia.org/wiki/Dysphoria"
+            },
+            {
+                "name": "executive disfunction",
+                "qid": "Q5419936",
+                "url": "https://en.wikipedia.org/wiki/Executive_dysfunction"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "lysergic acid diethylamide",
+                "qid": "Q23118",
+                "url": "https://en.wikipedia.org/wiki/LSD"
+            },
+            {
+                "name": "antidepressant",
+                "qid": "Q76560",
+                "url": "https://en.wikipedia.org/wiki/Antidepressant"
+            },
+            {
+                "name": "vitamin D",
+                "qid": "Q175621",
+                "url": "https://en.wikipedia.org/wiki/Vitamin_D"
+            },
+            {
+                "name": "rubidium chloride",
+                "qid": "Q418909",
+                "url": "https://en.wikipedia.org/wiki/Rubidium_chloride"
+            },
+            {
+                "name": "escitalopram",
+                "qid": "Q423757",
+                "url": "https://en.wikipedia.org/wiki/Escitalopram"
+            },
+            {
+                "name": "cognitive behavioral therapy",
+                "qid": "Q1147152",
+                "url": "https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy"
+            },
+            {
+                "name": "light therapy",
+                "qid": "Q243570",
+                "url": "https://en.wikipedia.org/wiki/Light_therapy"
+            },
+            {
+                "name": "melitracen",
+                "qid": "Q411251",
+                "url": "https://en.wikipedia.org/wiki/Melitracen"
+            },
+            {
+                "name": "dibenzepin",
+                "qid": "Q412107",
+                "url": "https://en.wikipedia.org/wiki/Dibenzepin"
+            },
+            {
+                "name": "nefazodone",
+                "qid": "Q416632",
+                "url": "https://en.wikipedia.org/wiki/Nefazodone"
+            },
+            {
+                "name": "physical exercise",
+                "qid": "Q219067",
+                "url": "https://en.wikipedia.org/wiki/Exercise"
+            },
+            {
+                "name": "(RS)-ketamine",
+                "qid": "Q243547",
+                "url": "https://en.wikipedia.org/wiki/Ketamine"
+            },
+            {
+                "name": "pipofezine",
+                "qid": "Q4363230",
+                "url": "https://en.wikipedia.org/wiki/Pipofezine"
+            },
+            {
+                "name": "flupentixol",
+                "qid": "Q27164953",
+                "url": "https://en.wikipedia.org/wiki/Flupentixol"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "pustulosis palmaris et plantaris",
+    "qid": "Q2562329",
+    "icd_10": "L40.3",
+    "description": "medical condition",
+    "aliases": [
+        "pustular psoriasis of the extremities"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pustular%20Psoriasis.jpg",
+    "url": "https://en.wikipedia.org/wiki/Pustulosis_palmaris_et_plantaris",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "psoriasis",
+                "qid": "Q179945",
+                "url": "https://en.wikipedia.org/wiki/Psoriasis"
+            },
+            {
+                "name": "acropustulosis",
+                "qid": "Q4676432",
+                "url": "https://en.wikipedia.org/wiki/Acropustulosis"
+            }
+        ]
+    }
+}

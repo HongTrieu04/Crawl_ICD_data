@@ -1,0 +1,29 @@
+{
+    "name": "pseudobulbar palsy",
+    "qid": "Q1815985",
+    "icd_10": "G12.21",
+    "description": "medical condition characterized by the inability to control facial movements (such as chewing and speaking) and caused by a variety of neurological disorders",
+    "aliases": [
+        "Pseudobulbar palsy",
+        "Pseudobulbar palsy (disorder)",
+        "pseudobulbar paralysis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pseudobulbar_palsy",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "encephalopathy",
+                "qid": "Q576349",
+                "url": "https://en.wikipedia.org/wiki/Encephalopathy"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ]
+    }
+}

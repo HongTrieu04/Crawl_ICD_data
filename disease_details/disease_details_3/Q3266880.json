@@ -1,0 +1,32 @@
+{
+    "name": "skeletal fluorosis",
+    "qid": "Q3266880",
+    "icd_10": "M85.1",
+    "description": "bone disease caused by excessive accumulation of fluoride in the bones",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Skeletal_fluorosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "bone disease",
+                "qid": "Q4941552",
+                "url": "https://en.wikipedia.org/wiki/Bone_disease"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "fluoride",
+                "qid": "Q44793182",
+                "url": "https://en.wikipedia.org/wiki/Fluoride"
+            }
+        ]
+    }
+}

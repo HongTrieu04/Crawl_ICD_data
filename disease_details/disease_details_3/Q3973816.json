@@ -1,0 +1,30 @@
+{
+    "name": "stomatitis nicotina",
+    "qid": "Q3973816",
+    "icd_10": "K13.2",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Stomatitis_nicotina",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "health effects of tobacco",
+                "qid": "Q465016",
+                "url": "https://en.wikipedia.org/wiki/Health_effects_of_tobacco"
+            },
+            {
+                "name": "stomatitis",
+                "qid": "Q911386",
+                "url": "https://en.wikipedia.org/wiki/Stomatitis"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oral medicine",
+                "qid": "Q3673891",
+                "url": "https://en.wikipedia.org/wiki/Oral_medicine"
+            }
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "name": "macrostomia",
+    "qid": "Q10322835",
+    "icd_10": "Q18.4",
+    "description": "unusually wide mouth",
+    "aliases": [
+        "Commissural Cleft, Isolated",
+        "Lateral Cleft, Isolated",
+        "Macrostomia",
+        "MACROSTOMIA, ISOLATED",
+        "Transverse Cleft, Isolated"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Macrostomia",
+    "details": {
+        "Anatomical location": [
+            {
+                "name": "mouth",
+                "qid": "Q9635",
+                "url": "https://en.wikipedia.org/wiki/Mouth"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "congenital physical abnormality",
+                "qid": "Q3281904"
+            },
+            {
+                "name": "lateral facial cleft",
+                "qid": "Q55785464"
+            }
+        ]
+    }
+}

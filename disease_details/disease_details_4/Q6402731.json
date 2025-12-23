@@ -1,0 +1,39 @@
+{
+    "name": "dysgeusia",
+    "qid": "Q6402731",
+    "icd_10": "R43.2",
+    "description": "distortion of the sense of taste; also often associated with ageusia, which is the complete lack of taste, and hypogeusia, which is a decrease in taste sensitivity",
+    "aliases": [
+        "parageusia",
+        "taste changes"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Dysgeusia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "sourness",
+                "qid": "Q2795949",
+                "url": "https://en.wikipedia.org/wiki/Sourness"
+            },
+            {
+                "name": "metallic taste",
+                "qid": "Q4291539",
+                "url": "https://en.wikipedia.org/wiki/Metallic_taste"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "taste disorder",
+                "qid": "Q18975305"
+            }
+        ]
+    }
+}

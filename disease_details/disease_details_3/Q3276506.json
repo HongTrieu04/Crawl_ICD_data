@@ -1,0 +1,42 @@
+{
+    "name": "orotic aciduria",
+    "qid": "Q3276506",
+    "icd_10": "D53.0",
+    "description": "pyrimidine metabolic disorder that is characterized by an excessive secretion of orotic acid in urine",
+    "aliases": [
+        "hereditary orotic aciduria",
+        "Oprt and Odc Deficiency",
+        "Orotate Phosphoribosyltransferase and Orotidylic Decarboxylase Deficiency",
+        "OROTIC ACIDURIA",
+        "Orotic Aciduria 1",
+        "Orotic Aciduria Without Megaloblastic Anemia",
+        "Oroticaciduria",
+        "Orotidylic decarboxylase deficiency",
+        "Orotidylic Pyrophosphorylase and Orotidylic Decarboxylase Deficiency",
+        "Ump Synthase Deficiency",
+        "Umps Deficiency",
+        "Uridine Monophosphate Synthase Deficiency",
+        "Uridine monophosphate synthetase deficiency"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Orotic_aciduria",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "pyrimidine metabolic disorder",
+                "qid": "Q18553504"
+            },
+            {
+                "name": "vitamin B12- and folate-independent constitutional megaloblastic anemia",
+                "qid": "Q55789131"
+            }
+        ]
+    }
+}

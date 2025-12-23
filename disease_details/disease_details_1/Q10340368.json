@@ -1,0 +1,24 @@
+{
+    "name": "ocular cysticercosis",
+    "qid": "Q10340368",
+    "icd_10": "B69.1",
+    "description": null,
+    "aliases": [
+        "Cysticercosis of eye"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "cysticercosis",
+                "qid": "Q246068",
+                "url": "https://en.wikipedia.org/wiki/Cysticercosis"
+            },
+            {
+                "name": "ocular helminthiasis",
+                "qid": "Q4340334"
+            }
+        ]
+    }
+}

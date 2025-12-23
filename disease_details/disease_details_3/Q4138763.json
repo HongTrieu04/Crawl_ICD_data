@@ -1,0 +1,36 @@
+{
+    "name": "thiamine deficiency",
+    "qid": "Q4138763",
+    "icd_10": "E51",
+    "description": "Human disease",
+    "aliases": [
+        "thiamine deficiency disease",
+        "Thiamine deficiency, unspecified",
+        "vitamin B1 deficiency"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Beriberi",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "nutrition",
+                "qid": "Q2138622",
+                "url": "https://en.wikipedia.org/wiki/Nutrition"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "nutritional deficiency disease",
+                "qid": "Q1890194"
+            },
+            {
+                "name": "vitamin B deficiency",
+                "qid": "Q19001111"
+            },
+            {
+                "name": "disorder of thiamine metabolism and transport",
+                "qid": "Q55787198"
+            }
+        ]
+    }
+}

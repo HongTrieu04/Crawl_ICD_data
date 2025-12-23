@@ -1,0 +1,41 @@
+{
+    "name": "pyometritis",
+    "qid": "Q1147908",
+    "icd_10": "N71",
+    "description": "uterine infection",
+    "aliases": [
+        "myometrium inflammation",
+        "myometriumitis",
+        "PYOMETRA",
+        "pyometrea"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pyometra",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "metritis",
+                "qid": "Q840910",
+                "url": "https://en.wikipedia.org/wiki/Metritis"
+            },
+            {
+                "name": "uterine disease",
+                "qid": "Q18555940"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gynaecology",
+                "qid": "Q1221899",
+                "url": "https://en.wikipedia.org/wiki/Gynaecology"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "inflammation",
+                "qid": "Q101991",
+                "url": "https://en.wikipedia.org/wiki/Inflammation"
+            }
+        ]
+    }
+}

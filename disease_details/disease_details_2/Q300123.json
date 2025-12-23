@@ -1,0 +1,30 @@
+{
+    "name": "AV nodal reentrant tachycardia",
+    "qid": "Q300123",
+    "icd_10": "I47.1",
+    "description": "type of supraventricular tachycardia (SVT), meaning that it originates from a location within the heart above the bundle of His.",
+    "aliases": [
+        "Atrioventricular nodal reentrant tachycardia",
+        "Atrioventricular Nodal Reentry Tachycardia",
+        "AVNRT",
+        "Tachycardia, atrioventricular nodal reentry"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/AV%20nodal%20reentrant%20tachycardia.png",
+    "url": "https://en.wikipedia.org/wiki/AV_nodal_reentrant_tachycardia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "supraventricular tachycardia",
+                "qid": "Q1598909",
+                "url": "https://en.wikipedia.org/wiki/Supraventricular_tachycardia"
+            }
+        ]
+    }
+}

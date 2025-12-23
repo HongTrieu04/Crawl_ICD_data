@@ -1,0 +1,35 @@
+{
+    "name": "Thyrotoxic periodic paralysis",
+    "qid": "Q2702863",
+    "icd_10": "G72.3",
+    "description": "human disease",
+    "aliases": [
+        "TTPP1",
+        "THYROTOXIC PERIODIC PARALYSIS, SUSCEPTIBILITY TO, 1",
+        "THYROTOXIC PERIODIC PARALYSIS, SUSCEPTIBILITY TO, 1; TTPP1",
+        "Thyrotoxic Periodic Paralysis, Susceptibility To, type 1"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Thyrotoxic_periodic_paralysis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "hyperthyroidism",
+                "qid": "Q16499",
+                "url": "https://en.wikipedia.org/wiki/Hyperthyroidism"
+            },
+            {
+                "name": "periodic paralysis",
+                "qid": "Q1788314",
+                "url": "https://en.wikipedia.org/wiki/Periodic_paralysis"
+            }
+        ]
+    }
+}

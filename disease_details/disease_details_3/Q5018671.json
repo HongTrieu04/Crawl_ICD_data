@@ -1,0 +1,69 @@
+{
+    "name": "Calcaneal fracture",
+    "qid": "Q5018671",
+    "icd_10": "S92.0",
+    "description": "medical condition",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/CalFrac.png",
+    "url": "https://en.wikipedia.org/wiki/Calcaneal_fracture",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "pain",
+                "qid": "Q81938",
+                "url": "https://en.wikipedia.org/wiki/Pain"
+            },
+            {
+                "name": "cerebral contusion",
+                "qid": "Q591639",
+                "url": "https://en.wikipedia.org/wiki/Cerebral_contusion"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "orthopedics",
+                "qid": "Q216685",
+                "url": "https://en.wikipedia.org/wiki/Orthopedic_surgery"
+            },
+            {
+                "name": "traumatology",
+                "qid": "Q376680",
+                "url": "https://en.wikipedia.org/wiki/Traumatology"
+            },
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "collision",
+                "qid": "Q238053",
+                "url": "https://en.wikipedia.org/wiki/Collision"
+            },
+            {
+                "name": "car collision",
+                "qid": "Q61037771"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "surgical operation",
+                "qid": "Q600236",
+                "url": "https://en.wikipedia.org/wiki/Surgical_operation"
+            },
+            {
+                "name": "orthopedic cast",
+                "qid": "Q1526584",
+                "url": "https://en.wikipedia.org/wiki/Orthopedic_cast"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "foot fracture",
+                "qid": "Q30904172"
+            }
+        ]
+    }
+}

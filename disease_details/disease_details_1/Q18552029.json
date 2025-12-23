@@ -1,0 +1,17 @@
+{
+    "name": "carbohydrate metabolism disease",
+    "qid": "Q18552029",
+    "icd_10": "E74.9",
+    "description": "acquired metabolic disease that is characterized by abnormal carbohydrate metabolism",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "acquired metabolic disease",
+                "qid": "Q18553699"
+            }
+        ]
+    }
+}

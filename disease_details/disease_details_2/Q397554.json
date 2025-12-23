@@ -1,0 +1,30 @@
+{
+    "name": "agrypnia excitata",
+    "qid": "Q397554",
+    "icd_10": "G47.0",
+    "description": "loss of sleep and motor and autonomic hyperactivity",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "sleep disorder",
+                "qid": "Q177190",
+                "url": "https://en.wikipedia.org/wiki/Sleep_disorder"
+            },
+            {
+                "name": "sleep deprivation",
+                "qid": "Q1364801",
+                "url": "https://en.wikipedia.org/wiki/Sleep_deprivation"
+            }
+        ]
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "name": "Warfarin Embryopathy",
+    "qid": "Q2549256",
+    "icd_10": "Q86.2",
+    "description": "Disorder of the embryo caused by maternal warfarin administration",
+    "aliases": [
+        "Congenital warfarin syndrome",
+        "Coumarin embryopathy",
+        "Coumarin syndrome",
+        "di Sala syndrome",
+        "DiSala syndrome",
+        "Embryofetopathy due to oral anticoagulant therapy",
+        "Fetal anticoagulant syndrome",
+        "Fetal Coumadin Syndrome",
+        "Fetal warfarin syndrome",
+        "Vitamin K antagonist embryofetopathy",
+        "Vitamin K antagonist embryopathy",
+        "Vitamin K antagonists embryofetopathy",
+        "Vitamin K-antagonist embryofetopathy",
+        "Vitamin K-antagonist embryopathy",
+        "Warfarin embryofetopathy",
+        "Warfarin embryopathy",
+        "Warfarin syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Fetal_warfarin_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "pregnancy category",
+                "qid": "Q1057079",
+                "url": "https://en.wikipedia.org/wiki/Pregnancy_category"
+            },
+            {
+                "name": "drugs in pregnancy",
+                "qid": "Q5308960",
+                "url": "https://en.wikipedia.org/wiki/Drugs_in_pregnancy"
+            },
+            {
+                "name": "teratogenic Pierre robin syndrome",
+                "qid": "Q55785395"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

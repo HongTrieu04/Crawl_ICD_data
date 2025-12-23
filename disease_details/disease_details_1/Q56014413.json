@@ -1,0 +1,31 @@
+{
+    "name": "congenital dyserythropoietic anemia type I",
+    "qid": "Q56014413",
+    "icd_10": "D64.4",
+    "description": "Congenital dyserythropoietic anemiatype I (CDA I) is a hematologic disorder of erythropoiesis characterized by moderate to severe macrocytic anemia occasionally associated with limb or nail deformities and scoliosis",
+    "aliases": [
+        "CDA I",
+        "CDA type 1",
+        "CDA type I",
+        "Congenital dyserythropoietic anemia type 1",
+        "Congenital dyserythropoietic anemia type I"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Congenital_dyserythropoietic_anemia_type_I",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "congenital dyserythropoietic anemia",
+                "qid": "Q5160422",
+                "url": "https://en.wikipedia.org/wiki/Congenital_dyserythropoietic_anemia"
+            }
+        ]
+    }
+}

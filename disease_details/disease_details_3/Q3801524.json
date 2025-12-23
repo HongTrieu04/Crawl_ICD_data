@@ -1,0 +1,34 @@
+{
+    "name": "hyperpituitarism",
+    "qid": "Q3801524",
+    "icd_10": "E22",
+    "description": "endocrine disease",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hyperpituitarism",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "pituitary gland disease",
+                "qid": "Q7199538",
+                "url": "https://en.wikipedia.org/wiki/Pituitary_disease"
+            },
+            {
+                "name": "anterior pituitary gland disease",
+                "qid": "Q55790533"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ]
+    }
+}

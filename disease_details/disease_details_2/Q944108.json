@@ -1,0 +1,28 @@
+{
+    "name": "animal phobia",
+    "qid": "Q944108",
+    "icd_10": "F40.21",
+    "description": "specific phobia that involves a fear caused by the presence or thought of a specific animal that poses little or no danger at all",
+    "aliases": [
+        "Fear of animals",
+        "Fear of animals (finding)",
+        "Zoophobia",
+        "Zoophobia (finding)"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Zoophobia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "specific phobia",
+                "qid": "Q2015728",
+                "url": "https://en.wikipedia.org/wiki/Specific_phobia"
+            }
+        ]
+    }
+}

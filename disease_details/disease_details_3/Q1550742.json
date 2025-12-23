@@ -1,0 +1,34 @@
+{
+    "name": "genu varum",
+    "qid": "Q1550742",
+    "icd_10": "Q74.1",
+    "description": "varus deformity marked by (outward) bowing at the knee",
+    "aliases": [
+        "bandiness",
+        "bandy-leg",
+        "bow-leggedness",
+        "tibia vara"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/XrayRicketsLegssmall.jpg",
+    "url": "https://en.wikipedia.org/wiki/Genu_varum",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "varus deformity",
+                "qid": "Q2443822",
+                "url": "https://en.wikipedia.org/wiki/Varus_deformity"
+            },
+            {
+                "name": "knee disorder",
+                "qid": "Q18971535"
+            }
+        ]
+    }
+}

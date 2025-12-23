@@ -1,0 +1,33 @@
+{
+    "name": "nephrogenic adenoma",
+    "qid": "Q377627",
+    "icd_10": "D30",
+    "description": "urologic disease",
+    "aliases": [
+        "mesonephric adenoma",
+        "Nephrogenic Adenoma",
+        "nephrogenic metaplasia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Nephrogenic_adenoma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "adenoma",
+                "qid": "Q272741",
+                "url": "https://en.wikipedia.org/wiki/Adenoma"
+            },
+            {
+                "name": "kidney benign neoplasm",
+                "qid": "Q18555295"
+            }
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "name": "developmental disorder",
+    "qid": "Q3087172",
+    "icd_10": "F89",
+    "description": "disease of mental health that occur during a child's developmental period between birth and age 18 resulting in retarding of the child's psychological or physical development",
+    "aliases": [
+        "developmental disorder of mental health",
+        "developmental mental disorder",
+        "disorder of psychological development",
+        "disorders of psychological development"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Developmental_disorder",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "psychology",
+                "qid": "Q9418",
+                "url": "https://en.wikipedia.org/wiki/Psychology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "mental disorder",
+                "qid": "Q12135",
+                "url": "https://en.wikipedia.org/wiki/Mental_disorder"
+            },
+            {
+                "name": "developmental disability",
+                "qid": "Q1142806",
+                "url": "https://en.wikipedia.org/wiki/Developmental_disability"
+            },
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            }
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "vitamin A deficiency with conjunctival xerosis",
+    "qid": "Q18966294",
+    "icd_10": "E50.0",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete vitamin A deficiency with conjunctival xerosis",
+        "vitamin A deficiency with conjunctival xerosis (disorder)"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "vitamin A deficiency",
+                "qid": "Q2655893",
+                "url": "https://en.wikipedia.org/wiki/Vitamin_A_deficiency"
+            }
+        ]
+    }
+}

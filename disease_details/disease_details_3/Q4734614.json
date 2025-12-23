@@ -1,0 +1,27 @@
+{
+    "name": "alopecia totalis",
+    "qid": "Q4734614",
+    "icd_10": "L63.0",
+    "description": "Alopecia totalis is a form of alopecia areata, an inflammatory disease of the hair follicle, characterized by a complete loss of hair of the entire scalp which becomes glabrous",
+    "aliases": [
+        "total alopecia areata"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tomas%20Lemarquis%20Deauville%202013.jpg",
+    "url": "https://en.wikipedia.org/wiki/Alopecia_totalis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "alopecia",
+                "qid": "Q2697787",
+                "url": "https://en.wikipedia.org/wiki/Alopecia"
+            }
+        ]
+    }
+}

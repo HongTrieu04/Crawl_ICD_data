@@ -1,0 +1,20 @@
+{
+    "name": "functional disorder of polymorphonuclear neutrophils",
+    "qid": "Q18967406",
+    "icd_10": "D71",
+    "description": "Human disease",
+    "aliases": [
+        "Functional disorder of polymorphonuclear neutrophils (disorder)",
+        "obsolete functional disorder of polymorphonuclear neutrophils"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "leukocyte disease",
+                "qid": "Q18558143"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "name": "metastasis to skin",
+    "qid": "Q11637525",
+    "icd_10": "C79.2",
+    "description": "human disease",
+    "aliases": [
+        "metastatic skin carcinoma",
+        "metastatic tumor to the skin",
+        "obsolete metastasis to skin",
+        "secondary malignant neoplasm of skin",
+        "secondary malignant neoplasm of skin (disorder)",
+        "secondary malignant neoplasm of skin NOS (disorder)"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "metastasis",
+                "qid": "Q181876",
+                "url": "https://en.wikipedia.org/wiki/Metastasis"
+            },
+            {
+                "name": "skin cancer",
+                "qid": "Q192102",
+                "url": "https://en.wikipedia.org/wiki/Skin_cancer"
+            }
+        ]
+    }
+}

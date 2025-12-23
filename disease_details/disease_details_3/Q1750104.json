@@ -1,0 +1,42 @@
+{
+    "name": "Carrion's disease",
+    "qid": "Q1750104",
+    "icd_10": "A44.80",
+    "description": "infectious disease produced by Bartonella bacilliformis infection",
+    "aliases": [
+        "Bartonellosis due to Bartonella bacilliformis infection",
+        "Carrion Disease",
+        "Carrión Disease",
+        "oroya fever"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Verruga%20peruana.jpg",
+    "url": "https://en.wikipedia.org/wiki/Carrion%27s_disease",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "bartonellosis",
+                "qid": "Q809561",
+                "url": "https://en.wikipedia.org/wiki/Bartonellosis"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "infection",
+                "qid": "Q166231",
+                "url": "https://en.wikipedia.org/wiki/Infection"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

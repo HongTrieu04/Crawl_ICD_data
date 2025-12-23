@@ -1,0 +1,29 @@
+{
+    "name": "Labial fusion",
+    "qid": "Q1640632",
+    "icd_10": "Q52.5",
+    "description": "human gynekological disease",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Labial_fusion",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "vulvar disease",
+                "qid": "Q18211751",
+                "url": "https://en.wikipedia.org/wiki/Vulvar_disease"
+            },
+            {
+                "name": "gynatresia",
+                "qid": "Q1486140"
+            }
+        ]
+    }
+}

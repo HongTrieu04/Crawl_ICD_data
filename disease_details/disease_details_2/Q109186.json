@@ -1,0 +1,25 @@
+{
+    "name": "swelling",
+    "qid": "Q109186",
+    "icd_10": "R22",
+    "description": "transient abnormal enlargement of a body part or area not caused by proliferation of cells",
+    "aliases": [
+        "swelling symptom",
+        "tumefaction"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Swelling_(medical)",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "symptom",
+                "qid": "Q169872",
+                "url": "https://en.wikipedia.org/wiki/Symptom"
+            },
+            {
+                "name": "general symptom",
+                "qid": "Q31836626"
+            }
+        ]
+    }
+}

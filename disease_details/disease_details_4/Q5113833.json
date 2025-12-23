@@ -1,0 +1,32 @@
+{
+    "name": "chromium toxicity",
+    "qid": "Q5113833",
+    "icd_10": "T56.2",
+    "description": "any poisonous toxic effect in an organism or cell that results from exposure to specific forms of chromium",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Chromium_toxicity",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "metal poisoning",
+                "qid": "Q4215775",
+                "url": "https://en.wikipedia.org/wiki/Metal_toxicity"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "chromium",
+                "qid": "Q725",
+                "url": "https://en.wikipedia.org/wiki/Chromium"
+            }
+        ]
+    }
+}

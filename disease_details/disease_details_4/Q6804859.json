@@ -1,0 +1,29 @@
+{
+    "name": "meconium peritonitis",
+    "qid": "Q6804859",
+    "icd_10": "P78.0",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Meconium_peritonitis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "peritonitis",
+                "qid": "Q223102",
+                "url": "https://en.wikipedia.org/wiki/Peritonitis"
+            },
+            {
+                "name": "perinatal digestive system disorder",
+                "qid": "Q18968233"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "pediatrics",
+                "qid": "Q123028",
+                "url": "https://en.wikipedia.org/wiki/Pediatrics"
+            }
+        ]
+    }
+}

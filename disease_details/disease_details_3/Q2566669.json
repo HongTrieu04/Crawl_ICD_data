@@ -1,0 +1,18 @@
+{
+    "name": "Nicorette",
+    "qid": "Q2566669",
+    "icd_10": "F17.3",
+    "description": "brand name of a number of products for nicotine replacement therapy",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nicorette%20%28nicotin%20resin%20complex%29.jpg",
+    "url": "https://en.wikipedia.org/wiki/Nicorette",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "nicotine replacement therapy",
+                "qid": "Q1189783",
+                "url": "https://en.wikipedia.org/wiki/Nicotine_replacement_therapy"
+            }
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "name": "meningism",
+    "qid": "Q32069",
+    "icd_10": "R29.1",
+    "description": "symptom",
+    "aliases": [
+        "meningismus",
+        "syndrome of meningeal irritation"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Meningism",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "symptom",
+                "qid": "Q169872",
+                "url": "https://en.wikipedia.org/wiki/Symptom"
+            },
+            {
+                "name": "neurological symptom",
+                "qid": "Q12040808"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "Kernig's sign",
+                "qid": "Q631556",
+                "url": "https://en.wikipedia.org/wiki/Kernig%27s_sign"
+            },
+            {
+                "name": "neck stiffness",
+                "qid": "Q841878",
+                "url": "https://en.wikipedia.org/wiki/Neck_stiffness"
+            },
+            {
+                "name": "Brudziński's sign",
+                "qid": "Q992274",
+                "url": "https://en.wikipedia.org/wiki/Brudzi%C5%84ski%27s_sign"
+            },
+            {
+                "name": "straight leg raise",
+                "qid": "Q1729978",
+                "url": "https://en.wikipedia.org/wiki/Straight_leg_raise"
+            }
+        ]
+    }
+}

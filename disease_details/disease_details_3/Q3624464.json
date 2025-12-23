@@ -1,0 +1,25 @@
+{
+    "name": "Hemophilic arthropathy",
+    "qid": "Q3624464",
+    "icd_10": "M36.2",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "arthropathy",
+                "qid": "Q708176",
+                "url": "https://en.wikipedia.org/wiki/Arthropathy"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "hemarthrosis",
+                "qid": "Q1642040",
+                "url": "https://en.wikipedia.org/wiki/Hemarthrosis"
+            }
+        ]
+    }
+}

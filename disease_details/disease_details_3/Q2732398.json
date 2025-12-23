@@ -1,0 +1,33 @@
+{
+    "name": "autosomal dominant polycystic kidney",
+    "qid": "Q2732398",
+    "icd_10": "Q61",
+    "description": "human disease",
+    "aliases": [
+        "autosomal dominant polycystic kidney disease",
+        "ADPKD",
+        "adult-onset PKD",
+        "autosomal dominant PKD",
+        "obsolete autosomal dominant polycystic kidney",
+        "Polycystic kidney disease, adult type (disorder)",
+        "Polycystic kidney, autosomal dominant"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Polycystic%20kidneys%2C%20gross%20pathology%2020G0027%20lores.jpg",
+    "url": "https://en.wikipedia.org/wiki/Autosomal_dominant_polycystic_kidney_disease",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "autosomal dominant polycystic kidney disease",
+                "qid": "Q15443105",
+                "url": "https://en.wikipedia.org/wiki/Polycystic_kidney_disease"
+            }
+        ]
+    }
+}

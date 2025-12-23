@@ -1,0 +1,43 @@
+{
+    "name": "lower back pain",
+    "qid": "Q852163",
+    "icd_10": "M54.5",
+    "description": "disorder involving muscles, nerves, bones of the back",
+    "aliases": [
+        "lumbago",
+        "low back pain",
+        "lumbar pain"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lumbar%20region%20in%20human%20skeleton.svg",
+    "url": "https://en.wikipedia.org/wiki/Low_back_pain",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "orthopedics",
+                "qid": "Q216685",
+                "url": "https://en.wikipedia.org/wiki/Orthopedic_surgery"
+            },
+            {
+                "name": "rehabilitation",
+                "qid": "Q2795791"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "tizanidine",
+                "qid": "Q423538",
+                "url": "https://en.wikipedia.org/wiki/Tizanidine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "low backache",
+                "qid": "Q3911817"
+            },
+            {
+                "name": "low back disorder",
+                "qid": "Q26989028"
+            }
+        ]
+    }
+}

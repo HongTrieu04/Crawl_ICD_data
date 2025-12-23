@@ -1,0 +1,29 @@
+{
+    "name": "Hagemoser–Weinstein–Bresnick syndrome",
+    "qid": "Q5638589",
+    "icd_10": "H47.2",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hagemoser%E2%80%93Weinstein%E2%80%93Bresnick_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "otolaryngology",
+                "qid": "Q189553",
+                "url": "https://en.wikipedia.org/wiki/Otorhinolaryngology"
+            },
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "optic atrophy",
+                "qid": "Q3629049"
+            }
+        ]
+    }
+}

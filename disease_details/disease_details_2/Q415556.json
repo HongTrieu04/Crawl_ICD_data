@@ -1,0 +1,30 @@
+{
+    "name": "acalculia",
+    "qid": "Q415556",
+    "icd_10": "F81.2",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Acalculia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "mathematical anxiety",
+                "qid": "Q845527",
+                "url": "https://en.wikipedia.org/wiki/Mathematical_anxiety"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "name": "alcohol use during pregnancy",
+    "qid": "Q39088416",
+    "icd_10": "O35.4",
+    "description": "Toxic effects of alcohol consumption during pregnancy on a fetus",
+    "aliases": [
+        "alcohol and pregnancy"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Blausen%200405%20FetalAlcoholSyndrome.png",
+    "url": "https://en.wikipedia.org/wiki/Alcohol_and_pregnancy",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "drugs in pregnancy",
+                "qid": "Q5308960",
+                "url": "https://en.wikipedia.org/wiki/Drugs_in_pregnancy"
+            },
+            {
+                "name": "alcohol consumption",
+                "qid": "Q2647488"
+            }
+        ]
+    }
+}

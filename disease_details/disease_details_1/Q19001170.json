@@ -1,0 +1,23 @@
+{
+    "name": "obsolete penis herpetic infectious disease",
+    "qid": "Q19001170",
+    "icd_10": "A60.01",
+    "description": "human disease",
+    "aliases": [
+        "Herpetic infection of penis (disorder)"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "penile disease",
+                "qid": "Q18554834"
+            },
+            {
+                "name": "Herpesviridae infectious disease",
+                "qid": "Q18975237"
+            }
+        ]
+    }
+}

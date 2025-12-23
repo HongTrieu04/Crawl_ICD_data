@@ -1,0 +1,35 @@
+{
+    "name": "renal cyst",
+    "qid": "Q1425737",
+    "icd_10": "N28",
+    "description": "abnormal fluid filled sac within the kidney, either acquired or congenital",
+    "aliases": [
+        "cystic kidney",
+        "kidney cyst"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Renal_cyst",
+    "details": {
+        "Anatomical location": [
+            {
+                "name": "kidney",
+                "qid": "Q9377",
+                "url": "https://en.wikipedia.org/wiki/Kidney"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "cyst",
+                "qid": "Q193211",
+                "url": "https://en.wikipedia.org/wiki/Cyst"
+            }
+        ]
+    }
+}

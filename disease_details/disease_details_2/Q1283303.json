@@ -1,0 +1,74 @@
+{
+    "name": "tricuspid atresia",
+    "qid": "Q1283303",
+    "icd_10": "Q22.4",
+    "description": "tricuspid valve disease characterized by a missing or abnormally developed tricuspid heart value at birth",
+    "aliases": [
+        "TA",
+        "Congenital Atresia of Tricuspid Valve",
+        "tricuspid valve atresia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Tricuspid_atresia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "cyanotic heart defect",
+                "qid": "Q2186829",
+                "url": "https://en.wikipedia.org/wiki/Cyanotic_heart_defect"
+            },
+            {
+                "name": "genetic disease",
+                "qid": "Q200779",
+                "url": "https://en.wikipedia.org/wiki/Genetic_disorder"
+            },
+            {
+                "name": "congenital heart disease",
+                "qid": "Q939364",
+                "url": "https://en.wikipedia.org/wiki/Congenital_heart_defect"
+            },
+            {
+                "name": "tricuspid valve disease",
+                "qid": "Q18553500"
+            },
+            {
+                "name": "rare genetic developmental defect during embryogenesis",
+                "qid": "Q55785846"
+            },
+            {
+                "name": "genetic cardiac disease",
+                "qid": "Q55789068"
+            },
+            {
+                "name": "congenital tricuspid malformation",
+                "qid": "Q55789283"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "alprostadil",
+                "qid": "Q579348",
+                "url": "https://en.wikipedia.org/wiki/Prostaglandin_E1"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "tricuspid valve",
+                "qid": "Q1344255",
+                "url": "https://en.wikipedia.org/wiki/Tricuspid_valve"
+            }
+        ]
+    }
+}

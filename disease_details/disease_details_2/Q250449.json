@@ -1,0 +1,71 @@
+{
+    "name": "alpha-mannosidosis",
+    "qid": "Q250449",
+    "icd_10": "E77.1",
+    "description": "lysosomal storage disease that has material basis in deficiency of the alpha-D-manosidase enzyme resulting in the impairment of cell function from a build up of complex sugars derived from glycoproteins in the lysosome",
+    "aliases": [
+        "MANSA",
+        "Alpha mannosidase B deficiency",
+        "Alpha-D-mannosidosis",
+        "Alpha-Mannosidase B Deficiency",
+        "alpha-mannosidase deficiency",
+        "Alpha-Mannosidosis",
+        "deficiency of alpha-mannosidase",
+        "deficiency of alpha-mannosidase (disorder)",
+        "Lysosomal Alpha-D-Mannosidase Deficiency",
+        "Mannosidosis, alpha B lysosomal",
+        "MANNOSIDOSIS, ALPHA B, LYSOSOMAL",
+        "MANNOSIDOSIS, ALPHA B, LYSOSOMAL; MANSA"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alpha-mannosidosis.JPEG",
+    "url": "https://en.wikipedia.org/wiki/Alpha-mannosidosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "Mannosidosis",
+                "qid": "Q6750947",
+                "url": "https://en.wikipedia.org/wiki/Mannosidosis"
+            },
+            {
+                "name": "lysosomal storage disease",
+                "qid": "Q675010",
+                "url": "https://en.wikipedia.org/wiki/Lysosomal_storage_disease"
+            },
+            {
+                "name": "neurometabolic disease",
+                "qid": "Q1337418"
+            },
+            {
+                "name": "rare genetic developmental defect during embryogenesis",
+                "qid": "Q55785846"
+            },
+            {
+                "name": "oligosaccharidosis",
+                "qid": "Q55788568"
+            },
+            {
+                "name": "lysosomal storage disease with skeletal involvement",
+                "qid": "Q55788818"
+            },
+            {
+                "name": "cataract associated with a metabolic disease",
+                "qid": "Q55789224"
+            },
+            {
+                "name": "metabolic disease with corneal opacity",
+                "qid": "Q55789274"
+            },
+            {
+                "name": "metabolic disease with cataract",
+                "qid": "Q55789275"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ]
+    }
+}

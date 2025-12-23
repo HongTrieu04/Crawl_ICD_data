@@ -1,0 +1,42 @@
+{
+    "name": "Confluent and reticulated papillomatosis",
+    "qid": "Q5160236",
+    "icd_10": "L83",
+    "description": "human disease",
+    "aliases": [
+        "CARP",
+        "Gougerot and Carteaud papillomatosis",
+        "PAPILLOMATOSIS, CONFLUENT AND RETICULATED",
+        "PAPILLOMATOSIS, CONFLUENT AND RETICULATED; CARP",
+        "Papillomatosis, Familial Cutaneous",
+        "Papillomatosis, Reticulated and Confluent, of Gougerot and Carteaud"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Confluent_and_reticulated_papillomatosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "genetic disease",
+                "qid": "Q200779",
+                "url": "https://en.wikipedia.org/wiki/Genetic_disorder"
+            },
+            {
+                "name": "papillomatosis",
+                "qid": "Q1223924",
+                "url": "https://en.wikipedia.org/wiki/Papillomatosis"
+            },
+            {
+                "name": "hyperkeratosis",
+                "qid": "Q1640998",
+                "url": "https://en.wikipedia.org/wiki/Hyperkeratosis"
+            }
+        ]
+    }
+}

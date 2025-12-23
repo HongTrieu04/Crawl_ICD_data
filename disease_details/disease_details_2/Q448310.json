@@ -1,0 +1,104 @@
+{
+    "name": "seborrhoeic dermatitis",
+    "qid": "Q448310",
+    "icd_10": "L21",
+    "description": "long-term skin disorder",
+    "aliases": [
+        "seborrhea",
+        "Seborrhoea",
+        "seborrheic dermatitis",
+        "Other seborrheic dermatitis",
+        "Other seborrheic dermatitis (disorder)",
+        "Seborrhea",
+        "Seborrhea (disorder)",
+        "Seborrhea NOS (disorder)",
+        "Seborrheic dermatitis (disorder)",
+        "Seborrheic dermatitis NOS",
+        "Seborrheic Eczema",
+        "Seborrhoeic dermatitis",
+        "Seborrhoeic eczema",
+        "SKIN SEBORRHEIC"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Seborrhoeic%20dermatitis%20highres.jpg",
+    "url": "https://en.wikipedia.org/wiki/Seborrhoeic_dermatitis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "dermatitis",
+                "qid": "Q229256",
+                "url": "https://en.wikipedia.org/wiki/Dermatitis"
+            },
+            {
+                "name": "ICD-10 Chapter XII: Diseases of the skin and subcutaneous tissue",
+                "qid": "Q540434"
+            },
+            {
+                "name": "seborrhea",
+                "qid": "Q15638293"
+            },
+            {
+                "name": "pityriasis steatoides",
+                "qid": "Q55790493"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "sulfacetamide",
+                "qid": "Q2022983",
+                "url": "https://en.wikipedia.org/wiki/Sulfacetamide"
+            },
+            {
+                "name": "chloroxine",
+                "qid": "Q12029435",
+                "url": "https://en.wikipedia.org/wiki/Chloroxine"
+            },
+            {
+                "name": "salicylic acid",
+                "qid": "Q193572",
+                "url": "https://en.wikipedia.org/wiki/Salicylic_acid"
+            },
+            {
+                "name": "pyrithione zinc",
+                "qid": "Q204602",
+                "url": "https://en.wikipedia.org/wiki/Zinc_pyrithione"
+            },
+            {
+                "name": "ketoconazole",
+                "qid": "Q407883",
+                "url": "https://en.wikipedia.org/wiki/Ketoconazole"
+            },
+            {
+                "name": "betamethasone",
+                "qid": "Q416132",
+                "url": "https://en.wikipedia.org/wiki/Betamethasone"
+            },
+            {
+                "name": "selenium disulfide",
+                "qid": "Q419375",
+                "url": "https://en.wikipedia.org/wiki/Selenium_disulfide"
+            },
+            {
+                "name": "ciclopirox",
+                "qid": "Q419468",
+                "url": "https://en.wikipedia.org/wiki/Ciclopirox"
+            },
+            {
+                "name": "desonide",
+                "qid": "Q904011",
+                "url": "https://en.wikipedia.org/wiki/Desonide"
+            }
+        ]
+    }
+}

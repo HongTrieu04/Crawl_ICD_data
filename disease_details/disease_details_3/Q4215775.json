@@ -1,0 +1,43 @@
+{
+    "name": "metal poisoning",
+    "qid": "Q4215775",
+    "icd_10": "T56",
+    "description": "toxic and harmful effects of certain metals and their compounds to living organisms",
+    "aliases": [
+        "metal toxicity"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Argyria%202a.jpg",
+    "url": "https://en.wikipedia.org/wiki/Metal_toxicity",
+    "details": {
+        "Cause": [
+            {
+                "name": "metal",
+                "qid": "Q11426",
+                "url": "https://en.wikipedia.org/wiki/Metal"
+            },
+            {
+                "name": "metal element",
+                "qid": "Q11646938"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "metals in medicine",
+                "qid": "Q16935300",
+                "url": "https://en.wikipedia.org/wiki/Metals_in_medicine"
+            },
+            {
+                "name": "intoxication",
+                "qid": "Q18621601",
+                "url": "https://en.wikipedia.org/wiki/Poisoning"
+            }
+        ]
+    }
+}

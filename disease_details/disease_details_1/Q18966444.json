@@ -1,0 +1,20 @@
+{
+    "name": "hereditary and idiopathic peripheral neuropathy",
+    "qid": "Q18966444",
+    "icd_10": "G60",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete hereditary and idiopathic peripheral neuropathy"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "peripheral neuropathy",
+                "qid": "Q945238",
+                "url": "https://en.wikipedia.org/wiki/Peripheral_neuropathy"
+            }
+        ]
+    }
+}

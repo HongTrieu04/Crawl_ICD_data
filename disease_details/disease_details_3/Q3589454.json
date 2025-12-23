@@ -1,0 +1,28 @@
+{
+    "name": "acid–base imbalance",
+    "qid": "Q3589454",
+    "icd_10": "E87.4",
+    "description": "medical condition",
+    "aliases": [
+        "acid-base disturbance",
+        "pH imbalance"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Acid%E2%80%93base_disorder",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "failure",
+                "qid": "Q1121708",
+                "url": "https://en.wikipedia.org/wiki/Failure"
+            }
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "name": "zinc toxicity",
+    "qid": "Q10724674",
+    "icd_10": "T56.5",
+    "description": "type of metal poisoning caused by excess zinc in the body",
+    "aliases": [
+        "zinc poisoning"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Zinc_toxicity",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "metal poisoning",
+                "qid": "Q4215775",
+                "url": "https://en.wikipedia.org/wiki/Metal_toxicity"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "zinc",
+                "qid": "Q758",
+                "url": "https://en.wikipedia.org/wiki/Zinc"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ]
+    }
+}

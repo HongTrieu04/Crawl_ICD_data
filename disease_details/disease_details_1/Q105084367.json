@@ -1,0 +1,22 @@
+{
+    "name": "complications of anaesthesia during labour or delivery",
+    "qid": "Q105084367",
+    "icd_10": "O74",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "obstetric labor complication",
+                "qid": "Q7075540",
+                "url": "https://en.wikipedia.org/wiki/Obstetric_labor_complication"
+            },
+            {
+                "name": "adverse reactions to anesthesia",
+                "qid": "Q2990543"
+            }
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "name": "binge eating disorder",
+    "qid": "Q209522",
+    "icd_10": "F50.8",
+    "description": "eating disorder characterized by: frequent and recurrent episodes of binge eating; with associated negative psychological and social problems; but without subsequent episodes of purging",
+    "aliases": [
+        "BED",
+        "binge-eating disorder",
+        "psychogenic overeating"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Binge_eating_disorder",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "clinical psychology",
+                "qid": "Q199906",
+                "url": "https://en.wikipedia.org/wiki/Clinical_psychology"
+            },
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "eating disorder",
+                "qid": "Q373822",
+                "url": "https://en.wikipedia.org/wiki/Eating_disorder"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "binge eating",
+                "qid": "Q2303219",
+                "url": "https://en.wikipedia.org/wiki/Binge_eating"
+            }
+        ]
+    }
+}

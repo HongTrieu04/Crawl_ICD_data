@@ -1,0 +1,22 @@
+{
+    "name": "petrol sniffing",
+    "qid": "Q66429539",
+    "icd_10": "T52.0",
+    "description": "subconcept of Substance abuse (scot/11103)",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "substance abuse",
+                "qid": "Q3184856",
+                "url": "https://en.wikipedia.org/wiki/Substance_abuse"
+            },
+            {
+                "name": "inhalant use disorder",
+                "qid": "Q2248357"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "postpartum acute renal failure",
+    "qid": "Q55012939",
+    "icd_10": "O90.4",
+    "description": "human disease",
+    "aliases": [
+        "obsolete postpartum acute renal failure"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "acute kidney injury",
+                "qid": "Q424337",
+                "url": "https://en.wikipedia.org/wiki/Acute_kidney_injury"
+            },
+            {
+                "name": "puerperal disorders",
+                "qid": "Q7258523",
+                "url": "https://en.wikipedia.org/wiki/Postpartum_disorder"
+            }
+        ]
+    }
+}

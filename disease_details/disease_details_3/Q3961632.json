@@ -1,0 +1,31 @@
+{
+    "name": "Cold agglutinin disease",
+    "qid": "Q3961632",
+    "icd_10": "D59.1",
+    "description": "type of autoimmune hemolytic anemia",
+    "aliases": [
+        "CAS",
+        "CAD",
+        "Chronic cold agglutinin disease",
+        "cold agglutinin disease",
+        "Cold agglutinin syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Cold_agglutinin_disease",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "Cold autoimmune hemolytic anemia",
+                "qid": "Q9615018",
+                "url": "https://en.wikipedia.org/wiki/Cold_autoimmune_hemolytic_anemia"
+            }
+        ]
+    }
+}

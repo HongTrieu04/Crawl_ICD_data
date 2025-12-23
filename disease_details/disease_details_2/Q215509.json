@@ -1,0 +1,33 @@
+{
+    "name": "hospital-acquired infection",
+    "qid": "Q215509",
+    "icd_10": "Y95",
+    "description": "nosocomial infection",
+    "aliases": [
+        "healthcare-associated infection",
+        "cross Infection",
+        "nosocomial infection"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hospital-acquired_infection",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "adverse effect",
+                "qid": "Q2047938",
+                "url": "https://en.wikipedia.org/wiki/Adverse_effect"
+            },
+            {
+                "name": "healthcare-associated infection",
+                "qid": "Q131630076"
+            }
+        ]
+    }
+}

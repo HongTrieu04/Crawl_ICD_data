@@ -1,0 +1,48 @@
+{
+    "name": "viral labyrinthitis",
+    "qid": "Q18554305",
+    "icd_10": "A88.1",
+    "description": "human disease",
+    "aliases": [
+        "Epidemic vertigo",
+        "Epidemic vertigo (disorder)",
+        "Epidemic vertigo (finding)",
+        "Viral labyrinthitis",
+        "Viral labyrinthitis (disorder)"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "vomiting",
+                "qid": "Q127076",
+                "url": "https://en.wikipedia.org/wiki/Vomiting"
+            },
+            {
+                "name": "nausea",
+                "qid": "Q186889",
+                "url": "https://en.wikipedia.org/wiki/Nausea"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "viral infectious disease",
+                "qid": "Q1928978",
+                "url": "https://en.wikipedia.org/wiki/Viral_disease"
+            },
+            {
+                "name": "labyrinthitis",
+                "qid": "Q2038371",
+                "url": "https://en.wikipedia.org/wiki/Labyrinthitis"
+            }
+        ]
+    }
+}

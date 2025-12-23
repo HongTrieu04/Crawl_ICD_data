@@ -1,0 +1,37 @@
+{
+    "name": "anorectal disorder",
+    "qid": "Q4770164",
+    "icd_10": "K62",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Anorectal_disorder",
+    "details": {
+        "Anatomical location": [
+            {
+                "name": "anus",
+                "qid": "Q497",
+                "url": "https://en.wikipedia.org/wiki/Anus"
+            },
+            {
+                "name": "rectum",
+                "qid": "Q158716",
+                "url": "https://en.wikipedia.org/wiki/Rectum"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "proctology",
+                "qid": "Q1413084",
+                "url": "https://en.wikipedia.org/wiki/Colorectal_surgery"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "gastrointestinal system disease",
+                "qid": "Q2300099",
+                "url": "https://en.wikipedia.org/wiki/Gastrointestinal_disease"
+            }
+        ]
+    }
+}

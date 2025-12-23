@@ -1,0 +1,27 @@
+{
+    "name": "dental avulsion",
+    "qid": "Q2422102",
+    "icd_10": "S03.2",
+    "description": "tooth displacement owing to trauma",
+    "aliases": [
+        "avulsed teeth"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Dental_avulsion",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "dental trauma",
+                "qid": "Q2346266",
+                "url": "https://en.wikipedia.org/wiki/Dental_trauma"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "dentistry",
+                "qid": "Q12128",
+                "url": "https://en.wikipedia.org/wiki/Dentistry"
+            }
+        ]
+    }
+}

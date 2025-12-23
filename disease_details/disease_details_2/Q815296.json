@@ -1,0 +1,29 @@
+{
+    "name": "stress-related disorders",
+    "qid": "Q815296",
+    "icd_10": "F43",
+    "description": "stress: Disorders' causes and reduction methods",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Stress-related_disorders",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "mental disorder",
+                "qid": "Q12135",
+                "url": "https://en.wikipedia.org/wiki/Mental_disorder"
+            },
+            {
+                "name": "trauma and stressor related disorders",
+                "qid": "Q96077686"
+            }
+        ]
+    }
+}

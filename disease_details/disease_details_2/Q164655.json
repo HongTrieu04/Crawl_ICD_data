@@ -1,0 +1,79 @@
+{
+    "name": "abscess",
+    "qid": "Q164655",
+    "icd_10": "L02",
+    "description": "localized collection of pus that has built up within the tissue of the body",
+    "aliases": [
+        "boil"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Abszess.jpg",
+    "url": "https://en.wikipedia.org/wiki/Abscess",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            },
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            },
+            {
+                "name": "general surgery",
+                "qid": "Q932510",
+                "url": "https://en.wikipedia.org/wiki/General_surgery"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "pain",
+                "qid": "Q81938",
+                "url": "https://en.wikipedia.org/wiki/Pain"
+            },
+            {
+                "name": "swelling",
+                "qid": "Q109186",
+                "url": "https://en.wikipedia.org/wiki/Swelling_(medical)"
+            },
+            {
+                "name": "erythema",
+                "qid": "Q1166142",
+                "url": "https://en.wikipedia.org/wiki/Erythema"
+            },
+            {
+                "name": "remittent fever",
+                "qid": "Q24869904",
+                "url": "https://en.wikipedia.org/wiki/Remittent_fever"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "metronidazole",
+                "qid": "Q169569",
+                "url": "https://en.wikipedia.org/wiki/Metronidazole"
+            },
+            {
+                "name": "cefoxitin",
+                "qid": "Q2353907",
+                "url": "https://en.wikipedia.org/wiki/Cefoxitin"
+            },
+            {
+                "name": "cefotetan",
+                "qid": "Q2602246",
+                "url": "https://en.wikipedia.org/wiki/Cefotetan"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "suppuration",
+                "qid": "Q3504924"
+            },
+            {
+                "name": "general symptom",
+                "qid": "Q31836626"
+            }
+        ]
+    }
+}

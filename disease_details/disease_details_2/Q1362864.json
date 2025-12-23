@@ -1,0 +1,35 @@
+{
+    "name": "hepatomegaly",
+    "qid": "Q1362864",
+    "icd_10": "R16.0",
+    "description": "enlargement of the liver",
+    "aliases": [
+        "enlarged liver",
+        "swollen liver"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Depiction%20of%20an%20enlarged%20liver.png",
+    "url": "https://en.wikipedia.org/wiki/Hepatomegaly",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "hepatology",
+                "qid": "Q668064",
+                "url": "https://en.wikipedia.org/wiki/Hepatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "visceromegaly",
+                "qid": "Q1125753"
+            },
+            {
+                "name": "liver change",
+                "qid": "Q21117411"
+            },
+            {
+                "name": "liver symptom",
+                "qid": "Q102186501"
+            }
+        ]
+    }
+}

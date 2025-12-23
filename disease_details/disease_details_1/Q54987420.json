@@ -1,0 +1,31 @@
+{
+    "name": "cerebral phaeohyphomycosis",
+    "qid": "Q54987420",
+    "icd_10": "B43.1",
+    "description": "central nervous system infections caused by neurotropic dematiaceous fungi that contain melanin in their cell walls",
+    "aliases": [
+        "cerebral pheohyphomycosis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "phaeohyphomycosis",
+                "qid": "Q2089599",
+                "url": "https://en.wikipedia.org/wiki/Phaeohyphomycosis"
+            },
+            {
+                "name": "fungal infection of the central nervous system",
+                "qid": "Q54911791"
+            }
+        ]
+    }
+}

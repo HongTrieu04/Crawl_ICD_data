@@ -1,0 +1,25 @@
+{
+    "name": "hypovolemia",
+    "qid": "Q1320276",
+    "icd_10": "R57.1",
+    "description": "low blood volume",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hypovolemia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "hematopoietic system disease",
+                "qid": "Q1963588",
+                "url": "https://en.wikipedia.org/wiki/Hematologic_disease"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ]
+    }
+}

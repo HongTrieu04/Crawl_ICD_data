@@ -1,0 +1,32 @@
+{
+    "name": "congenital anomaly of the genitalia",
+    "qid": "Q4066792",
+    "icd_10": "Q56",
+    "description": "human disease",
+    "aliases": [
+        "congenital anomalies of the genitalia",
+        "urogenital abnormalities"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Congenital_anomalies_of_the_genitalia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disorder of sex development",
+                "qid": "Q5282521",
+                "url": "https://en.wikipedia.org/wiki/Disorders_of_sex_development"
+            },
+            {
+                "name": "urogenital tract malformation",
+                "qid": "Q55788621"
+            }
+        ]
+    }
+}

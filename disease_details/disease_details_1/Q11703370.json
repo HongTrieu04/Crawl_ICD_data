@@ -1,0 +1,37 @@
+{
+    "name": "premature rupture of membranes",
+    "qid": "Q11703370",
+    "icd_10": "O42",
+    "description": "Human disease",
+    "aliases": [
+        "antepartum premature rupture of membranes",
+        "delivered premature rupture of membranes",
+        "premature rupture of the fetal membranes",
+        "premature rupture of membranes - delivered (disorder)"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Prelabor_rupture_of_membranes",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "rupture of membranes",
+                "qid": "Q176918",
+                "url": "https://en.wikipedia.org/wiki/Rupture_of_membranes"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "complications of pregnancy",
+                "qid": "Q2916477",
+                "url": "https://en.wikipedia.org/wiki/Complications_of_pregnancy"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "obstetrics",
+                "qid": "Q5284418",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics"
+            }
+        ]
+    }
+}

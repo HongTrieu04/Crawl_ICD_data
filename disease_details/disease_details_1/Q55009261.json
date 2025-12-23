@@ -1,0 +1,20 @@
+{
+    "name": "pulmonary sporotrichosis",
+    "qid": "Q55009261",
+    "icd_10": "B42.0",
+    "description": "human disease",
+    "aliases": [
+        "obsolete pulmonary sporotrichosis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "sporotrichosis",
+                "qid": "Q767327",
+                "url": "https://en.wikipedia.org/wiki/Sporotrichosis"
+            }
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "name": "haemorrhagic disease of the newborn",
+    "qid": "Q1671351",
+    "icd_10": "P53",
+    "description": "coagulation disturbance in newborns due to vitamin K deficiency",
+    "aliases": [
+        "Hemorrhagic diathesis of newborn",
+        "hemorrhagic disease of newborn",
+        "Hemorrhagic disease of newborn",
+        "Hemorrhagic disease of the newborn due to vitamin K deficiency (disorder)",
+        "obsolete hemorrhagic disease of newborn",
+        "Vitamin K Deficiency Bleeding in Newborn",
+        "Vitamin K dependent bleeding"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Vitamin_K_deficiency_bleeding",
+    "details": {
+        "Cause": [
+            {
+                "name": "vitamin K deficiency",
+                "qid": "Q4138767",
+                "url": "https://en.wikipedia.org/wiki/Vitamin_K_deficiency"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "pediatrics",
+                "qid": "Q123028",
+                "url": "https://en.wikipedia.org/wiki/Pediatrics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "blood coagulation disease",
+                "qid": "Q890200",
+                "url": "https://en.wikipedia.org/wiki/Coagulopathy"
+            },
+            {
+                "name": "perinatal disease",
+                "qid": "Q18968218"
+            },
+            {
+                "name": "hematological disease of fetus and newborn",
+                "qid": "Q19001385"
+            }
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "name": "imperforate hymen",
+    "qid": "Q2065620",
+    "icd_10": "Q52.3",
+    "description": "human disease",
+    "aliases": [
+        "hymen, imperforate"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gynaecology%20for%20students%20and%20practitioners%20%281916%29%20%2814781000142%29.jpg",
+    "url": "https://en.wikipedia.org/wiki/Imperforate_hymen",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "vaginal disease",
+                "qid": "Q18211693",
+                "url": "https://en.wikipedia.org/wiki/Vaginal_disease"
+            },
+            {
+                "name": "genetic disease",
+                "qid": "Q200779",
+                "url": "https://en.wikipedia.org/wiki/Genetic_disorder"
+            },
+            {
+                "name": "atresia",
+                "qid": "Q757722",
+                "url": "https://en.wikipedia.org/wiki/Atresia"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gynaecology",
+                "qid": "Q1221899",
+                "url": "https://en.wikipedia.org/wiki/Gynaecology"
+            }
+        ]
+    }
+}

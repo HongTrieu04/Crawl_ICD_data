@@ -1,0 +1,41 @@
+{
+    "name": "alopecia universalis",
+    "qid": "Q4734616",
+    "icd_10": "L63.1",
+    "description": "human disease",
+    "aliases": [
+        "ALOPECIA UNIVERSALIS CONGENITA"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Alopecia_universalis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "hair loss",
+                "qid": "Q181391",
+                "url": "https://en.wikipedia.org/wiki/Hair_loss"
+            },
+            {
+                "name": "alopecia",
+                "qid": "Q2697787",
+                "url": "https://en.wikipedia.org/wiki/Alopecia"
+            },
+            {
+                "name": "autosomal recessive disease",
+                "qid": "Q10267817"
+            }
+        ]
+    }
+}

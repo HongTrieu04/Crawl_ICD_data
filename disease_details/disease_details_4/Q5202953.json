@@ -1,0 +1,25 @@
+{
+    "name": "Cœur en sabot",
+    "qid": "Q5202953",
+    "icd_10": "R93.1",
+    "description": "radiologic sign",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/C%C5%93ur_en_sabot",
+    "details": {
+        "Cause": [
+            {
+                "name": "right ventricular hypertrophy",
+                "qid": "Q2014808",
+                "url": "https://en.wikipedia.org/wiki/Right_ventricular_hypertrophy"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ]
+    }
+}

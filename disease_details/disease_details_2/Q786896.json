@@ -1,0 +1,25 @@
+{
+    "name": "Reinke's edema",
+    "qid": "Q786896",
+    "icd_10": "J38.4",
+    "description": "medical condition",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Reinke%20Oedem.jpg",
+    "url": "https://en.wikipedia.org/wiki/Reinke%27s_edema",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "otolaryngology",
+                "qid": "Q189553",
+                "url": "https://en.wikipedia.org/wiki/Otorhinolaryngology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "vocal cord dysfunction",
+                "qid": "Q1718230",
+                "url": "https://en.wikipedia.org/wiki/Vocal_cord_dysfunction"
+            }
+        ]
+    }
+}

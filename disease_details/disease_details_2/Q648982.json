@@ -1,0 +1,49 @@
+{
+    "name": "argyria",
+    "qid": "Q648982",
+    "icd_10": "T56.8",
+    "description": "medical condition",
+    "aliases": [
+        "argyrosis",
+        "Silver staining"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Argyria%202b.jpg",
+    "url": "https://en.wikipedia.org/wiki/Argyria",
+    "details": {
+        "Cause": [
+            {
+                "name": "silver",
+                "qid": "Q1090",
+                "url": "https://en.wikipedia.org/wiki/Silver"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "metal poisoning",
+                "qid": "Q4215775",
+                "url": "https://en.wikipedia.org/wiki/Metal_toxicity"
+            },
+            {
+                "name": "abnormal skin coloration",
+                "qid": "Q47085690"
+            },
+            {
+                "name": "rare intoxication",
+                "qid": "Q55785342"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "abnormal skin coloration",
+                "qid": "Q47085690"
+            }
+        ]
+    }
+}

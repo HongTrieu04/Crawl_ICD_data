@@ -1,0 +1,57 @@
+{
+    "name": "tin poisoning",
+    "qid": "Q7807844",
+    "icd_10": "T56.6",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Tin_poisoning",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "metal poisoning",
+                "qid": "Q4215775",
+                "url": "https://en.wikipedia.org/wiki/Metal_toxicity"
+            },
+            {
+                "name": "chemical hazard",
+                "qid": "Q21167512",
+                "url": "https://en.wikipedia.org/wiki/Chemical_hazard"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "tin",
+                "qid": "Q1096",
+                "url": "https://en.wikipedia.org/wiki/Tin"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "irritant dermatitis",
+                "qid": "Q1799146",
+                "url": "https://en.wikipedia.org/wiki/Irritant_contact_dermatitis"
+            },
+            {
+                "name": "eye irritation",
+                "qid": "Q11820606"
+            },
+            {
+                "name": "respiratory irritation",
+                "qid": "Q21112283"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            },
+            {
+                "name": "toxicology",
+                "qid": "Q7218",
+                "url": "https://en.wikipedia.org/wiki/Toxicology"
+            }
+        ]
+    }
+}

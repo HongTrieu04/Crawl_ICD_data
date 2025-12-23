@@ -1,0 +1,29 @@
+{
+    "name": "autoimmune polyendocrine syndrome type 2",
+    "qid": "Q1418225",
+    "icd_10": "E31.0",
+    "description": "autoimmune polyendocrine syndrome that is characterized by abnormal functioning of the immune system that causes auto-reactivity against endocrine organs. It is more heterogeneous and has not been linked to one gene",
+    "aliases": [
+        "APS-II",
+        "Schmidt syndrome",
+        "Schmidt's syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Autoimmune_polyendocrine_syndrome_type_2",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "autoimmune polyendocrine syndrome",
+                "qid": "Q675311",
+                "url": "https://en.wikipedia.org/wiki/Autoimmune_polyendocrine_syndrome"
+            }
+        ]
+    }
+}

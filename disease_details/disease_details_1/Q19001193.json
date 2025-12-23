@@ -1,0 +1,20 @@
+{
+    "name": "postherpetic polyneuropathy",
+    "qid": "Q19001193",
+    "icd_10": "B02.23",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete postherpetic polyneuropathy"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "postherpetic neuralgia",
+                "qid": "Q1714245",
+                "url": "https://en.wikipedia.org/wiki/Postherpetic_neuralgia"
+            }
+        ]
+    }
+}

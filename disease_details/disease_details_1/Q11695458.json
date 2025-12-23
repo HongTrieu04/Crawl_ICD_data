@@ -1,0 +1,32 @@
+{
+    "name": "neurocysticercosis",
+    "qid": "Q11695458",
+    "icd_10": "B69.0",
+    "description": "cysticercosis of the brain",
+    "aliases": [
+        "Brain Cysticercosis",
+        "Cysticercosis of central nervous system"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Extraparenchymal%20neurocysticercosis%20MRI.jpg",
+    "url": "https://en.wikipedia.org/wiki/Neurocysticercosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "cysticercosis",
+                "qid": "Q246068",
+                "url": "https://en.wikipedia.org/wiki/Cysticercosis"
+            },
+            {
+                "name": "central nervous system helminthiasis",
+                "qid": "Q55231786"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

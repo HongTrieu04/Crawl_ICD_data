@@ -1,0 +1,28 @@
+{
+    "name": "hyperkinetic heart syndrome",
+    "qid": "Q1641008",
+    "icd_10": "I51.8",
+    "description": "Human disease",
+    "aliases": [
+        "hyperkinetic heart disease",
+        "obsolete hyperkinetic heart syndrome"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "heart disease",
+                "qid": "Q190805",
+                "url": "https://en.wikipedia.org/wiki/Heart_disease"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ]
+    }
+}

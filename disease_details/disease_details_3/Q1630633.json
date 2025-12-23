@@ -1,0 +1,33 @@
+{
+    "name": "paper cut",
+    "qid": "Q1630633",
+    "icd_10": "W45",
+    "description": "skin wound caused by paper edge",
+    "aliases": [
+        "papercut"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Oww%20Papercut%2014365.jpg",
+    "url": "https://en.wikipedia.org/wiki/Paper_cut",
+    "details": {
+        "Cause": [
+            {
+                "name": "paper",
+                "qid": "Q11472",
+                "url": "https://en.wikipedia.org/wiki/Paper"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "adhesive bandage",
+                "qid": "Q216054",
+                "url": "https://en.wikipedia.org/wiki/Adhesive_bandage"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "cut",
+                "qid": "Q4372969"
+            }
+        ]
+    }
+}

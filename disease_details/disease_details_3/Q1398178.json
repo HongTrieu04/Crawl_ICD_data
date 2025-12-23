@@ -1,0 +1,20 @@
+{
+    "name": "wound dehiscence",
+    "qid": "Q1398178",
+    "icd_10": "T81.3",
+    "description": "wound ruptures along a surgical incision",
+    "aliases": [
+        "anastomotic leakage",
+        "surgical wound dehiscence"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Wound_dehiscence",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "postoperative complications",
+                "qid": "Q18478450"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "prolonged labor",
+    "qid": "Q19001124",
+    "icd_10": "O63",
+    "description": "Human disease",
+    "aliases": [
+        "Prolonged labour"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Prolonged_labor",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "clinical sign",
+                "qid": "Q1441305",
+                "url": "https://en.wikipedia.org/wiki/Clinical_sign"
+            },
+            {
+                "name": "obstetric labor complication",
+                "qid": "Q7075540",
+                "url": "https://en.wikipedia.org/wiki/Obstetric_labor_complication"
+            }
+        ]
+    }
+}

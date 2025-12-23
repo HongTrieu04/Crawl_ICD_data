@@ -1,0 +1,22 @@
+{
+    "name": "spontaneous ecchymoses",
+    "qid": "Q102187046",
+    "icd_10": "R23.3",
+    "description": "symptom",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "ecchymosis",
+                "qid": "Q1322382",
+                "url": "https://en.wikipedia.org/wiki/Ecchymosis"
+            },
+            {
+                "name": "skin and integumentary tissue symptom",
+                "qid": "Q100751718"
+            }
+        ]
+    }
+}

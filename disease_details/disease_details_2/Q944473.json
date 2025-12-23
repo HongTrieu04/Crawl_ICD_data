@@ -1,0 +1,36 @@
+{
+    "name": "cataplexy",
+    "qid": "Q944473",
+    "icd_10": "G47.4",
+    "description": "sudden muscle weakness",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Cataplexy",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "narcolepsy",
+                "qid": "Q189561",
+                "url": "https://en.wikipedia.org/wiki/Narcolepsy"
+            },
+            {
+                "name": "muscle symptom",
+                "qid": "Q102187423"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "sodium oxybate",
+                "qid": "Q7553347",
+                "url": "https://en.wikipedia.org/wiki/Sodium_oxybate"
+            }
+        ]
+    }
+}

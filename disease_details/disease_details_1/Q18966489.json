@@ -1,0 +1,29 @@
+{
+    "name": "meningococcal septicemia",
+    "qid": "Q18966489",
+    "icd_10": "A39.4",
+    "description": "Human disease",
+    "aliases": [
+        "Meningococcal sepsis",
+        "Meningococcal septicaemia",
+        "Meningococcemia",
+        "Meningococcemia (disorder)",
+        "Meningococcemia, unspecified (disorder)",
+        "obsolete meningococcal septicemia"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "meningococcal disease",
+                "qid": "Q890785",
+                "url": "https://en.wikipedia.org/wiki/Meningococcal_disease"
+            },
+            {
+                "name": "bacterial sepsis",
+                "qid": "Q55009180"
+            }
+        ]
+    }
+}

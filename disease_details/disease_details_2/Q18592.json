@@ -1,0 +1,114 @@
+{
+    "name": "frontotemporal dementia",
+    "qid": "Q18592",
+    "icd_10": "G31.0",
+    "description": "medical condition",
+    "aliases": [
+        "FTD",
+        "frontotemporal lobar degeneration",
+        "frontotemporal degeneration disease",
+        "frontotemporal neurocognitive disorder",
+        "multiple system tauopathy with presenile dementia",
+        "pallidopontonigral degeneration",
+        "Wilhemsen-Lynch disease"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pick%27s%20disease.png",
+    "url": "https://en.wikipedia.org/wiki/Frontotemporal_dementia",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "dementia",
+                "qid": "Q83030",
+                "url": "https://en.wikipedia.org/wiki/Dementia"
+            },
+            {
+                "name": "primary progressive aphasia",
+                "qid": "Q18767",
+                "url": "https://en.wikipedia.org/wiki/Primary_progressive_aphasia"
+            },
+            {
+                "name": "behavioral disorder",
+                "qid": "Q1815366",
+                "url": "https://en.wikipedia.org/wiki/Behavioral_disorder"
+            },
+            {
+                "name": "memory disorder",
+                "qid": "Q3072083",
+                "url": "https://en.wikipedia.org/wiki/Memory_disorder"
+            },
+            {
+                "name": "language disorder",
+                "qid": "Q10469820",
+                "url": "https://en.wikipedia.org/wiki/Language_disorder"
+            },
+            {
+                "name": "motor disorder",
+                "qid": "Q16342771",
+                "url": "https://en.wikipedia.org/wiki/Motor_disorder"
+            },
+            {
+                "name": "anomic aphasia",
+                "qid": "Q567576",
+                "url": "https://en.wikipedia.org/wiki/Anomic_aphasia"
+            },
+            {
+                "name": "change",
+                "qid": "Q1150070",
+                "url": "https://en.wikipedia.org/wiki/Change_(philosophy)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "dementia",
+                "qid": "Q83030",
+                "url": "https://en.wikipedia.org/wiki/Dementia"
+            },
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "encephalopathy",
+                "qid": "Q576349",
+                "url": "https://en.wikipedia.org/wiki/Encephalopathy"
+            },
+            {
+                "name": "TDP-43 Proteinopathies",
+                "qid": "Q54920211"
+            },
+            {
+                "name": "frontotemporal degeneration with dementia",
+                "qid": "Q55346097"
+            },
+            {
+                "name": "genetic neurodegenerative disease with dementia",
+                "qid": "Q55346116"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "antipsychotics",
+                "qid": "Q208144",
+                "url": "https://en.wikipedia.org/wiki/Antipsychotic"
+            },
+            {
+                "name": "selective serotonin reuptake inhibitor",
+                "qid": "Q334477",
+                "url": "https://en.wikipedia.org/wiki/Selective_serotonin_reuptake_inhibitor"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "unknown",
+                "qid": "Q24238356"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "Q40814960",
+                "qid": "Q40814960"
+            }
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Gardasil",
+    "qid": "Q2643555",
+    "icd_10": "C52",
+    "description": "HPV vaccine",
+    "aliases": [
+        "Gardisil",
+        "Human Papillomavirus Recombinant Vaccine Quadrivalent, Types 6, 11, 16, 18",
+        "recombinant human papillomavirus vaccine [types 6, 11, 16, 18],",
+        "Silgard"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gardasil%20vaccine%20and%20box%20new.jpg",
+    "url": "https://en.wikipedia.org/wiki/Gardasil",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "HPV vaccine",
+                "qid": "Q900189",
+                "url": "https://en.wikipedia.org/wiki/HPV_vaccine"
+            }
+        ]
+    }
+}

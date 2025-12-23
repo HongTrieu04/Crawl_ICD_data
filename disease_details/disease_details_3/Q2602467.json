@@ -1,0 +1,88 @@
+{
+    "name": "cerebrotendinous xanthomatosis",
+    "qid": "Q2602467",
+    "icd_10": "E75.5",
+    "description": "autosomal recessive form of xanthomatosis.",
+    "aliases": [
+        "CTX",
+        "Cerebral Cholesterinosis",
+        "CEREBROTENDINOUS XANTHOMATOSIS",
+        "CEREBROTENDINOUS XANTHOMATOSIS; CTX",
+        "Cholestanol storage disease",
+        "Cholestanol storage disease (disorder)",
+        "Sterol 27-hydroxylase deficiency",
+        "Van Bogaert–Scherer–Epstein syndrome",
+        "Xanthomatosis, Cerebrotendinous"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Cerebrotendinous_xanthomatosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "neurometabolic disease",
+                "qid": "Q1337418"
+            },
+            {
+                "name": "xanthomatosis",
+                "qid": "Q4021721"
+            },
+            {
+                "name": "cerebral lipidosis",
+                "qid": "Q18553924"
+            },
+            {
+                "name": "autosomal recessive metabolic cerebellar ataxia",
+                "qid": "Q55346092"
+            },
+            {
+                "name": "developmental anomaly of metabolic origin",
+                "qid": "Q55785399"
+            },
+            {
+                "name": "bile acid synthesis defect with cholestasis and malabsorption",
+                "qid": "Q55785570"
+            },
+            {
+                "name": "syndromic dyslipidemia",
+                "qid": "Q55785804"
+            },
+            {
+                "name": "rare genetic subcutaneous tissue disorder",
+                "qid": "Q55785836"
+            },
+            {
+                "name": "rare hereditary metabolic disease with peripheral neuropathy",
+                "qid": "Q55785954"
+            },
+            {
+                "name": "sterol metabolism disorder with epilepsy",
+                "qid": "Q55786200"
+            },
+            {
+                "name": "subcutaneous tissue disease",
+                "qid": "Q55788601"
+            },
+            {
+                "name": "metabolic disease with cataract",
+                "qid": "Q55789275"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            },
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name": "bursa syphilis",
+    "qid": "Q19001068",
+    "icd_10": "M73.1",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete bursa syphilis",
+        "Syphilis of synovium, tendon or bursa (disorder)",
+        "Syphilis of synovium, tendon or bursa NOS (disorder)",
+        "Syphilis of synovium, tendon, and bursa"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "bursitis",
+                "qid": "Q645363",
+                "url": "https://en.wikipedia.org/wiki/Bursitis"
+            },
+            {
+                "name": "syphilis",
+                "qid": "Q41083",
+                "url": "https://en.wikipedia.org/wiki/Syphilis"
+            }
+        ]
+    }
+}

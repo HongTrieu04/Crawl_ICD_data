@@ -1,0 +1,28 @@
+{
+    "name": "premature thelarche",
+    "qid": "Q26815924",
+    "icd_10": "E30.8",
+    "description": "term",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Premature_thelarche",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gynaecology",
+                "qid": "Q1221899",
+                "url": "https://en.wikipedia.org/wiki/Gynaecology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disorder of puberty",
+                "qid": "Q51619888"
+            },
+            {
+                "name": "precocious puberty in female",
+                "qid": "Q55788177"
+            }
+        ]
+    }
+}

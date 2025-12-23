@@ -1,0 +1,43 @@
+{
+    "name": "mitral valve stenosis",
+    "qid": "Q1140794",
+    "icd_10": "I34.2",
+    "description": "mitral valve disease that is characterized by the narrowing of the orifice of the mitral valve of the heart",
+    "aliases": [
+        "Mitral stenosis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mitral%20stenosis%2C%20gross%20pathology%2020G0015%20lores.jpg",
+    "url": "https://en.wikipedia.org/wiki/Mitral_stenosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "heart valve stenosis",
+                "qid": "Q123482454",
+                "url": "https://en.wikipedia.org/wiki/Heart_valve_stenosis"
+            },
+            {
+                "name": "mitral valve disease",
+                "qid": "Q18557136"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "mitral valve",
+                "qid": "Q369939",
+                "url": "https://en.wikipedia.org/wiki/Mitral_valve"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

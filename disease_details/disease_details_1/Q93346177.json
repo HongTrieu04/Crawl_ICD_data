@@ -1,0 +1,55 @@
+{
+    "name": "steroid myopathy",
+    "qid": "Q93346177",
+    "icd_10": "G72.0",
+    "description": "muscle weakness caused by glucocorticoids (either medication or Cushing's syndrome)",
+    "aliases": [
+        "glucocorticoid induced muscle weakness",
+        "glucocorticoid induced myopathy",
+        "glucocorticoid myopathy",
+        "glucocorticoid-induced myopathy",
+        "steroid induced myopathy",
+        "steroid muscle weakness",
+        "steroid-induced muscle weakness",
+        "steroid-induced myopathy"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "muscular disease",
+                "qid": "Q692536",
+                "url": "https://en.wikipedia.org/wiki/Myopathy"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "physiotherapy",
+                "qid": "Q186005",
+                "url": "https://en.wikipedia.org/wiki/Physical_therapy"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "muscle weakness",
+                "qid": "Q270421",
+                "url": "https://en.wikipedia.org/wiki/Muscle_weakness"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "glucocorticoid",
+                "qid": "Q422549",
+                "url": "https://en.wikipedia.org/wiki/Glucocorticoid"
+            }
+        ]
+    }
+}

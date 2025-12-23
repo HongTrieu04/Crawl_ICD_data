@@ -1,0 +1,171 @@
+{
+    "name": "Enterovirus infectious disease",
+    "qid": "Q19000403",
+    "icd_10": "B34.1",
+    "description": "Human disease",
+    "aliases": [
+        "disease caused by enterovirus",
+        "disease due to enterovirus",
+        "enteroviral infection",
+        "Enteroviral Infections",
+        "Enterovirus Infection",
+        "Enterovirus infections",
+        "Infection, Enterovirus",
+        "Infections, Enterovirus"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Symptoms": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            },
+            {
+                "name": "diarrhea",
+                "qid": "Q40878",
+                "url": "https://en.wikipedia.org/wiki/Diarrhea"
+            },
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "rash",
+                "qid": "Q653197",
+                "url": "https://en.wikipedia.org/wiki/Rash"
+            },
+            {
+                "name": "stomatitis",
+                "qid": "Q911386",
+                "url": "https://en.wikipedia.org/wiki/Stomatitis"
+            },
+            {
+                "name": "spasm",
+                "qid": "Q574360",
+                "url": "https://en.wikipedia.org/wiki/Spasm"
+            },
+            {
+                "name": "myalgia",
+                "qid": "Q474959",
+                "url": "https://en.wikipedia.org/wiki/Myalgia"
+            },
+            {
+                "name": "somnolence",
+                "qid": "Q1077823",
+                "url": "https://en.wikipedia.org/wiki/Somnolence"
+            },
+            {
+                "name": "paresis",
+                "qid": "Q1126769",
+                "url": "https://en.wikipedia.org/wiki/Paresis"
+            },
+            {
+                "name": "paralysis",
+                "qid": "Q107231",
+                "url": "https://en.wikipedia.org/wiki/Paralysis"
+            },
+            {
+                "name": "conjunctivitis",
+                "qid": "Q167844",
+                "url": "https://en.wikipedia.org/wiki/Conjunctivitis"
+            },
+            {
+                "name": "aphthous stomatitis",
+                "qid": "Q189956",
+                "url": "https://en.wikipedia.org/wiki/Aphthous_stomatitis"
+            },
+            {
+                "name": "laryngitis",
+                "qid": "Q1194557",
+                "url": "https://en.wikipedia.org/wiki/Laryngitis"
+            },
+            {
+                "name": "sore throat",
+                "qid": "Q1292082",
+                "url": "https://en.wikipedia.org/wiki/Sore_throat"
+            },
+            {
+                "name": "pharyngitis",
+                "qid": "Q2085267",
+                "url": "https://en.wikipedia.org/wiki/Pharyngitis"
+            },
+            {
+                "name": "erosion",
+                "qid": "Q991153"
+            },
+            {
+                "name": "meningism signs",
+                "qid": "Q12122651"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            },
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            },
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            },
+            {
+                "name": "pediatrics",
+                "qid": "Q123028",
+                "url": "https://en.wikipedia.org/wiki/Pediatrics"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Enterovirus",
+                "qid": "Q519796",
+                "url": "https://en.wikipedia.org/wiki/Enterovirus"
+            },
+            {
+                "name": "Coxsackievirus",
+                "qid": "Q1138287",
+                "url": "https://en.wikipedia.org/wiki/Coxsackievirus"
+            },
+            {
+                "name": "echovirus",
+                "qid": "Q2271197",
+                "url": "https://en.wikipedia.org/wiki/Echovirus"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "symptomatic treatment",
+                "qid": "Q621558",
+                "url": "https://en.wikipedia.org/wiki/Symptomatic_treatment"
+            },
+            {
+                "name": "diet",
+                "qid": "Q474191",
+                "url": "https://en.wikipedia.org/wiki/Diet_(nutrition)"
+            },
+            {
+                "name": "intravenous fluid replacement",
+                "qid": "Q24885926"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "viral infectious disease",
+                "qid": "Q1928978",
+                "url": "https://en.wikipedia.org/wiki/Viral_disease"
+            },
+            {
+                "name": "Picornaviridae infectious disease",
+                "qid": "Q18975569"
+            }
+        ]
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "name": "erectile dysfunction",
+    "qid": "Q184674",
+    "icd_10": "N48.4",
+    "description": "form of sexual dysfunction in males",
+    "aliases": [
+        "impotence",
+        "ED",
+        "Dysfunction, Erectile",
+        "Erectile Dysfunction",
+        "Erectile Dysfunction; ED",
+        "Impotence, Male",
+        "Impotence, Male Sexual",
+        "Male Impotence",
+        "Male Sexual Impotence",
+        "Sexual impotence",
+        "Sexual impotence (finding)",
+        "Sexual Impotence, Male"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Erectile%20dysfunction.jpg",
+    "url": "https://en.wikipedia.org/wiki/Erectile_dysfunction",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "psychology",
+                "qid": "Q9418",
+                "url": "https://en.wikipedia.org/wiki/Psychology"
+            },
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            },
+            {
+                "name": "sexology",
+                "qid": "Q170912",
+                "url": "https://en.wikipedia.org/wiki/Sexology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "sexual dysfunction",
+                "qid": "Q1137463",
+                "url": "https://en.wikipedia.org/wiki/Sexual_dysfunction"
+            },
+            {
+                "name": "reproductive system symptom",
+                "qid": "Q102186786"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "sildenafil",
+                "qid": "Q191521",
+                "url": "https://en.wikipedia.org/wiki/Sildenafil"
+            },
+            {
+                "name": "papaverine",
+                "qid": "Q410374",
+                "url": "https://en.wikipedia.org/wiki/Papaverine"
+            },
+            {
+                "name": "yohimbine",
+                "qid": "Q412226",
+                "url": "https://en.wikipedia.org/wiki/Yohimbine"
+            },
+            {
+                "name": "methyltestosterone",
+                "qid": "Q421768",
+                "url": "https://en.wikipedia.org/wiki/Methyltestosterone"
+            },
+            {
+                "name": "tadalafil",
+                "qid": "Q424156",
+                "url": "https://en.wikipedia.org/wiki/Tadalafil"
+            },
+            {
+                "name": "vardenafil",
+                "qid": "Q424161",
+                "url": "https://en.wikipedia.org/wiki/Vardenafil"
+            },
+            {
+                "name": "ginseng",
+                "qid": "Q20817212",
+                "url": "https://en.wikipedia.org/wiki/Ginseng"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "psychotherapy",
+                "qid": "Q183257",
+                "url": "https://en.wikipedia.org/wiki/Psychotherapy"
+            }
+        ]
+    }
+}

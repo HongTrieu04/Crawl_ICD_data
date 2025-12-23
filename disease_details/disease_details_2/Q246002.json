@@ -1,0 +1,45 @@
+{
+    "name": "polycystic liver disease",
+    "qid": "Q246002",
+    "icd_10": "Q44.6",
+    "description": "human disease",
+    "aliases": [
+        "(Congenital cystic liver disease) or (congenital hepatic cyst)",
+        "Congenital cystic disease of liver",
+        "Congenital cystic disease of liver (disorder)",
+        "congenital cystic liver disease",
+        "Congenital cystic liver disease (disorder)",
+        "Congenital cystic liver disease NOS (disorder)",
+        "congenital hepatic cyst",
+        "Fibrocystic disease of liver",
+        "Fibrocystic liver disease"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Von%20Meyenburg%20complex%20low%20mag.jpg",
+    "url": "https://en.wikipedia.org/wiki/Polycystic_liver_disease",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "liver disease",
+                "qid": "Q929737",
+                "url": "https://en.wikipedia.org/wiki/Liver_disease"
+            },
+            {
+                "name": "autosomal dominant disease",
+                "qid": "Q18553439"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "hepatic cyst",
+                "qid": "Q1811141"
+            }
+        ]
+    }
+}

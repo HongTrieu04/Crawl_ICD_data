@@ -1,0 +1,43 @@
+{
+    "name": "intraductal carcinoma of the breast",
+    "qid": "Q337585",
+    "icd_10": "D05.1",
+    "description": "Human disease",
+    "aliases": [
+        "DCIS",
+        "ductal carcinoma in situ"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Breast%20DCIS%20histopathology%20%281%29.jpg",
+    "url": "https://en.wikipedia.org/wiki/Ductal_carcinoma_in_situ",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "breast ductal carcinoma",
+                "qid": "Q3658404"
+            },
+            {
+                "name": "breast carcinoma in situ",
+                "qid": "Q18558015"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "Asymptomatic",
+                "qid": "Q1707292",
+                "url": "https://en.wikipedia.org/wiki/Asymptomatic"
+            }
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "name": "pentasomy X",
+    "qid": "Q2102705",
+    "icd_10": "Q97.1",
+    "description": "sex chromosome aneuploidy where a female has three additional X chromosomes",
+    "aliases": [
+        "49, XXXXX syndrome",
+        "49,XXXXX syndrome",
+        "penta X syndrome",
+        "penta-X",
+        "pentasomy type X",
+        "poly-X",
+        "XXXXX syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pentasomy_X",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "sex chromosome disorder",
+                "qid": "Q7458487",
+                "url": "https://en.wikipedia.org/wiki/Sex_chromosome_anomalies"
+            },
+            {
+                "name": "polysomy of X chromosome",
+                "qid": "Q55786716"
+            }
+        ]
+    }
+}

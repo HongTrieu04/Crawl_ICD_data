@@ -1,0 +1,27 @@
+{
+    "name": "homonymous hemianopsia",
+    "qid": "Q2624988",
+    "icd_10": "H53.46",
+    "description": null,
+    "aliases": [
+        "homonymous hemianopia"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paris%20as%20seen%20with%20left%20homonymous%20hemianopsia.png",
+    "url": "https://en.wikipedia.org/wiki/Homonymous_hemianopsia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "hemianopia",
+                "qid": "Q363342",
+                "url": "https://en.wikipedia.org/wiki/Hemianopsia"
+            }
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "name": "pericarditis",
+    "qid": "Q501561",
+    "icd_10": "I32",
+    "description": "pericardium disease that is characterized by an inflammation of the pericardium and has symptom chest pain",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pericarditis10.JPG",
+    "url": "https://en.wikipedia.org/wiki/Pericarditis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "inflammation",
+                "qid": "Q101991",
+                "url": "https://en.wikipedia.org/wiki/Inflammation"
+            },
+            {
+                "name": "heart disease",
+                "qid": "Q190805",
+                "url": "https://en.wikipedia.org/wiki/Heart_disease"
+            },
+            {
+                "name": "inflammatory disease",
+                "qid": "Q3508753"
+            },
+            {
+                "name": "pericardium disease",
+                "qid": "Q18553502"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "inflammation",
+                "qid": "Q101991",
+                "url": "https://en.wikipedia.org/wiki/Inflammation"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "anakinra",
+                "qid": "Q415411",
+                "url": "https://en.wikipedia.org/wiki/Anakinra"
+            },
+            {
+                "name": "(S)-(−)-colchicine",
+                "qid": "Q326224",
+                "url": "https://en.wikipedia.org/wiki/Colchicine"
+            }
+        ]
+    }
+}

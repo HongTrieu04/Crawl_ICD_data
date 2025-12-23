@@ -1,0 +1,167 @@
+{
+    "name": "urticaria",
+    "qid": "Q187440",
+    "icd_10": "L50",
+    "description": "skin disease characterized by skin rash notable for pale red, raised and itchy bumps, located in the upper dermis",
+    "aliases": [
+        "hives",
+        "nettlerash",
+        "rare hives",
+        "rare urticaria",
+        "rare urticaria (disease)",
+        "Urticarias"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rash.jpg",
+    "url": "https://en.wikipedia.org/wiki/Hives",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "skin disease",
+                "qid": "Q949302",
+                "url": "https://en.wikipedia.org/wiki/Skin_condition"
+            },
+            {
+                "name": "skin and integumentary tissue symptom",
+                "qid": "Q100751718"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            },
+            {
+                "name": "allergology",
+                "qid": "Q1046686",
+                "url": "https://en.wikipedia.org/wiki/Allergology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "acrivastine",
+                "qid": "Q342745",
+                "url": "https://en.wikipedia.org/wiki/Acrivastine"
+            },
+            {
+                "name": "cimetidine",
+                "qid": "Q409492",
+                "url": "https://en.wikipedia.org/wiki/Cimetidine"
+            },
+            {
+                "name": "famotidine",
+                "qid": "Q411159",
+                "url": "https://en.wikipedia.org/wiki/Famotidine"
+            },
+            {
+                "name": "fexofenadine",
+                "qid": "Q415122",
+                "url": "https://en.wikipedia.org/wiki/Fexofenadine"
+            },
+            {
+                "name": "tripelennamine",
+                "qid": "Q415203",
+                "url": "https://en.wikipedia.org/wiki/Tripelennamine"
+            },
+            {
+                "name": "omalizumab",
+                "qid": "Q415392",
+                "url": "https://en.wikipedia.org/wiki/Omalizumab"
+            },
+            {
+                "name": "montelukast",
+                "qid": "Q417767",
+                "url": "https://en.wikipedia.org/wiki/Montelukast"
+            },
+            {
+                "name": "cyproheptadine",
+                "qid": "Q417884",
+                "url": "https://en.wikipedia.org/wiki/Cyproheptadine"
+            },
+            {
+                "name": "cetirizine",
+                "qid": "Q423075",
+                "url": "https://en.wikipedia.org/wiki/Cetirizine"
+            },
+            {
+                "name": "astemizole",
+                "qid": "Q423437",
+                "url": "https://en.wikipedia.org/wiki/Astemizole"
+            },
+            {
+                "name": "loratadine",
+                "qid": "Q424049",
+                "url": "https://en.wikipedia.org/wiki/Loratadine"
+            },
+            {
+                "name": "desloratadine",
+                "qid": "Q418060",
+                "url": "https://en.wikipedia.org/wiki/Desloratadine"
+            },
+            {
+                "name": "clemastine",
+                "qid": "Q418145",
+                "url": "https://en.wikipedia.org/wiki/Clemastine"
+            },
+            {
+                "name": "chlorpheniramine",
+                "qid": "Q420133",
+                "url": "https://en.wikipedia.org/wiki/Chlorphenamine"
+            },
+            {
+                "name": "levocetirizine",
+                "qid": "Q421091",
+                "url": "https://en.wikipedia.org/wiki/Levocetirizine"
+            },
+            {
+                "name": "azatadine",
+                "qid": "Q599160",
+                "url": "https://en.wikipedia.org/wiki/Azatadine"
+            },
+            {
+                "name": "pheniramine",
+                "qid": "Q656259",
+                "url": "https://en.wikipedia.org/wiki/Pheniramine"
+            },
+            {
+                "name": "nizatidine",
+                "qid": "Q1188290",
+                "url": "https://en.wikipedia.org/wiki/Nizatidine"
+            },
+            {
+                "name": "trimeprazine",
+                "qid": "Q2623251",
+                "url": "https://en.wikipedia.org/wiki/Alimemazine"
+            },
+            {
+                "name": "bromodiphenhydramine",
+                "qid": "Q4926102",
+                "url": "https://en.wikipedia.org/wiki/Bromazine"
+            },
+            {
+                "name": "phenindamine",
+                "qid": "Q6583284",
+                "url": "https://en.wikipedia.org/wiki/Phenindamine"
+            },
+            {
+                "name": "methdilazine",
+                "qid": "Q6665709",
+                "url": "https://en.wikipedia.org/wiki/Methdilazine"
+            },
+            {
+                "name": "phenyltoloxamine",
+                "qid": "Q7181443",
+                "url": "https://en.wikipedia.org/wiki/Phenyltoloxamine"
+            },
+            {
+                "name": "cyproheptadine hydrochloride",
+                "qid": "Q27126856"
+            }
+        ]
+    }
+}

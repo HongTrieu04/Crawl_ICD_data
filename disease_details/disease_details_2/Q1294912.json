@@ -1,0 +1,40 @@
+{
+    "name": "endophthalmitis",
+    "qid": "Q1294912",
+    "icd_10": "H44.1",
+    "description": "globe disease that is characterized by inflammation of the inside of the eye",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Endophthalmitis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "eye inflammation",
+                "qid": "Q2971524"
+            },
+            {
+                "name": "globe disease",
+                "qid": "Q18554319"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "inflammation",
+                "qid": "Q101991",
+                "url": "https://en.wikipedia.org/wiki/Inflammation"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            }
+        ]
+    }
+}

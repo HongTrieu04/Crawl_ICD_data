@@ -1,0 +1,34 @@
+{
+    "name": "simple-type schizophrenia",
+    "qid": "Q2855814",
+    "icd_10": "F20.6",
+    "description": "type of schizophrenia",
+    "aliases": [
+        "dementia simplex",
+        "obsolete schizophrenia simplex",
+        "schizophrenia simplex",
+        "schizophrenia, simple type",
+        "simple deteriorative disorder",
+        "simple schizophrenia",
+        "simple type schizophrenia",
+        "simple type schizophrenia, unspecified state"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Simple-type_schizophrenia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "schizophrenia",
+                "qid": "Q41112",
+                "url": "https://en.wikipedia.org/wiki/Schizophrenia"
+            }
+        ]
+    }
+}

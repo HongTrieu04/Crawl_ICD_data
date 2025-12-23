@@ -1,0 +1,24 @@
+{
+    "name": "ulcerative proctitis",
+    "qid": "Q19001224",
+    "icd_10": "K51.2",
+    "description": "Human disease",
+    "aliases": [
+        "chronic ulcerative proctitis",
+        "chronic ulcerative proctitis (disorder)",
+        "Nonspecific ulcerative proctitis (disorder)",
+        "obsolete ulcerative proctitis",
+        "ulcerative (chronic) proctitis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "proctitis",
+                "qid": "Q941770",
+                "url": "https://en.wikipedia.org/wiki/Proctitis"
+            }
+        ]
+    }
+}

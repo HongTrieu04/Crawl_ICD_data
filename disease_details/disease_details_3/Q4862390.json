@@ -1,0 +1,70 @@
+{
+    "name": "brain ischemia",
+    "qid": "Q4862390",
+    "icd_10": "G45.9",
+    "description": "insufficient blood flow to the brain",
+    "aliases": [
+        "brain ischemic disease",
+        "cerebral ischemia",
+        "cerebrovascular ischemia",
+        "Ischaemic encephalopathy",
+        "Ischemia cerebrovascular",
+        "Ischemic encephalopathy",
+        "Ischemic encephalopathy (disorder)"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Brain_ischemia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            },
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "stroke",
+                "qid": "Q12202",
+                "url": "https://en.wikipedia.org/wiki/Stroke"
+            },
+            {
+                "name": "ischemia",
+                "qid": "Q188151",
+                "url": "https://en.wikipedia.org/wiki/Ischemia"
+            },
+            {
+                "name": "cerebrovascular disease",
+                "qid": "Q3010352",
+                "url": "https://en.wikipedia.org/wiki/Cerebrovascular_disease"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "papaverine",
+                "qid": "Q410374",
+                "url": "https://en.wikipedia.org/wiki/Papaverine"
+            },
+            {
+                "name": "pentoxifylline",
+                "qid": "Q416331",
+                "url": "https://en.wikipedia.org/wiki/Pentoxifylline"
+            },
+            {
+                "name": "etomidate",
+                "qid": "Q418445",
+                "url": "https://en.wikipedia.org/wiki/Etomidate"
+            }
+        ]
+    }
+}

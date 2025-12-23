@@ -1,0 +1,18 @@
+{
+    "name": "organic or symptomatic mental disorder",
+    "qid": "Q10687207",
+    "icd_10": "F09",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "mental disorder",
+                "qid": "Q12135",
+                "url": "https://en.wikipedia.org/wiki/Mental_disorder"
+            }
+        ]
+    }
+}

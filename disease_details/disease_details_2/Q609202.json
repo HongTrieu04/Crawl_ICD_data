@@ -1,0 +1,25 @@
+{
+    "name": "renal colic",
+    "qid": "Q609202",
+    "icd_10": "N23",
+    "description": "symptom",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pos-renal.png",
+    "url": "https://en.wikipedia.org/wiki/Renal_colic",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "colic",
+                "qid": "Q13121526",
+                "url": "https://en.wikipedia.org/wiki/Colic"
+            }
+        ]
+    }
+}

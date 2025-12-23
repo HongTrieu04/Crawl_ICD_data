@@ -1,0 +1,32 @@
+{
+    "name": "Injury of axillary nerve",
+    "qid": "Q17130620",
+    "icd_10": "S44.3",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Injury_of_axillary_nerve",
+    "details": {
+        "Anatomical location": [
+            {
+                "name": "axillary nerve",
+                "qid": "Q1547173",
+                "url": "https://en.wikipedia.org/wiki/Axillary_nerve"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "nerve injury",
+                "qid": "Q2945973",
+                "url": "https://en.wikipedia.org/wiki/Nerve_injury"
+            }
+        ]
+    }
+}

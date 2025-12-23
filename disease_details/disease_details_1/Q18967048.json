@@ -1,0 +1,24 @@
+{
+    "name": "Yersinia enterocolitica intestinal infectious disease",
+    "qid": "Q18967048",
+    "icd_10": "A04.6",
+    "description": "Human disease",
+    "aliases": [
+        "Enteritis due to Yersinia enterocolitica",
+        "Infection by Yersinia enterocolitica (disorder)",
+        "infectious disease by Yersinia enterocolitica",
+        "intestinal infection due to yersinia enterocolitica",
+        "obsolete Yersinia enterocolitica intestinal infectious disease",
+        "Yersinia enterocolitis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "Yersinia enterocolitica yersiniosis",
+                "qid": "Q2600153"
+            }
+        ]
+    }
+}

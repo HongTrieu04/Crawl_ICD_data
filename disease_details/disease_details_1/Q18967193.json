@@ -1,0 +1,20 @@
+{
+    "name": "Conjunctival vascular disorder and cysts",
+    "qid": "Q18967193",
+    "icd_10": "H11.4",
+    "description": "Human disease",
+    "aliases": [
+        "Conjunctival vascular disorder and cysts (disorder)",
+        "obsolete Conjunctival vascular disorder and cysts"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "conjunctival disease",
+                "qid": "Q18556249"
+            }
+        ]
+    }
+}

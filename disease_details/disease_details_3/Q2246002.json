@@ -1,0 +1,31 @@
+{
+    "name": "branchial cleft cyst",
+    "qid": "Q2246002",
+    "icd_10": "Q18.0",
+    "description": "tumor derived from branchial epithelium or branchial rests",
+    "aliases": [
+        "branchioma"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Branchial_cleft_cyst",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "Cutaneous columnar cyst",
+                "qid": "Q16928189",
+                "url": "https://en.wikipedia.org/wiki/Cutaneous_columnar_cyst"
+            },
+            {
+                "name": "branchial cleft anomalies",
+                "qid": "Q16034034"
+            }
+        ]
+    }
+}

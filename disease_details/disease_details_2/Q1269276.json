@@ -1,0 +1,41 @@
+{
+    "name": "pompholyx",
+    "qid": "Q1269276",
+    "icd_10": "L30.1",
+    "description": "Human disease",
+    "aliases": [
+        "Pompholyx",
+        "Cheiropompholyx",
+        "dyshidrosis",
+        "Dyshidrosis (disorder)",
+        "Dyshidrosis NOS (disorder)",
+        "Dyshidrosis unspecified (disorder)",
+        "DYSHYDROSIS",
+        "DYSHYDROTIC ECZEMA",
+        "Pompholyx unspecified (disorder)",
+        "Vesicular eczema of hands and/or feet",
+        "Vesicular eczema of hands and/or feet (disorder)"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dyshidrosis.JPG",
+    "url": "https://en.wikipedia.org/wiki/Dyshidrosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "sweat gland disease",
+                "qid": "Q18554617"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ]
+    }
+}

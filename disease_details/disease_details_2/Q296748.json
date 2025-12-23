@@ -1,0 +1,17 @@
+{
+    "name": "irritant contact dermatitis due to oils and greases",
+    "qid": "Q296748",
+    "icd_10": "L24.1",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "acne venenata",
+                "qid": "Q342002"
+            }
+        ]
+    }
+}

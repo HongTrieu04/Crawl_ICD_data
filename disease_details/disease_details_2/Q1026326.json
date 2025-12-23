@@ -1,0 +1,40 @@
+{
+    "name": "calciphylaxis",
+    "qid": "Q1026326",
+    "icd_10": "E83.59",
+    "description": "Human disease",
+    "aliases": [
+        "calcific uremic arteriolopathy",
+        "Calciphylaxis (disorder)",
+        "CUA",
+        "Idiopathic calciphylaxis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Calciphylaxis.png",
+    "url": "https://en.wikipedia.org/wiki/Calciphylaxis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "systemic disease",
+                "qid": "Q1414805",
+                "url": "https://en.wikipedia.org/wiki/Systemic_disease"
+            },
+            {
+                "name": "calcinosis",
+                "qid": "Q239027",
+                "url": "https://en.wikipedia.org/wiki/Calcinosis"
+            },
+            {
+                "name": "vascular disease",
+                "qid": "Q1266890",
+                "url": "https://en.wikipedia.org/wiki/Vascular_disease"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "nephrology",
+                "qid": "Q177635",
+                "url": "https://en.wikipedia.org/wiki/Nephrology"
+            }
+        ]
+    }
+}

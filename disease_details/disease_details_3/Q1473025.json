@@ -1,0 +1,45 @@
+{
+    "name": "magnesium deficiency",
+    "qid": "Q1473025",
+    "icd_10": "E61.2",
+    "description": "human disease",
+    "aliases": [
+        "hypomagnesia",
+        "Magnesium deficiency",
+        "magnesium deficiency disorder",
+        "obsolete magnesium deficiency"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "mineral deficiency",
+                "qid": "Q16944888",
+                "url": "https://en.wikipedia.org/wiki/Mineral_deficiency"
+            },
+            {
+                "name": "nutritional deficiency disease",
+                "qid": "Q1890194"
+            },
+            {
+                "name": "disorder of magnesium metabolism",
+                "qid": "Q18966986"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "hypomagnesemia",
+                "qid": "Q3771629",
+                "url": "https://en.wikipedia.org/wiki/Magnesium_deficiency"
+            }
+        ]
+    }
+}

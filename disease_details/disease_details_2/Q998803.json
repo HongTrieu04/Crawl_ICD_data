@@ -1,0 +1,30 @@
+{
+    "name": "tumor lysis syndrome",
+    "qid": "Q998803",
+    "icd_10": "E88.3",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Tumor_lysis_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            },
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "lymphoproliferative disorders",
+                "qid": "Q4165484",
+                "url": "https://en.wikipedia.org/wiki/Lymphoproliferative_disorders"
+            }
+        ]
+    }
+}

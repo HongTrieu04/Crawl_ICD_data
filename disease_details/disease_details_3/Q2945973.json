@@ -1,0 +1,45 @@
+{
+    "name": "nerve injury",
+    "qid": "Q2945973",
+    "icd_10": "T14.4",
+    "description": "damage to a nerve",
+    "aliases": [
+        "nerve damage",
+        "peripheral nerve injury"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Neuropraxia.jpg",
+    "url": "https://en.wikipedia.org/wiki/Nerve_injury",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            },
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "peripheral neuropathy",
+                "qid": "Q945238",
+                "url": "https://en.wikipedia.org/wiki/Peripheral_neuropathy"
+            },
+            {
+                "name": "major trauma",
+                "qid": "Q1064904",
+                "url": "https://en.wikipedia.org/wiki/Major_trauma"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "hypoesthesia",
+                "qid": "Q1641556",
+                "url": "https://en.wikipedia.org/wiki/Hypoesthesia"
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "name": "receptive aphasia",
+    "qid": "Q1741331",
+    "icd_10": "F80.2",
+    "description": "type of aphasia",
+    "aliases": [
+        "fluent aphasia",
+        "posterior aphasia",
+        "sensory aphasia",
+        "Wernicke’s aphasia"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brain%20-%20Broca%27s%20and%20Wernicke%27s%20area%20Diagram.svg",
+    "url": "https://en.wikipedia.org/wiki/Receptive_aphasia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "acute aphasia",
+                "qid": "Q15636221"
+            },
+            {
+                "name": "inability to comprehend speech",
+                "qid": "Q102187162"
+            }
+        ]
+    }
+}

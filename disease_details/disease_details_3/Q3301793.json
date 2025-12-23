@@ -1,0 +1,30 @@
+{
+    "name": "hydrocele testis",
+    "qid": "Q3301793",
+    "icd_10": "N43.3",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hydrocele_testis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "testicular disease",
+                "qid": "Q7705854",
+                "url": "https://en.wikipedia.org/wiki/Testicular_disease"
+            },
+            {
+                "name": "hydrocele",
+                "qid": "Q584211",
+                "url": "https://en.wikipedia.org/wiki/Hydrocele"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            }
+        ]
+    }
+}

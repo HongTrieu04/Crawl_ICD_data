@@ -1,0 +1,53 @@
+{
+    "name": "X-linked retinoschisis",
+    "qid": "Q3458131",
+    "icd_10": "Q14.1",
+    "description": "X-linked retinoschisis (XLRS) is a genetic ocular disease that is characterized by reduced visual acuity in males due to juvenile macular degeneration",
+    "aliases": [
+        "Rs",
+        "RS1",
+        "Xlrs1",
+        "juvenile X-linked retinoschisis",
+        "RETINOSCHISIS 1, X-LINKED, JUVENILE",
+        "RETINOSCHISIS 1, X-LINKED, JUVENILE; RS1",
+        "X-linked juvenile retinoschisis",
+        "X-linked juvenile retinoschisis 1",
+        "X-linked juvenile retinoschisis type 1",
+        "XLRS"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "retinoschisis",
+                "qid": "Q1049881",
+                "url": "https://en.wikipedia.org/wiki/Retinoschisis"
+            },
+            {
+                "name": "X-linked recessive disease",
+                "qid": "Q55010090",
+                "url": "https://en.wikipedia.org/wiki/X-linked_recessive_disorder"
+            },
+            {
+                "name": "vitreoretinal degeneration",
+                "qid": "Q55346101"
+            },
+            {
+                "name": "non-syndromic developmental defect of the eye",
+                "qid": "Q55785335"
+            },
+            {
+                "name": "unclassified primitive or secondary maculopathy",
+                "qid": "Q55789241"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

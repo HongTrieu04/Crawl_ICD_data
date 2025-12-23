@@ -1,0 +1,25 @@
+{
+    "name": "dysesthesia",
+    "qid": "Q1269376",
+    "icd_10": "R20.8",
+    "description": "unpleasant, abnormal sense of touch",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Dysesthesia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "somatosensory disorder",
+                "qid": "Q1641015",
+                "url": "https://en.wikipedia.org/wiki/Somatosensory_disorder"
+            }
+        ]
+    }
+}

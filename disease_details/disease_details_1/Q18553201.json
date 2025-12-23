@@ -1,0 +1,30 @@
+{
+    "name": "pestis minor",
+    "qid": "Q18553201",
+    "icd_10": "A20.8",
+    "description": "bubonic plague that results in a benign form of bubonic plague, has symptom fever, has symptom lymphadenitis, has symptom headache and has symptom prostration",
+    "aliases": [
+        "abortive plague",
+        "ambulatory plague",
+        "larval plague",
+        "obsolete pestis minor"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "plague",
+                "qid": "Q133780",
+                "url": "https://en.wikipedia.org/wiki/Plague_(disease)"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

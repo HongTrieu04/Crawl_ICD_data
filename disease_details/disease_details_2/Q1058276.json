@@ -1,0 +1,32 @@
+{
+    "name": "atheroma",
+    "qid": "Q1058276",
+    "icd_10": "I70.9",
+    "description": "accumulation of degenerative material in the inner layer of artery walls",
+    "aliases": [
+        "atherosclerotic plaque",
+        "Plaque, Atherosclerotic"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Atheroma.jpg",
+    "url": "https://en.wikipedia.org/wiki/Atheroma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "arteriosclerosis",
+                "qid": "Q184559",
+                "url": "https://en.wikipedia.org/wiki/Arteriosclerosis"
+            },
+            {
+                "name": "anatomical pathological condition",
+                "qid": "Q54973585"
+            }
+        ]
+    }
+}

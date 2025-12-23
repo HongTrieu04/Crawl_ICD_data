@@ -1,0 +1,28 @@
+{
+    "name": "thyrocalcitonin secretion disease",
+    "qid": "Q18554320",
+    "icd_10": "E07.0",
+    "description": "Human disease",
+    "aliases": [
+        "disorder of thyrocalcitonin secretion",
+        "disorder of thyrocalcitonin secretion (disorder)"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "thyroid gland disease",
+                "qid": "Q6673122",
+                "url": "https://en.wikipedia.org/wiki/Thyroid_disease"
+            }
+        ]
+    }
+}

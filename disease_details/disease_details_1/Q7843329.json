@@ -1,0 +1,41 @@
+{
+    "name": "triple-A syndrome",
+    "qid": "Q7843329",
+    "icd_10": "E27.4",
+    "description": "autosomal recessive congenital disorder featuring insufficiency of tears, adrenal insufficiency, and esophageal dysfunction",
+    "aliases": [
+        "AAAS",
+        "AAA syndrome",
+        "Achalasia-Addisonianism-Alacrimia syndrome",
+        "Allgrove Syndrome",
+        "Triple A syndrome",
+        "4A syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Triple-A_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "syndrome",
+                "qid": "Q179630",
+                "url": "https://en.wikipedia.org/wiki/Syndrome"
+            },
+            {
+                "name": "adrenal insufficiency",
+                "qid": "Q2507454",
+                "url": "https://en.wikipedia.org/wiki/Adrenal_insufficiency"
+            },
+            {
+                "name": "autosomal recessive disease",
+                "qid": "Q10267817"
+            }
+        ]
+    }
+}

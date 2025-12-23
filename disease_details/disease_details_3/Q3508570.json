@@ -1,0 +1,27 @@
+{
+    "name": "MASS syndrome",
+    "qid": "Q3508570",
+    "icd_10": "Q87.5",
+    "description": "Connective tissue disorder",
+    "aliases": [
+        "MASS phenotype"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/MASS_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "Marfan syndrome",
+                "qid": "Q208562",
+                "url": "https://en.wikipedia.org/wiki/Marfan_syndrome"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

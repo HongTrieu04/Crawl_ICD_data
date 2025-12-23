@@ -1,0 +1,24 @@
+{
+    "name": "Milium",
+    "qid": "Q1934449",
+    "icd_10": "L72.0",
+    "description": "Light-coloured spots under the skin",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Milia%20big.png",
+    "url": "https://en.wikipedia.org/wiki/Milium",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "cutaneous eruption",
+                "qid": "Q8777453"
+            }
+        ]
+    }
+}

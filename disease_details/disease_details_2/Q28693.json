@@ -1,0 +1,32 @@
+{
+    "name": "miscarriage",
+    "qid": "Q28693",
+    "icd_10": "O03",
+    "description": "natural death of an embryo or fetus before it is able to survive independently",
+    "aliases": [
+        "abortion",
+        "spontaneous abortion"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Anembryonic%20gestation.jpg",
+    "url": "https://en.wikipedia.org/wiki/Miscarriage",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "midwifery",
+                "qid": "Q20862341",
+                "url": "https://en.wikipedia.org/wiki/Midwifery"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "pregnancy with abortive outcome",
+                "qid": "Q96649463",
+                "url": "https://en.wikipedia.org/wiki/Pregnancy_with_abortive_outcome"
+            },
+            {
+                "name": "reproductive system symptom",
+                "qid": "Q102186786"
+            }
+        ]
+    }
+}

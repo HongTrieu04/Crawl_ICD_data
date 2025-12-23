@@ -1,0 +1,32 @@
+{
+    "name": "bone cyst",
+    "qid": "Q826918",
+    "icd_10": "M85.6",
+    "description": "pseudocystics cavity formations of fibermixoid content in bones",
+    "aliases": [
+        "geode"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Bone_cyst",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "bone disease",
+                "qid": "Q4941552",
+                "url": "https://en.wikipedia.org/wiki/Bone_disease"
+            },
+            {
+                "name": "cyst",
+                "qid": "Q193211",
+                "url": "https://en.wikipedia.org/wiki/Cyst"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ]
+    }
+}

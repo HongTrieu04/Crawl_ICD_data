@@ -1,0 +1,41 @@
+{
+    "name": "interstitial nephritis",
+    "qid": "Q1424106",
+    "icd_10": "N12",
+    "description": "type of nephritis affecting the interstitium of the kidneys surrounding the tubules",
+    "aliases": [
+        "Nephritis, Interstitial",
+        "renal tubulo-interstitial disease",
+        "tubulo-interstitial nephritis",
+        "tubulointerstitial disease",
+        "Tubulointerstitial Nephritis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Interstitial_nephritis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "nephritis",
+                "qid": "Q401402",
+                "url": "https://en.wikipedia.org/wiki/Nephritis"
+            },
+            {
+                "name": "kidney disease",
+                "qid": "Q1054718",
+                "url": "https://en.wikipedia.org/wiki/Kidney_disease"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "nephrology",
+                "qid": "Q177635",
+                "url": "https://en.wikipedia.org/wiki/Nephrology"
+            }
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "name": "acute gonococcal prostatitis",
+    "qid": "Q18554639",
+    "icd_10": "A54.2",
+    "description": "Human disease",
+    "aliases": [
+        "acute gonococcal prostatitis (disorder)",
+        "Gonococcal prostatitis",
+        "Gonococcal prostatitis (acute)",
+        "gonococcal prostatitis, acute"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "prostatitis",
+                "qid": "Q372752",
+                "url": "https://en.wikipedia.org/wiki/Prostatitis"
+            },
+            {
+                "name": "gonococcal infectious diseases",
+                "qid": "Q26695958"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

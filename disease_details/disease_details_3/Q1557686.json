@@ -1,0 +1,29 @@
+{
+    "name": "muscle atrophy",
+    "qid": "Q1557686",
+    "icd_10": "M62.5",
+    "description": "process that is characterized by a decrease in protein content, fiber diameter, force production and fatigue resistance.",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/1025%20Atrophy.png",
+    "url": "https://en.wikipedia.org/wiki/Muscle_atrophy",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            },
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "muscle adaptation",
+                "qid": "Q22271729"
+            }
+        ]
+    }
+}

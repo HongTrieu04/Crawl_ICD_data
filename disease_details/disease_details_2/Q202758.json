@@ -1,0 +1,50 @@
+{
+    "name": "hypoglycemia",
+    "qid": "Q202758",
+    "icd_10": "E16.2",
+    "description": "low blood sugar",
+    "aliases": [
+        "hypoglycaemia"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hypoglycemia.jpg",
+    "url": "https://en.wikipedia.org/wiki/Hypoglycemia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "pancreas disease",
+                "qid": "Q7130407",
+                "url": "https://en.wikipedia.org/wiki/Pancreatic_disease"
+            },
+            {
+                "name": "glucose metabolism disease",
+                "qid": "Q18556224"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "glucose",
+                "qid": "Q37525",
+                "url": "https://en.wikipedia.org/wiki/Glucose"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "tremor",
+                "qid": "Q223907",
+                "url": "https://en.wikipedia.org/wiki/Tremor"
+            }
+        ]
+    }
+}

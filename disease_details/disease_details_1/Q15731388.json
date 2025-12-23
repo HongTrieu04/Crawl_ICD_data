@@ -1,0 +1,24 @@
+{
+    "name": "high-grade prostatic intraepithelial neoplasia",
+    "qid": "Q15731388",
+    "icd_10": "D07.5",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/High-grade_prostatic_intraepithelial_neoplasia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "prostatic intraepithelial neoplasia",
+                "qid": "Q54911767"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Zenker's diverticulum",
+    "qid": "Q189638",
+    "icd_10": "K22.5",
+    "description": "medical condition",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Zenker2.jpg",
+    "url": "https://en.wikipedia.org/wiki/Zenker%27s_diverticulum",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "esophageal diverticulum",
+                "qid": "Q298241"
+            }
+        ]
+    }
+}

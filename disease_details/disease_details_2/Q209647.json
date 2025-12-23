@@ -1,0 +1,71 @@
+{
+    "name": "delirium tremens",
+    "qid": "Q209647",
+    "icd_10": "F10.4",
+    "description": "rapid onset of confusion caused by alcohol withdrawal",
+    "aliases": [
+        "alcohol withdrawal associated autonomic hyperactivity",
+        "alcohol withdrawal delirium",
+        "alcohol withdrawal hallucinosis",
+        "alcohol withdrawal induced delirium Tremens",
+        "alcohol withdrawal-induced delirium Tremens",
+        "alcoholic delirium",
+        "barrel fever",
+        "delirium tremens,alcohol withdrawal induced",
+        "DTs",
+        "gallon distemper",
+        "hallucinosis, alcohol withdrawal",
+        "mental and behavioral disorder due to use of alcohol: withdrawal state with delirium (disorder)",
+        "obsolete alcohol withdrawal delirium",
+        "ork orks",
+        "pint paralysis",
+        "quart mania",
+        "seeing pink elephants",
+        "the 750 itch",
+        "the bottleache",
+        "the Brooklyn Boys",
+        "the horrors",
+        "the shakes",
+        "the zoots"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/An%20alcoholic%20man%20with%20delirium%20Wellcome%20L0060780%20%28level%20correction%29.jpg",
+    "url": "https://en.wikipedia.org/wiki/Delirium_tremens",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "delirium",
+                "qid": "Q160796",
+                "url": "https://en.wikipedia.org/wiki/Delirium"
+            },
+            {
+                "name": "alcoholic hallucinosis",
+                "qid": "Q1040275",
+                "url": "https://en.wikipedia.org/wiki/Alcoholic_hallucinosis"
+            },
+            {
+                "name": "alcohol withdrawal syndrome",
+                "qid": "Q2914873",
+                "url": "https://en.wikipedia.org/wiki/Alcohol_withdrawal_syndrome"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "agrypnia excitata",
+                "qid": "Q397554"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Smoking, alcohol and drugs",
+                "qid": "Q98038572"
+            }
+        ]
+    }
+}

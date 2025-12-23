@@ -1,0 +1,20 @@
+{
+    "name": "elevated transaminases",
+    "qid": "Q2448873",
+    "icd_10": "R74.0",
+    "description": "elevations of the levels of transaminases in the serum",
+    "aliases": [
+        "elevated hepatic transaminase",
+        "elevated hepatic transaminases"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Elevated_transaminases",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "liver enzyme changes",
+                "qid": "Q21117406"
+            }
+        ]
+    }
+}

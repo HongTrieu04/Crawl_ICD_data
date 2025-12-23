@@ -1,0 +1,48 @@
+{
+    "name": "dissociative fugue",
+    "qid": "Q951639",
+    "icd_10": "F44.1",
+    "description": "dissociative disorder",
+    "aliases": [
+        "fugue state",
+        "psychogenic fugue"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Dissociative_fugue",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "psychology",
+                "qid": "Q9418",
+                "url": "https://en.wikipedia.org/wiki/Psychology"
+            },
+            {
+                "name": "psychotherapy",
+                "qid": "Q183257",
+                "url": "https://en.wikipedia.org/wiki/Psychotherapy"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "amnesia",
+                "qid": "Q11072",
+                "url": "https://en.wikipedia.org/wiki/Amnesia"
+            },
+            {
+                "name": "dissociative disorder",
+                "qid": "Q2627467",
+                "url": "https://en.wikipedia.org/wiki/Dissociative_disorder"
+            },
+            {
+                "name": "memory disorder",
+                "qid": "Q3072083",
+                "url": "https://en.wikipedia.org/wiki/Memory_disorder"
+            }
+        ]
+    }
+}

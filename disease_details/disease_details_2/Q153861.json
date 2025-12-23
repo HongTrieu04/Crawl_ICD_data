@@ -1,0 +1,230 @@
+{
+    "name": "tularemia",
+    "qid": "Q153861",
+    "icd_10": "A21",
+    "description": "primary bacterial infectious disease that has material basis in Francisella tularensis, which is transmitted by dog tick bite (Dermacentor variabilis), transmitted by deer flies (Chrysops sp) or transmitted by contact with infected animal tissues.",
+    "aliases": [
+        "deer fly fever",
+        "Ohara's fever",
+        "Pahvant Valley plague",
+        "rabbit fever"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tularemia%20lesion.jpg",
+    "url": "https://en.wikipedia.org/wiki/Tularemia",
+    "details": {
+        "Anatomical location": [
+            {
+                "name": "skin",
+                "qid": "Q1074",
+                "url": "https://en.wikipedia.org/wiki/Skin"
+            },
+            {
+                "name": "lung",
+                "qid": "Q7886",
+                "url": "https://en.wikipedia.org/wiki/Lung"
+            },
+            {
+                "name": "spleen",
+                "qid": "Q9371",
+                "url": "https://en.wikipedia.org/wiki/Spleen"
+            },
+            {
+                "name": "eye",
+                "qid": "Q7364",
+                "url": "https://en.wikipedia.org/wiki/Eye"
+            },
+            {
+                "name": "lymph node",
+                "qid": "Q170758",
+                "url": "https://en.wikipedia.org/wiki/Lymph_node"
+            },
+            {
+                "name": "conjunctivitis",
+                "qid": "Q167844",
+                "url": "https://en.wikipedia.org/wiki/Conjunctivitis"
+            },
+            {
+                "name": "tonsil",
+                "qid": "Q180569",
+                "url": "https://en.wikipedia.org/wiki/Tonsil"
+            },
+            {
+                "name": "human gastrointestinal tract",
+                "qid": "Q6151460",
+                "url": "https://en.wikipedia.org/wiki/Human_gastrointestinal_tract"
+            },
+            {
+                "name": "pleura",
+                "qid": "Q14123862",
+                "url": "https://en.wikipedia.org/wiki/Pleura"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            },
+            {
+                "name": "vomiting",
+                "qid": "Q127076",
+                "url": "https://en.wikipedia.org/wiki/Vomiting"
+            },
+            {
+                "name": "bronchitis",
+                "qid": "Q173022",
+                "url": "https://en.wikipedia.org/wiki/Bronchitis"
+            },
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "diarrhea",
+                "qid": "Q40878",
+                "url": "https://en.wikipedia.org/wiki/Diarrhea"
+            },
+            {
+                "name": "pleurisy",
+                "qid": "Q55998",
+                "url": "https://en.wikipedia.org/wiki/Pleurisy"
+            },
+            {
+                "name": "pneumonia",
+                "qid": "Q12192",
+                "url": "https://en.wikipedia.org/wiki/Pneumonia"
+            },
+            {
+                "name": "abdominal pain",
+                "qid": "Q183425",
+                "url": "https://en.wikipedia.org/wiki/Abdominal_pain"
+            },
+            {
+                "name": "nausea",
+                "qid": "Q186889",
+                "url": "https://en.wikipedia.org/wiki/Nausea"
+            },
+            {
+                "name": "nosebleed",
+                "qid": "Q202013",
+                "url": "https://en.wikipedia.org/wiki/Nosebleed"
+            },
+            {
+                "name": "anorexia",
+                "qid": "Q254327",
+                "url": "https://en.wikipedia.org/wiki/Anorexia_(symptom)"
+            },
+            {
+                "name": "enanthem",
+                "qid": "Q599982",
+                "url": "https://en.wikipedia.org/wiki/Enanthem"
+            },
+            {
+                "name": "rash",
+                "qid": "Q653197",
+                "url": "https://en.wikipedia.org/wiki/Rash"
+            },
+            {
+                "name": "tracheitis",
+                "qid": "Q946278",
+                "url": "https://en.wikipedia.org/wiki/Tracheitis"
+            },
+            {
+                "name": "splenomegaly",
+                "qid": "Q1129121",
+                "url": "https://en.wikipedia.org/wiki/Splenomegaly"
+            },
+            {
+                "name": "sore throat",
+                "qid": "Q1292082",
+                "url": "https://en.wikipedia.org/wiki/Sore_throat"
+            },
+            {
+                "name": "hepatomegaly",
+                "qid": "Q1362864",
+                "url": "https://en.wikipedia.org/wiki/Hepatomegaly"
+            },
+            {
+                "name": "lymphangitis",
+                "qid": "Q1476027",
+                "url": "https://en.wikipedia.org/wiki/Lymphangitis"
+            },
+            {
+                "name": "malaise",
+                "qid": "Q2673323",
+                "url": "https://en.wikipedia.org/wiki/Malaise"
+            },
+            {
+                "name": "bubo",
+                "qid": "Q2722991",
+                "url": "https://en.wikipedia.org/wiki/Bubo"
+            },
+            {
+                "name": "ulcer",
+                "qid": "Q6452285",
+                "url": "https://en.wikipedia.org/wiki/Ulcer_(dermatology)"
+            },
+            {
+                "name": "poisoning",
+                "qid": "Q114953"
+            },
+            {
+                "name": "lymphadenitis",
+                "qid": "Q3269466"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "zoonosis",
+                "qid": "Q182672",
+                "url": "https://en.wikipedia.org/wiki/Zoonosis"
+            },
+            {
+                "name": "primary bacterial infectious disease",
+                "qid": "Q18553247"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "streptomycin",
+                "qid": "Q192717",
+                "url": "https://en.wikipedia.org/wiki/Streptomycin"
+            },
+            {
+                "name": "tetracycline",
+                "qid": "Q193045",
+                "url": "https://en.wikipedia.org/wiki/Tetracycline"
+            },
+            {
+                "name": "ciprofloxacin",
+                "qid": "Q256602",
+                "url": "https://en.wikipedia.org/wiki/Ciprofloxacin"
+            },
+            {
+                "name": "doxycycline",
+                "qid": "Q422442",
+                "url": "https://en.wikipedia.org/wiki/Doxycycline"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Francisella tularensis",
+                "qid": "Q1003460",
+                "url": "https://en.wikipedia.org/wiki/Francisella_tularensis"
+            }
+        ]
+    }
+}

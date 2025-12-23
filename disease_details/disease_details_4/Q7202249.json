@@ -1,0 +1,39 @@
+{
+    "name": "platelet storage pool deficiency",
+    "qid": "Q7202249",
+    "icd_10": "D69.1",
+    "description": "Human disease",
+    "aliases": [
+        "Alpha delta granule deficiency",
+        "Alpha dense granule deficiency",
+        "Combined alpha-delta platelet storage pool deficiency",
+        "Dense body defect",
+        "Dense body defect (disorder)",
+        "Platelet dense granule deficiency",
+        "Platelet dense granule deficiency (disorder)",
+        "Platelet storage pool defect",
+        "Platelet storage pool diseases",
+        "STORAGE POOL PLATELET DISEASE"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Platelet_storage_pool_deficiency",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "blood platelet disease",
+                "qid": "Q2429620"
+            },
+            {
+                "name": "syndromic constitutional thrombocytopenia",
+                "qid": "Q55788346"
+            }
+        ]
+    }
+}

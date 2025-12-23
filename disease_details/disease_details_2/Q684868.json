@@ -1,0 +1,25 @@
+{
+    "name": "dental attrition",
+    "qid": "Q684868",
+    "icd_10": "K03.0",
+    "description": "loss of tooth substance caused by tooth-to-tooth contact",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Deviated%20midline%202.JPG",
+    "url": "https://en.wikipedia.org/wiki/Dental_attrition",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "tooth wear",
+                "qid": "Q2502694",
+                "url": "https://en.wikipedia.org/wiki/Tooth_wear"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "dentistry",
+                "qid": "Q12128",
+                "url": "https://en.wikipedia.org/wiki/Dentistry"
+            }
+        ]
+    }
+}

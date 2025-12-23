@@ -1,0 +1,36 @@
+{
+    "name": "Candidal intertrigo",
+    "qid": "Q5031732",
+    "icd_10": "B37.2",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Candidal_intertrigo",
+    "details": {
+        "Cause": [
+            {
+                "name": "infection",
+                "qid": "Q166231",
+                "url": "https://en.wikipedia.org/wiki/Infection"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "intertrigo",
+                "qid": "Q796150",
+                "url": "https://en.wikipedia.org/wiki/Intertrigo"
+            },
+            {
+                "name": "cutaneous candidiasis",
+                "qid": "Q11581119"
+            }
+        ]
+    }
+}

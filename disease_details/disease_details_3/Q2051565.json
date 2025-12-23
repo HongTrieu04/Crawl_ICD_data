@@ -1,0 +1,31 @@
+{
+    "name": "arachnodactyly",
+    "qid": "Q2051565",
+    "icd_10": "Q87.4",
+    "description": "human disease",
+    "aliases": [
+        "achromachia"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Aracnodactilia.jpg",
+    "url": "https://en.wikipedia.org/wiki/Arachnodactyly",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "dolichostenomelia",
+                "qid": "Q5289085",
+                "url": "https://en.wikipedia.org/wiki/Dolichostenomelia"
+            },
+            {
+                "name": "hand disease",
+                "qid": "Q12628098"
+            }
+        ]
+    }
+}

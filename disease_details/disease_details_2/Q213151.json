@@ -1,0 +1,43 @@
+{
+    "name": "kwashiorkor",
+    "qid": "Q213151",
+    "icd_10": "E40",
+    "description": "form of severe protein malnutrition characterized by edema and an enlarged liver with fatty infiltrates",
+    "aliases": [
+        "Kwashiokor",
+        "Nutritional edema with dyspigmentation of skin and hair",
+        "Nutritional oedema with dyspigmentation of skin and/or hair"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kwashiorkor%206180.jpg",
+    "url": "https://en.wikipedia.org/wiki/Kwashiorkor",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "protein-energy malnutrition",
+                "qid": "Q4082071",
+                "url": "https://en.wikipedia.org/wiki/Protein%E2%80%93energy_malnutrition"
+            },
+            {
+                "name": "dystrophy",
+                "qid": "Q4162411",
+                "url": "https://en.wikipedia.org/wiki/Dystrophy"
+            },
+            {
+                "name": "protein deficiency",
+                "qid": "Q18966920"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ]
+    }
+}

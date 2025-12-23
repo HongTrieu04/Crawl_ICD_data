@@ -1,0 +1,27 @@
+{
+    "name": "Pseudomonal pneumonia",
+    "qid": "Q18967880",
+    "icd_10": "J15.1",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete Pseudomonal pneumonia",
+        "Pneumonia due to Pseudomonas",
+        "Pneumonia due to Pseudomonas (disorder)"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "bacterial pneumonia",
+                "qid": "Q3776920",
+                "url": "https://en.wikipedia.org/wiki/Bacterial_pneumonia"
+            },
+            {
+                "name": "Pseudomonas infection",
+                "qid": "Q7255052",
+                "url": "https://en.wikipedia.org/wiki/Pseudomonas_infection"
+            }
+        ]
+    }
+}

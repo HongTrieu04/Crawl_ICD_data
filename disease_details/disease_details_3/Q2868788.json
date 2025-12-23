@@ -1,0 +1,34 @@
+{
+    "name": "spinocerebellar ataxia type 6",
+    "qid": "Q2868788",
+    "icd_10": "G11.2",
+    "description": "Human disease",
+    "aliases": [
+        "SCA6",
+        "Spinocerebellar ataxia 6",
+        "SPINOCEREBELLAR ATAXIA 6; SCA6",
+        "Spinocerebellar Ataxia type 6"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Spinocerebellar_ataxia_type_6",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "spinocerebellar ataxia",
+                "qid": "Q899726",
+                "url": "https://en.wikipedia.org/wiki/Spinocerebellar_ataxia"
+            },
+            {
+                "name": "autosomal dominant cerebellar ataxia type III",
+                "qid": "Q55346088"
+            }
+        ]
+    }
+}

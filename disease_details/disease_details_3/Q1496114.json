@@ -1,0 +1,20 @@
+{
+    "name": "overload disease",
+    "qid": "Q1496114",
+    "icd_10": "E88.9",
+    "description": "storage disease",
+    "aliases": [
+        "thesaurismosis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "inherited metabolic disorder",
+                "qid": "Q1758393",
+                "url": "https://en.wikipedia.org/wiki/Inborn_errors_of_metabolism"
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Opsismodysplasia",
+    "qid": "Q7098730",
+    "icd_10": "Q77.8",
+    "description": "Opsismodysplasia is a skeletal dysplasia characterized by congenital dwarfism and facial dysmorphism",
+    "aliases": [
+        "OPSMD",
+        "OPSISMODYSPLASIA",
+        "OPSISMODYSPLASIA; OPSMD"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Opsismodysplasia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "osteochondrodysplasia",
+                "qid": "Q3251367",
+                "url": "https://en.wikipedia.org/wiki/Osteochondrodysplasia"
+            },
+            {
+                "name": "Spondylodysplastic dysplasia",
+                "qid": "Q55788806"
+            }
+        ]
+    }
+}

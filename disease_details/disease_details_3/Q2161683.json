@@ -1,0 +1,25 @@
+{
+    "name": "erythema ab igne",
+    "qid": "Q2161683",
+    "icd_10": "L59.0",
+    "description": "rash of the skin usually caused by the long-term exposure to heat or infrared radiation",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Erythema_ab_igne",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "skin disease",
+                "qid": "Q949302",
+                "url": "https://en.wikipedia.org/wiki/Skin_condition"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "bradypnea",
+    "qid": "Q897147",
+    "icd_10": "R06.8",
+    "description": "medical term for an abnormally slow breathing rate",
+    "aliases": [
+        "decreased breathing rate",
+        "decreased respiratory rate",
+        "slow respiration"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Bradypnea",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "abnormal breathing",
+                "qid": "Q2056816"
+            },
+            {
+                "name": "abnormal respiratory rate",
+                "qid": "Q44487897"
+            }
+        ]
+    }
+}

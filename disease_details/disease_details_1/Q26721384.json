@@ -1,0 +1,18 @@
+{
+    "name": "schizophrenic reaction",
+    "qid": "Q26721384",
+    "icd_10": "F21.2",
+    "description": "psychotic reaction characterized by schizophrenia-like symptoms",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "brief psychotic disorder",
+                "qid": "Q2787727",
+                "url": "https://en.wikipedia.org/wiki/Brief_psychotic_disorder"
+            }
+        ]
+    }
+}

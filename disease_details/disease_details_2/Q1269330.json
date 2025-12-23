@@ -1,0 +1,17 @@
+{
+    "name": "dysproteinemia",
+    "qid": "Q1269330",
+    "icd_10": "E88.09",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "blood protein disease",
+                "qid": "Q18557170"
+            }
+        ]
+    }
+}

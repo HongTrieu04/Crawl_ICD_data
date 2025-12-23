@@ -1,0 +1,31 @@
+{
+    "name": "copper deficiency",
+    "qid": "Q1495005",
+    "icd_10": "E61.0",
+    "description": "Insufficient level of copper in the body, leading to anaemia and nervous symptoms",
+    "aliases": [
+        "hypocupremia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Copper_deficiency",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "mineral deficiency",
+                "qid": "Q16944888",
+                "url": "https://en.wikipedia.org/wiki/Mineral_deficiency"
+            },
+            {
+                "name": "copper metabolism disease",
+                "qid": "Q19001238"
+            }
+        ]
+    }
+}

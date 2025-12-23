@@ -1,0 +1,44 @@
+{
+    "name": "rumination disorder",
+    "qid": "Q4358147",
+    "icd_10": "F98.2",
+    "description": "eating disorder that is characterized by effortless regurgitation of most meals following consumption",
+    "aliases": [
+        "Rumination",
+        "Psychogenic rumination",
+        "Psychogenic rumination (disorder)",
+        "Rumination syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Rumination_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "eating disorder",
+                "qid": "Q373822",
+                "url": "https://en.wikipedia.org/wiki/Eating_disorder"
+            },
+            {
+                "name": "physiological condition",
+                "qid": "Q7189713",
+                "url": "https://en.wikipedia.org/wiki/Physiological_condition"
+            },
+            {
+                "name": "health problem",
+                "qid": "Q2057971"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ]
+    }
+}

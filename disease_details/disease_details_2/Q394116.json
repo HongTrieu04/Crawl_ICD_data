@@ -1,0 +1,29 @@
+{
+    "name": "emergence delirium",
+    "qid": "Q394116",
+    "icd_10": "F13.4",
+    "description": "medical condition",
+    "aliases": [
+        "agitated emergence",
+        "emergence agitation",
+        "emergence excitement",
+        "postanesthetic excitement"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Emergence_delirium",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "adverse reactions to anesthesia",
+                "qid": "Q2990543"
+            }
+        ]
+    }
+}

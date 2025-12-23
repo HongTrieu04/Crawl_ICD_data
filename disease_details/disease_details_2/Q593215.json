@@ -1,0 +1,25 @@
+{
+    "name": "Brodie abscess",
+    "qid": "Q593215",
+    "icd_10": "M86.8",
+    "description": "medical condition",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/BrodieAbscessRadiograph.jpg",
+    "url": "https://en.wikipedia.org/wiki/Brodie_abscess",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "orthopedics",
+                "qid": "Q216685",
+                "url": "https://en.wikipedia.org/wiki/Orthopedic_surgery"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "osteomyelitis",
+                "qid": "Q938983",
+                "url": "https://en.wikipedia.org/wiki/Osteomyelitis"
+            }
+        ]
+    }
+}

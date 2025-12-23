@@ -1,0 +1,31 @@
+{
+    "name": "hibernoma",
+    "qid": "Q499857",
+    "icd_10": "D17",
+    "description": "rare benign slow growing adipose tissue tumor, characterized by the presence of polygonal brown fat cells with multivacuolated and/or granular cytoplasm. The tumor is usually painless and is most often seen in young adults",
+    "aliases": [
+        "Brown Fat Neoplasm",
+        "Brown Fat Tumor",
+        "Fetal Fat Cell Lipoma",
+        "Hibernoma",
+        "HIBERNOMA, BENIGN"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hibernoma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "lipoma",
+                "qid": "Q689985",
+                "url": "https://en.wikipedia.org/wiki/Lipoma"
+            }
+        ]
+    }
+}

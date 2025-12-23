@@ -1,0 +1,26 @@
+{
+    "name": "chromhidrosis",
+    "qid": "Q2966706",
+    "icd_10": "L75.1",
+    "description": "a rare condition characterized by the secretion of colored sweat, caused by the deposition of lipofuscin in the sweat glands. Usually chromhidrosis affects the apocrine glands, mainly on the face and underarms.",
+    "aliases": [
+        "secretion of colored sweat"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Chromhidrosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "apocrine sweat gland disease",
+                "qid": "Q55790532"
+            }
+        ]
+    }
+}

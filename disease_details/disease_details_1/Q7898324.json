@@ -1,0 +1,29 @@
+{
+    "name": "Upington disease",
+    "qid": "Q7898324",
+    "icd_10": "M91.8",
+    "description": "medical condition",
+    "aliases": [
+        "Familial dyschondroplasia",
+        "Hip dysplasia-enchondromata-ecchondroma syndrome",
+        "Perthes-Like Hip Disease, Enchondromata, and Ecchondromata",
+        "Perthes-like hip disease"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Upington_disease",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "primary bone dysplasia with disorganized development of skeletal components",
+                "qid": "Q55788820"
+            }
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "name": "diffuse idiopathic skeletal hyperostosis",
+    "qid": "Q742762",
+    "icd_10": "M48.1",
+    "description": "calcinosis that is the calcification or a bony hardening of ligaments in areas where they attach to the spine",
+    "aliases": [
+        "DISH",
+        "Ankylosing hyperostosis",
+        "Ankylosing vertebral hyperostosis",
+        "ANKYLOSING VERTEBRAL HYPEROSTOSIS WITH TYLOSIS",
+        "Diffuse Idiopathic Skeletal Hyperostosis",
+        "Disseminated idiopathic skeletal hyperostosis",
+        "Disseminated idiopathic skeletal hyperostosis (disorder)",
+        "Forestier disease",
+        "Forestier's Disease"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Morbus%20Forestier.jpg",
+    "url": "https://en.wikipedia.org/wiki/Diffuse_idiopathic_skeletal_hyperostosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "spinal disease",
+                "qid": "Q7577457",
+                "url": "https://en.wikipedia.org/wiki/Spinal_disease"
+            },
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "calcinosis",
+                "qid": "Q239027",
+                "url": "https://en.wikipedia.org/wiki/Calcinosis"
+            },
+            {
+                "name": "developmental anomaly of metabolic origin",
+                "qid": "Q55785399"
+            },
+            {
+                "name": "dysostosis with predominant vertebral and costal involvement",
+                "qid": "Q55788823"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ]
+    }
+}

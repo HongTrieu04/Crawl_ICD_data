@@ -1,0 +1,34 @@
+{
+    "name": "bipolar II disorder",
+    "qid": "Q4086956",
+    "icd_10": "F31.8",
+    "description": "bipolar disorder that is characterized by at least one hypomanic episode and at least one major depressive episode; with this disorder, depressive episodes are more frequent and more intense than manic episodes",
+    "aliases": [
+        "bipolar 2 disorder",
+        "bipolar disorder type II",
+        "BP-II"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Bipolar_II_disorder",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "bipolar disorder",
+                "qid": "Q131755",
+                "url": "https://en.wikipedia.org/wiki/Bipolar_disorder"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ]
+    }
+}

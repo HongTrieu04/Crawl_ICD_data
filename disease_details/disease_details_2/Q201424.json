@@ -1,0 +1,22 @@
+{
+    "name": "nuclear warfare",
+    "qid": "Q201424",
+    "icd_10": "Y36.5",
+    "description": "conflict or strategy in which nuclear weaponry is used to inflict damage on an opponent",
+    "aliases": [
+        "nuclear war",
+        "atomic warfare",
+        "thermonuclear warfare"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nagasakibomb.jpg",
+    "url": "https://en.wikipedia.org/wiki/Nuclear_warfare",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "unconventional warfare",
+                "qid": "Q1342628",
+                "url": "https://en.wikipedia.org/wiki/Unconventional_warfare"
+            }
+        ]
+    }
+}

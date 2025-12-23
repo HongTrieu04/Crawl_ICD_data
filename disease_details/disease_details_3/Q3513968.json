@@ -1,0 +1,42 @@
+{
+    "name": "corneal opacification and other ocular anomalies",
+    "qid": "Q3513968",
+    "icd_10": "H17.9",
+    "description": "sclerocornea that has material basis in homozygous or compound heterozygous mutation in the PXDN gene on chromosome 2p25 and is characterized by corneal opacifiaction, cataract, microcornea, microphthalmia, and anterior segment dysgenesis",
+    "aliases": [
+        "anterior segment dysgenesis",
+        "sclerocornea with other ocular anomalies"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "genetic disease",
+                "qid": "Q200779",
+                "url": "https://en.wikipedia.org/wiki/Genetic_disorder"
+            },
+            {
+                "name": "eye disease",
+                "qid": "Q3041498",
+                "url": "https://en.wikipedia.org/wiki/Eye_disease"
+            },
+            {
+                "name": "sclerocornea",
+                "qid": "Q7434154",
+                "url": "https://en.wikipedia.org/wiki/Sclerocornea"
+            },
+            {
+                "name": "monogenic disease",
+                "qid": "Q1225194"
+            }
+        ]
+    }
+}

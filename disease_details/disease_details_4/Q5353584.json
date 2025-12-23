@@ -1,0 +1,35 @@
+{
+    "name": "Elastosis perforans serpiginosa",
+    "qid": "Q5353584",
+    "icd_10": "L87.2",
+    "description": "human disease",
+    "aliases": [
+        "EPS",
+        "Elastoma Intrapapillare Perforans Verruciformis",
+        "ELASTOSIS PERFORANS SERPIGINOSA",
+        "ELASTOSIS PERFORANS SERPIGINOSA; EPS",
+        "Miescher Elastoma"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Elastosis_perforans_serpiginosa",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "Cutaneous perforating disorders",
+                "qid": "Q5196708",
+                "url": "https://en.wikipedia.org/wiki/Cutaneous_perforating_disorders"
+            },
+            {
+                "name": "dermis elastic tissue disorder",
+                "qid": "Q55788598"
+            }
+        ]
+    }
+}

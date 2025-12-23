@@ -1,0 +1,25 @@
+{
+    "name": "Pseudopelade of Brocq",
+    "qid": "Q3409596",
+    "icd_10": "L66.0",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pseudopelade_of_Brocq",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "cicatricial alopecia",
+                "qid": "Q5119338",
+                "url": "https://en.wikipedia.org/wiki/Scarring_hair_loss"
+            }
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "name": "orthostatic hypotension",
+    "qid": "Q7104966",
+    "icd_10": "I95.1",
+    "description": "orthostatic low bloodpressure",
+    "aliases": [
+        "orthostasis",
+        "postural hypotension"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Orthostatic_hypotension",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "(−)-ephedrine",
+                "qid": "Q219626",
+                "url": "https://en.wikipedia.org/wiki/Ephedrine"
+            },
+            {
+                "name": "midodrine",
+                "qid": "Q415051",
+                "url": "https://en.wikipedia.org/wiki/Midodrine"
+            },
+            {
+                "name": "dihydroergotamine",
+                "qid": "Q421336",
+                "url": "https://en.wikipedia.org/wiki/Dihydroergotamine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "orthostatic intolerance",
+                "qid": "Q7104932",
+                "url": "https://en.wikipedia.org/wiki/Orthostatic_intolerance"
+            }
+        ]
+    }
+}

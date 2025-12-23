@@ -1,0 +1,30 @@
+{
+    "name": "phocomelia",
+    "qid": "Q773370",
+    "icd_10": "Q73.1",
+    "description": "congenital disorder",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NCP14053.jpg",
+    "url": "https://en.wikipedia.org/wiki/Phocomelia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "teratology",
+                "qid": "Q631521",
+                "url": "https://en.wikipedia.org/wiki/Teratology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "dysmelia",
+                "qid": "Q1269288",
+                "url": "https://en.wikipedia.org/wiki/Dysmelia"
+            },
+            {
+                "name": "ectromelia",
+                "qid": "Q1323724",
+                "url": "https://en.wikipedia.org/wiki/Ectromelia"
+            }
+        ]
+    }
+}

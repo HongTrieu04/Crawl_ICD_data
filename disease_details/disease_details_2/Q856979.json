@@ -1,0 +1,28 @@
+{
+    "name": "café au lait spot",
+    "qid": "Q856979",
+    "icd_10": "L81.3",
+    "description": "Type of birthmark",
+    "aliases": [
+        "cafe au lait spot",
+        "Cafe-au-Lait Spots"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/CALSpot.jpg",
+    "url": "https://en.wikipedia.org/wiki/Caf%C3%A9_au_lait_spot",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "birthmark",
+                "qid": "Q3513591",
+                "url": "https://en.wikipedia.org/wiki/Birthmark"
+            }
+        ]
+    }
+}

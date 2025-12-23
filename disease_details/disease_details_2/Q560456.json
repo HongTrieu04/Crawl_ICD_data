@@ -1,0 +1,40 @@
+{
+    "name": "otomycosis",
+    "qid": "Q560456",
+    "icd_10": "H62.2",
+    "description": "human disease",
+    "aliases": [
+        "external ear fungal infectious disease",
+        "otitis mycotic externa",
+        "Otomycosis, Singapore Ear",
+        "Singapore ear"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Otomycosis.jpg",
+    "url": "https://en.wikipedia.org/wiki/Otomycosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "otitis externa",
+                "qid": "Q680873",
+                "url": "https://en.wikipedia.org/wiki/Otitis_externa"
+            },
+            {
+                "name": "dermatomycosis",
+                "qid": "Q3705876",
+                "url": "https://en.wikipedia.org/wiki/Dermatomycosis"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

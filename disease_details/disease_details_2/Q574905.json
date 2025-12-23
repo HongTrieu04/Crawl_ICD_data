@@ -1,0 +1,141 @@
+{
+    "name": "pseudomembranous colitis",
+    "qid": "Q574905",
+    "icd_10": "A04.70",
+    "description": "colitis characterized by an overgrowth of bacteria",
+    "aliases": [
+        "C. diff colitis",
+        "C. diff infection",
+        "Clostridium difficile colitis",
+        "Enterocolitis, Pseudomembranous",
+        "to clostridium difficile"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Clostridium%20difficile%2001.jpg",
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "colitis",
+                "qid": "Q2453464",
+                "url": "https://en.wikipedia.org/wiki/Colitis"
+            },
+            {
+                "name": "Clostridium difficile intestinal infectious disease",
+                "qid": "Q55011690"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "vomiting",
+                "qid": "Q127076",
+                "url": "https://en.wikipedia.org/wiki/Vomiting"
+            },
+            {
+                "name": "diarrhea",
+                "qid": "Q40878",
+                "url": "https://en.wikipedia.org/wiki/Diarrhea"
+            },
+            {
+                "name": "jaundice",
+                "qid": "Q133244",
+                "url": "https://en.wikipedia.org/wiki/Jaundice"
+            },
+            {
+                "name": "itch",
+                "qid": "Q199602",
+                "url": "https://en.wikipedia.org/wiki/Itch"
+            },
+            {
+                "name": "constipation",
+                "qid": "Q178436",
+                "url": "https://en.wikipedia.org/wiki/Constipation"
+            },
+            {
+                "name": "abdominal pain",
+                "qid": "Q183425",
+                "url": "https://en.wikipedia.org/wiki/Abdominal_pain"
+            },
+            {
+                "name": "nausea",
+                "qid": "Q186889",
+                "url": "https://en.wikipedia.org/wiki/Nausea"
+            },
+            {
+                "name": "heartburn",
+                "qid": "Q537297",
+                "url": "https://en.wikipedia.org/wiki/Heartburn"
+            },
+            {
+                "name": "indigestion",
+                "qid": "Q653971",
+                "url": "https://en.wikipedia.org/wiki/Indigestion"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "metronidazole",
+                "qid": "Q169569",
+                "url": "https://en.wikipedia.org/wiki/Metronidazole"
+            },
+            {
+                "name": "colestyramine",
+                "qid": "Q418006",
+                "url": "https://en.wikipedia.org/wiki/Colestyramine"
+            },
+            {
+                "name": "vancomycin",
+                "qid": "Q424027",
+                "url": "https://en.wikipedia.org/wiki/Vancomycin"
+            },
+            {
+                "name": "colesevelam",
+                "qid": "Q899036",
+                "url": "https://en.wikipedia.org/wiki/Colesevelam"
+            },
+            {
+                "name": "colestipol",
+                "qid": "Q3294635",
+                "url": "https://en.wikipedia.org/wiki/Colestipol"
+            },
+            {
+                "name": "fidaxomicin",
+                "qid": "Q5446672",
+                "url": "https://en.wikipedia.org/wiki/Fidaxomicin"
+            },
+            {
+                "name": "bacitracin a",
+                "qid": "Q424319"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "fecal bacteriotherapy",
+                "qid": "Q2121103",
+                "url": "https://en.wikipedia.org/wiki/Fecal_microbiota_transplant"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Clostridium difficile",
+                "qid": "Q310543"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "name": "dolichocolon",
+    "qid": "Q1235558",
+    "icd_10": "Q43.8",
+    "description": "congenital disorder of digestive system",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dolichocolon%20case%201%208.jpg",
+    "url": "https://en.wikipedia.org/wiki/Dolichocolon",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "colonic disease",
+                "qid": "Q18556754"
+            }
+        ]
+    }
+}

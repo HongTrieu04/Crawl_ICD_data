@@ -1,0 +1,39 @@
+{
+    "name": "keloid",
+    "qid": "Q1131260",
+    "icd_10": "L91.0",
+    "description": "elevated mark on the skin caused by deposits of collagen during wound healing",
+    "aliases": [
+        "keloid formation",
+        "Keloid of Alibert"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Keloid%2C%20Post%20Surgical.JPG",
+    "url": "https://en.wikipedia.org/wiki/Keloid",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "hypertrophic scar",
+                "qid": "Q1641147",
+                "url": "https://en.wikipedia.org/wiki/Hypertrophic_scar"
+            },
+            {
+                "name": "reactive cutaneous fibrous lesion",
+                "qid": "Q18554972"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "triamcinolone",
+                "qid": "Q1074056",
+                "url": "https://en.wikipedia.org/wiki/Triamcinolone"
+            }
+        ]
+    }
+}

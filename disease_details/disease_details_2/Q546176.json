@@ -1,0 +1,29 @@
+{
+    "name": "renal vein thrombosis",
+    "qid": "Q546176",
+    "icd_10": "I82.3",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Renal_vein_thrombosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "nephrology",
+                "qid": "Q177635",
+                "url": "https://en.wikipedia.org/wiki/Nephrology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "venous thrombosis",
+                "qid": "Q2751330",
+                "url": "https://en.wikipedia.org/wiki/Venous_thrombosis"
+            },
+            {
+                "name": "renal vascular disease",
+                "qid": "Q18555068"
+            }
+        ]
+    }
+}

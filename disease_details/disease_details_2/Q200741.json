@@ -1,0 +1,31 @@
+{
+    "name": "teratoma",
+    "qid": "Q200741",
+    "icd_10": "C62.9",
+    "description": "germ cell and embryonal cancer that is an encapsulated tumor with tissue or organ components resembling normal derivatives of all three germ layers",
+    "aliases": [
+        "Teratomas (morphologic abnormality)"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mature%20cystic%20teratoma%20of%20ovary.jpg",
+    "url": "https://en.wikipedia.org/wiki/Teratoma",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "germ cell and embryonal cancer",
+                "qid": "Q18555285"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ]
+    }
+}

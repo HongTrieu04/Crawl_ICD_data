@@ -1,0 +1,33 @@
+{
+    "name": "alcoholic hallucinosis",
+    "qid": "Q1040275",
+    "icd_10": "F10.5",
+    "description": "type of hallucinosis (pseudo-hallucination)",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Alcoholic_hallucinosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "alcohol withdrawal syndrome",
+                "qid": "Q2914873",
+                "url": "https://en.wikipedia.org/wiki/Alcohol_withdrawal_syndrome"
+            },
+            {
+                "name": "alcohol-induced psychotic disorder",
+                "qid": "Q4062514"
+            },
+            {
+                "name": "hallucinosis",
+                "qid": "Q4132712"
+            }
+        ]
+    }
+}

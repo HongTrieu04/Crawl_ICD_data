@@ -1,0 +1,29 @@
+{
+    "name": "hand eczema",
+    "qid": "Q1574795",
+    "icd_10": "L30",
+    "description": "skin condition",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/TSW%20eczema%20sleeves.jpg",
+    "url": "https://en.wikipedia.org/wiki/Hand_eczema",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "eczema",
+                "qid": "Q988594",
+                "url": "https://en.wikipedia.org/wiki/Eczema"
+            },
+            {
+                "name": "hand disease",
+                "qid": "Q12628098"
+            }
+        ]
+    }
+}

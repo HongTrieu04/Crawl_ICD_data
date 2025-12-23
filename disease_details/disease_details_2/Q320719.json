@@ -1,0 +1,54 @@
+{
+    "name": "dependent personality disorder",
+    "qid": "Q320719",
+    "icd_10": "F60.7",
+    "description": "personality disorder that is characterized by a pervasive psychological dependence on other people",
+    "aliases": [
+        "DPD",
+        "asthenic personality",
+        "asthenic personality disorde",
+        "inadequate personality",
+        "inadequate personality disorder",
+        "passive personality",
+        "passive personality disorder"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Dependent_personality_disorder",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "psychology",
+                "qid": "Q9418",
+                "url": "https://en.wikipedia.org/wiki/Psychology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "personality disorder",
+                "qid": "Q270673",
+                "url": "https://en.wikipedia.org/wiki/Personality_disorder"
+            },
+            {
+                "name": "dependency",
+                "qid": "Q69943710"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "psychotherapy",
+                "qid": "Q183257",
+                "url": "https://en.wikipedia.org/wiki/Psychotherapy"
+            }
+        ]
+    }
+}

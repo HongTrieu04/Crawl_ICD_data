@@ -1,0 +1,25 @@
+{
+    "name": "iron(II) gluconate",
+    "qid": "Q421291",
+    "icd_10": "D64.9",
+    "description": "chemical compound",
+    "aliases": [
+        "ferrous gluconate",
+        "iron gluconate"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Iron(II)_gluconate",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "iron compound",
+                "qid": "Q56283350",
+                "url": "https://en.wikipedia.org/wiki/Iron_compounds"
+            },
+            {
+                "name": "carboxylate salt",
+                "qid": "Q55524651"
+            }
+        ]
+    }
+}

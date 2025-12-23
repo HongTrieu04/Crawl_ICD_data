@@ -1,0 +1,28 @@
+{
+    "name": "hallucinosis",
+    "qid": "Q4132712",
+    "icd_10": "F06.0",
+    "description": "psychopathological syndrome characterized by hallucinations",
+    "aliases": [
+        "hallucinatory psychosis",
+        "hallucinatory state",
+        "hallucinatory syndrome"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Symptoms": [
+            {
+                "name": "hallucination",
+                "qid": "Q130741",
+                "url": "https://en.wikipedia.org/wiki/Hallucination"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "perceptual distortion",
+                "qid": "Q11999558"
+            }
+        ]
+    }
+}

@@ -1,0 +1,142 @@
+{
+    "name": "sepsis",
+    "qid": "Q183134",
+    "icd_10": "R65.21",
+    "description": "life-threatening response to infection",
+    "aliases": [
+        "septicemia",
+        "blood poisoning",
+        "blood-poisoning"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sepsis-Mikrothomben3.JPG",
+    "url": "https://en.wikipedia.org/wiki/Sepsis",
+    "details": {
+        "Drug used for treatment": [
+            {
+                "name": "amikacin",
+                "qid": "Q408529",
+                "url": "https://en.wikipedia.org/wiki/Amikacin"
+            },
+            {
+                "name": "drotrecogin alfa",
+                "qid": "Q412888",
+                "url": "https://en.wikipedia.org/wiki/Drotrecogin_alfa"
+            },
+            {
+                "name": "cefotaxime",
+                "qid": "Q417968",
+                "url": "https://en.wikipedia.org/wiki/Cefotaxime"
+            },
+            {
+                "name": "aztreonam",
+                "qid": "Q418546",
+                "url": "https://en.wikipedia.org/wiki/Aztreonam"
+            },
+            {
+                "name": "oxacillin",
+                "qid": "Q418725",
+                "url": "https://en.wikipedia.org/wiki/Oxacillin"
+            },
+            {
+                "name": "ceftriaxone",
+                "qid": "Q421713",
+                "url": "https://en.wikipedia.org/wiki/Ceftriaxone"
+            },
+            {
+                "name": "gentamicin",
+                "qid": "Q422482",
+                "url": "https://en.wikipedia.org/wiki/Gentamicin"
+            },
+            {
+                "name": "nafcillin",
+                "qid": "Q1638852",
+                "url": "https://en.wikipedia.org/wiki/Nafcillin"
+            },
+            {
+                "name": "cefoxitin",
+                "qid": "Q2353907",
+                "url": "https://en.wikipedia.org/wiki/Cefoxitin"
+            },
+            {
+                "name": "cefepime",
+                "qid": "Q2552927",
+                "url": "https://en.wikipedia.org/wiki/Cefepime"
+            },
+            {
+                "name": "ticarcillin",
+                "qid": "Q2601832",
+                "url": "https://en.wikipedia.org/wiki/Ticarcillin"
+            },
+            {
+                "name": "piperacillin",
+                "qid": "Q423787",
+                "url": "https://en.wikipedia.org/wiki/Piperacillin"
+            },
+            {
+                "name": "imipen",
+                "qid": "Q425152",
+                "url": "https://en.wikipedia.org/wiki/Imipenem"
+            },
+            {
+                "name": "ertapenem",
+                "qid": "Q553220",
+                "url": "https://en.wikipedia.org/wiki/Ertapenem"
+            },
+            {
+                "name": "cefotetan",
+                "qid": "Q2602246",
+                "url": "https://en.wikipedia.org/wiki/Cefotetan"
+            },
+            {
+                "name": "mezlocillin",
+                "qid": "Q3307752",
+                "url": "https://en.wikipedia.org/wiki/Mezlocillin"
+            },
+            {
+                "name": "ceftazidime",
+                "qid": "Q808845",
+                "url": "https://en.wikipedia.org/wiki/Ceftazidime"
+            },
+            {
+                "name": "ceftizoxime",
+                "qid": "Q1082945",
+                "url": "https://en.wikipedia.org/wiki/Ceftizoxime"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "chills",
+                "qid": "Q2260058",
+                "url": "https://en.wikipedia.org/wiki/Chills"
+            },
+            {
+                "name": "intermittent fever",
+                "qid": "Q3073147",
+                "url": "https://en.wikipedia.org/wiki/Intermittent_fever"
+            },
+            {
+                "name": "remittent fever",
+                "qid": "Q24869904",
+                "url": "https://en.wikipedia.org/wiki/Remittent_fever"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "systemic disease",
+                "qid": "Q1414805",
+                "url": "https://en.wikipedia.org/wiki/Systemic_disease"
+            },
+            {
+                "name": "general infection",
+                "qid": "Q1517895"
+            }
+        ]
+    }
+}

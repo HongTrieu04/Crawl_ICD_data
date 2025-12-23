@@ -1,0 +1,26 @@
+{
+    "name": "stridor",
+    "qid": "Q1525170",
+    "icd_10": "R06.1",
+    "description": "respiratory sound resulting from turbulent air flow in the larynx",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Stridor",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "clinical sign",
+                "qid": "Q1441305",
+                "url": "https://en.wikipedia.org/wiki/Clinical_sign"
+            },
+            {
+                "name": "respiratory signs and symptoms",
+                "qid": "Q42183538"
+            },
+            {
+                "name": "adventitious sound",
+                "qid": "Q43143951"
+            }
+        ]
+    }
+}

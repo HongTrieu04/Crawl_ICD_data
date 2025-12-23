@@ -1,0 +1,20 @@
+{
+    "name": "compound presentation",
+    "qid": "Q5156923",
+    "icd_10": "O64.5",
+    "description": null,
+    "aliases": [
+        "Compound Fetal Presentation"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Compound_presentation",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "obstructed labor",
+                "qid": "Q1811189",
+                "url": "https://en.wikipedia.org/wiki/Obstructed_labour"
+            }
+        ]
+    }
+}

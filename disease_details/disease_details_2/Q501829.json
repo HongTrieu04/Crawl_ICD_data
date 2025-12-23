@@ -1,0 +1,39 @@
+{
+    "name": "gigantism",
+    "qid": "Q501829",
+    "icd_10": "E34.4",
+    "description": "human disease which causes the body to grow abnormally large",
+    "aliases": [
+        "pituitary gigantism",
+        "anterior pituitary hyperfunction",
+        "giantism",
+        "hypophyseal gigantism",
+        "infantile and juvenile forms of acromegaly"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Anna%20Swan%20with%20her%20parents.jpg",
+    "url": "https://en.wikipedia.org/wiki/Gigantism",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "tall stature",
+                "qid": "Q1622541"
+            },
+            {
+                "name": "growth hormone-producing pituitary gland neoplasm",
+                "qid": "Q56014377"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ]
+    }
+}

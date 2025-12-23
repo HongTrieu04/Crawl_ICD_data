@@ -1,0 +1,56 @@
+{
+    "name": "ciguatera",
+    "qid": "Q181831",
+    "icd_10": "T61.0",
+    "description": "foodborne illness",
+    "aliases": [
+        "ciguatera poisoning"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gambierdiscus%20toxicus%20NOAA.png",
+    "url": "https://en.wikipedia.org/wiki/Ciguatera_fish_poisoning",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "toxicology",
+                "qid": "Q7218",
+                "url": "https://en.wikipedia.org/wiki/Toxicology"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "neurological disorder",
+                "qid": "Q3339235",
+                "url": "https://en.wikipedia.org/wiki/Neurological_disorder"
+            },
+            {
+                "name": "gastroenteritis",
+                "qid": "Q156103",
+                "url": "https://en.wikipedia.org/wiki/Gastroenteritis"
+            },
+            {
+                "name": "cardiovascular disease",
+                "qid": "Q389735",
+                "url": "https://en.wikipedia.org/wiki/Cardiovascular_disease"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "ciguatoxins",
+                "qid": "Q62010324",
+                "url": "https://en.wikipedia.org/wiki/Ciguatoxin"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "seafood poisoning",
+                "qid": "Q3147703"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "mannitol",
+                "qid": "Q75079467"
+            }
+        ]
+    }
+}

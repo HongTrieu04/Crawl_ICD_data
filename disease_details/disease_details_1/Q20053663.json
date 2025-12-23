@@ -1,0 +1,18 @@
+{
+    "name": "vanadium deficiency",
+    "qid": "Q20053663",
+    "icd_10": "E61.6",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "mineral deficiency",
+                "qid": "Q16944888",
+                "url": "https://en.wikipedia.org/wiki/Mineral_deficiency"
+            }
+        ]
+    }
+}

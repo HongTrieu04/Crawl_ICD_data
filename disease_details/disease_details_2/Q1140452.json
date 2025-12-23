@@ -1,0 +1,28 @@
+{
+    "name": "Pruritic urticarial papules and plaques of pregnancy",
+    "qid": "Q1140452",
+    "icd_10": "O26.8",
+    "description": "human disease",
+    "aliases": [
+        "Polymorphic Eruption of Pregnancy",
+        "pruritic urticarial papules and plaques of pregnancy",
+        "PRURITIC URTICARIAL PAPULES AND PLAQUES OF PREGNANCY",
+        "PRURITIC URTICARIAL PAPULES AND PLAQUES OF PREGNANCY; PUPPP",
+        "PUPPP"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/PUPPP%202007-05-06%20left.jpg",
+    "url": "https://en.wikipedia.org/wiki/Pruritic_urticarial_papules_and_plaques_of_pregnancy",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "dermatosis of pregnancy",
+                "qid": "Q5262714",
+                "url": "https://en.wikipedia.org/wiki/Dermatoses_of_pregnancy"
+            },
+            {
+                "name": "complication of pregnancy, childbirth and the puerperium",
+                "qid": "Q18975815"
+            }
+        ]
+    }
+}

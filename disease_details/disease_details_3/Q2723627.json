@@ -1,0 +1,45 @@
+{
+    "name": "Pott disease",
+    "qid": "Q2723627",
+    "icd_10": "M49.0",
+    "description": "tuberculosis of the spine",
+    "aliases": [
+        "Pott's disease",
+        "spinal tuberculosis",
+        "tuberculosis, spinal"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pott%27s%20disease%20in%20a%20mummy%20of%20a%20priest%20of%20Ammon%2C%2021st%20Dynasty%20Wellcome%20M0019338.jpg",
+    "url": "https://en.wikipedia.org/wiki/Pott%27s_disease",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "tuberculosis",
+                "qid": "Q12204",
+                "url": "https://en.wikipedia.org/wiki/Tuberculosis"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "spondylitis",
+                "qid": "Q2165411",
+                "url": "https://en.wikipedia.org/wiki/Spondylitis"
+            },
+            {
+                "name": "spondylodiscitis",
+                "qid": "Q7578955",
+                "url": "https://en.wikipedia.org/wiki/Spondylodiscitis"
+            },
+            {
+                "name": "osteoarticular tuberculosis",
+                "qid": "Q6153637"
+            }
+        ]
+    }
+}

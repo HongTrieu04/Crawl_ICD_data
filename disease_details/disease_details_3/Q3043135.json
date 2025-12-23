@@ -1,0 +1,45 @@
+{
+    "name": "congenital lactase deficiency",
+    "qid": "Q3043135",
+    "icd_10": "E73.0",
+    "description": "rare severe gastrointestinal disorder in newborns primarily reported in Finland",
+    "aliases": [
+        "CLD",
+        "Alactasia, Congenital",
+        "COLACD",
+        "congenital alactasia",
+        "Disaccharide Intolerance 2",
+        "LACTASE DEFICIENCY, CONGENITAL"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "carbohydrate metabolic disorder",
+                "qid": "Q6013981",
+                "url": "https://en.wikipedia.org/wiki/Inborn_errors_of_carbohydrate_metabolism"
+            },
+            {
+                "name": "lactase deficiency",
+                "qid": "Q5662069"
+            },
+            {
+                "name": "autosomal recessive disease",
+                "qid": "Q10267817"
+            },
+            {
+                "name": "congenital intestinal disease due to an enzymatic defect",
+                "qid": "Q55785308"
+            },
+            {
+                "name": "metabolic disease with intestinal involvement",
+                "qid": "Q55785312"
+            },
+            {
+                "name": "disorder of carbohydrate absorption and transport",
+                "qid": "Q55787291"
+            }
+        ]
+    }
+}

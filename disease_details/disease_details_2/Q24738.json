@@ -1,0 +1,40 @@
+{
+    "name": "Achilles tendinitis",
+    "qid": "Q24738",
+    "icd_10": "M77.9",
+    "description": "tendonitis of the Achilles tendon",
+    "aliases": [
+        "Achilles tendinopathy",
+        "Achilles tendonitis",
+        "Achilles' tendinitis",
+        "talusitis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Achilles%20tendonitis.svg",
+    "url": "https://en.wikipedia.org/wiki/Achilles_tendinitis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "occupational disease",
+                "qid": "Q637816",
+                "url": "https://en.wikipedia.org/wiki/Occupational_disease"
+            },
+            {
+                "name": "tendinopathy",
+                "qid": "Q1682583",
+                "url": "https://en.wikipedia.org/wiki/Tendinopathy"
+            },
+            {
+                "name": "foot diseases",
+                "qid": "Q5282137",
+                "url": "https://en.wikipedia.org/wiki/Diseases_of_the_foot"
+            }
+        ]
+    }
+}

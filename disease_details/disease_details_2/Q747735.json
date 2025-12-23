@@ -1,0 +1,52 @@
+{
+    "name": "paranoid personality disorder",
+    "qid": "Q747735",
+    "icd_10": "F60.0",
+    "description": "mental disorder characterized by paranoia and a pervasive, long-standing suspiciousness and generalized mistrust of others",
+    "aliases": [
+        "expansive paranoid personality",
+        "expansive paranoid personality disorder",
+        "fanatic personality",
+        "fanatic personality disorder",
+        "paranoid personality",
+        "querulant personality",
+        "querulant personality disorder",
+        "sensitive paranoid personality",
+        "sensitive paranoid personality disorder"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paranoid.jpg",
+    "url": "https://en.wikipedia.org/wiki/Paranoid_personality_disorder",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "personality disorder",
+                "qid": "Q270673",
+                "url": "https://en.wikipedia.org/wiki/Personality_disorder"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "psychology",
+                "qid": "Q9418",
+                "url": "https://en.wikipedia.org/wiki/Psychology"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "psychotherapy",
+                "qid": "Q183257",
+                "url": "https://en.wikipedia.org/wiki/Psychotherapy"
+            }
+        ]
+    }
+}

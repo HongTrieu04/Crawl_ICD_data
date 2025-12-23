@@ -1,0 +1,31 @@
+{
+    "name": "meningococcal meningitis",
+    "qid": "Q7386479",
+    "icd_10": "A39.0",
+    "description": "bacterial meningitis that has material basis in Neisseria meningitidis infection",
+    "aliases": [
+        "Meningitis, Meningococcal"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "meningococcal disease",
+                "qid": "Q890785",
+                "url": "https://en.wikipedia.org/wiki/Meningococcal_disease"
+            },
+            {
+                "name": "bacterial meningitis",
+                "qid": "Q3678510"
+            }
+        ]
+    }
+}

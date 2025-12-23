@@ -1,0 +1,25 @@
+{
+    "name": "angiomyxoma",
+    "qid": "Q3617384",
+    "icd_10": "D17.5",
+    "description": "medical condition",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Aggressive%20angiomyxoma%20-%20intermed%20mag.jpg",
+    "url": "https://en.wikipedia.org/wiki/Aggressive_angiomyxoma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "circulatory system",
+                "qid": "Q11068",
+                "url": "https://en.wikipedia.org/wiki/Circulatory_system"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "myxoid tumor",
+                "qid": "Q16666910",
+                "url": "https://en.wikipedia.org/wiki/Myxoid_tumor"
+            }
+        ]
+    }
+}

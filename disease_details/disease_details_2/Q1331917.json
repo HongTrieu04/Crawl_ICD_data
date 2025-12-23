@@ -1,0 +1,20 @@
+{
+    "name": "elbow dislocation",
+    "qid": "Q1331917",
+    "icd_10": "S53.1",
+    "description": null,
+    "aliases": [
+        "Elbow dislocation"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "joint dislocation",
+                "qid": "Q324509",
+                "url": "https://en.wikipedia.org/wiki/Joint_dislocation"
+            }
+        ]
+    }
+}

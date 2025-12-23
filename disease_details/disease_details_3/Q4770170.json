@@ -1,0 +1,18 @@
+{
+    "name": "differential diagnoses of anorexia nervosa",
+    "qid": "Q4770170",
+    "icd_10": "F50.1",
+    "description": "includes various types of medical and psychological conditions, which may be misdiagnosed as anorexia nervosa",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Differential_diagnoses_of_anorexia_nervosa",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ]
+    }
+}

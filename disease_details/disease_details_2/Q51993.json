@@ -1,0 +1,180 @@
+{
+    "name": "Ebola hemorrhagic fever",
+    "qid": "Q51993",
+    "icd_10": "A98.4",
+    "description": "human disease",
+    "aliases": [
+        "Ebola",
+        "EVP",
+        "EHP",
+        "Ebola disease",
+        "Ebola fever",
+        "Ebola virus disease",
+        "Hemorrhagic Fever, Ebola"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/7042%20lores-Ebola-Zaire-CDC%20Photo.jpg",
+    "url": "https://en.wikipedia.org/wiki/Ebola",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            },
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "vomiting",
+                "qid": "Q127076",
+                "url": "https://en.wikipedia.org/wiki/Vomiting"
+            },
+            {
+                "name": "diarrhea",
+                "qid": "Q40878",
+                "url": "https://en.wikipedia.org/wiki/Diarrhea"
+            },
+            {
+                "name": "abdominal pain",
+                "qid": "Q183425",
+                "url": "https://en.wikipedia.org/wiki/Abdominal_pain"
+            },
+            {
+                "name": "nausea",
+                "qid": "Q186889",
+                "url": "https://en.wikipedia.org/wiki/Nausea"
+            },
+            {
+                "name": "dyspnea",
+                "qid": "Q188008",
+                "url": "https://en.wikipedia.org/wiki/Shortness_of_breath"
+            },
+            {
+                "name": "nosebleed",
+                "qid": "Q202013",
+                "url": "https://en.wikipedia.org/wiki/Nosebleed"
+            },
+            {
+                "name": "bleeding",
+                "qid": "Q166019",
+                "url": "https://en.wikipedia.org/wiki/Bleeding"
+            },
+            {
+                "name": "conjunctivitis",
+                "qid": "Q167844",
+                "url": "https://en.wikipedia.org/wiki/Conjunctivitis"
+            },
+            {
+                "name": "internal bleeding",
+                "qid": "Q2361887",
+                "url": "https://en.wikipedia.org/wiki/Internal_bleeding"
+            },
+            {
+                "name": "myalgia",
+                "qid": "Q474959",
+                "url": "https://en.wikipedia.org/wiki/Myalgia"
+            },
+            {
+                "name": "rash",
+                "qid": "Q653197",
+                "url": "https://en.wikipedia.org/wiki/Rash"
+            },
+            {
+                "name": "arthralgia",
+                "qid": "Q683498",
+                "url": "https://en.wikipedia.org/wiki/Arthralgia"
+            },
+            {
+                "name": "poisoning",
+                "qid": "Q114953"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "viral hemorrhagic fever",
+                "qid": "Q162272",
+                "url": "https://en.wikipedia.org/wiki/Viral_hemorrhagic_fever"
+            },
+            {
+                "name": "viral infectious disease",
+                "qid": "Q1928978",
+                "url": "https://en.wikipedia.org/wiki/Viral_disease"
+            },
+            {
+                "name": "hospital-acquired infection",
+                "qid": "Q215509",
+                "url": "https://en.wikipedia.org/wiki/Hospital-acquired_infection"
+            },
+            {
+                "name": "Filoviridae infectious disease",
+                "qid": "Q18975835"
+            },
+            {
+                "name": "pandemic and epidemic-prone diseases",
+                "qid": "Q131345497"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "analgesic",
+                "qid": "Q173235",
+                "url": "https://en.wikipedia.org/wiki/Analgesic"
+            },
+            {
+                "name": "blood plasma",
+                "qid": "Q79749",
+                "url": "https://en.wikipedia.org/wiki/Blood_plasma"
+            },
+            {
+                "name": "blood transfusion",
+                "qid": "Q183605",
+                "url": "https://en.wikipedia.org/wiki/Blood_transfusion"
+            },
+            {
+                "name": "hydration",
+                "qid": "Q356243",
+                "url": "https://en.wikipedia.org/wiki/Hydration"
+            },
+            {
+                "name": "antipyretic",
+                "qid": "Q582687",
+                "url": "https://en.wikipedia.org/wiki/Antipyretic"
+            },
+            {
+                "name": "symptomatic treatment",
+                "qid": "Q621558",
+                "url": "https://en.wikipedia.org/wiki/Symptomatic_treatment"
+            },
+            {
+                "name": "intravenous fluid replacement",
+                "qid": "Q24885926"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Orthoebolavirus zairense",
+                "qid": "Q10538943",
+                "url": "https://en.wikipedia.org/wiki/Ebola_virus"
+            },
+            {
+                "name": "Ebolavirus",
+                "qid": "Q5331908",
+                "url": "https://en.wikipedia.org/wiki/Ebolavirus"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

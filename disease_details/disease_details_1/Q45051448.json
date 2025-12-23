@@ -1,0 +1,37 @@
+{
+    "name": "preterm infant",
+    "qid": "Q45051448",
+    "icd_10": "P07.3",
+    "description": "human infant born at less than 37 weeks after conception",
+    "aliases": [
+        "preemie",
+        "Infant, Premature",
+        "premature baby",
+        "premature infant"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Prematur%20in%20CPAP.JPG",
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "infant",
+                "qid": "Q998",
+                "url": "https://en.wikipedia.org/wiki/Infant"
+            },
+            {
+                "name": "neonate",
+                "qid": "Q576104",
+                "url": "https://en.wikipedia.org/wiki/Neonate"
+            },
+            {
+                "name": "low birth weight infant",
+                "qid": "Q6692979",
+                "url": "https://en.wikipedia.org/wiki/Low_birth_weight"
+            },
+            {
+                "name": "human perinate",
+                "qid": "Q130258134"
+            }
+        ]
+    }
+}

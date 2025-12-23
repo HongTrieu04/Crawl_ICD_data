@@ -1,0 +1,41 @@
+{
+    "name": "adenoma",
+    "qid": "Q272741",
+    "icd_10": "D35.0",
+    "description": "cell type benign neoplasm that is composed of epithelial tissue in which tumor cells form glands or glandlike structures",
+    "aliases": [
+        "adenomas",
+        "acinar cell adenoma",
+        "acinar cell adenoma (morphologic abnormality)",
+        "acinic cell adenoma"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Colon%20adenoma%20%281%29.jpg",
+    "url": "https://en.wikipedia.org/wiki/Adenoma",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "benign neoplasms by histologic type",
+                "qid": "Q18553645"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "inflammation",
+                "qid": "Q101991",
+                "url": "https://en.wikipedia.org/wiki/Inflammation"
+            }
+        ]
+    }
+}

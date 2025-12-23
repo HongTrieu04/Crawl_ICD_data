@@ -1,0 +1,32 @@
+{
+    "name": "craniopharyngioma",
+    "qid": "Q1786513",
+    "icd_10": "D44.4",
+    "description": "type of brain tumor derived from pituitary gland embryonic tissue that occurs most commonly in children, but also affects adults",
+    "aliases": [
+        "craniopharyngioma (disorder)",
+        "craniopharyngioma (morphologic abnormality)",
+        "neoplasm of Rathke's Pouch"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Adamantinomatous%20craniopharyngioma%20-%20very%20low%20mag.jpg",
+    "url": "https://en.wikipedia.org/wiki/Craniopharyngioma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "central nervous system organ benign neoplasm",
+                "qid": "Q18553651"
+            },
+            {
+                "name": "Rathke's pouch tumor",
+                "qid": "Q104640278"
+            }
+        ]
+    }
+}

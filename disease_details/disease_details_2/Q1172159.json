@@ -1,0 +1,27 @@
+{
+    "name": "pimple",
+    "qid": "Q1172159",
+    "icd_10": "R23.82",
+    "description": "blister containing purulent fluid",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Girl%20Suffering%20From%20Pimples.jpg",
+    "url": "https://en.wikipedia.org/wiki/Pimple",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "blister",
+                "qid": "Q276469",
+                "url": "https://en.wikipedia.org/wiki/Blister"
+            },
+            {
+                "name": "lesion",
+                "qid": "Q827023",
+                "url": "https://en.wikipedia.org/wiki/Lesion"
+            },
+            {
+                "name": "skin and integumentary tissue symptom",
+                "qid": "Q100751718"
+            }
+        ]
+    }
+}

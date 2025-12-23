@@ -1,0 +1,80 @@
+{
+    "name": "Becker muscular dystrophy",
+    "qid": "Q2484592",
+    "icd_10": "G71.0",
+    "description": "X-linked recessive inherited disorder characterized by slowly progressive muscle weakness of the legs and pelvis",
+    "aliases": [
+        "BMD",
+        "Becker's muscular dystrophy",
+        "benign congenital myopathy",
+        "Benign pseudohypertrophic muscular dystrophy"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Becker_muscular_dystrophy",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "muscular dystrophy",
+                "qid": "Q1137767",
+                "url": "https://en.wikipedia.org/wiki/Muscular_dystrophy"
+            },
+            {
+                "name": "Duchenne and Becker muscular dystrophy",
+                "qid": "Q55786602"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "mutation",
+                "qid": "Q42918",
+                "url": "https://en.wikipedia.org/wiki/Mutation"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "cardiomyopathy",
+                "qid": "Q847583",
+                "url": "https://en.wikipedia.org/wiki/Cardiomyopathy"
+            },
+            {
+                "name": "muscle weakness",
+                "qid": "Q270421",
+                "url": "https://en.wikipedia.org/wiki/Muscle_weakness"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "physiotherapy",
+                "qid": "Q186005",
+                "url": "https://en.wikipedia.org/wiki/Physical_therapy"
+            },
+            {
+                "name": "gene therapy",
+                "qid": "Q213901",
+                "url": "https://en.wikipedia.org/wiki/Gene_therapy"
+            },
+            {
+                "name": "antiarrhythmic agent",
+                "qid": "Q241549",
+                "url": "https://en.wikipedia.org/wiki/Antiarrhythmic_agent"
+            },
+            {
+                "name": "occupational therapy",
+                "qid": "Q380141",
+                "url": "https://en.wikipedia.org/wiki/Occupational_therapy"
+            }
+        ]
+    }
+}

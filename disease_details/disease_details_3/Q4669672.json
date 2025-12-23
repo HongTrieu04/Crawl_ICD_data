@@ -1,0 +1,24 @@
+{
+    "name": "Abscess of thymus",
+    "qid": "Q4669672",
+    "icd_10": "E32.1",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Abscess_of_thymus",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "thymus gland disease",
+                "qid": "Q18556740"
+            }
+        ]
+    }
+}

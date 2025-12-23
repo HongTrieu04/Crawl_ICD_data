@@ -1,0 +1,32 @@
+{
+    "name": "Janeway lesion",
+    "qid": "Q1149382",
+    "icd_10": "A41.8",
+    "description": "medical condition",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Janeway%20lesion.JPG",
+    "url": "https://en.wikipedia.org/wiki/Janeway_lesion",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "skin disease",
+                "qid": "Q949302",
+                "url": "https://en.wikipedia.org/wiki/Skin_condition"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "infective endocarditis",
+                "qid": "Q2450598",
+                "url": "https://en.wikipedia.org/wiki/Infective_endocarditis"
+            }
+        ]
+    }
+}

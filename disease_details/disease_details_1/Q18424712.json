@@ -1,0 +1,21 @@
+{
+    "name": "idiopathic urticaria",
+    "qid": "Q18424712",
+    "icd_10": "L50.1",
+    "description": "human disease",
+    "aliases": [
+        "Idiopathic urticaria (disorder)",
+        "obsolete idiopathic urticaria"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "urticaria",
+                "qid": "Q187440",
+                "url": "https://en.wikipedia.org/wiki/Hives"
+            }
+        ]
+    }
+}

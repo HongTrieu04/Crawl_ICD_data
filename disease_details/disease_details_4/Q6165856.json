@@ -1,0 +1,33 @@
+{
+    "name": "jaw abnormality",
+    "qid": "Q6165856",
+    "icd_10": "K07.1",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Jaw_abnormality",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "craniofacial abnormality",
+                "qid": "Q5182137",
+                "url": "https://en.wikipedia.org/wiki/Craniofacial_abnormality"
+            },
+            {
+                "name": "jaw disease",
+                "qid": "Q47108021"
+            },
+            {
+                "name": "stomatognathic system abnormality",
+                "qid": "Q54945665"
+            }
+        ]
+    }
+}

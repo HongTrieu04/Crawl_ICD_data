@@ -1,0 +1,35 @@
+{
+    "name": "enchondromatosis",
+    "qid": "Q5375429",
+    "icd_10": "Q78.4",
+    "description": "human disease",
+    "aliases": [
+        "Ollier disease",
+        "dyschondroplasia",
+        "Dyschondroplasia",
+        "Dyschondroplasia (disorder)",
+        "Dyschondroplasia NOS (disorder)",
+        "Enchondromatosis",
+        "Enchondromatosis (disorder)",
+        "obsolete dyschondroplasia",
+        "Ollier's disease"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Enchondromatosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "osteochondrodysplasia",
+                "qid": "Q3251367",
+                "url": "https://en.wikipedia.org/wiki/Osteochondrodysplasia"
+            }
+        ]
+    }
+}

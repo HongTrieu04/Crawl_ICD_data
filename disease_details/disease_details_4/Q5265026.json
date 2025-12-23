@@ -1,0 +1,25 @@
+{
+    "name": "Desquamative gingivitis",
+    "qid": "Q5265026",
+    "icd_10": "K05.1",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Desquamative_gingivitis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "gingivitis",
+                "qid": "Q673083",
+                "url": "https://en.wikipedia.org/wiki/Gingivitis"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "periodontology",
+                "qid": "Q938196",
+                "url": "https://en.wikipedia.org/wiki/Periodontology"
+            }
+        ]
+    }
+}

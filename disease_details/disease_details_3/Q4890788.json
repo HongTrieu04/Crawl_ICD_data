@@ -1,0 +1,35 @@
+{
+    "name": "Benzodiazepine overdose",
+    "qid": "Q4890788",
+    "icd_10": "T42.4",
+    "description": "high doses of benzodiazepines and the side effects",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Benzodiazepine_overdose",
+    "details": {
+        "Cause": [
+            {
+                "name": "benzodiazepine drug",
+                "qid": "Q83871",
+                "url": "https://en.wikipedia.org/wiki/Benzodiazepine"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "poisoning by drugs",
+                "qid": "Q387175"
+            },
+            {
+                "name": "sedative overdose",
+                "qid": "Q25377859"
+            }
+        ]
+    }
+}

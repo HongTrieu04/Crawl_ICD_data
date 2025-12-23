@@ -1,0 +1,53 @@
+{
+    "name": "cyanide poisoning",
+    "qid": "Q883082",
+    "icd_10": "T65.0",
+    "description": "broad-spectrum poisoning by inhibition of the aerobic respiration metabolism at the cellular level in mitochondria",
+    "aliases": [
+        "Cyanide toxicity",
+        "Hydrocyanic acid poisoning"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Himmler%20Dead.jpg",
+    "url": "https://en.wikipedia.org/wiki/Cyanide_poisoning",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "cyanide",
+                "qid": "Q55076544",
+                "url": "https://en.wikipedia.org/wiki/Cyanide"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "sodium thiosulfate",
+                "qid": "Q339866",
+                "url": "https://en.wikipedia.org/wiki/Sodium_thiosulfate"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "convulsion",
+                "qid": "Q852376",
+                "url": "https://en.wikipedia.org/wiki/Convulsion"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "cause of death",
+                "qid": "Q1931388",
+                "url": "https://en.wikipedia.org/wiki/Cause_of_death"
+            },
+            {
+                "name": "poisoning",
+                "qid": "Q114953"
+            }
+        ]
+    }
+}

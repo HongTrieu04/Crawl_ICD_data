@@ -1,0 +1,25 @@
+{
+    "name": "Re-entry ventricular arrhythmia",
+    "qid": "Q7299957",
+    "icd_10": "I47.0",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Re-entry_ventricular_arrhythmia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "paroxysmal tachycardia",
+                "qid": "Q3980025",
+                "url": "https://en.wikipedia.org/wiki/Paroxysmal_tachycardia"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "name": "tuberculous lymphadenitis",
+    "qid": "Q7850854",
+    "icd_10": "A18.2",
+    "description": "medical condition",
+    "aliases": [
+        "tuberculous adenitis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Tuberculous_lymphadenitis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "lymphadenopathy",
+                "qid": "Q847726",
+                "url": "https://en.wikipedia.org/wiki/Lymphadenopathy"
+            },
+            {
+                "name": "extrapulmonary tuberculosis",
+                "qid": "Q18553330",
+                "url": "https://en.wikipedia.org/wiki/Extrapulmonary_tuberculosis"
+            },
+            {
+                "name": "lymphadenitis",
+                "qid": "Q3269466"
+            }
+        ]
+    }
+}

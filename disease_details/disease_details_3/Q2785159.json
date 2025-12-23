@@ -1,0 +1,43 @@
+{
+    "name": "drug-induced lupus erythematosus",
+    "qid": "Q2785159",
+    "icd_10": "M32.0",
+    "description": "lupus erythematosus caused by chronic use of certain drugs",
+    "aliases": [
+        "DIL",
+        "DILE"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Procainamide.svg",
+    "url": "https://en.wikipedia.org/wiki/Drug-induced_lupus_erythematosus",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "adverse drug reaction",
+                "qid": "Q45959",
+                "url": "https://en.wikipedia.org/wiki/Adverse_drug_reaction"
+            },
+            {
+                "name": "lupus erythematosus",
+                "qid": "Q188297",
+                "url": "https://en.wikipedia.org/wiki/Lupus_erythematosus"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "immunology",
+                "qid": "Q101929",
+                "url": "https://en.wikipedia.org/wiki/Immunology"
+            },
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ]
+    }
+}

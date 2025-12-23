@@ -1,0 +1,33 @@
+{
+    "name": "Pemphigus erythematosus",
+    "qid": "Q7162038",
+    "icd_10": "L10.4",
+    "description": "human disease",
+    "aliases": [
+        "Seborrheic pemphigus",
+        "Senear-Usher syndrome",
+        "Senear–Usher syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pemphigus_erythematosus",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "pemphigus foliaceus",
+                "qid": "Q263609",
+                "url": "https://en.wikipedia.org/wiki/Pemphigus_foliaceus"
+            },
+            {
+                "name": "superficial pemphigus",
+                "qid": "Q55788306"
+            }
+        ]
+    }
+}

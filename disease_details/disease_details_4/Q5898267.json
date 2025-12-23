@@ -1,0 +1,25 @@
+{
+    "name": "hyperchloremia",
+    "qid": "Q5898267",
+    "icd_10": "E87.8",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hyperchloremia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "electrolyte imbalance",
+                "qid": "Q1326943",
+                "url": "https://en.wikipedia.org/wiki/Electrolyte_imbalance"
+            }
+        ]
+    }
+}

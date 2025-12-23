@@ -1,0 +1,27 @@
+{
+    "name": "thoracic aortic aneurysm",
+    "qid": "Q3616648",
+    "icd_10": "I71.2",
+    "description": "aortic aneurysm that is located in the thoracic aorta",
+    "aliases": [
+        "Aortic Aneurysm, Thoracic"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Thoracic_aortic_aneurysm",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "aortic aneurysm",
+                "qid": "Q616003",
+                "url": "https://en.wikipedia.org/wiki/Aortic_aneurysm"
+            }
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Febrile non-hemolytic transfusion reaction",
+    "qid": "Q5439719",
+    "icd_10": "Y44.7",
+    "description": "medical condition",
+    "aliases": [
+        "febrile-type reaction",
+        "FNHTR"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Febrile_non-hemolytic_transfusion_reaction",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "transfusion incident",
+                "qid": "Q951255"
+            }
+        ]
+    }
+}

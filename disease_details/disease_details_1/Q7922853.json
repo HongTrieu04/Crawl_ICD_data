@@ -1,0 +1,25 @@
+{
+    "name": "Vertical root fracture",
+    "qid": "Q7922853",
+    "icd_10": "S02.5",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Vertical_root_fracture",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "Root fracture",
+                "qid": "Q49001435",
+                "url": "https://en.wikipedia.org/wiki/Root_fracture"
+            }
+        ]
+    }
+}

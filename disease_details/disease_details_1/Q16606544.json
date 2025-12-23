@@ -1,0 +1,50 @@
+{
+    "name": "nickel allergic contact dermatitis",
+    "qid": "Q16606544",
+    "icd_10": "L23.0",
+    "description": "allergic contact dermatitis that has allergic trigger nickel atom",
+    "aliases": [
+        "allergic contact dermatitis to Ni",
+        "nickel allergic contact dermatitis (Ni-ACD)",
+        "Nickel allergy"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Nickel_allergy",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "immunology",
+                "qid": "Q101929",
+                "url": "https://en.wikipedia.org/wiki/Immunology"
+            },
+            {
+                "name": "allergology",
+                "qid": "Q1046686",
+                "url": "https://en.wikipedia.org/wiki/Allergology"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "nickel",
+                "qid": "Q744",
+                "url": "https://en.wikipedia.org/wiki/Nickel"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "metal allergy",
+                "qid": "Q11646937",
+                "url": "https://en.wikipedia.org/wiki/Metal_allergy"
+            },
+            {
+                "name": "allergic contact dermatitis",
+                "qid": "Q12077704",
+                "url": "https://en.wikipedia.org/wiki/Allergic_contact_dermatitis"
+            },
+            {
+                "name": "nickel sensitivity",
+                "qid": "Q21118351"
+            }
+        ]
+    }
+}

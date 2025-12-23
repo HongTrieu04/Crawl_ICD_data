@@ -1,0 +1,30 @@
+{
+    "name": "pseudopterygium",
+    "qid": "Q2115771",
+    "icd_10": "H11.8",
+    "description": "Human disease",
+    "aliases": [
+        "Pseudopterygium"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pseudopterygium",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "corneal disease",
+                "qid": "Q10526382"
+            },
+            {
+                "name": "conjunctival degeneration",
+                "qid": "Q18553789"
+            }
+        ]
+    }
+}

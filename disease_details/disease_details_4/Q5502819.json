@@ -1,0 +1,18 @@
+{
+    "name": "frenulectomy of the penis",
+    "qid": "Q5502819",
+    "icd_10": "N48.8",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Penile_frenulectomy",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            }
+        ]
+    }
+}

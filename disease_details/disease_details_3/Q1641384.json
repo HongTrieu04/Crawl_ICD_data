@@ -1,0 +1,31 @@
+{
+    "name": "hypophosphatemia",
+    "qid": "Q1641384",
+    "icd_10": "E83.3",
+    "description": "electrolyte disorder in which there is a low level of phosphate in the blood",
+    "aliases": [
+        "hypophosphataemia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hypophosphatemia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "phosphorus metabolism disease",
+                "qid": "Q18555096"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ]
+    }
+}

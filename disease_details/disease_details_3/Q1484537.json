@@ -1,0 +1,52 @@
+{
+    "name": "mycoplasma infection",
+    "qid": "Q1484537",
+    "icd_10": "A49.3",
+    "description": "bacterial infection with a species of the genus Mycoplasma",
+    "aliases": [
+        "commensal Mycoplasma infectious disease",
+        "disease caused by Mycoplasma [Ambiguous]",
+        "disease caused by Mycoplasma, NOS",
+        "Eaton's agent infection (disorder)",
+        "Mycoplasma infection",
+        "Mycoplasma infection (disorder)",
+        "Mycoplasma infection with Eaton's agent",
+        "Mycoplasma infection, unspecified (disorder)",
+        "Mycoplasmosis (disorder)",
+        "primary Mycoplasma infectious disease"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "bacterial infectious disease",
+                "qid": "Q727028",
+                "url": "https://en.wikipedia.org/wiki/Bacterial_disease"
+            },
+            {
+                "name": "primary Mycoplasmataceae infectious disease",
+                "qid": "Q55009554"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "infection",
+                "qid": "Q166231",
+                "url": "https://en.wikipedia.org/wiki/Infection"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

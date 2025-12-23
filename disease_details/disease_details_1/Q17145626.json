@@ -1,0 +1,30 @@
+{
+    "name": "hypertropia",
+    "qid": "Q17145626",
+    "icd_10": "H50.2",
+    "description": "Human disease",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hypertropia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "strabismus",
+                "qid": "Q179951",
+                "url": "https://en.wikipedia.org/wiki/Strabismus"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            }
+        ]
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "name": "early-onset Alzheimer's disease",
+    "qid": "Q5326566",
+    "icd_10": "F00.0",
+    "description": "Alzheimer's disease developing before the age of 65",
+    "aliases": [
+        "EOAD"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Early-onset_Alzheimer%27s_disease",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "Alzheimer's disease",
+                "qid": "Q11081",
+                "url": "https://en.wikipedia.org/wiki/Alzheimer%27s_disease"
+            },
+            {
+                "name": "early-onset disease",
+                "qid": "Q1277502"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "alpha-tocopherol",
+                "qid": "Q158348",
+                "url": "https://en.wikipedia.org/wiki/%CE%91-Tocopherol"
+            },
+            {
+                "name": "valproic acid",
+                "qid": "Q240642",
+                "url": "https://en.wikipedia.org/wiki/Valproate"
+            },
+            {
+                "name": "(±)-deprenyl",
+                "qid": "Q402633",
+                "url": "https://en.wikipedia.org/wiki/Deprenyl"
+            },
+            {
+                "name": "rivastigmine",
+                "qid": "Q411887",
+                "url": "https://en.wikipedia.org/wiki/Rivastigmine"
+            },
+            {
+                "name": "galantamine",
+                "qid": "Q412690",
+                "url": "https://en.wikipedia.org/wiki/Galantamine"
+            },
+            {
+                "name": "donepezil",
+                "qid": "Q415081",
+                "url": "https://en.wikipedia.org/wiki/Donepezil"
+            },
+            {
+                "name": "tacrine",
+                "qid": "Q421076",
+                "url": "https://en.wikipedia.org/wiki/Tacrine"
+            }
+        ]
+    }
+}

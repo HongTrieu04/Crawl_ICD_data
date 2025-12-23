@@ -1,0 +1,30 @@
+{
+    "name": "ear malformation",
+    "qid": "Q55780524",
+    "icd_10": "Q17.9",
+    "description": "human disease",
+    "aliases": [
+        "Cup Ear",
+        "EAR MALFORMATION"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "congenital physical abnormality",
+                "qid": "Q3281904"
+            },
+            {
+                "name": "genetic disease",
+                "qid": "Q200779",
+                "url": "https://en.wikipedia.org/wiki/Genetic_disorder"
+            },
+            {
+                "name": "ear disease",
+                "qid": "Q5325633",
+                "url": "https://en.wikipedia.org/wiki/Ear_disease"
+            }
+        ]
+    }
+}

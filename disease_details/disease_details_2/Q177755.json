@@ -1,0 +1,64 @@
+{
+    "name": "astrocytoma",
+    "qid": "Q177755",
+    "icd_10": "C71",
+    "description": "type of cancer of the brain originating in a particular kind of glial cells, star-shaped brain cells in the cerebrum called astrocytes",
+    "aliases": [
+        "astrocytic tumor",
+        "astrocytoma of brain",
+        "astrocytoma of brain (disorder)",
+        "Astrocytoma of Cerebral Hemispheres",
+        "astrocytoma of Cerebrum",
+        "Astrocytoma of the Cerebral Hemispheres",
+        "Astrocytoma of the Cerebrum",
+        "astrocytoma, no ICD-O subtype",
+        "astrocytoma, no ICD-O subtype (morphologic abnormality)",
+        "astroglioma",
+        "cerebral astrocytoma",
+        "cerebral hemisphere astrocytoma (excluding glioblastoma)",
+        "Cerebral Hemispheric Astrocytoma"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Astrocytoma.jpg",
+    "url": "https://en.wikipedia.org/wiki/Astrocytoma",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "glioma",
+                "qid": "Q1365309",
+                "url": "https://en.wikipedia.org/wiki/Glioma"
+            },
+            {
+                "name": "central nervous system cancer",
+                "qid": "Q18556002"
+            },
+            {
+                "name": "cerebrum cancer",
+                "qid": "Q18556019"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            },
+            {
+                "name": "neurosurgery",
+                "qid": "Q188449",
+                "url": "https://en.wikipedia.org/wiki/Neurosurgery"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "central nervous system",
+                "qid": "Q47273",
+                "url": "https://en.wikipedia.org/wiki/Central_nervous_system"
+            }
+        ]
+    }
+}

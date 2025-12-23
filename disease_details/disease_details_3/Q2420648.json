@@ -1,0 +1,52 @@
+{
+    "name": "ocular cancer",
+    "qid": "Q2420648",
+    "icd_10": "C69",
+    "description": "type of cancer un the eye",
+    "aliases": [
+        "Cancer of Eye",
+        "Cancer of the Eye",
+        "eye cancer",
+        "Eye Neoplasm, Malignant",
+        "Malignant eye cancer, NOS",
+        "malignant eye neoplasm",
+        "Malignant Eye Tumor",
+        "Malignant Neoplasm of Eye",
+        "Malignant Neoplasm of the Eye",
+        "Malignant Ocular Neoplasm",
+        "Malignant Ocular Tumor",
+        "Malignant Tumor of Eye",
+        "Malignant Tumor of the Eye"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Eye_neoplasm",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "eye disease",
+                "qid": "Q3041498",
+                "url": "https://en.wikipedia.org/wiki/Eye_disease"
+            },
+            {
+                "name": "sensory system cancer",
+                "qid": "Q18553674"
+            },
+            {
+                "name": "eye tumor",
+                "qid": "Q56013680"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ]
+    }
+}

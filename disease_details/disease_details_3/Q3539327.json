@@ -1,0 +1,31 @@
+{
+    "name": "Webbed neck",
+    "qid": "Q3539327",
+    "icd_10": "Q18.3",
+    "description": "Congenital anatomic variant.",
+    "aliases": [
+        "Webbing of neck"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Girl%20with%20Noonan%20syndrome.jpg",
+    "url": "https://en.wikipedia.org/wiki/Webbed_neck",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "pterygium",
+                "qid": "Q17142318",
+                "url": "https://en.wikipedia.org/wiki/Pterygium"
+            },
+            {
+                "name": "rare head and neck malformation",
+                "qid": "Q55785495"
+            }
+        ]
+    }
+}

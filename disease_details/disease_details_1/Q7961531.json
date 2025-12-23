@@ -1,0 +1,27 @@
+{
+    "name": "Waldmann disease",
+    "qid": "Q7961531",
+    "icd_10": "I89.0",
+    "description": "medical condition",
+    "aliases": [
+        "Familial Waldmann's disease (type)",
+        "LYMPHANGIECTASIA, INTESTINAL",
+        "Primary intestinal lymphangiectasis",
+        "Waldmann's disease"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Waldmann_disease",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "Lymphangiectasia",
+                "qid": "Q3832889",
+                "url": "https://en.wikipedia.org/wiki/Lymphangiectasia"
+            },
+            {
+                "name": "rare genetic intestinal disease",
+                "qid": "Q55785596"
+            }
+        ]
+    }
+}

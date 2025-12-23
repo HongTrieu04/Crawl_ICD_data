@@ -1,0 +1,53 @@
+{
+    "name": "primary effusion lymphoma",
+    "qid": "Q3832899",
+    "icd_10": "C83.8",
+    "description": "Primary effusion lymphoma (PEL) is a large B-cell lymphoma located in the body cavities, characterized by pleural, peritoneal, and pericardial fluid lymphomatous effusions and that is always associated with human herpes virus-8 (HHV-8)",
+    "aliases": [
+        "PEL",
+        "AIDS-related lymphoma",
+        "Body Cavity-Based Lymphoma",
+        "Primary Effusion Lymphoma"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Primary_effusion_lymphoma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "immunology",
+                "qid": "Q101929",
+                "url": "https://en.wikipedia.org/wiki/Immunology"
+            },
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            },
+            {
+                "name": "angiology",
+                "qid": "Q539690",
+                "url": "https://en.wikipedia.org/wiki/Angiology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "diffuse large B-cell lymphoma",
+                "qid": "Q2626074",
+                "url": "https://en.wikipedia.org/wiki/Diffuse_large_B-cell_lymphoma"
+            },
+            {
+                "name": "B-cell lymphoma",
+                "qid": "Q4833719",
+                "url": "https://en.wikipedia.org/wiki/B-cell_lymphoma"
+            },
+            {
+                "name": "human herpesvirus 8 infectious disease",
+                "qid": "Q18975234"
+            },
+            {
+                "name": "Epstein-Barr virus-associated malignant lymphoproliferative disorder",
+                "qid": "Q55786997"
+            }
+        ]
+    }
+}

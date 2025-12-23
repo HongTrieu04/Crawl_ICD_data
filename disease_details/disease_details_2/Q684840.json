@@ -1,0 +1,75 @@
+{
+    "name": "Sneddon syndrome",
+    "qid": "Q684840",
+    "icd_10": "M30.8",
+    "description": "form of arteriopathy",
+    "aliases": [
+        "Cerebro-vascular lesions and livedo reticularis",
+        "Ehrmann-Sneddon syndrome",
+        "Idiopathic livedo reticularis with systemic involvement",
+        "Idiopathic livedo reticularis with systemic involvement (disorder)",
+        "Livedo racemosa and cerebrovascular accidents",
+        "Livedo racemosa-cerebrovascular accident syndrome",
+        "Livedo Reticularis and Cerebrovascular Accidents",
+        "Livedo reticularis-cerebrovascular accident syndrome",
+        "SNEDDON SYNDROME",
+        "Sneddon's syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Sneddon%27s_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "autoimmune connective tissue disorder",
+                "qid": "Q2208472"
+            },
+            {
+                "name": "autoimmune skin disease",
+                "qid": "Q12504769"
+            },
+            {
+                "name": "autoimmune disease of the nervous system",
+                "qid": "Q18556300"
+            },
+            {
+                "name": "vascular skin disease",
+                "qid": "Q18558156"
+            },
+            {
+                "name": "artery disease",
+                "qid": "Q18965518"
+            },
+            {
+                "name": "genetic skin vascular disorder",
+                "qid": "Q55785835"
+            },
+            {
+                "name": "rare genetic immune disease",
+                "qid": "Q55785867"
+            },
+            {
+                "name": "genetic systemic or rheumatologic disease",
+                "qid": "Q55786852"
+            },
+            {
+                "name": "central nervous system and retinal vascular disease",
+                "qid": "Q55788489"
+            },
+            {
+                "name": "genetic nervous system disorder",
+                "qid": "Q55788492"
+            },
+            {
+                "name": "other acquired skin disease",
+                "qid": "Q55788714"
+            }
+        ]
+    }
+}

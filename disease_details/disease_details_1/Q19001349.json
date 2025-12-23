@@ -1,0 +1,23 @@
+{
+    "name": "infectious disease of the breast and nipple associated with childbirth",
+    "qid": "Q19001349",
+    "icd_10": "O91",
+    "description": "Human disease",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "breast disease",
+                "qid": "Q4959796",
+                "url": "https://en.wikipedia.org/wiki/Breast_disease"
+            },
+            {
+                "name": "puerperal disorders",
+                "qid": "Q7258523",
+                "url": "https://en.wikipedia.org/wiki/Postpartum_disorder"
+            }
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "name": "encephalitis",
+    "qid": "Q199615",
+    "icd_10": "B94.1",
+    "description": "acute inflammation of the brain with flu-like symptoms",
+    "aliases": [
+        "brain inflammation",
+        "brainitis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hsv%20encephalitis.jpg",
+    "url": "https://en.wikipedia.org/wiki/Encephalitis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "encephalopathy",
+                "qid": "Q576349",
+                "url": "https://en.wikipedia.org/wiki/Encephalopathy"
+            },
+            {
+                "name": "neurological symptom",
+                "qid": "Q12040808"
+            },
+            {
+                "name": "brain inflammatory disease",
+                "qid": "Q55785279"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "infection",
+                "qid": "Q166231",
+                "url": "https://en.wikipedia.org/wiki/Infection"
+            },
+            {
+                "name": "autoimmunity",
+                "qid": "Q192360",
+                "url": "https://en.wikipedia.org/wiki/Autoimmunity"
+            }
+        ]
+    }
+}

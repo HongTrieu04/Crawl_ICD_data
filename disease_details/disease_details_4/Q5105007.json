@@ -1,0 +1,43 @@
+{
+    "name": "chorea gravidarum",
+    "qid": "Q5105007",
+    "icd_10": "O99.3",
+    "description": "Human disease",
+    "aliases": [
+        "Chorea gravidarum",
+        "Chorea gravidarum (disorder)"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Chorea_gravidarum",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "choreatic disease",
+                "qid": "Q1076421",
+                "url": "https://en.wikipedia.org/wiki/Chorea"
+            },
+            {
+                "name": "complications of pregnancy",
+                "qid": "Q2916477",
+                "url": "https://en.wikipedia.org/wiki/Complications_of_pregnancy"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            },
+            {
+                "name": "obstetrics",
+                "qid": "Q5284418",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics"
+            }
+        ]
+    }
+}

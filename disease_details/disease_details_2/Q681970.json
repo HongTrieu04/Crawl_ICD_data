@@ -1,0 +1,64 @@
+{
+    "name": "contagious pustular dermatitis",
+    "qid": "Q681970",
+    "icd_10": "B08.02",
+    "description": "skin disease and general infection in sheep, goats, chamois, reindeer and muskrats",
+    "aliases": [
+        "Orf",
+        "contagious ecthyma",
+        "Ecthyma contagiosum",
+        "Ecthyma, Contagious",
+        "scabby mouth",
+        "sheep pox",
+        "thistle disease"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheep%20with%20orf.jpg",
+    "url": "https://en.wikipedia.org/wiki/Orf_(disease)",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "Farmyard pox",
+                "qid": "Q5435955",
+                "url": "https://en.wikipedia.org/wiki/Farmyard_pox"
+            },
+            {
+                "name": "skin disease",
+                "qid": "Q949302",
+                "url": "https://en.wikipedia.org/wiki/Skin_condition"
+            },
+            {
+                "name": "viral infectious disease",
+                "qid": "Q1928978",
+                "url": "https://en.wikipedia.org/wiki/Viral_disease"
+            },
+            {
+                "name": "Poxviridae infectious disease",
+                "qid": "Q12353899"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "veterinary medicine",
+                "qid": "Q170201",
+                "url": "https://en.wikipedia.org/wiki/Veterinary_medicine"
+            },
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Parapoxvirus ovis",
+                "qid": "Q2029700"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "zone of skin",
+                "qid": "Q30029801"
+            }
+        ]
+    }
+}

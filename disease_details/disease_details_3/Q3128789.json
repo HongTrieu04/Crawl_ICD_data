@@ -1,0 +1,27 @@
+{
+    "name": "spontaneous bacterial peritonitis",
+    "qid": "Q3128789",
+    "icd_10": "K65.2",
+    "description": "development of a bacterial infection in the peritoneum, despite the absence of an obvious source for the infection",
+    "aliases": [
+        "SBP"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Spontaneous_bacterial_peritonitis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "peritonitis",
+                "qid": "Q223102",
+                "url": "https://en.wikipedia.org/wiki/Peritonitis"
+            }
+        ]
+    }
+}

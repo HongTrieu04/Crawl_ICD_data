@@ -1,0 +1,27 @@
+{
+    "name": "trisomy",
+    "qid": "Q844903",
+    "icd_10": "Q97",
+    "description": "abnormal condition of three copies of a particular chromosome",
+    "aliases": [
+        "chromosomal triplication"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Trisomy",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "polysomy",
+                "qid": "Q17165041",
+                "url": "https://en.wikipedia.org/wiki/Polysomy"
+            }
+        ]
+    }
+}

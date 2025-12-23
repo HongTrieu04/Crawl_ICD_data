@@ -1,0 +1,34 @@
+{
+    "name": "hyponatremia",
+    "qid": "Q824292",
+    "icd_10": "E87.1",
+    "description": "low blood sodium level",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Na-TableImage.svg",
+    "url": "https://en.wikipedia.org/wiki/Hyponatremia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            },
+            {
+                "name": "nephrology",
+                "qid": "Q177635",
+                "url": "https://en.wikipedia.org/wiki/Nephrology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "electrolyte imbalance",
+                "qid": "Q1326943",
+                "url": "https://en.wikipedia.org/wiki/Electrolyte_imbalance"
+            },
+            {
+                "name": "hemic system symptom",
+                "qid": "Q102186671"
+            }
+        ]
+    }
+}

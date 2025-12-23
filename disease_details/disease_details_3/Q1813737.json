@@ -1,0 +1,66 @@
+{
+    "name": "macular retinal edema",
+    "qid": "Q1813737",
+    "icd_10": "H35.8",
+    "description": "Human disease",
+    "aliases": [
+        "Edema, Macular",
+        "macula lutea retinal edema",
+        "MACULAR EDEMA",
+        "Macular retinal edema (disorder)"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Macular_edema",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "maculopathy",
+                "qid": "Q3842207",
+                "url": "https://en.wikipedia.org/wiki/Maculopathy"
+            },
+            {
+                "name": "retinal edema",
+                "qid": "Q18557405"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "triamcinolone",
+                "qid": "Q1074056",
+                "url": "https://en.wikipedia.org/wiki/Triamcinolone"
+            },
+            {
+                "name": "aflibercept",
+                "qid": "Q4689286",
+                "url": "https://en.wikipedia.org/wiki/Aflibercept"
+            },
+            {
+                "name": "bevacizumab",
+                "qid": "Q413299",
+                "url": "https://en.wikipedia.org/wiki/Bevacizumab"
+            },
+            {
+                "name": "ranibizumab",
+                "qid": "Q414270",
+                "url": "https://en.wikipedia.org/wiki/Ranibizumab"
+            },
+            {
+                "name": "dexamethasone",
+                "qid": "Q422252",
+                "url": "https://en.wikipedia.org/wiki/Dexamethasone"
+            }
+        ]
+    }
+}

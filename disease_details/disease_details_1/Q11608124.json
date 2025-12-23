@@ -1,0 +1,26 @@
+{
+    "name": "execution by hanging",
+    "qid": "Q11608124",
+    "icd_10": "X91",
+    "description": "method of execution",
+    "aliases": [
+        "hanging",
+        "hanging by the neck until dead"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20101I-031-2436-03A%2C%20Russland%2C%20Hinrichtung%20von%20Partisanen.jpg",
+    "url": "https://en.wikipedia.org/wiki/Execution_by_hanging",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "capital punishment",
+                "qid": "Q8454",
+                "url": "https://en.wikipedia.org/wiki/Capital_punishment"
+            },
+            {
+                "name": "hanging to death",
+                "qid": "Q175111",
+                "url": "https://en.wikipedia.org/wiki/Hanging"
+            }
+        ]
+    }
+}

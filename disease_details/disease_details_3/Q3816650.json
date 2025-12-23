@@ -1,0 +1,39 @@
+{
+    "name": "geniospasm",
+    "qid": "Q3816650",
+    "icd_10": "G25.3",
+    "description": "Hereditary geniospasm is a movement disorder characterized by episodes of involuntary tremor of the chin and lower lip",
+    "aliases": [
+        "GSM1",
+        "Familial trembling of the chin",
+        "GENIOSPASM 1",
+        "GENIOSPASM 1; GSM1",
+        "GSM 1",
+        "Hereditary chin myoclonus",
+        "Hereditary chin tremor/myoclonus",
+        "Hereditary chin-trembling",
+        "Trembling Chin"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Geniospasm",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "tremor",
+                "qid": "Q223907",
+                "url": "https://en.wikipedia.org/wiki/Tremor"
+            },
+            {
+                "name": "rare genetic tremor disorder",
+                "qid": "Q55787262"
+            }
+        ]
+    }
+}

@@ -1,0 +1,233 @@
+{
+    "name": "Far East scarlet-like fever",
+    "qid": "Q18371582",
+    "icd_10": "A04.8",
+    "description": "Human disease",
+    "aliases": [
+        "infections, Yersinia pestis",
+        "obsolete Yersinia pseudotuberculosis infectious disease",
+        "Pasteurella pseudotuberculosis infection",
+        "Pseudotuberculosis",
+        "Pseudotuberculosis (disorder)",
+        "Yersinia pestis infection",
+        "yersinia pseudotuberculosis infectious disease",
+        "Yersinia pseudotuberculosis infectious disease"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Far_East_scarlet-like_fever",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            },
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "diarrhea",
+                "qid": "Q40878",
+                "url": "https://en.wikipedia.org/wiki/Diarrhea"
+            },
+            {
+                "name": "vomiting",
+                "qid": "Q127076",
+                "url": "https://en.wikipedia.org/wiki/Vomiting"
+            },
+            {
+                "name": "conjunctivitis",
+                "qid": "Q167844",
+                "url": "https://en.wikipedia.org/wiki/Conjunctivitis"
+            },
+            {
+                "name": "abdominal pain",
+                "qid": "Q183425",
+                "url": "https://en.wikipedia.org/wiki/Abdominal_pain"
+            },
+            {
+                "name": "hepatitis",
+                "qid": "Q131742",
+                "url": "https://en.wikipedia.org/wiki/Hepatitis"
+            },
+            {
+                "name": "jaundice",
+                "qid": "Q133244",
+                "url": "https://en.wikipedia.org/wiki/Jaundice"
+            },
+            {
+                "name": "meningitis",
+                "qid": "Q48143",
+                "url": "https://en.wikipedia.org/wiki/Meningitis"
+            },
+            {
+                "name": "myocarditis",
+                "qid": "Q186235",
+                "url": "https://en.wikipedia.org/wiki/Myocarditis"
+            },
+            {
+                "name": "nausea",
+                "qid": "Q186889",
+                "url": "https://en.wikipedia.org/wiki/Nausea"
+            },
+            {
+                "name": "splenomegaly",
+                "qid": "Q1129121",
+                "url": "https://en.wikipedia.org/wiki/Splenomegaly"
+            },
+            {
+                "name": "hepatomegaly",
+                "qid": "Q1362864",
+                "url": "https://en.wikipedia.org/wiki/Hepatomegaly"
+            },
+            {
+                "name": "erythema nodosum",
+                "qid": "Q1363738",
+                "url": "https://en.wikipedia.org/wiki/Erythema_nodosum"
+            },
+            {
+                "name": "pharyngitis",
+                "qid": "Q2085267",
+                "url": "https://en.wikipedia.org/wiki/Pharyngitis"
+            },
+            {
+                "name": "strawberry tongue",
+                "qid": "Q4346317",
+                "url": "https://en.wikipedia.org/wiki/Strawberry_tongue"
+            },
+            {
+                "name": "Pastia's lines",
+                "qid": "Q7143005",
+                "url": "https://en.wikipedia.org/wiki/Pastia%27s_lines"
+            },
+            {
+                "name": "Papular purpuric gloves and socks syndrome",
+                "qid": "Q16948321",
+                "url": "https://en.wikipedia.org/wiki/Papular_purpuric_gloves_and_socks_syndrome"
+            },
+            {
+                "name": "myalgia",
+                "qid": "Q474959",
+                "url": "https://en.wikipedia.org/wiki/Myalgia"
+            },
+            {
+                "name": "rash",
+                "qid": "Q653197",
+                "url": "https://en.wikipedia.org/wiki/Rash"
+            },
+            {
+                "name": "arthralgia",
+                "qid": "Q683498",
+                "url": "https://en.wikipedia.org/wiki/Arthralgia"
+            },
+            {
+                "name": "Reiter disease",
+                "qid": "Q23451815"
+            },
+            {
+                "name": "ring of paleness around the mouth",
+                "qid": "Q56026208"
+            },
+            {
+                "name": "hood symptom",
+                "qid": "Q56027188"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Yersinia pseudotuberculosis",
+                "qid": "Q139928",
+                "url": "https://en.wikipedia.org/wiki/Yersinia_pseudotuberculosis"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "amoxicillin",
+                "qid": "Q201928",
+                "url": "https://en.wikipedia.org/wiki/Amoxicillin"
+            },
+            {
+                "name": "tobramycin",
+                "qid": "Q1758380",
+                "url": "https://en.wikipedia.org/wiki/Tobramycin"
+            },
+            {
+                "name": "pefloxacin",
+                "qid": "Q2601859",
+                "url": "https://en.wikipedia.org/wiki/Pefloxacin"
+            },
+            {
+                "name": "ampicillin",
+                "qid": "Q244150",
+                "url": "https://en.wikipedia.org/wiki/Ampicillin"
+            },
+            {
+                "name": "ciprofloxacin",
+                "qid": "Q256602",
+                "url": "https://en.wikipedia.org/wiki/Ciprofloxacin"
+            },
+            {
+                "name": "ceftriaxone",
+                "qid": "Q421713",
+                "url": "https://en.wikipedia.org/wiki/Ceftriaxone"
+            },
+            {
+                "name": "gentamicin",
+                "qid": "Q422482",
+                "url": "https://en.wikipedia.org/wiki/Gentamicin"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "non-steroidal anti-inflammatory drug",
+                "qid": "Q188724",
+                "url": "https://en.wikipedia.org/wiki/Nonsteroidal_anti-inflammatory_drug"
+            },
+            {
+                "name": "histamine antagonist",
+                "qid": "Q324089",
+                "url": "https://en.wikipedia.org/wiki/Antihistamine"
+            },
+            {
+                "name": "glucocorticoid",
+                "qid": "Q422549",
+                "url": "https://en.wikipedia.org/wiki/Glucocorticoid"
+            },
+            {
+                "name": "diet",
+                "qid": "Q474191",
+                "url": "https://en.wikipedia.org/wiki/Diet_(nutrition)"
+            },
+            {
+                "name": "detoxification",
+                "qid": "Q1090423",
+                "url": "https://en.wikipedia.org/wiki/Detoxification"
+            },
+            {
+                "name": "antimicrobial drug",
+                "qid": "Q178859"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "geonosis",
+                "qid": "Q1503299",
+                "url": "https://en.wikipedia.org/wiki/Sapronosis"
+            },
+            {
+                "name": "yersiniosis",
+                "qid": "Q2600216",
+                "url": "https://en.wikipedia.org/wiki/Yersiniosis"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

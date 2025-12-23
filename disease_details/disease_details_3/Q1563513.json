@@ -1,0 +1,32 @@
+{
+    "name": "HELLP syndrome",
+    "qid": "Q1563513",
+    "icd_10": "O14.2",
+    "description": "severe pre-eclampsia characterized by hemolysis, elevated liver enzyme and low platelet count",
+    "aliases": [
+        "HELLP syndrome (disorder)",
+        "syndrome of haemolysis, elevated liver enzymes and low platelet"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/HELLP_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "severe pre-eclampsia",
+                "qid": "Q18554442"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "obstetrics",
+                "qid": "Q5284418",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics"
+            }
+        ]
+    }
+}

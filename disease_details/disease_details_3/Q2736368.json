@@ -1,0 +1,25 @@
+{
+    "name": "retinal migraine",
+    "qid": "Q2736368",
+    "icd_10": "G43.8",
+    "description": "Migraine causing aura in vision",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Retinal_migraine",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "migraine",
+                "qid": "Q133823",
+                "url": "https://en.wikipedia.org/wiki/Migraine"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "name": "congenital cataract",
+    "qid": "Q5160410",
+    "icd_10": "Q12.0",
+    "description": "disorder of lens",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Congenital_cataract",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            },
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "Childhood cataract",
+                "qid": "Q18387306",
+                "url": "https://en.wikipedia.org/wiki/Childhood_cataract"
+            },
+            {
+                "name": "congenital disorder",
+                "qid": "Q727096",
+                "url": "https://en.wikipedia.org/wiki/Birth_defect"
+            }
+        ]
+    }
+}

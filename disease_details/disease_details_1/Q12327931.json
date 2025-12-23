@@ -1,0 +1,33 @@
+{
+    "name": "paratyphoid  A",
+    "qid": "Q12327931",
+    "icd_10": "A01.1",
+    "description": null,
+    "aliases": [
+        "paratyphoid fever A"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Possible treatment": [
+            {
+                "name": "antibiotic",
+                "qid": "Q12187",
+                "url": "https://en.wikipedia.org/wiki/Antibiotic"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "paratyphoid fever",
+                "qid": "Q705906",
+                "url": "https://en.wikipedia.org/wiki/Paratyphoid_fever"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Salmonella Paratyphi A",
+                "qid": "Q69466365"
+            }
+        ]
+    }
+}

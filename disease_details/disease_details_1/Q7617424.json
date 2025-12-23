@@ -1,0 +1,28 @@
+{
+    "name": "stinger",
+    "qid": "Q7617424",
+    "icd_10": "S14.3",
+    "description": "A stinger is a type of spine injury characterized by a shooting or stinging pain that travels down one arm, followed by numbness and weakness in the parts of the arms, including the biceps, deltoid, and spinati muscles.",
+    "aliases": [
+        "burner",
+        "nerve pinch injury"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Stinger_(medicine)",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "sports medicine",
+                "qid": "Q840545",
+                "url": "https://en.wikipedia.org/wiki/Sports_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "brachial plexus lesion",
+                "qid": "Q2517861",
+                "url": "https://en.wikipedia.org/wiki/Brachial_plexus_injury"
+            }
+        ]
+    }
+}

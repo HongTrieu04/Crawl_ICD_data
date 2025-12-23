@@ -1,0 +1,38 @@
+{
+    "name": "shaken baby syndrome",
+    "qid": "Q1304399",
+    "icd_10": "Y07.9",
+    "description": "medical condition",
+    "aliases": [
+        "SBS",
+        "AHT",
+        "abusive head trauma"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/CTheatInfantAbusiveheadtrauma.png",
+    "url": "https://en.wikipedia.org/wiki/Shaken_baby_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "pediatrics",
+                "qid": "Q123028",
+                "url": "https://en.wikipedia.org/wiki/Pediatrics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "child abuse",
+                "qid": "Q167191",
+                "url": "https://en.wikipedia.org/wiki/Child_abuse"
+            },
+            {
+                "name": "traumatic brain injury",
+                "qid": "Q1995526",
+                "url": "https://en.wikipedia.org/wiki/Traumatic_brain_injury"
+            },
+            {
+                "name": "infant brain damage",
+                "qid": "Q1472058"
+            }
+        ]
+    }
+}

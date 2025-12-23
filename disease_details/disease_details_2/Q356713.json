@@ -1,0 +1,66 @@
+{
+    "name": "aspergilloma",
+    "qid": "Q356713",
+    "icd_10": "B44",
+    "description": "infection of the respiratory tract with fungi of the genus Aspergillus",
+    "aliases": [
+        "pulmonary aspergillosis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Aspergilloma%20CT%20scan%20%285390986264%29.jpg",
+    "url": "https://en.wikipedia.org/wiki/Aspergilloma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "triazoles",
+                "qid": "Q903341",
+                "url": "https://en.wikipedia.org/wiki/Triazole"
+            },
+            {
+                "name": "posaconazole",
+                "qid": "Q906453",
+                "url": "https://en.wikipedia.org/wiki/Posaconazole"
+            },
+            {
+                "name": "itraconazole",
+                "qid": "Q411229",
+                "url": "https://en.wikipedia.org/wiki/Itraconazole"
+            },
+            {
+                "name": "voriconazole",
+                "qid": "Q412236",
+                "url": "https://en.wikipedia.org/wiki/Voriconazole"
+            },
+            {
+                "name": "antifungal",
+                "qid": "Q578726",
+                "url": "https://en.wikipedia.org/wiki/Antifungal"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Aspergillus fumigatus",
+                "qid": "Q134359",
+                "url": "https://en.wikipedia.org/wiki/Aspergillus_fumigatus"
+            },
+            {
+                "name": "Aspergillus",
+                "qid": "Q335130",
+                "url": "https://en.wikipedia.org/wiki/Aspergillus"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "aspergillosis",
+                "qid": "Q259626",
+                "url": "https://en.wikipedia.org/wiki/Aspergillosis"
+            }
+        ]
+    }
+}

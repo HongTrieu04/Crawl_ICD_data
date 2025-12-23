@@ -1,0 +1,25 @@
+{
+    "name": "inflammation of  tunica vaginalis",
+    "qid": "Q3888473",
+    "icd_10": "N49.1",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "orchitis",
+                "qid": "Q540850",
+                "url": "https://en.wikipedia.org/wiki/Orchitis"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "Tunica vaginalis",
+                "qid": "Q2407406",
+                "url": "https://en.wikipedia.org/wiki/Tunica_vaginalis"
+            }
+        ]
+    }
+}

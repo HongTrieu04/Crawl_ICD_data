@@ -1,0 +1,33 @@
+{
+    "name": "parasomnia",
+    "qid": "Q559869",
+    "icd_10": "F51.4",
+    "description": "category of sleep disorders",
+    "aliases": [
+        "parasomias",
+        "parasomnias"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Parasomnia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychology",
+                "qid": "Q9418",
+                "url": "https://en.wikipedia.org/wiki/Psychology"
+            },
+            {
+                "name": "sleep medicine",
+                "qid": "Q744029",
+                "url": "https://en.wikipedia.org/wiki/Sleep_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "sleep disorder",
+                "qid": "Q177190",
+                "url": "https://en.wikipedia.org/wiki/Sleep_disorder"
+            }
+        ]
+    }
+}

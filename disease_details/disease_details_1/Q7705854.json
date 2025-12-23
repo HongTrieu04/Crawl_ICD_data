@@ -1,0 +1,56 @@
+{
+    "name": "testicular disease",
+    "qid": "Q7705854",
+    "icd_10": "N44",
+    "description": "human disease",
+    "aliases": [
+        "disease of testis",
+        "disorder of testis",
+        "obsolete testicular dysfunction",
+        "testicular disorder",
+        "testicular dysfunction",
+        "testis disease",
+        "testis disorder"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Testicular_disease",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "male reproductive system disease",
+                "qid": "Q6742925",
+                "url": "https://en.wikipedia.org/wiki/Male_genital_disease"
+            },
+            {
+                "name": "gonadal disease",
+                "qid": "Q18555048"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "testicle",
+                "qid": "Q9384",
+                "url": "https://en.wikipedia.org/wiki/Testicle"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "testosterone",
+                "qid": "Q1318776",
+                "url": "https://en.wikipedia.org/wiki/Testosterone"
+            }
+        ]
+    }
+}

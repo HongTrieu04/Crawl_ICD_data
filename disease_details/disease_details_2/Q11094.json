@@ -1,0 +1,37 @@
+{
+    "name": "chronic thyroiditis",
+    "qid": "Q11094",
+    "icd_10": "E06.3",
+    "description": "autoimmune disease",
+    "aliases": [
+        "chronic lymphocytic thyroiditis",
+        "Hashimoto disease",
+        "Hashimoto's disease",
+        "Hashimoto's thyroiditis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hashimoto%20thyroiditis%20-%20alt%20--%20very%20low%20mag.jpg",
+    "url": "https://en.wikipedia.org/wiki/Hashimoto%27s_thyroiditis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "autoimmune thyroiditis",
+                "qid": "Q187842",
+                "url": "https://en.wikipedia.org/wiki/Autoimmune_thyroiditis"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "anti-thyroid autoantibodies",
+                "qid": "Q1943709",
+                "url": "https://en.wikipedia.org/wiki/Antithyroid_autoantibodies"
+            }
+        ]
+    }
+}

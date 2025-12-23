@@ -1,0 +1,45 @@
+{
+    "name": "coronary artery anomaly",
+    "qid": "Q5172184",
+    "icd_10": "Q24.5",
+    "description": "Human disease",
+    "aliases": [
+        "Congenital anomaly of coronary artery",
+        "Congenital anomaly of coronary artery (disorder)",
+        "Coronary artery abnormality",
+        "Coronary artery abnormality (disorder)",
+        "Coronary artery abnormality [Ambiguous]",
+        "Coronary artery anomaly",
+        "Coronary artery anomaly NOS (disorder)",
+        "Coronary artery anomaly, congenital",
+        "coronary artery congenital malformation"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Coronary_artery_anomaly",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "vascular malformation",
+                "qid": "Q121576",
+                "url": "https://en.wikipedia.org/wiki/Vascular_malformation"
+            },
+            {
+                "name": "coronary artery disease",
+                "qid": "Q844935",
+                "url": "https://en.wikipedia.org/wiki/Coronary_artery_disease"
+            },
+            {
+                "name": "congenital heart disease",
+                "qid": "Q939364",
+                "url": "https://en.wikipedia.org/wiki/Congenital_heart_defect"
+            }
+        ]
+    }
+}

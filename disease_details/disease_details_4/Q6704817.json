@@ -1,0 +1,27 @@
+{
+    "name": "lupoid rosacea",
+    "qid": "Q6704817",
+    "icd_10": "L71.8",
+    "description": null,
+    "aliases": [
+        "Granulomatous rosacea"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Lupoid_rosacea",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "rosacea",
+                "qid": "Q831530",
+                "url": "https://en.wikipedia.org/wiki/Rosacea"
+            }
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "calvarial fracture",
+    "qid": "Q14702535",
+    "icd_10": "S02.0",
+    "description": null,
+    "aliases": [
+        "Fracture of vault of skull"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Anatomical location": [
+            {
+                "name": "calvaria",
+                "qid": "Q613203",
+                "url": "https://en.wikipedia.org/wiki/Calvaria_(skull)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "skull fracture",
+                "qid": "Q1971607",
+                "url": "https://en.wikipedia.org/wiki/Skull_fracture"
+            }
+        ]
+    }
+}

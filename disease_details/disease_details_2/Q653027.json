@@ -1,0 +1,41 @@
+{
+    "name": "encopresis",
+    "qid": "Q653027",
+    "icd_10": "R15",
+    "description": "voluntary or involuntary fecal soiling in toilet-trained children",
+    "aliases": [
+        "paradoxical diarrhea"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Encopresis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "psychology",
+                "qid": "Q9418",
+                "url": "https://en.wikipedia.org/wiki/Psychology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "defecation",
+                "qid": "Q204015",
+                "url": "https://en.wikipedia.org/wiki/Defecation"
+            },
+            {
+                "name": "fecal incontinence",
+                "qid": "Q1147182",
+                "url": "https://en.wikipedia.org/wiki/Fecal_incontinence"
+            },
+            {
+                "name": "elimination disorders",
+                "qid": "Q69906769"
+            }
+        ]
+    }
+}

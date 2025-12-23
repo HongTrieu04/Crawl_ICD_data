@@ -1,0 +1,31 @@
+{
+    "name": "congenital anemia",
+    "qid": "Q18967566",
+    "icd_10": "P61.4",
+    "description": "Human disease",
+    "aliases": [
+        "constitutional anemia",
+        "inborn anemia",
+        "obsolete congenital anemia",
+        "rare constitutional anemia"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "anemia",
+                "qid": "Q5445",
+                "url": "https://en.wikipedia.org/wiki/Anemia"
+            },
+            {
+                "name": "neonatal anemia",
+                "qid": "Q18554047"
+            },
+            {
+                "name": "genetic hematologic disease",
+                "qid": "Q55785542"
+            }
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "name": "hypersalivation",
+    "qid": "Q761862",
+    "icd_10": "K11.7",
+    "description": "excessive production of saliva",
+    "aliases": [
+        "excess salivation",
+        "hypersialosis",
+        "ptyalism",
+        "sialorrhea"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hypersalivation",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "saliva secretion",
+                "qid": "Q4424146",
+                "url": "https://en.wikipedia.org/wiki/Salivation"
+            },
+            {
+                "name": "salivary gland disease",
+                "qid": "Q17152566",
+                "url": "https://en.wikipedia.org/wiki/Salivary_gland_disease"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "drooling",
+                "qid": "Q18206654",
+                "url": "https://en.wikipedia.org/wiki/Drooling"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "clonidine",
+                "qid": "Q412221",
+                "url": "https://en.wikipedia.org/wiki/Clonidine"
+            },
+            {
+                "name": "hyoscyamine",
+                "qid": "Q413762",
+                "url": "https://en.wikipedia.org/wiki/Hyoscyamine"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oral and maxillofacial surgery",
+                "qid": "Q504033",
+                "url": "https://en.wikipedia.org/wiki/Oral_and_maxillofacial_surgery"
+            }
+        ]
+    }
+}

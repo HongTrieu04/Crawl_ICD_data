@@ -1,0 +1,31 @@
+{
+    "name": "Iliotibial band syndrome",
+    "qid": "Q1478137",
+    "icd_10": "M76.3",
+    "description": "medical condition",
+    "aliases": [
+        "ITBS"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Iliotibial%20band%20syndrome-en.svg",
+    "url": "https://en.wikipedia.org/wiki/Iliotibial_band_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "occupational disease",
+                "qid": "Q637816",
+                "url": "https://en.wikipedia.org/wiki/Occupational_disease"
+            },
+            {
+                "name": "knee disorder",
+                "qid": "Q18971535"
+            }
+        ]
+    }
+}

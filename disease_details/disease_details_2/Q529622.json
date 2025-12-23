@@ -1,0 +1,29 @@
+{
+    "name": "aneuploidy",
+    "qid": "Q529622",
+    "icd_10": "Q98",
+    "description": "presence of an abnormal number of specific chromosomes in a cell",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Aneuploidy",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "chromosome abnormality",
+                "qid": "Q744962",
+                "url": "https://en.wikipedia.org/wiki/Chromosome_abnormality"
+            },
+            {
+                "name": "genome mutation",
+                "qid": "Q1502456"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

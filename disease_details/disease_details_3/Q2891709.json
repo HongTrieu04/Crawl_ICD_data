@@ -1,0 +1,20 @@
+{
+    "name": "bloody mucus",
+    "qid": "Q2891709",
+    "icd_10": "R04.2",
+    "description": "symptom",
+    "aliases": [
+        "blood in the sputum",
+        "bloody sputum"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "abnormal sputum",
+                "qid": "Q102187446"
+            }
+        ]
+    }
+}

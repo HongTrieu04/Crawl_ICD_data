@@ -1,0 +1,28 @@
+{
+    "name": "pericoronitis",
+    "qid": "Q946882",
+    "icd_10": "K05.3",
+    "description": "human disease",
+    "aliases": [
+        "Operculum",
+        "Pericoronitis (disorder)"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/48%20clinical%20pericornitis.jpg",
+    "url": "https://en.wikipedia.org/wiki/Pericoronitis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oral and maxillofacial surgery",
+                "qid": "Q504033",
+                "url": "https://en.wikipedia.org/wiki/Oral_and_maxillofacial_surgery"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "gingival disease",
+                "qid": "Q5563106",
+                "url": "https://en.wikipedia.org/wiki/Gingival_disease"
+            }
+        ]
+    }
+}

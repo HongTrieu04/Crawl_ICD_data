@@ -1,0 +1,104 @@
+{
+    "name": "female reproductive system disease",
+    "qid": "Q5442760",
+    "icd_10": "N70",
+    "description": "reproductive system disease that impairs the ability to reproduce",
+    "aliases": [
+        "disease of female genital system",
+        "disease of female reproductive system",
+        "disorder of female genital system",
+        "disorder of female genital tract",
+        "disorder of female reproductive system",
+        "female reproductive disease",
+        "Female Reproductive System Disease",
+        "Female Reproductive System Disorder",
+        "Genital Diseases, Female",
+        "gynecological disease"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Female_genital_disease",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "reproductive system disease",
+                "qid": "Q7314317",
+                "url": "https://en.wikipedia.org/wiki/Reproductive_system_disease"
+            },
+            {
+                "name": "female urogenital disease",
+                "qid": "Q54927807"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "podophyllin",
+                "qid": "Q22075831",
+                "url": "https://en.wikipedia.org/wiki/Podophyllum_resin"
+            },
+            {
+                "name": "trovafloxacin",
+                "qid": "Q544393",
+                "url": "https://en.wikipedia.org/wiki/Trovafloxacin"
+            },
+            {
+                "name": "loracarbef",
+                "qid": "Q979521",
+                "url": "https://en.wikipedia.org/wiki/Loracarbef"
+            },
+            {
+                "name": "ceftizoxime",
+                "qid": "Q1082945",
+                "url": "https://en.wikipedia.org/wiki/Ceftizoxime"
+            },
+            {
+                "name": "cefotaxime",
+                "qid": "Q417968",
+                "url": "https://en.wikipedia.org/wiki/Cefotaxime"
+            },
+            {
+                "name": "aztreonam",
+                "qid": "Q418546",
+                "url": "https://en.wikipedia.org/wiki/Aztreonam"
+            },
+            {
+                "name": "norethisterone",
+                "qid": "Q421352",
+                "url": "https://en.wikipedia.org/wiki/Norethisterone"
+            },
+            {
+                "name": "ceftriaxone",
+                "qid": "Q421713",
+                "url": "https://en.wikipedia.org/wiki/Ceftriaxone"
+            },
+            {
+                "name": "cefoperazone",
+                "qid": "Q2325775",
+                "url": "https://en.wikipedia.org/wiki/Cefoperazone"
+            },
+            {
+                "name": "cefoxitin",
+                "qid": "Q2353907",
+                "url": "https://en.wikipedia.org/wiki/Cefoxitin"
+            },
+            {
+                "name": "cefotetan",
+                "qid": "Q2602246",
+                "url": "https://en.wikipedia.org/wiki/Cefotetan"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "female reproductive system",
+                "qid": "Q844342",
+                "url": "https://en.wikipedia.org/wiki/Female_reproductive_system"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gynaecology",
+                "qid": "Q1221899",
+                "url": "https://en.wikipedia.org/wiki/Gynaecology"
+            }
+        ]
+    }
+}

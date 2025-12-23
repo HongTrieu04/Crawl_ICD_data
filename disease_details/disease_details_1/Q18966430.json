@@ -1,0 +1,26 @@
+{
+    "name": "yaws hyperkeratosis",
+    "qid": "Q18966430",
+    "icd_10": "A66.3",
+    "description": "human disease",
+    "aliases": [
+        "hyperkeratosis due to yaws",
+        "hyperkeratosis of yaws (disorder)"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "yaws",
+                "qid": "Q76973",
+                "url": "https://en.wikipedia.org/wiki/Yaws"
+            },
+            {
+                "name": "hyperkeratosis",
+                "qid": "Q1640998",
+                "url": "https://en.wikipedia.org/wiki/Hyperkeratosis"
+            }
+        ]
+    }
+}

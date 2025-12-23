@@ -1,0 +1,40 @@
+{
+    "name": "anosmia",
+    "qid": "Q468433",
+    "icd_10": "R43.0",
+    "description": "the inability to smell",
+    "aliases": [
+        "inability to smell",
+        "loss of smell",
+        "noseblindneaa",
+        "odor blindness",
+        "smell blindness"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Anosmia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            },
+            {
+                "name": "otolaryngology",
+                "qid": "Q189553",
+                "url": "https://en.wikipedia.org/wiki/Otorhinolaryngology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "sensory loss",
+                "qid": "Q2289481",
+                "url": "https://en.wikipedia.org/wiki/Sensory_loss"
+            },
+            {
+                "name": "olfaction disorder",
+                "qid": "Q11419348"
+            }
+        ]
+    }
+}

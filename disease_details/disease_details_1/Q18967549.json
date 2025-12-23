@@ -1,0 +1,38 @@
+{
+    "name": "congenital aortic insufficiency",
+    "qid": "Q18967549",
+    "icd_10": "Q23.1",
+    "description": "Human disease",
+    "aliases": [
+        "Congenital Aortic Insufficiency",
+        "Congenital aortic regurgitation",
+        "Congenital aortic valve insufficiency (disorder)",
+        "Congenital aortic valve insufficiency NOS (disorder)",
+        "Congenital aortic valve insufficiency, unspecified (disorder)",
+        "Congenital bicuspid aortic valve insufficiency",
+        "Congenital insufficiency of aortic valve",
+        "Congenital insufficiency of aortic valve (disorder)",
+        "Congential Aortic Valve Insufficiency",
+        "obsolete congenital aortic insufficiency"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "aortic valve insufficiency",
+                "qid": "Q616087",
+                "url": "https://en.wikipedia.org/wiki/Aortic_regurgitation"
+            },
+            {
+                "name": "congenital heart disease",
+                "qid": "Q939364",
+                "url": "https://en.wikipedia.org/wiki/Congenital_heart_defect"
+            },
+            {
+                "name": "aortic malformation",
+                "qid": "Q55789280"
+            }
+        ]
+    }
+}

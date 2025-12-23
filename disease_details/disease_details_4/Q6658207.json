@@ -1,0 +1,33 @@
+{
+    "name": "liver injury",
+    "qid": "Q6658207",
+    "icd_10": "S36.1",
+    "description": "form of trauma sustained to the liver",
+    "aliases": [
+        "hepatic injury",
+        "liver laceration"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Extensive%20rupture%20of%20the%20liver%20Wellcome%20L0061656.jpg",
+    "url": "https://en.wikipedia.org/wiki/Liver_injury",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "abdominal trauma:",
+                "qid": "Q308292",
+                "url": "https://en.wikipedia.org/wiki/Abdominal_trauma"
+            },
+            {
+                "name": "liver disease",
+                "qid": "Q929737",
+                "url": "https://en.wikipedia.org/wiki/Liver_disease"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Salivary gland fistula",
+    "qid": "Q25339374",
+    "icd_10": "K11.4",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Salivary_gland_fistula",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oral and maxillofacial surgery",
+                "qid": "Q504033",
+                "url": "https://en.wikipedia.org/wiki/Oral_and_maxillofacial_surgery"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "salivary gland disease",
+                "qid": "Q17152566",
+                "url": "https://en.wikipedia.org/wiki/Salivary_gland_disease"
+            },
+            {
+                "name": "oral fistula",
+                "qid": "Q55083294"
+            }
+        ]
+    }
+}

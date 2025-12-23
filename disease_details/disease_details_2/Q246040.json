@@ -1,0 +1,43 @@
+{
+    "name": "congenital cystic adenomatoid malformation",
+    "qid": "Q246040",
+    "icd_10": "Q34.8",
+    "description": "congenital disorder of respiratory system",
+    "aliases": [
+        "CPAM",
+        "CCAM",
+        "Congenital cystic adenomatoid malformation of the lung",
+        "Congenital cystic adenomatous malformation of the lung",
+        "Congenital cystic disease of the lung",
+        "Congenital pulmonary airway malformation"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Congenital_pulmonary_airway_malformation",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "lung disease",
+                "qid": "Q3392853"
+            },
+            {
+                "name": "respiratory system abnormality",
+                "qid": "Q18975820"
+            },
+            {
+                "name": "non-syndromic respiratory or mediastinal malformation",
+                "qid": "Q55785339"
+            },
+            {
+                "name": "rare genetic respiratory disease",
+                "qid": "Q55785522"
+            }
+        ]
+    }
+}

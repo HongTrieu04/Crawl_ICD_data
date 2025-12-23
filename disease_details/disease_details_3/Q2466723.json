@@ -1,0 +1,24 @@
+{
+    "name": "gummatous syphilis",
+    "qid": "Q2466723",
+    "icd_10": "A52.3",
+    "description": "tertiary syphilis that is characterized by granulomatous lesions, called gummas, which are characterized by a center of necrotic tissue with a rubbery texture. They form in the liver, bones, and testes but may affect any organ",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Gumma_(pathology)",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "tertiary syphilis",
+                "qid": "Q18557869"
+            }
+        ]
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "name": "gender dysphoria in children",
+    "qid": "Q3704805",
+    "icd_10": "F64.2",
+    "description": "psychological distress due to the discrepancy between gender identity and the sex assigned at birth in children",
+    "aliases": [
+        "adolescent gender dysphoria",
+        "childhood gender dysphoria",
+        "gender dysphoria in childhood",
+        "gender dysphoria in children",
+        "gender identity disorder in children",
+        "gender identity disorder of childhood",
+        "obsolete gender identity disorder in children"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sad%20Transgender%20Boy%20in%20Dress.png",
+    "url": "https://en.wikipedia.org/wiki/Gender_dysphoria_in_children",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "psychology",
+                "qid": "Q9418",
+                "url": "https://en.wikipedia.org/wiki/Psychology"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "dysphoria",
+                "qid": "Q290620",
+                "url": "https://en.wikipedia.org/wiki/Dysphoria"
+            },
+            {
+                "name": "anxiety disorder",
+                "qid": "Q544006",
+                "url": "https://en.wikipedia.org/wiki/Anxiety_disorder"
+            },
+            {
+                "name": "major depressive disorder",
+                "qid": "Q42844",
+                "url": "https://en.wikipedia.org/wiki/Major_depressive_disorder"
+            },
+            {
+                "name": "suicidal ideation",
+                "qid": "Q944142",
+                "url": "https://en.wikipedia.org/wiki/Suicidal_ideation"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "gender dysphoria",
+                "qid": "Q1049021",
+                "url": "https://en.wikipedia.org/wiki/Gender_dysphoria"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "transitioning",
+                "qid": "Q1085588",
+                "url": "https://en.wikipedia.org/wiki/Gender_transition"
+            },
+            {
+                "name": "hormone therapy",
+                "qid": "Q1628266",
+                "url": "https://en.wikipedia.org/wiki/Hormone_therapy"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "gender-affirming therapy",
+                "qid": "Q15748953",
+                "url": "https://en.wikipedia.org/wiki/Sex_reassignment_therapy"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "gender incongruence",
+                "qid": "Q56314793",
+                "url": "https://en.wikipedia.org/wiki/Gender_incongruence"
+            }
+        ]
+    }
+}

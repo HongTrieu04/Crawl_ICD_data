@@ -1,0 +1,21 @@
+{
+    "name": "chronic immune thrombocytopenia",
+    "qid": "Q1088037",
+    "icd_10": "D69.3",
+    "description": null,
+    "aliases": [
+        "chronic immune thrombocytopenic pupura",
+        "chronic ITP"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "autoimmune thrombocytopenic purpura",
+                "qid": "Q638729",
+                "url": "https://en.wikipedia.org/wiki/Immune_thrombocytopenic_purpura"
+            }
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "name": "electrical injury",
+    "qid": "Q244404",
+    "icd_10": "T75.4",
+    "description": "physiological reaction or injury caused by electric current",
+    "aliases": [
+        "electric shock",
+        "electrical trauma"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Feeks%20Western%20Union%20lineman%20killed%20by%20AC%20October%2011%201889.png",
+    "url": "https://en.wikipedia.org/wiki/Electrical_injury",
+    "details": {
+        "Cause": [
+            {
+                "name": "electric current",
+                "qid": "Q11651",
+                "url": "https://en.wikipedia.org/wiki/Electric_current"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "major trauma",
+                "qid": "Q1064904",
+                "url": "https://en.wikipedia.org/wiki/Major_trauma"
+            },
+            {
+                "name": "electrical accident",
+                "qid": "Q17769526"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ]
+    }
+}

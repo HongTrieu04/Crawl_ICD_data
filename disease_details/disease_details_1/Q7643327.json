@@ -1,0 +1,28 @@
+{
+    "name": "Superficial pustular folliculitis",
+    "qid": "Q7643327",
+    "icd_10": "L01.0",
+    "description": "medical condition",
+    "aliases": [
+        "Impetigo of Bockhart",
+        "superficial folliculitis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Superficial_pustular_folliculitis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "folliculitis",
+                "qid": "Q942755",
+                "url": "https://en.wikipedia.org/wiki/Folliculitis"
+            }
+        ]
+    }
+}

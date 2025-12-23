@@ -1,0 +1,47 @@
+{
+    "name": "osteitis fibrosa cystica",
+    "qid": "Q799615",
+    "icd_10": "E21.0",
+    "description": "bone resorption disease that has material basis in hyperparathyroidism which results in hyperactivity in osteoclasts, deformity, and loss of mass located in bone",
+    "aliases": [
+        "hyperparathyroid bone disease",
+        "osteitis fibrosa",
+        "Osteitis fibrosa cystica generalisata",
+        "Osteitis fibrosa cystica generalisata (disorder)",
+        "Von Recklinghausen's bone disease"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Osteitis_fibrosa_cystica",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "hyperactivity",
+                "qid": "Q1640850",
+                "url": "https://en.wikipedia.org/wiki/Hyperactivity"
+            },
+            {
+                "name": "brown tumor",
+                "qid": "Q4976425",
+                "url": "https://en.wikipedia.org/wiki/Brown_tumor"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "bone resorption disease",
+                "qid": "Q18553741"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ]
+    }
+}

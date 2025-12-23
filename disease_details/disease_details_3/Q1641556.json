@@ -1,0 +1,44 @@
+{
+    "name": "hypoesthesia",
+    "qid": "Q1641556",
+    "icd_10": "R20.1",
+    "description": "medical condition with a partial loss of sensitivity",
+    "aliases": [
+        "numbness",
+        "hypaesthesia",
+        "hypesthesia",
+        "hypoaesthesia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hypoesthesia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "symptom",
+                "qid": "Q169872",
+                "url": "https://en.wikipedia.org/wiki/Symptom"
+            },
+            {
+                "name": "somatosensory disorder",
+                "qid": "Q1641015",
+                "url": "https://en.wikipedia.org/wiki/Somatosensory_disorder"
+            },
+            {
+                "name": "sensory loss",
+                "qid": "Q2289481",
+                "url": "https://en.wikipedia.org/wiki/Sensory_loss"
+            },
+            {
+                "name": "sensation perception",
+                "qid": "Q102186648"
+            }
+        ]
+    }
+}

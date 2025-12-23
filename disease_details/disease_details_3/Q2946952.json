@@ -1,0 +1,34 @@
+{
+    "name": "cervical osteoarthritis",
+    "qid": "Q2946952",
+    "icd_10": "M47.8",
+    "description": null,
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cervical%20Spine%20MRI%20showing%20degenerative%20changes.jpg",
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "cervical spine disorder",
+                "qid": "Q5065358",
+                "url": "https://en.wikipedia.org/wiki/Cervical_spine_disorder"
+            },
+            {
+                "name": "osteoarthritis",
+                "qid": "Q62736",
+                "url": "https://en.wikipedia.org/wiki/Osteoarthritis"
+            },
+            {
+                "name": "Q3966966",
+                "qid": "Q3966966"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ]
+    }
+}

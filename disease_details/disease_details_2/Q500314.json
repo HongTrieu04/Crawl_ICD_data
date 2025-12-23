@@ -1,0 +1,28 @@
+{
+    "name": "Kashin–Beck disease",
+    "qid": "Q500314",
+    "icd_10": "M12.1",
+    "description": "chronic, endemic osteochondropathy",
+    "aliases": [
+        "KBD",
+        "Kashin-Beck Disease"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Kashin%E2%80%93Beck_disease",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "osteochondrodysplasia",
+                "qid": "Q3251367",
+                "url": "https://en.wikipedia.org/wiki/Osteochondrodysplasia"
+            }
+        ]
+    }
+}

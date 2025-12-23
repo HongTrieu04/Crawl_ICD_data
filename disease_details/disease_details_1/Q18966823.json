@@ -1,0 +1,25 @@
+{
+    "name": "bone and joint disorder of back, pelvis and lower limbs of mother, complicating pregnancy, childbirth, or the puerperium",
+    "qid": "Q18966823",
+    "icd_10": "O33.0",
+    "description": "Human disease",
+    "aliases": [
+        "bone and joint disorder of back, pelvis and lower limbs of mother, antepartum",
+        "bone and joint disorder of back, pelvis and lower limbs of mother, postpartum",
+        "bone and joint disorder of back, pelvis and lower limbs of mother, with delivery",
+        "bone and joint disorder of back, pelvis, and lower limbs of mother, antepartum",
+        "bone and joint disorder of back, pelvis, and lower limbs of mother, postpartum",
+        "bone and joint disorder of back, pelvis, and lower limbs of mother, with delivery",
+        "obsolete bone and joint disorder of back, pelvis and lower limbs of mother, complicating pregnancy, childbirth, or the puerperium"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "abnormality of organs and soft tissues of pelvis complicating pregnancy, childbirth, or the puerperium",
+                "qid": "Q19001344"
+            }
+        ]
+    }
+}

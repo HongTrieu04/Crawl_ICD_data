@@ -1,0 +1,17 @@
+{
+    "name": "homicidal ideation",
+    "qid": "Q17030626",
+    "icd_10": "R45.85",
+    "description": "common medical term for thoughts about homicide",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Homicidal_ideation",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "psychopathological symptom",
+                "qid": "Q30897648"
+            }
+        ]
+    }
+}

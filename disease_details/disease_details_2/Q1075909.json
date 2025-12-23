@@ -1,0 +1,33 @@
+{
+    "name": "strawberry gallbladder",
+    "qid": "Q1075909",
+    "icd_10": "K82.4",
+    "description": "human disease",
+    "aliases": [
+        "Cholesterolosis of gallbladder",
+        "Cholesterolosis of gallbladder (disorder)"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gallbladder%20cholesterolosis%20low%20mag.jpg",
+    "url": "https://en.wikipedia.org/wiki/Cholesterolosis_of_gallbladder",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "gallbladder disease",
+                "qid": "Q5518905",
+                "url": "https://en.wikipedia.org/wiki/Gallbladder_disease"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "tapeworm infection",
+    "qid": "Q7356544",
+    "icd_10": "B71",
+    "description": "helminthiasis",
+    "aliases": [
+        "Habiou",
+        "Tapeworm infection"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Tapeworm_infection",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "parasitic helminthiasis infectious disease",
+                "qid": "Q578994",
+                "url": "https://en.wikipedia.org/wiki/Helminthiasis"
+            },
+            {
+                "name": "cestodosis",
+                "qid": "Q4505372"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "osteopenia",
+    "qid": "Q1367706",
+    "icd_10": "M85.8",
+    "description": "bone disease",
+    "aliases": [
+        "decreased bone density"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/DXA%20Lumbar%20vertebral%20column%20Osteopenia%20es.png",
+    "url": "https://en.wikipedia.org/wiki/Osteopenia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "bone disease",
+                "qid": "Q4941552",
+                "url": "https://en.wikipedia.org/wiki/Bone_disease"
+            }
+        ]
+    }
+}

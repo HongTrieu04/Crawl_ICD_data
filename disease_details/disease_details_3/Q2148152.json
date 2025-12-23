@@ -1,0 +1,35 @@
+{
+    "name": "carpometacarpal osteoarthritis",
+    "qid": "Q2148152",
+    "icd_10": "M18",
+    "description": "medical condition",
+    "aliases": [
+        "osteoarthritis at the base of the thumb",
+        "trapeziometacarpal osteoarthritis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Osteoarthritis%20of%20the%20CMC%20joint.png",
+    "url": "https://en.wikipedia.org/wiki/Osteoarthritis_at_the_base_of_the_thumb",
+    "details": {
+        "Possible treatment": [
+            {
+                "name": "physiotherapy",
+                "qid": "Q186005",
+                "url": "https://en.wikipedia.org/wiki/Physical_therapy"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "plastic surgery",
+                "qid": "Q182442",
+                "url": "https://en.wikipedia.org/wiki/Plastic_surgery"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "osteoarthritis",
+                "qid": "Q62736",
+                "url": "https://en.wikipedia.org/wiki/Osteoarthritis"
+            }
+        ]
+    }
+}

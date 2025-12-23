@@ -1,0 +1,46 @@
+{
+    "name": "MALT lymphoma",
+    "qid": "Q591256",
+    "icd_10": "C88.4",
+    "description": "non-Hodgkin lymphoma that has material basis in mucosal tissue involved in antibody production",
+    "aliases": [
+        "extranodal marginal zone B cell lymphoma",
+        "Extranodal marginal zone B-cell lymphoma",
+        "Extranodal Marginal Zone B-Cell Lymphoma of Mucosa-Associated Lymphoid Tissue",
+        "Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue (MALT-lymphoma)",
+        "Extranodal Marginal Zone Lymphoma of Mucosa-Associated Lymphoid Tissue",
+        "Gastric Lymphoma, Primary",
+        "Immunocytoma",
+        "Lymphoma, B-Cell, Marginal Zone",
+        "LYMPHOMA, MUCOSA-ASSOCIATED LYMPHOID TYPE",
+        "MALT Lymphoma",
+        "MALT lymphoma, HL",
+        "MALT-lymphoma",
+        "MALToma",
+        "Mucosa-associated lymphatic tissue lymphoma",
+        "mucosa-associated lymphoid tissue lymphoma"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/MALT_lymphoma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "primary cutaneous marginal zone lymphoma",
+                "qid": "Q7243121",
+                "url": "https://en.wikipedia.org/wiki/Primary_cutaneous_marginal_zone_lymphoma"
+            },
+            {
+                "name": "marginal zone B-cell lymphoma",
+                "qid": "Q18553449",
+                "url": "https://en.wikipedia.org/wiki/Marginal_zone_lymphoma"
+            }
+        ]
+    }
+}

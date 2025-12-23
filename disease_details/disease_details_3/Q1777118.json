@@ -1,0 +1,32 @@
+{
+    "name": "knee osteoarthritis",
+    "qid": "Q1777118",
+    "icd_10": "M17",
+    "description": "Wear and tear of the cartilaginous joint surfaces of the knee joint.",
+    "aliases": [
+        "gonarthrosis",
+        "Osteoarthritis, Knee"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Knee_osteoarthritis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "osteoarthritis",
+                "qid": "Q62736",
+                "url": "https://en.wikipedia.org/wiki/Osteoarthritis"
+            },
+            {
+                "name": "knee disorder",
+                "qid": "Q18971535"
+            }
+        ]
+    }
+}

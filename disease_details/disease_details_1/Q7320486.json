@@ -1,0 +1,42 @@
+{
+    "name": "rheumatoid lung disease",
+    "qid": "Q7320486",
+    "icd_10": "M05.1",
+    "description": "Human disease",
+    "aliases": [
+        "rheumatoid arthritis interstitial lung disease",
+        "rheumatoid lung",
+        "Rheumatoid lung disease (disorder)"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Rheumatoid_lung_disease",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "rheumatoid arthritis",
+                "qid": "Q187255",
+                "url": "https://en.wikipedia.org/wiki/Rheumatoid_arthritis"
+            },
+            {
+                "name": "interstitial lung disease",
+                "qid": "Q1153419",
+                "url": "https://en.wikipedia.org/wiki/Interstitial_lung_disease"
+            },
+            {
+                "name": "lung disease",
+                "qid": "Q3392853"
+            },
+            {
+                "name": "autoimmune disease of musculoskeletal system",
+                "qid": "Q18553609"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ]
+    }
+}

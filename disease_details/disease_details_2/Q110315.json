@@ -1,0 +1,158 @@
+{
+    "name": "lead poisoning",
+    "qid": "Q110315",
+    "icd_10": "T56.0",
+    "description": "poisoning by lead in the body, especially affects the brain",
+    "aliases": [
+        "lead intoxication",
+        "lead toxicity",
+        "plumbism",
+        "saturnism"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lead%20PoisoningRadio.jpg",
+    "url": "https://en.wikipedia.org/wiki/Lead_poisoning",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "fatigue",
+                "qid": "Q9690",
+                "url": "https://en.wikipedia.org/wiki/Fatigue"
+            },
+            {
+                "name": "malnutrition",
+                "qid": "Q12167",
+                "url": "https://en.wikipedia.org/wiki/Malnutrition"
+            },
+            {
+                "name": "anemia",
+                "qid": "Q5445",
+                "url": "https://en.wikipedia.org/wiki/Anemia"
+            },
+            {
+                "name": "paralysis",
+                "qid": "Q107231",
+                "url": "https://en.wikipedia.org/wiki/Paralysis"
+            },
+            {
+                "name": "constipation",
+                "qid": "Q178436",
+                "url": "https://en.wikipedia.org/wiki/Constipation"
+            },
+            {
+                "name": "abdominal pain",
+                "qid": "Q183425",
+                "url": "https://en.wikipedia.org/wiki/Abdominal_pain"
+            },
+            {
+                "name": "tremor",
+                "qid": "Q223907",
+                "url": "https://en.wikipedia.org/wiki/Tremor"
+            },
+            {
+                "name": "anorexia",
+                "qid": "Q254327",
+                "url": "https://en.wikipedia.org/wiki/Anorexia_(symptom)"
+            },
+            {
+                "name": "encephalopathy",
+                "qid": "Q576349",
+                "url": "https://en.wikipedia.org/wiki/Encephalopathy"
+            },
+            {
+                "name": "weight loss",
+                "qid": "Q718113",
+                "url": "https://en.wikipedia.org/wiki/Weight_loss"
+            },
+            {
+                "name": "kidney disease",
+                "qid": "Q1054718",
+                "url": "https://en.wikipedia.org/wiki/Kidney_disease"
+            },
+            {
+                "name": "insomnia",
+                "qid": "Q1869874",
+                "url": "https://en.wikipedia.org/wiki/Insomnia"
+            },
+            {
+                "name": "Burton line",
+                "qid": "Q5000947",
+                "url": "https://en.wikipedia.org/wiki/Burton%27s_line"
+            },
+            {
+                "name": "colic",
+                "qid": "Q13121526",
+                "url": "https://en.wikipedia.org/wiki/Colic"
+            },
+            {
+                "name": "arterial hypertension",
+                "qid": "Q41861",
+                "url": "https://en.wikipedia.org/wiki/Hypertension"
+            },
+            {
+                "name": "eye irritation",
+                "qid": "Q11820606"
+            },
+            {
+                "name": "facial pallor",
+                "qid": "Q21111985"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "lead",
+                "qid": "Q708",
+                "url": "https://en.wikipedia.org/wiki/Lead"
+            },
+            {
+                "name": "lead compound",
+                "qid": "Q5156939",
+                "url": "https://en.wikipedia.org/wiki/Lead_compounds"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "dimercaprol",
+                "qid": "Q413968",
+                "url": "https://en.wikipedia.org/wiki/Dimercaprol"
+            },
+            {
+                "name": "D-penicillamine",
+                "qid": "Q421239",
+                "url": "https://en.wikipedia.org/wiki/Penicillamine"
+            },
+            {
+                "name": "succimer",
+                "qid": "Q423814",
+                "url": "https://en.wikipedia.org/wiki/Succimer"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "occupational disease",
+                "qid": "Q637816",
+                "url": "https://en.wikipedia.org/wiki/Occupational_disease"
+            },
+            {
+                "name": "metal poisoning",
+                "qid": "Q4215775",
+                "url": "https://en.wikipedia.org/wiki/Metal_toxicity"
+            },
+            {
+                "name": "chemical hazard",
+                "qid": "Q21167512",
+                "url": "https://en.wikipedia.org/wiki/Chemical_hazard"
+            },
+            {
+                "name": "rare intoxication",
+                "qid": "Q55785342"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "anembryonic gestation",
+    "qid": "Q323040",
+    "icd_10": "O02.0",
+    "description": "the development of a pregnancy and tissues but the absence of an embryo",
+    "aliases": [
+        "Blighted ovum"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Blighted_ovum",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "human pregnancy",
+                "qid": "Q11995",
+                "url": "https://en.wikipedia.org/wiki/Pregnancy"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "obstetrics",
+                "qid": "Q5284418",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics"
+            }
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name": "laryngospasm",
+    "qid": "Q1324592",
+    "icd_10": "J38.5",
+    "description": "disorder in which the adductor muscles of the vocal cords exhibit increased activity leading to laryngeal spasm",
+    "aliases": [
+        "laryngeal spasm",
+        "laryngismus",
+        "vocal chord spasm"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gray956.png",
+    "url": "https://en.wikipedia.org/wiki/Laryngospasm",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "laryngeal disease",
+                "qid": "Q18557753"
+            }
+        ]
+    }
+}

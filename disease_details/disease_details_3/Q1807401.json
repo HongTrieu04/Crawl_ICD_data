@@ -1,0 +1,104 @@
+{
+    "name": "sodoku",
+    "qid": "Q1807401",
+    "icd_10": "A25.0",
+    "description": "medical condition",
+    "aliases": [
+        "Sodoku",
+        "sodoku disease",
+        "Spirillary fever",
+        "Spirillosis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Sodoku",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "rat-bite fever",
+                "qid": "Q2754970",
+                "url": "https://en.wikipedia.org/wiki/Rat-bite_fever"
+            },
+            {
+                "name": "primary bacterial infectious disease",
+                "qid": "Q18553247"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "rash",
+                "qid": "Q653197",
+                "url": "https://en.wikipedia.org/wiki/Rash"
+            },
+            {
+                "name": "arthralgia",
+                "qid": "Q683498",
+                "url": "https://en.wikipedia.org/wiki/Arthralgia"
+            },
+            {
+                "name": "chills",
+                "qid": "Q2260058",
+                "url": "https://en.wikipedia.org/wiki/Chills"
+            },
+            {
+                "name": "myalgia",
+                "qid": "Q474959",
+                "url": "https://en.wikipedia.org/wiki/Myalgia"
+            },
+            {
+                "name": "lymphadenopathy",
+                "qid": "Q847726",
+                "url": "https://en.wikipedia.org/wiki/Lymphadenopathy"
+            },
+            {
+                "name": "lymphangitis",
+                "qid": "Q1476027",
+                "url": "https://en.wikipedia.org/wiki/Lymphangitis"
+            },
+            {
+                "name": "primary affect",
+                "qid": "Q24084959"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "benzylpenicillin",
+                "qid": "Q258450",
+                "url": "https://en.wikipedia.org/wiki/Benzylpenicillin"
+            },
+            {
+                "name": "doxycycline",
+                "qid": "Q422442",
+                "url": "https://en.wikipedia.org/wiki/Doxycycline"
+            },
+            {
+                "name": "macrolides",
+                "qid": "Q422687",
+                "url": "https://en.wikipedia.org/wiki/Macrolide"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Spirillum minus",
+                "qid": "Q7577829",
+                "url": "https://en.wikipedia.org/wiki/Spirillum_minus"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

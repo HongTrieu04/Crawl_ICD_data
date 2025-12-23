@@ -1,0 +1,67 @@
+{
+    "name": "complex regional pain syndrome",
+    "qid": "Q1066311",
+    "icd_10": "M89.0",
+    "description": "array of painful conditions in humans",
+    "aliases": [
+        "complex regional pain syndromes",
+        "complex regional pain syndromes (disorder)",
+        "CRPS",
+        "reflex neurovascular dystrophy",
+        "reflex sympathetic dystrophy",
+        "RSD",
+        "shoulder hand syndrome"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/CRPS%20002ms5.jpg",
+    "url": "https://en.wikipedia.org/wiki/Complex_regional_pain_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "autonomic nervous system disease",
+                "qid": "Q18554088"
+            },
+            {
+                "name": "chronic primary pain",
+                "qid": "Q58490715"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "gabapentin",
+                "qid": "Q410352",
+                "url": "https://en.wikipedia.org/wiki/Gabapentin"
+            },
+            {
+                "name": "(S)-duloxetine",
+                "qid": "Q411932",
+                "url": "https://en.wikipedia.org/wiki/Duloxetine"
+            },
+            {
+                "name": "pregabalin",
+                "qid": "Q412174",
+                "url": "https://en.wikipedia.org/wiki/Pregabalin"
+            },
+            {
+                "name": "ziconotide",
+                "qid": "Q198473",
+                "url": "https://en.wikipedia.org/wiki/Ziconotide"
+            },
+            {
+                "name": "fentanyl",
+                "qid": "Q407541",
+                "url": "https://en.wikipedia.org/wiki/Fentanyl"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "Medicina fisica y rehabilitacion",
+                "qid": "Q27711984"
+            }
+        ]
+    }
+}

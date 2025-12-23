@@ -1,0 +1,36 @@
+{
+    "name": "steatocystoma multiplex",
+    "qid": "Q3972207",
+    "icd_10": "L72.2",
+    "description": "disease",
+    "aliases": [
+        "epidermal polycystic disease",
+        "sebaceous cysts, multiple",
+        "sebocystomatosis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Steatocystoma_multiplex",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "autosomal dominant disease",
+                "qid": "Q18553439"
+            },
+            {
+                "name": "sebaceous gland disease",
+                "qid": "Q18558062"
+            },
+            {
+                "name": "sebaceous gland anomaly",
+                "qid": "Q55788592"
+            }
+        ]
+    }
+}

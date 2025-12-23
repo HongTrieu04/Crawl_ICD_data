@@ -1,0 +1,23 @@
+{
+    "name": "Dissociative stupor",
+    "qid": "Q10276697",
+    "icd_10": "F44.2",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "stupor",
+                "qid": "Q268594",
+                "url": "https://en.wikipedia.org/wiki/Stupor"
+            },
+            {
+                "name": "dissociative disorder",
+                "qid": "Q2627467",
+                "url": "https://en.wikipedia.org/wiki/Dissociative_disorder"
+            }
+        ]
+    }
+}

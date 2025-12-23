@@ -1,0 +1,32 @@
+{
+    "name": "Achilles tendon rupture",
+    "qid": "Q340311",
+    "icd_10": "S86.0",
+    "description": "medical condition where the tendon at the back of the ankle breaks",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Achilles%20tendon%20rupture.svg",
+    "url": "https://en.wikipedia.org/wiki/Achilles_tendon_rupture",
+    "details": {
+        "Anatomical location": [
+            {
+                "name": "Achilles tendon",
+                "qid": "Q223172",
+                "url": "https://en.wikipedia.org/wiki/Achilles_tendon"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "tendon rupture",
+                "qid": "Q40889763",
+                "url": "https://en.wikipedia.org/wiki/Tendon_rupture"
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Uterine incarceration",
+    "qid": "Q7902650",
+    "icd_10": "O34.5",
+    "description": "Human disease",
+    "aliases": [
+        "antepartum retroverted and incarcerated gravid uterus",
+        "postpartum retroverted and incarcerated gravid uterus",
+        "Retroverted and incarcerated gravid uterus, delivered",
+        "retroverted incarcerated gravid uterus",
+        "Retroverted incarcerated gravid uterus - delivered",
+        "Incarceration of uterus",
+        "Retroverted incarcerated gravid uterus - delivered (disorder)"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Uterine_incarceration",
+    "details": {
+        "Cause": [
+            {
+                "name": "retroverted uterus",
+                "qid": "Q1069694",
+                "url": "https://en.wikipedia.org/wiki/Retroverted_uterus"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "complications of pregnancy",
+                "qid": "Q2916477",
+                "url": "https://en.wikipedia.org/wiki/Complications_of_pregnancy"
+            },
+            {
+                "name": "uterine disease",
+                "qid": "Q18555940"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "obstetrics",
+                "qid": "Q5284418",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics"
+            }
+        ]
+    }
+}

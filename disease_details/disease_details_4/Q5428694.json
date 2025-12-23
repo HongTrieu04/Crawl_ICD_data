@@ -1,0 +1,31 @@
+{
+    "name": "Factitial lymphedema",
+    "qid": "Q5428694",
+    "icd_10": "L98.1",
+    "description": "skin condition",
+    "aliases": [
+        "Hysterical edema"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Factitial_lymphedema",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "lymphedema",
+                "qid": "Q916398",
+                "url": "https://en.wikipedia.org/wiki/Lymphedema"
+            },
+            {
+                "name": "ICD-10 Chapter XII: Diseases of the skin and subcutaneous tissue",
+                "qid": "Q540434"
+            }
+        ]
+    }
+}

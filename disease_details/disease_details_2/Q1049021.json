@@ -1,0 +1,97 @@
+{
+    "name": "gender dysphoria",
+    "qid": "Q1049021",
+    "icd_10": "F64.8",
+    "description": "mental distress resulting from mismatch between gender identity and gender assigned at birth",
+    "aliases": [
+        "GD",
+        "gender incongruence",
+        "gender-role dysphoria"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sad%20Transgender%20Boy%20in%20Dress.png",
+    "url": "https://en.wikipedia.org/wiki/Gender_dysphoria",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "psychology",
+                "qid": "Q9418",
+                "url": "https://en.wikipedia.org/wiki/Psychology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "mental disorder",
+                "qid": "Q12135",
+                "url": "https://en.wikipedia.org/wiki/Mental_disorder"
+            },
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "dysphoria",
+                "qid": "Q290620",
+                "url": "https://en.wikipedia.org/wiki/Dysphoria"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "gender-affirming therapy",
+                "qid": "Q15748953",
+                "url": "https://en.wikipedia.org/wiki/Sex_reassignment_therapy"
+            },
+            {
+                "name": "gender-affirming surgery",
+                "qid": "Q1053501",
+                "url": "https://en.wikipedia.org/wiki/Gender-affirming_surgery"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "gender incongruence",
+                "qid": "Q56314793",
+                "url": "https://en.wikipedia.org/wiki/Gender_incongruence"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "suicidal ideation",
+                "qid": "Q944142",
+                "url": "https://en.wikipedia.org/wiki/Suicidal_ideation"
+            },
+            {
+                "name": "dysphoria",
+                "qid": "Q290620",
+                "url": "https://en.wikipedia.org/wiki/Dysphoria"
+            },
+            {
+                "name": "anxiety disorder",
+                "qid": "Q544006",
+                "url": "https://en.wikipedia.org/wiki/Anxiety_disorder"
+            },
+            {
+                "name": "major depressive disorder",
+                "qid": "Q42844",
+                "url": "https://en.wikipedia.org/wiki/Major_depressive_disorder"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "transitioning",
+                "qid": "Q1085588",
+                "url": "https://en.wikipedia.org/wiki/Gender_transition"
+            },
+            {
+                "name": "hormone therapy",
+                "qid": "Q1628266",
+                "url": "https://en.wikipedia.org/wiki/Hormone_therapy"
+            }
+        ]
+    }
+}

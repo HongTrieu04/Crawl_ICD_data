@@ -1,0 +1,21 @@
+{
+    "name": "fetal alcohol effects",
+    "qid": "Q5820163",
+    "icd_10": "P04.3",
+    "description": "fetal alcohol spectrum disorder that results in most, but not all, of the growth deficiency and/or craniofacial features of fetal alcohol syndrome including central nervous system dysfunction due to prenatal alcohol exposure",
+    "aliases": [
+        "FAE",
+        "partial fetal alcohol syndrome"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "fetal alcohol spectrum disorders",
+                "qid": "Q17002116",
+                "url": "https://en.wikipedia.org/wiki/Fetal_alcohol_spectrum_disorder"
+            }
+        ]
+    }
+}

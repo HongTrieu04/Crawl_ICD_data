@@ -1,0 +1,39 @@
+{
+    "name": "oligomenorrhea",
+    "qid": "Q1970295",
+    "icd_10": "N91.5",
+    "description": "type of menstrual disorder",
+    "aliases": [
+        "oligomenorrhoea",
+        "oligomenorrhœa",
+        "opsomenorrhea",
+        "opsomenorrhoea"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Oligomenorrhea",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "Irregular menstruation",
+                "qid": "Q6073603",
+                "url": "https://en.wikipedia.org/wiki/Irregular_menstruation"
+            },
+            {
+                "name": "menstrual disorder",
+                "qid": "Q2137327",
+                "url": "https://en.wikipedia.org/wiki/Menstrual_disorder"
+            },
+            {
+                "name": "menstrual cycle disorder",
+                "qid": "Q2137326"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gynaecology",
+                "qid": "Q1221899",
+                "url": "https://en.wikipedia.org/wiki/Gynaecology"
+            }
+        ]
+    }
+}

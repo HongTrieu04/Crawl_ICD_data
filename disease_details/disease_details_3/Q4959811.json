@@ -1,0 +1,34 @@
+{
+    "name": "breastfeeding difficulties",
+    "qid": "Q4959811",
+    "icd_10": "O92",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Breastfeeding_difficulties",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "pediatrics",
+                "qid": "Q123028",
+                "url": "https://en.wikipedia.org/wiki/Pediatrics"
+            },
+            {
+                "name": "obstetrics",
+                "qid": "Q5284418",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics"
+            },
+            {
+                "name": "midwifery",
+                "qid": "Q20862341",
+                "url": "https://en.wikipedia.org/wiki/Midwifery"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "feeding difficulties and mismanagement",
+                "qid": "Q102187035"
+            }
+        ]
+    }
+}

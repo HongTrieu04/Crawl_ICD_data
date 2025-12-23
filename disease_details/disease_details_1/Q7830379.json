@@ -1,0 +1,38 @@
+{
+    "name": "toxic encephalopathy",
+    "qid": "Q7830379",
+    "icd_10": "G92",
+    "description": "nervous system disease that results from exposure to neurotoxicants and is characterized by an altered mental status, memory loss, and visual problems",
+    "aliases": [
+        "neurotoxicity",
+        "Neurotoxicity (disorder)",
+        "neurotoxicity syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Toxic_encephalopathy",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "encephalopathy",
+                "qid": "Q576349",
+                "url": "https://en.wikipedia.org/wiki/Encephalopathy"
+            },
+            {
+                "name": "neurological disorder",
+                "qid": "Q3339235",
+                "url": "https://en.wikipedia.org/wiki/Neurological_disorder"
+            },
+            {
+                "name": "neurotoxic disorder",
+                "qid": "Q26989045"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ]
+    }
+}

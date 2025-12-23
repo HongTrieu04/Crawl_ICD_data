@@ -1,0 +1,50 @@
+{
+    "name": "rotator cuff tear",
+    "qid": "Q3518022",
+    "icd_10": "M75.1",
+    "description": "injury to the rotator cuff of the shoulder joint",
+    "aliases": [
+        "Rotator Cuff Injuries",
+        "Rotator cuff shoulder syndrome and allied disorder",
+        "rotator cuff syndrome",
+        "torn rotator cuff"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Rotator_cuff_tear",
+    "details": {
+        "Drug used for treatment": [
+            {
+                "name": "Diclofenac",
+                "qid": "Q244408",
+                "url": "https://en.wikipedia.org/wiki/Diclofenac"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "traumatology",
+                "qid": "Q376680",
+                "url": "https://en.wikipedia.org/wiki/Traumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "occupational disease",
+                "qid": "Q637816",
+                "url": "https://en.wikipedia.org/wiki/Occupational_disease"
+            },
+            {
+                "name": "shoulder problem",
+                "qid": "Q7502714",
+                "url": "https://en.wikipedia.org/wiki/Shoulder_problems"
+            },
+            {
+                "name": "synovial, tendon or bursa disorder",
+                "qid": "Q18967087"
+            },
+            {
+                "name": "disorder of rotator cuff",
+                "qid": "Q55011654"
+            }
+        ]
+    }
+}

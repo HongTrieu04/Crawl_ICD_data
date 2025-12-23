@@ -1,0 +1,24 @@
+{
+    "name": "hemolytic anemia due to an erythrocyte nucleotide metabolism disorder",
+    "qid": "Q55789128",
+    "icd_10": "D55.3",
+    "description": "human disease",
+    "aliases": [
+        "Hemolytic anemia due to an erythroenzymopathy"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "metabolic disease",
+                "qid": "Q2351083",
+                "url": "https://en.wikipedia.org/wiki/Metabolic_disorder"
+            },
+            {
+                "name": "rare constitutional hemolytic anemia due to an enzyme disorder",
+                "qid": "Q55789125"
+            }
+        ]
+    }
+}

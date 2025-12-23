@@ -1,0 +1,28 @@
+{
+    "name": "Cystic eyeball",
+    "qid": "Q5201209",
+    "icd_10": "Q11.0",
+    "description": "human disease",
+    "aliases": [
+        "CCE",
+        "congenital cystic eye"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Cystic_eyeball",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "anophthalmia",
+                "qid": "Q527065",
+                "url": "https://en.wikipedia.org/wiki/Anophthalmia"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Bullous lichen planus",
+    "qid": "Q4997015",
+    "icd_10": "L43.1",
+    "description": "a variant of rare lichen planus characterized by the development of vesico-bullous lesions",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Bullous_lichen_planus",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "lichen planus",
+                "qid": "Q848371",
+                "url": "https://en.wikipedia.org/wiki/Lichen_planus"
+            },
+            {
+                "name": "rare cutaneous lichen planus",
+                "qid": "Q55786412"
+            }
+        ]
+    }
+}

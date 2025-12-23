@@ -1,0 +1,24 @@
+{
+    "name": "bacterial food poisoning",
+    "qid": "Q12360150",
+    "icd_10": "A05",
+    "description": null,
+    "aliases": [
+        "Bacterial foodborne intoxication"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "bacterial infectious disease",
+                "qid": "Q727028",
+                "url": "https://en.wikipedia.org/wiki/Bacterial_disease"
+            },
+            {
+                "name": "food infection",
+                "qid": "Q3269272"
+            }
+        ]
+    }
+}

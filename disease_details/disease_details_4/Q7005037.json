@@ -1,0 +1,32 @@
+{
+    "name": "Nevus of Ito",
+    "qid": "Q7005037",
+    "icd_10": "D22.5",
+    "description": "medical condition",
+    "aliases": [
+        "Nevus fuscoceruleus acromiodeltoideus"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Nevus_of_Ito",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "nevus of Ota",
+                "qid": "Q2053690",
+                "url": "https://en.wikipedia.org/wiki/Nevus_of_Ota"
+            },
+            {
+                "name": "incontinentia pigmenti achromians",
+                "qid": "Q907921",
+                "url": "https://en.wikipedia.org/wiki/Incontinentia_pigmenti_achromians"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ]
+    }
+}

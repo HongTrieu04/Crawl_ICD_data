@@ -1,0 +1,56 @@
+{
+    "name": "alcohol intoxication",
+    "qid": "Q205972",
+    "icd_10": "F10.0",
+    "description": "negative effect(s) induced by the ingestion of ethanol (alcohol)",
+    "aliases": [
+        "intoxication",
+        "drunkenness",
+        "inebriation",
+        "alcohol poisoning",
+        "Acute alcohol intoxication",
+        "acute alcohol poisoning",
+        "alcoholic intoxication",
+        "ethanol poisoning",
+        "ethanol toxicity"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Five%20stages%20of%20inebriation%2C%20ca.1863-1868%29%20-%20photographer%20Charles%20Percy%20Pickering%20%289610229733%29%20%282%29.jpg",
+    "url": "https://en.wikipedia.org/wiki/Alcohol_intoxication",
+    "details": {
+        "Cause": [
+            {
+                "name": "ethanol",
+                "qid": "Q153",
+                "url": "https://en.wikipedia.org/wiki/Ethanol"
+            },
+            {
+                "name": "alcohol consumption",
+                "qid": "Q2647488"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "substance intoxication",
+                "qid": "Q865968",
+                "url": "https://en.wikipedia.org/wiki/Substance_intoxication"
+            },
+            {
+                "name": "short-term effects of alcohol",
+                "qid": "Q16879474",
+                "url": "https://en.wikipedia.org/wiki/Short-term_effects_of_alcohol_consumption"
+            },
+            {
+                "name": "intoxication",
+                "qid": "Q18621601",
+                "url": "https://en.wikipedia.org/wiki/Poisoning"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical toxicology",
+                "qid": "Q6806614",
+                "url": "https://en.wikipedia.org/wiki/Medical_toxicology"
+            }
+        ]
+    }
+}

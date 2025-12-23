@@ -1,0 +1,19 @@
+{
+    "name": "mass in chest",
+    "qid": "Q102186572",
+    "icd_10": "R22.2",
+    "description": "symptom",
+    "aliases": [
+        "Mass of trunk"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "respiratory signs and symptoms",
+                "qid": "Q42183538"
+            }
+        ]
+    }
+}

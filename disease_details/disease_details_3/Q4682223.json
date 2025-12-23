@@ -1,0 +1,52 @@
+{
+    "name": "adenine phosphoribosyltransferase deficiency",
+    "qid": "Q4682223",
+    "icd_10": "E79",
+    "description": "amino acid metabolic disorder characterized by the formation 2,8-dihydroxyadenine stones and renal failure secondary to intratubular crystalline precipitation. It has an autosomal recessive inheritance pattern",
+    "aliases": [
+        "APRTD",
+        "2,8-dihydroxyadenine urolithiasis",
+        "2,8-dihydroxyadeninuria disease",
+        "ADENINE PHOSPHORIBOSYLTRANSFERASE DEFICIENCY; APRTD",
+        "APRT deficiency",
+        "Dihydroxyadeninuria",
+        "Nephrolithiasis, Dha",
+        "Urolithiasis, 2,8-Dihydroxyadenine",
+        "Urolithiasis, Dha"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Adenine_phosphoribosyltransferase_deficiency",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "inborn errors of purine–pyrimidine metabolism",
+                "qid": "Q3281375",
+                "url": "https://en.wikipedia.org/wiki/Inborn_errors_of_purine%E2%80%93pyrimidine_metabolism"
+            },
+            {
+                "name": "amino acid metabolic disorder",
+                "qid": "Q18558086"
+            },
+            {
+                "name": "inborn disorder of purine metabolism",
+                "qid": "Q55788557"
+            },
+            {
+                "name": "nephropathy secondary to a storage or other metabolic disease",
+                "qid": "Q55788855"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ]
+    }
+}

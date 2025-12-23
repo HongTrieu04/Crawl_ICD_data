@@ -1,0 +1,62 @@
+{
+    "name": "thalassemia",
+    "qid": "Q185137",
+    "icd_10": "D56",
+    "description": "human disease",
+    "aliases": [
+        "sickle-cell thalassemia with crisis",
+        "sickle-cell thalassemia without crisis",
+        "talasémie",
+        "thalassemia Hb-S disease with crisis",
+        "thalassemia Hb-S disease without crisis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Delta%20Beta%20Thalassemia.jpg",
+    "url": "https://en.wikipedia.org/wiki/Thalassemia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "hemolytic anemia",
+                "qid": "Q1145668",
+                "url": "https://en.wikipedia.org/wiki/Hemolytic_anemia"
+            },
+            {
+                "name": "hemoglobinopathy",
+                "qid": "Q1642147",
+                "url": "https://en.wikipedia.org/wiki/Hemoglobinopathy"
+            },
+            {
+                "name": "autosomal recessive disease",
+                "qid": "Q10267817"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "deferoxamine",
+                "qid": "Q419618",
+                "url": "https://en.wikipedia.org/wiki/Deferoxamine"
+            },
+            {
+                "name": "deferiprone",
+                "qid": "Q749664",
+                "url": "https://en.wikipedia.org/wiki/Deferiprone"
+            },
+            {
+                "name": "deferasirox",
+                "qid": "Q5251502",
+                "url": "https://en.wikipedia.org/wiki/Deferasirox"
+            }
+        ]
+    }
+}

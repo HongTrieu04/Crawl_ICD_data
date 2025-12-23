@@ -1,0 +1,40 @@
+{
+    "name": "eye abnormalities",
+    "qid": "Q54911717",
+    "icd_10": "Q15.9",
+    "description": "congenital absence of or defects in structures of the eye",
+    "aliases": [
+        "developmental defect of the eye",
+        "eye abnormality"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "eye disease",
+                "qid": "Q3041498",
+                "url": "https://en.wikipedia.org/wiki/Eye_disease"
+            },
+            {
+                "name": "rare genetic eye disease",
+                "qid": "Q55785254"
+            },
+            {
+                "name": "rare genetic developmental defect during embryogenesis",
+                "qid": "Q55785846"
+            },
+            {
+                "name": "developmental defect during embryogenesis",
+                "qid": "Q55788864"
+            }
+        ]
+    }
+}

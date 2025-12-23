@@ -1,0 +1,18 @@
+{
+    "name": "acephaly",
+    "qid": "Q2369029",
+    "icd_10": "Q00.0",
+    "description": "congenital disorder",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "nervous system malformations",
+                "qid": "Q584265",
+                "url": "https://en.wikipedia.org/wiki/Cephalic_disorder"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "vascular hemorrhagic disorder",
+    "qid": "Q19001016",
+    "icd_10": "D68.9",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete vascular hemorrhagic disorder"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            },
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "blood coagulation disease",
+                "qid": "Q890200",
+                "url": "https://en.wikipedia.org/wiki/Coagulopathy"
+            }
+        ]
+    }
+}

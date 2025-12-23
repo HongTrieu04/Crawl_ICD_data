@@ -1,0 +1,27 @@
+{
+    "name": "pre-excitation syndrome",
+    "qid": "Q2064167",
+    "icd_10": "I45.6",
+    "description": "medical condition",
+    "aliases": [
+        "preexcitation syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pre-excitation_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "heart arrhythmia",
+                "qid": "Q189331",
+                "url": "https://en.wikipedia.org/wiki/Arrhythmia"
+            }
+        ]
+    }
+}

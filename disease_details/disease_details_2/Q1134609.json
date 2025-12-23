@@ -1,0 +1,34 @@
+{
+    "name": "tear of meniscus",
+    "qid": "Q1134609",
+    "icd_10": "M23.2",
+    "description": "rupturing of the fibrocartilage strips in the knee called menisci",
+    "aliases": [
+        "knee issues in association football",
+        "meniscal lesions of the knee",
+        "rupture of meniscus",
+        "tear of a meniscus"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Meniscus_tear",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "orthopedics",
+                "qid": "Q216685",
+                "url": "https://en.wikipedia.org/wiki/Orthopedic_surgery"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "sports injury",
+                "qid": "Q2093360",
+                "url": "https://en.wikipedia.org/wiki/Sports_injury"
+            },
+            {
+                "name": "knee injury",
+                "qid": "Q15283847"
+            }
+        ]
+    }
+}

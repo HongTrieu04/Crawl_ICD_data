@@ -1,0 +1,21 @@
+{
+    "name": "cycloid psychosis",
+    "qid": "Q245473",
+    "icd_10": "F23.1",
+    "description": null,
+    "aliases": [
+        "cycloid psychosis with symptoms of schizophrenia",
+        "cycloid psychosis without symptoms of schizophrenia"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "brief psychotic disorder",
+                "qid": "Q2787727",
+                "url": "https://en.wikipedia.org/wiki/Brief_psychotic_disorder"
+            }
+        ]
+    }
+}

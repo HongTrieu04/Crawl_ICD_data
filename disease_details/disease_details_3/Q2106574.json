@@ -1,0 +1,21 @@
+{
+    "name": "Pott's fracture",
+    "qid": "Q2106574",
+    "icd_10": "S82.6",
+    "description": "archaic term loosely applied to a variety of bimalleolar ankle fractures",
+    "aliases": [
+        "Dupuytren fracture",
+        "Pott's syndrome I"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pott%27s_fracture",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "Bimalleolar fracture",
+                "qid": "Q4913696",
+                "url": "https://en.wikipedia.org/wiki/Bimalleolar_fracture"
+            }
+        ]
+    }
+}

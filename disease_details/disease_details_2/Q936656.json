@@ -1,0 +1,33 @@
+{
+    "name": "cinchonism",
+    "qid": "Q936656",
+    "icd_10": "T37.2",
+    "description": "pathological condition caused by an overdose of quinine or quinidine",
+    "aliases": [
+        "quinism"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Cinchonism",
+    "details": {
+        "Cause": [
+            {
+                "name": "quinine",
+                "qid": "Q189522",
+                "url": "https://en.wikipedia.org/wiki/Quinine"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "poisoning by drugs",
+                "qid": "Q387175"
+            }
+        ]
+    }
+}

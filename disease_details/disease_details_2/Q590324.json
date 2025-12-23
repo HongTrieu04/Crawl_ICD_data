@@ -1,0 +1,32 @@
+{
+    "name": "cryptophthalmos",
+    "qid": "Q590324",
+    "icd_10": "Q11.2",
+    "description": "congenital abnormality characterized by the presence of a continuous layer of skin extending over the eyeballs and the absence of eyelids and the palpebral fissure",
+    "aliases": [
+        "cryptophthalmia",
+        "Cryptophthalmia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Cryptophthalmos",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "congenital disorder",
+                "qid": "Q727096",
+                "url": "https://en.wikipedia.org/wiki/Birth_defect"
+            },
+            {
+                "name": "eyelid disease",
+                "qid": "Q18556729"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

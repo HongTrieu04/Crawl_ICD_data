@@ -1,0 +1,32 @@
+{
+    "name": "subacute combined degeneration of spinal cord",
+    "qid": "Q1424137",
+    "icd_10": "G32.0",
+    "description": "SACD",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Subacute_combined_degeneration_of_spinal_cord",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "spinal cord disease",
+                "qid": "Q2303951",
+                "url": "https://en.wikipedia.org/wiki/Myelopathy"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "vitamin B12 deficiency",
+                "qid": "Q3234995",
+                "url": "https://en.wikipedia.org/wiki/Vitamin_B12_deficiency"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "scar",
+    "qid": "Q206060",
+    "icd_10": "L90.5",
+    "description": "area of fibrous tissue that replaces normal skin after an injury",
+    "aliases": [
+        "scarring",
+        "scars",
+        "cicatrix"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Scar%20%28xndr%29.jpg",
+    "url": "https://en.wikipedia.org/wiki/Scar",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "tissue",
+                "qid": "Q40397",
+                "url": "https://en.wikipedia.org/wiki/Tissue_(biology)"
+            }
+        ]
+    }
+}

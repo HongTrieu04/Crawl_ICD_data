@@ -1,0 +1,64 @@
+{
+    "name": "phaeochromocytoma",
+    "qid": "Q536269",
+    "icd_10": "C74.1",
+    "description": "endocrine organ benign neoplasm that arises within the adrenal medulla",
+    "aliases": [
+        "PCC",
+        "adrenal gland pheochromocytoma",
+        "Pheochromocytoma",
+        "PHEOCHROMOCYTOMA",
+        "Pheochromocytoma, Susceptibility to"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pheochromocytoma%20high%20mag.jpg",
+    "url": "https://en.wikipedia.org/wiki/Pheochromocytoma",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "neuroendocrine tumor",
+                "qid": "Q1981276",
+                "url": "https://en.wikipedia.org/wiki/Neuroendocrine_tumor"
+            },
+            {
+                "name": "endocrine organ benign neoplasm",
+                "qid": "Q18553650"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            },
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "arterial hypertension",
+                "qid": "Q41861",
+                "url": "https://en.wikipedia.org/wiki/Hypertension"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "propranolol",
+                "qid": "Q423364",
+                "url": "https://en.wikipedia.org/wiki/Propranolol"
+            },
+            {
+                "name": "metirosine",
+                "qid": "Q6824116",
+                "url": "https://en.wikipedia.org/wiki/Metirosine"
+            }
+        ]
+    }
+}

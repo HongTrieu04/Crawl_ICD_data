@@ -1,0 +1,38 @@
+{
+    "name": "otitis interna",
+    "qid": "Q7108870",
+    "icd_10": "H83.0",
+    "description": "inner ear disease which involves inflammation of the inner ear",
+    "aliases": [
+        "infectious labyrinthitis",
+        "Infectious Otitis Interna",
+        "inner ear infection",
+        "Internal Ear Infection"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "otitis",
+                "qid": "Q480700",
+                "url": "https://en.wikipedia.org/wiki/Otitis"
+            },
+            {
+                "name": "inner ear disease",
+                "qid": "Q18555242"
+            },
+            {
+                "name": "post-infectious disorder",
+                "qid": "Q55789778"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ]
+    }
+}

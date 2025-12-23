@@ -1,0 +1,25 @@
+{
+    "name": "overjet",
+    "qid": "Q7113715",
+    "icd_10": "K07.2",
+    "description": "medical condition",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Overjet-overbite.png",
+    "url": "https://en.wikipedia.org/wiki/Overjet",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "orthodontics",
+                "qid": "Q118301",
+                "url": "https://en.wikipedia.org/wiki/Orthodontics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "malocclusion",
+                "qid": "Q1320428",
+                "url": "https://en.wikipedia.org/wiki/Malocclusion"
+            }
+        ]
+    }
+}

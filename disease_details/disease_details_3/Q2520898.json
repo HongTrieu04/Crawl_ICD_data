@@ -1,0 +1,25 @@
+{
+    "name": "Bouchard's nodes",
+    "qid": "Q2520898",
+    "icd_10": "M15.2",
+    "description": "bony outgrowths or gelatinous cysts on the proximal interphalangeal joints",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Bouchard%27s_nodes",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "osteophyte",
+                "qid": "Q923339",
+                "url": "https://en.wikipedia.org/wiki/Osteophyte"
+            }
+        ]
+    }
+}

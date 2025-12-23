@@ -1,0 +1,139 @@
+{
+    "name": "melanoma",
+    "qid": "Q180614",
+    "icd_10": "C43.9",
+    "description": "malignant neoplasm originating from melanocytes",
+    "aliases": [
+        "malignant melanoma",
+        "naevocarcinom",
+        "naevocarcinoma"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Histopathology%20of%20Malignant%20melanoma.jpg",
+    "url": "https://en.wikipedia.org/wiki/Melanoma",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "skin cancer",
+                "qid": "Q192102",
+                "url": "https://en.wikipedia.org/wiki/Skin_cancer"
+            },
+            {
+                "name": "cell type cancer",
+                "qid": "Q18553402"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "bleomycin",
+                "qid": "Q415571",
+                "url": "https://en.wikipedia.org/wiki/Bleomycin"
+            },
+            {
+                "name": "dacarbazine",
+                "qid": "Q416975",
+                "url": "https://en.wikipedia.org/wiki/Dacarbazine"
+            },
+            {
+                "name": "procarbazine",
+                "qid": "Q418656",
+                "url": "https://en.wikipedia.org/wiki/Procarbazine"
+            },
+            {
+                "name": "docetaxel",
+                "qid": "Q420436",
+                "url": "https://en.wikipedia.org/wiki/Docetaxel"
+            },
+            {
+                "name": "hydroxycarbamide",
+                "qid": "Q212272",
+                "url": "https://en.wikipedia.org/wiki/Hydroxycarbamide"
+            },
+            {
+                "name": "bevacizumab",
+                "qid": "Q413299",
+                "url": "https://en.wikipedia.org/wiki/Bevacizumab"
+            },
+            {
+                "name": "lomustine",
+                "qid": "Q415378",
+                "url": "https://en.wikipedia.org/wiki/Lomustine"
+            },
+            {
+                "name": "dactinomycin",
+                "qid": "Q186127",
+                "url": "https://en.wikipedia.org/wiki/Dactinomycin"
+            },
+            {
+                "name": "vemurafenib",
+                "qid": "Q423111",
+                "url": "https://en.wikipedia.org/wiki/Vemurafenib"
+            },
+            {
+                "name": "paclitaxel",
+                "qid": "Q423762",
+                "url": "https://en.wikipedia.org/wiki/Paclitaxel"
+            },
+            {
+                "name": "temozolomide",
+                "qid": "Q425088",
+                "url": "https://en.wikipedia.org/wiki/Temozolomide"
+            },
+            {
+                "name": "ipilimumab",
+                "qid": "Q2459042",
+                "url": "https://en.wikipedia.org/wiki/Ipilimumab"
+            },
+            {
+                "name": "dabrafenib",
+                "qid": "Q3011604",
+                "url": "https://en.wikipedia.org/wiki/Dabrafenib"
+            },
+            {
+                "name": "sargramostim",
+                "qid": "Q3950557",
+                "url": "https://en.wikipedia.org/wiki/Sargramostim"
+            },
+            {
+                "name": "nivolumab",
+                "qid": "Q7041828",
+                "url": "https://en.wikipedia.org/wiki/Nivolumab"
+            },
+            {
+                "name": "peginterferon alfa-2b",
+                "qid": "Q7160789",
+                "url": "https://en.wikipedia.org/wiki/Peginterferon_alfa-2b"
+            },
+            {
+                "name": "trametinib",
+                "qid": "Q7833138",
+                "url": "https://en.wikipedia.org/wiki/Trametinib"
+            },
+            {
+                "name": "pembrolizumab",
+                "qid": "Q13896859",
+                "url": "https://en.wikipedia.org/wiki/Pembrolizumab"
+            },
+            {
+                "name": "cobimetinib",
+                "qid": "Q15708292",
+                "url": "https://en.wikipedia.org/wiki/Cobimetinib"
+            },
+            {
+                "name": "aldesleukin",
+                "qid": "Q20801763"
+            }
+        ]
+    }
+}

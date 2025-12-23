@@ -1,0 +1,30 @@
+{
+    "name": "kyphoscoliosis",
+    "qid": "Q2856379",
+    "icd_10": "M41",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Kyphoscoliosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "scoliosis",
+                "qid": "Q174857",
+                "url": "https://en.wikipedia.org/wiki/Scoliosis"
+            },
+            {
+                "name": "abnormal kyphosis",
+                "qid": "Q478389",
+                "url": "https://en.wikipedia.org/wiki/Kyphosis"
+            }
+        ]
+    }
+}

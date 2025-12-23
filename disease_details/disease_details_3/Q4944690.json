@@ -1,0 +1,29 @@
+{
+    "name": "Borderline tuberculoid leprosy",
+    "qid": "Q4944690",
+    "icd_10": "A30.2",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Borderline_tuberculoid_leprosy",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "tuberculoid leprosy",
+                "qid": "Q7850839",
+                "url": "https://en.wikipedia.org/wiki/Tuberculoid_leprosy"
+            },
+            {
+                "name": "paucibacillary leprosy",
+                "qid": "Q54911701"
+            }
+        ]
+    }
+}

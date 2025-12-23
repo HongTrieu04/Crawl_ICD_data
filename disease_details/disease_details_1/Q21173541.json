@@ -1,0 +1,80 @@
+{
+    "name": "carbon tetrachloride exposure",
+    "qid": "Q21173541",
+    "icd_10": "T53.0",
+    "description": "hazardous chemical exposure",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Symptoms": [
+            {
+                "name": "vomiting",
+                "qid": "Q127076",
+                "url": "https://en.wikipedia.org/wiki/Vomiting"
+            },
+            {
+                "name": "nausea",
+                "qid": "Q186889",
+                "url": "https://en.wikipedia.org/wiki/Nausea"
+            },
+            {
+                "name": "ataxia",
+                "qid": "Q213373",
+                "url": "https://en.wikipedia.org/wiki/Ataxia"
+            },
+            {
+                "name": "kidney disease",
+                "qid": "Q1054718",
+                "url": "https://en.wikipedia.org/wiki/Kidney_disease"
+            },
+            {
+                "name": "somnolence",
+                "qid": "Q1077823",
+                "url": "https://en.wikipedia.org/wiki/Somnolence"
+            },
+            {
+                "name": "hepatotoxicity",
+                "qid": "Q1349821",
+                "url": "https://en.wikipedia.org/wiki/Hepatotoxicity"
+            },
+            {
+                "name": "irritant dermatitis",
+                "qid": "Q1799146",
+                "url": "https://en.wikipedia.org/wiki/Irritant_contact_dermatitis"
+            },
+            {
+                "name": "central nervous system depression",
+                "qid": "Q5062120",
+                "url": "https://en.wikipedia.org/wiki/Central_nervous_system_depression"
+            },
+            {
+                "name": "dizziness",
+                "qid": "Q10916362",
+                "url": "https://en.wikipedia.org/wiki/Dizziness"
+            },
+            {
+                "name": "eye irritation",
+                "qid": "Q11820606"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "chemical hazard",
+                "qid": "Q21167512",
+                "url": "https://en.wikipedia.org/wiki/Chemical_hazard"
+            },
+            {
+                "name": "hazardous chemical exposure",
+                "qid": "Q68182219"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "carbon tetrachloride",
+                "qid": "Q225045",
+                "url": "https://en.wikipedia.org/wiki/Carbon_tetrachloride"
+            }
+        ]
+    }
+}

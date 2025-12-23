@@ -1,0 +1,33 @@
+{
+    "name": "inhalant use disorder",
+    "qid": "Q2248357",
+    "icd_10": "F18",
+    "description": "illicit use of chemical vapors, inhaled to produce a rapid mind-altering effect",
+    "aliases": [
+        "huffing",
+        "chroming",
+        "glue sniffing",
+        "inhalant abuse"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Toxicoman%20-%20Substance%20abuse.jpg",
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "non-controlled substance abuse",
+                "qid": "Q182413",
+                "url": "https://en.wikipedia.org/wiki/Toxicomania"
+            },
+            {
+                "name": "substance abuse",
+                "qid": "Q3184856",
+                "url": "https://en.wikipedia.org/wiki/Substance_abuse"
+            },
+            {
+                "name": "solvent exposure",
+                "qid": "Q7559033",
+                "url": "https://en.wikipedia.org/wiki/Solvent_exposure"
+            }
+        ]
+    }
+}

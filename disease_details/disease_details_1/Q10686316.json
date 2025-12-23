@@ -1,0 +1,47 @@
+{
+    "name": "vertigo",
+    "qid": "Q10686316",
+    "icd_10": "R42",
+    "description": "type of dizziness",
+    "aliases": [
+        "bonaventure"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vertigo%2008018.jpg",
+    "url": "https://en.wikipedia.org/wiki/Vertigo",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            },
+            {
+                "name": "otolaryngology",
+                "qid": "Q189553",
+                "url": "https://en.wikipedia.org/wiki/Otorhinolaryngology"
+            },
+            {
+                "name": "audiologist",
+                "qid": "Q1644347",
+                "url": "https://en.wikipedia.org/wiki/Audiologist"
+            },
+            {
+                "name": "speech and language therapist",
+                "qid": "Q11762416",
+                "url": "https://en.wikipedia.org/wiki/Speech_and_language_therapist"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "clinical sign",
+                "qid": "Q1441305",
+                "url": "https://en.wikipedia.org/wiki/Clinical_sign"
+            },
+            {
+                "name": "dizziness",
+                "qid": "Q10916362",
+                "url": "https://en.wikipedia.org/wiki/Dizziness"
+            }
+        ]
+    }
+}

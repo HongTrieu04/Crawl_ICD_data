@@ -1,0 +1,41 @@
+{
+    "name": "vertically transmitted infection",
+    "qid": "Q4113827",
+    "icd_10": "P39",
+    "description": "infection caused by pathogens that use mother-to-child transmission",
+    "aliases": [
+        "Infectious Disease Transmission, Vertical",
+        "perinatal infection",
+        "vertical infectious disease transmission, Vertical"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Vertically_transmitted_infection",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "pediatrics",
+                "qid": "Q123028",
+                "url": "https://en.wikipedia.org/wiki/Pediatrics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "congenital disorder",
+                "qid": "Q727096",
+                "url": "https://en.wikipedia.org/wiki/Birth_defect"
+            },
+            {
+                "name": "perinatal infectious disease",
+                "qid": "Q9386039",
+                "url": "https://en.wikipedia.org/wiki/Neonatal_infection"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "vertical transmission",
+                "qid": "Q2834381",
+                "url": "https://en.wikipedia.org/wiki/Vertical_transmission"
+            }
+        ]
+    }
+}

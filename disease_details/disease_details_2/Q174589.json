@@ -1,0 +1,54 @@
+{
+    "name": "agoraphobia",
+    "qid": "Q174589",
+    "icd_10": "F40.0",
+    "description": "phobic disorder involving the specific anxiety about being in a place or situation where escape is difficult or embarrassing or where help may be unavailable",
+    "aliases": [
+        "fear of crowds",
+        "fear of going outside",
+        "fear of open spaces",
+        "fear of outside"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Agora%20of%20the%20Competaliasts%2001%20%28cropped%29.jpg",
+    "url": "https://en.wikipedia.org/wiki/Agoraphobia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "clinical psychology",
+                "qid": "Q199906",
+                "url": "https://en.wikipedia.org/wiki/Clinical_psychology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "phobia",
+                "qid": "Q175854",
+                "url": "https://en.wikipedia.org/wiki/Phobia"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "psychotherapy",
+                "qid": "Q183257",
+                "url": "https://en.wikipedia.org/wiki/Psychotherapy"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "alprazolam",
+                "qid": "Q319877",
+                "url": "https://en.wikipedia.org/wiki/Alprazolam"
+            }
+        ]
+    }
+}

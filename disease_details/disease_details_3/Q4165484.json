@@ -1,0 +1,35 @@
+{
+    "name": "lymphoproliferative disorders",
+    "qid": "Q4165484",
+    "icd_10": "D47.9",
+    "description": "primary immunodeficiency disease characterized by immune dysregulation typically after viral infection, usually associated with Epstein-Barr viral infection",
+    "aliases": [
+        "Duncan's syndrome",
+        "lymphoproliferative disease",
+        "lymphoproliferative syndrome",
+        "obsolete lymphoproliferative disease"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Lymphoproliferative_disorders",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "immunoproliferative disorder",
+                "qid": "Q8578535",
+                "url": "https://en.wikipedia.org/wiki/Immunoproliferative_disorder"
+            },
+            {
+                "name": "primary immunodeficiency disease",
+                "qid": "Q3043160",
+                "url": "https://en.wikipedia.org/wiki/Primary_immunodeficiency"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ]
+    }
+}

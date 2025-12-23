@@ -1,0 +1,28 @@
+{
+    "name": "precordial pain",
+    "qid": "Q21120264",
+    "icd_10": "R07.2",
+    "description": null,
+    "aliases": [
+        "precordial chest pain",
+        "precordialgia"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "chest pain",
+                "qid": "Q693058",
+                "url": "https://en.wikipedia.org/wiki/Chest_pain"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "precordium",
+                "qid": "Q2073521",
+                "url": "https://en.wikipedia.org/wiki/Precordium"
+            }
+        ]
+    }
+}

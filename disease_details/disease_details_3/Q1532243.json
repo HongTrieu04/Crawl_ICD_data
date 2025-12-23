@@ -1,0 +1,44 @@
+{
+    "name": "Libman–Sacks endocarditis",
+    "qid": "Q1532243",
+    "icd_10": "I39",
+    "description": "human disease",
+    "aliases": [
+        "Atypical verrucal endocarditis",
+        "Libman-Sacks endocarditis",
+        "Nonbacterial verrucal endocardiosis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Libman%E2%80%93Sacks_endocarditis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "autoimmune disease of cardiovascular system",
+                "qid": "Q4826340",
+                "url": "https://en.wikipedia.org/wiki/Autoimmune_heart_disease"
+            },
+            {
+                "name": "marantic endocarditis",
+                "qid": "Q73518",
+                "url": "https://en.wikipedia.org/wiki/Nonbacterial_thrombotic_endocarditis"
+            },
+            {
+                "name": "endocarditis",
+                "qid": "Q82504",
+                "url": "https://en.wikipedia.org/wiki/Endocarditis"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ]
+    }
+}

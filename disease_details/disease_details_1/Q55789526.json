@@ -1,0 +1,23 @@
+{
+    "name": "chronic non-suppurative otitis media",
+    "qid": "Q55789526",
+    "icd_10": "H65.4",
+    "description": "Chronic form of non-suppurative otitis media",
+    "aliases": [
+        "non-suppurative otitis media, chronic"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "chronic otitis media",
+                "qid": "Q1088044"
+            },
+            {
+                "name": "non-suppurative otitis media",
+                "qid": "Q18554024"
+            }
+        ]
+    }
+}

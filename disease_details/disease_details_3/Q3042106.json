@@ -1,0 +1,29 @@
+{
+    "name": "dysgammaglobulinemia",
+    "qid": "Q3042106",
+    "icd_10": "D80.4",
+    "description": "selective immunoglobulin deficiency disease that is caused by a reduction in some types of gamma globulins",
+    "aliases": [
+        "Dysgammaglobulinemia",
+        "Dysgammaglobulinemia (disorder)",
+        "Dysgammaglobulinemia (finding)",
+        "dysglobulinemia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Dysgammaglobulinemia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "selective immunoglobulin deficiency disease",
+                "qid": "Q3043167"
+            }
+        ]
+    }
+}

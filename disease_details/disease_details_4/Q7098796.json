@@ -1,0 +1,41 @@
+{
+    "name": "optic nerve glioma",
+    "qid": "Q7098796",
+    "icd_10": "C72.3",
+    "description": "human disease",
+    "aliases": [
+        "glioma of the optic nerve"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Optic_nerve_glioma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "glioma",
+                "qid": "Q1365309",
+                "url": "https://en.wikipedia.org/wiki/Glioma"
+            },
+            {
+                "name": "optic nerve tumor",
+                "qid": "Q7098798",
+                "url": "https://en.wikipedia.org/wiki/Optic_nerve_tumor"
+            },
+            {
+                "name": "visual pathway glioma",
+                "qid": "Q7936613",
+                "url": "https://en.wikipedia.org/wiki/Visual_pathway_glioma"
+            },
+            {
+                "name": "brain glioma",
+                "qid": "Q18553667"
+            }
+        ]
+    }
+}

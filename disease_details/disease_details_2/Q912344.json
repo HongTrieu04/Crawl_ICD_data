@@ -1,0 +1,43 @@
+{
+    "name": "ego-dystonic sexual orientation",
+    "qid": "Q912344",
+    "icd_10": "F66.1",
+    "description": "psychiatric diagnosis",
+    "aliases": [
+        "ego-dystonic homosexuality"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Ego-dystonic_sexual_orientation",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "psychology",
+                "qid": "Q9418",
+                "url": "https://en.wikipedia.org/wiki/Psychology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "gender dysphoria",
+                "qid": "Q1049021",
+                "url": "https://en.wikipedia.org/wiki/Gender_dysphoria"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "anxiousness",
+                "qid": "Q255241"
+            }
+        ]
+    }
+}

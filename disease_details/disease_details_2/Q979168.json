@@ -1,0 +1,50 @@
+{
+    "name": "cerebral edema",
+    "qid": "Q979168",
+    "icd_10": "G93.6",
+    "description": "human disease",
+    "aliases": [
+        "wet brain",
+        "brain edema",
+        "brain oedema",
+        "cerebral oedema",
+        "intracranial swelling"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tumor%20Meningioma3.JPG",
+    "url": "https://en.wikipedia.org/wiki/Cerebral_edema",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "encephalopathy",
+                "qid": "Q576349",
+                "url": "https://en.wikipedia.org/wiki/Encephalopathy"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "mannitol hexanitrate",
+                "qid": "Q1890796",
+                "url": "https://en.wikipedia.org/wiki/Mannitol_hexanitrate"
+            },
+            {
+                "name": "D-(-)-mannitol",
+                "qid": "Q407646",
+                "url": "https://en.wikipedia.org/wiki/Mannitol"
+            },
+            {
+                "name": "dexamethasone",
+                "qid": "Q422252",
+                "url": "https://en.wikipedia.org/wiki/Dexamethasone"
+            },
+            {
+                "name": "prednisolone hemisuccinate",
+                "qid": "Q27278862"
+            }
+        ]
+    }
+}

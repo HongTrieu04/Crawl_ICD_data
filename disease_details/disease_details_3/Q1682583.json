@@ -1,0 +1,36 @@
+{
+    "name": "tendinopathy",
+    "qid": "Q1682583",
+    "icd_10": "M67.9",
+    "description": "bruised tendon",
+    "aliases": [
+        "tendon disorder"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Tendinopathy",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "physical medicine and rehabilitation",
+                "qid": "Q2678675",
+                "url": "https://en.wikipedia.org/wiki/Physical_medicine_and_rehabilitation"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "musculoskeletal disorder",
+                "qid": "Q4116663",
+                "url": "https://en.wikipedia.org/wiki/Musculoskeletal_disorder"
+            },
+            {
+                "name": "soft tissue disorder",
+                "qid": "Q7554046",
+                "url": "https://en.wikipedia.org/wiki/Soft_tissue_disorder"
+            },
+            {
+                "name": "synovial, tendon or bursa disorder",
+                "qid": "Q18967087"
+            }
+        ]
+    }
+}

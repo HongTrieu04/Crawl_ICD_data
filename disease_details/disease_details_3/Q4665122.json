@@ -1,0 +1,17 @@
+{
+    "name": "abdominal mass",
+    "qid": "Q4665122",
+    "icd_10": "R19.0",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Abdominal_mass",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "abdominal symptom",
+                "qid": "Q102187028"
+            }
+        ]
+    }
+}

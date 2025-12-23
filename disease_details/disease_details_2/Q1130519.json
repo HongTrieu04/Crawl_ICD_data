@@ -1,0 +1,54 @@
+{
+    "name": "heart valve disease",
+    "qid": "Q1130519",
+    "icd_10": "I08",
+    "description": "disease in the valves of the heart",
+    "aliases": [
+        "cardial valve disease",
+        "disease of cardial valve",
+        "disorder of cardial valve",
+        "Disorder of Heart Valve",
+        "heart valve diseases",
+        "Heart Valve Disorder",
+        "Valvular heart disease",
+        "Valvular heart disease (disorder)",
+        "valvular heart disorder"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Valvular_heart_disease",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "heart disease",
+                "qid": "Q190805",
+                "url": "https://en.wikipedia.org/wiki/Heart_disease"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "rac-warfarin",
+                "qid": "Q113368879",
+                "url": "https://en.wikipedia.org/wiki/Warfarin"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "heart valve",
+                "qid": "Q215620",
+                "url": "https://en.wikipedia.org/wiki/Heart_valve"
+            }
+        ]
+    }
+}

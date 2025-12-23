@@ -1,0 +1,27 @@
+{
+    "name": "Intestinal malrotation",
+    "qid": "Q448023",
+    "icd_10": "Q43.3",
+    "description": "congenital disorder of digestive system",
+    "aliases": [
+        "Intestinal Malrotation, Familial",
+        "VOLVULUS OF MIDGUT"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Intestinal_malrotation",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "intestinal malformation",
+                "qid": "Q55789041"
+            }
+        ]
+    }
+}

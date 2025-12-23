@@ -1,0 +1,44 @@
+{
+    "name": "Sandhoff disease",
+    "qid": "Q917227",
+    "icd_10": "E75.0",
+    "description": "lysosomal storage disorder from the GM2 gangliosidosis family, characterised by central nervous system degeneration",
+    "aliases": [
+        "GM2 gangliosidosis 0 variant",
+        "Gm2-Gangliosidosis, Type 2",
+        "Hexosaminidases a and B Deficiency",
+        "SANDHOFF DISEASE",
+        "Sandhoff disease (disorder)",
+        "Sandhoff Disease, Adult Type",
+        "Sandhoff Disease, Infantile Type",
+        "Sandhoff Disease, Juvenile Type",
+        "Sandhoff Jatzkewitz disease"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Sandhoff_disease",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "GM2 gangliosidosis",
+                "qid": "Q5513691",
+                "url": "https://en.wikipedia.org/wiki/GM2_gangliosidoses"
+            },
+            {
+                "name": "eye degenerative disease",
+                "qid": "Q18558225"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ]
+    }
+}

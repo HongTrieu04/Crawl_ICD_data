@@ -1,0 +1,66 @@
+{
+    "name": "articular cartilage disease",
+    "qid": "Q938793",
+    "icd_10": "M24.1",
+    "description": "disease involving the articular cartilage of joint",
+    "aliases": [
+        "Articular cartilage disorder involving ankle and foot",
+        "Articular cartilage disorder involving forearm",
+        "Articular cartilage disorder involving hand",
+        "Articular cartilage disorder involving multiple sites",
+        "Articular cartilage disorder involving pelvic region and thigh",
+        "Articular cartilage disorder involving shoulder region",
+        "Articular cartilage disorder involving upper arm",
+        "articular cartilage disorder of ankle and/or foot",
+        "Articular cartilage disorder of ankle and/or foot (disorder)",
+        "Articular cartilage disorder of forearm",
+        "Articular cartilage disorder of forearm (disorder)",
+        "Articular cartilage disorder of hand",
+        "Articular cartilage disorder of hand (disorder)",
+        "Articular cartilage disorder of multiple sites",
+        "Articular cartilage disorder of multiple sites (disorder)",
+        "Articular cartilage disorder of shoulder region",
+        "Articular cartilage disorder of shoulder region (disorder)",
+        "Articular cartilage disorder of the ankle and foot (disorder)",
+        "Articular cartilage disorder of the forearm (disorder)",
+        "Articular cartilage disorder of the hand (disorder)",
+        "Articular cartilage disorder of the pelvic region and thigh",
+        "Articular cartilage disorder of the pelvic region and thigh (disorder)",
+        "Articular cartilage disorder of the shoulder region (disorder)",
+        "Articular cartilage disorder of the upper arm (disorder)",
+        "Articular cartilage disorder of upper arm",
+        "Articular cartilage disorder of upper arm (disorder)",
+        "articular cartilage of joint disease",
+        "disease of articular cartilage of joint",
+        "disorder of articular cartilage of joint"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Articular_cartilage_damage",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "arthropathy",
+                "qid": "Q708176",
+                "url": "https://en.wikipedia.org/wiki/Arthropathy"
+            },
+            {
+                "name": "chondropathy",
+                "qid": "Q851693",
+                "url": "https://en.wikipedia.org/wiki/Chondropathy"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "articular cartilage",
+                "qid": "Q3704713"
+            }
+        ]
+    }
+}

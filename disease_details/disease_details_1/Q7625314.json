@@ -1,0 +1,17 @@
+{
+    "name": "Strumal carcinoid",
+    "qid": "Q7625314",
+    "icd_10": "D39.1",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Strumal_carcinoid",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "monodermal teratoma",
+                "qid": "Q18556678"
+            }
+        ]
+    }
+}

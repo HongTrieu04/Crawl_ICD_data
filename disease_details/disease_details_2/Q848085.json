@@ -1,0 +1,23 @@
+{
+    "name": "bone metastasis",
+    "qid": "Q848085",
+    "icd_10": "C79.5",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Bone_metastasis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "metastasis",
+                "qid": "Q181876",
+                "url": "https://en.wikipedia.org/wiki/Metastasis"
+            },
+            {
+                "name": "bone cancer",
+                "qid": "Q18554919",
+                "url": "https://en.wikipedia.org/wiki/Bone_cancer"
+            }
+        ]
+    }
+}

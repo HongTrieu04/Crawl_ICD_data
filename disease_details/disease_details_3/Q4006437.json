@@ -1,0 +1,17 @@
+{
+    "name": "Urethrorrhagia",
+    "qid": "Q4006437",
+    "icd_10": "N36.8",
+    "description": "urethral bleeding in absence of urine",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Urethrorrhagia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "urethral disease",
+                "qid": "Q18557550"
+            }
+        ]
+    }
+}

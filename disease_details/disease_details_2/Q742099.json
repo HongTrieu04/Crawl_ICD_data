@@ -1,0 +1,30 @@
+{
+    "name": "subclavian steal syndrome",
+    "qid": "Q742099",
+    "icd_10": "G45.8",
+    "description": "constellation of signs and symptoms that arise from retrograde (reversed) blood flow in the vertebral artery or the internal thoracic artery, due to a proximal stenosis (narrowing) and/or occlusion of the subclavian artery",
+    "aliases": [
+        "Subclavian artery stenosis",
+        "Subclavian artery stenosis (disorder)",
+        "subclavian steal phenomenon",
+        "subclavian steal steno-occlusive disease"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Subclavian_steal_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "syndrome",
+                "qid": "Q179630",
+                "url": "https://en.wikipedia.org/wiki/Syndrome"
+            }
+        ]
+    }
+}

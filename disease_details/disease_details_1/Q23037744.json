@@ -1,0 +1,52 @@
+{
+    "name": "respiratory allergy",
+    "qid": "Q23037744",
+    "icd_10": "J39.3",
+    "description": "hypersensitivity reaction type I disease located in the respiratory tract",
+    "aliases": [
+        "airway allergy",
+        "allergic form of respiratory system disease"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "allergy",
+                "qid": "Q42982",
+                "url": "https://en.wikipedia.org/wiki/Allergy"
+            },
+            {
+                "name": "respiratory disease",
+                "qid": "Q3286546",
+                "url": "https://en.wikipedia.org/wiki/Respiratory_disease"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "immunology",
+                "qid": "Q101929",
+                "url": "https://en.wikipedia.org/wiki/Immunology"
+            },
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "respiratory tract",
+                "qid": "Q13400765",
+                "url": "https://en.wikipedia.org/wiki/Respiratory_tract"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "doxapram",
+                "qid": "Q737743",
+                "url": "https://en.wikipedia.org/wiki/Doxapram"
+            }
+        ]
+    }
+}

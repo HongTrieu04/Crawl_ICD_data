@@ -1,0 +1,28 @@
+{
+    "name": "Klumpke paralysis",
+    "qid": "Q2336817",
+    "icd_10": "P14.1",
+    "description": "medical condition",
+    "aliases": [
+        "Dejerine–Klumpke palsy",
+        "Klumpke's palsy"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Klumpke_paralysis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "pediatrics",
+                "qid": "Q123028",
+                "url": "https://en.wikipedia.org/wiki/Pediatrics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "Obstetrical brachial plexus palsy",
+                "qid": "Q1629731",
+                "url": "https://en.wikipedia.org/wiki/Obstetrical_brachial_plexus_palsy"
+            }
+        ]
+    }
+}

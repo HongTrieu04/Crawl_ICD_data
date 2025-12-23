@@ -1,0 +1,195 @@
+{
+    "name": "Kyasanur forest disease",
+    "qid": "Q1432397",
+    "icd_10": "A98.2",
+    "description": "Human disease",
+    "aliases": [
+        "KFD",
+        "KFD virus",
+        "Kyasanur hemorrhagic fever",
+        "Monkey disease",
+        "Monkey fever"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Kyasanur_Forest_disease",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            },
+            {
+                "name": "cough",
+                "qid": "Q35805",
+                "url": "https://en.wikipedia.org/wiki/Cough"
+            },
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "bleeding",
+                "qid": "Q166019",
+                "url": "https://en.wikipedia.org/wiki/Bleeding"
+            },
+            {
+                "name": "conjunctivitis",
+                "qid": "Q167844",
+                "url": "https://en.wikipedia.org/wiki/Conjunctivitis"
+            },
+            {
+                "name": "abdominal pain",
+                "qid": "Q183425",
+                "url": "https://en.wikipedia.org/wiki/Abdominal_pain"
+            },
+            {
+                "name": "vomiting",
+                "qid": "Q127076",
+                "url": "https://en.wikipedia.org/wiki/Vomiting"
+            },
+            {
+                "name": "chills",
+                "qid": "Q2260058",
+                "url": "https://en.wikipedia.org/wiki/Chills"
+            },
+            {
+                "name": "internal bleeding",
+                "qid": "Q2361887",
+                "url": "https://en.wikipedia.org/wiki/Internal_bleeding"
+            },
+            {
+                "name": "diarrhea",
+                "qid": "Q40878",
+                "url": "https://en.wikipedia.org/wiki/Diarrhea"
+            },
+            {
+                "name": "lymphadenopathy",
+                "qid": "Q847726",
+                "url": "https://en.wikipedia.org/wiki/Lymphadenopathy"
+            },
+            {
+                "name": "hyperesthesia",
+                "qid": "Q1638131",
+                "url": "https://en.wikipedia.org/wiki/Hyperesthesia"
+            },
+            {
+                "name": "nausea",
+                "qid": "Q186889",
+                "url": "https://en.wikipedia.org/wiki/Nausea"
+            },
+            {
+                "name": "dehydration",
+                "qid": "Q194290",
+                "url": "https://en.wikipedia.org/wiki/Dehydration"
+            },
+            {
+                "name": "tremor",
+                "qid": "Q223907",
+                "url": "https://en.wikipedia.org/wiki/Tremor"
+            },
+            {
+                "name": "photophobia",
+                "qid": "Q281289",
+                "url": "https://en.wikipedia.org/wiki/Photophobia"
+            },
+            {
+                "name": "myalgia",
+                "qid": "Q474959",
+                "url": "https://en.wikipedia.org/wiki/Myalgia"
+            },
+            {
+                "name": "meningism signs",
+                "qid": "Q12122651"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "liver",
+                "qid": "Q9368",
+                "url": "https://en.wikipedia.org/wiki/Liver"
+            },
+            {
+                "name": "lung",
+                "qid": "Q7886",
+                "url": "https://en.wikipedia.org/wiki/Lung"
+            },
+            {
+                "name": "spleen",
+                "qid": "Q9371",
+                "url": "https://en.wikipedia.org/wiki/Spleen"
+            },
+            {
+                "name": "blood vessel",
+                "qid": "Q988343",
+                "url": "https://en.wikipedia.org/wiki/Blood_vessel"
+            },
+            {
+                "name": "meninges",
+                "qid": "Q268930",
+                "url": "https://en.wikipedia.org/wiki/Meninges"
+            },
+            {
+                "name": "human brain",
+                "qid": "Q492038",
+                "url": "https://en.wikipedia.org/wiki/Human_brain"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "viral hemorrhagic fever",
+                "qid": "Q162272",
+                "url": "https://en.wikipedia.org/wiki/Viral_hemorrhagic_fever"
+            },
+            {
+                "name": "viral infectious disease",
+                "qid": "Q1928978",
+                "url": "https://en.wikipedia.org/wiki/Viral_disease"
+            },
+            {
+                "name": "tick-borne disease",
+                "qid": "Q184243",
+                "url": "https://en.wikipedia.org/wiki/Tick-borne_disease"
+            },
+            {
+                "name": "hospital-acquired infection",
+                "qid": "Q215509",
+                "url": "https://en.wikipedia.org/wiki/Hospital-acquired_infection"
+            },
+            {
+                "name": "endemic disease",
+                "qid": "Q506680",
+                "url": "https://en.wikipedia.org/wiki/Endemic_(epidemiology)"
+            },
+            {
+                "name": "arbovirosis",
+                "qid": "Q2859732"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "supportive care",
+                "qid": "Q3488952"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Kyasanur Forest disease virus",
+                "qid": "Q19838389"
+            }
+        ]
+    }
+}

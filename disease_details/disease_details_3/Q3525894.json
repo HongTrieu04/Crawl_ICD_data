@@ -1,0 +1,26 @@
+{
+    "name": "personality change",
+    "qid": "Q3525894",
+    "icd_10": "F62",
+    "description": "differences in patterns over time",
+    "aliases": [
+        "change in personality",
+        "change in personality over a lifetime"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Personality_change",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "symptom",
+                "qid": "Q169872",
+                "url": "https://en.wikipedia.org/wiki/Symptom"
+            },
+            {
+                "name": "personality disorder",
+                "qid": "Q270673",
+                "url": "https://en.wikipedia.org/wiki/Personality_disorder"
+            }
+        ]
+    }
+}

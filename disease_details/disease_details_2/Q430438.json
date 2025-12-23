@@ -1,0 +1,25 @@
+{
+    "name": "onycholysis",
+    "qid": "Q430438",
+    "icd_10": "L60.1",
+    "description": "lifting of nail plate, nail changes",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Onycholysis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "nail disease",
+                "qid": "Q2084035",
+                "url": "https://en.wikipedia.org/wiki/Nail_disease"
+            }
+        ]
+    }
+}

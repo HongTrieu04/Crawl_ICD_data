@@ -1,0 +1,23 @@
+{
+    "name": "perennial allergic rhinitis",
+    "qid": "Q55136018",
+    "icd_10": "J30.3",
+    "description": "inflammation of the mucous membrane of the nose, similar to hay fever, with symptoms that persist",
+    "aliases": [
+        "Non-seasonal Allergic Rhinitis",
+        "Nonseasonal Allergic Rhinitis",
+        "Perennial Allergic Rhinitis",
+        "Rhinitis, Allergic, Perennial"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "allergic rhinitis",
+                "qid": "Q272436",
+                "url": "https://en.wikipedia.org/wiki/Allergic_rhinitis"
+            }
+        ]
+    }
+}

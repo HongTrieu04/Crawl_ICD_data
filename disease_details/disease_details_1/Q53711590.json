@@ -1,0 +1,25 @@
+{
+    "name": "enduring personality change after psychiatric illness",
+    "qid": "Q53711590",
+    "icd_10": "F62.1",
+    "description": "personality change attributable to the traumatic experience of suffering from a severe mental disorder",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "personality change",
+                "qid": "Q3525894",
+                "url": "https://en.wikipedia.org/wiki/Personality_change"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ]
+    }
+}

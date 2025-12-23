@@ -1,0 +1,52 @@
+{
+    "name": "herpangina",
+    "qid": "Q665258",
+    "icd_10": "B08.5",
+    "description": "Human disease",
+    "aliases": [
+        "vesicular pharyngitis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Herpangine%2003.jpg",
+    "url": "https://en.wikipedia.org/wiki/Herpangina",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "viral infectious disease",
+                "qid": "Q1928978",
+                "url": "https://en.wikipedia.org/wiki/Viral_disease"
+            },
+            {
+                "name": "mouth disease",
+                "qid": "Q2508462",
+                "url": "https://en.wikipedia.org/wiki/Oral_and_maxillofacial_pathology"
+            },
+            {
+                "name": "coxsackievirus infectious disease",
+                "qid": "Q18966421"
+            },
+            {
+                "name": "Enterovirus infectious disease",
+                "qid": "Q19000403"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "oral cavity",
+                "qid": "Q27042858",
+                "url": "https://en.wikipedia.org/wiki/Oral_cavity"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

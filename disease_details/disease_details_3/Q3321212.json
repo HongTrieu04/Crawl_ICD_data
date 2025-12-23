@@ -1,0 +1,28 @@
+{
+    "name": "one-eyed",
+    "qid": "Q3321212",
+    "icd_10": "H54.4",
+    "description": "blind in one eye",
+    "aliases": [
+        "monocular vision",
+        "one eye blind",
+        "single eye blind",
+        "Vision loss, monocular"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "visual impairment",
+                "qid": "Q737460",
+                "url": "https://en.wikipedia.org/wiki/Visual_impairment"
+            },
+            {
+                "name": "eye disease",
+                "qid": "Q3041498",
+                "url": "https://en.wikipedia.org/wiki/Eye_disease"
+            }
+        ]
+    }
+}

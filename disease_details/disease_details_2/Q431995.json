@@ -1,0 +1,34 @@
+{
+    "name": "ulnar nerve entrapment",
+    "qid": "Q431995",
+    "icd_10": "G56.2",
+    "description": "condition where the ulnar nerve becomes physically trapped or pinched, resulting in pain, numbness, or weakness",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Ulnar_neuropathy_at_the_elbow",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "occupational disease",
+                "qid": "Q637816",
+                "url": "https://en.wikipedia.org/wiki/Occupational_disease"
+            },
+            {
+                "name": "nerve compression syndrome",
+                "qid": "Q1978084",
+                "url": "https://en.wikipedia.org/wiki/Nerve_compression_syndrome"
+            },
+            {
+                "name": "ulnar nerve lesion",
+                "qid": "Q18554257"
+            }
+        ]
+    }
+}

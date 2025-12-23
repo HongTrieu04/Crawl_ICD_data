@@ -1,0 +1,25 @@
+{
+    "name": "greater trochanteric pain syndrome",
+    "qid": "Q28501085",
+    "icd_10": "M70.6",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "trochanteric bursitis",
+                "qid": "Q2928621",
+                "url": "https://en.wikipedia.org/wiki/Greater_trochanteric_pain_syndrome"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "greater trochanter",
+                "qid": "Q5600920",
+                "url": "https://en.wikipedia.org/wiki/Greater_trochanter"
+            }
+        ]
+    }
+}

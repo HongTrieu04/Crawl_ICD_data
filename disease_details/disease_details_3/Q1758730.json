@@ -1,0 +1,42 @@
+{
+    "name": "transposition of great vessels",
+    "qid": "Q1758730",
+    "icd_10": "Q25.9",
+    "description": "group of congenital heart defects involving an abnormal spatial arrangement of any of the great vessels: superior and/or inferior venae cavae, pulmonary artery, pulmonary veins, and aorta",
+    "aliases": [
+        "TGA",
+        "TGV",
+        "Complete transposition",
+        "Great Vessels Transposition",
+        "transposition of great arteries",
+        "TRANSPOSITION OF GREAT VESSELS",
+        "transposition of the great vessels"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Transposition%20great%20arteries%20Orphanet%201750-1172-3-27-1.JPEG",
+    "url": "https://en.wikipedia.org/wiki/Transposition_of_the_great_vessels",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "congenital heart disease",
+                "qid": "Q939364",
+                "url": "https://en.wikipedia.org/wiki/Congenital_heart_defect"
+            },
+            {
+                "name": "transposition",
+                "qid": "Q64869942",
+                "url": "https://en.wikipedia.org/wiki/Transposition_(birth_defect)"
+            },
+            {
+                "name": "great vessels malformation",
+                "qid": "Q55788283"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

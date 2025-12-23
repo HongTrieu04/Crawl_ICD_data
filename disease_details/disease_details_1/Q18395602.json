@@ -1,0 +1,34 @@
+{
+    "name": "Vitreous touch syndrome",
+    "qid": "Q18395602",
+    "icd_10": "H59.01",
+    "description": "medical condition",
+    "aliases": [
+        "Vitreocorneal adherence"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Vitreous_touch_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "vitreous bulge",
+                "qid": "Q60791025",
+                "url": "https://en.wikipedia.org/wiki/Vitreous_bulge"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "adverse effect",
+                "qid": "Q2047938",
+                "url": "https://en.wikipedia.org/wiki/Adverse_effect"
+            }
+        ]
+    }
+}

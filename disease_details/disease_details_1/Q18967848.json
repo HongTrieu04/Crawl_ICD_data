@@ -1,0 +1,22 @@
+{
+    "name": "disorder of pancreatic internal secretion",
+    "qid": "Q18967848",
+    "icd_10": "E16.9",
+    "description": "Human disease",
+    "aliases": [
+        "disorder of pancreatic internal secretion (disorder)",
+        "obsolete disorder of pancreatic internal secretion",
+        "Unspecified disorder of pancreatic internal secretion"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "pancreas disease",
+                "qid": "Q7130407",
+                "url": "https://en.wikipedia.org/wiki/Pancreatic_disease"
+            }
+        ]
+    }
+}

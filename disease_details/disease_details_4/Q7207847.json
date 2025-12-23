@@ -1,0 +1,25 @@
+{
+    "name": "Poikiloderma vasculare atrophicans",
+    "qid": "Q7207847",
+    "icd_10": "L94.5",
+    "description": "Medical condition.",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Poikiloderma_vasculare_atrophicans",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "Poikiloderma",
+                "qid": "Q1307866",
+                "url": "https://en.wikipedia.org/wiki/Poikiloderma"
+            }
+        ]
+    }
+}

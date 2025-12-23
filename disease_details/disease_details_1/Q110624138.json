@@ -1,0 +1,104 @@
+{
+    "name": "Jamestown Canyon encephalitis",
+    "qid": "Q110624138",
+    "icd_10": "A83.8",
+    "description": "infectious disease",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Jamestown_Canyon_encephalitis",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            },
+            {
+                "name": "cough",
+                "qid": "Q35805",
+                "url": "https://en.wikipedia.org/wiki/Cough"
+            },
+            {
+                "name": "sore throat",
+                "qid": "Q1292082",
+                "url": "https://en.wikipedia.org/wiki/Sore_throat"
+            },
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "rhinitis",
+                "qid": "Q114085",
+                "url": "https://en.wikipedia.org/wiki/Rhinitis"
+            },
+            {
+                "name": "vomiting",
+                "qid": "Q127076",
+                "url": "https://en.wikipedia.org/wiki/Vomiting"
+            },
+            {
+                "name": "nausea",
+                "qid": "Q186889",
+                "url": "https://en.wikipedia.org/wiki/Nausea"
+            },
+            {
+                "name": "meningism signs",
+                "qid": "Q12122651"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "brain",
+                "qid": "Q1073",
+                "url": "https://en.wikipedia.org/wiki/Brain"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "viral encephalitis",
+                "qid": "Q3053951",
+                "url": "https://en.wikipedia.org/wiki/Viral_encephalitis"
+            },
+            {
+                "name": "vector-borne disease",
+                "qid": "Q2083837"
+            },
+            {
+                "name": "arbovirosis",
+                "qid": "Q2859732"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "symptomatic treatment",
+                "qid": "Q621558",
+                "url": "https://en.wikipedia.org/wiki/Symptomatic_treatment"
+            },
+            {
+                "name": "diuretic",
+                "qid": "Q200656",
+                "url": "https://en.wikipedia.org/wiki/Diuretic"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            },
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Jamestown Canyon orthobunyavirus",
+                "qid": "Q70626394"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "mixed Müllerian tumor",
+    "qid": "Q1958786",
+    "icd_10": "C54",
+    "description": "medical condition",
+    "aliases": [
+        "malignant mixed Müllerian tumor",
+        "Mixed Tumor, Mullerian",
+        "Mullerian mixed tumor"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Mixed_M%C3%BCllerian_tumor",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "complex and mixed tumor",
+                "qid": "Q5156568",
+                "url": "https://en.wikipedia.org/wiki/Complex_and_mixed_tumor"
+            }
+        ]
+    }
+}

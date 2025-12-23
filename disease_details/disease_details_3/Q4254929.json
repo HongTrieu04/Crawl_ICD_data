@@ -1,0 +1,30 @@
+{
+    "name": "latent tuberculosis",
+    "qid": "Q4254929",
+    "icd_10": "R76.1",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Latent_tuberculosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "tuberculosis",
+                "qid": "Q12204",
+                "url": "https://en.wikipedia.org/wiki/Tuberculosis"
+            },
+            {
+                "name": "asymptomatic infection",
+                "qid": "Q2326546",
+                "url": "https://en.wikipedia.org/wiki/Subclinical_infection"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

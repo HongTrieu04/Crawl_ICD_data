@@ -1,0 +1,25 @@
+{
+    "name": "infestation",
+    "qid": "Q1292038",
+    "icd_10": "B88.9",
+    "description": "state of being invaded or overrun by pests or parasites",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Infestation",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "parasitic infectious diseases",
+                "qid": "Q1601794",
+                "url": "https://en.wikipedia.org/wiki/Parasitic_disease"
+            }
+        ]
+    }
+}

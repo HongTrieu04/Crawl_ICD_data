@@ -1,0 +1,25 @@
+{
+    "name": "cold injury syndrome of newborn",
+    "qid": "Q18966846",
+    "icd_10": "P80.0",
+    "description": "Human disease",
+    "aliases": [
+        "Cold injury syndrome of newborn (disorder)",
+        "obsolete cold injury syndrome of newborn"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "hypothermia",
+                "qid": "Q1036696",
+                "url": "https://en.wikipedia.org/wiki/Hypothermia"
+            },
+            {
+                "name": "conditions involving the integument and temperature regulation of fetus and newborn",
+                "qid": "Q18966742"
+            }
+        ]
+    }
+}

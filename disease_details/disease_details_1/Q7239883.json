@@ -1,0 +1,28 @@
+{
+    "name": "pregnancy-associated malaria",
+    "qid": "Q7239883",
+    "icd_10": "O98.6",
+    "description": null,
+    "aliases": [
+        "PAM",
+        "malaria and pregnancy",
+        "malaria in pregnancy",
+        "pregnancy and malaria"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pregnancy-associated_malaria",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "malaria",
+                "qid": "Q12156",
+                "url": "https://en.wikipedia.org/wiki/Malaria"
+            },
+            {
+                "name": "complications of pregnancy",
+                "qid": "Q2916477",
+                "url": "https://en.wikipedia.org/wiki/Complications_of_pregnancy"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "name": "arteriovenous fistula",
+    "qid": "Q707837",
+    "icd_10": "I77.0",
+    "description": "abnormal, epithelial-lined connection between an artery and vein that is present at the time of birth",
+    "aliases": [
+        "congenital arteriovenous shunt"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Arteriovenous_fistula",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "simple vascular malformation",
+                "qid": "Q55786074"
+            },
+            {
+                "name": "vascular fistula",
+                "qid": "Q67084389"
+            }
+        ]
+    }
+}

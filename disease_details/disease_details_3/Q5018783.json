@@ -1,0 +1,25 @@
+{
+    "name": "calcinosis cutis",
+    "qid": "Q5018783",
+    "icd_10": "L94.2",
+    "description": "medical condition in which calcium deposits form in the skin",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Calcinosis%20cutis%201.jpg",
+    "url": "https://en.wikipedia.org/wiki/Calcinosis_cutis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "calcinosis",
+                "qid": "Q239027",
+                "url": "https://en.wikipedia.org/wiki/Calcinosis"
+            }
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "name": "obstetric fistula",
+    "qid": "Q679020",
+    "icd_10": "N82",
+    "description": "hole develops in the birth canal as a result of childbirth",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Obstetric_fistula",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "puerperal disorders",
+                "qid": "Q7258523",
+                "url": "https://en.wikipedia.org/wiki/Postpartum_disorder"
+            },
+            {
+                "name": "urogenital fistula",
+                "qid": "Q48207191",
+                "url": "https://en.wikipedia.org/wiki/Urogenital_fistula"
+            },
+            {
+                "name": "vaginal fistula",
+                "qid": "Q99639166"
+            }
+        ]
+    }
+}

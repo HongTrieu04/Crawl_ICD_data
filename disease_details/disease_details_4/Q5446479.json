@@ -1,0 +1,25 @@
+{
+    "name": "fibrothorax",
+    "qid": "Q5446479",
+    "icd_10": "J94.1",
+    "description": "medical condition involving fibrosis of the pleural space",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Fibrothorax",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "pleural disease",
+                "qid": "Q7204732",
+                "url": "https://en.wikipedia.org/wiki/Pleural_disease"
+            }
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "name": "hyperkalemia",
+    "qid": "Q605259",
+    "icd_10": "E87.5",
+    "description": "elevated level of potassium (K+) in the blood serum.",
+    "aliases": [
+        "Blood potassium increased"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/ECG%20in%20hyperkalemia.svg",
+    "url": "https://en.wikipedia.org/wiki/Hyperkalemia",
+    "details": {
+        "Drug used for treatment": [
+            {
+                "name": "patiromer",
+                "qid": "Q21284261",
+                "url": "https://en.wikipedia.org/wiki/Patiromer"
+            },
+            {
+                "name": "Antihyperkalemic Agents",
+                "qid": "Q50573455"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "electrolyte imbalance",
+                "qid": "Q1326943",
+                "url": "https://en.wikipedia.org/wiki/Electrolyte_imbalance"
+            },
+            {
+                "name": "mineral metabolism disease",
+                "qid": "Q18553032"
+            }
+        ]
+    }
+}

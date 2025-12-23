@@ -1,0 +1,25 @@
+{
+    "name": "incomplete abortion",
+    "qid": "Q54973841",
+    "icd_10": "O06.4",
+    "description": "premature loss of pregnancy in which not all the products of conception have been expelled",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "obstetrics and gynaecology",
+                "qid": "Q80015",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics_and_gynaecology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "miscarriage",
+                "qid": "Q28693",
+                "url": "https://en.wikipedia.org/wiki/Miscarriage"
+            }
+        ]
+    }
+}

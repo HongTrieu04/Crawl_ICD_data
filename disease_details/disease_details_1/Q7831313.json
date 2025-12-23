@@ -1,0 +1,31 @@
+{
+    "name": "tracheobronchial injury",
+    "qid": "Q7831313",
+    "icd_10": "S27.5",
+    "description": "damage to the tracheobronchial tree",
+    "aliases": [
+        "TBI"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Tracheobronchial_injury",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "chest trauma",
+                "qid": "Q368370",
+                "url": "https://en.wikipedia.org/wiki/Chest_injury"
+            },
+            {
+                "name": "lower respiratory tract disease",
+                "qid": "Q18553224"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ]
+    }
+}

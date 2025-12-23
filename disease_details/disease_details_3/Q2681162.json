@@ -1,0 +1,44 @@
+{
+    "name": "eye injury",
+    "qid": "Q2681162",
+    "icd_10": "S05",
+    "description": "medical condition",
+    "aliases": [
+        "eye damage",
+        "eye injuries"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Foreign%20body%20in%20eye.jpg",
+    "url": "https://en.wikipedia.org/wiki/Eye_injury",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            },
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "cranial trauma",
+                "qid": "Q2920572",
+                "url": "https://en.wikipedia.org/wiki/Head_injury"
+            },
+            {
+                "name": "eye disease",
+                "qid": "Q3041498",
+                "url": "https://en.wikipedia.org/wiki/Eye_disease"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "ocular changes",
+                "qid": "Q21112553"
+            }
+        ]
+    }
+}

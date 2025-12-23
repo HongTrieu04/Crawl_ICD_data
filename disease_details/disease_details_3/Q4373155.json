@@ -1,0 +1,29 @@
+{
+    "name": "porocephaliasis",
+    "qid": "Q4373155",
+    "icd_10": "B88.8",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Porocephaliasis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "parasitic infectious diseases",
+                "qid": "Q1601794",
+                "url": "https://en.wikipedia.org/wiki/Parasitic_disease"
+            },
+            {
+                "name": "pentastomiasis",
+                "qid": "Q4261890"
+            }
+        ]
+    }
+}

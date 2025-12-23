@@ -1,0 +1,34 @@
+{
+    "name": "liver spot",
+    "qid": "Q438912",
+    "icd_10": "L81.4",
+    "description": "age-related skin blemish",
+    "aliases": [
+        "age spot",
+        "lentigines seniles",
+        "lentigines solares",
+        "lentigo senilis",
+        "lentigo solaris",
+        "old-age spot",
+        "senile freckle",
+        "solar lentigo"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lentigo%20s%C3%A9nile.jpg",
+    "url": "https://en.wikipedia.org/wiki/Liver_spot",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "lentigo",
+                "qid": "Q1818307",
+                "url": "https://en.wikipedia.org/wiki/Lentigo"
+            }
+        ]
+    }
+}

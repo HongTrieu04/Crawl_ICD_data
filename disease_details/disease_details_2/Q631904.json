@@ -1,0 +1,56 @@
+{
+    "name": "atypical teratoid rhabdoid tumor",
+    "qid": "Q631904",
+    "icd_10": "C72",
+    "description": "brain cancer that is usually located in the brain, but can occur anywhere in the central nervous system",
+    "aliases": [
+        "AT/RT",
+        "rhabdoid tumor predisposition syndrome",
+        "ATRT",
+        "ATT/RHT",
+        "Atypical teratoid/rhabdoid tumor",
+        "Atypical teratoid/rhabdoid tumor (morphologic abnormality)",
+        "Atypical Teratoid/Rhabdoid Tumor (WHO Grade IV)",
+        "Central Nervous System Rhabdoid Neoplasm",
+        "central nervous system rhabdoid tumor",
+        "CNS Rhabdoid Neoplasm",
+        "CNS Rhabdoid Tumor",
+        "Malignant Brain Rhabdoid Neoplasm",
+        "Malignant Brain Rhabdoid Tumor",
+        "Malignant Rhabdoid Neoplasm of Brain",
+        "Malignant Rhabdoid Neoplasm of the Brain",
+        "Malignant Rhabdoid Tumor of Brain",
+        "Malignant Rhabdoid Tumor of the Brain",
+        "Primary Malignant Brain Rhabdoid Neoplasm",
+        "Primary Malignant Brain Rhabdoid Tumor",
+        "Primary Malignant Rhabdoid Neoplasm of Brain",
+        "Primary Malignant Rhabdoid Neoplasm of the Brain",
+        "Primary Malignant Rhabdoid Tumor of Brain",
+        "Primary Malignant Rhabdoid Tumor of the Brain",
+        "Rhabdoid Neoplasm of Central Nervous System",
+        "Rhabdoid Neoplasm of CNS",
+        "Rhabdoid Neoplasm of the Central Nervous System",
+        "Rhabdoid Neoplasm of the CNS",
+        "Rhabdoid Tumor of Central Nervous System",
+        "Rhabdoid Tumor of CNS",
+        "Rhabdoid Tumor of the Central Nervous System",
+        "Rhabdoid tumor of the CNS"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Atypical_teratoid_rhabdoid_tumor",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "brain cancer",
+                "qid": "Q9303627"
+            }
+        ]
+    }
+}

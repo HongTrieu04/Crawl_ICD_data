@@ -1,0 +1,121 @@
+{
+    "name": "chikungunya",
+    "qid": "Q243257",
+    "icd_10": "A92.0",
+    "description": "infection caused by the chikungunya virus",
+    "aliases": [
+        "Arbovirus A Chikungunya type",
+        "Chikungunya fever",
+        "chikungunya fever and pain",
+        "Chikungunya virus infection",
+        "CHIKV infection"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Aedes%20aegypti%20biting%20human.jpg",
+    "url": "https://en.wikipedia.org/wiki/Chikungunya",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            },
+            {
+                "name": "fatigue",
+                "qid": "Q9690",
+                "url": "https://en.wikipedia.org/wiki/Fatigue"
+            },
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "conjunctivitis",
+                "qid": "Q167844",
+                "url": "https://en.wikipedia.org/wiki/Conjunctivitis"
+            },
+            {
+                "name": "nausea",
+                "qid": "Q186889",
+                "url": "https://en.wikipedia.org/wiki/Nausea"
+            },
+            {
+                "name": "rash",
+                "qid": "Q653197",
+                "url": "https://en.wikipedia.org/wiki/Rash"
+            },
+            {
+                "name": "arthralgia",
+                "qid": "Q683498",
+                "url": "https://en.wikipedia.org/wiki/Arthralgia"
+            },
+            {
+                "name": "neurological disorder",
+                "qid": "Q3339235",
+                "url": "https://en.wikipedia.org/wiki/Neurological_disorder"
+            },
+            {
+                "name": "myalgia",
+                "qid": "Q474959",
+                "url": "https://en.wikipedia.org/wiki/Myalgia"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "alphavirus infections",
+                "qid": "Q4735280",
+                "url": "https://en.wikipedia.org/wiki/Alphavirus_infection"
+            },
+            {
+                "name": "neglected tropical disease",
+                "qid": "Q929451",
+                "url": "https://en.wikipedia.org/wiki/Neglected_tropical_diseases"
+            },
+            {
+                "name": "viral infectious disease",
+                "qid": "Q1928978",
+                "url": "https://en.wikipedia.org/wiki/Viral_disease"
+            },
+            {
+                "name": "arbovirosis",
+                "qid": "Q2859732"
+            },
+            {
+                "name": "pandemic and epidemic-prone diseases",
+                "qid": "Q131345497"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Chikungunya virus",
+                "qid": "Q15794049",
+                "url": "https://en.wikipedia.org/wiki/Chikungunya_virus"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "non-steroidal anti-inflammatory drug",
+                "qid": "Q188724",
+                "url": "https://en.wikipedia.org/wiki/Nonsteroidal_anti-inflammatory_drug"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "supportive care",
+                "qid": "Q3488952"
+            }
+        ]
+    }
+}

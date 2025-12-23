@@ -1,0 +1,37 @@
+{
+    "name": "pituitary apoplexy",
+    "qid": "Q991538",
+    "icd_10": "E23.6",
+    "description": "Human disease",
+    "aliases": [
+        "Pituitary apoplexy",
+        "Pituitary apoplexy (disorder)",
+        "Pituitary Gland Apoplexy"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hypophyseninfarkt%20mit%20Einblutung%2044W%20-%20MR%20CT%20-%20001%20-%20Annotation.jpg",
+    "url": "https://en.wikipedia.org/wiki/Pituitary_apoplexy",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "pituitary infarct",
+                "qid": "Q18554059"
+            },
+            {
+                "name": "acquired pituitary hormone deficiency",
+                "qid": "Q55788906"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ]
+    }
+}

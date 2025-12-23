@@ -1,0 +1,28 @@
+{
+    "name": "unhappy triad",
+    "qid": "Q478613",
+    "icd_10": "S83.7",
+    "description": "injury to the anterior cruciate ligament, medial collateral ligament, and meniscus",
+    "aliases": [
+        "blown knee",
+        "O'Donoghue's triad",
+        "terrible triad"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Unhappy%20triad%20-%20MRT%20PDW%20SPIR%20sag%20cor%20sag%20001.jpg",
+    "url": "https://en.wikipedia.org/wiki/Unhappy_triad",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "knee injury",
+                "qid": "Q15283847"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ]
+    }
+}

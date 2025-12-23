@@ -1,0 +1,23 @@
+{
+    "name": "Transient hypertension of pregnancy",
+    "qid": "Q18967249",
+    "icd_10": "O13.9",
+    "description": "Human disease",
+    "aliases": [
+        "antepartum transient hypertension of pregnancy",
+        "obsolete Transient hypertension of pregnancy",
+        "postpartum transient hypertension of pregnancy",
+        "Transient hypertension of pregnancy, with delivery"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "hypertensive disease of pregnancy",
+                "qid": "Q19001368",
+                "url": "https://en.wikipedia.org/wiki/Hypertensive_disease_of_pregnancy"
+            }
+        ]
+    }
+}

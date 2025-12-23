@@ -1,0 +1,17 @@
+{
+    "name": "Azygos lobe",
+    "qid": "Q601889",
+    "icd_10": "Q33.1",
+    "description": "congenital disorder of respiratory system",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Azygos_lobe",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "respiratory system abnormality",
+                "qid": "Q18975820"
+            }
+        ]
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "name": "hiccups",
+    "qid": "Q58952",
+    "icd_10": "R06.6",
+    "description": "involuntary contraction of the diaphragm",
+    "aliases": [
+        "Hiccup",
+        "hiccough"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Diafragma%20ademhaling.gif",
+    "url": "https://en.wikipedia.org/wiki/Hiccup",
+    "details": {
+        "Drug used for treatment": [
+            {
+                "name": "diethyl ether",
+                "qid": "Q202218",
+                "url": "https://en.wikipedia.org/wiki/Diethyl_ether"
+            },
+            {
+                "name": "chlorpromazine",
+                "qid": "Q407972",
+                "url": "https://en.wikipedia.org/wiki/Chlorpromazine"
+            },
+            {
+                "name": "(RS)-baclofen",
+                "qid": "Q413717",
+                "url": "https://en.wikipedia.org/wiki/Baclofen"
+            },
+            {
+                "name": "triflupromazine",
+                "qid": "Q510494",
+                "url": "https://en.wikipedia.org/wiki/Triflupromazine"
+            },
+            {
+                "name": "benzonatate",
+                "qid": "Q2070778",
+                "url": "https://en.wikipedia.org/wiki/Benzonatate"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "symptom",
+                "qid": "Q169872",
+                "url": "https://en.wikipedia.org/wiki/Symptom"
+            },
+            {
+                "name": "respiratory signs and symptoms",
+                "qid": "Q42183538"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "otolaryngology",
+                "qid": "Q189553",
+                "url": "https://en.wikipedia.org/wiki/Otorhinolaryngology"
+            }
+        ]
+    }
+}

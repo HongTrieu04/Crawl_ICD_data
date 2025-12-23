@@ -1,0 +1,49 @@
+{
+    "name": "peritoneal carcinoma",
+    "qid": "Q1816041",
+    "icd_10": "C48.2",
+    "description": "carcinoma that is located in the inside of the abdomen",
+    "aliases": [
+        "carcinoma of peritoneum",
+        "peritoneum carcinoma",
+        "primary peritoneal carcinoma"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gray1035%20es.png",
+    "url": "https://en.wikipedia.org/wiki/Primary_peritoneal_carcinoma",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "gastrointestinal system cancer",
+                "qid": "Q5526839",
+                "url": "https://en.wikipedia.org/wiki/Gastrointestinal_cancer"
+            },
+            {
+                "name": "carcinoma",
+                "qid": "Q33525",
+                "url": "https://en.wikipedia.org/wiki/Carcinoma"
+            },
+            {
+                "name": "peritoneum cancer",
+                "qid": "Q18554882"
+            },
+            {
+                "name": "primary malignant peritoneal tumor",
+                "qid": "Q55785646"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "peritoneum",
+                "qid": "Q9629",
+                "url": "https://en.wikipedia.org/wiki/Peritoneum"
+            }
+        ]
+    }
+}

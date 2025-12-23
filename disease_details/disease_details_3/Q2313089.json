@@ -1,0 +1,28 @@
+{
+    "name": "developmental language disorder",
+    "qid": "Q2313089",
+    "icd_10": "F80.9",
+    "description": "language abilities below the expected level for a given age",
+    "aliases": [
+        "language development disorder",
+        "language development disorders"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Developmental_language_disorder",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "language disorder",
+                "qid": "Q10469820",
+                "url": "https://en.wikipedia.org/wiki/Language_disorder"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ]
+    }
+}

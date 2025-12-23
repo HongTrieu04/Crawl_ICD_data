@@ -1,0 +1,35 @@
+{
+    "name": "sarcopenia",
+    "qid": "Q1787939",
+    "icd_10": "M62.8",
+    "description": "progressive decline in muscle mass due to aging",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/1025%20Atrophy.png",
+    "url": "https://en.wikipedia.org/wiki/Sarcopenia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "muscle weakness",
+                "qid": "Q270421",
+                "url": "https://en.wikipedia.org/wiki/Muscle_weakness"
+            },
+            {
+                "name": "aging-associated disease",
+                "qid": "Q438962",
+                "url": "https://en.wikipedia.org/wiki/Aging-associated_diseases"
+            },
+            {
+                "name": "muscle atrophy",
+                "qid": "Q1557686",
+                "url": "https://en.wikipedia.org/wiki/Muscle_atrophy"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "geriatrics",
+                "qid": "Q10384",
+                "url": "https://en.wikipedia.org/wiki/Geriatrics"
+            }
+        ]
+    }
+}

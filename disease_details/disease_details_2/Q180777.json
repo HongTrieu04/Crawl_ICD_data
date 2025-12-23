@@ -1,0 +1,32 @@
+{
+    "name": "uterine prolapse",
+    "qid": "Q180777",
+    "icd_10": "N81.4",
+    "description": "medical condition",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Uterine%20prolapse.jpg",
+    "url": "https://en.wikipedia.org/wiki/Uterine_prolapse",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gynaecology",
+                "qid": "Q1221899",
+                "url": "https://en.wikipedia.org/wiki/Gynaecology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "pelvic organ prolapse",
+                "qid": "Q166102",
+                "url": "https://en.wikipedia.org/wiki/Pelvic_organ_prolapse"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "constipation",
+                "qid": "Q178436",
+                "url": "https://en.wikipedia.org/wiki/Constipation"
+            }
+        ]
+    }
+}

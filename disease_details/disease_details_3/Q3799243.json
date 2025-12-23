@@ -1,0 +1,60 @@
+{
+    "name": "pulmonary valve insufficiency",
+    "qid": "Q3799243",
+    "icd_10": "I37.1",
+    "description": "disease that occurs when the pulmonary valve is not strong enough to prevent backflow into the right ventricle",
+    "aliases": [
+        "PR",
+        "pulmonary regurgitation",
+        "pulmonary incompetence",
+        "pulmonary incompetence, non-rheumatic",
+        "pulmonary incompetence, non-rheumatic (disorder)",
+        "pulmonary insufficiency following trauma and surgery",
+        "pulmonary regurg.",
+        "Pulmonary Valve Regurgitation",
+        "Pulmonary Valvular Regurgitation",
+        "Pulmonic insufficiency",
+        "Pulmonic insufficiency NOS",
+        "Pulmonic valve regurgitation",
+        "Pulmonic valve regurgitation (disorder)",
+        "Regurgitation, Pulmonary"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Diagram%20of%20the%20human%20heart%20%28cropped%29.svg",
+    "url": "https://en.wikipedia.org/wiki/Pulmonary_regurgitation",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "clinical sign",
+                "qid": "Q1441305",
+                "url": "https://en.wikipedia.org/wiki/Clinical_sign"
+            },
+            {
+                "name": "pulmonary valve disease",
+                "qid": "Q18556989"
+            },
+            {
+                "name": "valve insufficiency",
+                "qid": "Q22977956"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "pulmonary valve",
+                "qid": "Q1552748",
+                "url": "https://en.wikipedia.org/wiki/Pulmonary_valve"
+            }
+        ]
+    }
+}

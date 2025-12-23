@@ -1,0 +1,62 @@
+{
+    "name": "Bonnet–Dechaume–Blanc syndrome",
+    "qid": "Q892776",
+    "icd_10": "Q28.2",
+    "description": "disease",
+    "aliases": [
+        "Bonnet-Dechaume-Blanc syndrome",
+        "CAMS2",
+        "Cerebrofacial arteriovenous metameric syndrome type 2",
+        "Wyburn-Mason syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Bonnet%E2%80%93Dechaume%E2%80%93Blanc_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "arteriovenous malformation",
+                "qid": "Q1584110",
+                "url": "https://en.wikipedia.org/wiki/Arteriovenous_malformation"
+            },
+            {
+                "name": "skin hemangioma",
+                "qid": "Q18556451"
+            },
+            {
+                "name": "vascular skin disease",
+                "qid": "Q18558156"
+            },
+            {
+                "name": "cerebrofacial arteriovenous metameric syndrome",
+                "qid": "Q55785454"
+            },
+            {
+                "name": "genetic skin vascular disorder",
+                "qid": "Q55785835"
+            },
+            {
+                "name": "rare genetic epilepsy",
+                "qid": "Q55785842"
+            },
+            {
+                "name": "rare genetic vascular tumor",
+                "qid": "Q55788290"
+            },
+            {
+                "name": "palpebral tumor with a vascular malformation",
+                "qid": "Q55789185"
+            },
+            {
+                "name": "benign eyelid neoplasm",
+                "qid": "Q55789751"
+            }
+        ]
+    }
+}

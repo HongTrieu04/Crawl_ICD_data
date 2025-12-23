@@ -1,0 +1,40 @@
+{
+    "name": "Rasmussen's encephalitis",
+    "qid": "Q1637701",
+    "icd_10": "G04.8",
+    "description": "rare inflammatory neurological disease",
+    "aliases": [
+        "CFE",
+        "chronic focal encephalitis",
+        "Chronic Focal Encephalitis",
+        "Rasmussen Encephalitis",
+        "Rasmussen subacute encephalitis",
+        "Rasmussen syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Rasmussen_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "encephalitis",
+                "qid": "Q199615",
+                "url": "https://en.wikipedia.org/wiki/Encephalitis"
+            },
+            {
+                "name": "postinfectious encephalitis",
+                "qid": "Q11830340"
+            },
+            {
+                "name": "inflammatory and autoimmune disease with epilepsy",
+                "qid": "Q55785633"
+            }
+        ]
+    }
+}

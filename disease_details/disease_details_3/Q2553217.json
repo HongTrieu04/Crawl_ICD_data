@@ -1,0 +1,24 @@
+{
+    "name": "gnathitis",
+    "qid": "Q2553217",
+    "icd_10": "K10.2",
+    "description": "jaw inflammation",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Gnathitis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "jaw disease",
+                "qid": "Q47108021"
+            }
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "interstitial emphysema and related conditions of newborn",
+    "qid": "Q18967021",
+    "icd_10": "P25",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete interstitial emphysema and related conditions of newborn"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "perinatal respiratory disorder",
+                "qid": "Q18966634"
+            }
+        ]
+    }
+}

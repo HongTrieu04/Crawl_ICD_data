@@ -1,0 +1,32 @@
+{
+    "name": "buphthalmos",
+    "qid": "Q4305015",
+    "icd_10": "Q15.0",
+    "description": "Human disease",
+    "aliases": [
+        "simple buphthalmos"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Buphthalmos",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "hydrophthalmos",
+                "qid": "Q1640324",
+                "url": "https://en.wikipedia.org/wiki/Hydrophthalmos"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

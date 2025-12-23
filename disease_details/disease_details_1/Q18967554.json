@@ -1,0 +1,16 @@
+{
+    "name": "upper limb cancer",
+    "qid": "Q18967554",
+    "icd_10": "C76.4",
+    "description": "Human disease",
+    "aliases": [
+        "malignant neoplasm of upper limb",
+        "malignant neoplasm of upper limb NOS (disorder)",
+        "malignant neoplasm of upper limb, NOS",
+        "malignant tumor of upper limb (disorder)",
+        "obsolete upper limb cancer"
+    ],
+    "image": null,
+    "url": null,
+    "details": {}
+}

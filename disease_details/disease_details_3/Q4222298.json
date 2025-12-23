@@ -1,0 +1,27 @@
+{
+    "name": "corpus luteum cyst",
+    "qid": "Q4222298",
+    "icd_10": "N83.1",
+    "description": "human disease",
+    "aliases": [
+        "corpus luteum ovarian cyst (disease)"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Corpus_luteum_cyst",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "ovarian cyst",
+                "qid": "Q147362",
+                "url": "https://en.wikipedia.org/wiki/Ovarian_cyst"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gynaecology",
+                "qid": "Q1221899",
+                "url": "https://en.wikipedia.org/wiki/Gynaecology"
+            }
+        ]
+    }
+}

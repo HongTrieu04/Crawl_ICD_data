@@ -1,0 +1,26 @@
+{
+    "name": "ovarian metastasis",
+    "qid": "Q19001363",
+    "icd_10": "C79.6",
+    "description": "human disease",
+    "aliases": [
+        "metastasis to ovary",
+        "obsolete ovarian metastasis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "ovarian cancer",
+                "qid": "Q172341",
+                "url": "https://en.wikipedia.org/wiki/Ovarian_cancer"
+            },
+            {
+                "name": "metastasis",
+                "qid": "Q181876",
+                "url": "https://en.wikipedia.org/wiki/Metastasis"
+            }
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "name": "posterior urethral valve",
+    "qid": "Q2500550",
+    "icd_10": "Q64.2",
+    "description": "congenital disorder of urinary system",
+    "aliases": [
+        "PUV",
+        "Congenital Posterior Urethral Valves"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Posterior_urethral_valve",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "urethral disease",
+                "qid": "Q18557550"
+            },
+            {
+                "name": "fetal lower urinary tract obstruction",
+                "qid": "Q55788175"
+            }
+        ]
+    }
+}

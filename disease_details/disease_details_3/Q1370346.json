@@ -1,0 +1,27 @@
+{
+    "name": "baby colic",
+    "qid": "Q1370346",
+    "icd_10": "R10.4",
+    "description": "medical condition",
+    "aliases": [
+        "Infantile colic"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Crying%20newborn.jpg",
+    "url": "https://en.wikipedia.org/wiki/Baby_colic",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "pediatrics",
+                "qid": "Q123028",
+                "url": "https://en.wikipedia.org/wiki/Pediatrics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "colic",
+                "qid": "Q13121526",
+                "url": "https://en.wikipedia.org/wiki/Colic"
+            }
+        ]
+    }
+}

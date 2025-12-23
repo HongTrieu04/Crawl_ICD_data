@@ -1,0 +1,23 @@
+{
+    "name": "adenylosuccinase lyase deficiency",
+    "qid": "Q4682317",
+    "icd_10": "E79.8",
+    "description": "a rare autosomal recessive metabolic disorder",
+    "aliases": [
+        "Adenylosuccinase deficiency"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Adenylosuccinate_lyase_deficiency",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "autosomal recessive",
+                "qid": "Q15729064"
+            },
+            {
+                "name": "amino acid metabolic disorder",
+                "qid": "Q18558086"
+            }
+        ]
+    }
+}

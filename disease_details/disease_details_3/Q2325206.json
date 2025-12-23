@@ -1,0 +1,33 @@
+{
+    "name": "Eosinophilic fasciitis",
+    "qid": "Q2325206",
+    "icd_10": "M35.4",
+    "description": "form of fasciitis, the inflammatory diseases that affect the fascia, the connective tissues surrounding muscles, blood vessels and nerves",
+    "aliases": [
+        "Diffuse fasciitis with eosinophilia",
+        "EOSINOPHILIC FASCIITIS",
+        "Shulman syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Eosinophilic_fasciitis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "fasciitis",
+                "qid": "Q1870975",
+                "url": "https://en.wikipedia.org/wiki/Fasciitis"
+            },
+            {
+                "name": "idiopathic inflammatory myopathy",
+                "qid": "Q55789135"
+            }
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "trisomy 9",
+    "qid": "Q381719",
+    "icd_10": "Q92",
+    "description": "partial or complete triplication of chromosome 9",
+    "aliases": [
+        "trisomy of chromosome 9"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Trisomy_9",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "trisomy",
+                "qid": "Q844903",
+                "url": "https://en.wikipedia.org/wiki/Trisomy"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

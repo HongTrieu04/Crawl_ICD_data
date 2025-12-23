@@ -1,0 +1,29 @@
+{
+    "name": "dislocation of jaw",
+    "qid": "Q4128726",
+    "icd_10": "S03.0",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Dislocation_of_jaw",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "joint dislocation",
+                "qid": "Q324509",
+                "url": "https://en.wikipedia.org/wiki/Joint_dislocation"
+            },
+            {
+                "name": "maxillofacial injury",
+                "qid": "Q55082232"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ]
+    }
+}

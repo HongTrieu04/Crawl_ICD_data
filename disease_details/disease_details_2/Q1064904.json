@@ -1,0 +1,30 @@
+{
+    "name": "major trauma",
+    "qid": "Q1064904",
+    "icd_10": "S90",
+    "description": "injury that could cause prolonged disability or death",
+    "aliases": [
+        "acute trauma",
+        "critical injury",
+        "critical trauma",
+        "major injury"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/US%20Navy%20040723-N-8977L-008%20Navy%20Hospital%20Corpsmen%20and%20Medical%20Officers%20assess%20the%20treatment%20and%20prognosis%20of%20a%20patient%20with%20a%20gunshot%20wound.jpg",
+    "url": "https://en.wikipedia.org/wiki/Major_trauma",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "injury in humans",
+                "qid": "Q193078",
+                "url": "https://en.wikipedia.org/wiki/Injury_in_humans"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ]
+    }
+}

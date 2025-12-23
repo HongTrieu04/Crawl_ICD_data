@@ -1,0 +1,189 @@
+{
+    "name": "autism",
+    "qid": "Q38404",
+    "icd_10": "F84.0",
+    "description": "neurodevelopmental condition",
+    "aliases": [
+        "ASD",
+        "childhood autism",
+        "classic autism",
+        "adult autism",
+        "Autism spectrum disorder",
+        "autistic disorder",
+        "autistic disorder of childhood onset",
+        "early childhood autism",
+        "early infantile autism",
+        "infantile autism"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Autistic-sweetiepie-boy-with-ducksinarow.jpg",
+    "url": "https://en.wikipedia.org/wiki/Autism",
+    "details": {
+        "Drug used for treatment": [
+            {
+                "name": "quetiapine",
+                "qid": "Q408535",
+                "url": "https://en.wikipedia.org/wiki/Quetiapine"
+            },
+            {
+                "name": "risperidone",
+                "qid": "Q412443",
+                "url": "https://en.wikipedia.org/wiki/Risperidone"
+            },
+            {
+                "name": "(RS)-fenfluramine",
+                "qid": "Q418928",
+                "url": "https://en.wikipedia.org/wiki/Fenfluramine"
+            },
+            {
+                "name": "venlafaxine",
+                "qid": "Q898407",
+                "url": "https://en.wikipedia.org/wiki/Venlafaxine"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "pedagogy",
+                "qid": "Q7922",
+                "url": "https://en.wikipedia.org/wiki/Pedagogy"
+            },
+            {
+                "name": "developmental psychology",
+                "qid": "Q175002",
+                "url": "https://en.wikipedia.org/wiki/Developmental_psychology"
+            },
+            {
+                "name": "neuropsychiatry",
+                "qid": "Q2699874",
+                "url": "https://en.wikipedia.org/wiki/Neuropsychiatry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "neurodivergence",
+                "qid": "Q59344393",
+                "url": "https://en.wikipedia.org/wiki/Neurodivergent"
+            },
+            {
+                "name": "autism spectrum disorder",
+                "qid": "Q1436063",
+                "url": "https://en.wikipedia.org/wiki/Autism_spectrum"
+            },
+            {
+                "name": "neurodiversity",
+                "qid": "Q2915349",
+                "url": "https://en.wikipedia.org/wiki/Neurodiversity"
+            },
+            {
+                "name": "neurodevelopmental disorder",
+                "qid": "Q3450985",
+                "url": "https://en.wikipedia.org/wiki/Neurodevelopmental_disorder"
+            },
+            {
+                "name": "neurotype",
+                "qid": "Q132757510"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "autistic special interest",
+                "qid": "Q67135649",
+                "url": "https://en.wikipedia.org/wiki/Special_interest_(autism)"
+            },
+            {
+                "name": "autistic meltdown",
+                "qid": "Q72423832",
+                "url": "https://en.wikipedia.org/wiki/Autistic_meltdown"
+            },
+            {
+                "name": "echolalia",
+                "qid": "Q937353",
+                "url": "https://en.wikipedia.org/wiki/Echolalia"
+            },
+            {
+                "name": "toe walking",
+                "qid": "Q1097541",
+                "url": "https://en.wikipedia.org/wiki/Toe_walking"
+            },
+            {
+                "name": "hyperfocus",
+                "qid": "Q1640924",
+                "url": "https://en.wikipedia.org/wiki/Hyperfocus"
+            },
+            {
+                "name": "sensory processing differences",
+                "qid": "Q3540887",
+                "url": "https://en.wikipedia.org/wiki/Sensory_processing_disorder"
+            },
+            {
+                "name": "social communication disorder",
+                "qid": "Q4353073",
+                "url": "https://en.wikipedia.org/wiki/Social_communication_disorder"
+            },
+            {
+                "name": "executive disfunction",
+                "qid": "Q5419936",
+                "url": "https://en.wikipedia.org/wiki/Executive_dysfunction"
+            },
+            {
+                "name": "stimming",
+                "qid": "Q15780353",
+                "url": "https://en.wikipedia.org/wiki/Stimming"
+            },
+            {
+                "name": "autistic shutdown",
+                "qid": "Q120175339"
+            },
+            {
+                "name": "autistic rage",
+                "qid": "Q124813894"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "dialectical behavior therapy",
+                "qid": "Q1208421",
+                "url": "https://en.wikipedia.org/wiki/Dialectical_behavior_therapy"
+            },
+            {
+                "name": "applied behavior analysis",
+                "qid": "Q621607",
+                "url": "https://en.wikipedia.org/wiki/Applied_behavior_analysis"
+            },
+            {
+                "name": "psychomotor education",
+                "qid": "Q2116083",
+                "url": "https://en.wikipedia.org/wiki/Psychomotor_education"
+            },
+            {
+                "name": "autism therapy",
+                "qid": "Q3333688",
+                "url": "https://en.wikipedia.org/wiki/Autism_therapies"
+            },
+            {
+                "name": "Discrete trial training",
+                "qid": "Q5326835",
+                "url": "https://en.wikipedia.org/wiki/Discrete_trial_training"
+            },
+            {
+                "name": "Relationship Development Intervention",
+                "qid": "Q7310740",
+                "url": "https://en.wikipedia.org/wiki/Relationship_Development_Intervention"
+            },
+            {
+                "name": "Q24198226",
+                "qid": "Q24198226"
+            },
+            {
+                "name": "assertiveness training",
+                "qid": "Q67135667"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "causes of autism",
+                "qid": "Q2543343",
+                "url": "https://en.wikipedia.org/wiki/Causes_of_autism"
+            }
+        ]
+    }
+}

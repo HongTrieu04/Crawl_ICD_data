@@ -1,0 +1,38 @@
+{
+    "name": "presbycusis",
+    "qid": "Q1756133",
+    "icd_10": "H91.1",
+    "description": "cumulative effect of aging on hearing",
+    "aliases": [
+        "age-related hearing loss",
+        "presbyacusis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Presbycusis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "otolaryngology",
+                "qid": "Q189553",
+                "url": "https://en.wikipedia.org/wiki/Otorhinolaryngology"
+            },
+            {
+                "name": "speech-language pathology",
+                "qid": "Q33226",
+                "url": "https://en.wikipedia.org/wiki/Speech%E2%80%93language_pathology"
+            },
+            {
+                "name": "geriatrics",
+                "qid": "Q10384",
+                "url": "https://en.wikipedia.org/wiki/Geriatrics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "deafness",
+                "qid": "Q12133",
+                "url": "https://en.wikipedia.org/wiki/Deafness"
+            }
+        ]
+    }
+}

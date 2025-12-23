@@ -1,0 +1,34 @@
+{
+    "name": "foreign body aspiration",
+    "qid": "Q25303650",
+    "icd_10": "T17",
+    "description": "difficulty in breathing or choking caused by foreign body that entered the airway",
+    "aliases": [
+        "foreign body in respiratory tract",
+        "pulmonary aspiration",
+        "pulmonary aspiration syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Foreign_body_aspiration",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "pulmonary aspiration",
+                "qid": "Q737510",
+                "url": "https://en.wikipedia.org/wiki/Pulmonary_aspiration"
+            },
+            {
+                "name": "choking",
+                "qid": "Q19275831",
+                "url": "https://en.wikipedia.org/wiki/Choking"
+            }
+        ]
+    }
+}

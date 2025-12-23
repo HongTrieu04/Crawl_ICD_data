@@ -1,0 +1,26 @@
+{
+    "name": "transient synovitis of hip",
+    "qid": "Q583195",
+    "icd_10": "M67.3",
+    "description": "medical condition",
+    "aliases": [
+        "toxic synovitis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hip.jpg",
+    "url": "https://en.wikipedia.org/wiki/Transient_synovitis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "transient synovitis",
+                "qid": "Q1499640"
+            }
+        ]
+    }
+}

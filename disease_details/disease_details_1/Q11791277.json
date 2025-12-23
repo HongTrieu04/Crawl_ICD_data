@@ -1,0 +1,19 @@
+{
+    "name": "blue sclera",
+    "qid": "Q11791277",
+    "icd_10": "Q13.5",
+    "description": null,
+    "aliases": [
+        "blue sclerae"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Characteristically%20blue%20sclerae%20of%20patient%20with%20osteogenesis%20imperfecta.jpg",
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "scleral disease",
+                "qid": "Q18554064"
+            }
+        ]
+    }
+}

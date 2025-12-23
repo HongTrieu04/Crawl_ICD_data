@@ -1,0 +1,129 @@
+{
+    "name": "cryptosporidiosis",
+    "qid": "Q1359898",
+    "icd_10": "A07.20",
+    "description": "Human disease",
+    "aliases": [
+        "Cryptosporidial gastroenteritis",
+        "Cryptosporidial gastroenteritis (disorder)",
+        "Cryptosporidioses",
+        "Cryptosporidium Infection",
+        "Infection by Cryptosporidium",
+        "Infection by Cryptosporidium (disorder)",
+        "intestinal cryptosporidiosis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cryptosporidium%20muris.jpg",
+    "url": "https://en.wikipedia.org/wiki/Cryptosporidiosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "intestinal parasite infection",
+                "qid": "Q475510",
+                "url": "https://en.wikipedia.org/wiki/Intestinal_parasite_infection"
+            },
+            {
+                "name": "coccidiosis",
+                "qid": "Q487837",
+                "url": "https://en.wikipedia.org/wiki/Coccidiosis"
+            },
+            {
+                "name": "intestinal disease",
+                "qid": "Q3055380",
+                "url": "https://en.wikipedia.org/wiki/Enteropathy"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "diarrhea",
+                "qid": "Q40878",
+                "url": "https://en.wikipedia.org/wiki/Diarrhea"
+            },
+            {
+                "name": "vomiting",
+                "qid": "Q127076",
+                "url": "https://en.wikipedia.org/wiki/Vomiting"
+            },
+            {
+                "name": "jaundice",
+                "qid": "Q133244",
+                "url": "https://en.wikipedia.org/wiki/Jaundice"
+            },
+            {
+                "name": "nausea",
+                "qid": "Q186889",
+                "url": "https://en.wikipedia.org/wiki/Nausea"
+            },
+            {
+                "name": "ascites",
+                "qid": "Q193889",
+                "url": "https://en.wikipedia.org/wiki/Ascites"
+            },
+            {
+                "name": "dehydration",
+                "qid": "Q194290",
+                "url": "https://en.wikipedia.org/wiki/Dehydration"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Cryptosporidium",
+                "qid": "Q133078",
+                "url": "https://en.wikipedia.org/wiki/Cryptosporidium"
+            },
+            {
+                "name": "Cryptosporidium fragile",
+                "qid": "Q5191062",
+                "url": "https://en.wikipedia.org/wiki/Cryptosporidium_fragile"
+            },
+            {
+                "name": "Cryptosporidium hominis",
+                "qid": "Q5191063",
+                "url": "https://en.wikipedia.org/wiki/Cryptosporidium_hominis"
+            },
+            {
+                "name": "Cryptosporidium muris",
+                "qid": "Q11916225",
+                "url": "https://en.wikipedia.org/wiki/Cryptosporidium_muris"
+            },
+            {
+                "name": "Cryptosporidium parvum",
+                "qid": "Q134734",
+                "url": "https://en.wikipedia.org/wiki/Cryptosporidium_parvum"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "nitazoxanide",
+                "qid": "Q2943789",
+                "url": "https://en.wikipedia.org/wiki/Nitazoxanide"
+            },
+            {
+                "name": "azithromycin",
+                "qid": "Q165399",
+                "url": "https://en.wikipedia.org/wiki/Azithromycin"
+            },
+            {
+                "name": "paromomycin",
+                "qid": "Q415625",
+                "url": "https://en.wikipedia.org/wiki/Paromomycin"
+            }
+        ]
+    }
+}

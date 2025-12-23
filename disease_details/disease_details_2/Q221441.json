@@ -1,0 +1,82 @@
+{
+    "name": "pellagra",
+    "qid": "Q221441",
+    "icd_10": "E52",
+    "description": "Human disease",
+    "aliases": [
+        "Niacin deficiency",
+        "Niacin-tryptophan deficiency",
+        "Pellagra",
+        "Pellagra (disorder)"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pellagra%20NIH.jpg",
+    "url": "https://en.wikipedia.org/wiki/Pellagra",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "skin disease",
+                "qid": "Q949302",
+                "url": "https://en.wikipedia.org/wiki/Skin_condition"
+            },
+            {
+                "name": "nutritional deficiency disease",
+                "qid": "Q1890194"
+            },
+            {
+                "name": "other acquired skin disease",
+                "qid": "Q55788714"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "diarrhea",
+                "qid": "Q40878",
+                "url": "https://en.wikipedia.org/wiki/Diarrhea"
+            },
+            {
+                "name": "hallucination",
+                "qid": "Q130741",
+                "url": "https://en.wikipedia.org/wiki/Hallucination"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "nicotinic acid",
+                "qid": "Q134658",
+                "url": "https://en.wikipedia.org/wiki/Nicotinic_acid"
+            },
+            {
+                "name": "thiamine(1+) ion",
+                "qid": "Q83187",
+                "url": "https://en.wikipedia.org/wiki/Thiamine"
+            },
+            {
+                "name": "niacinamide",
+                "qid": "Q192423",
+                "url": "https://en.wikipedia.org/wiki/Nicotinamide"
+            },
+            {
+                "name": "niacinamide hydriodide",
+                "qid": "Q27265552"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "niacin deficiency",
+                "qid": "Q4138768"
+            }
+        ]
+    }
+}

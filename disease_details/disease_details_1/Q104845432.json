@@ -1,0 +1,27 @@
+{
+    "name": "other specified dissociative disorder",
+    "qid": "Q104845432",
+    "icd_10": "F44.8",
+    "description": "cluster of dissociative disorders",
+    "aliases": [
+        "OSDD",
+        "OSDD-1",
+        "OSDD-1a",
+        "OSDD-1b",
+        "OSDD-2",
+        "OSDD-3",
+        "OSDD-4",
+        "other dissociative and conversion disorders"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Other_specified_dissociative_disorder",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "dissociative disorder",
+                "qid": "Q2627467",
+                "url": "https://en.wikipedia.org/wiki/Dissociative_disorder"
+            }
+        ]
+    }
+}

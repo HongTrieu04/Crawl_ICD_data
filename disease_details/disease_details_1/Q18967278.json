@@ -1,0 +1,20 @@
+{
+    "name": "gastrointestinal hemorrhage of fetus or newborn",
+    "qid": "Q18967278",
+    "icd_10": "P54.3",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete gastrointestinal hemorrhage of fetus or newborn"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "gastrointestinal bleeding",
+                "qid": "Q1495657",
+                "url": "https://en.wikipedia.org/wiki/Gastrointestinal_bleeding"
+            }
+        ]
+    }
+}

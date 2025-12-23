@@ -1,0 +1,43 @@
+{
+    "name": "phenylketonuria",
+    "qid": "Q194041",
+    "icd_10": "E70.0",
+    "description": "amino acid metabolic disorder that is characterized by a mutation in the gene for the hepatic enzyme phenylalanine hydroxylase (PAH), rendering it nonfunctional",
+    "aliases": [
+        "PKU",
+        "Følling's disease",
+        "phenylalaninemia",
+        "phenylketonurias"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Phenylketonuria%20testing.jpg",
+    "url": "https://en.wikipedia.org/wiki/Phenylketonuria",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "hyperphenylalaninemia",
+                "qid": "Q5898279",
+                "url": "https://en.wikipedia.org/wiki/Hyperphenylalaninemia"
+            },
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "enzymopathy",
+                "qid": "Q239342"
+            },
+            {
+                "name": "amino acid metabolic disorder",
+                "qid": "Q18558086"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ]
+    }
+}

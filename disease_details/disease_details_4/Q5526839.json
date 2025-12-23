@@ -1,0 +1,63 @@
+{
+    "name": "gastrointestinal system cancer",
+    "qid": "Q5526839",
+    "icd_10": "C26.0",
+    "description": "organ system cancer located in gastrointestinal tract that is manifested in organs of the gastrointestinal system",
+    "aliases": [
+        "digestive system cancer",
+        "gastrointestinal cancer",
+        "gastrointestinal tract cancer",
+        "GI tumor",
+        "Rare digestive cancer",
+        "Rare digestive neoplasm"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Gastrointestinal_cancer",
+    "details": {
+        "Anatomical location": [
+            {
+                "name": "human digestive system",
+                "qid": "Q9649",
+                "url": "https://en.wikipedia.org/wiki/Human_digestive_system"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "gastrointestinal system disease",
+                "qid": "Q2300099",
+                "url": "https://en.wikipedia.org/wiki/Gastrointestinal_disease"
+            },
+            {
+                "name": "digestive system cancer",
+                "qid": "Q5275615",
+                "url": "https://en.wikipedia.org/wiki/Digestive_system_neoplasm"
+            },
+            {
+                "name": "organ system cancer",
+                "qid": "Q18553400"
+            },
+            {
+                "name": "gastrointestinal neoplasm",
+                "qid": "Q58833942"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "doxorubicin hydrochloride",
+                "qid": "Q27032359",
+                "url": "https://en.wikipedia.org/wiki/Doxorubicin_hydrochloride"
+            },
+            {
+                "name": "imatinib mesylate",
+                "qid": "Q27114666"
+            }
+        ]
+    }
+}

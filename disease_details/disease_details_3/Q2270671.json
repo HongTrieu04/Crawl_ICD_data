@@ -1,0 +1,64 @@
+{
+    "name": "intestinal capillariasis",
+    "qid": "Q2270671",
+    "icd_10": "B81.1",
+    "description": "human disease",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Intestinal_capillariasis",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "diarrhea",
+                "qid": "Q40878",
+                "url": "https://en.wikipedia.org/wiki/Diarrhea"
+            },
+            {
+                "name": "weight loss",
+                "qid": "Q718113",
+                "url": "https://en.wikipedia.org/wiki/Weight_loss"
+            },
+            {
+                "name": "abdominal pain",
+                "qid": "Q183425",
+                "url": "https://en.wikipedia.org/wiki/Abdominal_pain"
+            },
+            {
+                "name": "dehydration",
+                "qid": "Q194290",
+                "url": "https://en.wikipedia.org/wiki/Dehydration"
+            },
+            {
+                "name": "edema",
+                "qid": "Q152234",
+                "url": "https://en.wikipedia.org/wiki/Edema"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            },
+            {
+                "name": "helminthology",
+                "qid": "Q1976068",
+                "url": "https://en.wikipedia.org/wiki/Helminthology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "capillariasis",
+                "qid": "Q1034620",
+                "url": "https://en.wikipedia.org/wiki/Capillariasis"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Capillaria philippinensis",
+                "qid": "Q3283006",
+                "url": "https://en.wikipedia.org/wiki/Capillaria_philippinensis"
+            }
+        ]
+    }
+}

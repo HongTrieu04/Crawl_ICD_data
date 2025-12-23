@@ -1,0 +1,43 @@
+{
+    "name": "cricopharyngeal spasm",
+    "qid": "Q5185088",
+    "icd_10": "K22.4",
+    "description": "disease",
+    "aliases": [
+        "Asherson's syndrome",
+        "Achalasia of the cricopharyngeus muscle",
+        "Cricopharyngeal achalasia",
+        "Nehemiah Asherson's syndrome",
+        "Pharyngeal spasm",
+        "spasm of the cricopharyngeus muscle"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Cricopharyngeal_spasm",
+    "details": {
+        "Anatomical location": [
+            {
+                "name": "upper esophageal sphincter",
+                "qid": "Q1407428",
+                "url": "https://en.wikipedia.org/wiki/Upper_esophageal_sphincter"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "otolaryngology",
+                "qid": "Q189553",
+                "url": "https://en.wikipedia.org/wiki/Otorhinolaryngology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "achalasia",
+                "qid": "Q661015",
+                "url": "https://en.wikipedia.org/wiki/Esophageal_achalasia"
+            },
+            {
+                "name": "feeling of neck constriction",
+                "qid": "Q21402619"
+            }
+        ]
+    }
+}

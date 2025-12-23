@@ -1,0 +1,52 @@
+{
+    "name": "Adams–Stokes syndrome",
+    "qid": "Q277254",
+    "icd_10": "I45.9",
+    "description": "periodic fainting spell in which there is a periodic onset and offset of blockage of heart due to disorder of heart rhythm",
+    "aliases": [
+        "Gerbec-Morgagni-Adams–Stokes syndrome",
+        "Gerbezius-Morgagni-Adams–Stokes syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Adams%E2%80%93Stokes_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "dizziness",
+                "qid": "Q10916362",
+                "url": "https://en.wikipedia.org/wiki/Dizziness"
+            },
+            {
+                "name": "syncope",
+                "qid": "Q180007",
+                "url": "https://en.wikipedia.org/wiki/Syncope_(medicine)"
+            },
+            {
+                "name": "convulsion",
+                "qid": "Q852376",
+                "url": "https://en.wikipedia.org/wiki/Convulsion"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "heart arrhythmia",
+                "qid": "Q189331",
+                "url": "https://en.wikipedia.org/wiki/Arrhythmia"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "brain ischemia",
+                "qid": "Q4862390",
+                "url": "https://en.wikipedia.org/wiki/Brain_ischemia"
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "name": "adrenal gland hyperfunction",
+    "qid": "Q4684750",
+    "icd_10": "E26",
+    "description": "Human disease",
+    "aliases": [
+        "hypercortisolism",
+        "Adrenal Gland Hyperfunction",
+        "Adrenocortical hyperfunction",
+        "disorder of corticoadrenal overactivity",
+        "hyperadrenalism",
+        "Hyperadrenocorticism",
+        "Hypercorticism",
+        "hypercortisolemia",
+        "hypercortisolism (disorder)",
+        "Hyperfunction, Adrenal Gland",
+        "Hyperfunction, Adrenocortical",
+        "Overproduction of cortisol"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Adrenocortical_hyperfunction",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "fludrocortisone",
+                "qid": "Q2697578",
+                "url": "https://en.wikipedia.org/wiki/Fludrocortisone"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "adrenal cortex disease",
+                "qid": "Q18556127"
+            }
+        ]
+    }
+}

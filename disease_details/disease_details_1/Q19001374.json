@@ -1,0 +1,19 @@
+{
+    "name": "vitreous membranes and strands",
+    "qid": "Q19001374",
+    "icd_10": "H43.3",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete vitreous membranes and strands"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "vitreous disease",
+                "qid": "Q18558199"
+            }
+        ]
+    }
+}

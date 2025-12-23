@@ -1,0 +1,24 @@
+{
+    "name": "Thymus hyperplasia",
+    "qid": "Q7799652",
+    "icd_10": "E32.0",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Thymus_hyperplasia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "immunology",
+                "qid": "Q101929",
+                "url": "https://en.wikipedia.org/wiki/Immunology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "thymic dysplasia",
+                "qid": "Q18557560"
+            }
+        ]
+    }
+}

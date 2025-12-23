@@ -1,0 +1,25 @@
+{
+    "name": "depressive personality disorder",
+    "qid": "Q5260921",
+    "icd_10": "F34.1",
+    "description": "Personality disorder",
+    "aliases": [
+        "melancholic personality disorder"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Depressive_personality_disorder",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "dysthymic disorder",
+                "qid": "Q427810",
+                "url": "https://en.wikipedia.org/wiki/Dysthymia"
+            },
+            {
+                "name": "personality disorder not otherwise specified",
+                "qid": "Q2540067",
+                "url": "https://en.wikipedia.org/wiki/Other_and_unspecified_personality_disorders"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "visual hallucination",
+    "qid": "Q108598184",
+    "icd_10": "R44.1",
+    "description": "type of hallucination; seeing things that aren’t actually there",
+    "aliases": [
+        "seeing hallucination",
+        "seeing things",
+        "sight hallucination"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Visual_hallucination",
+    "details": {
+        "Cause": [
+            {
+                "name": "psychosis",
+                "qid": "Q170082",
+                "url": "https://en.wikipedia.org/wiki/Psychosis"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "hallucination",
+                "qid": "Q130741",
+                "url": "https://en.wikipedia.org/wiki/Hallucination"
+            }
+        ]
+    }
+}

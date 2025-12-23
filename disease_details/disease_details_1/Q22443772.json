@@ -1,0 +1,28 @@
+{
+    "name": "anonychia congenita",
+    "qid": "Q22443772",
+    "icd_10": "Q84.3",
+    "description": "Human disease",
+    "aliases": [
+        "HYPONYCHIA CONGENITA",
+        "obsolete anonychia congenita"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "anonychia",
+                "qid": "Q4770022",
+                "url": "https://en.wikipedia.org/wiki/Anonychia"
+            }
+        ]
+    }
+}

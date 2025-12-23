@@ -1,0 +1,38 @@
+{
+    "name": "folliculitis",
+    "qid": "Q942755",
+    "icd_10": "L73.9",
+    "description": "Human disease",
+    "aliases": [
+        "seborrhea capitis",
+        "hair follicle dermatitis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Isolated%20folliculitis.jpg",
+    "url": "https://en.wikipedia.org/wiki/Folliculitis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "dermatitis",
+                "qid": "Q229256",
+                "url": "https://en.wikipedia.org/wiki/Dermatitis"
+            },
+            {
+                "name": "hair diseases",
+                "qid": "Q2989168",
+                "url": "https://en.wikipedia.org/wiki/Hair_disease"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ]
+    }
+}

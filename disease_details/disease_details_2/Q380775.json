@@ -1,0 +1,26 @@
+{
+    "name": "antibiotic resistance",
+    "qid": "Q380775",
+    "icd_10": "U83.9",
+    "description": "resistance of bacteria to drugs directed against them",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Antibiotic_resistance",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "antimicrobial resistance",
+                "qid": "Q63391344",
+                "url": "https://en.wikipedia.org/wiki/Antimicrobial_resistance"
+            },
+            {
+                "name": "response to antibiotic",
+                "qid": "Q14818070"
+            },
+            {
+                "name": "bacterial drug resistance",
+                "qid": "Q64924127"
+            }
+        ]
+    }
+}

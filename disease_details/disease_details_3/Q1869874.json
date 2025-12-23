@@ -1,0 +1,294 @@
+{
+    "name": "insomnia",
+    "qid": "Q1869874",
+    "icd_10": "F51.0",
+    "description": "inability to sleep peacefully",
+    "aliases": [
+        "sleeplessness",
+        "insomniac",
+        "DSPS",
+        "persistent disorder of initiating or maintaining sleep",
+        "Sleep Initiation and Maintenance Disorder",
+        "Sleep Initiation and Maintenance Disorders"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/53-aspetti%20di%20vita%20quotidiana%2C%20insonnia%2C%20Taccuino%20Sanitatis%2Ccrop.jpg",
+    "url": "https://en.wikipedia.org/wiki/Insomnia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "psychology",
+                "qid": "Q9418",
+                "url": "https://en.wikipedia.org/wiki/Psychology"
+            },
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            },
+            {
+                "name": "neuroscience",
+                "qid": "Q207011",
+                "url": "https://en.wikipedia.org/wiki/Neuroscience"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "amitriptyline",
+                "qid": "Q58397",
+                "url": "https://en.wikipedia.org/wiki/Amitriptyline"
+            },
+            {
+                "name": "zaleplon",
+                "qid": "Q145052",
+                "url": "https://en.wikipedia.org/wiki/Zaleplon"
+            },
+            {
+                "name": "diazepam",
+                "qid": "Q210402",
+                "url": "https://en.wikipedia.org/wiki/Diazepam"
+            },
+            {
+                "name": "zolpidem",
+                "qid": "Q218842",
+                "url": "https://en.wikipedia.org/wiki/Zolpidem"
+            },
+            {
+                "name": "alprazolam",
+                "qid": "Q319877",
+                "url": "https://en.wikipedia.org/wiki/Alprazolam"
+            },
+            {
+                "name": "clonazepam",
+                "qid": "Q407988",
+                "url": "https://en.wikipedia.org/wiki/Clonazepam"
+            },
+            {
+                "name": "olanzapine",
+                "qid": "Q201872",
+                "url": "https://en.wikipedia.org/wiki/Olanzapine"
+            },
+            {
+                "name": "lorazepam",
+                "qid": "Q408265",
+                "url": "https://en.wikipedia.org/wiki/Lorazepam"
+            },
+            {
+                "name": "quetiapine",
+                "qid": "Q408535",
+                "url": "https://en.wikipedia.org/wiki/Quetiapine"
+            },
+            {
+                "name": "methyprylon",
+                "qid": "Q409558",
+                "url": "https://en.wikipedia.org/wiki/Methyprylon"
+            },
+            {
+                "name": "ethinamate",
+                "qid": "Q410225",
+                "url": "https://en.wikipedia.org/wiki/Ethinamate"
+            },
+            {
+                "name": "gabapentin",
+                "qid": "Q410352",
+                "url": "https://en.wikipedia.org/wiki/Gabapentin"
+            },
+            {
+                "name": "butabarbital",
+                "qid": "Q410608",
+                "url": "https://en.wikipedia.org/wiki/Butabarbital"
+            },
+            {
+                "name": "trazodone",
+                "qid": "Q411457",
+                "url": "https://en.wikipedia.org/wiki/Trazodone"
+            },
+            {
+                "name": "aprobarbital",
+                "qid": "Q411940",
+                "url": "https://en.wikipedia.org/wiki/Aprobarbital"
+            },
+            {
+                "name": "triazolam",
+                "qid": "Q412143",
+                "url": "https://en.wikipedia.org/wiki/Triazolam"
+            },
+            {
+                "name": "risperidone",
+                "qid": "Q412443",
+                "url": "https://en.wikipedia.org/wiki/Risperidone"
+            },
+            {
+                "name": "eszopiclone",
+                "qid": "Q413184",
+                "url": "https://en.wikipedia.org/wiki/Eszopiclone"
+            },
+            {
+                "name": "diphenhydramine",
+                "qid": "Q413486",
+                "url": "https://en.wikipedia.org/wiki/Diphenhydramine"
+            },
+            {
+                "name": "glutethimide",
+                "qid": "Q414236",
+                "url": "https://en.wikipedia.org/wiki/Glutethimide"
+            },
+            {
+                "name": "secobarbital",
+                "qid": "Q414788",
+                "url": "https://en.wikipedia.org/wiki/Secobarbital"
+            },
+            {
+                "name": "temazepam",
+                "qid": "Q414796",
+                "url": "https://en.wikipedia.org/wiki/Temazepam"
+            },
+            {
+                "name": "amobarbital",
+                "qid": "Q415850",
+                "url": "https://en.wikipedia.org/wiki/Amobarbital"
+            },
+            {
+                "name": "cidoxepin",
+                "qid": "Q416791",
+                "url": "https://en.wikipedia.org/wiki/Cidoxepin"
+            },
+            {
+                "name": "ramelteon",
+                "qid": "Q417689",
+                "url": "https://en.wikipedia.org/wiki/Ramelteon"
+            },
+            {
+                "name": "flurazepam",
+                "qid": "Q418998",
+                "url": "https://en.wikipedia.org/wiki/Flurazepam"
+            },
+            {
+                "name": "mirtazapine",
+                "qid": "Q421930",
+                "url": "https://en.wikipedia.org/wiki/Mirtazapine"
+            },
+            {
+                "name": "doxylamine",
+                "qid": "Q423390",
+                "url": "https://en.wikipedia.org/wiki/Doxylamine"
+            },
+            {
+                "name": "thiobutabarbital",
+                "qid": "Q906220",
+                "url": "https://en.wikipedia.org/wiki/Thiobutabarbital"
+            },
+            {
+                "name": "estazolam",
+                "qid": "Q3045264",
+                "url": "https://en.wikipedia.org/wiki/Estazolam"
+            },
+            {
+                "name": "ethchlorvynol",
+                "qid": "Q3085140",
+                "url": "https://en.wikipedia.org/wiki/Ethchlorvynol"
+            },
+            {
+                "name": "quazepam",
+                "qid": "Q3927403",
+                "url": "https://en.wikipedia.org/wiki/Quazepam"
+            },
+            {
+                "name": "bromodiphenhydramine",
+                "qid": "Q4926102",
+                "url": "https://en.wikipedia.org/wiki/Bromazine"
+            },
+            {
+                "name": "cognitive behavioral therapy for insomnia",
+                "qid": "Q5141192",
+                "url": "https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy_for_insomnia"
+            },
+            {
+                "name": "propiomazine",
+                "qid": "Q7250328",
+                "url": "https://en.wikipedia.org/wiki/Propiomazine"
+            },
+            {
+                "name": "sodium oxybate",
+                "qid": "Q7553347",
+                "url": "https://en.wikipedia.org/wiki/Sodium_oxybate"
+            },
+            {
+                "name": "suvorexant",
+                "qid": "Q7650517",
+                "url": "https://en.wikipedia.org/wiki/Suvorexant"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "Matricaria chamomilla",
+                "qid": "Q28437",
+                "url": "https://en.wikipedia.org/wiki/Matricaria_chamomilla"
+            },
+            {
+                "name": "Lavandula angustifolia",
+                "qid": "Q42081",
+                "url": "https://en.wikipedia.org/wiki/Lavandula_angustifolia"
+            },
+            {
+                "name": "Passiflora incarnata",
+                "qid": "Q128939",
+                "url": "https://en.wikipedia.org/wiki/Passiflora_incarnata"
+            },
+            {
+                "name": "Tilia",
+                "qid": "Q127849",
+                "url": "https://en.wikipedia.org/wiki/Tilia"
+            },
+            {
+                "name": "pharmacology",
+                "qid": "Q128406",
+                "url": "https://en.wikipedia.org/wiki/Pharmacology"
+            },
+            {
+                "name": "Melissa officinalis",
+                "qid": "Q148396",
+                "url": "https://en.wikipedia.org/wiki/Lemon_balm"
+            },
+            {
+                "name": "Valeriana officinalis",
+                "qid": "Q157819",
+                "url": "https://en.wikipedia.org/wiki/Valerian_(herb)"
+            },
+            {
+                "name": "Panax ginseng",
+                "qid": "Q182881",
+                "url": "https://en.wikipedia.org/wiki/Panax_ginseng"
+            },
+            {
+                "name": "psychotherapy",
+                "qid": "Q183257",
+                "url": "https://en.wikipedia.org/wiki/Psychotherapy"
+            },
+            {
+                "name": "medicinal plant",
+                "qid": "Q188840",
+                "url": "https://en.wikipedia.org/wiki/Medicinal_plants"
+            },
+            {
+                "name": "alternative medicine",
+                "qid": "Q31338769"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "sleep disorder",
+                "qid": "Q177190",
+                "url": "https://en.wikipedia.org/wiki/Sleep_disorder"
+            },
+            {
+                "name": "sleep disturbance",
+                "qid": "Q102187069"
+            }
+        ]
+    }
+}

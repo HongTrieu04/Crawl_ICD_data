@@ -1,0 +1,28 @@
+{
+    "name": "Prurigo simplex",
+    "qid": "Q7253115",
+    "icd_10": "L28.2",
+    "description": "medical condition",
+    "aliases": [
+        "Papular urticaria",
+        "Strophulus"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Prurigo_simplex",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "prurigo",
+                "qid": "Q3408668",
+                "url": "https://en.wikipedia.org/wiki/Prurigo"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "name": "benign neoplasm of oral cavity",
+    "qid": "Q55789628",
+    "icd_10": "D10.3",
+    "description": "benign neoplasm that involves the oral cavity",
+    "aliases": [
+        "Benign Mouth Neoplasm",
+        "Benign Mouth Tumor",
+        "Benign Neoplasm of Mouth",
+        "Benign Neoplasm of the Mouth",
+        "Benign Neoplasm of the Oral Cavity",
+        "Benign Oral Cavity Neoplasm",
+        "Benign Oral Cavity Tumor",
+        "Benign Tumor of Mouth",
+        "Benign Tumor of Oral Cavity",
+        "Benign Tumor of the Mouth",
+        "Benign Tumor of the Oral Cavity",
+        "oral cavity benign neoplasm"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "oral cavity neoplasm",
+                "qid": "Q55789538"
+            }
+        ]
+    }
+}

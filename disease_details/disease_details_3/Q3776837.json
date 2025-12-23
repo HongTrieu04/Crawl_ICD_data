@@ -1,0 +1,24 @@
+{
+    "name": "chordee",
+    "qid": "Q3776837",
+    "icd_10": "Q54.4",
+    "description": "condition in which the head of the penis is curved",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Chordee",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "penile disease",
+                "qid": "Q18554834"
+            }
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Hand–Schüller–Christian disease",
+    "qid": "Q13026837",
+    "icd_10": "C96.5",
+    "description": "multifocal, unisystem form of Langerhans-cell histiocytosis. There is involvement of multiple sites in one organ system, most frequently the bone. Patients are usually young children presenting with multiple destructive bone lesions",
+    "aliases": [
+        "Chronic multifocal Langerhans cell histiocytosis",
+        "Classic Multifocal Langerhans Cell Histiocytosis",
+        "Hand-Schuller-Christian Disease",
+        "Hand-Schüller-Christian Disease",
+        "Multifocal eosinophilic granuloma",
+        "Multifocal Unisystem Langerhans Cell Histiocytosis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans-Schuller-Christian.jpg",
+    "url": "https://en.wikipedia.org/wiki/Chronic_multifocal_Langerhans_cell_histiocytosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "Langerhans-cell histiocytosis",
+                "qid": "Q374036",
+                "url": "https://en.wikipedia.org/wiki/Langerhans_cell_histiocytosis"
+            },
+            {
+                "name": "Langerhans cell histiocytosis in childhood and adulthood",
+                "qid": "Q55786752"
+            }
+        ]
+    }
+}

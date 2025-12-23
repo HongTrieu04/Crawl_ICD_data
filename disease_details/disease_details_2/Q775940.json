@@ -1,0 +1,36 @@
+{
+    "name": "diplopia",
+    "qid": "Q775940",
+    "icd_10": "H53.2",
+    "description": "human disease",
+    "aliases": [
+        "double vision",
+        "diplopia (disorder)"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Diplopia.jpg",
+    "url": "https://en.wikipedia.org/wiki/Diplopia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "vision disorder",
+                "qid": "Q767669",
+                "url": "https://en.wikipedia.org/wiki/Vision_disorder"
+            },
+            {
+                "name": "binocular vision disease",
+                "qid": "Q18554359"
+            },
+            {
+                "name": "vision symptom",
+                "qid": "Q102186718"
+            }
+        ]
+    }
+}

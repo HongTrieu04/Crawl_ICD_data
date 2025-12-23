@@ -1,0 +1,37 @@
+{
+    "name": "brachydactyly",
+    "qid": "Q896643",
+    "icd_10": "Q68.1",
+    "description": "bone development disease characterized by short fingers and toes",
+    "aliases": [
+        "isolated brachydactyly",
+        "nonsyndromic brachydactyly"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brachydaktylia.svg",
+    "url": "https://en.wikipedia.org/wiki/Brachydactyly",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "dysostosis",
+                "qid": "Q1269307",
+                "url": "https://en.wikipedia.org/wiki/Dysostosis"
+            },
+            {
+                "name": "hand congenital deformity",
+                "qid": "Q54943715"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "name": "chronic hypertrophic rhinitis",
+    "qid": "Q3936118",
+    "icd_10": "J31.0",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "chronic rhinitis",
+                "qid": "Q12167939"
+            }
+        ]
+    }
+}

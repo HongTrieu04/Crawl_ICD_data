@@ -1,0 +1,56 @@
+{
+    "name": "pulmonary valve stenosis",
+    "qid": "Q579527",
+    "icd_10": "I37.2",
+    "description": "Human disease",
+    "aliases": [
+        "PS",
+        "pulmonary stenosis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pulmonary_valve_stenosis",
+    "details": {
+        "Anatomical location": [
+            {
+                "name": "pulmonary valve",
+                "qid": "Q1552748",
+                "url": "https://en.wikipedia.org/wiki/Pulmonary_valve"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "pulmonic stenosis",
+                "qid": "Q3973118",
+                "url": "https://en.wikipedia.org/wiki/Pulmonic_stenosis"
+            },
+            {
+                "name": "heart valve stenosis",
+                "qid": "Q123482454",
+                "url": "https://en.wikipedia.org/wiki/Heart_valve_stenosis"
+            },
+            {
+                "name": "congenital heart disease",
+                "qid": "Q939364",
+                "url": "https://en.wikipedia.org/wiki/Congenital_heart_defect"
+            },
+            {
+                "name": "pulmonary valve disease",
+                "qid": "Q18556989"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "alprostadil",
+                "qid": "Q579348",
+                "url": "https://en.wikipedia.org/wiki/Prostaglandin_E1"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

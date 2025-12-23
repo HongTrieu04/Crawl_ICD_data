@@ -1,0 +1,70 @@
+{
+    "name": "in situ pulmonary adenocarcinoma",
+    "qid": "Q570875",
+    "icd_10": "C34",
+    "description": "lung cancer that derives from the distal bronchioles or alveoli that initially exhibit a specific non-invasive growth pattern",
+    "aliases": [
+        "AIS",
+        "BAC",
+        "pure BAC",
+        "Adenosquamous Cell Carcinoma in situ of Lung",
+        "Adenosquamous Cell Carcinoma in situ of the Lung",
+        "bronchioalveolar carcinoma",
+        "bronchioloalveolar carcinoma",
+        "Lung Adenosquamous Cell Carcinoma in situ",
+        "pulmonary adenocarcinoma in situ",
+        "Stage 0 Adenosquamous Cell Carcinoma of Lung",
+        "Stage 0 Adenosquamous Cell Carcinoma of the Lung",
+        "Stage 0 Adenosquamous Cell Lung Carcinoma",
+        "Stage 0 Adenosquamous Lung Cancer",
+        "Stage 0 Adenosquamous Lung Carcinoma AJCC v6",
+        "Stage 0 Adenosquamous Lung Carcinoma AJCC v6 and v7",
+        "Stage 0 Adenosquamous Lung Carcinoma AJCC v7"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Adenocarcinoma_in_situ_of_the_lung",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "adenocarcinoma",
+                "qid": "Q356033",
+                "url": "https://en.wikipedia.org/wiki/Adenocarcinoma"
+            },
+            {
+                "name": "adenocarcinoma of the lung",
+                "qid": "Q843799",
+                "url": "https://en.wikipedia.org/wiki/Adenocarcinoma_of_the_lung"
+            },
+            {
+                "name": "alveolar lung disease",
+                "qid": "Q4737951",
+                "url": "https://en.wikipedia.org/wiki/Alveolar_lung_disease"
+            },
+            {
+                "name": "lung cancer",
+                "qid": "Q47912",
+                "url": "https://en.wikipedia.org/wiki/Lung_cancer"
+            },
+            {
+                "name": "adenocarcinoma in situ",
+                "qid": "Q18556562"
+            },
+            {
+                "name": "lung carcinoma in situ",
+                "qid": "Q18558018"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ]
+    }
+}

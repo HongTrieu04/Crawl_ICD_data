@@ -1,0 +1,32 @@
+{
+    "name": "radial head fracture",
+    "qid": "Q2578777",
+    "icd_10": "S52.1",
+    "description": "fracture of upper end of radius",
+    "aliases": [
+        "fracture of proximal end of radius",
+        "Radial Head and Neck Fractures"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/RadHeadFracMark.png",
+    "url": "https://en.wikipedia.org/wiki/Radial_head_fracture",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "orthopedics",
+                "qid": "Q216685",
+                "url": "https://en.wikipedia.org/wiki/Orthopedic_surgery"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "elbow fracture",
+                "qid": "Q3752478",
+                "url": "https://en.wikipedia.org/wiki/Elbow_fracture"
+            },
+            {
+                "name": "radius fracture",
+                "qid": "Q54911877"
+            }
+        ]
+    }
+}

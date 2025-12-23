@@ -1,0 +1,32 @@
+{
+    "name": "atypical autism",
+    "qid": "Q9162871",
+    "icd_10": "F84.1",
+    "description": "autism spectrum disorder that involves some autistic symptoms occuring after age 3 with an abscence of all the traits necessary for a diagnosis of autism",
+    "aliases": [
+        "PDD",
+        "Atypical childhood psychosis",
+        "Mental retardation with autistic features"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Atypical_autism",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "autism spectrum disorder",
+                "qid": "Q1436063",
+                "url": "https://en.wikipedia.org/wiki/Autism_spectrum"
+            },
+            {
+                "name": "pervasive developmental disorder",
+                "qid": "Q6691991",
+                "url": "https://en.wikipedia.org/wiki/Pervasive_developmental_disorder"
+            }
+        ]
+    }
+}

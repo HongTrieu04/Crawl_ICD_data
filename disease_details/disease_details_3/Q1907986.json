@@ -1,0 +1,22 @@
+{
+    "name": "mastodynia",
+    "qid": "Q1907986",
+    "icd_10": "N64.4",
+    "description": "symptom of discomfort in the breast",
+    "aliases": [
+        "breast pain",
+        "breast tenderness",
+        "mastalgia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Breast_pain",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "pain",
+                "qid": "Q81938",
+                "url": "https://en.wikipedia.org/wiki/Pain"
+            }
+        ]
+    }
+}

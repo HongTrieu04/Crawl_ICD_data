@@ -1,0 +1,49 @@
+{
+    "name": "hemoglobinopathy",
+    "qid": "Q1642147",
+    "icd_10": "D58.2",
+    "description": "genetic defect causing abnormal hemoglobin structure",
+    "aliases": [
+        "hemoglobinopathies",
+        "Hemoglobinopathies / Iron Metabolism"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hemoglobinopathy",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "genetic disease",
+                "qid": "Q200779",
+                "url": "https://en.wikipedia.org/wiki/Genetic_disorder"
+            },
+            {
+                "name": "hemolytic anemia",
+                "qid": "Q1145668",
+                "url": "https://en.wikipedia.org/wiki/Hemolytic_anemia"
+            },
+            {
+                "name": "congenital hemolytic anemia",
+                "qid": "Q5160435",
+                "url": "https://en.wikipedia.org/wiki/Congenital_hemolytic_anemia"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "abnormal hemoglobins",
+                "qid": "Q77836916"
+            }
+        ]
+    }
+}

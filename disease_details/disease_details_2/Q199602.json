@@ -1,0 +1,46 @@
+{
+    "name": "itch",
+    "qid": "Q199602",
+    "icd_10": "L29",
+    "description": "sensation that causes the desire or reflex to scratch",
+    "aliases": [
+        "Itch",
+        "itching",
+        "itchiness",
+        "pruritus"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Itch.jpg",
+    "url": "https://en.wikipedia.org/wiki/Itch",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "somatosensory disorder",
+                "qid": "Q1641015",
+                "url": "https://en.wikipedia.org/wiki/Somatosensory_disorder"
+            },
+            {
+                "name": "symptom",
+                "qid": "Q169872",
+                "url": "https://en.wikipedia.org/wiki/Symptom"
+            },
+            {
+                "name": "skin and integumentary tissue symptom",
+                "qid": "Q100751718"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "scabies",
+                "qid": "Q167178",
+                "url": "https://en.wikipedia.org/wiki/Scabies"
+            }
+        ]
+    }
+}

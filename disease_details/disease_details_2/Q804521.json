@@ -1,0 +1,67 @@
+{
+    "name": "bacterial vaginosis",
+    "qid": "Q804521",
+    "icd_10": "B96",
+    "description": "vaginal infection caused by excessive growth of bacteria",
+    "aliases": [
+        "BV",
+        "Bacterial vaginosis",
+        "Bacterial vaginosis (disorder)",
+        "Gardnerella vaginitis",
+        "NSV - Nonspecific vaginitis",
+        "vaginal bacteriosis",
+        "Vaginosis, Bacterial"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vaginose-G15.jpg",
+    "url": "https://en.wikipedia.org/wiki/Bacterial_vaginosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "vaginitis",
+                "qid": "Q676191",
+                "url": "https://en.wikipedia.org/wiki/Vaginitis"
+            },
+            {
+                "name": "bacterial infectious disease",
+                "qid": "Q727028",
+                "url": "https://en.wikipedia.org/wiki/Bacterial_disease"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "acetic acid",
+                "qid": "Q47512",
+                "url": "https://en.wikipedia.org/wiki/Acetic_acid"
+            },
+            {
+                "name": "metronidazole",
+                "qid": "Q169569",
+                "url": "https://en.wikipedia.org/wiki/Metronidazole"
+            },
+            {
+                "name": "clindamycin",
+                "qid": "Q422273",
+                "url": "https://en.wikipedia.org/wiki/Clindamycin"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Gardnerella vaginalis",
+                "qid": "Q127375",
+                "url": "https://en.wikipedia.org/wiki/Gardnerella_vaginalis"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gynaecology",
+                "qid": "Q1221899",
+                "url": "https://en.wikipedia.org/wiki/Gynaecology"
+            }
+        ]
+    }
+}

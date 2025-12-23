@@ -1,0 +1,27 @@
+{
+    "name": "post-thrombotic syndrome",
+    "qid": "Q382091",
+    "icd_10": "I87.0",
+    "description": "venous insufficiency that is characterized by aching pain, heaviness, swelling, cramps, itching, or tingling in the affected limb and is a chronic complication of deep venous thrombosis",
+    "aliases": [
+        "postthrombotic syndrome",
+        "venous stress disorder"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Post-thrombotic_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "vascular surgery",
+                "qid": "Q1498222",
+                "url": "https://en.wikipedia.org/wiki/Vascular_surgery"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "venous insufficiency",
+                "qid": "Q9008818"
+            }
+        ]
+    }
+}

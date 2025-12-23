@@ -1,0 +1,51 @@
+{
+    "name": "asphyxia",
+    "qid": "Q193840",
+    "icd_10": "R09.0",
+    "description": "condition of severely deficient supply of oxygen to the body",
+    "aliases": [
+        "suffocation",
+        "asphyxiation",
+        "choking to death on one's own vomit"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Image943-knee%20mount.jpg",
+    "url": "https://en.wikipedia.org/wiki/Asphyxia",
+    "details": {
+        "Cause": [
+            {
+                "name": "choking",
+                "qid": "Q19275831",
+                "url": "https://en.wikipedia.org/wiki/Choking"
+            },
+            {
+                "name": "pulmonary aspiration",
+                "qid": "Q737510",
+                "url": "https://en.wikipedia.org/wiki/Pulmonary_aspiration"
+            },
+            {
+                "name": "hanging to death",
+                "qid": "Q175111",
+                "url": "https://en.wikipedia.org/wiki/Hanging"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "clinical sign",
+                "qid": "Q1441305",
+                "url": "https://en.wikipedia.org/wiki/Clinical_sign"
+            },
+            {
+                "name": "hypoxia",
+                "qid": "Q105688",
+                "url": "https://en.wikipedia.org/wiki/Hypoxia_(medicine)"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ]
+    }
+}

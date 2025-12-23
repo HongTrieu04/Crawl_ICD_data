@@ -1,0 +1,18 @@
+{
+    "name": "sinus bradycardia",
+    "qid": "Q2995544",
+    "icd_10": "R00.1",
+    "description": "sinus bradycardia is a sinus rhythm with a rate that is lower than normal",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Sinus_bradycardia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "bradycardia",
+                "qid": "Q217111",
+                "url": "https://en.wikipedia.org/wiki/Bradycardia"
+            }
+        ]
+    }
+}

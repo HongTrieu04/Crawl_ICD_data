@@ -1,0 +1,45 @@
+{
+    "name": "histiocytosis",
+    "qid": "Q1411740",
+    "icd_10": "D76.0",
+    "description": "lymphatic system disease that is characterized by an excessive number of histiocytes",
+    "aliases": [
+        "chronic Histiocytosis X",
+        "Hand Schuller Christian disease"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Histiocytosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "lymphatic system disease",
+                "qid": "Q6708237",
+                "url": "https://en.wikipedia.org/wiki/Lymphatic_disease"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "vinblastine",
+                "qid": "Q282629",
+                "url": "https://en.wikipedia.org/wiki/Vinblastine"
+            },
+            {
+                "name": "etoposide",
+                "qid": "Q418817",
+                "url": "https://en.wikipedia.org/wiki/Etoposide"
+            }
+        ]
+    }
+}

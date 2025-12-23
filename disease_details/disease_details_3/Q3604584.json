@@ -1,0 +1,27 @@
+{
+    "name": "acne keloidalis nuchae",
+    "qid": "Q3604584",
+    "icd_10": "L73.0",
+    "description": "destructive scarring folliculitis",
+    "aliases": [
+        "acne keloid"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Acne%20keloidalis%20nuchae.png",
+    "url": "https://en.wikipedia.org/wiki/Acne_keloidalis_nuchae",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "acne",
+                "qid": "Q79928",
+                "url": "https://en.wikipedia.org/wiki/Acne"
+            }
+        ]
+    }
+}

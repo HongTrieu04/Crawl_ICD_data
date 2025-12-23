@@ -1,0 +1,20 @@
+{
+    "name": "abnormality of forces of labor",
+    "qid": "Q19001123",
+    "icd_10": "O62.2",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete abnormality of forces of labor"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "obstetric labor complication",
+                "qid": "Q7075540",
+                "url": "https://en.wikipedia.org/wiki/Obstetric_labor_complication"
+            }
+        ]
+    }
+}

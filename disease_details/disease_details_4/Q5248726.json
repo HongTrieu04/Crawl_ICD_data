@@ -1,0 +1,26 @@
+{
+    "name": "acute prostatitis",
+    "qid": "Q5248726",
+    "icd_10": "N41.0",
+    "description": "serious bacterial infection of the prostate gland",
+    "aliases": [
+        "Acute Bacterial Prostatitis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Acute_prostatitis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "bacterial prostatitis",
+                "qid": "Q18967142"
+            }
+        ]
+    }
+}

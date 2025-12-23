@@ -1,0 +1,90 @@
+{
+    "name": "Rotaviral gastroenteritis",
+    "qid": "Q7370337",
+    "icd_10": "A08.0",
+    "description": "human disease",
+    "aliases": [
+        "Enteritis due to rotavirus (disorder)",
+        "obsolete Rotavirus gastroenteritis",
+        "rotavirus enteritis",
+        "Rotavirus gastroenteritis",
+        "Rotavirus Infection",
+        "Rotavirus Infections",
+        "Rotavirus infectious disease"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Rotaviral_gastroenteritis",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "diarrhea",
+                "qid": "Q40878",
+                "url": "https://en.wikipedia.org/wiki/Diarrhea"
+            },
+            {
+                "name": "vomiting",
+                "qid": "Q127076",
+                "url": "https://en.wikipedia.org/wiki/Vomiting"
+            },
+            {
+                "name": "terminal dehydration",
+                "qid": "Q1945555",
+                "url": "https://en.wikipedia.org/wiki/Terminal_dehydration"
+            },
+            {
+                "name": "dehydration",
+                "qid": "Q194290",
+                "url": "https://en.wikipedia.org/wiki/Dehydration"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "pediatrics",
+                "qid": "Q123028",
+                "url": "https://en.wikipedia.org/wiki/Pediatrics"
+            },
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            },
+            {
+                "name": "intensive therapy",
+                "qid": "Q47455192"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "viral gastroenteritis",
+                "qid": "Q7933602",
+                "url": "https://en.wikipedia.org/wiki/Viral_gastroenteritis"
+            },
+            {
+                "name": "disease of anatomical entity",
+                "qid": "Q18557436"
+            },
+            {
+                "name": "Reoviridae infectious disease",
+                "qid": "Q18967534"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "oral rehydration therapy",
+                "qid": "Q1381652",
+                "url": "https://en.wikipedia.org/wiki/Oral_rehydration_therapy"
+            },
+            {
+                "name": "intravenous fluid replacement",
+                "qid": "Q24885926"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Rotavirus",
+                "qid": "Q164778",
+                "url": "https://en.wikipedia.org/wiki/Rotavirus"
+            }
+        ]
+    }
+}

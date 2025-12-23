@@ -1,0 +1,49 @@
+{
+    "name": "sudden infant death syndrome",
+    "qid": "Q161801",
+    "icd_10": "R95",
+    "description": "syndrome that is characterized by the sudden death of an infant that is not predicted by medical history and remains unexplained after a thorough forensic autopsy and detailed death scene investigation.",
+    "aliases": [
+        "SIDS",
+        "cot death",
+        "Cot death (context-dependent category)",
+        "Crib death",
+        "Crib death (context-dependent category)",
+        "Sudden death of nonspecific cause in infancy",
+        "Sudden infant death syndrome",
+        "Sudden infant death syndrome (context-dependent category)",
+        "Sudden infant death syndrome (finding)",
+        "Sudden infant death syndrome NOS (context-dependent category)"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/SIDS",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "sudden cardiac death",
+                "qid": "Q1329925",
+                "url": "https://en.wikipedia.org/wiki/Sudden_cardiac_death"
+            },
+            {
+                "name": "infant death",
+                "qid": "Q22004151",
+                "url": "https://en.wikipedia.org/wiki/Infant_death"
+            },
+            {
+                "name": "syndrome",
+                "qid": "Q179630",
+                "url": "https://en.wikipedia.org/wiki/Syndrome"
+            },
+            {
+                "name": "genetic disease",
+                "qid": "Q200779",
+                "url": "https://en.wikipedia.org/wiki/Genetic_disorder"
+            }
+        ]
+    }
+}

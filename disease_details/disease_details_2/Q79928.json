@@ -1,0 +1,166 @@
+{
+    "name": "acne",
+    "qid": "Q79928",
+    "icd_10": "L70",
+    "description": "sebaceous gland's disease characterized by areas of blackheads, whiteheads, pimples, greasy skin, and possibly scarring",
+    "aliases": [
+        "ACNE",
+        "Acne varioliformis",
+        "acne vulgaris",
+        "Acne, unspecified",
+        "Acne, unspecified (disorder)",
+        "frontalis acne"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Akne-jugend.jpg",
+    "url": "https://en.wikipedia.org/wiki/Acne",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "sebaceous gland disease",
+                "qid": "Q18558062"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "tetracycline",
+                "qid": "Q193045",
+                "url": "https://en.wikipedia.org/wiki/Tetracycline"
+            },
+            {
+                "name": "tretinoin",
+                "qid": "Q29417",
+                "url": "https://en.wikipedia.org/wiki/Tretinoin"
+            },
+            {
+                "name": "salicylic acid",
+                "qid": "Q193572",
+                "url": "https://en.wikipedia.org/wiki/Salicylic_acid"
+            },
+            {
+                "name": "erythromycin",
+                "qid": "Q213511",
+                "url": "https://en.wikipedia.org/wiki/Erythromycin"
+            },
+            {
+                "name": "oxytetracycline",
+                "qid": "Q411646",
+                "url": "https://en.wikipedia.org/wiki/Oxytetracycline"
+            },
+            {
+                "name": "azelaic acid",
+                "qid": "Q413504",
+                "url": "https://en.wikipedia.org/wiki/Azelaic_acid"
+            },
+            {
+                "name": "hexachlorophene",
+                "qid": "Q425362",
+                "url": "https://en.wikipedia.org/wiki/Hexachlorophene"
+            },
+            {
+                "name": "demeclocycline",
+                "qid": "Q2736402",
+                "url": "https://en.wikipedia.org/wiki/Demeclocycline"
+            },
+            {
+                "name": "tazarotene",
+                "qid": "Q3981685",
+                "url": "https://en.wikipedia.org/wiki/Tazarotene"
+            },
+            {
+                "name": "isotretinoin",
+                "qid": "Q287029",
+                "url": "https://en.wikipedia.org/wiki/Isotretinoin"
+            },
+            {
+                "name": "adapalene",
+                "qid": "Q352348",
+                "url": "https://en.wikipedia.org/wiki/Adapalene"
+            },
+            {
+                "name": "benzoyl peroxide",
+                "qid": "Q411424",
+                "url": "https://en.wikipedia.org/wiki/Benzoyl_peroxide"
+            },
+            {
+                "name": "meclocycline sulfosalicylate",
+                "qid": "Q27887916"
+            },
+            {
+                "name": "hydrochlorothiazide / spironolactone",
+                "qid": "Q48566696"
+            },
+            {
+                "name": "sulfamethoxazole / trimethoprim",
+                "qid": "Q48566821"
+            },
+            {
+                "name": "desogestrel",
+                "qid": "Q415304",
+                "url": "https://en.wikipedia.org/wiki/Desogestrel"
+            },
+            {
+                "name": "minocycline",
+                "qid": "Q415336",
+                "url": "https://en.wikipedia.org/wiki/Minocycline"
+            },
+            {
+                "name": "norethisterone",
+                "qid": "Q421352",
+                "url": "https://en.wikipedia.org/wiki/Norethisterone"
+            },
+            {
+                "name": "dapsone",
+                "qid": "Q422226",
+                "url": "https://en.wikipedia.org/wiki/Dapsone"
+            },
+            {
+                "name": "clindamycin",
+                "qid": "Q422273",
+                "url": "https://en.wikipedia.org/wiki/Clindamycin"
+            },
+            {
+                "name": "doxycycline",
+                "qid": "Q422442",
+                "url": "https://en.wikipedia.org/wiki/Doxycycline"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            },
+            {
+                "name": "family medicine",
+                "qid": "Q3505712",
+                "url": "https://en.wikipedia.org/wiki/Family_medicine"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "pimple",
+                "qid": "Q1172159",
+                "url": "https://en.wikipedia.org/wiki/Pimple"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "isotretinoin",
+                "qid": "Q287029",
+                "url": "https://en.wikipedia.org/wiki/Isotretinoin"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "genetic variation",
+                "qid": "Q349856",
+                "url": "https://en.wikipedia.org/wiki/Genetic_variation"
+            }
+        ]
+    }
+}

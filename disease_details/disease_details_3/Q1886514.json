@@ -1,0 +1,29 @@
+{
+    "name": "large for gestational age",
+    "qid": "Q1886514",
+    "icd_10": "O36.6",
+    "description": "infant whose birth weight is larger than the 90th percentile for a given gestational age",
+    "aliases": [
+        "Excessive fetal growth affecting management of mother, delivered",
+        "Excessive fetal growth, affecting management of mother, delivered",
+        "fetal macrosomia",
+        "large for dates affecting management of mother"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/New-baby-boy-weight-11-pounds.jpg",
+    "url": "https://en.wikipedia.org/wiki/Large_for_gestational_age",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "pediatrics",
+                "qid": "Q123028",
+                "url": "https://en.wikipedia.org/wiki/Pediatrics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "fetopathy",
+                "qid": "Q1409154"
+            }
+        ]
+    }
+}

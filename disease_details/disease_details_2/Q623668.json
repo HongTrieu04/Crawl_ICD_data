@@ -1,0 +1,49 @@
+{
+    "name": "choroid plexus papilloma",
+    "qid": "Q623668",
+    "icd_10": "C71.5",
+    "description": "Benign brain tumor",
+    "aliases": [
+        "CPP",
+        "childhood choroid plexus papilloma",
+        "childhood papilloma of choroid plexus",
+        "Choroid plexus papilloma",
+        "Choroid plexus papilloma NOS (morphologic abnormality)",
+        "Choroid plexus papilloma, no ICD-O subtype",
+        "Choroid plexus papilloma, no ICD-O subtype (morphologic abnormality)",
+        "papilloma of the Choroid Plexus",
+        "pediatric papilloma of Choroid Plexus"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Plexuspapillom%20Makroskopie.png",
+    "url": "https://en.wikipedia.org/wiki/Choroid_plexus_papilloma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurooncology",
+                "qid": "Q3875054",
+                "url": "https://en.wikipedia.org/wiki/Neuro-oncology"
+            },
+            {
+                "name": "neurosurgery",
+                "qid": "Q188449",
+                "url": "https://en.wikipedia.org/wiki/Neurosurgery"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "choroid plexus neoplasm",
+                "qid": "Q5105211",
+                "url": "https://en.wikipedia.org/wiki/Choroid_plexus_tumor"
+            },
+            {
+                "name": "papilloma",
+                "qid": "Q912796",
+                "url": "https://en.wikipedia.org/wiki/Papilloma"
+            },
+            {
+                "name": "cerebrovascular benign neoplasm",
+                "qid": "Q61914156"
+            }
+        ]
+    }
+}

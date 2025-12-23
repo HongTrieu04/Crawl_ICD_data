@@ -1,0 +1,44 @@
+{
+    "name": "Arrhinia",
+    "qid": "Q3502509",
+    "icd_10": "Q30.1",
+    "description": "congenital disorder of respiratory system",
+    "aliases": [
+        "Congenital absence of the nose",
+        "Isolated arrhinia",
+        "Isolated nose agenesis",
+        "Nose agenesia",
+        "Nose agenesis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Arrhinia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "agenesis",
+                "qid": "Q392604",
+                "url": "https://en.wikipedia.org/wiki/Agenesis"
+            },
+            {
+                "name": "craniofacial abnormality",
+                "qid": "Q5182137",
+                "url": "https://en.wikipedia.org/wiki/Craniofacial_abnormality"
+            },
+            {
+                "name": "nose disease",
+                "qid": "Q10267828"
+            },
+            {
+                "name": "nose and cavum anomaly",
+                "qid": "Q55785515"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

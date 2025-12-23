@@ -1,0 +1,33 @@
+{
+    "name": "hypobetalipoproteinemia",
+    "qid": "Q3444851",
+    "icd_10": "E78.6",
+    "description": "hypolipoproteinemia characterized by permanently low levels of apolipoprotein B and LDL cholesterol resulting from an impaired ability to absorb and transport fats",
+    "aliases": [
+        "Hypo-beta-lipoproteinemia",
+        "Hypo-beta-lipoproteinemia (disorder)"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hypobetalipoproteinemia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "hypolipoproteinemia",
+                "qid": "Q5959735",
+                "url": "https://en.wikipedia.org/wiki/Hypolipoproteinemia"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ]
+    }
+}

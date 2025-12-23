@@ -1,0 +1,50 @@
+{
+    "name": "varicose veins",
+    "qid": "Q201180",
+    "icd_10": "I83.9",
+    "description": "vein disease with swollen, twisted veins visible under the skin",
+    "aliases": [
+        "Varix",
+        "varices",
+        "Varicose Vein",
+        "VARICOSE VEINS",
+        "varix (morpxhologic abnormality)",
+        "venous ectasia",
+        "Venous varices",
+        "venous varices (disorder)"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Varicose%20ASV.jpg",
+    "url": "https://en.wikipedia.org/wiki/Varicose_veins",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "vein disorder",
+                "qid": "Q7918687",
+                "url": "https://en.wikipedia.org/wiki/Vein_disorders"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "sodium tetradecyl sulfate",
+                "qid": "Q7553377",
+                "url": "https://en.wikipedia.org/wiki/Sodium_tetradecyl_sulfate"
+            },
+            {
+                "name": "myristyl sulfate",
+                "qid": "Q20817018"
+            }
+        ]
+    }
+}

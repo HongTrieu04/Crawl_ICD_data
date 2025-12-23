@@ -1,0 +1,29 @@
+{
+    "name": "diastasis recti",
+    "qid": "Q638370",
+    "icd_10": "M62.08",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Diastasis_recti",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "repetitive strain injury",
+                "qid": "Q877796",
+                "url": "https://en.wikipedia.org/wiki/Repetitive_strain_injury"
+            },
+            {
+                "name": "muscle diastasis",
+                "qid": "Q67501487"
+            }
+        ]
+    }
+}

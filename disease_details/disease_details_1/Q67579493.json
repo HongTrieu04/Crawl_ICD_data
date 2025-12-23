@@ -1,0 +1,20 @@
+{
+    "name": "very low birth weight infant",
+    "qid": "Q67579493",
+    "icd_10": "P07.1",
+    "description": "infant whose weight at birth is less than 1.5 kilograms",
+    "aliases": [
+        "Infant, Very Low Birth Weight"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "low birth weight infant",
+                "qid": "Q6692979",
+                "url": "https://en.wikipedia.org/wiki/Low_birth_weight"
+            }
+        ]
+    }
+}

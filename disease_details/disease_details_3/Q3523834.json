@@ -1,0 +1,25 @@
+{
+    "name": "bee sting",
+    "qid": "Q3523834",
+    "icd_10": "T63.4",
+    "description": "Puncture wound caused by a bee's stinger",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stechende%20Biene%2012a.jpg",
+    "url": "https://en.wikipedia.org/wiki/Bee_sting",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "insect-inflicted wound",
+                "qid": "Q368779",
+                "url": "https://en.wikipedia.org/wiki/Insect_bites_and_stings"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ]
+    }
+}

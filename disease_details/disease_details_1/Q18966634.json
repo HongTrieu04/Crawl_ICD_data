@@ -1,0 +1,28 @@
+{
+    "name": "perinatal respiratory disorder",
+    "qid": "Q18966634",
+    "icd_10": "P28.9",
+    "description": "type of human disease",
+    "aliases": [
+        "obsolete perinatal respiratory disorder",
+        "Perinatal respiratory problems NOS",
+        "Perinatal respiratory problems NOS (disorder)",
+        "respiratory condition of fetus OR newborn (disorder)",
+        "Unspecified respiratory condition of fetus and newborn"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "respiratory disease",
+                "qid": "Q3286546",
+                "url": "https://en.wikipedia.org/wiki/Respiratory_disease"
+            },
+            {
+                "name": "perinatal disease",
+                "qid": "Q18968218"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "name": "reading disorder and écrites disorder",
+    "qid": "Q17077617",
+    "icd_10": "F81.0",
+    "description": "range of neurological conditions, developmental or acquired",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Reading_disability",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "psychology",
+                "qid": "Q9418",
+                "url": "https://en.wikipedia.org/wiki/Psychology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "language disorder",
+                "qid": "Q10469820",
+                "url": "https://en.wikipedia.org/wiki/Language_disorder"
+            },
+            {
+                "name": "learning disability",
+                "qid": "Q860740",
+                "url": "https://en.wikipedia.org/wiki/Learning_disability"
+            }
+        ]
+    }
+}

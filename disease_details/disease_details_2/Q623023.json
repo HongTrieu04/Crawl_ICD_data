@@ -1,0 +1,27 @@
+{
+    "name": "aquagenic pruritus",
+    "qid": "Q623023",
+    "icd_10": "L29.8",
+    "description": "medical condition",
+    "aliases": [
+        "water-induced itching"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Aquagenic_pruritus",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "itch",
+                "qid": "Q199602",
+                "url": "https://en.wikipedia.org/wiki/Itch"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ]
+    }
+}

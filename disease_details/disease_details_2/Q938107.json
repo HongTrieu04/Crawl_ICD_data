@@ -1,0 +1,86 @@
+{
+    "name": "hypogonadism",
+    "qid": "Q938107",
+    "icd_10": "E28.3",
+    "description": "endocrine disease",
+    "aliases": [
+        "Isolated hypogonadotropic hypogonadism",
+        "Gonadotropin Deficiency",
+        "Hypogonadism, hypogonadotropic",
+        "Low gonadotropins (secondary hypogonadism)"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hypogonadism",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "gonadal disease",
+                "qid": "Q18555048"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "fluoxymesterone",
+                "qid": "Q410663",
+                "url": "https://en.wikipedia.org/wiki/Fluoxymesterone"
+            },
+            {
+                "name": "bromocriptine",
+                "qid": "Q413581",
+                "url": "https://en.wikipedia.org/wiki/Bromocriptine"
+            },
+            {
+                "name": "ethinylestradiol",
+                "qid": "Q415563",
+                "url": "https://en.wikipedia.org/wiki/Ethinylestradiol"
+            },
+            {
+                "name": "norethisterone",
+                "qid": "Q421352",
+                "url": "https://en.wikipedia.org/wiki/Norethisterone"
+            },
+            {
+                "name": "methyltestosterone",
+                "qid": "Q421768",
+                "url": "https://en.wikipedia.org/wiki/Methyltestosterone"
+            },
+            {
+                "name": "17β-estradiol",
+                "qid": "Q422416",
+                "url": "https://en.wikipedia.org/wiki/Estradiol"
+            },
+            {
+                "name": "testosterone",
+                "qid": "Q1318776",
+                "url": "https://en.wikipedia.org/wiki/Testosterone"
+            },
+            {
+                "name": "chlorotrianisene",
+                "qid": "Q5103213",
+                "url": "https://en.wikipedia.org/wiki/Chlorotrianisene"
+            },
+            {
+                "name": "estropipate",
+                "qid": "Q5401860",
+                "url": "https://en.wikipedia.org/wiki/Estropipate"
+            },
+            {
+                "name": "ethynodiol diacetate",
+                "qid": "Q5405160",
+                "url": "https://en.wikipedia.org/wiki/Etynodiol_diacetate"
+            }
+        ]
+    }
+}

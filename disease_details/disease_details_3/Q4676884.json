@@ -1,0 +1,25 @@
+{
+    "name": "Actinic granuloma",
+    "qid": "Q4676884",
+    "icd_10": "L57.5",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Actinic_granuloma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "photoaging",
+                "qid": "Q3705873",
+                "url": "https://en.wikipedia.org/wiki/Photoaging"
+            }
+        ]
+    }
+}

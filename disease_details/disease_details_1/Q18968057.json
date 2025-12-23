@@ -1,0 +1,24 @@
+{
+    "name": "single episode mild major depression",
+    "qid": "Q18968057",
+    "icd_10": "F32.2",
+    "description": "Human disease",
+    "aliases": [
+        "Major depressive disorder, single episode, mild degree",
+        "Mild depressive episode",
+        "Mild major depression, single episode (disorder)",
+        "Single episode depressive disorder, mild",
+        "Single major depressive episode, mild (disorder)"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "major depressive episode",
+                "qid": "Q6738337",
+                "url": "https://en.wikipedia.org/wiki/Major_depressive_episode"
+            }
+        ]
+    }
+}

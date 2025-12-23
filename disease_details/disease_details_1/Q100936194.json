@@ -1,0 +1,29 @@
+{
+    "name": "abscess of prostate",
+    "qid": "Q100936194",
+    "icd_10": "N41.2",
+    "description": "symptom",
+    "aliases": [
+        "prostatic abscess",
+        "Prostatic abscess"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "abscess",
+                "qid": "Q164655",
+                "url": "https://en.wikipedia.org/wiki/Abscess"
+            },
+            {
+                "name": "prostate disease",
+                "qid": "Q18556445"
+            },
+            {
+                "name": "prostate symptom",
+                "qid": "Q102187396"
+            }
+        ]
+    }
+}

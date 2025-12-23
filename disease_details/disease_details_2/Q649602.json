@@ -1,0 +1,38 @@
+{
+    "name": "Ohtahara syndrome",
+    "qid": "Q649602",
+    "icd_10": "G40.4",
+    "description": "neonatoal period electroclinical syndrome that is characterized by tonic spasms and partial seizures",
+    "aliases": [
+        "early infantile epileptic encephalopathy",
+        "Early Infantile Epileptic Encephalopathy",
+        "Early Infantile Epileptic Encephalopathy with Burst-Suppression",
+        "Epileptic Encephalopathy, Early Infantile",
+        "Ohtahara Syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Ohtahara_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "neonatal period electroclinical syndrome",
+                "qid": "Q18553412"
+            },
+            {
+                "name": "infantile epileptic encephalopathy",
+                "qid": "Q18555095"
+            },
+            {
+                "name": "childhood onset epileptic encephalopathy",
+                "qid": "Q21694579"
+            }
+        ]
+    }
+}

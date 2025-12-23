@@ -1,0 +1,25 @@
+{
+    "name": "aviation accident",
+    "qid": "Q744913",
+    "icd_10": "V95.9",
+    "description": "aviation occurrence involving serious injury, death, or destruction of aircraft",
+    "aliases": [
+        "air accident",
+        "flight accident",
+        "aircraft accident"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fna%203x-gcm%20rev.jpg",
+    "url": "https://en.wikipedia.org/wiki/Aviation_accident",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "transport accident",
+                "qid": "Q11822042"
+            },
+            {
+                "name": "aviation occurrence",
+                "qid": "Q21152775"
+            }
+        ]
+    }
+}

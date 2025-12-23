@@ -1,0 +1,27 @@
+{
+    "name": "Inferior vena cava syndrome",
+    "qid": "Q2512721",
+    "icd_10": "I87.1",
+    "description": "medical condition",
+    "aliases": [
+        "IVCS"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Inferior_vena_cava_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "vein disorder",
+                "qid": "Q7918687",
+                "url": "https://en.wikipedia.org/wiki/Vein_disorders"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Anetoderma",
+    "qid": "Q3616643",
+    "icd_10": "L90.9",
+    "description": "Primary anetoderma is a rare skin disease characterized by loss of elastin tissue resulting in localized areas of flaccid skin in the absence of a secondary cause",
+    "aliases": [
+        "Primary macular atrophy"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Anetoderma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "acquired dermis elastic tissue disorder with decreased elastic tissue",
+                "qid": "Q55786220"
+            }
+        ]
+    }
+}

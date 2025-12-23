@@ -1,0 +1,21 @@
+{
+    "name": "Enterocutaneous fistula",
+    "qid": "Q1344610",
+    "icd_10": "K63.2",
+    "description": "Medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Enterocutaneous_fistula",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "digestive system fistula",
+                "qid": "Q34397578"
+            },
+            {
+                "name": "cutaneous fistula",
+                "qid": "Q54912155"
+            }
+        ]
+    }
+}

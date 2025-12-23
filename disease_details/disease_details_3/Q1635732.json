@@ -1,0 +1,20 @@
+{
+    "name": "Slocumb's syndrome",
+    "qid": "Q1635732",
+    "icd_10": "E27.0",
+    "description": "disease",
+    "aliases": [
+        "Chronic hypercorticoidism",
+        "steroid pseudorheumatism"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "steroid adverse effect",
+                "qid": "Q30277163"
+            }
+        ]
+    }
+}

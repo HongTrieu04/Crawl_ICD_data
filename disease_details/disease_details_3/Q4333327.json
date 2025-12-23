@@ -1,0 +1,32 @@
+{
+    "name": "oculogyric crisis",
+    "qid": "Q4333327",
+    "icd_10": "H51.8",
+    "description": "focal dystonia that is characterized by a prolonged involuntary upward deviation of the eyes",
+    "aliases": [
+        "Gaze spasm"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Oculogyric_crisis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "focal dystonia",
+                "qid": "Q1428695",
+                "url": "https://en.wikipedia.org/wiki/Focal_dystonia"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ]
+    }
+}

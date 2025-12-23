@@ -1,0 +1,45 @@
+{
+    "name": "organic brain syndrome",
+    "qid": "Q360341",
+    "icd_10": "F06.9",
+    "description": "syndrome or disorder of mental function whose cause is alleged to be known as organic (physiologic) rather than purely of the mind",
+    "aliases": [
+        "brain syndrome NOS",
+        "chronic organic brain syndrome",
+        "organic brain disease",
+        "organic brain disorder",
+        "organic mental disorder",
+        "organic mental syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Organic_brain_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "neuropsychiatry",
+                "qid": "Q2699874",
+                "url": "https://en.wikipedia.org/wiki/Neuropsychiatry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "physical disorder",
+                "qid": "Q30314000",
+                "url": "https://en.wikipedia.org/wiki/Physical_disorder"
+            },
+            {
+                "name": "somatic disease",
+                "qid": "Q7101840"
+            },
+            {
+                "name": "organic or symptomatic mental disorder",
+                "qid": "Q10687207"
+            }
+        ]
+    }
+}

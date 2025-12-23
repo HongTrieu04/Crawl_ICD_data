@@ -1,0 +1,25 @@
+{
+    "name": "Shoulder presentation",
+    "qid": "Q490111",
+    "icd_10": "O64.4",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Shoulder_presentation",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "obstructed labor",
+                "qid": "Q1811189",
+                "url": "https://en.wikipedia.org/wiki/Obstructed_labour"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "obstetrics",
+                "qid": "Q5284418",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics"
+            }
+        ]
+    }
+}

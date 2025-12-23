@@ -1,0 +1,29 @@
+{
+    "name": "anaphylactic shock",
+    "qid": "Q15965523",
+    "icd_10": "T78.2",
+    "description": "rapid severe form of anaphylaxis with shock development",
+    "aliases": [
+        "anaphylaxis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "anaphylaxis",
+                "qid": "Q168800",
+                "url": "https://en.wikipedia.org/wiki/Anaphylaxis"
+            },
+            {
+                "name": "shock",
+                "qid": "Q178061",
+                "url": "https://en.wikipedia.org/wiki/Shock_(circulatory)"
+            },
+            {
+                "name": "immune system symptom",
+                "qid": "Q102186582"
+            }
+        ]
+    }
+}

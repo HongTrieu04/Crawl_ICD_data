@@ -1,0 +1,33 @@
+{
+    "name": "diffuse panbronchiolitis",
+    "qid": "Q3085380",
+    "icd_10": "J21.9",
+    "description": "inflammatory lung disease",
+    "aliases": [
+        "Diffusive panbronchiolitis",
+        "Dpb",
+        "PANBRONCHIOLITIS, DIFFUSE",
+        "Pblt"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/HRCT%20scans%20of%20diffuse%20panbronchiolitisCropped.jpg",
+    "url": "https://en.wikipedia.org/wiki/Diffuse_panbronchiolitis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "lung disease",
+                "qid": "Q3392853"
+            },
+            {
+                "name": "rare genetic respiratory disease",
+                "qid": "Q55785522"
+            }
+        ]
+    }
+}

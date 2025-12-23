@@ -1,0 +1,58 @@
+{
+    "name": "oppositional defiant disorder",
+    "qid": "Q1328833",
+    "icd_10": "F91.3",
+    "description": "human disorder involving hostility and defiance",
+    "aliases": [
+        "Kateland"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Oppositional_defiant_disorder",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "clinical psychology",
+                "qid": "Q199906",
+                "url": "https://en.wikipedia.org/wiki/Clinical_psychology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "emotional and behavioral disorders",
+                "qid": "Q3063847",
+                "url": "https://en.wikipedia.org/wiki/Emotional_and_behavioral_disorders"
+            },
+            {
+                "name": "specific developmental disorder",
+                "qid": "Q7574983",
+                "url": "https://en.wikipedia.org/wiki/Specific_developmental_disorder"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "chlorpromazine",
+                "qid": "Q407972",
+                "url": "https://en.wikipedia.org/wiki/Chlorpromazine"
+            },
+            {
+                "name": "risperidone",
+                "qid": "Q412443",
+                "url": "https://en.wikipedia.org/wiki/Risperidone"
+            },
+            {
+                "name": "clonidine hydrochloride",
+                "qid": "Q27292429"
+            }
+        ]
+    }
+}

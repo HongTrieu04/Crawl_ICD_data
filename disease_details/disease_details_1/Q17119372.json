@@ -1,0 +1,42 @@
+{
+    "name": "haemophilus meningitis",
+    "qid": "Q17119372",
+    "icd_10": "G00.0",
+    "description": "bacterial meningitis that has material basis in Haemophilus influenzae infection",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Haemophilus_meningitis",
+    "details": {
+        "Drug used for treatment": [
+            {
+                "name": "meropenem",
+                "qid": "Q421670",
+                "url": "https://en.wikipedia.org/wiki/Meropenem"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "bacterial meningitis",
+                "qid": "Q3678510"
+            },
+            {
+                "name": "Haemophilus influenzae infectious disease",
+                "qid": "Q15715699"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "infection",
+                "qid": "Q166231",
+                "url": "https://en.wikipedia.org/wiki/Infection"
+            }
+        ]
+    }
+}

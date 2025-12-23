@@ -1,0 +1,19 @@
+{
+    "name": "lying dog pose",
+    "qid": "Q114240875",
+    "icd_10": "R29.8",
+    "description": "diagnostic symptom",
+    "aliases": [
+        "\"cocked trigger\" pose"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "meningism signs",
+                "qid": "Q12122651"
+            }
+        ]
+    }
+}

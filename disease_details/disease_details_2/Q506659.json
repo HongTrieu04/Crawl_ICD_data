@@ -1,0 +1,110 @@
+{
+    "name": "prostatic hypertrophy",
+    "qid": "Q506659",
+    "icd_10": "N40",
+    "description": "noncancerous increase in size of the prostate",
+    "aliases": [
+        "BPE",
+        "BEP",
+        "BPH",
+        "adenoma - prostate",
+        "adenoma of prostate",
+        "benign adenoma of prostate",
+        "benign adenoma of prostate (disorder)",
+        "prostate adenoma",
+        "prostatic adenoma",
+        "benign enlargement of the prostate",
+        "Benign Hyperplasia of Prostate",
+        "Benign Hyperplasia of the Prostate",
+        "benign prostate enlargement",
+        "Benign Prostate Hyperplasia",
+        "benign prostatic hyperplasia",
+        "Benign Prostatic Hyperplasia - BPH",
+        "Benign Prostatic Hypertrophy",
+        "prostatic hyperplasia",
+        "PROSTATIC HYPERPLASIA, BENIGN",
+        "PROSTATIC HYPERPLASIA, BENIGN; BPH"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/BPH%20es-hiperplasia%20benigna%20de%20prostata.png",
+    "url": "https://en.wikipedia.org/wiki/Benign_prostatic_hyperplasia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "enlarged prostate",
+                "qid": "Q11996371"
+            },
+            {
+                "name": "prostate disease",
+                "qid": "Q18556445"
+            },
+            {
+                "name": "prostate neoplasm",
+                "qid": "Q56014511"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "leuprolide",
+                "qid": "Q907160",
+                "url": "https://en.wikipedia.org/wiki/Leuprorelin"
+            },
+            {
+                "name": "alfuzosin",
+                "qid": "Q2736873",
+                "url": "https://en.wikipedia.org/wiki/Alfuzosin"
+            },
+            {
+                "name": "terazosin",
+                "qid": "Q280786",
+                "url": "https://en.wikipedia.org/wiki/Terazosin"
+            },
+            {
+                "name": "indoramin",
+                "qid": "Q408963",
+                "url": "https://en.wikipedia.org/wiki/Indoramin"
+            },
+            {
+                "name": "tamsulosin",
+                "qid": "Q418480",
+                "url": "https://en.wikipedia.org/wiki/Tamsulosin"
+            },
+            {
+                "name": "doxazosin",
+                "qid": "Q419939",
+                "url": "https://en.wikipedia.org/wiki/Doxazosin"
+            },
+            {
+                "name": "tadalafil",
+                "qid": "Q424156",
+                "url": "https://en.wikipedia.org/wiki/Tadalafil"
+            },
+            {
+                "name": "finasteride",
+                "qid": "Q424167",
+                "url": "https://en.wikipedia.org/wiki/Finasteride"
+            },
+            {
+                "name": "dutasteride",
+                "qid": "Q424760",
+                "url": "https://en.wikipedia.org/wiki/Dutasteride"
+            },
+            {
+                "name": "prazosin",
+                "qid": "Q425296",
+                "url": "https://en.wikipedia.org/wiki/Prazosin"
+            }
+        ]
+    }
+}

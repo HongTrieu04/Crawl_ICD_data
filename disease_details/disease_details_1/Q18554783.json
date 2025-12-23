@@ -1,0 +1,28 @@
+{
+    "name": "senile degeneration of brain",
+    "qid": "Q18554783",
+    "icd_10": "G31.1",
+    "description": "human disease",
+    "aliases": [
+        "Senile brain degen.",
+        "Senile degeneration of brain (disorder)"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "cerebral degeneration",
+                "qid": "Q1620193",
+                "url": "https://en.wikipedia.org/wiki/Cerebral_atrophy"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ]
+    }
+}

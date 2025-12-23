@@ -1,0 +1,71 @@
+{
+    "name": "parkinsonian syndrome",
+    "qid": "Q1531991",
+    "icd_10": "G22",
+    "description": "symptoms that resemble Parkinson's disease",
+    "aliases": [
+        "Parkinson-like syndrome",
+        "Parkinson's syndrome",
+        "parkinsonian disorders",
+        "parkinsonism",
+        "Parkinsonism",
+        "rare hypokinetic movement disorder"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Parkinsonism",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            },
+            {
+                "name": "gerontology",
+                "qid": "Q10387",
+                "url": "https://en.wikipedia.org/wiki/Gerontology"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Parkinson's disease",
+                "qid": "Q11085",
+                "url": "https://en.wikipedia.org/wiki/Parkinson%27s_disease"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "procyclidine",
+                "qid": "Q268997",
+                "url": "https://en.wikipedia.org/wiki/Procyclidine"
+            },
+            {
+                "name": "ropinirol",
+                "qid": "Q420590",
+                "url": "https://en.wikipedia.org/wiki/Ropinirole"
+            },
+            {
+                "name": "levodopa/carbidopa",
+                "qid": "Q5037862",
+                "url": "https://en.wikipedia.org/wiki/Carbidopa/levodopa"
+            },
+            {
+                "name": "pimavanserin",
+                "qid": "Q7194603",
+                "url": "https://en.wikipedia.org/wiki/Pimavanserin"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "extrapyramidal symptoms",
+                "qid": "Q1385411",
+                "url": "https://en.wikipedia.org/wiki/Extrapyramidal_symptoms"
+            },
+            {
+                "name": "movement disorders",
+                "qid": "Q2608695",
+                "url": "https://en.wikipedia.org/wiki/Movement_disorder"
+            }
+        ]
+    }
+}

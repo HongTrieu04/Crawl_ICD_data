@@ -1,0 +1,25 @@
+{
+    "name": "Uterine tachysystole",
+    "qid": "Q7902660",
+    "icd_10": "O62.4",
+    "description": "medical condition during pregnancy",
+    "aliases": [
+        "Hypertonic uterine dysfunction"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Uterine_tachysystole",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "uterine contraction",
+                "qid": "Q1751296",
+                "url": "https://en.wikipedia.org/wiki/Uterine_contraction"
+            },
+            {
+                "name": "obstetric labor complication",
+                "qid": "Q7075540",
+                "url": "https://en.wikipedia.org/wiki/Obstetric_labor_complication"
+            }
+        ]
+    }
+}

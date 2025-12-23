@@ -1,0 +1,25 @@
+{
+    "name": "Superior oblique myokymia",
+    "qid": "Q745166",
+    "icd_10": "G51.4",
+    "description": "vision related neurological disorder",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Superior_oblique_myokymia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "myokymia",
+                "qid": "Q6593390",
+                "url": "https://en.wikipedia.org/wiki/Myokymia"
+            }
+        ]
+    }
+}

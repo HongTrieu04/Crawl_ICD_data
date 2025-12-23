@@ -1,0 +1,43 @@
+{
+    "name": "cauliflower ear",
+    "qid": "Q886261",
+    "icd_10": "M95.1",
+    "description": "permanent deformity caused by physical trauma to the ear",
+    "aliases": [
+        "hematoma auris",
+        "perichondrial hematoma",
+        "traumatic auricular hematoma"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cauliflower%20ear%20by%20dr%20vikram%20yadav.jpg",
+    "url": "https://en.wikipedia.org/wiki/Cauliflower_ear",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "pinna disease",
+                "qid": "Q18966401"
+            },
+            {
+                "name": "acquired deformities of the ear",
+                "qid": "Q55215731"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "othematoma",
+                "qid": "Q886706"
+            }
+        ]
+    }
+}

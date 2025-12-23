@@ -1,0 +1,25 @@
+{
+    "name": "Trichorrhexis nodosa",
+    "qid": "Q7840966",
+    "icd_10": "L67.0",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Trichorrhexis_nodosa",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "hair diseases",
+                "qid": "Q2989168",
+                "url": "https://en.wikipedia.org/wiki/Hair_disease"
+            }
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "name": "abducens nerve palsy",
+    "qid": "Q317977",
+    "icd_10": "H49.2",
+    "description": "non-neoplastic or neoplastic disorder affecting the abducens nerve (sixth cranial nerve)",
+    "aliases": [
+        "abducens nerve cranial nerve palsy",
+        "abducens nerve disease",
+        "Abducens nerve disorder",
+        "Abducens nerve weakness",
+        "ABDUCENS PALSY",
+        "Abducent Nerve Paralysis",
+        "disorder of abducent nerve",
+        "Lateral rectus muscle denervation paresis",
+        "Lateral rectus muscle innervation disorder",
+        "Sixth cranial nerve disorder",
+        "Sixth cranial nerve disorder, NOS",
+        "Sixth nerve palsy",
+        "Sixth nerve palsy (disorder)",
+        "Sixth Nerve Paralysis",
+        "Sixth or abducens nerve palsy",
+        "VIth nerve disorder",
+        "VIth nerve Paralysis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Sixth_nerve_palsy",
+    "details": {
+        "Anatomical location": [
+            {
+                "name": "abducens nerve",
+                "qid": "Q318773",
+                "url": "https://en.wikipedia.org/wiki/Abducens_nerve"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "paralytic squint",
+                "qid": "Q18553959"
+            },
+            {
+                "name": "cranial nerve palsy",
+                "qid": "Q18556080"
+            }
+        ]
+    }
+}

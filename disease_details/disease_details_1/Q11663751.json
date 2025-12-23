@@ -1,0 +1,17 @@
+{
+    "name": "non bacterial chronic  cystitis",
+    "qid": "Q11663751",
+    "icd_10": "N30.2",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "chronic cystitis",
+                "qid": "Q18554875"
+            }
+        ]
+    }
+}

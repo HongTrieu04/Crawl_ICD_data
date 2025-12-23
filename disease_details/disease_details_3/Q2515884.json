@@ -1,0 +1,29 @@
+{
+    "name": "missed abortion",
+    "qid": "Q2515884",
+    "icd_10": "O02.1",
+    "description": "intrauterine retention of dead fetus",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "obstetrics and gynaecology",
+                "qid": "Q80015",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics_and_gynaecology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "complications of pregnancy",
+                "qid": "Q2916477",
+                "url": "https://en.wikipedia.org/wiki/Complications_of_pregnancy"
+            },
+            {
+                "name": "fetal death",
+                "qid": "Q30397754"
+            }
+        ]
+    }
+}

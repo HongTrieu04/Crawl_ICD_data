@@ -1,0 +1,177 @@
+{
+    "name": "bipolar disorder",
+    "qid": "Q131755",
+    "icd_10": "F31",
+    "description": "human mental illness characterized by mood changes",
+    "aliases": [
+        "BD",
+        "Bipolar affective disorder",
+        "bipolar disease",
+        "bipolar illness",
+        "BPAD",
+        "manic depression"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Comedy%20and%20tragedy%20masks%20without%20background.svg",
+    "url": "https://en.wikipedia.org/wiki/Bipolar_disorder",
+    "details": {
+        "Possible treatment": [
+            {
+                "name": "psychotherapy",
+                "qid": "Q183257",
+                "url": "https://en.wikipedia.org/wiki/Psychotherapy"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "mania",
+                "qid": "Q185935",
+                "url": "https://en.wikipedia.org/wiki/Mania"
+            },
+            {
+                "name": "hallucination",
+                "qid": "Q130741",
+                "url": "https://en.wikipedia.org/wiki/Hallucination"
+            },
+            {
+                "name": "fatigue",
+                "qid": "Q9690",
+                "url": "https://en.wikipedia.org/wiki/Fatigue"
+            },
+            {
+                "name": "aphasia",
+                "qid": "Q2836",
+                "url": "https://en.wikipedia.org/wiki/Aphasia"
+            },
+            {
+                "name": "anhedonia",
+                "qid": "Q545365",
+                "url": "https://en.wikipedia.org/wiki/Anhedonia"
+            },
+            {
+                "name": "hypersomnia",
+                "qid": "Q751641",
+                "url": "https://en.wikipedia.org/wiki/Hypersomnia"
+            },
+            {
+                "name": "hypomania",
+                "qid": "Q188611",
+                "url": "https://en.wikipedia.org/wiki/Hypomania"
+            },
+            {
+                "name": "delusion",
+                "qid": "Q189643",
+                "url": "https://en.wikipedia.org/wiki/Delusion"
+            },
+            {
+                "name": "insomnia",
+                "qid": "Q1869874",
+                "url": "https://en.wikipedia.org/wiki/Insomnia"
+            },
+            {
+                "name": "depression",
+                "qid": "Q4340209",
+                "url": "https://en.wikipedia.org/wiki/Depression_(mood)"
+            },
+            {
+                "name": "mood swing",
+                "qid": "Q7933601",
+                "url": "https://en.wikipedia.org/wiki/Mood_swing"
+            },
+            {
+                "name": "hypersexuality",
+                "qid": "Q267907",
+                "url": "https://en.wikipedia.org/wiki/Hypersexuality"
+            },
+            {
+                "name": "psychomotor agitation",
+                "qid": "Q394129",
+                "url": "https://en.wikipedia.org/wiki/Psychomotor_agitation"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "lithium",
+                "qid": "Q152763",
+                "url": "https://en.wikipedia.org/wiki/Lithium_(medication)"
+            },
+            {
+                "name": "tiagabine",
+                "qid": "Q907219",
+                "url": "https://en.wikipedia.org/wiki/Tiagabine"
+            },
+            {
+                "name": "olanzapine",
+                "qid": "Q201872",
+                "url": "https://en.wikipedia.org/wiki/Olanzapine"
+            },
+            {
+                "name": "topiramate",
+                "qid": "Q221174",
+                "url": "https://en.wikipedia.org/wiki/Topiramate"
+            },
+            {
+                "name": "clozapine",
+                "qid": "Q221361",
+                "url": "https://en.wikipedia.org/wiki/Clozapine"
+            },
+            {
+                "name": "valproic acid",
+                "qid": "Q240642",
+                "url": "https://en.wikipedia.org/wiki/Valproate"
+            },
+            {
+                "name": "clonazepam",
+                "qid": "Q407988",
+                "url": "https://en.wikipedia.org/wiki/Clonazepam"
+            },
+            {
+                "name": "quetiapine",
+                "qid": "Q408535",
+                "url": "https://en.wikipedia.org/wiki/Quetiapine"
+            },
+            {
+                "name": "lamotrigine",
+                "qid": "Q410346",
+                "url": "https://en.wikipedia.org/wiki/Lamotrigine"
+            },
+            {
+                "name": "gabapentin",
+                "qid": "Q410352",
+                "url": "https://en.wikipedia.org/wiki/Gabapentin"
+            },
+            {
+                "name": "carbamazepin",
+                "qid": "Q410412",
+                "url": "https://en.wikipedia.org/wiki/Carbamazepine"
+            },
+            {
+                "name": "risperidone",
+                "qid": "Q412443",
+                "url": "https://en.wikipedia.org/wiki/Risperidone"
+            },
+            {
+                "name": "transclopenthixol",
+                "qid": "Q27278051"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "clinical psychology",
+                "qid": "Q199906",
+                "url": "https://en.wikipedia.org/wiki/Clinical_psychology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "mood disorder",
+                "qid": "Q188638",
+                "url": "https://en.wikipedia.org/wiki/Mood_disorder"
+            }
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "name": "pulmonary atresia",
+    "qid": "Q2090736",
+    "icd_10": "Q25.5",
+    "description": "medical condition",
+    "aliases": [
+        "PA",
+        "pulmonary valve atresia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pulmonary_atresia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "congenital heart disease",
+                "qid": "Q939364",
+                "url": "https://en.wikipedia.org/wiki/Congenital_heart_defect"
+            },
+            {
+                "name": "cyanotic heart defect",
+                "qid": "Q2186829",
+                "url": "https://en.wikipedia.org/wiki/Cyanotic_heart_defect"
+            },
+            {
+                "name": "pulmonic stenosis",
+                "qid": "Q3973118",
+                "url": "https://en.wikipedia.org/wiki/Pulmonic_stenosis"
+            }
+        ]
+    }
+}

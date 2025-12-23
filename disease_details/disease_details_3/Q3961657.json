@@ -1,0 +1,37 @@
+{
+    "name": "anismus",
+    "qid": "Q3961657",
+    "icd_10": "K59.8",
+    "description": "failure of the normal relaxation of pelvic floor muscles during attempted defecation",
+    "aliases": [
+        "Dyskinetic puborectalis",
+        "dyssynergic defecation",
+        "Puborectalis syndrome",
+        "rectosphincteric dyssynergia",
+        "spastic pelvic floor syndrome",
+        "sphincteric disobedience syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Anismus",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "constipation",
+                "qid": "Q178436",
+                "url": "https://en.wikipedia.org/wiki/Constipation"
+            },
+            {
+                "name": "focal dystonia",
+                "qid": "Q1428695",
+                "url": "https://en.wikipedia.org/wiki/Focal_dystonia"
+            }
+        ]
+    }
+}

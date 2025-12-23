@@ -1,0 +1,54 @@
+{
+    "name": "human granulocytic anaplasmosis",
+    "qid": "Q992139",
+    "icd_10": "A79.8",
+    "description": "human disease",
+    "aliases": [
+        "HGE",
+        "human granulocytic ehrlichiosis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Human_granulocytic_anaplasmosis",
+    "details": {
+        "Cause": [
+            {
+                "name": "infection",
+                "qid": "Q166231",
+                "url": "https://en.wikipedia.org/wiki/Infection"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "tick-borne disease",
+                "qid": "Q184243",
+                "url": "https://en.wikipedia.org/wiki/Tick-borne_disease"
+            },
+            {
+                "name": "anaplasmosis",
+                "qid": "Q2394735",
+                "url": "https://en.wikipedia.org/wiki/Anaplasmosis"
+            },
+            {
+                "name": "ehrlichiosis",
+                "qid": "Q2845432",
+                "url": "https://en.wikipedia.org/wiki/Ehrlichiosis"
+            },
+            {
+                "name": "immune disorder",
+                "qid": "Q3843811",
+                "url": "https://en.wikipedia.org/wiki/Immune_disorder"
+            },
+            {
+                "name": "leukocyte disease",
+                "qid": "Q18558143"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

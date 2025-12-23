@@ -1,0 +1,30 @@
+{
+    "name": "idiot",
+    "qid": "Q193607",
+    "icd_10": "F73",
+    "description": "person of low intelligence",
+    "aliases": [
+        "fool",
+        "dolt",
+        "moron",
+        "cretin",
+        "dullard",
+        "imbecile",
+        "dimbulb",
+        "dimwit",
+        "half-wit",
+        "numbskull",
+        "uneducated person"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larock-The%20Idiot.jpg",
+    "url": "https://en.wikipedia.org/wiki/Idiot",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "person",
+                "qid": "Q215627",
+                "url": "https://en.wikipedia.org/wiki/Person"
+            }
+        ]
+    }
+}

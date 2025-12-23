@@ -1,0 +1,25 @@
+{
+    "name": "plague meningitis",
+    "qid": "Q18924565",
+    "icd_10": "A20.3",
+    "description": "Human disease",
+    "aliases": [
+        "Meningeal plague",
+        "obsolete plague meningitis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "plague",
+                "qid": "Q133780",
+                "url": "https://en.wikipedia.org/wiki/Plague_(disease)"
+            },
+            {
+                "name": "bacterial meningitis",
+                "qid": "Q3678510"
+            }
+        ]
+    }
+}

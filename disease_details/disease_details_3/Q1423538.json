@@ -1,0 +1,51 @@
+{
+    "name": "gamma chain deficiency",
+    "qid": "Q1423538",
+    "icd_10": "D80.0",
+    "description": "immunodeficiency disorder in which the body produces very few T cells and NK cells",
+    "aliases": [
+        "Immunodeficiency 4",
+        "SCID-X1",
+        "Scid, X-Linked",
+        "Scidx",
+        "SCIDX1",
+        "SEVERE COMBINED IMMUNODEFICIENCY, X-LINKED",
+        "Severe Combined Immunodeficiency, X-Linked, T Cell-Negative, B Cell-Positive, Nk Cell-Negative",
+        "SEVERE COMBINED IMMUNODEFICIENCY, X-LINKED; SCIDX1",
+        "T-B+ SCID due to gamma chain deficiency",
+        "T-B+ severe combined immunodeficiency due to gamma chain deficiency",
+        "T-B+ severe combined immunodeficiency, X-linked",
+        "thymic epithelial hypoplasia",
+        "X-Linked Combined Immunodeficiency Diseases",
+        "X-Linked Severe Combined Immunodeficiency",
+        "X-SCID",
+        "XSCID"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/X-linked_severe_combined_immunodeficiency",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "X-linked recessive disease",
+                "qid": "Q55010090",
+                "url": "https://en.wikipedia.org/wiki/X-linked_recessive_disorder"
+            },
+            {
+                "name": "severe combined immunodeficiency",
+                "qid": "Q1334408",
+                "url": "https://en.wikipedia.org/wiki/Severe_combined_immunodeficiency"
+            },
+            {
+                "name": "T+ B+ severe combined immunodeficiency",
+                "qid": "Q55787980"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "name": "burping",
+    "qid": "Q209789",
+    "icd_10": "R14",
+    "description": "release of gas from the upper digestive tract through the mouth",
+    "aliases": [
+        "belching",
+        "eructation",
+        "ructus"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Belching",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "natural sound",
+                "qid": "Q6980787",
+                "url": "https://en.wikipedia.org/wiki/Natural_sounds"
+            },
+            {
+                "name": "digestive sign",
+                "qid": "Q54926352"
+            }
+        ]
+    }
+}

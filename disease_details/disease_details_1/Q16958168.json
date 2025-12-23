@@ -1,0 +1,33 @@
+{
+    "name": "chronic gastritis",
+    "qid": "Q16958168",
+    "icd_10": "K29.5",
+    "description": "Inflammation of the stomach that is chronic in nature",
+    "aliases": [
+        "gastritis",
+        "gastritis (disease), chronic"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Chronic_gastritis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "stomach disease",
+                "qid": "Q175827",
+                "url": "https://en.wikipedia.org/wiki/Stomach_disease"
+            },
+            {
+                "name": "gastritis",
+                "qid": "Q183130",
+                "url": "https://en.wikipedia.org/wiki/Gastritis"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "troxipide",
+                "qid": "Q4381806",
+                "url": "https://en.wikipedia.org/wiki/Troxipide"
+            }
+        ]
+    }
+}

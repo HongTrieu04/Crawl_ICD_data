@@ -1,0 +1,32 @@
+{
+    "name": "Clutton's joints",
+    "qid": "Q1103561",
+    "icd_10": "M03.1",
+    "description": "term describing the finding of symmetrical joint swelling seen in patients with congenital syphilis",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Clutton%27s_joints",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "joint effusion",
+                "qid": "Q1499629",
+                "url": "https://en.wikipedia.org/wiki/Joint_effusion"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "congenital syphilis",
+                "qid": "Q5160454",
+                "url": "https://en.wikipedia.org/wiki/Congenital_syphilis"
+            }
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "name": "hallux valgus",
+    "qid": "Q852574",
+    "icd_10": "M20.1",
+    "description": "deformity characterized by lateral deviation of the big toe",
+    "aliases": [
+        "bunion"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Projectional%20radiograph%20of%20bunion.jpg",
+    "url": "https://en.wikipedia.org/wiki/Bunion",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            },
+            {
+                "name": "podiatry",
+                "qid": "Q11865729",
+                "url": "https://en.wikipedia.org/wiki/Podiatry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "foot deformity",
+                "qid": "Q5465742",
+                "url": "https://en.wikipedia.org/wiki/Foot_deformity"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "syndesmosis procedure",
+                "qid": "Q18393185",
+                "url": "https://en.wikipedia.org/wiki/Syndesmosis_procedure"
+            }
+        ]
+    }
+}

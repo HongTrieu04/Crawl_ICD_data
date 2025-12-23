@@ -1,0 +1,25 @@
+{
+    "name": "Rheumatoid vasculitis",
+    "qid": "Q7320490",
+    "icd_10": "M05.2",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Rheumatoid_vasculitis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "rheumatoid arthritis",
+                "qid": "Q187255",
+                "url": "https://en.wikipedia.org/wiki/Rheumatoid_arthritis"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ]
+    }
+}

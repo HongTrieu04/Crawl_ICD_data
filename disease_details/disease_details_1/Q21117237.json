@@ -1,0 +1,17 @@
+{
+    "name": "ulceration of nasal septum",
+    "qid": "Q21117237",
+    "icd_10": "J34.0",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "nose disease",
+                "qid": "Q10267828"
+            }
+        ]
+    }
+}

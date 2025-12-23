@@ -1,0 +1,27 @@
+{
+    "name": "melasma",
+    "qid": "Q305190",
+    "icd_10": "L81.1",
+    "description": "tan or dark skin discoloration",
+    "aliases": [
+        "chloasma"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20naked%20torso%20of%20a%20man%20with%20a%20skin%20disease.%20Coloured%20litho%20Wellcome%20V0009860.jpg",
+    "url": "https://en.wikipedia.org/wiki/Melasma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "melanosis",
+                "qid": "Q6811539",
+                "url": "https://en.wikipedia.org/wiki/Melanosis"
+            }
+        ]
+    }
+}

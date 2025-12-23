@@ -1,0 +1,26 @@
+{
+    "name": "retroverted uterus",
+    "qid": "Q1069694",
+    "icd_10": "N85.4",
+    "description": "medical condition",
+    "aliases": [
+        "Retroverted uterus"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Retroverted_uterus",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "uterine disease",
+                "qid": "Q18555940"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "genu valgum",
+    "qid": "Q303231",
+    "icd_10": "M21.0",
+    "description": "orthopaedic condition known as \"knock knees\"",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Valgus.jpg",
+    "url": "https://en.wikipedia.org/wiki/Genu_valgum",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "valgus deformity",
+                "qid": "Q14541638",
+                "url": "https://en.wikipedia.org/wiki/Valgus_deformity"
+            },
+            {
+                "name": "knee disorder",
+                "qid": "Q18971535"
+            }
+        ]
+    }
+}

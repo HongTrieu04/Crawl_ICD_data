@@ -1,0 +1,25 @@
+{
+    "name": "immature personality disorder",
+    "qid": "Q101402572",
+    "icd_10": "F60.8",
+    "description": "Personality disorder",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Immature_personality_disorder",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "personality disorder",
+                "qid": "Q270673",
+                "url": "https://en.wikipedia.org/wiki/Personality_disorder"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "spinal cord compression",
+    "qid": "Q2990703",
+    "icd_10": "G95.2",
+    "description": "undue compressive force on the spinal cord",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Spinal_cord_compression",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "spinal cord disease",
+                "qid": "Q2303951",
+                "url": "https://en.wikipedia.org/wiki/Myelopathy"
+            }
+        ]
+    }
+}

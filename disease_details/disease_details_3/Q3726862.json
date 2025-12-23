@@ -1,0 +1,44 @@
+{
+    "name": "junctional epidermolysis bullosa",
+    "qid": "Q3726862",
+    "icd_10": "Q81.8",
+    "description": "skin condition characterized by blister formation within the lamina lucida of the basement membrane zone",
+    "aliases": [
+        "JEB",
+        "EBJ",
+        "congenital junctional epidermolysis bullosa",
+        "Congenital junctional epidermolysis bullosa (disorder)",
+        "Epidermolysis bullosa atrophicans",
+        "Epidermolysis bullosa, junctional"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Junctional_epidermolysis_bullosa_(medicine)",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "epidermolysis bullosa",
+                "qid": "Q923020",
+                "url": "https://en.wikipedia.org/wiki/Epidermolysis_bullosa"
+            },
+            {
+                "name": "malformation syndrome with skin/mucosae involvement",
+                "qid": "Q55785402"
+            },
+            {
+                "name": "inherited epidermolysis bullosa",
+                "qid": "Q55788582"
+            },
+            {
+                "name": "rare disease with odontological manifestation",
+                "qid": "Q55789054"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

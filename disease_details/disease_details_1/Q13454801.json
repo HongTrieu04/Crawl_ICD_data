@@ -1,0 +1,27 @@
+{
+    "name": "Weil's disease",
+    "qid": "Q13454801",
+    "icd_10": "A27.0",
+    "description": null,
+    "aliases": [
+        "Weil disease"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "leptospirosis",
+                "qid": "Q155098",
+                "url": "https://en.wikipedia.org/wiki/Leptospirosis"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

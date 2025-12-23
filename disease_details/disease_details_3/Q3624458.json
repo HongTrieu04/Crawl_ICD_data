@@ -1,0 +1,25 @@
+{
+    "name": "tuberculous arthritis",
+    "qid": "Q3624458",
+    "icd_10": "M01.1",
+    "description": null,
+    "aliases": [
+        "Joint tuberculosis",
+        "Tuberculous rheumatism"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "septic arthritis",
+                "qid": "Q924421",
+                "url": "https://en.wikipedia.org/wiki/Septic_arthritis"
+            },
+            {
+                "name": "osteoarticular tuberculosis",
+                "qid": "Q6153637"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "fungal keratitis",
+    "qid": "Q5509171",
+    "icd_10": "H19.2",
+    "description": "Inflammation of the cornea due to fungal infection",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Fungal_keratitis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "keratitis",
+                "qid": "Q757838",
+                "url": "https://en.wikipedia.org/wiki/Keratitis"
+            },
+            {
+                "name": "fungal eye infection",
+                "qid": "Q55082311"
+            }
+        ]
+    }
+}

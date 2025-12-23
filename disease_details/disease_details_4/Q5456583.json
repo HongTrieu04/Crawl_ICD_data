@@ -1,0 +1,33 @@
+{
+    "name": "flaccid paralysis",
+    "qid": "Q5456583",
+    "icd_10": "G82.3",
+    "description": "clinical manifestation characterized by weakness or paralysis and reduced muscle tone",
+    "aliases": [
+        "floppy paralysis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Flaccid_paralysis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "paralysis",
+                "qid": "Q107231",
+                "url": "https://en.wikipedia.org/wiki/Paralysis"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "flaccid muscle tone",
+                "qid": "Q102187440"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ]
+    }
+}

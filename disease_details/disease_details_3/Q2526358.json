@@ -1,0 +1,30 @@
+{
+    "name": "hypercalciuria",
+    "qid": "Q2526358",
+    "icd_10": "E83.5",
+    "description": "elevated calcium in the urine",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hypercalciuria",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "urinary calcium",
+                "qid": "Q4210589",
+                "url": "https://en.wikipedia.org/wiki/Urinary_calcium"
+            },
+            {
+                "name": "calcium metabolism disease",
+                "qid": "Q5282519",
+                "url": "https://en.wikipedia.org/wiki/Disorders_of_calcium_metabolism"
+            }
+        ]
+    }
+}

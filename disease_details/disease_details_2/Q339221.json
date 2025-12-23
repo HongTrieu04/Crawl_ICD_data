@@ -1,0 +1,73 @@
+{
+    "name": "gynecomastia",
+    "qid": "Q339221",
+    "icd_10": "N62",
+    "description": "human disorder, which causes the appearance of breasts in males",
+    "aliases": [
+        "gynaecomastia",
+        "man boobs",
+        "moobs"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gynaecomastia.jpeg",
+    "url": "https://en.wikipedia.org/wiki/Gynecomastia",
+    "details": {
+        "Cause": [
+            {
+                "name": "medication",
+                "qid": "Q12140",
+                "url": "https://en.wikipedia.org/wiki/Medication"
+            },
+            {
+                "name": "malnutrition",
+                "qid": "Q12167",
+                "url": "https://en.wikipedia.org/wiki/Malnutrition"
+            },
+            {
+                "name": "obesity",
+                "qid": "Q12174",
+                "url": "https://en.wikipedia.org/wiki/Obesity"
+            },
+            {
+                "name": "liver cirrhosis",
+                "qid": "Q147778",
+                "url": "https://en.wikipedia.org/wiki/Cirrhosis"
+            },
+            {
+                "name": "chronic renal insufficiency",
+                "qid": "Q736715",
+                "url": "https://en.wikipedia.org/wiki/Chronic_kidney_disease"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            },
+            {
+                "name": "plastic surgery",
+                "qid": "Q182442",
+                "url": "https://en.wikipedia.org/wiki/Plastic_surgery"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "selective estrogen-receptor modulators",
+                "qid": "Q903917",
+                "url": "https://en.wikipedia.org/wiki/Selective_estrogen_receptor_modulator"
+            },
+            {
+                "name": "aromatase inhibitors",
+                "qid": "Q3040305",
+                "url": "https://en.wikipedia.org/wiki/Aromatase_inhibitor"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "sex differentiation disease",
+                "qid": "Q18554938",
+                "url": "https://en.wikipedia.org/wiki/Sex_differentiation_disorder"
+            }
+        ]
+    }
+}

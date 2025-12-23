@@ -1,0 +1,37 @@
+{
+    "name": "central serous retinopathy",
+    "qid": "Q1431217",
+    "icd_10": "H35.7",
+    "description": "eye disease that causes visual impairment, often temporary, usually in one eye; when the disorder is active, it is characterized by leakage of fluid under the retina that has a propensity to accumulate under the central macula",
+    "aliases": [
+        "CSC",
+        "CSR",
+        "central serous chorioretinopathy",
+        "Central serous chorioretinopathy after bone marrow transplantation",
+        "Central serous choroidopathy",
+        "Central Serous Retinopathy",
+        "CSCR"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Central_serous_chorioretinopathy",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "retinal disease",
+                "qid": "Q550455",
+                "url": "https://en.wikipedia.org/wiki/Retinopathy"
+            },
+            {
+                "name": "rare acquired eye disease",
+                "qid": "Q55785265"
+            }
+        ]
+    }
+}

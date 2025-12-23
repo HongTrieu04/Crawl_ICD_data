@@ -1,0 +1,35 @@
+{
+    "name": "vascular malformation",
+    "qid": "Q121576",
+    "icd_10": "Q28",
+    "description": "congenital disease",
+    "aliases": [
+        "congenital vascular anomaly",
+        "congenital vascular malformation",
+        "Vascular Malformation",
+        "Vascular Malformations"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lymphangioma.jpg",
+    "url": "https://en.wikipedia.org/wiki/Vascular_malformation",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "congenital disorder",
+                "qid": "Q727096",
+                "url": "https://en.wikipedia.org/wiki/Birth_defect"
+            },
+            {
+                "name": "vascular anomaly",
+                "qid": "Q7916449",
+                "url": "https://en.wikipedia.org/wiki/Vascular_anomaly"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

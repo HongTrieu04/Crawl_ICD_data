@@ -1,0 +1,68 @@
+{
+    "name": "febrile neutrophilic dermatosis",
+    "qid": "Q1514476",
+    "icd_10": "L98.2",
+    "description": "skin disease",
+    "aliases": [
+        "acute febrile neutrophilic dermatosis",
+        "Afnd",
+        "Gomm-Button Disease",
+        "NEUTROPHILIC DERMATOSIS, ACUTE FEBRILE",
+        "Sweet Syndrome",
+        "Sweet's disease",
+        "Sweet's syndrome"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sweet-syndrome%20skin.png",
+    "url": "https://en.wikipedia.org/wiki/Febrile_neutrophilic_dermatosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "reactive neutrophilic dermatose",
+                "qid": "Q7300315",
+                "url": "https://en.wikipedia.org/wiki/Reactive_neutrophilic_dermatoses"
+            },
+            {
+                "name": "skin disease",
+                "qid": "Q949302",
+                "url": "https://en.wikipedia.org/wiki/Skin_condition"
+            },
+            {
+                "name": "erythema",
+                "qid": "Q1166142",
+                "url": "https://en.wikipedia.org/wiki/Erythema"
+            },
+            {
+                "name": "allergy",
+                "qid": "Q42982",
+                "url": "https://en.wikipedia.org/wiki/Allergy"
+            },
+            {
+                "name": "rare rheumatologic disease",
+                "qid": "Q55785828"
+            },
+            {
+                "name": "other acquired skin disease",
+                "qid": "Q55788714"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "allergic response",
+                "qid": "Q4732121",
+                "url": "https://en.wikipedia.org/wiki/Allergic_response"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ]
+    }
+}

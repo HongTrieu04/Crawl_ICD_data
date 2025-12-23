@@ -1,0 +1,25 @@
+{
+    "name": "subacute cutaneous lupus erythematosus",
+    "qid": "Q7630706",
+    "icd_10": "L93.1",
+    "description": "medical condition",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Subacute%20cutaneous%20lupus%20erythematosus.jpg",
+    "url": "https://en.wikipedia.org/wiki/Subacute_cutaneous_lupus_erythematosus",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "cutaneous lupus erythematosus",
+                "qid": "Q18553226",
+                "url": "https://en.wikipedia.org/wiki/Cutaneous_lupus_erythematosus"
+            }
+        ]
+    }
+}

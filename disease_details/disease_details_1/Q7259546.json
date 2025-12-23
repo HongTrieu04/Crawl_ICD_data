@@ -1,0 +1,33 @@
+{
+    "name": "pulmonary injury",
+    "qid": "Q7259546",
+    "icd_10": "S27.3",
+    "description": "type of injury",
+    "aliases": [
+        "lung injuries",
+        "lung injury",
+        "lung toxicity"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "chest trauma",
+                "qid": "Q368370",
+                "url": "https://en.wikipedia.org/wiki/Chest_injury"
+            },
+            {
+                "name": "lung disease",
+                "qid": "Q3392853"
+            }
+        ]
+    }
+}

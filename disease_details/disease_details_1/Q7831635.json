@@ -1,0 +1,25 @@
+{
+    "name": "traction alopecia",
+    "qid": "Q7831635",
+    "icd_10": "L65.8",
+    "description": "hair loss due to constant pulling",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Traction_alopecia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "alopecia",
+                "qid": "Q2697787",
+                "url": "https://en.wikipedia.org/wiki/Alopecia"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ]
+    }
+}

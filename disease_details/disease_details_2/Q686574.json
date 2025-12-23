@@ -1,0 +1,53 @@
+{
+    "name": "endometrial hyperplasia",
+    "qid": "Q686574",
+    "icd_10": "N85.0",
+    "description": "uterine benign neoplasm that is characterized by excessive proliferation of the cells of the endometrium",
+    "aliases": [
+        "EH",
+        "Endometrial hyperplasia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Endometrial_hyperplasia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "uterine benign neoplasm",
+                "qid": "Q18553655"
+            },
+            {
+                "name": "endometrial disease",
+                "qid": "Q18553772"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gynaecology",
+                "qid": "Q1221899",
+                "url": "https://en.wikipedia.org/wiki/Gynaecology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "norethynodrel",
+                "qid": "Q5659069",
+                "url": "https://en.wikipedia.org/wiki/Noretynodrel"
+            },
+            {
+                "name": "norethisterone",
+                "qid": "Q421352",
+                "url": "https://en.wikipedia.org/wiki/Norethisterone"
+            },
+            {
+                "name": "progesterone",
+                "qid": "Q26963",
+                "url": "https://en.wikipedia.org/wiki/Progesterone"
+            }
+        ]
+    }
+}

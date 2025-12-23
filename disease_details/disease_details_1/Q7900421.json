@@ -1,0 +1,30 @@
+{
+    "name": "ureteral neoplasm",
+    "qid": "Q7900421",
+    "icd_10": "C66",
+    "description": "cancer or tumors of the ureter",
+    "aliases": [
+        "ureteral neoplasms"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cystoscopy%20-%20Uretereal%20Cancer.jpg",
+    "url": "https://en.wikipedia.org/wiki/Ureteral_neoplasm",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "ureteral disease",
+                "qid": "Q18554726"
+            },
+            {
+                "name": "urinary system neoplasm",
+                "qid": "Q56014472"
+            }
+        ]
+    }
+}

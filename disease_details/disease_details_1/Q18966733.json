@@ -1,0 +1,20 @@
+{
+    "name": "muscle syphilis",
+    "qid": "Q18966733",
+    "icd_10": "A52.7",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete muscle syphilis",
+        "Syphilis of muscle (disorder)"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "tertiary syphilis",
+                "qid": "Q18557869"
+            }
+        ]
+    }
+}

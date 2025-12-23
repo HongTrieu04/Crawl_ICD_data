@@ -1,0 +1,52 @@
+{
+    "name": "microscopic polyangiitis",
+    "qid": "Q1934069",
+    "icd_10": "M31.7",
+    "description": "inflammatory, necrotizing, systemic vasculitis that affects predominantly small vessels in multiple organs",
+    "aliases": [
+        "MPA",
+        "Micropolyangiitis",
+        "Microscopic polyarteritis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Microscopic_polyangiitis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "immunology",
+                "qid": "Q101929",
+                "url": "https://en.wikipedia.org/wiki/Immunology"
+            },
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "rituximab",
+                "qid": "Q412323",
+                "url": "https://en.wikipedia.org/wiki/Rituximab"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "anti-neutrophil cytoplasmic antibody-associated vasculitis",
+                "qid": "Q17239200"
+            },
+            {
+                "name": "peripheral vascular disease",
+                "qid": "Q26695607"
+            },
+            {
+                "name": "systemic inflammatory disease associated with an acquired peripheral neuropathy",
+                "qid": "Q55785994"
+            },
+            {
+                "name": "secondary glomerular disease",
+                "qid": "Q55788835"
+            }
+        ]
+    }
+}

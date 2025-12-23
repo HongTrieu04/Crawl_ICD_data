@@ -1,0 +1,27 @@
+{
+    "name": "pulmonary hemorrhage",
+    "qid": "Q7259529",
+    "icd_10": "P26",
+    "description": "medical condition",
+    "aliases": [
+        "pulmonary haemorrhage"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pulmonary%20hemorrhage%20-%20Blood%20Vessel%20Mineralization.jpg",
+    "url": "https://en.wikipedia.org/wiki/Pulmonary_hemorrhage",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "bleeding",
+                "qid": "Q166019",
+                "url": "https://en.wikipedia.org/wiki/Bleeding"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ]
+    }
+}

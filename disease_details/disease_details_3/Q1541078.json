@@ -1,0 +1,34 @@
+{
+    "name": "Achard–Thiers syndrome",
+    "qid": "Q1541078",
+    "icd_10": "E25.9",
+    "description": "Achard–Thiers syndrome combines the features of adrenogenital syndrome and Cushing syndrome. It occurs mainly in post-menopausal women",
+    "aliases": [
+        "Achard Thiers syndrome",
+        "Diabetes in bearded women",
+        "diabetic-bearded woman syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Achard%E2%80%93Thiers_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "diabetes",
+                "qid": "Q12206",
+                "url": "https://en.wikipedia.org/wiki/Diabetes"
+            },
+            {
+                "name": "hirsutism",
+                "qid": "Q1620594",
+                "url": "https://en.wikipedia.org/wiki/Hirsutism"
+            }
+        ]
+    }
+}

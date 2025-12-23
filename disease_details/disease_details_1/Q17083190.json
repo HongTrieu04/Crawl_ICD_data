@@ -1,0 +1,32 @@
+{
+    "name": "cerebral atherosclerosis",
+    "qid": "Q17083190",
+    "icd_10": "I67.2",
+    "description": "type of atherosclerosis where build-up of plaque in the blood vessels of the brain occurs",
+    "aliases": [
+        "atheroma of cerebral arteries",
+        "Cerebral atherosclerosis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Cerebral_atherosclerosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "atherosclerosis",
+                "qid": "Q12252367",
+                "url": "https://en.wikipedia.org/wiki/Atherosclerosis"
+            },
+            {
+                "name": "intracranial arteriosclerosis",
+                "qid": "Q27680586"
+            }
+        ]
+    }
+}

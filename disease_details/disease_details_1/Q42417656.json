@@ -1,0 +1,24 @@
+{
+    "name": "Knee buckling",
+    "qid": "Q42417656",
+    "icd_10": "M23.5",
+    "description": "medical condition",
+    "aliases": [
+        "knee instability",
+        "knee weakness"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Buckling123-.jpg",
+    "url": "https://en.wikipedia.org/wiki/Knee_buckling",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "knee disorder",
+                "qid": "Q18971535"
+            },
+            {
+                "name": "joint instability",
+                "qid": "Q25385201"
+            }
+        ]
+    }
+}

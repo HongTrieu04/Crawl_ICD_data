@@ -1,0 +1,25 @@
+{
+    "name": "excess skin",
+    "qid": "Q24026721",
+    "icd_10": "L98.7",
+    "description": "surplus skin and fat after weight loss or pregnancy",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Excess_skin",
+    "details": {
+        "Possible treatment": [
+            {
+                "name": "abdominoplasty",
+                "qid": "Q811133",
+                "url": "https://en.wikipedia.org/wiki/Abdominoplasty"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "skin disease",
+                "qid": "Q949302",
+                "url": "https://en.wikipedia.org/wiki/Skin_condition"
+            }
+        ]
+    }
+}

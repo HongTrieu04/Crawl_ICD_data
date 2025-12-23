@@ -1,0 +1,269 @@
+{
+    "name": "schizophrenia",
+    "qid": "Q41112",
+    "icd_10": "F20",
+    "description": "psychotic disorder characterized by emotional responsiveness and disintegration of thought process",
+    "aliases": [
+        "dementia praecox",
+        "dementia præcox",
+        "Kraepelin-Morel disease",
+        "Morel-Kraepelin disease",
+        "schizophrenia-1"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cloth%20embroidered%20by%20a%20schizophrenia%20sufferer.jpg",
+    "url": "https://en.wikipedia.org/wiki/Schizophrenia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "clinical psychology",
+                "qid": "Q199906",
+                "url": "https://en.wikipedia.org/wiki/Clinical_psychology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "psychotic disorder",
+                "qid": "Q115991831",
+                "url": "https://en.wikipedia.org/wiki/Psychotic_disorder"
+            },
+            {
+                "name": "schizophrenia spectrum disorder",
+                "qid": "Q2903417",
+                "url": "https://en.wikipedia.org/wiki/Schizophrenia_spectrum"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "hallucination",
+                "qid": "Q130741",
+                "url": "https://en.wikipedia.org/wiki/Hallucination"
+            },
+            {
+                "name": "inappropriate affect",
+                "qid": "Q131744259",
+                "url": "https://en.wikipedia.org/wiki/Inappropriate_affect"
+            },
+            {
+                "name": "reduced affect display",
+                "qid": "Q2973381",
+                "url": "https://en.wikipedia.org/wiki/Reduced_affect_display"
+            },
+            {
+                "name": "auditory hallucination",
+                "qid": "Q1054088",
+                "url": "https://en.wikipedia.org/wiki/Auditory_hallucination"
+            },
+            {
+                "name": "thought disorder",
+                "qid": "Q1188698",
+                "url": "https://en.wikipedia.org/wiki/Thought_disorder"
+            },
+            {
+                "name": "psychosis",
+                "qid": "Q170082",
+                "url": "https://en.wikipedia.org/wiki/Psychosis"
+            },
+            {
+                "name": "delusion",
+                "qid": "Q189643",
+                "url": "https://en.wikipedia.org/wiki/Delusion"
+            },
+            {
+                "name": "cognitive dysfunction",
+                "qid": "Q57859955"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "thioridazine",
+                "qid": "Q58375",
+                "url": "https://en.wikipedia.org/wiki/Thioridazine"
+            },
+            {
+                "name": "fluphenazine",
+                "qid": "Q58376",
+                "url": "https://en.wikipedia.org/wiki/Fluphenazine"
+            },
+            {
+                "name": "loxapine",
+                "qid": "Q58614",
+                "url": "https://en.wikipedia.org/wiki/Loxapine"
+            },
+            {
+                "name": "olanzapine",
+                "qid": "Q201872",
+                "url": "https://en.wikipedia.org/wiki/Olanzapine"
+            },
+            {
+                "name": "ziprasidone",
+                "qid": "Q205517",
+                "url": "https://en.wikipedia.org/wiki/Ziprasidone"
+            },
+            {
+                "name": "clozapine",
+                "qid": "Q221361",
+                "url": "https://en.wikipedia.org/wiki/Clozapine"
+            },
+            {
+                "name": "zotepine",
+                "qid": "Q226905",
+                "url": "https://en.wikipedia.org/wiki/Zotepine"
+            },
+            {
+                "name": "haloperidol",
+                "qid": "Q251347",
+                "url": "https://en.wikipedia.org/wiki/Haloperidol"
+            },
+            {
+                "name": "reserpine",
+                "qid": "Q407841",
+                "url": "https://en.wikipedia.org/wiki/Reserpine"
+            },
+            {
+                "name": "chlorpromazine",
+                "qid": "Q407972",
+                "url": "https://en.wikipedia.org/wiki/Chlorpromazine"
+            },
+            {
+                "name": "clonazepam",
+                "qid": "Q407988",
+                "url": "https://en.wikipedia.org/wiki/Clonazepam"
+            },
+            {
+                "name": "carbamazepin",
+                "qid": "Q410412",
+                "url": "https://en.wikipedia.org/wiki/Carbamazepine"
+            },
+            {
+                "name": "aripiprazole",
+                "qid": "Q411188",
+                "url": "https://en.wikipedia.org/wiki/Aripiprazole"
+            },
+            {
+                "name": "cariprazine",
+                "qid": "Q2938837",
+                "url": "https://en.wikipedia.org/wiki/Cariprazine"
+            },
+            {
+                "name": "iloperidone",
+                "qid": "Q4199443",
+                "url": "https://en.wikipedia.org/wiki/Iloperidone"
+            },
+            {
+                "name": "acetophenazine",
+                "qid": "Q4673284",
+                "url": "https://en.wikipedia.org/wiki/Acetophenazine"
+            },
+            {
+                "name": "carphenazine",
+                "qid": "Q5045786",
+                "url": "https://en.wikipedia.org/wiki/Carfenazine"
+            },
+            {
+                "name": "mesoridazine",
+                "qid": "Q6821618",
+                "url": "https://en.wikipedia.org/wiki/Mesoridazine"
+            },
+            {
+                "name": "flupentixol",
+                "qid": "Q27164953",
+                "url": "https://en.wikipedia.org/wiki/Flupentixol"
+            },
+            {
+                "name": "levosulpiride",
+                "qid": "Q1452256",
+                "url": "https://en.wikipedia.org/wiki/Levosulpiride"
+            },
+            {
+                "name": "trifluoperazine",
+                "qid": "Q1752915",
+                "url": "https://en.wikipedia.org/wiki/Trifluoperazine"
+            },
+            {
+                "name": "(Z)-thiothixene",
+                "qid": "Q2608288",
+                "url": "https://en.wikipedia.org/wiki/Tiotixene"
+            },
+            {
+                "name": "brexpiprazole",
+                "qid": "Q2924764",
+                "url": "https://en.wikipedia.org/wiki/Brexpiprazole"
+            },
+            {
+                "name": "pimozide",
+                "qid": "Q144085",
+                "url": "https://en.wikipedia.org/wiki/Pimozide"
+            },
+            {
+                "name": "risperidone",
+                "qid": "Q412443",
+                "url": "https://en.wikipedia.org/wiki/Risperidone"
+            },
+            {
+                "name": "bexarotene",
+                "qid": "Q418192",
+                "url": "https://en.wikipedia.org/wiki/Bexarotene"
+            },
+            {
+                "name": "(RS)-amisulpride",
+                "qid": "Q418785",
+                "url": "https://en.wikipedia.org/wiki/Amisulpride"
+            },
+            {
+                "name": "armodafinil",
+                "qid": "Q418913",
+                "url": "https://en.wikipedia.org/wiki/Armodafinil"
+            },
+            {
+                "name": "paliperidone",
+                "qid": "Q423292",
+                "url": "https://en.wikipedia.org/wiki/Paliperidone"
+            },
+            {
+                "name": "perphenazine",
+                "qid": "Q423520",
+                "url": "https://en.wikipedia.org/wiki/Perphenazine"
+            },
+            {
+                "name": "(E)-chlorprothixene (Z according to WHO INN RL 40, conflated wikidata)",
+                "qid": "Q423809",
+                "url": "https://en.wikipedia.org/wiki/Chlorprothixene"
+            },
+            {
+                "name": "pipotiazine",
+                "qid": "Q567927",
+                "url": "https://en.wikipedia.org/wiki/Pipotiazine"
+            },
+            {
+                "name": "(±)-molindone",
+                "qid": "Q593166",
+                "url": "https://en.wikipedia.org/wiki/Molindone"
+            },
+            {
+                "name": "transclopenthixol",
+                "qid": "Q27278051"
+            },
+            {
+                "name": "(R,R)-asenapine",
+                "qid": "Q50824517"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "psychotherapy",
+                "qid": "Q183257",
+                "url": "https://en.wikipedia.org/wiki/Psychotherapy"
+            }
+        ]
+    }
+}

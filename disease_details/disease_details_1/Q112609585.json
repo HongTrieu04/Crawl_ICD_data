@@ -1,0 +1,22 @@
+{
+    "name": "Polymetatarsia",
+    "qid": "Q112609585",
+    "icd_10": "Q69.2",
+    "description": "medical condition",
+    "aliases": [
+        "Accessory toe",
+        "foot polydactyly",
+        "Polydactyly of toes"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Polymetatarsia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "foot diseases",
+                "qid": "Q5282137",
+                "url": "https://en.wikipedia.org/wiki/Diseases_of_the_foot"
+            }
+        ]
+    }
+}

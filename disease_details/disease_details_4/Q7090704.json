@@ -1,0 +1,31 @@
+{
+    "name": "Omphalomesenteric duct cyst",
+    "qid": "Q7090704",
+    "icd_10": "Q43.0",
+    "description": "human disease",
+    "aliases": [
+        "omphalomesenteric duct remnant"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Omphalomesenteric_duct_cyst",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "cyst",
+                "qid": "Q193211",
+                "url": "https://en.wikipedia.org/wiki/Cyst"
+            },
+            {
+                "name": "non-syndromic diaphragmatic or abdominal wall malformation",
+                "qid": "Q55785333"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "vitelline duct",
+                "qid": "Q2624223",
+                "url": "https://en.wikipedia.org/wiki/Vitelline_duct"
+            }
+        ]
+    }
+}

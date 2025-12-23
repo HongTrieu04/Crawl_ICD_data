@@ -1,0 +1,27 @@
+{
+    "name": "cysticercosis cutis",
+    "qid": "Q5201216",
+    "icd_10": "B69.8",
+    "description": "medical condition",
+    "aliases": [
+        "Cysticercosis of skin"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Cysticercosis_cutis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "cysticercosis",
+                "qid": "Q246068",
+                "url": "https://en.wikipedia.org/wiki/Cysticercosis"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Taenia solium",
+                "qid": "Q565708",
+                "url": "https://en.wikipedia.org/wiki/Taenia_solium"
+            }
+        ]
+    }
+}

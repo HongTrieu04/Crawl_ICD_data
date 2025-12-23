@@ -1,0 +1,33 @@
+{
+    "name": "Herpesviral meningitis",
+    "qid": "Q5743663",
+    "icd_10": "B00.3",
+    "description": "Simplexvirus infectious disease that results in inflammation located in meninges, has material basis in Human herpesvirus 2 and has symptom headache, has symptom fever, and has symptom meningism",
+    "aliases": [
+        "Herpes simplex virus meningitis",
+        "Mollaret's meningitis",
+        "obsolete Herpes simplex virus meningitis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Herpes_meningitis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "viral meningitis",
+                "qid": "Q3301664",
+                "url": "https://en.wikipedia.org/wiki/Viral_meningitis"
+            },
+            {
+                "name": "Herpesviridae infectious disease",
+                "qid": "Q18975237"
+            }
+        ]
+    }
+}

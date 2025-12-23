@@ -1,0 +1,25 @@
+{
+    "name": "chronic respiratory failure",
+    "qid": "Q3152925",
+    "icd_10": "J96.1",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "respiratory failure",
+                "qid": "Q767485",
+                "url": "https://en.wikipedia.org/wiki/Respiratory_failure"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "chronic obstructive pulmonary disease",
+                "qid": "Q199804",
+                "url": "https://en.wikipedia.org/wiki/Chronic_obstructive_pulmonary_disease"
+            }
+        ]
+    }
+}

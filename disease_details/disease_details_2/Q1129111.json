@@ -1,0 +1,27 @@
+{
+    "name": "Philadelphia chromosome",
+    "qid": "Q1129111",
+    "icd_10": "C92.1",
+    "description": "specific chromosomal abnormality",
+    "aliases": [
+        "Philadelphia translocation"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bcrablmet.jpg",
+    "url": "https://en.wikipedia.org/wiki/Philadelphia_chromosome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "chromosomal translocation",
+                "qid": "Q916504",
+                "url": "https://en.wikipedia.org/wiki/Chromosomal_translocation"
+            }
+        ]
+    }
+}

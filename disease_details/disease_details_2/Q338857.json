@@ -1,0 +1,45 @@
+{
+    "name": "Minamata disease",
+    "qid": "Q338857",
+    "icd_10": "T56.1",
+    "description": "a severe neurological disease caused by mercury poisoning, first discovered in the Japanese city of Minamata.",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Minamata_disease",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "environmental disease",
+                "qid": "Q3751709",
+                "url": "https://en.wikipedia.org/wiki/Environmental_disease"
+            },
+            {
+                "name": "mercury poisoning",
+                "qid": "Q408089",
+                "url": "https://en.wikipedia.org/wiki/Mercury_poisoning"
+            },
+            {
+                "name": "pollution-related disease",
+                "qid": "Q995620"
+            },
+            {
+                "name": "erethism",
+                "qid": "Q1350035"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "methylmercury(1+)",
+                "qid": "Q414075",
+                "url": "https://en.wikipedia.org/wiki/Methylmercury"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ]
+    }
+}

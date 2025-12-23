@@ -1,0 +1,21 @@
+{
+    "name": "postural kyphosis",
+    "qid": "Q16591749",
+    "icd_10": "M40.0",
+    "description": "Human disease",
+    "aliases": [
+        "Kyphosis-lordosis posture",
+        "obsolete postural kyphosis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "abnormal kyphosis",
+                "qid": "Q478389",
+                "url": "https://en.wikipedia.org/wiki/Kyphosis"
+            }
+        ]
+    }
+}

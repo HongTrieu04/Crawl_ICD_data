@@ -1,0 +1,18 @@
+{
+    "name": "Dermatophagoides allergy",
+    "qid": "Q4159002",
+    "icd_10": "B88.08",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "dust mite allergy",
+                "qid": "Q1286499",
+                "url": "https://en.wikipedia.org/wiki/Dust_mite_allergy"
+            }
+        ]
+    }
+}

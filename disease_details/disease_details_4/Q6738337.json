@@ -1,0 +1,32 @@
+{
+    "name": "major depressive episode",
+    "qid": "Q6738337",
+    "icd_10": "F32.3",
+    "description": "a period characterized by the symptoms of major depressive disorder",
+    "aliases": [
+        "depressive episode",
+        "depressive episodicity"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Major_depressive_episode",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "major depressive disorder",
+                "qid": "Q42844",
+                "url": "https://en.wikipedia.org/wiki/Major_depressive_disorder"
+            },
+            {
+                "name": "mood episodicity",
+                "qid": "Q130379849"
+            }
+        ]
+    }
+}

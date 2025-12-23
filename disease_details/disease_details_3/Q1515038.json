@@ -1,0 +1,44 @@
+{
+    "name": "thyroid hormone resistance syndrome",
+    "qid": "Q1515038",
+    "icd_10": "E07",
+    "description": "Human disease",
+    "aliases": [
+        "RTH",
+        "Generalized thyroid hormone resistance",
+        "Generalized thyroid hormone resistance (disorder)",
+        "Refetoff syndrome",
+        "Refetoff syndrome (disorder)",
+        "resistance to thyroid hormone",
+        "Resistance to thyroid hormone",
+        "Syndrome of resistance to thyroid hormone",
+        "Thyroid hormone insensitivity syndrome",
+        "thyroid hormone resistance",
+        "Thyroid hormone resistance syndrome",
+        "Thyroid hormone resistance syndrome (disorder)",
+        "Thyroid hormone responsiveness defect",
+        "Thyroid hormone responsiveness defect (disorder)"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Thyroid_hormone_resistance",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "hypothyroidism",
+                "qid": "Q16501",
+                "url": "https://en.wikipedia.org/wiki/Hypothyroidism"
+            },
+            {
+                "name": "peripheral resistance to thyroid hormones",
+                "qid": "Q56014388"
+            }
+        ]
+    }
+}

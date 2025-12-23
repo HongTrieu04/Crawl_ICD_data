@@ -1,0 +1,37 @@
+{
+    "name": "atypical chronic myeloid leukemia",
+    "qid": "Q11663712",
+    "icd_10": "C92.2",
+    "description": "myelodysplastic myeloproliferative neoplasm characterized by the principal involvement of the neutrophil series with leukocytosis and multilineage dysplasia",
+    "aliases": [
+        "aCML",
+        "atypical chronic myeloid leukemia BCR-ABL1 negative",
+        "atypical CML",
+        "Leukemia, Myeloid, Chronic, Atypical, BCR-ABL Negative",
+        "subacute granulocytic leukemia",
+        "subacute myelogenous leukemia",
+        "subacute myeloid leukemia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Atypical_chronic_myeloid_leukemia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "chronic myeloid leukemia",
+                "qid": "Q729735",
+                "url": "https://en.wikipedia.org/wiki/Chronic_myelogenous_leukemia"
+            },
+            {
+                "name": "myelodysplastic/myeloproliferative neoplasm",
+                "qid": "Q18556570"
+            }
+        ]
+    }
+}

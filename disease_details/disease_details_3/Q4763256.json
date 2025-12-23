@@ -1,0 +1,25 @@
+{
+    "name": "angiofibroma",
+    "qid": "Q4763256",
+    "icd_10": "D10.6",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Angiofibroma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "vascular tissue neoplasm",
+                "qid": "Q7916470",
+                "url": "https://en.wikipedia.org/wiki/Vascular_tissue_neoplasm"
+            }
+        ]
+    }
+}

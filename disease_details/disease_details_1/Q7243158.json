@@ -1,0 +1,28 @@
+{
+    "name": "Primary pulmonary coccidioidomycosis",
+    "qid": "Q7243158",
+    "icd_10": "B38.2",
+    "description": "Human disease",
+    "aliases": [
+        "chronic pulmonary coccidioidomycosis",
+        "desert fever",
+        "obsolete primary pulmonary coccidioidomycosis",
+        "primary pulmonary coccidioidomycosis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Primary_pulmonary_coccidioidomycosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "coccidioidomycosis",
+                "qid": "Q868137",
+                "url": "https://en.wikipedia.org/wiki/Coccidioidomycosis"
+            },
+            {
+                "name": "fungal pneumonia",
+                "qid": "Q5509174",
+                "url": "https://en.wikipedia.org/wiki/Fungal_pneumonia"
+            }
+        ]
+    }
+}

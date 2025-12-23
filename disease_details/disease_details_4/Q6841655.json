@@ -1,0 +1,28 @@
+{
+    "name": "middle back pain",
+    "qid": "Q6841655",
+    "icd_10": "M54.6",
+    "description": "type of pain felt between the bottom of the neck and top of the lumbar spine",
+    "aliases": [
+        "thoracic pain",
+        "upper back pain"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Middle_back_pain",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "physiotherapy",
+                "qid": "Q186005",
+                "url": "https://en.wikipedia.org/wiki/Physical_therapy"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "back pain",
+                "qid": "Q5781808",
+                "url": "https://en.wikipedia.org/wiki/Back_pain"
+            }
+        ]
+    }
+}

@@ -1,0 +1,117 @@
+{
+    "name": "endometriosis",
+    "qid": "Q205764",
+    "icd_10": "N80",
+    "description": "disease linked to the female reproductive system",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Endometriosis.jpg",
+    "url": "https://en.wikipedia.org/wiki/Endometriosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "female reproductive system disease",
+                "qid": "Q5442760",
+                "url": "https://en.wikipedia.org/wiki/Female_genital_disease"
+            },
+            {
+                "name": "endometrial disease",
+                "qid": "Q18553772"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "abdomen",
+                "qid": "Q9597",
+                "url": "https://en.wikipedia.org/wiki/Abdomen"
+            },
+            {
+                "name": "pelvis",
+                "qid": "Q713102",
+                "url": "https://en.wikipedia.org/wiki/Pelvis"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "leuprolide",
+                "qid": "Q907160",
+                "url": "https://en.wikipedia.org/wiki/Leuprorelin"
+            },
+            {
+                "name": "17α-hydroxyprogesterone",
+                "qid": "Q175901",
+                "url": "https://en.wikipedia.org/wiki/17%CE%B1-Hydroxyprogesterone"
+            },
+            {
+                "name": "desogestrel",
+                "qid": "Q415304",
+                "url": "https://en.wikipedia.org/wiki/Desogestrel"
+            },
+            {
+                "name": "medroxyprogesterone",
+                "qid": "Q416667",
+                "url": "https://en.wikipedia.org/wiki/Medroxyprogesterone"
+            },
+            {
+                "name": "goserelin",
+                "qid": "Q1992653",
+                "url": "https://en.wikipedia.org/wiki/Goserelin"
+            },
+            {
+                "name": "etonogestrel",
+                "qid": "Q3733839",
+                "url": "https://en.wikipedia.org/wiki/Etonogestrel"
+            },
+            {
+                "name": "levonorgestrel",
+                "qid": "Q416950",
+                "url": "https://en.wikipedia.org/wiki/Levonorgestrel"
+            },
+            {
+                "name": "danazol",
+                "qid": "Q419652",
+                "url": "https://en.wikipedia.org/wiki/Danazol"
+            },
+            {
+                "name": "norethisterone",
+                "qid": "Q421352",
+                "url": "https://en.wikipedia.org/wiki/Norethisterone"
+            },
+            {
+                "name": "nafarelin",
+                "qid": "Q3869873",
+                "url": "https://en.wikipedia.org/wiki/Nafarelin"
+            },
+            {
+                "name": "ethisterone",
+                "qid": "Q5403717",
+                "url": "https://en.wikipedia.org/wiki/Ethisterone"
+            },
+            {
+                "name": "ethynodiol diacetate",
+                "qid": "Q5405160",
+                "url": "https://en.wikipedia.org/wiki/Etynodiol_diacetate"
+            },
+            {
+                "name": "goserelin acetate",
+                "qid": "Q27265738",
+                "url": "https://en.wikipedia.org/wiki/Goserelin_acetate"
+            },
+            {
+                "name": "ethinyl estradiol / norethindrone",
+                "qid": "Q48566776"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gynaecology",
+                "qid": "Q1221899",
+                "url": "https://en.wikipedia.org/wiki/Gynaecology"
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "name": "long covid",
+    "qid": "Q100732653",
+    "icd_10": "U09.9",
+    "description": "infection-associated chronic condition that occurs after SARS-CoV-2 infection",
+    "aliases": [
+        "Chronic coronavirus disease Syndrome",
+        "Chronic covid Syndrome",
+        "Long-haul coronavirus disease",
+        "Long-haul covid",
+        "PASC",
+        "Post-acute covid syndrome",
+        "Post-Acute COVID-19 Syndrome",
+        "Post-acute sequelae of covid",
+        "Post-Acute Sequelae of COVID-19",
+        "Post-Acute Sequelae of SARS-CoV-2 infection",
+        "Post-Acute Sequelae of Severe acute respiratory syndrome coronavirus 2",
+        "Post-coronavirus disease syndrome",
+        "Post-coronavirus disease-2019 syndrome",
+        "Post-covid condition",
+        "Post-covid syndrome",
+        "post-COVID-19 condition",
+        "Post-COVID-19 syndrome",
+        "Post–COVID-19 Condition"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Long%20term%20covid-19.jpg",
+    "url": "https://en.wikipedia.org/wiki/Long_COVID",
+    "details": {
+        "Cause": [
+            {
+                "name": "COVID-19",
+                "qid": "Q84263196",
+                "url": "https://en.wikipedia.org/wiki/COVID-19"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "COVID-19",
+                "qid": "Q84263196",
+                "url": "https://en.wikipedia.org/wiki/COVID-19"
+            }
+        ]
+    }
+}

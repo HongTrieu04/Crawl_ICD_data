@@ -1,0 +1,27 @@
+{
+    "name": "Schmorl's nodes",
+    "qid": "Q1524867",
+    "icd_10": "M51.4",
+    "description": "medical condition",
+    "aliases": [
+        "Schmorl's nodules"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Roe-schmorl.jpg",
+    "url": "https://en.wikipedia.org/wiki/Schmorl%27s_nodes",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "spinal disease",
+                "qid": "Q7577457",
+                "url": "https://en.wikipedia.org/wiki/Spinal_disease"
+            }
+        ]
+    }
+}

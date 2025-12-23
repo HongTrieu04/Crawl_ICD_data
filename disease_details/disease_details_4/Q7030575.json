@@ -1,0 +1,289 @@
+{
+    "name": "nicotine poisoning",
+    "qid": "Q7030575",
+    "icd_10": "T65.2",
+    "description": "hazardous chemical exposure",
+    "aliases": [
+        "nicotine exposure"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Nicotine_poisoning",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            },
+            {
+                "name": "fatigue",
+                "qid": "Q9690",
+                "url": "https://en.wikipedia.org/wiki/Fatigue"
+            },
+            {
+                "name": "deafness",
+                "qid": "Q12133",
+                "url": "https://en.wikipedia.org/wiki/Deafness"
+            },
+            {
+                "name": "diarrhea",
+                "qid": "Q40878",
+                "url": "https://en.wikipedia.org/wiki/Diarrhea"
+            },
+            {
+                "name": "arterial hypertension",
+                "qid": "Q41861",
+                "url": "https://en.wikipedia.org/wiki/Hypertension"
+            },
+            {
+                "name": "allergy",
+                "qid": "Q42982",
+                "url": "https://en.wikipedia.org/wiki/Allergy"
+            },
+            {
+                "name": "heart arrhythmia",
+                "qid": "Q189331",
+                "url": "https://en.wikipedia.org/wiki/Arrhythmia"
+            },
+            {
+                "name": "tachycardia",
+                "qid": "Q209583",
+                "url": "https://en.wikipedia.org/wiki/Tachycardia"
+            },
+            {
+                "name": "ataxia",
+                "qid": "Q213373",
+                "url": "https://en.wikipedia.org/wiki/Ataxia"
+            },
+            {
+                "name": "bradycardia",
+                "qid": "Q217111",
+                "url": "https://en.wikipedia.org/wiki/Bradycardia"
+            },
+            {
+                "name": "nausea",
+                "qid": "Q186889",
+                "url": "https://en.wikipedia.org/wiki/Nausea"
+            },
+            {
+                "name": "dyspnea",
+                "qid": "Q188008",
+                "url": "https://en.wikipedia.org/wiki/Shortness_of_breath"
+            },
+            {
+                "name": "balance disorder",
+                "qid": "Q3540864",
+                "url": "https://en.wikipedia.org/wiki/Balance_disorder"
+            },
+            {
+                "name": "Green Tobacco Sickness",
+                "qid": "Q5603286",
+                "url": "https://en.wikipedia.org/wiki/Green_Tobacco_Sickness"
+            },
+            {
+                "name": "dizziness",
+                "qid": "Q10916362",
+                "url": "https://en.wikipedia.org/wiki/Dizziness"
+            },
+            {
+                "name": "erythema",
+                "qid": "Q1166142",
+                "url": "https://en.wikipedia.org/wiki/Erythema"
+            },
+            {
+                "name": "fasciculation",
+                "qid": "Q1397878",
+                "url": "https://en.wikipedia.org/wiki/Fasciculation"
+            },
+            {
+                "name": "hyporeflexia",
+                "qid": "Q1419356",
+                "url": "https://en.wikipedia.org/wiki/Hyporeflexia"
+            },
+            {
+                "name": "hyperpnea",
+                "qid": "Q1641075",
+                "url": "https://en.wikipedia.org/wiki/Hyperpnea"
+            },
+            {
+                "name": "hypoventilation",
+                "qid": "Q1641494",
+                "url": "https://en.wikipedia.org/wiki/Hypoventilation"
+            },
+            {
+                "name": "hypotonia",
+                "qid": "Q1753547",
+                "url": "https://en.wikipedia.org/wiki/Hypotonia"
+            },
+            {
+                "name": "chemical burn",
+                "qid": "Q2141836",
+                "url": "https://en.wikipedia.org/wiki/Chemical_burn"
+            },
+            {
+                "name": "tremor",
+                "qid": "Q223907",
+                "url": "https://en.wikipedia.org/wiki/Tremor"
+            },
+            {
+                "name": "hypotension",
+                "qid": "Q275419",
+                "url": "https://en.wikipedia.org/wiki/Hypotension"
+            },
+            {
+                "name": "psychomotor agitation",
+                "qid": "Q394129",
+                "url": "https://en.wikipedia.org/wiki/Psychomotor_agitation"
+            },
+            {
+                "name": "mental confusion",
+                "qid": "Q557945",
+                "url": "https://en.wikipedia.org/wiki/Confusion"
+            },
+            {
+                "name": "tachypnea",
+                "qid": "Q570920",
+                "url": "https://en.wikipedia.org/wiki/Tachypnea"
+            },
+            {
+                "name": "bronchorrhea",
+                "qid": "Q600754",
+                "url": "https://en.wikipedia.org/wiki/Bronchorrhea"
+            },
+            {
+                "name": "asthenia",
+                "qid": "Q633403",
+                "url": "https://en.wikipedia.org/wiki/Asthenia"
+            },
+            {
+                "name": "apnea",
+                "qid": "Q754424",
+                "url": "https://en.wikipedia.org/wiki/Apnea"
+            },
+            {
+                "name": "hypersalivation",
+                "qid": "Q761862",
+                "url": "https://en.wikipedia.org/wiki/Hypersalivation"
+            },
+            {
+                "name": "convulsion",
+                "qid": "Q852376",
+                "url": "https://en.wikipedia.org/wiki/Convulsion"
+            },
+            {
+                "name": "auditory hallucination",
+                "qid": "Q1054088",
+                "url": "https://en.wikipedia.org/wiki/Auditory_hallucination"
+            },
+            {
+                "name": "vasoconstriction",
+                "qid": "Q1067506",
+                "url": "https://en.wikipedia.org/wiki/Vasoconstriction"
+            },
+            {
+                "name": "irritation",
+                "qid": "Q77776",
+                "url": "https://en.wikipedia.org/wiki/Irritation"
+            },
+            {
+                "name": "paralysis",
+                "qid": "Q107231",
+                "url": "https://en.wikipedia.org/wiki/Paralysis"
+            },
+            {
+                "name": "vomiting",
+                "qid": "Q127076",
+                "url": "https://en.wikipedia.org/wiki/Vomiting"
+            },
+            {
+                "name": "coma",
+                "qid": "Q159557",
+                "url": "https://en.wikipedia.org/wiki/Coma"
+            },
+            {
+                "name": "shock",
+                "qid": "Q178061",
+                "url": "https://en.wikipedia.org/wiki/Shock_(circulatory)"
+            },
+            {
+                "name": "abdominal pain",
+                "qid": "Q183425",
+                "url": "https://en.wikipedia.org/wiki/Abdominal_pain"
+            },
+            {
+                "name": "visual disturbance",
+                "qid": "Q2266426"
+            },
+            {
+                "name": "restlessness",
+                "qid": "Q10649843"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "atropine",
+                "qid": "Q26272",
+                "url": "https://en.wikipedia.org/wiki/Atropine"
+            },
+            {
+                "name": "activated charcoal",
+                "qid": "Q2957662",
+                "url": "https://en.wikipedia.org/wiki/Activated_charcoal_(medication)"
+            },
+            {
+                "name": "norepinephrine",
+                "qid": "Q21098983",
+                "url": "https://en.wikipedia.org/wiki/Norepinephrine_(medication)"
+            },
+            {
+                "name": "benzodiazepine drug",
+                "qid": "Q83871",
+                "url": "https://en.wikipedia.org/wiki/Benzodiazepine"
+            },
+            {
+                "name": "dopamine",
+                "qid": "Q170304",
+                "url": "https://en.wikipedia.org/wiki/Dopamine"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "fluid replacement",
+                "qid": "Q4529664",
+                "url": "https://en.wikipedia.org/wiki/Fluid_replacement"
+            },
+            {
+                "name": "supportive care",
+                "qid": "Q3488952"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "chemical hazard",
+                "qid": "Q21167512",
+                "url": "https://en.wikipedia.org/wiki/Chemical_hazard"
+            },
+            {
+                "name": "poisoning",
+                "qid": "Q114953"
+            },
+            {
+                "name": "hazardous chemical exposure",
+                "qid": "Q68182219"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "nicotine",
+                "qid": "Q12144"
+            }
+        ]
+    }
+}

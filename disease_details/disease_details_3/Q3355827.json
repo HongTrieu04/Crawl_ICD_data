@@ -1,0 +1,31 @@
+{
+    "name": "prominent ear",
+    "qid": "Q3355827",
+    "icd_10": "Q17.5",
+    "description": "abnormally protruding human ear",
+    "aliases": [
+        "bat ear",
+        "jug ear",
+        "protruding ear"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Otopexy%20prae.jpg",
+    "url": "https://en.wikipedia.org/wiki/Protruding_ear",
+    "details": {
+        "Possible treatment": [
+            {
+                "name": "otopexy",
+                "qid": "Q2037180"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "pinna disease",
+                "qid": "Q18966401"
+            },
+            {
+                "name": "external ear malformation",
+                "qid": "Q55785514"
+            }
+        ]
+    }
+}

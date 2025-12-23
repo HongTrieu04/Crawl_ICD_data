@@ -1,0 +1,55 @@
+{
+    "name": "substance-related disorder",
+    "qid": "Q4134457",
+    "icd_10": "F16",
+    "description": "group of mental and behavioural disorders, including both substance dependence and substance abuse",
+    "aliases": [
+        "drug addiction",
+        "substance addiction",
+        "substance related disorder",
+        "substance-related and addictive disorders",
+        "substance-related disorders"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Substance-related_disorder",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "addiction medicine",
+                "qid": "Q55190072",
+                "url": "https://en.wikipedia.org/wiki/Addiction_medicine"
+            },
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "clinical psychology",
+                "qid": "Q199906",
+                "url": "https://en.wikipedia.org/wiki/Clinical_psychology"
+            },
+            {
+                "name": "narcology",
+                "qid": "Q4313186",
+                "url": "https://en.wikipedia.org/wiki/Narcology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "organic or symptomatic mental disorder",
+                "qid": "Q10687207"
+            },
+            {
+                "name": "chemically induced disorder",
+                "qid": "Q54930906"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "psychotropic drug",
+                "qid": "Q12830468"
+            }
+        ]
+    }
+}

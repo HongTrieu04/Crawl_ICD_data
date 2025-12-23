@@ -1,0 +1,18 @@
+{
+    "name": "circumscribed morphea",
+    "qid": "Q6664642",
+    "icd_10": "L94.0",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Localized_morphea",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "localized scleroderma",
+                "qid": "Q3324389",
+                "url": "https://en.wikipedia.org/wiki/Morphea"
+            }
+        ]
+    }
+}

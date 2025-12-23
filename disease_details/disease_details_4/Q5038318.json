@@ -1,0 +1,20 @@
+{
+    "name": "Cardiac fibrosis",
+    "qid": "Q5038318",
+    "icd_10": "I51.4",
+    "description": "The excess deposition of the extracellular matrix of the myocardium (cardiac muscle)",
+    "aliases": [
+        "Myocardial fibrosis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Cardiac_fibrosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "heart disease",
+                "qid": "Q190805",
+                "url": "https://en.wikipedia.org/wiki/Heart_disease"
+            }
+        ]
+    }
+}

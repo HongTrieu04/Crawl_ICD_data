@@ -1,0 +1,98 @@
+{
+    "name": "Omsk hemorrhagic fever",
+    "qid": "Q2741820",
+    "icd_10": "A98.1",
+    "description": "Human disease",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Omsk_hemorrhagic_fever",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            },
+            {
+                "name": "meningism",
+                "qid": "Q32069",
+                "url": "https://en.wikipedia.org/wiki/Meningism"
+            },
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "myalgia",
+                "qid": "Q474959",
+                "url": "https://en.wikipedia.org/wiki/Myalgia"
+            },
+            {
+                "name": "rash",
+                "qid": "Q653197",
+                "url": "https://en.wikipedia.org/wiki/Rash"
+            },
+            {
+                "name": "chills",
+                "qid": "Q2260058",
+                "url": "https://en.wikipedia.org/wiki/Chills"
+            },
+            {
+                "name": "dizziness",
+                "qid": "Q10916362",
+                "url": "https://en.wikipedia.org/wiki/Dizziness"
+            },
+            {
+                "name": "nausea",
+                "qid": "Q186889",
+                "url": "https://en.wikipedia.org/wiki/Nausea"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "viral infectious disease",
+                "qid": "Q1928978",
+                "url": "https://en.wikipedia.org/wiki/Viral_disease"
+            },
+            {
+                "name": "viral hemorrhagic fever",
+                "qid": "Q162272",
+                "url": "https://en.wikipedia.org/wiki/Viral_hemorrhagic_fever"
+            },
+            {
+                "name": "tick-borne disease",
+                "qid": "Q184243",
+                "url": "https://en.wikipedia.org/wiki/Tick-borne_disease"
+            },
+            {
+                "name": "flavivirus infectious disease",
+                "qid": "Q19001421"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "supportive care",
+                "qid": "Q3488952"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Omsk hemorrhagic fever virus",
+                "qid": "Q18417346"
+            }
+        ]
+    }
+}

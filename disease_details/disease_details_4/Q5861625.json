@@ -1,0 +1,18 @@
+{
+    "name": "paratyphoid fever C",
+    "qid": "Q5861625",
+    "icd_10": "A01.3",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "paratyphoid fever",
+                "qid": "Q705906",
+                "url": "https://en.wikipedia.org/wiki/Paratyphoid_fever"
+            }
+        ]
+    }
+}

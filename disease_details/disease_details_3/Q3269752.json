@@ -1,0 +1,34 @@
+{
+    "name": "vanishing twin",
+    "qid": "Q3269752",
+    "icd_10": "O31.2",
+    "description": "one of two twins that never fully forms",
+    "aliases": [
+        "VTS",
+        "twin embolisation syndrome",
+        "twin resorption",
+        "vanishing twin syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Vanishing_twin",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "obstetrics and gynaecology",
+                "qid": "Q80015",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics_and_gynaecology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "pregnancy with abortive outcome",
+                "qid": "Q96649463",
+                "url": "https://en.wikipedia.org/wiki/Pregnancy_with_abortive_outcome"
+            },
+            {
+                "name": "diseases in twins",
+                "qid": "Q54943950"
+            }
+        ]
+    }
+}

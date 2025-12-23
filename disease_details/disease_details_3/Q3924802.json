@@ -1,0 +1,25 @@
+{
+    "name": "Prurigo nodularis",
+    "qid": "Q3924802",
+    "icd_10": "L28.1",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Prurigo_nodularis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "prurigo",
+                "qid": "Q3408668",
+                "url": "https://en.wikipedia.org/wiki/Prurigo"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Pacific Coast tick fever",
+    "qid": "Q60774347",
+    "icd_10": "A77.8",
+    "description": "species of bacterium",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pacific_Coast_tick_fever",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "rickettsiosis",
+                "qid": "Q646664",
+                "url": "https://en.wikipedia.org/wiki/Rickettsiosis"
+            },
+            {
+                "name": "spotted fever",
+                "qid": "Q9274700",
+                "url": "https://en.wikipedia.org/wiki/Spotted_fever"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Rickettsia philipii",
+                "qid": "Q60777337"
+            }
+        ]
+    }
+}

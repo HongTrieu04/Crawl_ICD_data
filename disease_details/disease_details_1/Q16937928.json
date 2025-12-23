@@ -1,0 +1,31 @@
+{
+    "name": "Hereditary sclerosing poikiloderma",
+    "qid": "Q16937928",
+    "icd_10": "Q82.8",
+    "description": "human disease",
+    "aliases": [
+        "POIKILODERMA, HEREDITARY SCLEROSING"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hereditary_sclerosing_poikiloderma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "Poikiloderma",
+                "qid": "Q1307866",
+                "url": "https://en.wikipedia.org/wiki/Poikiloderma"
+            },
+            {
+                "name": "hereditary poikiloderma",
+                "qid": "Q55786182"
+            }
+        ]
+    }
+}

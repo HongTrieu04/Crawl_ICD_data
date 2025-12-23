@@ -1,0 +1,32 @@
+{
+    "name": "medication overuse headache",
+    "qid": "Q1756659",
+    "icd_10": "G44.41",
+    "description": "medical condition",
+    "aliases": [
+        "Abusotic headache"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Medication_overuse_headache",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "Headache attributed to a substance or its withdrawal",
+                "qid": "Q5689498",
+                "url": "https://en.wikipedia.org/wiki/Headache_attributed_to_a_substance_or_its_withdrawal"
+            },
+            {
+                "name": "adverse drug reaction",
+                "qid": "Q45959",
+                "url": "https://en.wikipedia.org/wiki/Adverse_drug_reaction"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ]
+    }
+}

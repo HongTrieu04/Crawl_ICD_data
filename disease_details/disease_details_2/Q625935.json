@@ -1,0 +1,46 @@
+{
+    "name": "hip dysplasia",
+    "qid": "Q625935",
+    "icd_10": "Q65",
+    "description": "human disease",
+    "aliases": [
+        "DDH",
+        "Acetabular Dysplasia",
+        "Congen. disloc. hip",
+        "Congenital dislocation of hip",
+        "Congenital dislocation of hip NOS",
+        "Congenital dislocation of hip NOS (disorder)",
+        "Congenital dysplasia of the hip",
+        "congenital hip dislocation",
+        "Developmental dislocation of hip",
+        "Developmental dysplasia of the hip",
+        "DEVELOPMENTAL DYSPLASIA OF THE HIP 1",
+        "DEVELOPMENTAL DYSPLASIA OF THE HIP 1; DDH1",
+        "Hip Dislocation, Congenital",
+        "Hip Dysplasia, Congenital",
+        "Hip Dysplasia, Developmental",
+        "obsolete congenital hip dislocation"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hip_dysplasia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "genetic disease",
+                "qid": "Q200779",
+                "url": "https://en.wikipedia.org/wiki/Genetic_disorder"
+            },
+            {
+                "name": "developmental dislocation of joint",
+                "qid": "Q18966410"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "orthopedics",
+                "qid": "Q216685",
+                "url": "https://en.wikipedia.org/wiki/Orthopedic_surgery"
+            }
+        ]
+    }
+}

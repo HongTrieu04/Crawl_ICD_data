@@ -1,0 +1,80 @@
+{
+    "name": "headache",
+    "qid": "Q86",
+    "icd_10": "R51",
+    "description": "pain in the head or neck",
+    "aliases": [
+        "cephalalgia",
+        "Cephalgia Syndrome",
+        "Cephalgia Syndromes",
+        "Chronic Daily Headache",
+        "Chronic Daily Headaches",
+        "Chronic Headache",
+        "Chronic Headaches",
+        "Daily Headache, Chronic",
+        "Daily Headaches, Chronic",
+        "Headache Syndrome",
+        "Headache Syndromes",
+        "Headache, Chronic",
+        "Headache, Chronic Daily",
+        "Headache, Intractable",
+        "Headaches, Chronic",
+        "Headaches, Chronic Daily",
+        "Headaches, Intractable",
+        "Intractable Headache",
+        "Intractable Headaches",
+        "Syndrome, Headache"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Headache%20%28caricature%29%20RMG%20PW3879.jpg",
+    "url": "https://en.wikipedia.org/wiki/Headache",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "pain",
+                "qid": "Q81938",
+                "url": "https://en.wikipedia.org/wiki/Pain"
+            },
+            {
+                "name": "clinical sign",
+                "qid": "Q1441305",
+                "url": "https://en.wikipedia.org/wiki/Clinical_sign"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "encephalopathy",
+                "qid": "Q576349",
+                "url": "https://en.wikipedia.org/wiki/Encephalopathy"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "butalbital",
+                "qid": "Q1606543",
+                "url": "https://en.wikipedia.org/wiki/Butalbital"
+            },
+            {
+                "name": "meprobamate",
+                "qid": "Q418351",
+                "url": "https://en.wikipedia.org/wiki/Meprobamate"
+            },
+            {
+                "name": "doxylamine",
+                "qid": "Q423390",
+                "url": "https://en.wikipedia.org/wiki/Doxylamine"
+            },
+            {
+                "name": "sodium benzoate",
+                "qid": "Q423971",
+                "url": "https://en.wikipedia.org/wiki/Sodium_benzoate"
+            }
+        ]
+    }
+}

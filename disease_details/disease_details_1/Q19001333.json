@@ -1,0 +1,22 @@
+{
+    "name": "enthesopathy of knee",
+    "qid": "Q19001333",
+    "icd_10": "M70.5",
+    "description": "Human disease",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "enthesopathy",
+                "qid": "Q52844",
+                "url": "https://en.wikipedia.org/wiki/Enthesopathy"
+            },
+            {
+                "name": "knee disorder",
+                "qid": "Q18971535"
+            }
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "name": "brain compression",
+    "qid": "Q4411766",
+    "icd_10": "G93.5",
+    "description": "Human disease",
+    "aliases": [
+        "Compression of brain",
+        "Compression of brain (disorder)",
+        "Compression of brain NOS (disorder)"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "abscess",
+                "qid": "Q164655",
+                "url": "https://en.wikipedia.org/wiki/Abscess"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "encephalopathy",
+                "qid": "Q576349",
+                "url": "https://en.wikipedia.org/wiki/Encephalopathy"
+            }
+        ]
+    }
+}

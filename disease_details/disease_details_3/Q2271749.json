@@ -1,0 +1,51 @@
+{
+    "name": "subacute bacterial endocarditis",
+    "qid": "Q2271749",
+    "icd_10": "I33.0",
+    "description": "Human disease",
+    "aliases": [
+        "SBE",
+        "Endocarditis lenta",
+        "Endocarditis, Subacute Bacterial",
+        "SBE - Subacute bacterial endocarditis",
+        "sepsis lenta",
+        "Subacute bacterial endocarditis",
+        "Subacute bacterial endocarditis (disorder)",
+        "Subacute endocarditis, lenta"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Subacute_bacterial_endocarditis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "endocarditis",
+                "qid": "Q82504",
+                "url": "https://en.wikipedia.org/wiki/Endocarditis"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "infective endocarditis",
+                "qid": "Q2450598",
+                "url": "https://en.wikipedia.org/wiki/Infective_endocarditis"
+            },
+            {
+                "name": "bacterial endocarditis",
+                "qid": "Q19000971"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "penicillin G procaine hydrate",
+                "qid": "Q13026783"
+            }
+        ]
+    }
+}

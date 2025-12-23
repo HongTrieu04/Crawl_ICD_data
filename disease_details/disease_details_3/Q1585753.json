@@ -1,0 +1,104 @@
+{
+    "name": "urethral stricture",
+    "qid": "Q1585753",
+    "icd_10": "N35",
+    "description": "narrowing of the urethra caused by injury, instrumentation, infection and certain non-infectious forms of urethritis",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gray1142.png",
+    "url": "https://en.wikipedia.org/wiki/Urethral_stricture",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "urethral obstruction",
+                "qid": "Q18554349"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "lichen sclerosus",
+                "qid": "Q1641400",
+                "url": "https://en.wikipedia.org/wiki/Lichen_sclerosus"
+            },
+            {
+                "name": "urogenital injury",
+                "qid": "Q21129530",
+                "url": "https://en.wikipedia.org/wiki/Genitourinary_tract_injury"
+            },
+            {
+                "name": "urinary tract infection",
+                "qid": "Q221668",
+                "url": "https://en.wikipedia.org/wiki/Urinary_tract_infection"
+            },
+            {
+                "name": "urethral sounding",
+                "qid": "Q1238934",
+                "url": "https://en.wikipedia.org/wiki/Urethral_sounding"
+            },
+            {
+                "name": "urinary tract inflamation",
+                "qid": "Q132396333"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "urinary urgency",
+                "qid": "Q3858636",
+                "url": "https://en.wikipedia.org/wiki/Urinary_urgency"
+            },
+            {
+                "name": "urinary tract infection",
+                "qid": "Q221668",
+                "url": "https://en.wikipedia.org/wiki/Urinary_tract_infection"
+            },
+            {
+                "name": "frequent urination",
+                "qid": "Q352585",
+                "url": "https://en.wikipedia.org/wiki/Frequent_urination"
+            },
+            {
+                "name": "prostatitis",
+                "qid": "Q372752",
+                "url": "https://en.wikipedia.org/wiki/Prostatitis"
+            },
+            {
+                "name": "dysuria",
+                "qid": "Q1269399",
+                "url": "https://en.wikipedia.org/wiki/Dysuria"
+            },
+            {
+                "name": "urinary retention",
+                "qid": "Q1366695",
+                "url": "https://en.wikipedia.org/wiki/Urinary_retention"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "urethroplasty",
+                "qid": "Q7900438",
+                "url": "https://en.wikipedia.org/wiki/Urethroplasty"
+            },
+            {
+                "name": "urethrotomy",
+                "qid": "Q7900440",
+                "url": "https://en.wikipedia.org/wiki/Urethrotomy"
+            },
+            {
+                "name": "urethral sounding",
+                "qid": "Q1238934",
+                "url": "https://en.wikipedia.org/wiki/Urethral_sounding"
+            }
+        ]
+    }
+}

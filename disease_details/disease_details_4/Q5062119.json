@@ -1,0 +1,44 @@
+{
+    "name": "central nervous system cyst",
+    "qid": "Q5062119",
+    "icd_10": "G93.0",
+    "description": "human disease",
+    "aliases": [
+        "central nervous system cysts",
+        "Cleft Cysts, Rathke's",
+        "Cyst of central nervous system (disorder)",
+        "Cyst of the CNS",
+        "Cyst, Suprasellar",
+        "Cysts, Central Nervous System",
+        "Cysts, Rathke Cleft",
+        "Cysts, Suprasellar",
+        "Rathke Cleft Cysts",
+        "Rathke's Cleft Cysts",
+        "Rathkes Cleft Cysts",
+        "Suprasellar Cyst",
+        "Suprasellar Cysts"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Central_nervous_system_cyst",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "cyst",
+                "qid": "Q193211",
+                "url": "https://en.wikipedia.org/wiki/Cyst"
+            },
+            {
+                "name": "encephalopathy",
+                "qid": "Q576349",
+                "url": "https://en.wikipedia.org/wiki/Encephalopathy"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

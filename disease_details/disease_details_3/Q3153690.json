@@ -1,0 +1,32 @@
+{
+    "name": "cadmium poisoning",
+    "qid": "Q3153690",
+    "icd_10": "T56.3",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Cadmium_poisoning",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "metal poisoning",
+                "qid": "Q4215775",
+                "url": "https://en.wikipedia.org/wiki/Metal_toxicity"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "cadmium",
+                "qid": "Q1091",
+                "url": "https://en.wikipedia.org/wiki/Cadmium"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ]
+    }
+}

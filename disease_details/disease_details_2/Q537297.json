@@ -1,0 +1,115 @@
+{
+    "name": "heartburn",
+    "qid": "Q537297",
+    "icd_10": "R12",
+    "description": "symptom",
+    "aliases": [
+        "pyrosis",
+        "acid indigestion",
+        "cardialgia",
+        "burning sensation in chest",
+        "water brash"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Heartburn.png",
+    "url": "https://en.wikipedia.org/wiki/Heartburn",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "pain",
+                "qid": "Q81938",
+                "url": "https://en.wikipedia.org/wiki/Pain"
+            },
+            {
+                "name": "chest pain",
+                "qid": "Q693058",
+                "url": "https://en.wikipedia.org/wiki/Chest_pain"
+            },
+            {
+                "name": "burning sensation",
+                "qid": "Q3645517"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "magnesium carbonate",
+                "qid": "Q407931",
+                "url": "https://en.wikipedia.org/wiki/Magnesium_carbonate"
+            },
+            {
+                "name": "cimetidine",
+                "qid": "Q409492",
+                "url": "https://en.wikipedia.org/wiki/Cimetidine"
+            },
+            {
+                "name": "sodium bicarbonate",
+                "qid": "Q179731",
+                "url": "https://en.wikipedia.org/wiki/Sodium_bicarbonate"
+            },
+            {
+                "name": "magnesium hydroxide",
+                "qid": "Q407548",
+                "url": "https://en.wikipedia.org/wiki/Magnesium_hydroxide"
+            },
+            {
+                "name": "calcium carbonate",
+                "qid": "Q23767",
+                "url": "https://en.wikipedia.org/wiki/Calcium_carbonate"
+            },
+            {
+                "name": "famotidine",
+                "qid": "Q411159",
+                "url": "https://en.wikipedia.org/wiki/Famotidine"
+            },
+            {
+                "name": "magaldrate",
+                "qid": "Q419991",
+                "url": "https://en.wikipedia.org/wiki/Magaldrate"
+            },
+            {
+                "name": "omeprazole",
+                "qid": "Q422210",
+                "url": "https://en.wikipedia.org/wiki/Omeprazole"
+            },
+            {
+                "name": "esomeprazole",
+                "qid": "Q553223",
+                "url": "https://en.wikipedia.org/wiki/Esomeprazole"
+            },
+            {
+                "name": "magnesium trisilicate",
+                "qid": "Q836952",
+                "url": "https://en.wikipedia.org/wiki/Magnesium_trisilicate"
+            },
+            {
+                "name": "nizatidine",
+                "qid": "Q1188290",
+                "url": "https://en.wikipedia.org/wiki/Nizatidine"
+            },
+            {
+                "name": "aluminium carbonate",
+                "qid": "Q4737377",
+                "url": "https://en.wikipedia.org/wiki/Aluminium_carbonate"
+            },
+            {
+                "name": "calcium gluceptate",
+                "qid": "Q5018826",
+                "url": "https://en.wikipedia.org/wiki/Calcium_glucoheptonate"
+            },
+            {
+                "name": "carbonate ion",
+                "qid": "Q27104479"
+            },
+            {
+                "name": "dihydroxyaluminum sodium carbonate",
+                "qid": "Q27269528"
+            }
+        ]
+    }
+}

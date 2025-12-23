@@ -1,0 +1,25 @@
+{
+    "name": "Nodular lymphocyte predominant Hodgkin's lymphoma",
+    "qid": "Q7046749",
+    "icd_10": "C81.0",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Nodular_lymphocyte_predominant_Hodgkin_lymphoma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "Hodgkin lymphoma",
+                "qid": "Q209369",
+                "url": "https://en.wikipedia.org/wiki/Hodgkin_lymphoma"
+            }
+        ]
+    }
+}

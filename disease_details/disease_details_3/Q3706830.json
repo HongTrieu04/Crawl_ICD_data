@@ -1,0 +1,22 @@
+{
+    "name": "neonatal diarrhea",
+    "qid": "Q3706830",
+    "icd_10": "P78.3",
+    "description": "infectious disease",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "diarrhea",
+                "qid": "Q40878",
+                "url": "https://en.wikipedia.org/wiki/Diarrhea"
+            },
+            {
+                "name": "perinatal digestive system disorder",
+                "qid": "Q18968233"
+            }
+        ]
+    }
+}

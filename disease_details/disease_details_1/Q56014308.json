@@ -1,0 +1,23 @@
+{
+    "name": "acute myeloid leukemia with multilineage dysplasia",
+    "qid": "Q56014308",
+    "icd_10": "C92.8",
+    "description": null,
+    "aliases": [
+        "Acute myeloid leukaemia with myelodysplasia-related features",
+        "AML with multilineage dysplasia",
+        "AML with myelodysplasia-related features",
+        "De novo Acute Myeloid Leukemia with Multilineage Dysplasia"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "acute myeloid leukemia",
+                "qid": "Q264118",
+                "url": "https://en.wikipedia.org/wiki/Acute_myeloid_leukemia"
+            }
+        ]
+    }
+}

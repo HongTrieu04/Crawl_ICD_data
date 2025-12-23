@@ -1,0 +1,25 @@
+{
+    "name": "atypical trigeminal neuralgia",
+    "qid": "Q758292",
+    "icd_10": "G50.0",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Atypical_trigeminal_neuralgia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "trigeminal neuralgia",
+                "qid": "Q1132120",
+                "url": "https://en.wikipedia.org/wiki/Trigeminal_neuralgia"
+            }
+        ]
+    }
+}

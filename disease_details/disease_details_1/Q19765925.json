@@ -1,0 +1,30 @@
+{
+    "name": "abdominal cutaneous nerve entrapment syndrome",
+    "qid": "Q19765925",
+    "icd_10": "G58.0",
+    "description": "medical condition",
+    "aliases": [
+        "ACNES",
+        "Intercostal nerve syndrome",
+        "Rectus abdominis syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Anterior_cutaneous_nerve_entrapment_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "nerve compression syndrome",
+                "qid": "Q1978084",
+                "url": "https://en.wikipedia.org/wiki/Nerve_compression_syndrome"
+            },
+            {
+                "name": "intercostal neuralgia",
+                "qid": "Q1665961"
+            },
+            {
+                "name": "acquired peripheral neuropathy",
+                "qid": "Q55785818"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "femoral shaft fracture",
+    "qid": "Q4350504",
+    "icd_10": "S72.3",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "femoral fracture",
+                "qid": "Q4350503",
+                "url": "https://en.wikipedia.org/wiki/Femoral_fracture"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "body of femur",
+                "qid": "Q17081678",
+                "url": "https://en.wikipedia.org/wiki/Body_of_femur"
+            }
+        ]
+    }
+}

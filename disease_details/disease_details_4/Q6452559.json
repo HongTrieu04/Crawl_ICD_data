@@ -1,0 +1,34 @@
+{
+    "name": "Kyrle disease",
+    "qid": "Q6452559",
+    "icd_10": "L87.0",
+    "description": "medical condition",
+    "aliases": [
+        "Hyperkeratosis follicularis et parafollicularis in cutem penetrans",
+        "KYRLE DISEASE",
+        "Kyrle's disease"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Kyrle_disease",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "genetic disease",
+                "qid": "Q200779",
+                "url": "https://en.wikipedia.org/wiki/Genetic_disorder"
+            },
+            {
+                "name": "Cutaneous perforating disorders",
+                "qid": "Q5196708",
+                "url": "https://en.wikipedia.org/wiki/Cutaneous_perforating_disorders"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ]
+    }
+}

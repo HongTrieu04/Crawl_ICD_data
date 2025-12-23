@@ -1,0 +1,30 @@
+{
+    "name": "urinary tract infection during pregnancy",
+    "qid": "Q3150711",
+    "icd_10": "O23.4",
+    "description": "infection of the urinary system in pregnancy",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "infection in pregnancy",
+                "qid": "Q18211561",
+                "url": "https://en.wikipedia.org/wiki/Susceptibility_and_severity_of_infections_in_pregnancy"
+            },
+            {
+                "name": "urinary tract infection",
+                "qid": "Q221668",
+                "url": "https://en.wikipedia.org/wiki/Urinary_tract_infection"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "obstetrics",
+                "qid": "Q5284418",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics"
+            }
+        ]
+    }
+}

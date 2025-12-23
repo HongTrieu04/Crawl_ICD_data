@@ -1,0 +1,23 @@
+{
+    "name": "knee injury",
+    "qid": "Q15283847",
+    "icd_10": "S83",
+    "description": "injury of the knee",
+    "aliases": [
+        "knee injuries"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "leg injury",
+                "qid": "Q11361295"
+            },
+            {
+                "name": "knee disorder",
+                "qid": "Q18971535"
+            }
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name": "toxic myopathy",
+    "qid": "Q19001352",
+    "icd_10": "G72.2",
+    "description": "human disease",
+    "aliases": [
+        "obsolete toxic myopathy",
+        "Toxic muscle disease"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "muscular disease",
+                "qid": "Q692536",
+                "url": "https://en.wikipedia.org/wiki/Myopathy"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "intoxication",
+                "qid": "Q18621601",
+                "url": "https://en.wikipedia.org/wiki/Poisoning"
+            }
+        ]
+    }
+}

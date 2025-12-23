@@ -1,0 +1,43 @@
+{
+    "name": "demyelinating disease",
+    "qid": "Q1186703",
+    "icd_10": "G61.0",
+    "description": "type of neurological disease where the myelin sheath of neurons is damaged",
+    "aliases": [
+        "Demyelinating Diseases",
+        "demyelinating disorder"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MS%20Demyelinisation%20CD68%2010xv2.jpg",
+    "url": "https://en.wikipedia.org/wiki/Demyelinating_disease",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "neurodegeneration",
+                "qid": "Q1755122",
+                "url": "https://en.wikipedia.org/wiki/Neurodegenerative_disease"
+            },
+            {
+                "name": "neurological disorder",
+                "qid": "Q3339235",
+                "url": "https://en.wikipedia.org/wiki/Neurological_disorder"
+            },
+            {
+                "name": "central nervous system disease",
+                "qid": "Q5062122",
+                "url": "https://en.wikipedia.org/wiki/Central_nervous_system_disease"
+            }
+        ]
+    }
+}

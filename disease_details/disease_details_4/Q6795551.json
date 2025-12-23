@@ -1,0 +1,27 @@
+{
+    "name": "Maxillary hypoplasia",
+    "qid": "Q6795551",
+    "icd_10": "K07.0",
+    "description": "medical condition",
+    "aliases": [
+        "Hypoplastic maxilla"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Maxillary_hypoplasia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "otolaryngology",
+                "qid": "Q189553",
+                "url": "https://en.wikipedia.org/wiki/Otorhinolaryngology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "micrognathism",
+                "qid": "Q1100988",
+                "url": "https://en.wikipedia.org/wiki/Micrognathism"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "name": "fibular hemimelia",
+    "qid": "Q1411024",
+    "icd_10": "Q72.6",
+    "description": "congenital absence of the fibula",
+    "aliases": [
+        "Congenital longitudinal deficiency of the fibula",
+        "Fibular longitudinal meromelia",
+        "Fibular longitudinal meromelia, unilateral",
+        "longitudinal fibular deficiency"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Fibular_hemimelia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "congenital disorder",
+                "qid": "Q727096",
+                "url": "https://en.wikipedia.org/wiki/Birth_defect"
+            },
+            {
+                "name": "hemimelia",
+                "qid": "Q17627190",
+                "url": "https://en.wikipedia.org/wiki/Hemimelia"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

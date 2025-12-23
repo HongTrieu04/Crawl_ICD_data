@@ -1,0 +1,33 @@
+{
+    "name": "preterm birth",
+    "qid": "Q625506",
+    "icd_10": "O60.1",
+    "description": "birth at a gestational age less than 37 weeks",
+    "aliases": [
+        "pre-term birth",
+        "premature birth"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Preterm_birth",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "obstetrics and gynaecology",
+                "qid": "Q80015",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics_and_gynaecology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "obstetric labor complication",
+                "qid": "Q7075540",
+                "url": "https://en.wikipedia.org/wiki/Obstetric_labor_complication"
+            },
+            {
+                "name": "birth",
+                "qid": "Q14819852",
+                "url": "https://en.wikipedia.org/wiki/Birth"
+            }
+        ]
+    }
+}

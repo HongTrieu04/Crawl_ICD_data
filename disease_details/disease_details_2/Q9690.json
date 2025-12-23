@@ -1,0 +1,120 @@
+{
+    "name": "fatigue",
+    "qid": "Q9690",
+    "icd_10": "R53",
+    "description": "medical symptom usually of physical and/or mental weakness that does not resolve with rest or sleep",
+    "aliases": [
+        "fatigue (biological phenomena)",
+        "medical fatigue"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sleepy%20men.JPG",
+    "url": "https://en.wikipedia.org/wiki/Fatigue",
+    "details": {
+        "Cause": [
+            {
+                "name": "diabetes",
+                "qid": "Q12206",
+                "url": "https://en.wikipedia.org/wiki/Diabetes"
+            },
+            {
+                "name": "major depressive disorder",
+                "qid": "Q42844",
+                "url": "https://en.wikipedia.org/wiki/Major_depressive_disorder"
+            },
+            {
+                "name": "malnutrition",
+                "qid": "Q12167",
+                "url": "https://en.wikipedia.org/wiki/Malnutrition"
+            },
+            {
+                "name": "insomnia",
+                "qid": "Q1869874",
+                "url": "https://en.wikipedia.org/wiki/Insomnia"
+            },
+            {
+                "name": "systemic lupus erythematosus",
+                "qid": "Q1485",
+                "url": "https://en.wikipedia.org/wiki/Lupus"
+            },
+            {
+                "name": "multiple sclerosis",
+                "qid": "Q8277",
+                "url": "https://en.wikipedia.org/wiki/Multiple_sclerosis"
+            },
+            {
+                "name": "psychological stress",
+                "qid": "Q3500368",
+                "url": "https://en.wikipedia.org/wiki/Psychological_stress"
+            },
+            {
+                "name": "idiopathic chronic fatigue",
+                "qid": "Q96199399",
+                "url": "https://en.wikipedia.org/wiki/Idiopathic_chronic_fatigue"
+            },
+            {
+                "name": "sleep disorder",
+                "qid": "Q177190",
+                "url": "https://en.wikipedia.org/wiki/Sleep_disorder"
+            },
+            {
+                "name": "chronic fatigue syndrome",
+                "qid": "Q209733",
+                "url": "https://en.wikipedia.org/wiki/Myalgic_encephalomyelitis/chronic_fatigue_syndrome"
+            },
+            {
+                "name": "sleep apnea",
+                "qid": "Q213600",
+                "url": "https://en.wikipedia.org/wiki/Sleep_apnea"
+            },
+            {
+                "name": "occupational burnout",
+                "qid": "Q327988",
+                "url": "https://en.wikipedia.org/wiki/Occupational_burnout"
+            },
+            {
+                "name": "fibromyalgia",
+                "qid": "Q540571",
+                "url": "https://en.wikipedia.org/wiki/Fibromyalgia"
+            },
+            {
+                "name": "somatic symptom disorder",
+                "qid": "Q936549",
+                "url": "https://en.wikipedia.org/wiki/Somatic_symptom_disorder"
+            },
+            {
+                "name": "unknown",
+                "qid": "Q24238356"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "primary care",
+                "qid": "Q3259956",
+                "url": "https://en.wikipedia.org/wiki/Primary_care"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "ginseng",
+                "qid": "Q20817212",
+                "url": "https://en.wikipedia.org/wiki/Ginseng"
+            },
+            {
+                "name": "modafinil",
+                "qid": "Q410441",
+                "url": "https://en.wikipedia.org/wiki/Modafinil"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "clinical sign",
+                "qid": "Q1441305",
+                "url": "https://en.wikipedia.org/wiki/Clinical_sign"
+            },
+            {
+                "name": "neurological and physiological symptom",
+                "qid": "Q99860490"
+            }
+        ]
+    }
+}

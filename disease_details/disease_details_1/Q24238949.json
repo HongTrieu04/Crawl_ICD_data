@@ -1,0 +1,27 @@
+{
+    "name": "mast cell activation syndrome",
+    "qid": "Q24238949",
+    "icd_10": "D89.8",
+    "description": "group of mast cell disorders in which there is aberrant release of mast cell mediators",
+    "aliases": [
+        "MCAS"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Mast_cell_activation_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "immunology",
+                "qid": "Q101929",
+                "url": "https://en.wikipedia.org/wiki/Immunology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "immune disorder",
+                "qid": "Q3843811",
+                "url": "https://en.wikipedia.org/wiki/Immune_disorder"
+            }
+        ]
+    }
+}

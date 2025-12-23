@@ -1,0 +1,32 @@
+{
+    "name": "diverticulosis",
+    "qid": "Q278158",
+    "icd_10": "K57",
+    "description": "condition of having diverticula (outpocketings) in the wall of the intestine",
+    "aliases": [
+        "diverticular disease"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Diverticulosis%20%28two%20diverticula%29%2001.svg",
+    "url": "https://en.wikipedia.org/wiki/Diverticulosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "intestinal disease",
+                "qid": "Q3055380",
+                "url": "https://en.wikipedia.org/wiki/Enteropathy"
+            },
+            {
+                "name": "diverticulum",
+                "qid": "Q1141055",
+                "url": "https://en.wikipedia.org/wiki/Diverticulum"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ]
+    }
+}

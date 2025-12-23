@@ -1,0 +1,20 @@
+{
+    "name": "inert gas asphyxiation",
+    "qid": "Q502415",
+    "icd_10": "W81",
+    "description": "form of asphyxiation which results from breathing a physiologically inert gas with no or low oxygen content",
+    "aliases": [
+        "asphyxiation by environmental oxygen lack"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Inert_gas_asphyxiation",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "asphyxia",
+                "qid": "Q193840",
+                "url": "https://en.wikipedia.org/wiki/Asphyxia"
+            }
+        ]
+    }
+}

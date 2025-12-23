@@ -1,0 +1,20 @@
+{
+    "name": "corn",
+    "qid": "Q154558",
+    "icd_10": "L84",
+    "description": "cutaneous disease",
+    "aliases": [
+        "callus tylosis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Corns.jpg",
+    "url": "https://en.wikipedia.org/wiki/Corn_(pathology)",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "callus",
+                "qid": "Q2197452",
+                "url": "https://en.wikipedia.org/wiki/Callus"
+            }
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "name": "separation anxiety disorder",
+    "qid": "Q2300749",
+    "icd_10": "F93.0",
+    "description": "anxiety disorder that involves the feeling of excessive and inappropriate levels of anxiety over being separated from a person to whom the individual has a strong emotional attachment or place",
+    "aliases": [
+        "separation anxiety disorder of childhood"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Separation_anxiety_disorder",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "anxiety disorder",
+                "qid": "Q544006",
+                "url": "https://en.wikipedia.org/wiki/Anxiety_disorder"
+            },
+            {
+                "name": "emotional and behavioral disorders",
+                "qid": "Q3063847",
+                "url": "https://en.wikipedia.org/wiki/Emotional_and_behavioral_disorders"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "clinical psychology",
+                "qid": "Q199906",
+                "url": "https://en.wikipedia.org/wiki/Clinical_psychology"
+            }
+        ]
+    }
+}

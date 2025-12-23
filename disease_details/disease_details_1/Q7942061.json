@@ -1,0 +1,25 @@
+{
+    "name": "Vossius ring",
+    "qid": "Q7942061",
+    "icd_10": "S05.1",
+    "description": "form of eye trauma",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Vossius_ring",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "cataract",
+                "qid": "Q127724",
+                "url": "https://en.wikipedia.org/wiki/Cataract"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "eye injury",
+                "qid": "Q2681162",
+                "url": "https://en.wikipedia.org/wiki/Eye_injury"
+            }
+        ]
+    }
+}

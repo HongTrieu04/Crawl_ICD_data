@@ -1,0 +1,32 @@
+{
+    "name": "drugs in pregnancy",
+    "qid": "Q5308960",
+    "icd_10": "O35.5",
+    "description": "potential harm or negative consequences to the fetus due to drugs and medications during pregnancy",
+    "aliases": [
+        "drug-induced abnormality"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Drugs_in_pregnancy",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "substance use disorder",
+                "qid": "Q7632070",
+                "url": "https://en.wikipedia.org/wiki/Substance_use_disorder"
+            },
+            {
+                "name": "Drug dependence complicating pregnancy, childbirth, or the puerperium",
+                "qid": "Q19001108"
+            },
+            {
+                "name": "rare teratologic disease",
+                "qid": "Q55788389"
+            },
+            {
+                "name": "maternal exposure",
+                "qid": "Q67002819"
+            }
+        ]
+    }
+}

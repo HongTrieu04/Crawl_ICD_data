@@ -1,0 +1,34 @@
+{
+    "name": "mitochondrial DNA depletion syndrome",
+    "qid": "Q17144217",
+    "icd_10": "G71.3",
+    "description": "human disease",
+    "aliases": [
+        "MDS",
+        "MDDS",
+        "mtDNA depletion syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Mitochondrial_DNA_depletion_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "mitochondrial disease",
+                "qid": "Q935710",
+                "url": "https://en.wikipedia.org/wiki/Mitochondrial_disease"
+            },
+            {
+                "name": "metabolic disease with intestinal involvement",
+                "qid": "Q55785312"
+            },
+            {
+                "name": "rare genetic developmental defect during embryogenesis",
+                "qid": "Q55785846"
+            },
+            {
+                "name": "mitochondrial DNA maintenance syndrome",
+                "qid": "Q55787751"
+            }
+        ]
+    }
+}

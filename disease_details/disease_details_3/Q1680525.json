@@ -1,0 +1,43 @@
+{
+    "name": "patella fracture",
+    "qid": "Q1680525",
+    "icd_10": "S82.0",
+    "description": "medical condition",
+    "aliases": [
+        "kneecap fracture",
+        "kneecap fractures",
+        "patella fractures"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Patella_fracture",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "orthopedics",
+                "qid": "Q216685",
+                "url": "https://en.wikipedia.org/wiki/Orthopedic_surgery"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "patella",
+                "qid": "Q229081",
+                "url": "https://en.wikipedia.org/wiki/Patella"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "leg fracture",
+                "qid": "Q4350502"
+            },
+            {
+                "name": "knee injury",
+                "qid": "Q15283847"
+            },
+            {
+                "name": "knee fractures",
+                "qid": "Q116672245"
+            }
+        ]
+    }
+}

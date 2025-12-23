@@ -1,0 +1,19 @@
+{
+    "name": "sphérophakia",
+    "qid": "Q3958669",
+    "icd_10": "Q12.4",
+    "description": null,
+    "aliases": [
+        "spherophakia"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "lens disease",
+                "qid": "Q18553990"
+            }
+        ]
+    }
+}

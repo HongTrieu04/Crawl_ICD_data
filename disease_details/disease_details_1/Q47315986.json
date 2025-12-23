@@ -1,0 +1,27 @@
+{
+    "name": "self-poisoning",
+    "qid": "Q47315986",
+    "icd_10": "X69",
+    "description": "intake of toxic substances",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "self-injury",
+                "qid": "Q622527",
+                "url": "https://en.wikipedia.org/wiki/Self-harm"
+            },
+            {
+                "name": "intoxication",
+                "qid": "Q18621601",
+                "url": "https://en.wikipedia.org/wiki/Poisoning"
+            },
+            {
+                "name": "poisoning",
+                "qid": "Q114953"
+            }
+        ]
+    }
+}

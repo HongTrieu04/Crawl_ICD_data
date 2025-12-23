@@ -1,0 +1,34 @@
+{
+    "name": "hyperosmolar hyperglycemic state",
+    "qid": "Q1828288",
+    "icd_10": "E11.0",
+    "description": "human disease",
+    "aliases": [
+        "diabetes mellitus with hyperosmolarity",
+        "Hyperglycemic Hyperosmolar Nonketotic Coma",
+        "Nonketotic hyperosmolar coma, NKHC"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hyperosmolar_hyperglycemic_state",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "hyperosmolar syndrome",
+                "qid": "Q5958427",
+                "url": "https://en.wikipedia.org/wiki/Hyperosmolar_syndrome"
+            },
+            {
+                "name": "diabetic coma",
+                "qid": "Q777717",
+                "url": "https://en.wikipedia.org/wiki/Diabetic_coma"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Follicular atrophoderma",
+    "qid": "Q5464654",
+    "icd_10": "L90.8",
+    "description": "medical condition",
+    "aliases": [
+        "atrophoderma follicularis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Follicular_atrophoderma",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "skin atrophy",
+                "qid": "Q4072263",
+                "url": "https://en.wikipedia.org/wiki/Atrophoderma"
+            },
+            {
+                "name": "genodermatosis",
+                "qid": "Q666075",
+                "url": "https://en.wikipedia.org/wiki/Genodermatosis"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ]
+    }
+}

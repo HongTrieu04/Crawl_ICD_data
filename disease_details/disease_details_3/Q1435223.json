@@ -1,0 +1,66 @@
+{
+    "name": "focal segmental glomerulosclerosis",
+    "qid": "Q1435223",
+    "icd_10": "N08",
+    "description": "kidney disease",
+    "aliases": [
+        "FGS",
+        "FGS (focal glomerular sclerosis)",
+        "focal glomerular sclerosis",
+        "focal glomerulosclerosis",
+        "Focal glomerulosclerosis; FGS",
+        "focal nodular glomerulosclerosis",
+        "Focal segmental glomerulosclerosis",
+        "FSGS",
+        "Glomerulosclerosis, Focal Segmental"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Focal_segmental_glomerulosclerosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "nephrotic syndrome",
+                "qid": "Q504790",
+                "url": "https://en.wikipedia.org/wiki/Nephrotic_syndrome"
+            },
+            {
+                "name": "glomerulosclerosis",
+                "qid": "Q5571239",
+                "url": "https://en.wikipedia.org/wiki/Glomerulosclerosis"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "nephrology",
+                "qid": "Q177635",
+                "url": "https://en.wikipedia.org/wiki/Nephrology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "cyclosporine",
+                "qid": "Q367700",
+                "url": "https://en.wikipedia.org/wiki/Ciclosporin"
+            },
+            {
+                "name": "rituximab",
+                "qid": "Q412323",
+                "url": "https://en.wikipedia.org/wiki/Rituximab"
+            },
+            {
+                "name": "prednisone",
+                "qid": "Q424972",
+                "url": "https://en.wikipedia.org/wiki/Prednisone"
+            },
+            {
+                "name": "mycophenolate mofetil",
+                "qid": "Q4567614"
+            }
+        ]
+    }
+}

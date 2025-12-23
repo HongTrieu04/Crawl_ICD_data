@@ -1,0 +1,32 @@
+{
+    "name": "chalicosis",
+    "qid": "Q5068756",
+    "icd_10": "J62.8",
+    "description": "medical condition",
+    "aliases": [
+        "flint disease"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Chalicosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "pneumoconiosis",
+                "qid": "Q651223",
+                "url": "https://en.wikipedia.org/wiki/Pneumoconiosis"
+            },
+            {
+                "name": "occupational disease",
+                "qid": "Q637816",
+                "url": "https://en.wikipedia.org/wiki/Occupational_disease"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ]
+    }
+}

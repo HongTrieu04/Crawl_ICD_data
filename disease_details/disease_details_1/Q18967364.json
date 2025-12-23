@@ -1,0 +1,19 @@
+{
+    "name": "adhesions of drum head to incus",
+    "qid": "Q18967364",
+    "icd_10": "H74.1",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete adhesions of drum head to incus"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "adhesive middle ear disease",
+                "qid": "Q30349512"
+            }
+        ]
+    }
+}

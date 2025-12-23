@@ -1,0 +1,30 @@
+{
+    "name": "pancreatic injury",
+    "qid": "Q7130410",
+    "icd_10": "S36.9",
+    "description": "form of trauma sustained by the pancreas",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pancreatic_injury",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "abdominal trauma:",
+                "qid": "Q308292",
+                "url": "https://en.wikipedia.org/wiki/Abdominal_trauma"
+            },
+            {
+                "name": "pancreas disease",
+                "qid": "Q7130407",
+                "url": "https://en.wikipedia.org/wiki/Pancreatic_disease"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ]
+    }
+}

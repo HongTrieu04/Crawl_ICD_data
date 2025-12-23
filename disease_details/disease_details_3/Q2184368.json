@@ -1,0 +1,88 @@
+{
+    "name": "peptic esophagitis",
+    "qid": "Q2184368",
+    "icd_10": "K21.0",
+    "description": "human disease",
+    "aliases": [
+        "Esophagitis (& [reflux]) or esophageal reflux",
+        "Peptic esophagitis",
+        "Peptic reflux disease",
+        "Peptic reflux disease (disorder)",
+        "reflux esophagitis",
+        "Reflux esophagitis",
+        "Reflux oesophagitis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "peptic ulcer disease",
+                "qid": "Q172941",
+                "url": "https://en.wikipedia.org/wiki/Peptic_ulcer_disease"
+            },
+            {
+                "name": "gastroesophageal reflux disease",
+                "qid": "Q223591",
+                "url": "https://en.wikipedia.org/wiki/Gastroesophageal_reflux_disease"
+            },
+            {
+                "name": "esophagitis",
+                "qid": "Q298230",
+                "url": "https://en.wikipedia.org/wiki/Esophagitis"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "magnesium hydroxide",
+                "qid": "Q407548",
+                "url": "https://en.wikipedia.org/wiki/Magnesium_hydroxide"
+            },
+            {
+                "name": "cimetidine",
+                "qid": "Q409492",
+                "url": "https://en.wikipedia.org/wiki/Cimetidine"
+            },
+            {
+                "name": "famotidine",
+                "qid": "Q411159",
+                "url": "https://en.wikipedia.org/wiki/Famotidine"
+            },
+            {
+                "name": "nizatidine",
+                "qid": "Q1188290",
+                "url": "https://en.wikipedia.org/wiki/Nizatidine"
+            },
+            {
+                "name": "aluminium carbonate",
+                "qid": "Q4737377",
+                "url": "https://en.wikipedia.org/wiki/Aluminium_carbonate"
+            },
+            {
+                "name": "calcium gluceptate",
+                "qid": "Q5018826",
+                "url": "https://en.wikipedia.org/wiki/Calcium_glucoheptonate"
+            },
+            {
+                "name": "calcium carbonate",
+                "qid": "Q23767",
+                "url": "https://en.wikipedia.org/wiki/Calcium_carbonate"
+            },
+            {
+                "name": "carbonate ion",
+                "qid": "Q27104479"
+            },
+            {
+                "name": "dihydroxyaluminum sodium carbonate",
+                "qid": "Q27269528"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ]
+    }
+}

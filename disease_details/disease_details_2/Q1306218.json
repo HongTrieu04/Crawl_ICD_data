@@ -1,0 +1,33 @@
+{
+    "name": "pericardial effusion",
+    "qid": "Q1306218",
+    "icd_10": "I31.3",
+    "description": "pericardium disease that is characterized by an abnormal accumulation of fluid in the pericardial cavity",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pericardial_effusion",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "pericardium disease",
+                "qid": "Q18553502"
+            },
+            {
+                "name": "cardiovascular system symptom",
+                "qid": "Q102186826"
+            }
+        ]
+    }
+}

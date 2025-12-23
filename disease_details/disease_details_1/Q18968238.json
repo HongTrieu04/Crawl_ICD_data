@@ -1,0 +1,19 @@
+{
+    "name": "fetal or neonatal hemorrhage",
+    "qid": "Q18968238",
+    "icd_10": "P54",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete fetal or neonatal hemorrhage"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "hematological disease of fetus and newborn",
+                "qid": "Q19001385"
+            }
+        ]
+    }
+}

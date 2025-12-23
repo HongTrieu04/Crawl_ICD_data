@@ -1,0 +1,27 @@
+{
+    "name": "headache disorder",
+    "qid": "Q67841409",
+    "icd_10": "G44",
+    "description": "various conditions with the symptom of headache",
+    "aliases": [
+        "headache disorder"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Symptoms": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "encephalopathy",
+                "qid": "Q576349",
+                "url": "https://en.wikipedia.org/wiki/Encephalopathy"
+            }
+        ]
+    }
+}

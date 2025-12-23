@@ -1,0 +1,36 @@
+{
+    "name": "El Tor cholera",
+    "qid": "Q18971615",
+    "icd_10": "A00.1",
+    "description": "Human disease",
+    "aliases": [
+        "cholera due to Vibrio cholerae 01 biovar cholerae",
+        "Cholera due to Vibrio cholerae 01, biovar el tor",
+        "Cholera due to Vibrio cholerae el tor",
+        "Cholera due to Vibrio cholerae El Tor (disorder)",
+        "cholera eltor",
+        "Vibrio cholerae 01 biovar cholerae cholera",
+        "Vibrio cholerae biovar El Tor cholera",
+        "Vibrio cholerae el tor cholera",
+        "Vibrio cholerae O1 biovar El Tor cholera",
+        "Vibrio cholerae O1 biovar eltor cholera"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Cause": [
+            {
+                "name": "El Tor",
+                "qid": "Q2076733",
+                "url": "https://en.wikipedia.org/wiki/El_Tor"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "cholera",
+                "qid": "Q12090",
+                "url": "https://en.wikipedia.org/wiki/Cholera"
+            }
+        ]
+    }
+}

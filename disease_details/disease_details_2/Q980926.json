@@ -1,0 +1,126 @@
+{
+    "name": "polymyositis",
+    "qid": "Q980926",
+    "icd_10": "M33.2",
+    "description": "rare idiopathic inflammatory myopathy characterized by symmetric proximal muscle weakness and elevated muscle enzymes",
+    "aliases": [
+        "PM",
+        "Polymyositis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Polymyositis%20HE.jpg",
+    "url": "https://en.wikipedia.org/wiki/Polymyositis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "myositis",
+                "qid": "Q1433212",
+                "url": "https://en.wikipedia.org/wiki/Myositis"
+            },
+            {
+                "name": "autoimmune disease of musculoskeletal system",
+                "qid": "Q18553609"
+            },
+            {
+                "name": "secondary glomerular disease",
+                "qid": "Q55788835"
+            },
+            {
+                "name": "idiopathic inflammatory myopathy",
+                "qid": "Q55789135"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "azathioprine",
+                "qid": "Q18939",
+                "url": "https://en.wikipedia.org/wiki/Azathioprine"
+            },
+            {
+                "name": "corticosteroid",
+                "qid": "Q210420",
+                "url": "https://en.wikipedia.org/wiki/Corticosteroid"
+            },
+            {
+                "name": "cyclosporine",
+                "qid": "Q367700",
+                "url": "https://en.wikipedia.org/wiki/Ciclosporin"
+            },
+            {
+                "name": "methotrexate",
+                "qid": "Q422232",
+                "url": "https://en.wikipedia.org/wiki/Methotrexate"
+            },
+            {
+                "name": "intravenous immunoglobulin",
+                "qid": "Q20801760"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "myocarditis",
+                "qid": "Q186235",
+                "url": "https://en.wikipedia.org/wiki/Myocarditis"
+            },
+            {
+                "name": "muscle weakness",
+                "qid": "Q270421",
+                "url": "https://en.wikipedia.org/wiki/Muscle_weakness"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            },
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "prednisolone",
+                "qid": "Q11426176",
+                "url": "https://en.wikipedia.org/wiki/Prednisolone"
+            },
+            {
+                "name": "tacrolimus",
+                "qid": "Q411648",
+                "url": "https://en.wikipedia.org/wiki/Tacrolimus"
+            },
+            {
+                "name": "rituximab",
+                "qid": "Q412323",
+                "url": "https://en.wikipedia.org/wiki/Rituximab"
+            },
+            {
+                "name": "methotrexate",
+                "qid": "Q422232",
+                "url": "https://en.wikipedia.org/wiki/Methotrexate"
+            },
+            {
+                "name": "mycophenolate mofetil",
+                "qid": "Q4567614"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "autoimmune disease",
+                "qid": "Q8084905",
+                "url": "https://en.wikipedia.org/wiki/Autoimmune_disease"
+            }
+        ]
+    }
+}

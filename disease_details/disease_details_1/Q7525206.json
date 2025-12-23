@@ -1,0 +1,27 @@
+{
+    "name": "Sinus venosus atrial septal defect",
+    "qid": "Q7525206",
+    "icd_10": "Q21.1",
+    "description": "human disease",
+    "aliases": [
+        "ASD, sinus venosus type"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Sinus_venosus_atrial_septal_defect",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "atrial heart septal defect",
+                "qid": "Q757749",
+                "url": "https://en.wikipedia.org/wiki/Atrial_septal_defect"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

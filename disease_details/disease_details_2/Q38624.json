@@ -1,0 +1,27 @@
+{
+    "name": "dog bite",
+    "qid": "Q38624",
+    "icd_10": "W54",
+    "description": "bite inflicted upon a person, a group of persons or another animal by a dog",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20bite%20dog%2C%20from%20private%20contractor%2C%20Custer%20Battles%20K-9%20unit%20tackles%20a%20man%20in%20a%20protective%20suit%20during%20a%20training%20session%20at%20Baghdad%20International%20Airport%20%28IAP%29%2C%20Iraq%20during%20Operati%20-%20DPLA%20-%209a129dd86c2c27fbbffb8bf5a6f654ea.jpeg",
+    "url": "https://en.wikipedia.org/wiki/Dog_bite",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "animal bite",
+                "qid": "Q866650",
+                "url": "https://en.wikipedia.org/wiki/Animal_bite"
+            },
+            {
+                "name": "dog behavior",
+                "qid": "Q5288255",
+                "url": "https://en.wikipedia.org/wiki/Dog_behavior"
+            },
+            {
+                "name": "dog attack",
+                "qid": "Q30177123"
+            }
+        ]
+    }
+}

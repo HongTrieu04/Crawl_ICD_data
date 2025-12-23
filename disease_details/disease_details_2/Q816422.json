@@ -1,0 +1,35 @@
+{
+    "name": "dysmenorrhea",
+    "qid": "Q816422",
+    "icd_10": "N94.6",
+    "description": "pain during menstruation",
+    "aliases": [
+        "dysmenorrhœa",
+        "dysmenorrhoea",
+        "menstrual cramps",
+        "period cramps"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MenstrualCycle%20gen.svg",
+    "url": "https://en.wikipedia.org/wiki/Dysmenorrhea",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "menstrual disorder",
+                "qid": "Q2137327",
+                "url": "https://en.wikipedia.org/wiki/Menstrual_disorder"
+            },
+            {
+                "name": "pelvic pain",
+                "qid": "Q7161805",
+                "url": "https://en.wikipedia.org/wiki/Pelvic_pain"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "family medicine",
+                "qid": "Q3505712",
+                "url": "https://en.wikipedia.org/wiki/Family_medicine"
+            }
+        ]
+    }
+}

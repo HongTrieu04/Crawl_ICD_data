@@ -1,0 +1,43 @@
+{
+    "name": "amblyopia",
+    "qid": "Q207855",
+    "icd_10": "H53.0",
+    "description": "human disease",
+    "aliases": [
+        "lazy eye",
+        "suppression amblyopia"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Child%20eyepatch.jpg",
+    "url": "https://en.wikipedia.org/wiki/Amblyopia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "visual impairment",
+                "qid": "Q737460",
+                "url": "https://en.wikipedia.org/wiki/Visual_impairment"
+            },
+            {
+                "name": "eye disease",
+                "qid": "Q3041498",
+                "url": "https://en.wikipedia.org/wiki/Eye_disease"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            },
+            {
+                "name": "optometry",
+                "qid": "Q618211",
+                "url": "https://en.wikipedia.org/wiki/Optometry"
+            }
+        ]
+    }
+}

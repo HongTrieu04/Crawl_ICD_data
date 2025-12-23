@@ -1,0 +1,30 @@
+{
+    "name": "pseudopsychopathic schizophrenia",
+    "qid": "Q26721126",
+    "icd_10": "F21.4",
+    "description": "form of schizophrenia characterized by pseudopsychopathic defect (personality changes) resulting from the disease process",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "schizophrenia spectrum disorder",
+                "qid": "Q2903417",
+                "url": "https://en.wikipedia.org/wiki/Schizophrenia_spectrum"
+            },
+            {
+                "name": "schizophrenia",
+                "qid": "Q41112",
+                "url": "https://en.wikipedia.org/wiki/Schizophrenia"
+            }
+        ]
+    }
+}

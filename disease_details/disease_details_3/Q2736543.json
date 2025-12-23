@@ -1,0 +1,30 @@
+{
+    "name": "Erb's palsy",
+    "qid": "Q2736543",
+    "icd_10": "P14.0",
+    "description": "medical condition",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20diseases%20of%20infancy%20and%20childhood%20%281910%29%20%2814741111306%29.jpg",
+    "url": "https://en.wikipedia.org/wiki/Erb%27s_palsy",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            },
+            {
+                "name": "pediatrics",
+                "qid": "Q123028",
+                "url": "https://en.wikipedia.org/wiki/Pediatrics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "Obstetrical brachial plexus palsy",
+                "qid": "Q1629731",
+                "url": "https://en.wikipedia.org/wiki/Obstetrical_brachial_plexus_palsy"
+            }
+        ]
+    }
+}

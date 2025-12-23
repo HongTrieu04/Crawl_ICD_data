@@ -1,0 +1,31 @@
+{
+    "name": "cervicobrachial neuralgia",
+    "qid": "Q1056457",
+    "icd_10": "M53.1",
+    "description": null,
+    "aliases": [
+        "Cervico-omo-brachial syndrome"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "neuralgia",
+                "qid": "Q1136940",
+                "url": "https://en.wikipedia.org/wiki/Neuralgia"
+            },
+            {
+                "name": "brachial plexus neuritis",
+                "qid": "Q18556021"
+            }
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "name": "specific developmental disorder",
+    "qid": "Q7574983",
+    "icd_10": "F83",
+    "description": "range of neurodevelopmental conditions",
+    "aliases": [
+        "specific delays in development"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Specific_developmental_disorder",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "psychology",
+                "qid": "Q9418",
+                "url": "https://en.wikipedia.org/wiki/Psychology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "mental disorder",
+                "qid": "Q12135",
+                "url": "https://en.wikipedia.org/wiki/Mental_disorder"
+            },
+            {
+                "name": "developmental disorder",
+                "qid": "Q3087172",
+                "url": "https://en.wikipedia.org/wiki/Developmental_disorder"
+            },
+            {
+                "name": "neurological disorder",
+                "qid": "Q3339235",
+                "url": "https://en.wikipedia.org/wiki/Neurological_disorder"
+            },
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            }
+        ]
+    }
+}

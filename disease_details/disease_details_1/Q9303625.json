@@ -1,0 +1,99 @@
+{
+    "name": "tongue cancer",
+    "qid": "Q9303625",
+    "icd_10": "C02",
+    "description": "Human disease",
+    "aliases": [
+        "cancer of tongue",
+        "malignant neoplasm of anterior 2/3 of tongue",
+        "malignant neoplasm of anterior 2/3 of tongue unspecified (disorder)",
+        "malignant neoplasm of anterior two-thirds of tongue",
+        "malignant neoplasm of anterior two-thirds of tongue, part unspecified",
+        "malignant neoplasm of base of tongue",
+        "malignant neoplasm of border of tongue",
+        "malignant neoplasm of dorsal surface of tongue",
+        "malignant neoplasm of dorsal tongue",
+        "malignant neoplasm of dorsal tongue NOS",
+        "malignant neoplasm of dorsum of tongue",
+        "malignant neoplasm of dorsum of tongue NOS (disorder)",
+        "malignant neoplasm of fixed part of tongue",
+        "malignant neoplasm of fixed part of tongue NOS",
+        "malignant neoplasm of fixed part of tongue NOS (disorder)",
+        "malignant neoplasm of junctional zone of tongue",
+        "malignant neoplasm of lingual tonsil",
+        "malignant neoplasm of mobile part of tongue",
+        "malignant neoplasm of mobile part of tongue NOS",
+        "malignant neoplasm of other sites of tongue",
+        "malignant neoplasm of other sites of tongue (disorder)",
+        "Malignant Neoplasm of the Tongue",
+        "malignant neoplasm of tip and lateral border of tongue",
+        "malignant neoplasm of tip and/or lateral border of tongue",
+        "malignant neoplasm of tongue",
+        "malignant neoplasm of tongue NOS",
+        "malignant neoplasm of tongue NOS (disorder)",
+        "malignant neoplasm of tongue, NOS",
+        "malignant neoplasm of tongue, tip and lateral border",
+        "malignant neoplasm of tongue, tip and lateral border (disorder)",
+        "malignant neoplasm of ventral surface of tongue",
+        "malignant neoplasm of ventral tongue surface",
+        "malignant neoplasm of ventral tongue surface NOS (disorder)",
+        "malignant tongue neoplasm",
+        "Malignant Tongue Tumor",
+        "malignant tumor of anterior two-thirds of tongue",
+        "malignant tumor of anterior two-thirds of tongue (disorder)",
+        "malignant tumor of base of tongue",
+        "malignant tumor of base of tongue (disorder)",
+        "malignant tumor of lingual tonsil",
+        "malignant tumor of lingual tonsil (disorder)",
+        "malignant tumor of mobile part of tongue",
+        "malignant tumor of Posterior Tongue",
+        "Malignant Tumor of the Tongue",
+        "malignant tumor of tongue",
+        "malignant tumor of tongue (disorder)",
+        "Tongue carcinoma",
+        "Tongue neoplasm malignant",
+        "Tongue neoplasm malignant stage Unspecified",
+        "Tongue Neoplasm, Malignant"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/PLoS%20oral%20cancer.png",
+    "url": null,
+    "details": {
+        "Anatomical location": [
+            {
+                "name": "tongue",
+                "qid": "Q9614",
+                "url": "https://en.wikipedia.org/wiki/Tongue"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "cetuximab",
+                "qid": "Q420296",
+                "url": "https://en.wikipedia.org/wiki/Cetuximab"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "mouth cancer",
+                "qid": "Q1143025",
+                "url": "https://en.wikipedia.org/wiki/Oral_cancer"
+            },
+            {
+                "name": "tongue disease",
+                "qid": "Q7107436",
+                "url": "https://en.wikipedia.org/wiki/Tongue_disease"
+            },
+            {
+                "name": "tongue neoplasm",
+                "qid": "Q4335554"
+            }
+        ]
+    }
+}

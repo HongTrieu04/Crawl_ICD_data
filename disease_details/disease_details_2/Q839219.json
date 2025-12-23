@@ -1,0 +1,27 @@
+{
+    "name": "Hill–Sachs lesion",
+    "qid": "Q839219",
+    "icd_10": "S43.0",
+    "description": "cortical depression in the posterolateral head of the humerus",
+    "aliases": [
+        "Hill–Sachs fracture"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dislocated%20shoulder%20X-ray%2003.png",
+    "url": "https://en.wikipedia.org/wiki/Hill%E2%80%93Sachs_lesion",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "orthopedics",
+                "qid": "Q216685",
+                "url": "https://en.wikipedia.org/wiki/Orthopedic_surgery"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "shoulder problem",
+                "qid": "Q7502714",
+                "url": "https://en.wikipedia.org/wiki/Shoulder_problems"
+            }
+        ]
+    }
+}

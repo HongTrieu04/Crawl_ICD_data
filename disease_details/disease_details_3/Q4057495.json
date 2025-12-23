@@ -1,0 +1,49 @@
+{
+    "name": "parathyroid adenoma",
+    "qid": "Q4057495",
+    "icd_10": "D35.1",
+    "description": "Human disease",
+    "aliases": [
+        "adenoma of parathyroid",
+        "Adenoma of Parathyroid Gland",
+        "Adenoma of the Parathyroid",
+        "adenoma of the Parathyroid gland",
+        "Parathyroid Gland Adenoma"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Parathyroid_adenoma",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "adenoma",
+                "qid": "Q272741",
+                "url": "https://en.wikipedia.org/wiki/Adenoma"
+            },
+            {
+                "name": "parathyroid neoplasm",
+                "qid": "Q7136148",
+                "url": "https://en.wikipedia.org/wiki/Parathyroid_neoplasm"
+            },
+            {
+                "name": "benign neoplasms by histologic type",
+                "qid": "Q18553645"
+            },
+            {
+                "name": "benign parathyroid gland neoplasm",
+                "qid": "Q53844581"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ]
+    }
+}

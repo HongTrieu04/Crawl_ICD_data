@@ -1,0 +1,51 @@
+{
+    "name": "lipid metabolism disorder",
+    "qid": "Q1476525",
+    "icd_10": "E78.9",
+    "description": "abnormal levels of cholesterol & lipids",
+    "aliases": [
+        "dyslipidemia",
+        "fatty acid metabolism disorder",
+        "lipid metabolism disorders"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fig21Femme%20obese.jpg",
+    "url": "https://en.wikipedia.org/wiki/Dyslipidemia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "inherited metabolic disorder",
+                "qid": "Q1758393",
+                "url": "https://en.wikipedia.org/wiki/Inborn_errors_of_metabolism"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "rosuvastatin",
+                "qid": "Q415159",
+                "url": "https://en.wikipedia.org/wiki/Rosuvastatin"
+            },
+            {
+                "name": "fluvastatin",
+                "qid": "Q417942",
+                "url": "https://en.wikipedia.org/wiki/Fluvastatin"
+            },
+            {
+                "name": "colesevelam",
+                "qid": "Q899036",
+                "url": "https://en.wikipedia.org/wiki/Colesevelam"
+            }
+        ]
+    }
+}

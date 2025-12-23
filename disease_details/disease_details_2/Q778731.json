@@ -1,0 +1,38 @@
+{
+    "name": "pyuria",
+    "qid": "Q778731",
+    "icd_10": "N39.0",
+    "description": "symptom",
+    "aliases": [
+        "Pus cells in urine",
+        "Pus cells in urine (finding)",
+        "Pyuria (finding)"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pyuria.JPG",
+    "url": "https://en.wikipedia.org/wiki/Pyuria",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "urinary system disease",
+                "qid": "Q7900883",
+                "url": "https://en.wikipedia.org/wiki/Urologic_disease"
+            },
+            {
+                "name": "urological symptom",
+                "qid": "Q2565950"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "name": "smoke inhalation injury",
+    "qid": "Q2133097",
+    "icd_10": "J68.9",
+    "description": "primary cause of death for victims of fires",
+    "aliases": [
+        "smoke inhalation"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Smoke_inhalation",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "inhalation",
+                "qid": "Q840343",
+                "url": "https://en.wikipedia.org/wiki/Inhalation"
+            },
+            {
+                "name": "acute inhalation injury",
+                "qid": "Q1663497",
+                "url": "https://en.wikipedia.org/wiki/Acute_inhalation_injury"
+            },
+            {
+                "name": "intoxication",
+                "qid": "Q18621601",
+                "url": "https://en.wikipedia.org/wiki/Poisoning"
+            }
+        ]
+    }
+}

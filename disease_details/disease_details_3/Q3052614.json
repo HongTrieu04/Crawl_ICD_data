@@ -1,0 +1,32 @@
+{
+    "name": "nosophobia",
+    "qid": "Q3052614",
+    "icd_10": "F45.2",
+    "description": "specific phobia that involves an irrational fear of contracting a disease",
+    "aliases": [
+        "Fear of disease"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Nosophobia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "specific phobia",
+                "qid": "Q2015728",
+                "url": "https://en.wikipedia.org/wiki/Specific_phobia"
+            },
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            }
+        ]
+    }
+}

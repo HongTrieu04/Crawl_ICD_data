@@ -1,0 +1,69 @@
+{
+    "name": "Townes-Brocks syndrome",
+    "qid": "Q385774",
+    "icd_10": "Q87.8",
+    "description": "genetic disorder",
+    "aliases": [
+        "TBS",
+        "anus, imperforate, with hand, foot and ear anomalies",
+        "Anus, Imperforate, With Hand, Foot, and Ear Anomalies",
+        "deafness, sensorineural, with imperforate anus and hypoplastic thumbs",
+        "Deafness, Sensorineural, With Imperforate Anus and Thumb Anomalies",
+        "imperforate anus with hand, foot and ear anomalies",
+        "REAR syndrome",
+        "Renal-Ear-Anal-Radial Syndrome",
+        "sensorineural deafness with imperforate anus and hypoplastic thumbs",
+        "Townes syndrome",
+        "Townes-Brocks-Branchiootorenal-Like Syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Townes%E2%80%93Brocks_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "autosomal dominant disease",
+                "qid": "Q18553439"
+            },
+            {
+                "name": "multiple congenital anomalies/dysmorphic syndrome without intellectual disability",
+                "qid": "Q55785290"
+            },
+            {
+                "name": "syndromic anorectal malformation",
+                "qid": "Q55785353"
+            },
+            {
+                "name": "branchial arch or oral-acral syndrome",
+                "qid": "Q55785404"
+            },
+            {
+                "name": "otomandibular dysplasia associated with monogenic syndromes",
+                "qid": "Q55785509"
+            },
+            {
+                "name": "syndrome with limb duplication, polydactyly, syndactyly, and/or hyperphalangy",
+                "qid": "Q55787048"
+            },
+            {
+                "name": "syndromic genetic deafness",
+                "qid": "Q55788734"
+            },
+            {
+                "name": "syndromic renal or urinary tract malformation",
+                "qid": "Q55788832"
+            },
+            {
+                "name": "syndrome",
+                "qid": "Q179630",
+                "url": "https://en.wikipedia.org/wiki/Syndrome"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

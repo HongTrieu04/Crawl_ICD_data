@@ -1,0 +1,47 @@
+{
+    "name": "XXYYY syndrome",
+    "qid": "Q130608382",
+    "icd_10": "Q98.8",
+    "description": null,
+    "aliases": [
+        "49,XXYYY",
+        "49,XXYYY syndrome",
+        "XXYYY"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "Klinefelter's syndrome",
+                "qid": "Q207133",
+                "url": "https://en.wikipedia.org/wiki/Klinefelter_syndrome"
+            },
+            {
+                "name": "sex chromosome disorder",
+                "qid": "Q7458487",
+                "url": "https://en.wikipedia.org/wiki/Sex_chromosome_anomalies"
+            },
+            {
+                "name": "intersex variation",
+                "qid": "Q130487634",
+                "url": "https://en.wikipedia.org/wiki/Intersex_condition"
+            },
+            {
+                "name": "X chromosome number anomaly with male phenotype",
+                "qid": "Q55786715"
+            },
+            {
+                "name": "Y chromosome number anomaly",
+                "qid": "Q55786719"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

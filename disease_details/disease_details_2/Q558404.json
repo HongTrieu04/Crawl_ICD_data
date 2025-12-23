@@ -1,0 +1,68 @@
+{
+    "name": "alcoholic liver disease",
+    "qid": "Q558404",
+    "icd_10": "K70",
+    "description": "medical condition",
+    "aliases": [
+        "ALD",
+        "alcohol-related liver disease",
+        "Liver Diseases, Alcoholic"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alcoholic%20hepatitis.jpg",
+    "url": "https://en.wikipedia.org/wiki/Alcoholic_liver_disease",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "jaundice",
+                "qid": "Q133244",
+                "url": "https://en.wikipedia.org/wiki/Jaundice"
+            },
+            {
+                "name": "nausea",
+                "qid": "Q186889",
+                "url": "https://en.wikipedia.org/wiki/Nausea"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "preventive medicine",
+                "qid": "Q1773974",
+                "url": "https://en.wikipedia.org/wiki/Preventive_healthcare"
+            },
+            {
+                "name": "liver transplantation",
+                "qid": "Q1368191",
+                "url": "https://en.wikipedia.org/wiki/Liver_transplantation"
+            },
+            {
+                "name": "end",
+                "qid": "Q12769393"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "liver disease",
+                "qid": "Q929737",
+                "url": "https://en.wikipedia.org/wiki/Liver_disease"
+            },
+            {
+                "name": "long-term effects of alcohol consumption",
+                "qid": "Q1340700",
+                "url": "https://en.wikipedia.org/wiki/Long-term_effects_of_alcohol"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "alcohol consumption",
+                "qid": "Q2647488"
+            }
+        ]
+    }
+}

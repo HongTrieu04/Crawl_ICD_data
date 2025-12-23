@@ -1,0 +1,37 @@
+{
+    "name": "Diabetic bulla",
+    "qid": "Q5270130",
+    "icd_10": "L14",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Diabetic_bulla",
+    "details": {
+        "Cause": [
+            {
+                "name": "diabetes",
+                "qid": "Q12206",
+                "url": "https://en.wikipedia.org/wiki/Diabetes"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "pemphigoid",
+                "qid": "Q881811",
+                "url": "https://en.wikipedia.org/wiki/Pemphigoid"
+            },
+            {
+                "name": "diabetic dermadrome",
+                "qid": "Q5270133",
+                "url": "https://en.wikipedia.org/wiki/Diabetic_dermadrome"
+            }
+        ]
+    }
+}

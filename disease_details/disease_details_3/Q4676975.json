@@ -1,0 +1,30 @@
+{
+    "name": "actinomycetoma",
+    "qid": "Q4676975",
+    "icd_10": "B47.1",
+    "description": "bacterial infection of the skin",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Actinomycetoma",
+    "details": {
+        "Cause": [
+            {
+                "name": "infection",
+                "qid": "Q166231",
+                "url": "https://en.wikipedia.org/wiki/Infection"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "actinomycosis",
+                "qid": "Q422268",
+                "url": "https://en.wikipedia.org/wiki/Actinomycosis"
+            },
+            {
+                "name": "eumycotic mycetoma",
+                "qid": "Q1759514",
+                "url": "https://en.wikipedia.org/wiki/Eumycetoma"
+            }
+        ]
+    }
+}

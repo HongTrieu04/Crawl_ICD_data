@@ -1,0 +1,26 @@
+{
+    "name": "plasma cell dyscrasia",
+    "qid": "Q1706485",
+    "icd_10": "C90",
+    "description": "medical condition",
+    "aliases": [
+        "Plasma cell dyscrasias"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Plasma_cell_dyscrasias",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "blood protein disease",
+                "qid": "Q18557170"
+            }
+        ]
+    }
+}

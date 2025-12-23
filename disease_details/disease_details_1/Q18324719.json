@@ -1,0 +1,59 @@
+{
+    "name": "Chapare hemorrhagic fever",
+    "qid": "Q18324719",
+    "icd_10": "A96.8",
+    "description": "viral infectious disease that is a hemorrhagic fever, has material basis in Chapare virus. The infection has symptom headache, has symptom joint pain, has symptom muscle pain, has symptom vomiting, has symptom shock, and has symptom bleeding",
+    "aliases": [
+        "CHHF"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Symptoms": [
+            {
+                "name": "vomiting",
+                "qid": "Q127076",
+                "url": "https://en.wikipedia.org/wiki/Vomiting"
+            },
+            {
+                "name": "bleeding",
+                "qid": "Q166019",
+                "url": "https://en.wikipedia.org/wiki/Bleeding"
+            },
+            {
+                "name": "shock",
+                "qid": "Q178061",
+                "url": "https://en.wikipedia.org/wiki/Shock_(circulatory)"
+            },
+            {
+                "name": "arthralgia",
+                "qid": "Q683498",
+                "url": "https://en.wikipedia.org/wiki/Arthralgia"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "viral infectious disease",
+                "qid": "Q1928978",
+                "url": "https://en.wikipedia.org/wiki/Viral_disease"
+            },
+            {
+                "name": "arenavirus hemorrhagic fever",
+                "qid": "Q19001357"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Chapare virus",
+                "qid": "Q839212"
+            }
+        ]
+    }
+}

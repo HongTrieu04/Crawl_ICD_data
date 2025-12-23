@@ -1,0 +1,30 @@
+{
+    "name": "transvestic fetishism",
+    "qid": "Q377402",
+    "icd_10": "F65.1",
+    "description": "psychiatric diagnosis applied to those who are thought to have an excessive sexual or erotic interest in cross-dressing",
+    "aliases": [
+        "fetishistic transvestism",
+        "transvestic disorder with autogynephilia",
+        "transvestic fetishism (disorder)",
+        "transvestic fetishism with gender dysphoria"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Transvestite%20in%20rubber%20clothes.jpg",
+    "url": "https://en.wikipedia.org/wiki/Transvestic_fetishism",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "paraphilia",
+                "qid": "Q178059",
+                "url": "https://en.wikipedia.org/wiki/Paraphilia"
+            }
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "name": "benzodiazepine dependence",
+    "qid": "Q380409",
+    "icd_10": "F13",
+    "description": "one or more of either tolerance, withdrawal symptoms, drug seeking behaviors, such as continued use despite harmful effects, and maladaptive pattern of substance use, according to the DSM-IV",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Benzodiazepine_dependence",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "benzodiazepine drug",
+                "qid": "Q83871",
+                "url": "https://en.wikipedia.org/wiki/Benzodiazepine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "abuse of medicaments",
+                "qid": "Q2258219"
+            }
+        ]
+    }
+}

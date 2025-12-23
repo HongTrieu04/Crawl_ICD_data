@@ -1,0 +1,26 @@
+{
+    "name": "arhinencephaly",
+    "qid": "Q51725236",
+    "icd_10": "Q04.1",
+    "description": "absence of olfactory bulbs and tracts development during the antenatal period",
+    "aliases": [
+        "Arrhinencephaly"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Symptoms": [
+            {
+                "name": "anosmia",
+                "qid": "Q468433",
+                "url": "https://en.wikipedia.org/wiki/Anosmia"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "cyclocéphalians",
+                "qid": "Q16545395"
+            }
+        ]
+    }
+}

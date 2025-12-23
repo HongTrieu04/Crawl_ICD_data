@@ -1,0 +1,39 @@
+{
+    "name": "pylorospasm",
+    "qid": "Q4362791",
+    "icd_10": "K31.3",
+    "description": "Human disease",
+    "aliases": [
+        "Pylorospasm (disorder)"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "stomach disease",
+                "qid": "Q175827",
+                "url": "https://en.wikipedia.org/wiki/Stomach_disease"
+            },
+            {
+                "name": "gastric outlet obstruction",
+                "qid": "Q5526789",
+                "url": "https://en.wikipedia.org/wiki/Gastric_outlet_obstruction"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "pylorus",
+                "qid": "Q290248",
+                "url": "https://en.wikipedia.org/wiki/Pylorus"
+            }
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "name": "heparin-induced thrombocytopenia",
+    "qid": "Q1598365",
+    "icd_10": "D69.5",
+    "description": "development of thrombocytopenia (a low platelet count), due to the administration of various forms of heparin, an anticoagulant",
+    "aliases": [
+        "HIT",
+        "HAT",
+        "Heparin-associated thrombocytopenia",
+        "Heparin-induced thrombocytopenia",
+        "Heparin-induced thrombocytopenia type 2"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Heparin-induced_thrombocytopenia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "adverse drug reaction",
+                "qid": "Q45959",
+                "url": "https://en.wikipedia.org/wiki/Adverse_drug_reaction"
+            },
+            {
+                "name": "rare thrombotic disorder due to an acquired coagulation factors defect",
+                "qid": "Q55786346"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "heparin",
+                "qid": "Q190016",
+                "url": "https://en.wikipedia.org/wiki/Heparin"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "(21R)-argatroban",
+                "qid": "Q474880",
+                "url": "https://en.wikipedia.org/wiki/Argatroban"
+            }
+        ]
+    }
+}

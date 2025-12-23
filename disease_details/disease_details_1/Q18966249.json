@@ -1,0 +1,27 @@
+{
+    "name": "Chlamydia trachomatis peritonitis",
+    "qid": "Q18966249",
+    "icd_10": "K67.0",
+    "description": "Human disease",
+    "aliases": [
+        "Chlamydial peritonitis",
+        "obsolete Chlamydia trachomatis peritonitis",
+        "venereal disease of peritoneum due to Chlamydia trachomatis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "chlamydia infection",
+                "qid": "Q153356",
+                "url": "https://en.wikipedia.org/wiki/Chlamydia"
+            },
+            {
+                "name": "peritonitis",
+                "qid": "Q223102",
+                "url": "https://en.wikipedia.org/wiki/Peritonitis"
+            }
+        ]
+    }
+}

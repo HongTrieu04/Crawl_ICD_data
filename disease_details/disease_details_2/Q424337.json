@@ -1,0 +1,39 @@
+{
+    "name": "acute kidney injury",
+    "qid": "Q424337",
+    "icd_10": "N17",
+    "description": "abrupt loss of kidney function that develops within 48 hours",
+    "aliases": [
+        "ARF",
+        "AKI",
+        "acute kidney failure",
+        "acute kidney injuries",
+        "Acute kidney injury、AKI",
+        "acute renal failure",
+        "kidney failure, acute",
+        "uremic poisoning"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kidney%20%E2%80%93%20acute%20cortical%20necrosis.jpg",
+    "url": "https://en.wikipedia.org/wiki/Acute_kidney_injury",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "kidney failure",
+                "qid": "Q476921",
+                "url": "https://en.wikipedia.org/wiki/Kidney_failure"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "nephrology",
+                "qid": "Q177635",
+                "url": "https://en.wikipedia.org/wiki/Nephrology"
+            }
+        ]
+    }
+}

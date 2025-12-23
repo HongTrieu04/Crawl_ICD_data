@@ -1,0 +1,139 @@
+{
+    "name": "hepatitis B",
+    "qid": "Q6853",
+    "icd_10": "B18.1",
+    "description": "human viral infection",
+    "aliases": [
+        "Hepatitis B",
+        "hepatitis B infection",
+        "hepatitis type B",
+        "serum hepatitis",
+        "Viral Hepatitis B"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hepatitis%20B%20virus%2001.jpg",
+    "url": "https://en.wikipedia.org/wiki/Hepatitis_B",
+    "details": {
+        "Cause": [
+            {
+                "name": "Hepatitis B virus",
+                "qid": "Q6844",
+                "url": "https://en.wikipedia.org/wiki/Hepatitis_B_virus"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "viral infectious disease",
+                "qid": "Q1928978",
+                "url": "https://en.wikipedia.org/wiki/Viral_disease"
+            },
+            {
+                "name": "viral hepatitis",
+                "qid": "Q1983841",
+                "url": "https://en.wikipedia.org/wiki/Viral_hepatitis"
+            },
+            {
+                "name": "Hepadnaviridae infectious disease",
+                "qid": "Q19000567"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "hepatitis",
+                "qid": "Q131742",
+                "url": "https://en.wikipedia.org/wiki/Hepatitis"
+            },
+            {
+                "name": "jaundice",
+                "qid": "Q133244",
+                "url": "https://en.wikipedia.org/wiki/Jaundice"
+            },
+            {
+                "name": "vomiting",
+                "qid": "Q127076",
+                "url": "https://en.wikipedia.org/wiki/Vomiting"
+            },
+            {
+                "name": "hepatic encephalopathy",
+                "qid": "Q642548",
+                "url": "https://en.wikipedia.org/wiki/Hepatic_encephalopathy"
+            },
+            {
+                "name": "nausea",
+                "qid": "Q186889",
+                "url": "https://en.wikipedia.org/wiki/Nausea"
+            },
+            {
+                "name": "anorexia",
+                "qid": "Q254327",
+                "url": "https://en.wikipedia.org/wiki/Anorexia_(symptom)"
+            },
+            {
+                "name": "arthralgia",
+                "qid": "Q683498",
+                "url": "https://en.wikipedia.org/wiki/Arthralgia"
+            },
+            {
+                "name": "splenomegaly",
+                "qid": "Q1129121",
+                "url": "https://en.wikipedia.org/wiki/Splenomegaly"
+            },
+            {
+                "name": "acute liver failure",
+                "qid": "Q1192530",
+                "url": "https://en.wikipedia.org/wiki/Acute_liver_failure"
+            },
+            {
+                "name": "hepatomegaly",
+                "qid": "Q1362864",
+                "url": "https://en.wikipedia.org/wiki/Hepatomegaly"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "tenofovir alafenamide",
+                "qid": "Q22075912",
+                "url": "https://en.wikipedia.org/wiki/Tenofovir_alafenamide"
+            },
+            {
+                "name": "peginterferon alfa-2a",
+                "qid": "Q420056",
+                "url": "https://en.wikipedia.org/wiki/Peginterferon_alfa-2a"
+            },
+            {
+                "name": "lamivudine",
+                "qid": "Q422631",
+                "url": "https://en.wikipedia.org/wiki/Lamivudine"
+            },
+            {
+                "name": "tenofovir disoproxil",
+                "qid": "Q155954",
+                "url": "https://en.wikipedia.org/wiki/Tenofovir_disoproxil"
+            },
+            {
+                "name": "adefovir",
+                "qid": "Q353551",
+                "url": "https://en.wikipedia.org/wiki/Adefovir"
+            },
+            {
+                "name": "entecavir hydrate",
+                "qid": "Q27126952"
+            },
+            {
+                "name": "bicyclol",
+                "qid": "Q27271958"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

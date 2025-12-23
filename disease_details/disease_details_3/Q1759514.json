@@ -1,0 +1,43 @@
+{
+    "name": "eumycotic mycetoma",
+    "qid": "Q1759514",
+    "icd_10": "B47.0",
+    "description": "chronic granulomatous fungal disease of humans",
+    "aliases": [
+        "Madura foot",
+        "Ballingall's disease",
+        "eumycetoma",
+        "maduromycosis",
+        "Maduromycosis, mycotic",
+        "Mycotic mycetoma",
+        "Mycotic mycetoma (disorder)"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Madura%20foot..JPG",
+    "url": "https://en.wikipedia.org/wiki/Eumycetoma",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "dermatomycosis",
+                "qid": "Q3705876",
+                "url": "https://en.wikipedia.org/wiki/Dermatomycosis"
+            },
+            {
+                "name": "mycetoma",
+                "qid": "Q16877704",
+                "url": "https://en.wikipedia.org/wiki/Mycetoma"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

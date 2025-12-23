@@ -1,0 +1,30 @@
+{
+    "name": "Congenital dislocation of the knee",
+    "qid": "Q16830424",
+    "icd_10": "Q68.2",
+    "description": "human disease",
+    "aliases": [
+        "Congenital knee dislocation"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Anatomical location": [
+            {
+                "name": "knee",
+                "qid": "Q37425",
+                "url": "https://en.wikipedia.org/wiki/Knee"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "developmental dislocation of joint",
+                "qid": "Q18966410"
+            },
+            {
+                "name": "knee disorder",
+                "qid": "Q18971535"
+            }
+        ]
+    }
+}

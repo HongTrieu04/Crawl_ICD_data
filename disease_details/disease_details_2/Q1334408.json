@@ -1,0 +1,30 @@
+{
+    "name": "severe combined immunodeficiency",
+    "qid": "Q1334408",
+    "icd_10": "D81.2",
+    "description": "combined T cell and B cell immunodeficiency that is caused by a defect in several genes encoding for B and T lymphocytes resulting in individuals with non-functional immune systems",
+    "aliases": [
+        "SCID",
+        "combined T and B cell inborn immunodeficiency",
+        "Severe combined immunodeficiency",
+        "Severe combined immunodeficiency disease (disorder)"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Severe_combined_immunodeficiency",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "immunology",
+                "qid": "Q101929",
+                "url": "https://en.wikipedia.org/wiki/Immunology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "combined immunodeficiency",
+                "qid": "Q5150906",
+                "url": "https://en.wikipedia.org/wiki/Combined_immunodeficiencies"
+            }
+        ]
+    }
+}

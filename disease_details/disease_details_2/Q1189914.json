@@ -1,0 +1,18 @@
+{
+    "name": "tooth development disorder",
+    "qid": "Q1189914",
+    "icd_10": "K00",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "dental disease",
+                "qid": "Q5259414",
+                "url": "https://en.wikipedia.org/wiki/Tooth_pathology"
+            }
+        ]
+    }
+}

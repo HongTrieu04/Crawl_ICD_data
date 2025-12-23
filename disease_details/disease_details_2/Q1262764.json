@@ -1,0 +1,25 @@
+{
+    "name": "Bezold's abscess",
+    "qid": "Q1262764",
+    "icd_10": "H70.0",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Bezold%27s_abscess",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "otolaryngology",
+                "qid": "Q189553",
+                "url": "https://en.wikipedia.org/wiki/Otorhinolaryngology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "abscess",
+                "qid": "Q164655",
+                "url": "https://en.wikipedia.org/wiki/Abscess"
+            }
+        ]
+    }
+}

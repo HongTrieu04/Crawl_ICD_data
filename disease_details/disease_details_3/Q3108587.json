@@ -1,0 +1,25 @@
+{
+    "name": "pigmentary glaucoma",
+    "qid": "Q3108587",
+    "icd_10": "H40.1",
+    "description": "secondary forma of glaucoma",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "glaucoma",
+                "qid": "Q159701",
+                "url": "https://en.wikipedia.org/wiki/Glaucoma"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "pigment dispersion syndrome",
+                "qid": "Q2753827",
+                "url": "https://en.wikipedia.org/wiki/Pigment_dispersion_syndrome"
+            }
+        ]
+    }
+}

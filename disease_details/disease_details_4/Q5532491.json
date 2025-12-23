@@ -1,0 +1,25 @@
+{
+    "name": "Generalized lymphadenopathy",
+    "qid": "Q5532491",
+    "icd_10": "R59.1",
+    "description": "generalised lymphadenites",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Generalized_lymphadenopathy",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "lymphadenopathy",
+                "qid": "Q847726",
+                "url": "https://en.wikipedia.org/wiki/Lymphadenopathy"
+            }
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "name": "airsickness",
+    "qid": "Q4699003",
+    "icd_10": "T75.3",
+    "description": "Motion sickness induced by air travel",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Airsickness",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            },
+            {
+                "name": "dizziness",
+                "qid": "Q10916362",
+                "url": "https://en.wikipedia.org/wiki/Dizziness"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "altitude",
+                "qid": "Q190200",
+                "url": "https://en.wikipedia.org/wiki/Altitude"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "motion sickness",
+                "qid": "Q309067",
+                "url": "https://en.wikipedia.org/wiki/Motion_sickness"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "symptomatic treatment",
+                "qid": "Q621558",
+                "url": "https://en.wikipedia.org/wiki/Symptomatic_treatment"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ]
+    }
+}

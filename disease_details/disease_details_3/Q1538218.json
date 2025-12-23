@@ -1,0 +1,59 @@
+{
+    "name": "Muckle-Wells syndrome",
+    "qid": "Q1538218",
+    "icd_10": "E85.0",
+    "description": "Human disease",
+    "aliases": [
+        "MWS",
+        "Cryopyrin-Associated Periodic Syndrome 2",
+        "MUCKLE-WELLS SYNDROME",
+        "MUCKLE-WELLS SYNDROME; MWS",
+        "Neutrophilic urticaria",
+        "Uda Syndrome",
+        "Urticaria-Deafness-Amyloidosis Syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Muckle%E2%80%93Wells_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            },
+            {
+                "name": "clinical immunology",
+                "qid": "Q3149141"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "syndrome",
+                "qid": "Q179630",
+                "url": "https://en.wikipedia.org/wiki/Syndrome"
+            },
+            {
+                "name": "cryopyrin-associated periodic syndrome",
+                "qid": "Q1771331",
+                "url": "https://en.wikipedia.org/wiki/Cryopyrin-associated_periodic_syndrome"
+            },
+            {
+                "name": "urticarial syndrome",
+                "qid": "Q7901363",
+                "url": "https://en.wikipedia.org/wiki/Urticarial_syndromes"
+            },
+            {
+                "name": "autosomal dominant disease",
+                "qid": "Q18553439"
+            },
+            {
+                "name": "secondary glomerular disease",
+                "qid": "Q55788835"
+            },
+            {
+                "name": "rare genetic renal disease",
+                "qid": "Q55789069"
+            }
+        ]
+    }
+}

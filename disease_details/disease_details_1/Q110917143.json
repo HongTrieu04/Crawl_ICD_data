@@ -1,0 +1,19 @@
+{
+    "name": "feeding difficulties",
+    "qid": "Q110917143",
+    "icd_10": "R63.3",
+    "description": null,
+    "aliases": [
+        "Feeding Problem"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "feeding difficulties and mismanagement",
+                "qid": "Q102187035"
+            }
+        ]
+    }
+}

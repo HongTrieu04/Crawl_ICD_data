@@ -1,0 +1,32 @@
+{
+    "name": "Microspherophakia",
+    "qid": "Q3857010",
+    "icd_10": "Q12.8",
+    "description": "disorder of lens",
+    "aliases": [
+        "MSPKA",
+        "MICROSPHEROPHAKIA AND/OR MEGALOCORNEA, WITH ECTOPIA LENTIS AND WITH OR WITHOUT SECONDARY GLAUCOMA",
+        "MICROSPHEROPHAKIA AND/OR MEGALOCORNEA, WITH ECTOPIA LENTIS AND WITH OR WITHOUT SECONDARY GLAUCOMA; MSPKA"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Microspherophakia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "microphakia",
+                "qid": "Q3856970"
+            },
+            {
+                "name": "sphérophakia",
+                "qid": "Q3958669"
+            }
+        ]
+    }
+}

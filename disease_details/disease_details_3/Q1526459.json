@@ -1,0 +1,82 @@
+{
+    "name": "pyoderma gangrenosum",
+    "qid": "Q1526459",
+    "icd_10": "L88",
+    "description": "condition that causes tissue to become necrotic, causing deep ulcers that usually occur on the legs",
+    "aliases": [
+        "Pyoderma gangrenosum",
+        "Pyoderma gangrenosum (disorder)"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Crohnie%20Pyoderma%20gangrenosum.jpg",
+    "url": "https://en.wikipedia.org/wiki/Pyoderma_gangrenosum",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "pyoderma",
+                "qid": "Q2119633",
+                "url": "https://en.wikipedia.org/wiki/Pyoderma"
+            },
+            {
+                "name": "reactive neutrophilic dermatose",
+                "qid": "Q7300315",
+                "url": "https://en.wikipedia.org/wiki/Reactive_neutrophilic_dermatoses"
+            },
+            {
+                "name": "autoinflammatory syndrome with skin involvement",
+                "qid": "Q55787013"
+            },
+            {
+                "name": "pyogenic autoinflammatory syndrome",
+                "qid": "Q55787618"
+            },
+            {
+                "name": "rare skin disease",
+                "qid": "Q55788696"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "thalidomide",
+                "qid": "Q203174",
+                "url": "https://en.wikipedia.org/wiki/Thalidomide"
+            },
+            {
+                "name": "adalimumab",
+                "qid": "Q348260",
+                "url": "https://en.wikipedia.org/wiki/Adalimumab"
+            },
+            {
+                "name": "infliximab",
+                "qid": "Q415264",
+                "url": "https://en.wikipedia.org/wiki/Infliximab"
+            },
+            {
+                "name": "clofazimine",
+                "qid": "Q418611",
+                "url": "https://en.wikipedia.org/wiki/Clofazimine"
+            },
+            {
+                "name": "sulfapyridine",
+                "qid": "Q3976827",
+                "url": "https://en.wikipedia.org/wiki/Sulfapyridine"
+            },
+            {
+                "name": "prednisolone",
+                "qid": "Q11426176",
+                "url": "https://en.wikipedia.org/wiki/Prednisolone"
+            }
+        ]
+    }
+}

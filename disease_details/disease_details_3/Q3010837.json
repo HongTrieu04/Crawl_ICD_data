@@ -1,0 +1,27 @@
+{
+    "name": "univentricular heart",
+    "qid": "Q3010837",
+    "icd_10": "Q20.4",
+    "description": null,
+    "aliases": [
+        "Common ventricle",
+        "Double inlet left ventricle"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "univentricular cardiopathy",
+                "qid": "Q55788895"
+            }
+        ]
+    }
+}

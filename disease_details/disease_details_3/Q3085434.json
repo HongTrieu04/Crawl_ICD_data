@@ -1,0 +1,59 @@
+{
+    "name": "Pallister-Hall syndrome",
+    "qid": "Q3085434",
+    "icd_10": "D33.0",
+    "description": "Human disease",
+    "aliases": [
+        "PHS",
+        "A syndrome that is characterized by hypothalamic hamartoma, pituitary dysfunction, central polydactyly, and visceral malformations and has_material_basis_in autosomal dominant heterozygous mutation in the GLI3 gene on chromosome 7p14.",
+        "Ano-cerebro-digital Syndrome",
+        "Hypothalamic hamartoblastoma syndrome",
+        "Hypothalamic Hamartoblastoma, Hypopituitarism, Imperforate Anus, and Postaxial Polydactyly",
+        "Pallister Hall syndrome",
+        "PALLISTER-HALL SYNDROME",
+        "Pallister-Hall syndrome (disorder)",
+        "PALLISTER-HALL SYNDROME; PHS"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pallister%E2%80%93Hall_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "syndrome",
+                "qid": "Q179630",
+                "url": "https://en.wikipedia.org/wiki/Syndrome"
+            },
+            {
+                "name": "autosomal dominant disease",
+                "qid": "Q18553439"
+            },
+            {
+                "name": "multiple congenital anomalies/dysmorphic syndrome-variable intellectual disability syndrome",
+                "qid": "Q55785289"
+            },
+            {
+                "name": "syndromic anorectal malformation",
+                "qid": "Q55785353"
+            },
+            {
+                "name": "syndrome with limb duplication, polydactyly, syndactyly, and/or hyperphalangy",
+                "qid": "Q55787048"
+            },
+            {
+                "name": "syndromic renal or urinary tract malformation",
+                "qid": "Q55788832"
+            },
+            {
+                "name": "disease associated with non-acquired combined pituitary hormone deficiency",
+                "qid": "Q55788902"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

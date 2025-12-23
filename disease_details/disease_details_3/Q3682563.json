@@ -1,0 +1,27 @@
+{
+    "name": "acute cholecystitis",
+    "qid": "Q3682563",
+    "icd_10": "K81.0",
+    "description": null,
+    "aliases": [
+        "Cholecystitis, Acute"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "cholecystitis",
+                "qid": "Q376666",
+                "url": "https://en.wikipedia.org/wiki/Cholecystitis"
+            }
+        ]
+    }
+}

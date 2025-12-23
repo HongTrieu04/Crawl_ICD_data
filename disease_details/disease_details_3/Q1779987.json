@@ -1,0 +1,59 @@
+{
+    "name": "X-linked hypophosphatemic rickets",
+    "qid": "Q1779987",
+    "icd_10": "E83.31",
+    "description": "Human disease",
+    "aliases": [
+        "Hyp",
+        "XLH",
+        "Familial Hypophosphatemic Rickets",
+        "hereditary hypophosphatemic rickets, X-linked",
+        "Hypophosphatemia, Vitamin D-Resistant Rickets",
+        "Hypophosphatemia, X-Linked",
+        "hypophosphatemic rickets X-linked dominant",
+        "hypophosphatemic rickets, X-linked",
+        "HYPOPHOSPHATEMIC RICKETS, X-LINKED DOMINANT",
+        "HYPOPHOSPHATEMIC RICKETS, X-LINKED DOMINANT; XLHR",
+        "Hypophosphatemic Vitamin D-Resistant Rickets",
+        "Rickets, Vitamin D-Resistant",
+        "Vitamin D-Resistant Rickets, X-Linked",
+        "X-linked dominant hypophosphatemic rickets",
+        "X-linked hypophosphatemia",
+        "XLHR"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/X-linked_hypophosphatemia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "pediatrics",
+                "qid": "Q123028",
+                "url": "https://en.wikipedia.org/wiki/Pediatrics"
+            },
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "rickets",
+                "qid": "Q183392",
+                "url": "https://en.wikipedia.org/wiki/Rickets"
+            },
+            {
+                "name": "familial hypophosphatemia",
+                "qid": "Q18975841"
+            },
+            {
+                "name": "hypophosphatemic rickets",
+                "qid": "Q54945704"
+            },
+            {
+                "name": "X-linked dominant disease",
+                "qid": "Q55010089"
+            }
+        ]
+    }
+}

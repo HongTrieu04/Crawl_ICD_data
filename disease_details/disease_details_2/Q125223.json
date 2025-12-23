@@ -1,0 +1,28 @@
+{
+    "name": "oxygen toxicity",
+    "qid": "Q125223",
+    "icd_10": "T59.8",
+    "description": "condition resulting from the harmful effects of breathing molecular oxygen at increased partial pressures",
+    "aliases": [
+        "oxygen intoxication",
+        "oxygen poisoning",
+        "oxygen toxicity syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Oxygen_toxicity",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "poisoning",
+                "qid": "Q114953"
+            }
+        ]
+    }
+}

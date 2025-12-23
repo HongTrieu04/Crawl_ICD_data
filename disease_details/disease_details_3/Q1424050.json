@@ -1,0 +1,27 @@
+{
+    "name": "sclerodactyly",
+    "qid": "Q1424050",
+    "icd_10": "L94.3",
+    "description": "medical condition",
+    "aliases": [
+        "Acrosclerosis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Sclerodactyly",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "pachyderma",
+                "qid": "Q3360135",
+                "url": "https://en.wikipedia.org/wiki/Pachyderma"
+            }
+        ]
+    }
+}

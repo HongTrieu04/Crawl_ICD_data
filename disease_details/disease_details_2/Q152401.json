@@ -1,0 +1,74 @@
+{
+    "name": "foot-and-mouth disease",
+    "qid": "Q152401",
+    "icd_10": "B08.8",
+    "description": "infectious and sometimes fatal viral disease that affects cloven-hoofed animals and caused by apthovirus",
+    "aliases": [
+        "FMD",
+        "aphthous fever",
+        "Epizootic stomatitis",
+        "foot and mouth disease",
+        "hoof-and-mouth disease",
+        "obsolete foot and mouth disease"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Foot%20and%20mouth%20disease%20in%20mouth.jpg",
+    "url": "https://en.wikipedia.org/wiki/Foot-and-mouth_disease",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "aphthous stomatitis",
+                "qid": "Q189956",
+                "url": "https://en.wikipedia.org/wiki/Aphthous_stomatitis"
+            },
+            {
+                "name": "myalgia",
+                "qid": "Q474959",
+                "url": "https://en.wikipedia.org/wiki/Myalgia"
+            },
+            {
+                "name": "arthralgia",
+                "qid": "Q683498",
+                "url": "https://en.wikipedia.org/wiki/Arthralgia"
+            },
+            {
+                "name": "saliva secretion",
+                "qid": "Q4424146",
+                "url": "https://en.wikipedia.org/wiki/Salivation"
+            },
+            {
+                "name": "poisoning",
+                "qid": "Q114953"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            },
+            {
+                "name": "veterinary medicine",
+                "qid": "Q170201",
+                "url": "https://en.wikipedia.org/wiki/Veterinary_medicine"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "foot-and-mouth disease virus",
+                "qid": "Q1911079",
+                "url": "https://en.wikipedia.org/wiki/Foot-and-mouth_disease_virus"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "Picornaviridae infectious disease",
+                "qid": "Q18975569"
+            }
+        ]
+    }
+}

@@ -1,0 +1,172 @@
+{
+    "name": "osteoarthritis",
+    "qid": "Q62736",
+    "icd_10": "M47",
+    "description": "form of arthritis caused by degeneration of joints",
+    "aliases": [
+        "osteoarthrosis és rokon rendellenességek",
+        "DJD",
+        "osteoarthrosis",
+        "degeneratív ízületi betegség",
+        "degeneratív ízületi gyulladás",
+        "hipertrófiás ízületi gyulladás"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Heberden-Arthrose.JPG",
+    "url": "https://en.wikipedia.org/wiki/Osteoarthritis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "arthritis",
+                "qid": "Q170990",
+                "url": "https://en.wikipedia.org/wiki/Arthritis"
+            },
+            {
+                "name": "degenerative disorder of musculoskeletal system",
+                "qid": "Q100740636"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "ibuprofen",
+                "qid": "Q186969",
+                "url": "https://en.wikipedia.org/wiki/Ibuprofen"
+            },
+            {
+                "name": "aspirin",
+                "qid": "Q18216",
+                "url": "https://en.wikipedia.org/wiki/Aspirin"
+            },
+            {
+                "name": "Diclofenac",
+                "qid": "Q244408",
+                "url": "https://en.wikipedia.org/wiki/Diclofenac"
+            },
+            {
+                "name": "D-glucosamine",
+                "qid": "Q327506",
+                "url": "https://en.wikipedia.org/wiki/Glucosamine"
+            },
+            {
+                "name": "valdecoxib",
+                "qid": "Q347613",
+                "url": "https://en.wikipedia.org/wiki/Valdecoxib"
+            },
+            {
+                "name": "piroxicam",
+                "qid": "Q408676",
+                "url": "https://en.wikipedia.org/wiki/Piroxicam"
+            },
+            {
+                "name": "celecoxib",
+                "qid": "Q408801",
+                "url": "https://en.wikipedia.org/wiki/Celecoxib"
+            },
+            {
+                "name": "(RS)-ketoprofen",
+                "qid": "Q409192",
+                "url": "https://en.wikipedia.org/wiki/Ketoprofen"
+            },
+            {
+                "name": "indomethacin",
+                "qid": "Q409231",
+                "url": "https://en.wikipedia.org/wiki/Indometacin"
+            },
+            {
+                "name": "rofecoxib",
+                "qid": "Q411412",
+                "url": "https://en.wikipedia.org/wiki/Rofecoxib"
+            },
+            {
+                "name": "meloxicam",
+                "qid": "Q414028",
+                "url": "https://en.wikipedia.org/wiki/Meloxicam"
+            },
+            {
+                "name": "(±)-flurbiprofen",
+                "qid": "Q419890",
+                "url": "https://en.wikipedia.org/wiki/Flurbiprofen"
+            },
+            {
+                "name": "nabumetone",
+                "qid": "Q425207",
+                "url": "https://en.wikipedia.org/wiki/Nabumetone"
+            },
+            {
+                "name": "sulindac",
+                "qid": "Q963093",
+                "url": "https://en.wikipedia.org/wiki/Sulindac"
+            },
+            {
+                "name": "naproxen",
+                "qid": "Q1215575",
+                "url": "https://en.wikipedia.org/wiki/Naproxen"
+            },
+            {
+                "name": "oxaprozin",
+                "qid": "Q1749609",
+                "url": "https://en.wikipedia.org/wiki/Oxaprozin"
+            },
+            {
+                "name": "(RS)-etodolac",
+                "qid": "Q2465218",
+                "url": "https://en.wikipedia.org/wiki/Etodolac"
+            },
+            {
+                "name": "(RS)-fenoprofen",
+                "qid": "Q2555245",
+                "url": "https://en.wikipedia.org/wiki/Fenoprofen"
+            },
+            {
+                "name": "diflunisal",
+                "qid": "Q2602750",
+                "url": "https://en.wikipedia.org/wiki/Diflunisal"
+            },
+            {
+                "name": "tolmetin",
+                "qid": "Q3992411",
+                "url": "https://en.wikipedia.org/wiki/Tolmetin"
+            },
+            {
+                "name": "tepoxalin",
+                "qid": "Q7701370",
+                "url": "https://en.wikipedia.org/wiki/Tepoxalin"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "arthritis",
+                "qid": "Q170990",
+                "url": "https://en.wikipedia.org/wiki/Arthritis"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "orthopedics",
+                "qid": "Q216685",
+                "url": "https://en.wikipedia.org/wiki/Orthopedic_surgery"
+            },
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            },
+            {
+                "name": "family medicine",
+                "qid": "Q3505712",
+                "url": "https://en.wikipedia.org/wiki/Family_medicine"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "Gene therapy for osteoarthritis",
+                "qid": "Q17015958",
+                "url": "https://en.wikipedia.org/wiki/Gene_therapy_for_osteoarthritis"
+            }
+        ]
+    }
+}

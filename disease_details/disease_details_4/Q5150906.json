@@ -1,0 +1,46 @@
+{
+    "name": "combined immunodeficiency",
+    "qid": "Q5150906",
+    "icd_10": "D81",
+    "description": "primary immunodeficiency disease that involves multiple components of the immune system, including both humoral immunity and cell-mediated immunity",
+    "aliases": [
+        "combined T cell and B cell immunodeficiency",
+        "Combined immunity deficiency NOS (disorder)",
+        "combined immunodeficiencies",
+        "Combined T and B cell immunodeficiency",
+        "Congenital Combined Immunodeficiency",
+        "X-linked combined immunodeficiency"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Combined_immunodeficiencies",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "genetic disease",
+                "qid": "Q200779",
+                "url": "https://en.wikipedia.org/wiki/Genetic_disorder"
+            },
+            {
+                "name": "immunodeficiency",
+                "qid": "Q641307",
+                "url": "https://en.wikipedia.org/wiki/Immunodeficiency"
+            },
+            {
+                "name": "primary immunodeficiency disease",
+                "qid": "Q3043160",
+                "url": "https://en.wikipedia.org/wiki/Primary_immunodeficiency"
+            },
+            {
+                "name": "primary immunodeficiency due to a defect in adaptive immunity",
+                "qid": "Q55785745"
+            }
+        ]
+    }
+}

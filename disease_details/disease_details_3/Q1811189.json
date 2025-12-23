@@ -1,0 +1,51 @@
+{
+    "name": "obstructed labor",
+    "qid": "Q1811189",
+    "icd_10": "O66",
+    "description": "Comprises a range of conditions, including non-optimal contractions and cervical dilation, fetal factors such as position, e.g., shoulder dystocia, and macrosomia (heavier than average birth weight)",
+    "aliases": [
+        "dystocia",
+        "labour dystocia",
+        "obsolete dystocia",
+        "obsolete obstructed labor"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Illustration%20of%20a%20deformed%20female%20pelvis%20-%20angular%20distortion%20Wellcome%20L0038229.jpg",
+    "url": "https://en.wikipedia.org/wiki/Obstructed_labour",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "obstetrics and gynaecology",
+                "qid": "Q80015",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics_and_gynaecology"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "cesarean section",
+                "qid": "Q228036",
+                "url": "https://en.wikipedia.org/wiki/Caesarean_section"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "large for gestational age",
+                "qid": "Q1886514",
+                "url": "https://en.wikipedia.org/wiki/Large_for_gestational_age"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "obstetric labor complication",
+                "qid": "Q7075540",
+                "url": "https://en.wikipedia.org/wiki/Obstetric_labor_complication"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "prolonged labor",
+                "qid": "Q19001124",
+                "url": "https://en.wikipedia.org/wiki/Prolonged_labor"
+            }
+        ]
+    }
+}

@@ -1,0 +1,145 @@
+{
+    "name": "periodontitis",
+    "qid": "Q520127",
+    "icd_10": "K05.20",
+    "description": "gum disease",
+    "aliases": [
+        "pyorrhea",
+        "chronic pericementitis",
+        "Peridontitis",
+        "periodontium inflammation",
+        "periodontiumitis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paro1.JPG",
+    "url": "https://en.wikipedia.org/wiki/Periodontal_disease",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "periodontal disease",
+                "qid": "Q1059765"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "dentistry",
+                "qid": "Q12128",
+                "url": "https://en.wikipedia.org/wiki/Dentistry"
+            },
+            {
+                "name": "periodontology",
+                "qid": "Q938196",
+                "url": "https://en.wikipedia.org/wiki/Periodontology"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Prevotella nigrescens",
+                "qid": "Q16988483",
+                "url": "https://en.wikipedia.org/wiki/Prevotella_nigrescens"
+            },
+            {
+                "name": "Parvimonas micra",
+                "qid": "Q26270804",
+                "url": "https://en.wikipedia.org/wiki/Parvimonas_micra"
+            },
+            {
+                "name": "smoking",
+                "qid": "Q662860",
+                "url": "https://en.wikipedia.org/wiki/Smoking"
+            },
+            {
+                "name": "Prevotella intermedia",
+                "qid": "Q2022791",
+                "url": "https://en.wikipedia.org/wiki/Prevotella_intermedia"
+            },
+            {
+                "name": "Campylobacter concisus",
+                "qid": "Q2087197",
+                "url": "https://en.wikipedia.org/wiki/Campylobacter_concisus"
+            },
+            {
+                "name": "Treponema denticola",
+                "qid": "Q2534751",
+                "url": "https://en.wikipedia.org/wiki/Treponema_denticola"
+            },
+            {
+                "name": "Eikenella corrodens",
+                "qid": "Q3039103",
+                "url": "https://en.wikipedia.org/wiki/Eikenella_corrodens"
+            },
+            {
+                "name": "Porphyromonas gingivalis",
+                "qid": "Q3214147",
+                "url": "https://en.wikipedia.org/wiki/Porphyromonas_gingivalis"
+            },
+            {
+                "name": "Eubacterium nodatum",
+                "qid": "Q3734089",
+                "url": "https://en.wikipedia.org/wiki/Eubacterium_nodatum"
+            },
+            {
+                "name": "Campylobacter rectus",
+                "qid": "Q5028747",
+                "url": "https://en.wikipedia.org/wiki/Campylobacter_rectus"
+            },
+            {
+                "name": "Fusobacterium nucleatum",
+                "qid": "Q5510311",
+                "url": "https://en.wikipedia.org/wiki/Fusobacterium_nucleatum"
+            },
+            {
+                "name": "Tannerella forsythia",
+                "qid": "Q7683667",
+                "url": "https://en.wikipedia.org/wiki/Tannerella_forsythia"
+            },
+            {
+                "name": "Enterococcus faecalis V583",
+                "qid": "Q21102965"
+            },
+            {
+                "name": "Campylobacter gracilis",
+                "qid": "Q22934887"
+            },
+            {
+                "name": "Peptostreptococcus micros",
+                "qid": "Q62879548"
+            },
+            {
+                "name": "Actinobacillus actinomycetemcomitans",
+                "qid": "Q62903868"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "amoxicillin",
+                "qid": "Q201928",
+                "url": "https://en.wikipedia.org/wiki/Amoxicillin"
+            },
+            {
+                "name": "minocycline",
+                "qid": "Q415336",
+                "url": "https://en.wikipedia.org/wiki/Minocycline"
+            },
+            {
+                "name": "metronidazole",
+                "qid": "Q169569",
+                "url": "https://en.wikipedia.org/wiki/Metronidazole"
+            },
+            {
+                "name": "carbamide peroxide",
+                "qid": "Q2633879",
+                "url": "https://en.wikipedia.org/wiki/Hydrogen_peroxide%E2%80%93urea"
+            },
+            {
+                "name": "chlorhexidine",
+                "qid": "Q15646788",
+                "url": "https://en.wikipedia.org/wiki/Chlorhexidine"
+            }
+        ]
+    }
+}

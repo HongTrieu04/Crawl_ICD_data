@@ -1,0 +1,25 @@
+{
+    "name": "heat syncope",
+    "qid": "Q12183830",
+    "icd_10": "T67.1",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Heat_syncope",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "heat illness",
+                "qid": "Q1191065",
+                "url": "https://en.wikipedia.org/wiki/Heat_illness"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ]
+    }
+}

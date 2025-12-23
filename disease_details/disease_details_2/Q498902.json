@@ -1,0 +1,31 @@
+{
+    "name": "drug withdrawal",
+    "qid": "Q498902",
+    "icd_10": "F19",
+    "description": "group of symptoms that occur upon the abrupt discontinuation or decrease in intake of medications or recreational drugs",
+    "aliases": [
+        "withdrawal",
+        "abstinence syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Drug_withdrawal",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "narcology",
+                "qid": "Q4313186",
+                "url": "https://en.wikipedia.org/wiki/Narcology"
+            },
+            {
+                "name": "psychology",
+                "qid": "Q9418",
+                "url": "https://en.wikipedia.org/wiki/Psychology"
+            }
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "name": "secondary cataract",
+    "qid": "Q88220768",
+    "icd_10": "H26.4",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "cataract",
+                "qid": "Q127724",
+                "url": "https://en.wikipedia.org/wiki/Cataract"
+            }
+        ]
+    }
+}

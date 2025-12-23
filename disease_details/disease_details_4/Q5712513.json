@@ -1,0 +1,28 @@
+{
+    "name": "anti-Rhc hemolytic disease of the newborn",
+    "qid": "Q5712513",
+    "icd_10": "P55.8",
+    "description": "medical condition",
+    "aliases": [
+        "anti-Rhc",
+        "rhesus c hemolytic disease of the newborn"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hemolytic_disease_of_the_newborn_(anti-Rhc)",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "pediatrics",
+                "qid": "Q123028",
+                "url": "https://en.wikipedia.org/wiki/Pediatrics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "fetal erythroblastosis",
+                "qid": "Q743545",
+                "url": "https://en.wikipedia.org/wiki/Hemolytic_disease_of_the_newborn"
+            }
+        ]
+    }
+}

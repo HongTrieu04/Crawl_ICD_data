@@ -1,0 +1,18 @@
+{
+    "name": "impetiginization",
+    "qid": "Q9391458",
+    "icd_10": "L01.1",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "impetigo",
+                "qid": "Q28971",
+                "url": "https://en.wikipedia.org/wiki/Impetigo"
+            }
+        ]
+    }
+}

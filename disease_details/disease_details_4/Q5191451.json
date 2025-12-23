@@ -1,0 +1,22 @@
+{
+    "name": "crystalluria",
+    "qid": "Q5191451",
+    "icd_10": "R82.9",
+    "description": "presence of crystals in the urine",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Crystalluria",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "urinalysis",
+                "qid": "Q842424",
+                "url": "https://en.wikipedia.org/wiki/Urinalysis"
+            },
+            {
+                "name": "urological symptom",
+                "qid": "Q2565950"
+            }
+        ]
+    }
+}

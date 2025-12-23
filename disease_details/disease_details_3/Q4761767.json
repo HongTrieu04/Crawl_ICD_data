@@ -1,0 +1,43 @@
+{
+    "name": "Aneurysm of sinus of Valsalva",
+    "qid": "Q4761767",
+    "icd_10": "Q25.4",
+    "description": "medical condition",
+    "aliases": [
+        "SVA",
+        "Sinus of Valsalva aneurysm"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Aneurysm_of_sinus_of_Valsalva",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "aortic aneurysm",
+                "qid": "Q616003",
+                "url": "https://en.wikipedia.org/wiki/Aortic_aneurysm"
+            },
+            {
+                "name": "aortic disease",
+                "qid": "Q18556675"
+            },
+            {
+                "name": "ascending aorta anomaly",
+                "qid": "Q55789285"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "aortic sinus",
+                "qid": "Q4115039",
+                "url": "https://en.wikipedia.org/wiki/Aortic_sinus"
+            }
+        ]
+    }
+}

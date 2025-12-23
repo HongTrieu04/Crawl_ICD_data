@@ -1,0 +1,59 @@
+{
+    "name": "psychoorganic syndrome",
+    "qid": "Q7256456",
+    "icd_10": "F07.9",
+    "description": "disorder characterised by impairment of memory, thought disorders etc., due to diffuse psychoorganic brain damage",
+    "aliases": [
+        "POS",
+        "diffuse psychoorganic syndrome",
+        "organic psychosyndrome",
+        "psycho-organic syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Psychoorganic_syndrome",
+    "details": {
+        "Cause": [
+            {
+                "name": "Alzheimer's disease",
+                "qid": "Q11081",
+                "url": "https://en.wikipedia.org/wiki/Alzheimer%27s_disease"
+            },
+            {
+                "name": "brain tumor",
+                "qid": "Q233309",
+                "url": "https://en.wikipedia.org/wiki/Brain_tumor"
+            },
+            {
+                "name": "cranial trauma",
+                "qid": "Q2920572",
+                "url": "https://en.wikipedia.org/wiki/Head_injury"
+            },
+            {
+                "name": "cerebral atherosclerosis",
+                "qid": "Q17083190",
+                "url": "https://en.wikipedia.org/wiki/Cerebral_atherosclerosis"
+            },
+            {
+                "name": "non-controlled substance abuse",
+                "qid": "Q182413",
+                "url": "https://en.wikipedia.org/wiki/Toxicomania"
+            },
+            {
+                "name": "Pick disease",
+                "qid": "Q18576",
+                "url": "https://en.wikipedia.org/wiki/Pick%27s_disease"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "organic brain syndrome",
+                "qid": "Q360341",
+                "url": "https://en.wikipedia.org/wiki/Organic_brain_syndrome"
+            },
+            {
+                "name": "psychopathological syndrome",
+                "qid": "Q56815734"
+            }
+        ]
+    }
+}

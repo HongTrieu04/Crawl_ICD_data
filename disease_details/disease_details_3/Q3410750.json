@@ -1,0 +1,40 @@
+{
+    "name": "pulicosis",
+    "qid": "Q3410750",
+    "icd_10": "W57",
+    "description": "skin condition caused by several species of fleas",
+    "aliases": [
+        "flea bite",
+        "Flea Infestation",
+        "Flea Infestations"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pulicosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "infestation",
+                "qid": "Q1292038",
+                "url": "https://en.wikipedia.org/wiki/Infestation"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "ectoparasitism",
+                "qid": "Q5334259",
+                "url": "https://en.wikipedia.org/wiki/Ectoparasitic_infestation"
+            },
+            {
+                "name": "arthropod infestation",
+                "qid": "Q4068610"
+            }
+        ]
+    }
+}

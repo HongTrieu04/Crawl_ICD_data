@@ -1,0 +1,32 @@
+{
+    "name": "Organophosphate poisoning",
+    "qid": "Q3153685",
+    "icd_10": "T60.0",
+    "description": "Bodily harm caused by consumptions of organophosphates.",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Phosphate%20formula.svg",
+    "url": "https://en.wikipedia.org/wiki/Organophosphate_poisoning",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "pesticide poisoning",
+                "qid": "Q839525",
+                "url": "https://en.wikipedia.org/wiki/Pesticide_poisoning"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "organic compound, having C-P covalent bound",
+                "qid": "Q2182492",
+                "url": "https://en.wikipedia.org/wiki/Organophosphorus_compound"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ]
+    }
+}

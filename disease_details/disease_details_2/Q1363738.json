@@ -1,0 +1,51 @@
+{
+    "name": "erythema nodosum",
+    "qid": "Q1363738",
+    "icd_10": "L52",
+    "description": "skin disease",
+    "aliases": [
+        "EN",
+        "Erythema nodosum:EM",
+        "Erythema nodosum:EN"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/An%20introduction%20to%20dermatology%20%281905%29%20ERYTHEMA%20NODOSUM.jpg",
+    "url": "https://en.wikipedia.org/wiki/Erythema_nodosum",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "reactive neutrophilic dermatose",
+                "qid": "Q7300315",
+                "url": "https://en.wikipedia.org/wiki/Reactive_neutrophilic_dermatoses"
+            },
+            {
+                "name": "panniculitis",
+                "qid": "Q780629",
+                "url": "https://en.wikipedia.org/wiki/Panniculitis"
+            },
+            {
+                "name": "clinical sign",
+                "qid": "Q1441305",
+                "url": "https://en.wikipedia.org/wiki/Clinical_sign"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "thalidomide",
+                "qid": "Q203174",
+                "url": "https://en.wikipedia.org/wiki/Thalidomide"
+            }
+        ]
+    }
+}

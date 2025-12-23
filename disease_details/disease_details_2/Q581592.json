@@ -1,0 +1,41 @@
+{
+    "name": "paraganglioma",
+    "qid": "Q581592",
+    "icd_10": "C75.5",
+    "description": "human disease",
+    "aliases": [
+        "chemodectoma",
+        "glomus body tumor",
+        "Neoplasm of Paraganglion",
+        "Neoplasm of the Paraganglion",
+        "Paraganglioma",
+        "Paraganglion Neoplasm",
+        "Paraganglion Tumor",
+        "Paraganglionic Neoplasm",
+        "Paraganglionic Tumor",
+        "Tumor of Paraganglion",
+        "Tumor of the Paraganglion"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Paraganglioma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "phaeochromocytoma",
+                "qid": "Q536269",
+                "url": "https://en.wikipedia.org/wiki/Pheochromocytoma"
+            },
+            {
+                "name": "autosomal dominant disease",
+                "qid": "Q18553439"
+            }
+        ]
+    }
+}

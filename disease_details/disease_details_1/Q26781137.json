@@ -1,0 +1,36 @@
+{
+    "name": "premature ventricular contraction",
+    "qid": "Q26781137",
+    "icd_10": "I49.3",
+    "description": "Human disease",
+    "aliases": [
+        "VPC",
+        "PVC",
+        "ventricular premature complex",
+        "ventricular premature contraction",
+        "ventricular premature depolarization"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Premature_ventricular_contraction",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            },
+            {
+                "name": "electrophysiology",
+                "qid": "Q1154774",
+                "url": "https://en.wikipedia.org/wiki/Electrophysiology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "premature heart beat",
+                "qid": "Q840646",
+                "url": "https://en.wikipedia.org/wiki/Premature_heart_beat"
+            }
+        ]
+    }
+}

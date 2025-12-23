@@ -1,0 +1,33 @@
+{
+    "name": "hyphema",
+    "qid": "Q1298559",
+    "icd_10": "H21.0",
+    "description": "human disease",
+    "aliases": [
+        "hyphamea",
+        "Hyphema of iris and ciliary body",
+        "obsolete Hyphema of iris and ciliary body"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hyphema",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "intraocular hemorrhage",
+                "qid": "Q17067160",
+                "url": "https://en.wikipedia.org/wiki/Intraocular_hemorrhage"
+            },
+            {
+                "name": "iris disease",
+                "qid": "Q18555070"
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Tubal factor infertility",
+    "qid": "Q25051992",
+    "icd_10": "N97.1",
+    "description": "medical condition",
+    "aliases": [
+        "Female infertility of tubal origin"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Tubal_factor_infertility",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "female infertility",
+                "qid": "Q648065",
+                "url": "https://en.wikipedia.org/wiki/Female_infertility"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "obstetrics",
+                "qid": "Q5284418",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "fallopian tube disease",
+                "qid": "Q18554947"
+            }
+        ]
+    }
+}

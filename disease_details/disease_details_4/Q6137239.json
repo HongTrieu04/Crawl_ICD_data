@@ -1,0 +1,170 @@
+{
+    "name": "hantavirus pulmonary syndrome",
+    "qid": "Q6137239",
+    "icd_10": "J12.8",
+    "description": "human disease",
+    "aliases": [
+        "HPS",
+        "Four Corners disease"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sin%20Nombre%20hanta%20virus%20TEM%20PHIL%201136%20lores.jpg",
+    "url": "https://en.wikipedia.org/wiki/Hantavirus_pulmonary_syndrome",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            },
+            {
+                "name": "cough",
+                "qid": "Q35805",
+                "url": "https://en.wikipedia.org/wiki/Cough"
+            },
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "diarrhea",
+                "qid": "Q40878",
+                "url": "https://en.wikipedia.org/wiki/Diarrhea"
+            },
+            {
+                "name": "vomiting",
+                "qid": "Q127076",
+                "url": "https://en.wikipedia.org/wiki/Vomiting"
+            },
+            {
+                "name": "conjunctivitis",
+                "qid": "Q167844",
+                "url": "https://en.wikipedia.org/wiki/Conjunctivitis"
+            },
+            {
+                "name": "abdominal pain",
+                "qid": "Q183425",
+                "url": "https://en.wikipedia.org/wiki/Abdominal_pain"
+            },
+            {
+                "name": "dyspnea",
+                "qid": "Q188008",
+                "url": "https://en.wikipedia.org/wiki/Shortness_of_breath"
+            },
+            {
+                "name": "shock",
+                "qid": "Q178061",
+                "url": "https://en.wikipedia.org/wiki/Shock_(circulatory)"
+            },
+            {
+                "name": "pharyngitis",
+                "qid": "Q2085267",
+                "url": "https://en.wikipedia.org/wiki/Pharyngitis"
+            },
+            {
+                "name": "chills",
+                "qid": "Q2260058",
+                "url": "https://en.wikipedia.org/wiki/Chills"
+            },
+            {
+                "name": "myalgia",
+                "qid": "Q474959",
+                "url": "https://en.wikipedia.org/wiki/Myalgia"
+            },
+            {
+                "name": "pulmonary edema",
+                "qid": "Q857667",
+                "url": "https://en.wikipedia.org/wiki/Pulmonary_edema"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "viral infectious disease",
+                "qid": "Q1928978",
+                "url": "https://en.wikipedia.org/wiki/Viral_disease"
+            },
+            {
+                "name": "lung disease",
+                "qid": "Q3392853"
+            },
+            {
+                "name": "Hantavirus infectious disease",
+                "qid": "Q10293835"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "human lung",
+                "qid": "Q2640512",
+                "url": "https://en.wikipedia.org/wiki/Human_lung"
+            },
+            {
+                "name": "blood vessel",
+                "qid": "Q988343",
+                "url": "https://en.wikipedia.org/wiki/Blood_vessel"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Calabazo virus",
+                "qid": "Q16850375",
+                "url": "https://en.wikipedia.org/wiki/Calabazo_virus"
+            },
+            {
+                "name": "New York virus",
+                "qid": "Q16878929",
+                "url": "https://en.wikipedia.org/wiki/New_York_orthohantavirus"
+            },
+            {
+                "name": "Virus sin Nombre",
+                "qid": "Q1414484"
+            },
+            {
+                "name": "Andes virus",
+                "qid": "Q4754292"
+            },
+            {
+                "name": "Bayou virus",
+                "qid": "Q16839332"
+            },
+            {
+                "name": "Black Creek Canal virus",
+                "qid": "Q16975163"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "artificial respiration",
+                "qid": "Q545991",
+                "url": "https://en.wikipedia.org/wiki/Artificial_ventilation"
+            },
+            {
+                "name": "intravenous infusion and defusion",
+                "qid": "Q640448",
+                "url": "https://en.wikipedia.org/wiki/Intravenous_therapy"
+            },
+            {
+                "name": "detoxification",
+                "qid": "Q1090423",
+                "url": "https://en.wikipedia.org/wiki/Detoxification"
+            },
+            {
+                "name": "extracorporeal membrane oxygenation",
+                "qid": "Q1385195",
+                "url": "https://en.wikipedia.org/wiki/Extracorporeal_membrane_oxygenation"
+            }
+        ]
+    }
+}

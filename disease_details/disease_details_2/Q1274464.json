@@ -1,0 +1,76 @@
+{
+    "name": "polyarthritis",
+    "qid": "Q1274464",
+    "icd_10": "M06.4",
+    "description": "type of arthritis which involves 5 or more joints simultaneously",
+    "aliases": [
+        "Polyarthritis",
+        "polyarticular arthritis",
+        "Polyarticular Arthritis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Polyarthritis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "arthritis",
+                "qid": "Q170990",
+                "url": "https://en.wikipedia.org/wiki/Arthritis"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "adalimumab",
+                "qid": "Q348260",
+                "url": "https://en.wikipedia.org/wiki/Adalimumab"
+            },
+            {
+                "name": "certolizumab pegol",
+                "qid": "Q412909",
+                "url": "https://en.wikipedia.org/wiki/Certolizumab_pegol"
+            },
+            {
+                "name": "tocilizumab",
+                "qid": "Q425154",
+                "url": "https://en.wikipedia.org/wiki/Tocilizumab"
+            },
+            {
+                "name": "abatacept",
+                "qid": "Q2697833",
+                "url": "https://en.wikipedia.org/wiki/Abatacept"
+            },
+            {
+                "name": "tofacitinib",
+                "qid": "Q3530324",
+                "url": "https://en.wikipedia.org/wiki/Tofacitinib"
+            },
+            {
+                "name": "golimumab",
+                "qid": "Q413879",
+                "url": "https://en.wikipedia.org/wiki/Golimumab"
+            },
+            {
+                "name": "infliximab",
+                "qid": "Q415264",
+                "url": "https://en.wikipedia.org/wiki/Infliximab"
+            },
+            {
+                "name": "etanercept",
+                "qid": "Q415343",
+                "url": "https://en.wikipedia.org/wiki/Etanercept"
+            },
+            {
+                "name": "methotrexate",
+                "qid": "Q422232",
+                "url": "https://en.wikipedia.org/wiki/Methotrexate"
+            }
+        ]
+    }
+}

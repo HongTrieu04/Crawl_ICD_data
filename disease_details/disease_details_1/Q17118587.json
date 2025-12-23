@@ -1,0 +1,25 @@
+{
+    "name": "Minor's disease",
+    "qid": "Q17118587",
+    "icd_10": "G95.19",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Minor%27s_disease",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "vascular myelopathy",
+                "qid": "Q17232521",
+                "url": "https://en.wikipedia.org/wiki/Vascular_myelopathy"
+            }
+        ]
+    }
+}

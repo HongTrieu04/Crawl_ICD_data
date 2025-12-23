@@ -1,0 +1,117 @@
+{
+    "name": "coarctation of the aorta",
+    "qid": "Q616066",
+    "icd_10": "Q25.1",
+    "description": "congenital condition whereby the aorta is narrow, usually in the area where the ductus arteriosus (ligamentum arteriosum after regression) inserts",
+    "aliases": [
+        "CoA",
+        "aortic coarctation",
+        "coarctation of aorta"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Coarctation_of_the_aorta",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            },
+            {
+                "name": "fatigue",
+                "qid": "Q9690",
+                "url": "https://en.wikipedia.org/wiki/Fatigue"
+            },
+            {
+                "name": "dyspnea",
+                "qid": "Q188008",
+                "url": "https://en.wikipedia.org/wiki/Shortness_of_breath"
+            },
+            {
+                "name": "chest pain",
+                "qid": "Q693058",
+                "url": "https://en.wikipedia.org/wiki/Chest_pain"
+            },
+            {
+                "name": "intermittent claudication",
+                "qid": "Q1097957",
+                "url": "https://en.wikipedia.org/wiki/Intermittent_claudication"
+            },
+            {
+                "name": "nosebleed",
+                "qid": "Q202013",
+                "url": "https://en.wikipedia.org/wiki/Nosebleed"
+            },
+            {
+                "name": "failure to thrive",
+                "qid": "Q1497481",
+                "url": "https://en.wikipedia.org/wiki/Failure_to_thrive"
+            },
+            {
+                "name": "cardiomegaly",
+                "qid": "Q1729124",
+                "url": "https://en.wikipedia.org/wiki/Cardiomegaly"
+            },
+            {
+                "name": "dizziness",
+                "qid": "Q10916362",
+                "url": "https://en.wikipedia.org/wiki/Dizziness"
+            },
+            {
+                "name": "decreased appetite",
+                "qid": "Q102186869"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "aorta",
+                "qid": "Q101004",
+                "url": "https://en.wikipedia.org/wiki/Aorta"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "genetic disease",
+                "qid": "Q200779",
+                "url": "https://en.wikipedia.org/wiki/Genetic_disorder"
+            },
+            {
+                "name": "aortic disease",
+                "qid": "Q18556675"
+            },
+            {
+                "name": "genetic vascular anomaly",
+                "qid": "Q55786073"
+            },
+            {
+                "name": "genetic cardiac disease",
+                "qid": "Q55789068"
+            },
+            {
+                "name": "aortic malformation",
+                "qid": "Q55789280"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "alprostadil",
+                "qid": "Q579348",
+                "url": "https://en.wikipedia.org/wiki/Prostaglandin_E1"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "Open aortic surgery",
+                "qid": "Q17143044",
+                "url": "https://en.wikipedia.org/wiki/Open_aortic_surgery"
+            }
+        ]
+    }
+}

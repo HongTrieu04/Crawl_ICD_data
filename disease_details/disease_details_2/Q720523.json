@@ -1,0 +1,32 @@
+{
+    "name": "cervix erosion",
+    "qid": "Q720523",
+    "icd_10": "N86",
+    "description": "ectropion",
+    "aliases": [
+        "Erosion of cervix",
+        "Erosion of cervix (disorder)"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Cervical_ectropion",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "cervix disease",
+                "qid": "Q18555046"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gynaecology",
+                "qid": "Q1221899",
+                "url": "https://en.wikipedia.org/wiki/Gynaecology"
+            }
+        ]
+    }
+}

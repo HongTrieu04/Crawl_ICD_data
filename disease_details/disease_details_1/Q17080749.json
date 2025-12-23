@@ -1,0 +1,25 @@
+{
+    "name": "Aqueductal stenosis",
+    "qid": "Q17080749",
+    "icd_10": "Q03.0",
+    "description": "narrowing of the aqueduct of Sylvius",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gray734.png",
+    "url": "https://en.wikipedia.org/wiki/Aqueductal_stenosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurosurgery",
+                "qid": "Q188449",
+                "url": "https://en.wikipedia.org/wiki/Neurosurgery"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "hydrocephalus",
+                "qid": "Q193003",
+                "url": "https://en.wikipedia.org/wiki/Hydrocephalus"
+            }
+        ]
+    }
+}

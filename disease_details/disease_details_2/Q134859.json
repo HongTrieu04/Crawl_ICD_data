@@ -1,0 +1,109 @@
+{
+    "name": "pertussis",
+    "qid": "Q134859",
+    "icd_10": "A37",
+    "description": "human disease caused by the bacteria Bordetella pertussis",
+    "aliases": [
+        "whooping cough",
+        "WC",
+        "bordetella infection",
+        "Bordetella pertussis whooping cough",
+        "obsolete Bordetella pertussis whooping cough",
+        "WC - Whooping cough",
+        "Whooping cough, Pertussis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pertussis.jpg",
+    "url": "https://en.wikipedia.org/wiki/Whooping_cough",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "cough",
+                "qid": "Q35805",
+                "url": "https://en.wikipedia.org/wiki/Cough"
+            },
+            {
+                "name": "fatigue",
+                "qid": "Q9690",
+                "url": "https://en.wikipedia.org/wiki/Fatigue"
+            },
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "apnea",
+                "qid": "Q754424",
+                "url": "https://en.wikipedia.org/wiki/Apnea"
+            },
+            {
+                "name": "runny nose",
+                "qid": "Q1115038",
+                "url": "https://en.wikipedia.org/wiki/Rhinorrhea"
+            },
+            {
+                "name": "vomiting",
+                "qid": "Q127076",
+                "url": "https://en.wikipedia.org/wiki/Vomiting"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "antibiotic",
+                "qid": "Q12187",
+                "url": "https://en.wikipedia.org/wiki/Antibiotic"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "clarithromycin",
+                "qid": "Q118551",
+                "url": "https://en.wikipedia.org/wiki/Clarithromycin"
+            },
+            {
+                "name": "erythromycin",
+                "qid": "Q213511",
+                "url": "https://en.wikipedia.org/wiki/Erythromycin"
+            },
+            {
+                "name": "guaifenesin",
+                "qid": "Q420682",
+                "url": "https://en.wikipedia.org/wiki/Guaifenesin"
+            },
+            {
+                "name": "demeclocycline",
+                "qid": "Q2736402",
+                "url": "https://en.wikipedia.org/wiki/Demeclocycline"
+            },
+            {
+                "name": "azithromycin",
+                "qid": "Q165399",
+                "url": "https://en.wikipedia.org/wiki/Azithromycin"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Bordetella pertussis",
+                "qid": "Q137103",
+                "url": "https://en.wikipedia.org/wiki/Bordetella_pertussis"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "commensal bacterial infectious disease",
+                "qid": "Q18553248"
+            },
+            {
+                "name": "Bordetella infections",
+                "qid": "Q66773817"
+            }
+        ]
+    }
+}

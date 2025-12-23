@@ -1,0 +1,25 @@
+{
+    "name": "Gonococcal arthritis",
+    "qid": "Q3624451",
+    "icd_10": "M01.3",
+    "description": null,
+    "aliases": [
+        "Gonococcal joint infection",
+        "Gonococcal rheumatism"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "septic arthritis",
+                "qid": "Q924421",
+                "url": "https://en.wikipedia.org/wiki/Septic_arthritis"
+            },
+            {
+                "name": "gonococcal infectious diseases",
+                "qid": "Q26695958"
+            }
+        ]
+    }
+}

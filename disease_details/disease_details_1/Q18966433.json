@@ -1,0 +1,26 @@
+{
+    "name": "myopathy of critical illness",
+    "qid": "Q18966433",
+    "icd_10": "G72.81",
+    "description": "Human disease",
+    "aliases": [
+        "Critical illness myopathy",
+        "obsolete myopathy of critical illness"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "muscular disease",
+                "qid": "Q692536",
+                "url": "https://en.wikipedia.org/wiki/Myopathy"
+            },
+            {
+                "name": "critical illness polyneuropathy",
+                "qid": "Q1140516",
+                "url": "https://en.wikipedia.org/wiki/Critical_illness_polyneuropathy"
+            }
+        ]
+    }
+}

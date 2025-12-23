@@ -1,0 +1,147 @@
+{
+    "name": "Argentine hemorrhagic fever",
+    "qid": "Q2583514",
+    "icd_10": "A96.00",
+    "description": "human disease",
+    "aliases": [
+        "Argentinian hemorrhagic fever",
+        "Junin hemorrhagic fever"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arenaviridae-Schema.png",
+    "url": "https://en.wikipedia.org/wiki/Argentine_hemorrhagic_fever",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            },
+            {
+                "name": "fatigue",
+                "qid": "Q9690",
+                "url": "https://en.wikipedia.org/wiki/Fatigue"
+            },
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "nausea",
+                "qid": "Q186889",
+                "url": "https://en.wikipedia.org/wiki/Nausea"
+            },
+            {
+                "name": "anorexia",
+                "qid": "Q254327",
+                "url": "https://en.wikipedia.org/wiki/Anorexia_(symptom)"
+            },
+            {
+                "name": "stupor",
+                "qid": "Q268594",
+                "url": "https://en.wikipedia.org/wiki/Stupor"
+            },
+            {
+                "name": "acute kidney injury",
+                "qid": "Q424337",
+                "url": "https://en.wikipedia.org/wiki/Acute_kidney_injury"
+            },
+            {
+                "name": "myalgia",
+                "qid": "Q474959",
+                "url": "https://en.wikipedia.org/wiki/Myalgia"
+            },
+            {
+                "name": "leukopenia",
+                "qid": "Q496812",
+                "url": "https://en.wikipedia.org/wiki/Leukopenia"
+            },
+            {
+                "name": "thrombocytopenia",
+                "qid": "Q585285",
+                "url": "https://en.wikipedia.org/wiki/Thrombocytopenia"
+            },
+            {
+                "name": "rash",
+                "qid": "Q653197",
+                "url": "https://en.wikipedia.org/wiki/Rash"
+            },
+            {
+                "name": "vomiting",
+                "qid": "Q127076",
+                "url": "https://en.wikipedia.org/wiki/Vomiting"
+            },
+            {
+                "name": "delirium",
+                "qid": "Q160796",
+                "url": "https://en.wikipedia.org/wiki/Delirium"
+            },
+            {
+                "name": "pulmonary edema",
+                "qid": "Q857667",
+                "url": "https://en.wikipedia.org/wiki/Pulmonary_edema"
+            },
+            {
+                "name": "melena",
+                "qid": "Q1163908",
+                "url": "https://en.wikipedia.org/wiki/Melena"
+            },
+            {
+                "name": "petechia",
+                "qid": "Q1412657",
+                "url": "https://en.wikipedia.org/wiki/Petechia"
+            },
+            {
+                "name": "malaise",
+                "qid": "Q2673323",
+                "url": "https://en.wikipedia.org/wiki/Malaise"
+            },
+            {
+                "name": "stomach bleeding",
+                "qid": "Q1883970"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "viral infectious disease",
+                "qid": "Q1928978",
+                "url": "https://en.wikipedia.org/wiki/Viral_disease"
+            },
+            {
+                "name": "arenavirus hemorrhagic fever",
+                "qid": "Q19001357"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "ribavirin",
+                "qid": "Q421862",
+                "url": "https://en.wikipedia.org/wiki/Ribavirin"
+            },
+            {
+                "name": "blood plasma",
+                "qid": "Q79749",
+                "url": "https://en.wikipedia.org/wiki/Blood_plasma"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Argentinian mammarenavirus",
+                "qid": "Q51929761",
+                "url": "https://en.wikipedia.org/wiki/Jun%C3%ADn_virus"
+            }
+        ]
+    }
+}

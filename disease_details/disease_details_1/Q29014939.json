@@ -1,0 +1,31 @@
+{
+    "name": "Crosby's syndrome",
+    "qid": "Q29014939",
+    "icd_10": "D55.9",
+    "description": null,
+    "aliases": [
+        "Zuelzer-Kaplan syndrome"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            },
+            {
+                "name": "pediatrics",
+                "qid": "Q123028",
+                "url": "https://en.wikipedia.org/wiki/Pediatrics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "congenital nonspherocytic hemolytic anemia",
+                "qid": "Q18555220"
+            }
+        ]
+    }
+}

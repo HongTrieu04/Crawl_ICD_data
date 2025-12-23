@@ -1,0 +1,21 @@
+{
+    "name": "obsolete benign hypertensive heart disease",
+    "qid": "Q18968199",
+    "icd_10": "I11.9",
+    "description": "human disease",
+    "aliases": [
+        "benign hypertensive heart disease (disorder)",
+        "benign hypertensive heart disease NOS (disorder)"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "hypertensive heart disease",
+                "qid": "Q8775887",
+                "url": "https://en.wikipedia.org/wiki/Hypertensive_heart_disease"
+            }
+        ]
+    }
+}

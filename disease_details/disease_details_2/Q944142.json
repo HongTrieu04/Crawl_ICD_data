@@ -1,0 +1,53 @@
+{
+    "name": "suicidal ideation",
+    "qid": "Q944142",
+    "icd_10": "R45.8",
+    "description": "thoughts, ideas, or ruminations about the possibility of ending one's life",
+    "aliases": [
+        "call of the void",
+        "l'appel du vide",
+        "suicidal thoughts",
+        "suicide ideation"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Suicidal_ideation",
+    "details": {
+        "Cause": [
+            {
+                "name": "mental disorder",
+                "qid": "Q12135",
+                "url": "https://en.wikipedia.org/wiki/Mental_disorder"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "thought",
+                "qid": "Q9420",
+                "url": "https://en.wikipedia.org/wiki/Thought"
+            },
+            {
+                "name": "l'appel du vide",
+                "qid": "Q24896957",
+                "url": "https://en.wikipedia.org/wiki/L%27appel_du_vide"
+            },
+            {
+                "name": "suicide risk",
+                "qid": "Q47319077"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "psychotherapy",
+                "qid": "Q183257",
+                "url": "https://en.wikipedia.org/wiki/Psychotherapy"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "clinical psychology",
+                "qid": "Q199906",
+                "url": "https://en.wikipedia.org/wiki/Clinical_psychology"
+            }
+        ]
+    }
+}

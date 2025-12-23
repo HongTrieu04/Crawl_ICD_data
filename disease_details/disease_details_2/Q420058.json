@@ -1,0 +1,29 @@
+{
+    "name": "transient tachypnea of the newborn",
+    "qid": "Q420058",
+    "icd_10": "P22.1",
+    "description": "Human disease",
+    "aliases": [
+        "Idiopathic tachypnea of newborn",
+        "obsolete transitory tachypnea of newborn",
+        "transitory tachypnea of newborn",
+        "Transitory tachypnea of newborn (disorder)"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Transient_tachypnea_of_the_newborn",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "pediatrics",
+                "qid": "Q123028",
+                "url": "https://en.wikipedia.org/wiki/Pediatrics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "newborn respiratory distress syndrome",
+                "qid": "Q47519106"
+            }
+        ]
+    }
+}

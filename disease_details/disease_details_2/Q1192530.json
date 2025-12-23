@@ -1,0 +1,44 @@
+{
+    "name": "acute liver failure",
+    "qid": "Q1192530",
+    "icd_10": "K72",
+    "description": "rapid deterioration of liver function causing encephalopathy and coagulopathy",
+    "aliases": [
+        "acute fulminant hepatic failure",
+        "Acute hepatic failure",
+        "Fulminant hepatic failure",
+        "liver failure, acute"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Acute_liver_failure",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            },
+            {
+                "name": "hepatology",
+                "qid": "Q668064",
+                "url": "https://en.wikipedia.org/wiki/Hepatology"
+            },
+            {
+                "name": "intensive care medicine",
+                "qid": "Q679690",
+                "url": "https://en.wikipedia.org/wiki/Intensive_care_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "liver failure",
+                "qid": "Q970208",
+                "url": "https://en.wikipedia.org/wiki/Liver_failure"
+            },
+            {
+                "name": "rare parenchymal liver disease",
+                "qid": "Q55785260"
+            }
+        ]
+    }
+}

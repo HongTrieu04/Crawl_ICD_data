@@ -1,0 +1,104 @@
+{
+    "name": "polycystic ovary syndrome",
+    "qid": "Q500816",
+    "icd_10": "E28.2",
+    "description": "set of symptoms caused by elevated androgens in people with XX chromosomes",
+    "aliases": [
+        "PCOS",
+        "PCOS1",
+        "Hyperandrogenemia",
+        "Multicystic ovaries",
+        "Pco1",
+        "Polycystic Ovarian disease",
+        "Polycystic ovaries",
+        "polycystic ovary",
+        "Polycystic ovary syndrome",
+        "POLYCYSTIC OVARY SYNDROME 1",
+        "POLYCYSTIC OVARY SYNDROME 1; PCOS1",
+        "polysistic ovary syndrom",
+        "Stein-Leventhal synd.",
+        "Stein-Leventhal syndrome"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/PCOS.jpg",
+    "url": "https://en.wikipedia.org/wiki/Polycystic_ovary_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "endocrine system disease",
+                "qid": "Q2661443",
+                "url": "https://en.wikipedia.org/wiki/Endocrine_disease"
+            },
+            {
+                "name": "reproductive system disease",
+                "qid": "Q7314317",
+                "url": "https://en.wikipedia.org/wiki/Reproductive_system_disease"
+            },
+            {
+                "name": "syndrome",
+                "qid": "Q179630",
+                "url": "https://en.wikipedia.org/wiki/Syndrome"
+            },
+            {
+                "name": "genetic disease",
+                "qid": "Q200779",
+                "url": "https://en.wikipedia.org/wiki/Genetic_disorder"
+            },
+            {
+                "name": "ovarian dysfunction",
+                "qid": "Q18554691"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            },
+            {
+                "name": "gynaecology",
+                "qid": "Q1221899",
+                "url": "https://en.wikipedia.org/wiki/Gynaecology"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "anovulation",
+                "qid": "Q25556",
+                "url": "https://en.wikipedia.org/wiki/Anovulation"
+            },
+            {
+                "name": "hyperandrogenism",
+                "qid": "Q10529545",
+                "url": "https://en.wikipedia.org/wiki/Hyperandrogenism"
+            },
+            {
+                "name": "polycystic ovary",
+                "qid": "Q5547896"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "etonogestrel",
+                "qid": "Q3733839",
+                "url": "https://en.wikipedia.org/wiki/Etonogestrel"
+            },
+            {
+                "name": "urofollitropin",
+                "qid": "Q4006490",
+                "url": "https://en.wikipedia.org/wiki/Urofollitropin"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "genetic disease",
+                "qid": "Q200779",
+                "url": "https://en.wikipedia.org/wiki/Genetic_disorder"
+            }
+        ]
+    }
+}

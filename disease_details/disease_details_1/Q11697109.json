@@ -1,0 +1,32 @@
+{
+    "name": "erythema gyratum repens",
+    "qid": "Q11697109",
+    "icd_10": "L53.3",
+    "description": "medical condition",
+    "aliases": [
+        "Gammel's syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Erythema_gyratum_repens",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "erythema",
+                "qid": "Q1166142",
+                "url": "https://en.wikipedia.org/wiki/Erythema"
+            },
+            {
+                "name": "skin disease",
+                "qid": "Q949302",
+                "url": "https://en.wikipedia.org/wiki/Skin_condition"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ]
+    }
+}

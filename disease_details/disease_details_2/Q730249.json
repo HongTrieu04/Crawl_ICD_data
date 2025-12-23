@@ -1,0 +1,129 @@
+{
+    "name": "arsenic poisoning",
+    "qid": "Q730249",
+    "icd_10": "T57.0",
+    "description": "arsenic affecting human life",
+    "aliases": [
+        "arsenic toxicity"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/As%2C33.jpg",
+    "url": "https://en.wikipedia.org/wiki/Arsenic_poisoning",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "diarrhea",
+                "qid": "Q40878",
+                "url": "https://en.wikipedia.org/wiki/Diarrhea"
+            },
+            {
+                "name": "vomiting",
+                "qid": "Q127076",
+                "url": "https://en.wikipedia.org/wiki/Vomiting"
+            },
+            {
+                "name": "cough",
+                "qid": "Q35805",
+                "url": "https://en.wikipedia.org/wiki/Cough"
+            },
+            {
+                "name": "unconsciousness",
+                "qid": "Q12829165",
+                "url": "https://en.wikipedia.org/wiki/Unconsciousness"
+            },
+            {
+                "name": "sore throat",
+                "qid": "Q1292082",
+                "url": "https://en.wikipedia.org/wiki/Sore_throat"
+            },
+            {
+                "name": "hyperpigmentation",
+                "qid": "Q1641068",
+                "url": "https://en.wikipedia.org/wiki/Hyperpigmentation"
+            },
+            {
+                "name": "red eye",
+                "qid": "Q2610154",
+                "url": "https://en.wikipedia.org/wiki/Red_eye_(medicine)"
+            },
+            {
+                "name": "gastroenteritis",
+                "qid": "Q156103",
+                "url": "https://en.wikipedia.org/wiki/Gastroenteritis"
+            },
+            {
+                "name": "shock",
+                "qid": "Q178061",
+                "url": "https://en.wikipedia.org/wiki/Shock_(circulatory)"
+            },
+            {
+                "name": "abdominal pain",
+                "qid": "Q183425",
+                "url": "https://en.wikipedia.org/wiki/Abdominal_pain"
+            },
+            {
+                "name": "asthenia",
+                "qid": "Q633403",
+                "url": "https://en.wikipedia.org/wiki/Asthenia"
+            },
+            {
+                "name": "peripheral neuropathy",
+                "qid": "Q945238",
+                "url": "https://en.wikipedia.org/wiki/Peripheral_neuropathy"
+            },
+            {
+                "name": "erythema",
+                "qid": "Q1166142",
+                "url": "https://en.wikipedia.org/wiki/Erythema"
+            },
+            {
+                "name": "nausea",
+                "qid": "Q186889",
+                "url": "https://en.wikipedia.org/wiki/Nausea"
+            },
+            {
+                "name": "dyspnea",
+                "qid": "Q188008",
+                "url": "https://en.wikipedia.org/wiki/Shortness_of_breath"
+            },
+            {
+                "name": "dehydration",
+                "qid": "Q194290",
+                "url": "https://en.wikipedia.org/wiki/Dehydration"
+            },
+            {
+                "name": "dermatitis",
+                "qid": "Q229256",
+                "url": "https://en.wikipedia.org/wiki/Dermatitis"
+            },
+            {
+                "name": "respiratory irritation",
+                "qid": "Q21112283"
+            },
+            {
+                "name": "ulceration of nasal septum",
+                "qid": "Q21117237"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "arsenic",
+                "qid": "Q871",
+                "url": "https://en.wikipedia.org/wiki/Arsenic"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "intoxication",
+                "qid": "Q18621601",
+                "url": "https://en.wikipedia.org/wiki/Poisoning"
+            }
+        ]
+    }
+}

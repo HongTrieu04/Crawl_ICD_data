@@ -1,0 +1,25 @@
+{
+    "name": "Anagen effluvium",
+    "qid": "Q4750829",
+    "icd_10": "L65.10",
+    "description": "pathologic loss of anagen or growth-phase hairs",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Anagen_effluvium",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "alopecia",
+                "qid": "Q2697787",
+                "url": "https://en.wikipedia.org/wiki/Alopecia"
+            }
+        ]
+    }
+}

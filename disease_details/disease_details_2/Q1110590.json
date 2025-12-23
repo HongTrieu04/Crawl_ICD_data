@@ -1,0 +1,32 @@
+{
+    "name": "hypermobility syndrome",
+    "qid": "Q1110590",
+    "icd_10": "M35.7",
+    "description": "disease",
+    "aliases": [
+        "Hypermobility syndrome"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fingerext-max.JPG",
+    "url": "https://en.wikipedia.org/wiki/Hypermobility_spectrum_disorder",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "genetics",
+                "qid": "Q7162",
+                "url": "https://en.wikipedia.org/wiki/Genetics"
+            },
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "hypermobility syndrome",
+                "qid": "Q1641042",
+                "url": "https://en.wikipedia.org/wiki/Hypermobility_(joints)"
+            }
+        ]
+    }
+}

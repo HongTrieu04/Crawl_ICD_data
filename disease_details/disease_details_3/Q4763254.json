@@ -1,0 +1,46 @@
+{
+    "name": "extranodal NK/T-cell lymphoma, nasal type",
+    "qid": "Q4763254",
+    "icd_10": "C86.0",
+    "description": "medical condition",
+    "aliases": [
+        "angiocentric lymphoma",
+        "Angiocentric T-cell lymphoma",
+        "Extranodal NK/T lymphoma-nasal",
+        "Extranodal NK/T-Cell Lymphoma, Nasal Type",
+        "Lethal midline granuloma",
+        "Lymphoma, Extranodal NK-T-Cell",
+        "Nasal T/natural killer-cell lymphoma",
+        "nasal type extranodal NK/T-cell lymphoma",
+        "NK/T-cell lymphoma",
+        "NKTCL",
+        "RETICULOSIS, MALIGNANT"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Extranodal_NK/T-cell_lymphoma,_nasal_type",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "mature T-cell and NK-cell lymphoma",
+                "qid": "Q18553445",
+                "url": "https://en.wikipedia.org/wiki/Mature_T-cell_lymphoma"
+            },
+            {
+                "name": "T-cell lymphoma",
+                "qid": "Q7667896",
+                "url": "https://en.wikipedia.org/wiki/T-cell_lymphoma"
+            },
+            {
+                "name": "nasal cavity cancer",
+                "qid": "Q18553943"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ]
+    }
+}

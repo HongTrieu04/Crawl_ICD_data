@@ -1,0 +1,36 @@
+{
+    "name": "aberrant subclavian artery",
+    "qid": "Q446822",
+    "icd_10": "Q27.8",
+    "description": "medical condition",
+    "aliases": [
+        "Aberrant left subclavian artery",
+        "Aberrant right subclavian artery",
+        "congenital malposition of subclavian artery",
+        "congenital malpositioned subclavian artery"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Aberrant_subclavian_artery",
+    "details": {
+        "Anatomical location": [
+            {
+                "name": "subclavian artery",
+                "qid": "Q490059",
+                "url": "https://en.wikipedia.org/wiki/Subclavian_artery"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "aortic arch defects",
+                "qid": "Q55785350"
+            }
+        ]
+    }
+}

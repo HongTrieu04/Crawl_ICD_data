@@ -1,0 +1,26 @@
+{
+    "name": "Phlegmasia alba dolens",
+    "qid": "Q2646594",
+    "icd_10": "I80.1",
+    "description": "medical condition",
+    "aliases": [
+        "white leg"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Phlegmasia_alba_dolens",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "vascular surgery",
+                "qid": "Q1498222",
+                "url": "https://en.wikipedia.org/wiki/Vascular_surgery"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "Phlegmasia",
+                "qid": "Q48783478"
+            }
+        ]
+    }
+}

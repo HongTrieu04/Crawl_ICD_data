@@ -1,0 +1,35 @@
+{
+    "name": "cretinism",
+    "qid": "Q472664",
+    "icd_10": "E00",
+    "description": "human medical condition",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20le%20cr%C3%A9tin%20-%20Fonds%20Trutat%20-%20MHNT.PHa.912.PR34%20cropped.jpg",
+    "url": "https://en.wikipedia.org/wiki/Congenital_iodine_deficiency_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "congenital hypothyroidism",
+                "qid": "Q531012",
+                "url": "https://en.wikipedia.org/wiki/Congenital_hypothyroidism"
+            },
+            {
+                "name": "congenital disorder",
+                "qid": "Q727096",
+                "url": "https://en.wikipedia.org/wiki/Birth_defect"
+            },
+            {
+                "name": "thyroid gland disease",
+                "qid": "Q6673122",
+                "url": "https://en.wikipedia.org/wiki/Thyroid_disease"
+            }
+        ]
+    }
+}

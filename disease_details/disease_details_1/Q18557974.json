@@ -1,0 +1,31 @@
+{
+    "name": "acute vascular insufficiency of intestine",
+    "qid": "Q18557974",
+    "icd_10": "K55.0",
+    "description": "Human disease",
+    "aliases": [
+        "acute gastrointestinal tract vascular insuffic.",
+        "acute gastrointestinal tract vascular insuffic. (disorder)",
+        "acute GIT vascular insuffic.",
+        "acute intestinal Ischemia",
+        "acute intestinal vascular insufficiency"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "intestinal disease",
+                "qid": "Q3055380",
+                "url": "https://en.wikipedia.org/wiki/Enteropathy"
+            }
+        ]
+    }
+}

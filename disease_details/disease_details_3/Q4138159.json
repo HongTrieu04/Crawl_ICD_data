@@ -1,0 +1,24 @@
+{
+    "name": "Hydrosalpinx",
+    "qid": "Q4138159",
+    "icd_10": "N70.1",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hydrosalpinx",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gynaecology",
+                "qid": "Q1221899",
+                "url": "https://en.wikipedia.org/wiki/Gynaecology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "fallopian tube disease",
+                "qid": "Q18554947"
+            }
+        ]
+    }
+}

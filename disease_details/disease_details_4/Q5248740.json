@@ -1,0 +1,28 @@
+{
+    "name": "chronic bacterial prostatitis",
+    "qid": "Q5248740",
+    "icd_10": "N41.1",
+    "description": "bacterial infection of the prostate gland",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Prostatelead.jpg",
+    "url": "https://en.wikipedia.org/wiki/Chronic_bacterial_prostatitis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "chronic prostatitis",
+                "qid": "Q11074137"
+            },
+            {
+                "name": "bacterial prostatitis",
+                "qid": "Q18967142"
+            }
+        ]
+    }
+}

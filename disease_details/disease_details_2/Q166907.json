@@ -1,0 +1,125 @@
+{
+    "name": "cluster headache",
+    "qid": "Q166907",
+    "icd_10": "G44.0",
+    "description": "neurological disorder",
+    "aliases": [
+        "הכאב הקשה והחזק ביותר"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gray778%20Trigeminal.png",
+    "url": "https://en.wikipedia.org/wiki/Cluster_headache",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            },
+            {
+                "name": "irritability",
+                "qid": "Q29299",
+                "url": "https://en.wikipedia.org/wiki/Irritability"
+            },
+            {
+                "name": "photophobia",
+                "qid": "Q281289",
+                "url": "https://en.wikipedia.org/wiki/Photophobia"
+            },
+            {
+                "name": "psychomotor agitation",
+                "qid": "Q394129",
+                "url": "https://en.wikipedia.org/wiki/Psychomotor_agitation"
+            },
+            {
+                "name": "ptosis",
+                "qid": "Q622427",
+                "url": "https://en.wikipedia.org/wiki/Ptosis_(eyelid)"
+            },
+            {
+                "name": "runny nose",
+                "qid": "Q1115038",
+                "url": "https://en.wikipedia.org/wiki/Rhinorrhea"
+            },
+            {
+                "name": "red eye",
+                "qid": "Q2610154",
+                "url": "https://en.wikipedia.org/wiki/Red_eye_(medicine)"
+            },
+            {
+                "name": "nasal congestion",
+                "qid": "Q3245488",
+                "url": "https://en.wikipedia.org/wiki/Nasal_congestion"
+            },
+            {
+                "name": "sweating",
+                "qid": "Q3537764"
+            },
+            {
+                "name": "tear secretion",
+                "qid": "Q12153824"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            },
+            {
+                "name": "trigeminal autonomic cephalalgia",
+                "qid": "Q2453193",
+                "url": "https://en.wikipedia.org/wiki/Trigeminal_autonomic_cephalgia"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "lithium",
+                "qid": "Q152763",
+                "url": "https://en.wikipedia.org/wiki/Lithium_(medication)"
+            },
+            {
+                "name": "corticosteroid",
+                "qid": "Q210420",
+                "url": "https://en.wikipedia.org/wiki/Corticosteroid"
+            },
+            {
+                "name": "anticonvulsant agent",
+                "qid": "Q576618",
+                "url": "https://en.wikipedia.org/wiki/Anticonvulsant"
+            },
+            {
+                "name": "verapamil",
+                "qid": "Q410291",
+                "url": "https://en.wikipedia.org/wiki/Verapamil"
+            },
+            {
+                "name": "ergotamine",
+                "qid": "Q419186",
+                "url": "https://en.wikipedia.org/wiki/Ergotamine"
+            },
+            {
+                "name": "triptan",
+                "qid": "Q423866",
+                "url": "https://en.wikipedia.org/wiki/Triptan"
+            },
+            {
+                "name": "oxygen therapy",
+                "qid": "Q1988216",
+                "url": "https://en.wikipedia.org/wiki/Oxygen_therapy"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "unknown",
+                "qid": "Q24238356"
+            }
+        ]
+    }
+}

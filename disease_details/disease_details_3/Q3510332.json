@@ -1,0 +1,24 @@
+{
+    "name": "corneal abrasion",
+    "qid": "Q3510332",
+    "icd_10": "S05.0",
+    "description": "scratch to the surface of the cornea of the eye",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Human%20cornea%20with%20abrasion%20highlighted%20by%20fluorescein%20staining.jpg",
+    "url": "https://en.wikipedia.org/wiki/Corneal_abrasion",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "corneal damage",
+                "qid": "Q21110016"
+            }
+        ]
+    }
+}

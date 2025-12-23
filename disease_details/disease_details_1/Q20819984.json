@@ -1,0 +1,18 @@
+{
+    "name": "pertrochanteric fracture",
+    "qid": "Q20819984",
+    "icd_10": "S72.1",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "femoral fracture",
+                "qid": "Q4350503",
+                "url": "https://en.wikipedia.org/wiki/Femoral_fracture"
+            }
+        ]
+    }
+}

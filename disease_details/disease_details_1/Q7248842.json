@@ -1,0 +1,18 @@
+{
+    "name": "Progressive disseminated histoplasmosis",
+    "qid": "Q7248842",
+    "icd_10": "B39.3",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Progressive_disseminated_histoplasmosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "histoplasmosis",
+                "qid": "Q627625",
+                "url": "https://en.wikipedia.org/wiki/Histoplasmosis"
+            }
+        ]
+    }
+}

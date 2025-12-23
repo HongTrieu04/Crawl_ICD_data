@@ -1,0 +1,35 @@
+{
+    "name": "hyperpigmentation",
+    "qid": "Q1641068",
+    "icd_10": "L81.0",
+    "description": "darkening of an area of skin or nails caused by increased melanin",
+    "aliases": [
+        "skin hyperpigmentation"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hyperpigmentation%20of%20the%20gum.jpg",
+    "url": "https://en.wikipedia.org/wiki/Hyperpigmentation",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "pigmentation disorder",
+                "qid": "Q7193408",
+                "url": "https://en.wikipedia.org/wiki/Pigmentation_disorder"
+            },
+            {
+                "name": "health problem",
+                "qid": "Q2057971"
+            },
+            {
+                "name": "skin and integumentary tissue symptom",
+                "qid": "Q100751718"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "name": "pancreatic pseudocyst",
+    "qid": "Q689496",
+    "icd_10": "K86.3",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pancreatic_pseudocyst",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "pseudocyst",
+                "qid": "Q2424791",
+                "url": "https://en.wikipedia.org/wiki/Pseudocyst"
+            },
+            {
+                "name": "pancreas disease",
+                "qid": "Q7130407",
+                "url": "https://en.wikipedia.org/wiki/Pancreatic_disease"
+            }
+        ]
+    }
+}

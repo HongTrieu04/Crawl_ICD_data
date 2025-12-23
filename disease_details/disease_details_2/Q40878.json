@@ -1,0 +1,71 @@
+{
+    "name": "diarrhea",
+    "qid": "Q40878",
+    "icd_10": "A09",
+    "description": "loose or liquid bowel movements",
+    "aliases": [
+        "diarrhoea",
+        "diarrhea of presumed infectious origin",
+        "upset stomach"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Multiple%20rotavirus%20particles.jpg",
+    "url": "https://en.wikipedia.org/wiki/Diarrhea",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "gastrointestinal system disease",
+                "qid": "Q2300099",
+                "url": "https://en.wikipedia.org/wiki/Gastrointestinal_disease"
+            },
+            {
+                "name": "clinical sign",
+                "qid": "Q1441305",
+                "url": "https://en.wikipedia.org/wiki/Clinical_sign"
+            },
+            {
+                "name": "feces and droppings symptom",
+                "qid": "Q102186864"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "carbonic acid",
+                "qid": "Q104334",
+                "url": "https://en.wikipedia.org/wiki/Carbonic_acid"
+            },
+            {
+                "name": "oral rehydration therapy",
+                "qid": "Q1381652",
+                "url": "https://en.wikipedia.org/wiki/Oral_rehydration_therapy"
+            },
+            {
+                "name": "lidamidine",
+                "qid": "Q27287122"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            },
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Rotavirus",
+                "qid": "Q164778",
+                "url": "https://en.wikipedia.org/wiki/Rotavirus"
+            }
+        ]
+    }
+}

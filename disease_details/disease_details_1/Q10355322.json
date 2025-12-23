@@ -1,0 +1,34 @@
+{
+    "name": "psoriatic erythroderma",
+    "qid": "Q10355322",
+    "icd_10": "L40.8",
+    "description": "medical condition",
+    "aliases": [
+        "erythrodermic psoriasis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Psoriatic_erythroderma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "psoriasis",
+                "qid": "Q179945",
+                "url": "https://en.wikipedia.org/wiki/Psoriasis"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "erythroderma",
+                "qid": "Q1363741",
+                "url": "https://en.wikipedia.org/wiki/Erythroderma"
+            }
+        ]
+    }
+}

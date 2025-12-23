@@ -1,0 +1,33 @@
+{
+    "name": "femoral neuralgia",
+    "qid": "Q3005579",
+    "icd_10": "M54.16",
+    "description": null,
+    "aliases": [
+        "crural neuralgia",
+        "cruralgia"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "radiculopathy",
+                "qid": "Q175180",
+                "url": "https://en.wikipedia.org/wiki/Radiculopathy"
+            },
+            {
+                "name": "neuralgia",
+                "qid": "Q1136940",
+                "url": "https://en.wikipedia.org/wiki/Neuralgia"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ]
+    }
+}

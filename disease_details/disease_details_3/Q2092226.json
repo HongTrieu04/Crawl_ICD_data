@@ -1,0 +1,47 @@
+{
+    "name": "Pickardt syndrome",
+    "qid": "Q2092226",
+    "icd_10": "E23",
+    "description": "Rare form of tertiary hypothyroidism",
+    "aliases": [
+        "PSIS",
+        "Ectopic neurohypophysis",
+        "Hypoplastic Anterior Pituitary, Missing Stalk, and Ectopic Posterior Pituitary",
+        "Pickardt-Fahlbusch syndrome",
+        "Pituitary stalk interruption syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pickardt_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "pituitary stalk",
+                "qid": "Q3350662",
+                "url": "https://en.wikipedia.org/wiki/Pituitary_stalk"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "pituitary gland disease",
+                "qid": "Q7199538",
+                "url": "https://en.wikipedia.org/wiki/Pituitary_disease"
+            },
+            {
+                "name": "PSIS",
+                "qid": "Q56277527",
+                "url": "https://en.wikipedia.org/wiki/Pituitary_stalk_interruption_syndrome"
+            },
+            {
+                "name": "non-acquired pituitary hormone deficiency",
+                "qid": "Q55788899"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "name": "pneumoconiosis due to talc",
+    "qid": "Q3980374",
+    "icd_10": "J62.06",
+    "description": "human disease",
+    "aliases": [
+        "Pneumoconiosis due to talc (disorder)",
+        "pulmonary talcosis",
+        "talc pneumoconiosis",
+        "talcosis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pulmonary%20talcosis%20low%20mag%20cropped.jpg",
+    "url": "https://en.wikipedia.org/wiki/Pulmonary_talcosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "pneumoconiosis",
+                "qid": "Q651223",
+                "url": "https://en.wikipedia.org/wiki/Pneumoconiosis"
+            },
+            {
+                "name": "occupational disease",
+                "qid": "Q637816",
+                "url": "https://en.wikipedia.org/wiki/Occupational_disease"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ]
+    }
+}

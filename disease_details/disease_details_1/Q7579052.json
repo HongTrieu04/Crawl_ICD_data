@@ -1,0 +1,27 @@
+{
+    "name": "spontaneous cerebrospinal fluid leak",
+    "qid": "Q7579052",
+    "icd_10": "G97.0",
+    "description": null,
+    "aliases": [
+        "intracranial hypotension syndrome"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Meninges-es.svg",
+    "url": "https://en.wikipedia.org/wiki/Spontaneous_cerebrospinal_fluid_leak",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "cerebrospinal fluid leak",
+                "qid": "Q5064113",
+                "url": "https://en.wikipedia.org/wiki/Cerebrospinal_fluid_leak"
+            }
+        ]
+    }
+}

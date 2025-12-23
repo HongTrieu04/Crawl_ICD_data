@@ -1,0 +1,33 @@
+{
+    "name": "Proximal femoral focal deficiency",
+    "qid": "Q7252853",
+    "icd_10": "Q72.4",
+    "description": "medical condition",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/PFFD.svg",
+    "url": "https://en.wikipedia.org/wiki/Proximal_femoral_focal_deficiency",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "musculoskeletal disorder",
+                "qid": "Q4116663",
+                "url": "https://en.wikipedia.org/wiki/Musculoskeletal_disorder"
+            },
+            {
+                "name": "congenital lower extremity deformity",
+                "qid": "Q54974057"
+            },
+            {
+                "name": "femoral agenesis/hypoplasia",
+                "qid": "Q55785887"
+            }
+        ]
+    }
+}

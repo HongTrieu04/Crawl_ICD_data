@@ -1,0 +1,22 @@
+{
+    "name": "Dysphagia lusoria",
+    "qid": "Q3710013",
+    "icd_10": "R13.19",
+    "description": "abnormal condition characterized by difficulty in swallowing caused by aberrant right subclavian artery",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Dysphagia_lusoria",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "dysphagia",
+                "qid": "Q623289",
+                "url": "https://en.wikipedia.org/wiki/Dysphagia"
+            },
+            {
+                "name": "aortic arch defects",
+                "qid": "Q55785350"
+            }
+        ]
+    }
+}

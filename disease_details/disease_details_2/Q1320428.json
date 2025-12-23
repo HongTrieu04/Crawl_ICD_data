@@ -1,0 +1,24 @@
+{
+    "name": "malocclusion",
+    "qid": "Q1320428",
+    "icd_10": "K07.4",
+    "description": "misalignment or incorrect relation between the teeth of the two dental arches as the jaws close",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dental%20problem%20in%2010-year-old%20girl%20-%201.jpg",
+    "url": "https://en.wikipedia.org/wiki/Malocclusion",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dentistry",
+                "qid": "Q12128",
+                "url": "https://en.wikipedia.org/wiki/Dentistry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "dentofacial deformity",
+                "qid": "Q55191859"
+            }
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "name": "aortic dissection",
+    "qid": "Q594660",
+    "icd_10": "I71.0",
+    "description": "injury to the innermost layer of the aorta",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/AoDissekt%20scheme%20StanfordB.png",
+    "url": "https://en.wikipedia.org/wiki/Aortic_dissection",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "Arterial dissections",
+                "qid": "Q2660911",
+                "url": "https://en.wikipedia.org/wiki/Arterial_dissections"
+            },
+            {
+                "name": "acute aortic syndrome",
+                "qid": "Q4677913",
+                "url": "https://en.wikipedia.org/wiki/Acute_aortic_syndrome"
+            },
+            {
+                "name": "aortic disease",
+                "qid": "Q18556675"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "aorta",
+                "qid": "Q101004",
+                "url": "https://en.wikipedia.org/wiki/Aorta"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "vascular surgery",
+                "qid": "Q1498222",
+                "url": "https://en.wikipedia.org/wiki/Vascular_surgery"
+            }
+        ]
+    }
+}

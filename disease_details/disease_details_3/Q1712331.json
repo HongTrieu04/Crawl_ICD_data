@@ -1,0 +1,43 @@
+{
+    "name": "Rh disease",
+    "qid": "Q1712331",
+    "icd_10": "P55.0",
+    "description": "problem with Rh+ fetuses in Rh- mothers",
+    "aliases": [
+        "Rh (D) disease",
+        "Rh incompatibility affecting management of mother",
+        "Rh isoimmunization",
+        "RhD HDN",
+        "RhD hemolytic disease of the newborn",
+        "Rhesus D hemolytic disease of the newborn",
+        "Rhesus disease",
+        "Rhesus incompatibility",
+        "Rhesus isoimmunisation"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Rh_disease",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "pediatrics",
+                "qid": "Q123028",
+                "url": "https://en.wikipedia.org/wiki/Pediatrics"
+            },
+            {
+                "name": "Transfusion Medicine",
+                "qid": "Q15758505"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "fetal erythroblastosis",
+                "qid": "Q743545",
+                "url": "https://en.wikipedia.org/wiki/Hemolytic_disease_of_the_newborn"
+            },
+            {
+                "name": "blood group incompatibility",
+                "qid": "Q18556220"
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Megavitamin-B6 syndrome",
+    "qid": "Q82684153",
+    "icd_10": "E67.2",
+    "description": "syndrome marked by sensory neuropathy induced by excess vitamin B6",
+    "aliases": [
+        "hypervitaminosis B6"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Megavitamin-B6_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "hypervitaminosis",
+                "qid": "Q423927",
+                "url": "https://en.wikipedia.org/wiki/Hypervitaminosis"
+            }
+        ]
+    }
+}

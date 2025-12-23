@@ -1,0 +1,53 @@
+{
+    "name": "Haemodialysis-associated amyloidosis",
+    "qid": "Q5638242",
+    "icd_10": "E85.3",
+    "description": "#946;2M) deposits in the musculoskeletal system leading to carpal tunnel syndrome (CTS), chronic arthropathy, cystic bone lesions, destructive osteoarthropathy, and pathologic fractures",
+    "aliases": [
+        "DRA",
+        "ABeta2Mwt amyloidosis",
+        "Amyloidosis Beta2M",
+        "Amyloidosis dialysis-related",
+        "Beta-2-microglobulin amyloidosis",
+        "dialysis-related amyloidosis",
+        "Dialysis-related amyloidosis",
+        "Dialysis-related arthropathy",
+        "Wild type ABeta2-microglobulinic amyloidosis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Haemodialysis-associated_amyloidosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "immunology",
+                "qid": "Q101929",
+                "url": "https://en.wikipedia.org/wiki/Immunology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "amyloidosis",
+                "qid": "Q816798",
+                "url": "https://en.wikipedia.org/wiki/Amyloidosis"
+            },
+            {
+                "name": "kidney disease",
+                "qid": "Q1054718",
+                "url": "https://en.wikipedia.org/wiki/Kidney_disease"
+            },
+            {
+                "name": "Dialytrauma",
+                "qid": "Q24891288",
+                "url": "https://en.wikipedia.org/wiki/Dialytrauma"
+            },
+            {
+                "name": "acquired metabolic disease",
+                "qid": "Q18553699"
+            },
+            {
+                "name": "ABeta2M amyloidosis",
+                "qid": "Q55788199"
+            }
+        ]
+    }
+}

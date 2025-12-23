@@ -1,0 +1,28 @@
+{
+    "name": "hyperinsulinism-hyperammonemia syndrome",
+    "qid": "Q3508614",
+    "icd_10": "E72.8",
+    "description": "medical condition",
+    "aliases": [
+        "HA/HI syndrome",
+        "HHF6",
+        "HI/HA syndrome",
+        "Hyperinsulinemic hypoglycemia familial 6",
+        "HYPERINSULINEMIC HYPOGLYCEMIA, FAMILIAL, 6",
+        "HYPERINSULINEMIC HYPOGLYCEMIA, FAMILIAL, 6; HHF6",
+        "Hyperinsulinemic Hypoglycemia, Familial, type 6",
+        "Hyperinsulinism hyperammonemia syndrome",
+        "Hyperinsulinism-Hyperammonemia Syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hyperinsulinism-hyperammonemia_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "congenital hyperinsulinism",
+                "qid": "Q5160437",
+                "url": "https://en.wikipedia.org/wiki/Congenital_hyperinsulinism"
+            }
+        ]
+    }
+}

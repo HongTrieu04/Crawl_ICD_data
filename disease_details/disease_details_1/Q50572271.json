@@ -1,0 +1,29 @@
+{
+    "name": "amyelia",
+    "qid": "Q50572271",
+    "icd_10": "Q06.0",
+    "description": "human disease",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "neural tube defect",
+                "qid": "Q548213",
+                "url": "https://en.wikipedia.org/wiki/Neural_tube_defect"
+            },
+            {
+                "name": "malformation of the neurenteric canal, spinal cord and column",
+                "qid": "Q55786799"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

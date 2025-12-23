@@ -1,0 +1,24 @@
+{
+    "name": "solitary rectal ulcer syndrome",
+    "qid": "Q4003017",
+    "icd_10": "K62.6",
+    "description": null,
+    "aliases": [
+        "SRUS"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "intestinal disease",
+                "qid": "Q3055380",
+                "url": "https://en.wikipedia.org/wiki/Enteropathy"
+            },
+            {
+                "name": "rectal disease",
+                "qid": "Q18554389"
+            }
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "name": "precocious puberty",
+    "qid": "Q224513",
+    "icd_10": "E30.1",
+    "description": "human disease",
+    "aliases": [
+        "(Sexual precocity NOS) or (puberty - precocious)",
+        "Familial precocious puberty",
+        "Idiopathic sexual precocity",
+        "obsolete precocious puberty",
+        "Precocious puberty (disorder)",
+        "Precocious sexual development (disorder)",
+        "Precocious true puberty",
+        "Premature puberty",
+        "Puberty, Precocious",
+        "Sexual precocity",
+        "Sexual precocity NOS"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Precocious_puberty",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "leuprolide",
+                "qid": "Q907160",
+                "url": "https://en.wikipedia.org/wiki/Leuprorelin"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disorder of puberty",
+                "qid": "Q51619888"
+            }
+        ]
+    }
+}

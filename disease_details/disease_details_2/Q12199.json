@@ -1,0 +1,276 @@
+{
+    "name": "AIDS",
+    "qid": "Q12199",
+    "icd_10": "B24",
+    "description": "spectrum of conditions caused by HIV infection",
+    "aliases": [
+        "HIV/AIDS",
+        "acquired immune deficiency syndrome",
+        "acquired immunodeficiency syndrome",
+        "gay-related immune deficiency"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Human%20Immunodeficency%20Virus%20-%20stylized%20rendering.jpg",
+    "url": "https://en.wikipedia.org/wiki/HIV/AIDS",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "sexually transmitted infection",
+                "qid": "Q12198",
+                "url": "https://en.wikipedia.org/wiki/Sexually_transmitted_infection"
+            },
+            {
+                "name": "acquired immunodeficiency",
+                "qid": "Q12131931"
+            },
+            {
+                "name": "HIV infection",
+                "qid": "Q18556697"
+            },
+            {
+                "name": "pandemic and epidemic-prone diseases",
+                "qid": "Q131345497"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "fatigue",
+                "qid": "Q9690",
+                "url": "https://en.wikipedia.org/wiki/Fatigue"
+            },
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "diarrhea",
+                "qid": "Q40878",
+                "url": "https://en.wikipedia.org/wiki/Diarrhea"
+            },
+            {
+                "name": "night sweats",
+                "qid": "Q474718",
+                "url": "https://en.wikipedia.org/wiki/Night_sweats"
+            },
+            {
+                "name": "myalgia",
+                "qid": "Q474959",
+                "url": "https://en.wikipedia.org/wiki/Myalgia"
+            },
+            {
+                "name": "rash",
+                "qid": "Q653197",
+                "url": "https://en.wikipedia.org/wiki/Rash"
+            },
+            {
+                "name": "weight loss",
+                "qid": "Q718113",
+                "url": "https://en.wikipedia.org/wiki/Weight_loss"
+            },
+            {
+                "name": "lethargy",
+                "qid": "Q15637420",
+                "url": "https://en.wikipedia.org/wiki/Lethargy"
+            },
+            {
+                "name": "mouth ulcer",
+                "qid": "Q3245680",
+                "url": "https://en.wikipedia.org/wiki/Mouth_ulcer"
+            },
+            {
+                "name": "Kaposi's sarcoma",
+                "qid": "Q725345",
+                "url": "https://en.wikipedia.org/wiki/Kaposi%27s_sarcoma"
+            },
+            {
+                "name": "opportunistic infection",
+                "qid": "Q835718",
+                "url": "https://en.wikipedia.org/wiki/Opportunistic_infection"
+            },
+            {
+                "name": "lymphadenopathy",
+                "qid": "Q847726",
+                "url": "https://en.wikipedia.org/wiki/Lymphadenopathy"
+            },
+            {
+                "name": "peripheral neuropathy",
+                "qid": "Q945238",
+                "url": "https://en.wikipedia.org/wiki/Peripheral_neuropathy"
+            },
+            {
+                "name": "sore throat",
+                "qid": "Q1292082",
+                "url": "https://en.wikipedia.org/wiki/Sore_throat"
+            },
+            {
+                "name": "chills",
+                "qid": "Q2260058",
+                "url": "https://en.wikipedia.org/wiki/Chills"
+            },
+            {
+                "name": "lymphoma",
+                "qid": "Q208414",
+                "url": "https://en.wikipedia.org/wiki/Lymphoma"
+            },
+            {
+                "name": "enlargement of lymph nodes",
+                "qid": "Q102187500"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "tenofovir disoproxil",
+                "qid": "Q155954",
+                "url": "https://en.wikipedia.org/wiki/Tenofovir_disoproxil"
+            },
+            {
+                "name": "zidovudine",
+                "qid": "Q198504",
+                "url": "https://en.wikipedia.org/wiki/Zidovudine"
+            },
+            {
+                "name": "indinavir",
+                "qid": "Q425490",
+                "url": "https://en.wikipedia.org/wiki/Indinavir"
+            },
+            {
+                "name": "darunavir",
+                "qid": "Q3765251",
+                "url": "https://en.wikipedia.org/wiki/Darunavir"
+            },
+            {
+                "name": "lamivudine/zidovudine",
+                "qid": "Q6482030",
+                "url": "https://en.wikipedia.org/wiki/Lamivudine/zidovudine"
+            },
+            {
+                "name": "fosamprenavir",
+                "qid": "Q1385311",
+                "url": "https://en.wikipedia.org/wiki/Fosamprenavir"
+            },
+            {
+                "name": "zalcitabine",
+                "qid": "Q2344582",
+                "url": "https://en.wikipedia.org/wiki/Zalcitabine"
+            },
+            {
+                "name": "nevirapine",
+                "qid": "Q263713",
+                "url": "https://en.wikipedia.org/wiki/Nevirapine"
+            },
+            {
+                "name": "abacavir",
+                "qid": "Q304330",
+                "url": "https://en.wikipedia.org/wiki/Abacavir"
+            },
+            {
+                "name": "delavirdine",
+                "qid": "Q370244",
+                "url": "https://en.wikipedia.org/wiki/Delavirdine"
+            },
+            {
+                "name": "maraviroc",
+                "qid": "Q421369",
+                "url": "https://en.wikipedia.org/wiki/Maraviroc"
+            },
+            {
+                "name": "raltegravir",
+                "qid": "Q421552",
+                "url": "https://en.wikipedia.org/wiki/Raltegravir"
+            },
+            {
+                "name": "amprenavir",
+                "qid": "Q422198",
+                "url": "https://en.wikipedia.org/wiki/Amprenavir"
+            },
+            {
+                "name": "lopinavir",
+                "qid": "Q422585",
+                "url": "https://en.wikipedia.org/wiki/Lopinavir"
+            },
+            {
+                "name": "didanosine",
+                "qid": "Q422606",
+                "url": "https://en.wikipedia.org/wiki/Didanosine"
+            },
+            {
+                "name": "ritonavir",
+                "qid": "Q422618",
+                "url": "https://en.wikipedia.org/wiki/Ritonavir"
+            },
+            {
+                "name": "lamivudine",
+                "qid": "Q422631",
+                "url": "https://en.wikipedia.org/wiki/Lamivudine"
+            },
+            {
+                "name": "efavirenz",
+                "qid": "Q422645",
+                "url": "https://en.wikipedia.org/wiki/Efavirenz"
+            },
+            {
+                "name": "saquinavir",
+                "qid": "Q422654",
+                "url": "https://en.wikipedia.org/wiki/Saquinavir"
+            },
+            {
+                "name": "enfuvirtide",
+                "qid": "Q423327",
+                "url": "https://en.wikipedia.org/wiki/Enfuvirtide"
+            },
+            {
+                "name": "nelfinavir",
+                "qid": "Q423366",
+                "url": "https://en.wikipedia.org/wiki/Nelfinavir"
+            },
+            {
+                "name": "stavudine",
+                "qid": "Q423984",
+                "url": "https://en.wikipedia.org/wiki/Stavudine"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "HIV",
+                "qid": "Q15787",
+                "url": "https://en.wikipedia.org/wiki/HIV"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "T-lymphocytes",
+                "qid": "Q193529",
+                "url": "https://en.wikipedia.org/wiki/T_cell"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "antiretroviral therapy for HIV/AIDS",
+                "qid": "Q583050",
+                "url": "https://en.wikipedia.org/wiki/Management_of_HIV/AIDS"
+            },
+            {
+                "name": "pre-exposure prophylaxis against HIV",
+                "qid": "Q7239230",
+                "url": "https://en.wikipedia.org/wiki/Pre-exposure_prophylaxis_for_HIV_prevention"
+            },
+            {
+                "name": "post-exposure prophylaxis",
+                "qid": "Q1361206",
+                "url": "https://en.wikipedia.org/wiki/Post-exposure_prophylaxis"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

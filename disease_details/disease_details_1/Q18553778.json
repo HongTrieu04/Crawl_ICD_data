@@ -1,0 +1,32 @@
+{
+    "name": "syphilitic encephalitis",
+    "qid": "Q18553778",
+    "icd_10": "A52.14",
+    "description": "human disease",
+    "aliases": [
+        "Syphilis encephalitis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "encephalitis",
+                "qid": "Q199615",
+                "url": "https://en.wikipedia.org/wiki/Encephalitis"
+            },
+            {
+                "name": "neurosyphilis",
+                "qid": "Q7888578",
+                "url": "https://en.wikipedia.org/wiki/Neurosyphilis"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

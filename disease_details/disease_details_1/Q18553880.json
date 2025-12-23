@@ -1,0 +1,27 @@
+{
+    "name": "double pterygium",
+    "qid": "Q18553880",
+    "icd_10": "H11.03",
+    "description": "Human disease",
+    "aliases": [
+        "Double pterygium (disorder)"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "pterygium",
+                "qid": "Q1862972",
+                "url": "https://en.wikipedia.org/wiki/Pterygium_(eye)"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ]
+    }
+}

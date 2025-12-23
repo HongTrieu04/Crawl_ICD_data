@@ -1,0 +1,33 @@
+{
+    "name": "chronic venous insufficiency",
+    "qid": "Q1088042",
+    "icd_10": "I87.2",
+    "description": "pooling of blood in the veins",
+    "aliases": [
+        "Chronic venous insufficiency, CVI",
+        "venous insufficiency (disease), chronic",
+        "venous reflux"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Chronic_venous_insufficiency",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "venous insufficiency",
+                "qid": "Q9008818"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "name": "basilar skull fracture",
+    "qid": "Q1937676",
+    "icd_10": "S02.1",
+    "description": "break of a bone in the base of the skull",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Illu%20cranial%20bones2.jpg",
+    "url": "https://en.wikipedia.org/wiki/Basilar_skull_fracture",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "skull fracture",
+                "qid": "Q1971607",
+                "url": "https://en.wikipedia.org/wiki/Skull_fracture"
+            },
+            {
+                "name": "traumatic brain injury",
+                "qid": "Q1995526",
+                "url": "https://en.wikipedia.org/wiki/Traumatic_brain_injury"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ]
+    }
+}

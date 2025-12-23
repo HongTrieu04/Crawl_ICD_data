@@ -1,0 +1,78 @@
+{
+    "name": "urinary system disease",
+    "qid": "Q7900883",
+    "icd_10": "N13",
+    "description": "disease of the urinary system",
+    "aliases": [
+        "renal disease",
+        "urologic disease",
+        "uropathy",
+        "disease of renal system",
+        "disease, urinary tract",
+        "disease, urologic",
+        "disease, urological",
+        "diseases, urinary Tract",
+        "diseases, urologic",
+        "diseases, urological",
+        "disorder of renal system",
+        "disorder of the urinary system",
+        "non-neoplastic urinary tract disease",
+        "renal system disease",
+        "urinary disease",
+        "urinary system disorder",
+        "urinary tract disease",
+        "Urinary Tract Diseases",
+        "urologic diseases",
+        "urological disease",
+        "urological diseases",
+        "urological disorder"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Urologic_disease",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "urinary system",
+                "qid": "Q181100",
+                "url": "https://en.wikipedia.org/wiki/Urinary_system"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "phenyl salicylate",
+                "qid": "Q421259",
+                "url": "https://en.wikipedia.org/wiki/Phenyl_salicylate"
+            },
+            {
+                "name": "enoxacin",
+                "qid": "Q1639616",
+                "url": "https://en.wikipedia.org/wiki/Enoxacin"
+            },
+            {
+                "name": "methenamine mandelate",
+                "qid": "Q27264316"
+            },
+            {
+                "name": "methenamine hippurate",
+                "qid": "Q27283414"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease of anatomical entity",
+                "qid": "Q18557436"
+            },
+            {
+                "name": "genitourinary system disease",
+                "qid": "Q29033580"
+            }
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Subinvolution",
+    "qid": "Q7631344",
+    "icd_10": "O90.8",
+    "description": "medical condition after childbirth",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Subinvolution",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "puerperal disorders",
+                "qid": "Q7258523",
+                "url": "https://en.wikipedia.org/wiki/Postpartum_disorder"
+            },
+            {
+                "name": "chronic subinvolution of uterus",
+                "qid": "Q18554610"
+            }
+        ]
+    }
+}

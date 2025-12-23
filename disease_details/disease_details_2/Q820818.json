@@ -1,0 +1,22 @@
+{
+    "name": "Phlegmasia cerulea dolens",
+    "qid": "Q820818",
+    "icd_10": "I80.2",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Phlegmasia_cerulea_dolens",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "deep vein thrombosis",
+                "qid": "Q1762339",
+                "url": "https://en.wikipedia.org/wiki/Deep_vein_thrombosis"
+            },
+            {
+                "name": "Phlegmasia",
+                "qid": "Q48783478"
+            }
+        ]
+    }
+}

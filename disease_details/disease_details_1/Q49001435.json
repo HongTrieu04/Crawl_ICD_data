@@ -1,0 +1,17 @@
+{
+    "name": "Root fracture",
+    "qid": "Q49001435",
+    "icd_10": "K03.8",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Root_fracture",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "fractures of human teeth",
+                "qid": "Q14515911"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "hostility",
+    "qid": "Q2729863",
+    "icd_10": "R45.5",
+    "description": "form of emotionally charged angry behavior",
+    "aliases": [
+        "aggression"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hostility",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "anger",
+                "qid": "Q79871",
+                "url": "https://en.wikipedia.org/wiki/Anger"
+            },
+            {
+                "name": "aggression",
+                "qid": "Q191797",
+                "url": "https://en.wikipedia.org/wiki/Aggression"
+            }
+        ]
+    }
+}

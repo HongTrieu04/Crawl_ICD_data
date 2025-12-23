@@ -1,0 +1,45 @@
+{
+    "name": "Dupuytren's contracture",
+    "qid": "Q1330254",
+    "icd_10": "M72.0",
+    "description": "superficial fibromatosis arising from the soft tissue of the palm",
+    "aliases": [
+        "Dupuytren Contracture",
+        "Dupuytren contracture (disease)",
+        "Dupuytren's Contracture",
+        "Palmar Fibromatosis",
+        "palmar part of manus fibromatosis",
+        "Viking disease"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Morbus%20dupuytren%201%20%28fcm%29.jpg",
+    "url": "https://en.wikipedia.org/wiki/Dupuytren%27s_contracture",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "orthopedics",
+                "qid": "Q216685",
+                "url": "https://en.wikipedia.org/wiki/Orthopedic_surgery"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "fibromatosis",
+                "qid": "Q1410851",
+                "url": "https://en.wikipedia.org/wiki/Fibromatosis"
+            },
+            {
+                "name": "contracture",
+                "qid": "Q1480291",
+                "url": "https://en.wikipedia.org/wiki/Contracture"
+            },
+            {
+                "name": "flexion contracture of finger",
+                "qid": "Q30150541"
+            },
+            {
+                "name": "superficial fibromatosis",
+                "qid": "Q55785891"
+            }
+        ]
+    }
+}

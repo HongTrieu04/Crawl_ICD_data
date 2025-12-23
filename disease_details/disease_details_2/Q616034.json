@@ -1,0 +1,18 @@
+{
+    "name": "Aortic arch syndrome",
+    "qid": "Q616034",
+    "icd_10": "M31.4",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "Takayasu's arteritis",
+                "qid": "Q432462",
+                "url": "https://en.wikipedia.org/wiki/Takayasu%27s_arteritis"
+            }
+        ]
+    }
+}

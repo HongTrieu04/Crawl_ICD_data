@@ -1,0 +1,25 @@
+{
+    "name": "Borderline lepromatous leprosy",
+    "qid": "Q4944686",
+    "icd_10": "A30.4",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Borderline_lepromatous_leprosy",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "lepromatous leprosy",
+                "qid": "Q6527832",
+                "url": "https://en.wikipedia.org/wiki/Lepromatous_leprosy"
+            }
+        ]
+    }
+}

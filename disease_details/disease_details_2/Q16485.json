@@ -1,0 +1,28 @@
+{
+    "name": "De Quervain's thyroiditis",
+    "qid": "Q16485",
+    "icd_10": "E06.1",
+    "description": "Thyroid disease",
+    "aliases": [
+        "Giant Cell Thyroiditis",
+        "subacute granulomatous thyroiditis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Subacute%20thyroiditis%20-%20intermed%20mag.jpg",
+    "url": "https://en.wikipedia.org/wiki/De_Quervain%27s_thyroiditis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "thyroiditis",
+                "qid": "Q11835644",
+                "url": "https://en.wikipedia.org/wiki/Thyroiditis"
+            }
+        ]
+    }
+}

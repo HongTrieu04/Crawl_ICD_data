@@ -1,0 +1,25 @@
+{
+    "name": "Bartholin's cyst",
+    "qid": "Q809302",
+    "icd_10": "N75.0",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Anatomical location": [
+            {
+                "name": "Bartholin's gland",
+                "qid": "Q790949",
+                "url": "https://en.wikipedia.org/wiki/Bartholin%27s_gland"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "vulvar disease",
+                "qid": "Q18211751",
+                "url": "https://en.wikipedia.org/wiki/Vulvar_disease"
+            }
+        ]
+    }
+}

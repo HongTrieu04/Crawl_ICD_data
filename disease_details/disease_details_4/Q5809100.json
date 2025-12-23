@@ -1,0 +1,30 @@
+{
+    "name": "trichilemmal cyst",
+    "qid": "Q5809100",
+    "icd_10": "L72.1",
+    "description": "human disease",
+    "aliases": [
+        "TRICY1",
+        "pilar cyst",
+        "TRICHILEMMAL CYST 1",
+        "tricholemmal cyst"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Trichilemmal_cyst",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "cyst",
+                "qid": "Q193211",
+                "url": "https://en.wikipedia.org/wiki/Cyst"
+            }
+        ]
+    }
+}

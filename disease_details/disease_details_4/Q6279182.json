@@ -1,0 +1,45 @@
+{
+    "name": "seizure",
+    "qid": "Q6279182",
+    "icd_10": "R56",
+    "description": "disease, disturbance of cortical function due to a sudden, abnormal, exin cells.",
+    "aliases": [
+        "fit",
+        "convulsions",
+        "epileptic fit",
+        "epileptic seizure"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Spike-waves.png",
+    "url": "https://en.wikipedia.org/wiki/Seizure",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            },
+            {
+                "name": "epileptology",
+                "qid": "Q23688644"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "convulsion",
+                "qid": "Q852376",
+                "url": "https://en.wikipedia.org/wiki/Convulsion"
+            },
+            {
+                "name": "seizure",
+                "qid": "Q102187224"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "epilepsy",
+                "qid": "Q41571",
+                "url": "https://en.wikipedia.org/wiki/Epilepsy"
+            }
+        ]
+    }
+}

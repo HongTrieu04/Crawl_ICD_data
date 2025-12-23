@@ -1,0 +1,25 @@
+{
+    "name": "Traumatic aortic rupture",
+    "qid": "Q2189899",
+    "icd_10": "S35.0",
+    "description": "life-threatening injury to the aorta",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Traumatic_aortic_rupture",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "aortic rupture",
+                "qid": "Q16918965",
+                "url": "https://en.wikipedia.org/wiki/Aortic_rupture"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Raynaud syndrome",
+    "qid": "Q5142470",
+    "icd_10": "I73.0",
+    "description": "medical condition in which spasm of arteries cause episodes of reduced blood flow",
+    "aliases": [
+        "Raynaud's disease",
+        "Raynaud's syndrome",
+        "Raynaud's phenomenon",
+        "Raynauds phenomenon"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Raynaud-Syndrom.JPG",
+    "url": "https://en.wikipedia.org/wiki/Raynaud_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "immunology",
+                "qid": "Q101929",
+                "url": "https://en.wikipedia.org/wiki/Immunology"
+            },
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "peripheral artery disease",
+                "qid": "Q378681",
+                "url": "https://en.wikipedia.org/wiki/Peripheral_artery_disease"
+            }
+        ]
+    }
+}

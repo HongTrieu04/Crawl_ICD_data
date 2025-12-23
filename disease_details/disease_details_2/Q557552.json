@@ -1,0 +1,36 @@
+{
+    "name": "ankyloglossia",
+    "qid": "Q557552",
+    "icd_10": "Q38.1",
+    "description": "congenital disorder of tongue mobility",
+    "aliases": [
+        "tongue-tie"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Frenulum%20linguae.jpg",
+    "url": "https://en.wikipedia.org/wiki/Ankyloglossia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "genetic disease",
+                "qid": "Q200779",
+                "url": "https://en.wikipedia.org/wiki/Genetic_disorder"
+            },
+            {
+                "name": "tongue disease",
+                "qid": "Q7107436",
+                "url": "https://en.wikipedia.org/wiki/Tongue_disease"
+            },
+            {
+                "name": "genetic nervous system disorder",
+                "qid": "Q55788492"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

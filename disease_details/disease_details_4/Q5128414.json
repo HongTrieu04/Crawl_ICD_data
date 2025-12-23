@@ -1,0 +1,18 @@
+{
+    "name": "Classification of transsexual people",
+    "qid": "Q5128414",
+    "icd_10": "F64",
+    "description": "terms used in medicine and psychiatry",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Classification_of_transgender_people",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Pruritus scroti",
+    "qid": "Q7253119",
+    "icd_10": "L29.1",
+    "description": "medical condition",
+    "aliases": [
+        "Scrotal pruritus"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pruritus_scroti",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "itch",
+                "qid": "Q199602",
+                "url": "https://en.wikipedia.org/wiki/Itch"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ]
+    }
+}

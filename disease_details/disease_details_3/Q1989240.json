@@ -1,0 +1,82 @@
+{
+    "name": "renal pelvis carcinoma",
+    "qid": "Q1989240",
+    "icd_10": "C65",
+    "description": "Human disease",
+    "aliases": [
+        "cancer of renal pelvis",
+        "carcinoma of kidney Pelvis",
+        "Carcinoma of Renal Pelvis",
+        "Carcinoma of the Kidney Pelvis",
+        "Carcinoma of the Renal Pelvis",
+        "Kidney Pelvis Carcinoma",
+        "Kidney Renal Pelvis Cancer",
+        "malignant neoplasm of renal pelvis",
+        "malignant neoplasm of renal pelvis NOS (disorder)",
+        "malignant renal Pelvis neoplasm",
+        "malignant tumor of renal pelvis",
+        "malignant tumor of renal pelvis (disorder)",
+        "renal pelvis cancer",
+        "Renal Pelvis Carcinoma"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "carcinoma",
+                "qid": "Q33525",
+                "url": "https://en.wikipedia.org/wiki/Carcinoma"
+            },
+            {
+                "name": "kidney cancer",
+                "qid": "Q3242950",
+                "url": "https://en.wikipedia.org/wiki/Kidney_cancer"
+            },
+            {
+                "name": "ureter carcinoma",
+                "qid": "Q2500520"
+            },
+            {
+                "name": "renal pelvis neoplasm",
+                "qid": "Q18557084"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "sunitinib",
+                "qid": "Q417542",
+                "url": "https://en.wikipedia.org/wiki/Sunitinib"
+            },
+            {
+                "name": "cabozantinib",
+                "qid": "Q795057",
+                "url": "https://en.wikipedia.org/wiki/Cabozantinib"
+            },
+            {
+                "name": "axitinib",
+                "qid": "Q4830631",
+                "url": "https://en.wikipedia.org/wiki/Axitinib"
+            },
+            {
+                "name": "pazopanib",
+                "qid": "Q7157043",
+                "url": "https://en.wikipedia.org/wiki/Pazopanib"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "renal pelvis",
+                "qid": "Q955020",
+                "url": "https://en.wikipedia.org/wiki/Renal_pelvis"
+            }
+        ]
+    }
+}

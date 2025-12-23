@@ -1,0 +1,25 @@
+{
+    "name": "disorder of magnesium metabolism",
+    "qid": "Q18966986",
+    "icd_10": "E83.4",
+    "description": "human disease",
+    "aliases": [
+        "disorder of magnesium metabolism (disorder)",
+        "disorder of magnesium metabolism NOS (disorder)",
+        "disorder of magnesium transport",
+        "inborn error of magnesium ion transport",
+        "magnesium disorder",
+        "Magnesium disorder",
+        "rare inborn error of magnesium ion transport"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "mineral metabolism disease",
+                "qid": "Q18553032"
+            }
+        ]
+    }
+}

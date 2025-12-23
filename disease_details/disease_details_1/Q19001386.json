@@ -1,0 +1,25 @@
+{
+    "name": "Foreign body granuloma of muscle",
+    "qid": "Q19001386",
+    "icd_10": "M60.2",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete Foreign body granuloma of muscle"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "muscular disease",
+                "qid": "Q692536",
+                "url": "https://en.wikipedia.org/wiki/Myopathy"
+            },
+            {
+                "name": "foreign body granuloma",
+                "qid": "Q1455131",
+                "url": "https://en.wikipedia.org/wiki/Foreign_body_reaction"
+            }
+        ]
+    }
+}

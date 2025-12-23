@@ -1,0 +1,34 @@
+{
+    "name": "cephalohematoma",
+    "qid": "Q419938",
+    "icd_10": "P12",
+    "description": "type of hemorrhage",
+    "aliases": [
+        "cephalhaematoma",
+        "cephalhematoma",
+        "cephalohaematoma"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Cephalohematoma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "pediatrics",
+                "qid": "Q123028",
+                "url": "https://en.wikipedia.org/wiki/Pediatrics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "hematoma",
+                "qid": "Q468787",
+                "url": "https://en.wikipedia.org/wiki/Hematoma"
+            },
+            {
+                "name": "physical birth injuries",
+                "qid": "Q1235888",
+                "url": "https://en.wikipedia.org/wiki/Birth_trauma_(physical)"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "anemia in pregnancy",
+    "qid": "Q59484501",
+    "icd_10": "O99.0",
+    "description": "disease of anemia during pregnancy in humans",
+    "aliases": [
+        "Anaemia complicating pregnancy, childbirth and the puerperium"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Anemia_in_pregnancy",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "anemia",
+                "qid": "Q5445",
+                "url": "https://en.wikipedia.org/wiki/Anemia"
+            },
+            {
+                "name": "human pregnancy",
+                "qid": "Q11995",
+                "url": "https://en.wikipedia.org/wiki/Pregnancy"
+            },
+            {
+                "name": "complication of pregnancy, childbirth and the puerperium",
+                "qid": "Q18975815"
+            }
+        ]
+    }
+}

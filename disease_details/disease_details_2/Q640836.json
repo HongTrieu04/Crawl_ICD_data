@@ -1,0 +1,28 @@
+{
+    "name": "Lujan–Fryns syndrome",
+    "qid": "Q640836",
+    "icd_10": "F70.1",
+    "description": "rare genetic condition in humans",
+    "aliases": [
+        "LFS",
+        "X-linked intellectual disability with marfanoid habitus"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Lujan%E2%80%93Fryns_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "X-linked intellectual disability",
+                "qid": "Q8041560",
+                "url": "https://en.wikipedia.org/wiki/X-linked_intellectual_disability"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ]
+    }
+}

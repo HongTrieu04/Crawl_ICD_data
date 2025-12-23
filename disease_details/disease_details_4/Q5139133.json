@@ -1,0 +1,39 @@
+{
+    "name": "cocaine intoxication",
+    "qid": "Q5139133",
+    "icd_10": "F14.0",
+    "description": "effects of cocaine on the body",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Cocaine_intoxication",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "narcology",
+                "qid": "Q4313186",
+                "url": "https://en.wikipedia.org/wiki/Narcology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "substance intoxication",
+                "qid": "Q865968",
+                "url": "https://en.wikipedia.org/wiki/Substance_intoxication"
+            },
+            {
+                "name": "cocaine dependence",
+                "qid": "Q3743188",
+                "url": "https://en.wikipedia.org/wiki/Cocaine_dependence"
+            },
+            {
+                "name": "rare intoxication",
+                "qid": "Q55785342"
+            }
+        ]
+    }
+}

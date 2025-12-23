@@ -1,0 +1,53 @@
+{
+    "name": "mediastinal cancer",
+    "qid": "Q5795828",
+    "icd_10": "C38.3",
+    "description": "thoracic cancer that is located in the mediastinum",
+    "aliases": [
+        "mediastinal tumor",
+        "neoplasm of mediastinum",
+        "cancer of mediastinum",
+        "Cancer of the Mediastinum",
+        "Malignant Mediastinal Neoplasm",
+        "Malignant Mediastinal Neoplasm NOS",
+        "Malignant Mediastinal Tumor",
+        "malignant mediastinum neoplasm",
+        "Malignant Neoplasm of Mediastinum",
+        "Malignant Neoplasm of the Mediastinum",
+        "Malignant Tumor of Mediastinum",
+        "Malignant Tumor of the Mediastinum",
+        "Mediastinal Cancer",
+        "mediastinum cancer",
+        "neoplasm of mediastinum (disorder)",
+        "Tumour of mediastinum"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Anatomical location": [
+            {
+                "name": "mediastinum",
+                "qid": "Q337247",
+                "url": "https://en.wikipedia.org/wiki/Mediastinum"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "mediastinal neoplasm",
+                "qid": "Q4271422",
+                "url": "https://en.wikipedia.org/wiki/Mediastinal_tumors"
+            },
+            {
+                "name": "thoracic cancer",
+                "qid": "Q18556617"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ]
+    }
+}

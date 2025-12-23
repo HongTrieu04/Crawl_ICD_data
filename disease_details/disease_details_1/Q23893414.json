@@ -1,0 +1,28 @@
+{
+    "name": "myofibrillar myopathy",
+    "qid": "Q23893414",
+    "icd_10": "G71.8",
+    "description": "myopathy that is characterized by slowly progressive muscle weakness that can involve both proximal muscles and distal muscles",
+    "aliases": [
+        "Myofibrillar Myopathies",
+        "Myofibrillar myopathy"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "muscular disease",
+                "qid": "Q692536",
+                "url": "https://en.wikipedia.org/wiki/Myopathy"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ]
+    }
+}

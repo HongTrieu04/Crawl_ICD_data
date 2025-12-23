@@ -1,0 +1,27 @@
+{
+    "name": "erythema marginatum",
+    "qid": "Q979049",
+    "icd_10": "L53.2",
+    "description": "medical condition",
+    "aliases": [
+        "erythema annulare rheumaticum"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Erythema_marginatum",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "erythema",
+                "qid": "Q1166142",
+                "url": "https://en.wikipedia.org/wiki/Erythema"
+            }
+        ]
+    }
+}

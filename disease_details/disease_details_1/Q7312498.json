@@ -1,0 +1,49 @@
+{
+    "name": "kidney papillary necrosis",
+    "qid": "Q7312498",
+    "icd_10": "N17.2",
+    "description": "Human disease",
+    "aliases": [
+        "Necrotising renal papillitis",
+        "Necrotizing renal papillitis",
+        "Papillary necrosis",
+        "Papillary necrosis (disorder)",
+        "Renal papillary necrosis",
+        "renal PAPILLITIS NECROTIZING"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Renal_papillary_necrosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "kidney disease",
+                "qid": "Q1054718",
+                "url": "https://en.wikipedia.org/wiki/Kidney_disease"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "renal papilla",
+                "qid": "Q3823716",
+                "url": "https://en.wikipedia.org/wiki/Renal_papilla"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            },
+            {
+                "name": "nephrology",
+                "qid": "Q177635",
+                "url": "https://en.wikipedia.org/wiki/Nephrology"
+            }
+        ]
+    }
+}

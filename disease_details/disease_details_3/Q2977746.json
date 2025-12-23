@@ -1,0 +1,39 @@
+{
+    "name": "Toxic multinodular goitre",
+    "qid": "Q2977746",
+    "icd_10": "E05.2",
+    "description": "Human diseasexdr dildar",
+    "aliases": [
+        "obsolete secondary thyroid hyperplasia",
+        "Plummer's disease",
+        "secondary thyroid hyperplasia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Toxic_multinodular_goitre",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "goiter",
+                "qid": "Q165135",
+                "url": "https://en.wikipedia.org/wiki/Goitre"
+            },
+            {
+                "name": "Plummer's disease",
+                "qid": "Q7830387",
+                "url": "https://en.wikipedia.org/wiki/Toxic_nodular_goiter"
+            },
+            {
+                "name": "multinodular goiter",
+                "qid": "Q16887028",
+                "url": "https://en.wikipedia.org/wiki/Multinodular_goitre"
+            }
+        ]
+    }
+}

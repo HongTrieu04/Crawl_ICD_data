@@ -1,0 +1,25 @@
+{
+    "name": "Acquired hemolytic anemia",
+    "qid": "Q4674774",
+    "icd_10": "D59",
+    "description": "human disease",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Acquired_hemolytic_anemia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "hemolytic anemia",
+                "qid": "Q1145668",
+                "url": "https://en.wikipedia.org/wiki/Hemolytic_anemia"
+            }
+        ]
+    }
+}

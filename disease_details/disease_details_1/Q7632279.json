@@ -1,0 +1,24 @@
+{
+    "name": "subtypes of HIV",
+    "qid": "Q7632279",
+    "icd_10": "B20",
+    "description": "variants of the human immunodeficiency virus",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/HIV-SIV-phylogenetic-tree.svg",
+    "url": "https://en.wikipedia.org/wiki/Subtypes_of_HIV",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "type",
+                "qid": "Q21146257"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "obstetrical pelvic hematoma",
+    "qid": "Q18976002",
+    "icd_10": "O71.7",
+    "description": "Human disease",
+    "aliases": [
+        "postpartum pelvic hematoma"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "hematoma",
+                "qid": "Q468787",
+                "url": "https://en.wikipedia.org/wiki/Hematoma"
+            },
+            {
+                "name": "obstetrical hemorrhage",
+                "qid": "Q2496447",
+                "url": "https://en.wikipedia.org/wiki/Obstetrical_bleeding"
+            }
+        ]
+    }
+}

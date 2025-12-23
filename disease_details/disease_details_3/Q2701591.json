@@ -1,0 +1,33 @@
+{
+    "name": "accessory breast",
+    "qid": "Q2701591",
+    "icd_10": "Q83.1",
+    "description": "human disease",
+    "aliases": [
+        "polymastia",
+        "accessory breasts",
+        "mammae erraticae",
+        "supernumerary breasts"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Polymastia%20of%20the%20Japanese%20Wellcome%20L0027954.jpg",
+    "url": "https://en.wikipedia.org/wiki/Accessory_breast",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "excess breast volume or number",
+                "qid": "Q55785774"
+            },
+            {
+                "name": "region of pectoral part of chest",
+                "qid": "Q66557754"
+            }
+        ]
+    }
+}

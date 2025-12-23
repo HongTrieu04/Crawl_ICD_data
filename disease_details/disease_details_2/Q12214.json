@@ -1,0 +1,124 @@
+{
+    "name": "smallpox",
+    "qid": "Q12214",
+    "icd_10": "B03",
+    "description": "eradicated human disease",
+    "aliases": [
+        "pox",
+        "Red Plague",
+        "speckled monster"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Child%20with%20Smallpox%20Bangladesh.jpg",
+    "url": "https://en.wikipedia.org/wiki/Smallpox",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "fatigue",
+                "qid": "Q9690",
+                "url": "https://en.wikipedia.org/wiki/Fatigue"
+            },
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            },
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "rash",
+                "qid": "Q653197",
+                "url": "https://en.wikipedia.org/wiki/Rash"
+            },
+            {
+                "name": "pimple",
+                "qid": "Q1172159",
+                "url": "https://en.wikipedia.org/wiki/Pimple"
+            },
+            {
+                "name": "vomiting",
+                "qid": "Q127076",
+                "url": "https://en.wikipedia.org/wiki/Vomiting"
+            },
+            {
+                "name": "abdominal pain",
+                "qid": "Q183425",
+                "url": "https://en.wikipedia.org/wiki/Abdominal_pain"
+            },
+            {
+                "name": "scar",
+                "qid": "Q206060",
+                "url": "https://en.wikipedia.org/wiki/Scar"
+            },
+            {
+                "name": "blister",
+                "qid": "Q276469",
+                "url": "https://en.wikipedia.org/wiki/Blister"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "skin disease",
+                "qid": "Q949302",
+                "url": "https://en.wikipedia.org/wiki/Skin_condition"
+            },
+            {
+                "name": "viral infectious disease",
+                "qid": "Q1928978",
+                "url": "https://en.wikipedia.org/wiki/Viral_disease"
+            },
+            {
+                "name": "manner of death",
+                "qid": "Q2438541",
+                "url": "https://en.wikipedia.org/wiki/Manner_of_death"
+            },
+            {
+                "name": "Poxviridae infectious disease",
+                "qid": "Q12353899"
+            },
+            {
+                "name": "eradicated disease",
+                "qid": "Q89415750"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "metisazone",
+                "qid": "Q4562049",
+                "url": "https://en.wikipedia.org/wiki/Metisazone"
+            },
+            {
+                "name": "tecovirimat",
+                "qid": "Q7692792",
+                "url": "https://en.wikipedia.org/wiki/Tecovirimat"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Variola virus (vaccinia)",
+                "qid": "Q11877169",
+                "url": "https://en.wikipedia.org/wiki/Variola_virus"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "zone of skin",
+                "qid": "Q30029801"
+            }
+        ]
+    }
+}

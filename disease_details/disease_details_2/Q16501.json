@@ -1,0 +1,51 @@
+{
+    "name": "hypothyroidism",
+    "qid": "Q16501",
+    "icd_10": "E03.9",
+    "description": "human disease",
+    "aliases": [
+        "hypothyreosis",
+        "low thyroid",
+        "thyroid insufficiency",
+        "underactive thyroid"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hypothyroidism.svg",
+    "url": "https://en.wikipedia.org/wiki/Hypothyroidism",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "thyroid gland disease",
+                "qid": "Q6673122",
+                "url": "https://en.wikipedia.org/wiki/Thyroid_disease"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "triiodothyronine",
+                "qid": "Q327362",
+                "url": "https://en.wikipedia.org/wiki/Triiodothyronine"
+            },
+            {
+                "name": "L-thyroxine",
+                "qid": "Q773449",
+                "url": "https://en.wikipedia.org/wiki/Levothyroxine"
+            },
+            {
+                "name": "thyroglobulin",
+                "qid": "Q20817224"
+            }
+        ]
+    }
+}

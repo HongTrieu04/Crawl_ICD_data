@@ -1,0 +1,113 @@
+{
+    "name": "adenovirus infection",
+    "qid": "Q837054",
+    "icd_10": "B97.0",
+    "description": "human disease",
+    "aliases": [
+        "Adenoviridae infectious disease",
+        "Adenoviroze",
+        "Adenovirus Infections, Human",
+        "adenovirus infectious disease"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Adenovirus%20infection%20Case%20161%20%285443939520%29.jpg",
+    "url": "https://en.wikipedia.org/wiki/Adenovirus_infection",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "diarrhea",
+                "qid": "Q40878",
+                "url": "https://en.wikipedia.org/wiki/Diarrhea"
+            },
+            {
+                "name": "conjunctivitis",
+                "qid": "Q167844",
+                "url": "https://en.wikipedia.org/wiki/Conjunctivitis"
+            },
+            {
+                "name": "rhinitis",
+                "qid": "Q114085",
+                "url": "https://en.wikipedia.org/wiki/Rhinitis"
+            },
+            {
+                "name": "lymphadenopathy",
+                "qid": "Q847726",
+                "url": "https://en.wikipedia.org/wiki/Lymphadenopathy"
+            },
+            {
+                "name": "nausea",
+                "qid": "Q186889",
+                "url": "https://en.wikipedia.org/wiki/Nausea"
+            },
+            {
+                "name": "nasal congestion",
+                "qid": "Q3245488",
+                "url": "https://en.wikipedia.org/wiki/Nasal_congestion"
+            },
+            {
+                "name": "runny nose",
+                "qid": "Q1115038",
+                "url": "https://en.wikipedia.org/wiki/Rhinorrhea"
+            },
+            {
+                "name": "xerostomia",
+                "qid": "Q1162276",
+                "url": "https://en.wikipedia.org/wiki/Xerostomia"
+            },
+            {
+                "name": "sore throat",
+                "qid": "Q1292082",
+                "url": "https://en.wikipedia.org/wiki/Sore_throat"
+            },
+            {
+                "name": "low-grade fever",
+                "qid": "Q480971"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "pediatrics",
+                "qid": "Q123028",
+                "url": "https://en.wikipedia.org/wiki/Pediatrics"
+            },
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "symptomatic treatment",
+                "qid": "Q621558",
+                "url": "https://en.wikipedia.org/wiki/Symptomatic_treatment"
+            },
+            {
+                "name": "antibody",
+                "qid": "Q79460",
+                "url": "https://en.wikipedia.org/wiki/Antibody"
+            },
+            {
+                "name": "deoxyribonuclease",
+                "qid": "Q420690",
+                "url": "https://en.wikipedia.org/wiki/Deoxyribonuclease"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Adenoviridae",
+                "qid": "Q193447",
+                "url": "https://en.wikipedia.org/wiki/Adenoviridae"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "dsDNA virus infectious disease",
+                "qid": "Q55009676"
+            },
+            {
+                "name": "Adenoviridae infections",
+                "qid": "Q68431762"
+            }
+        ]
+    }
+}

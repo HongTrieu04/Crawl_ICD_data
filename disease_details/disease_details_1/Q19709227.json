@@ -1,0 +1,26 @@
+{
+    "name": "liver disease of pregnancy",
+    "qid": "Q19709227",
+    "icd_10": "O26.6",
+    "description": null,
+    "aliases": [
+        "intrahepatic cholestasis of pregnancy",
+        "Liver disorder in pregnancy"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "liver disease",
+                "qid": "Q929737",
+                "url": "https://en.wikipedia.org/wiki/Liver_disease"
+            },
+            {
+                "name": "complications of pregnancy",
+                "qid": "Q2916477",
+                "url": "https://en.wikipedia.org/wiki/Complications_of_pregnancy"
+            }
+        ]
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "name": "syndrome of Inappropriate antidiuretic hormone secretion",
+    "qid": "Q959457",
+    "icd_10": "E22.2",
+    "description": "endocrine disease",
+    "aliases": [
+        "SIAD",
+        "SIADH",
+        "ectopic ADH secretion",
+        "inappropriate ADH secretion",
+        "inappropriate ADH syndrome",
+        "inappropriate antidiuretic hormone secretion",
+        "inappropriate antidiuretic hormone secretion syndrome",
+        "inappropriate arginine vasopressin secretion",
+        "Schwartz-Bartter syndrome",
+        "syndrome of inappropriate ADH",
+        "syndrome of inappropriate antidiuresis",
+        "syndrome of inappropriate antidiuretic hormone",
+        "syndrome of inappropriate secretion of antidiuretic hormone",
+        "syndrome of inappropriate vasopressin secretion"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Syndrome_of_inappropriate_antidiuretic_hormone_secretion",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "endocrine system disease",
+                "qid": "Q2661443",
+                "url": "https://en.wikipedia.org/wiki/Endocrine_disease"
+            },
+            {
+                "name": "pituitary gland disease",
+                "qid": "Q7199538",
+                "url": "https://en.wikipedia.org/wiki/Pituitary_disease"
+            },
+            {
+                "name": "Inadequate secretion of antidiuretic hormone",
+                "qid": "Q6123126"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "tolvaptan",
+                "qid": "Q426132",
+                "url": "https://en.wikipedia.org/wiki/Tolvaptan"
+            },
+            {
+                "name": "demeclocycline",
+                "qid": "Q2736402",
+                "url": "https://en.wikipedia.org/wiki/Demeclocycline"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "hyponatremia",
+                "qid": "Q824292",
+                "url": "https://en.wikipedia.org/wiki/Hyponatremia"
+            }
+        ]
+    }
+}

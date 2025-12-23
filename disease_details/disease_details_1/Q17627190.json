@@ -1,0 +1,36 @@
+{
+    "name": "hemimelia",
+    "qid": "Q17627190",
+    "icd_10": "Q73.8",
+    "description": "congenital deficiency of one or more limbs",
+    "aliases": [
+        "Longitudinal meromelia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hemimelia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "ectromelia",
+                "qid": "Q1323724",
+                "url": "https://en.wikipedia.org/wiki/Ectromelia"
+            },
+            {
+                "name": "congenital abnormality",
+                "qid": "Q2852249",
+                "url": "https://en.wikipedia.org/wiki/Congenital_abnormality"
+            },
+            {
+                "name": "non-syndromic limb reduction defect",
+                "qid": "Q55788825"
+            }
+        ]
+    }
+}

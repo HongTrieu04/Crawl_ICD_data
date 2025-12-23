@@ -1,0 +1,43 @@
+{
+    "name": "conductive hearing loss",
+    "qid": "Q1581308",
+    "icd_10": "H90.2",
+    "description": "medical condition",
+    "aliases": [
+        "conductive deafness"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Audiograma%20representando%20perda%20auditiva%20condutiva.png",
+    "url": "https://en.wikipedia.org/wiki/Conductive_hearing_loss",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "deafness",
+                "qid": "Q12133",
+                "url": "https://en.wikipedia.org/wiki/Deafness"
+            },
+            {
+                "name": "hearing loss",
+                "qid": "Q16035842",
+                "url": "https://en.wikipedia.org/wiki/Hearing_loss"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "otolaryngology",
+                "qid": "Q189553",
+                "url": "https://en.wikipedia.org/wiki/Otorhinolaryngology"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "otitis",
+                "qid": "Q480700",
+                "url": "https://en.wikipedia.org/wiki/Otitis"
+            },
+            {
+                "name": "middle ear anomaly",
+                "qid": "Q55785588"
+            }
+        ]
+    }
+}

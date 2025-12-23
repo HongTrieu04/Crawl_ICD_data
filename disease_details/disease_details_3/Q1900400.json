@@ -1,0 +1,154 @@
+{
+    "name": "acute bronchitis",
+    "qid": "Q1900400",
+    "icd_10": "J20",
+    "description": "short-term inflammation of the bronchi (large and medium-sized airways) of the lungs",
+    "aliases": [
+        "acute bronchitis and bronchiolitis",
+        "chest cold"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Acute-bronchitis.jpg",
+    "url": "https://en.wikipedia.org/wiki/Acute_bronchitis",
+    "details": {
+        "Drug used for treatment": [
+            {
+                "name": "N-acetyl-L-cysteine",
+                "qid": "Q375613",
+                "url": "https://en.wikipedia.org/wiki/Acetylcysteine"
+            },
+            {
+                "name": "theophylline",
+                "qid": "Q407308",
+                "url": "https://en.wikipedia.org/wiki/Theophylline"
+            },
+            {
+                "name": "DL-ofloxacin",
+                "qid": "Q411447",
+                "url": "https://en.wikipedia.org/wiki/Ofloxacin"
+            },
+            {
+                "name": "clarithromycin",
+                "qid": "Q118551",
+                "url": "https://en.wikipedia.org/wiki/Clarithromycin"
+            },
+            {
+                "name": "cefixime",
+                "qid": "Q163901",
+                "url": "https://en.wikipedia.org/wiki/Cefixime"
+            },
+            {
+                "name": "lomefloxacin",
+                "qid": "Q203618",
+                "url": "https://en.wikipedia.org/wiki/Lomefloxacin"
+            },
+            {
+                "name": "cefaclor",
+                "qid": "Q415167",
+                "url": "https://en.wikipedia.org/wiki/Cefaclor"
+            },
+            {
+                "name": "sulfamethoxazole",
+                "qid": "Q415843",
+                "url": "https://en.wikipedia.org/wiki/Sulfamethoxazole"
+            },
+            {
+                "name": "ceftibuten",
+                "qid": "Q419521",
+                "url": "https://en.wikipedia.org/wiki/Ceftibuten"
+            },
+            {
+                "name": "guaifenesin",
+                "qid": "Q420682",
+                "url": "https://en.wikipedia.org/wiki/Guaifenesin"
+            },
+            {
+                "name": "tetracycline",
+                "qid": "Q193045",
+                "url": "https://en.wikipedia.org/wiki/Tetracycline"
+            },
+            {
+                "name": "dirithromycin",
+                "qid": "Q1989071",
+                "url": "https://en.wikipedia.org/wiki/Dirithromycin"
+            },
+            {
+                "name": "dornase alfa",
+                "qid": "Q2067922",
+                "url": "https://en.wikipedia.org/wiki/Dornase_alfa"
+            },
+            {
+                "name": "gatifloxacin",
+                "qid": "Q2365016",
+                "url": "https://en.wikipedia.org/wiki/Gatifloxacin"
+            },
+            {
+                "name": "(E)-cefprozil",
+                "qid": "Q3231623",
+                "url": "https://en.wikipedia.org/wiki/Cefprozil"
+            },
+            {
+                "name": "cefditoren",
+                "qid": "Q3664175",
+                "url": "https://en.wikipedia.org/wiki/Cefditoren"
+            },
+            {
+                "name": "oxtriphylline",
+                "qid": "Q5104342",
+                "url": "https://en.wikipedia.org/wiki/Choline_theophyllinate"
+            },
+            {
+                "name": "trimethoprim",
+                "qid": "Q422665",
+                "url": "https://en.wikipedia.org/wiki/Trimethoprim"
+            },
+            {
+                "name": "levofloxacin",
+                "qid": "Q424193",
+                "url": "https://en.wikipedia.org/wiki/Levofloxacin"
+            },
+            {
+                "name": "moxifloxacin",
+                "qid": "Q424940",
+                "url": "https://en.wikipedia.org/wiki/Moxifloxacin"
+            },
+            {
+                "name": "aminophylline",
+                "qid": "Q471763",
+                "url": "https://en.wikipedia.org/wiki/Aminophylline"
+            },
+            {
+                "name": "trovafloxacin",
+                "qid": "Q544393",
+                "url": "https://en.wikipedia.org/wiki/Trovafloxacin"
+            },
+            {
+                "name": "cefdinir",
+                "qid": "Q1453445",
+                "url": "https://en.wikipedia.org/wiki/Cefdinir"
+            },
+            {
+                "name": "gemifloxacin",
+                "qid": "Q1639595",
+                "url": "https://en.wikipedia.org/wiki/Gemifloxacin"
+            },
+            {
+                "name": "cefpodoxime proxetil",
+                "qid": "Q1052672"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "bronchitis",
+                "qid": "Q173022",
+                "url": "https://en.wikipedia.org/wiki/Bronchitis"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ]
+    }
+}

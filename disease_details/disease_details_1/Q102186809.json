@@ -1,0 +1,20 @@
+{
+    "name": "abnormal weight gain",
+    "qid": "Q102186809",
+    "icd_10": "R63.5",
+    "description": "symptom",
+    "aliases": [
+        "Excessive weight gain"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "weight gain",
+                "qid": "Q3403879",
+                "url": "https://en.wikipedia.org/wiki/Weight_gain"
+            }
+        ]
+    }
+}

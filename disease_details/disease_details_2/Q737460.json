@@ -1,0 +1,45 @@
+{
+    "name": "visual impairment",
+    "qid": "Q737460",
+    "icd_10": "H54",
+    "description": "decreased ability to see",
+    "aliases": [
+        "impaired vision",
+        "vision impairment",
+        "visual disabilities",
+        "visual disability",
+        "visual impairments"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hyperopia.gif",
+    "url": "https://en.wikipedia.org/wiki/Visual_impairment",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "sensory loss",
+                "qid": "Q2289481",
+                "url": "https://en.wikipedia.org/wiki/Sensory_loss"
+            },
+            {
+                "name": "eye disease",
+                "qid": "Q3041498",
+                "url": "https://en.wikipedia.org/wiki/Eye_disease"
+            },
+            {
+                "name": "vision disorder",
+                "qid": "Q767669",
+                "url": "https://en.wikipedia.org/wiki/Vision_disorder"
+            },
+            {
+                "name": "sensory disability",
+                "qid": "Q115269691"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            }
+        ]
+    }
+}

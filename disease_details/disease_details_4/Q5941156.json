@@ -1,0 +1,25 @@
+{
+    "name": "Humoral immune deficiency",
+    "qid": "Q5941156",
+    "icd_10": "D80",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Humoral_immune_deficiency",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "immune disorder",
+                "qid": "Q3843811",
+                "url": "https://en.wikipedia.org/wiki/Immune_disorder"
+            }
+        ]
+    }
+}

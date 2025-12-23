@@ -1,0 +1,34 @@
+{
+    "name": "vaccine adverse event",
+    "qid": "Q445335",
+    "icd_10": "Y58",
+    "description": "adverse event caused by vaccination",
+    "aliases": [
+        "AEFI",
+        "adverse events following vaccination",
+        "adverse vaccine reactions",
+        "vaccination complications",
+        "vaccination side effect",
+        "vaccine injury",
+        "vaccine side effect",
+        "vaccination complication"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Vaccine_adverse_event",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "adverse drug reaction",
+                "qid": "Q45959",
+                "url": "https://en.wikipedia.org/wiki/Adverse_drug_reaction"
+            }
+        ]
+    }
+}

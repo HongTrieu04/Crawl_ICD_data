@@ -1,0 +1,56 @@
+{
+    "name": "toe fracture",
+    "qid": "Q72296483",
+    "icd_10": "S92.5",
+    "description": "medical condition",
+    "aliases": [
+        "broken toe",
+        "Phalangeal fractures of the foot"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Broken_toe",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "pain",
+                "qid": "Q81938",
+                "url": "https://en.wikipedia.org/wiki/Pain"
+            },
+            {
+                "name": "bruise",
+                "qid": "Q574491",
+                "url": "https://en.wikipedia.org/wiki/Bruise"
+            },
+            {
+                "name": "erythema",
+                "qid": "Q1166142",
+                "url": "https://en.wikipedia.org/wiki/Erythema"
+            },
+            {
+                "name": "swelling",
+                "qid": "Q109186",
+                "url": "https://en.wikipedia.org/wiki/Swelling_(medical)"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "toe",
+                "qid": "Q154425",
+                "url": "https://en.wikipedia.org/wiki/Toe"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "foot fracture",
+                "qid": "Q30904172"
+            }
+        ]
+    }
+}

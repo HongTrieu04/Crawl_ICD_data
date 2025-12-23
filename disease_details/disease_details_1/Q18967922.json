@@ -1,0 +1,29 @@
+{
+    "name": "Cytomegalovirus pneumonia",
+    "qid": "Q18967922",
+    "icd_10": "B25.0",
+    "description": "Human disease",
+    "aliases": [
+        "CMV Pneumonia",
+        "Cytomegaloviral Pneumonia",
+        "Cytomegaloviral pneumonia (disorder)",
+        "cytomegalovirus pneumonia",
+        "Cytomegalovirus Pneumonia",
+        "obsolete Cytomegalovirus pneumonia"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "viral pneumonia",
+                "qid": "Q2603200",
+                "url": "https://en.wikipedia.org/wiki/Viral_pneumonia"
+            },
+            {
+                "name": "cytomegaloviral disease",
+                "qid": "Q2076966"
+            }
+        ]
+    }
+}

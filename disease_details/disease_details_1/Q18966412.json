@@ -1,0 +1,32 @@
+{
+    "name": "streptococcal pneumonia",
+    "qid": "Q18966412",
+    "icd_10": "J15.4",
+    "description": "human disease",
+    "aliases": [
+        "obsolete streptococcal pneumonia"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "pneumonia",
+                "qid": "Q12192",
+                "url": "https://en.wikipedia.org/wiki/Pneumonia"
+            },
+            {
+                "name": "streptococcal infection",
+                "qid": "Q5849703",
+                "url": "https://en.wikipedia.org/wiki/Streptococcosis"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "name": "acanthocheilonemiasis",
+    "qid": "Q4059313",
+    "icd_10": "B74.4",
+    "description": "human disease",
+    "aliases": [
+        "Mansonella perstans infectious disease",
+        "obsolete Mansonella perstans infectious disease"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Acanthocheilonemiasis",
+    "details": {
+        "Cause": [
+            {
+                "name": "infection",
+                "qid": "Q166231",
+                "url": "https://en.wikipedia.org/wiki/Infection"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "mansonelliasis",
+                "qid": "Q4280605",
+                "url": "https://en.wikipedia.org/wiki/Mansonelliasis"
+            }
+        ]
+    }
+}

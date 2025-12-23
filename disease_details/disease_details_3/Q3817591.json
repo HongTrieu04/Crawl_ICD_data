@@ -1,0 +1,23 @@
+{
+    "name": "unplanned pregnancy",
+    "qid": "Q3817591",
+    "icd_10": "Z64.0",
+    "description": "pregnancy that was not planned",
+    "aliases": [
+        "oops baby",
+        "Pregnancy, Unplanned",
+        "unintended pregnancy",
+        "unwanted pregancancy"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Unintended_pregnancy",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "human pregnancy",
+                "qid": "Q11995",
+                "url": "https://en.wikipedia.org/wiki/Pregnancy"
+            }
+        ]
+    }
+}

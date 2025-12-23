@@ -1,0 +1,17 @@
+{
+    "name": "X chromosome number anomaly with male phenotype",
+    "qid": "Q55786715",
+    "icd_10": "Q98.4",
+    "description": "human disease",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "X chromosome number anomaly",
+                "qid": "Q55786713"
+            }
+        ]
+    }
+}

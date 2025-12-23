@@ -1,0 +1,29 @@
+{
+    "name": "atypical facial pain",
+    "qid": "Q4818886",
+    "icd_10": "G50.1",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Atypical_facial_pain",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dentistry",
+                "qid": "Q12128",
+                "url": "https://en.wikipedia.org/wiki/Dentistry"
+            },
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "facial pain",
+                "qid": "Q78216759"
+            }
+        ]
+    }
+}

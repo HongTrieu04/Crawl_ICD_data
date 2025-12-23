@@ -1,0 +1,23 @@
+{
+    "name": "precipitate delivery",
+    "qid": "Q334031",
+    "icd_10": "O62.3",
+    "description": "human disease",
+    "aliases": [
+        "obsolete precipitate labor",
+        "precipitate labor",
+        "Precipitate labor, antepartum",
+        "Precipitate labor, with delivery"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Precipitate_delivery",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "obstetric labor complication",
+                "qid": "Q7075540",
+                "url": "https://en.wikipedia.org/wiki/Obstetric_labor_complication"
+            }
+        ]
+    }
+}

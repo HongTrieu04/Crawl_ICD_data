@@ -1,0 +1,17 @@
+{
+    "name": "discoid meniscus",
+    "qid": "Q1780132",
+    "icd_10": "M23.1",
+    "description": "human anatomic variant affecting the lateral meniscus of the knee",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Discoid_meniscus",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "knee disorder",
+                "qid": "Q18971535"
+            }
+        ]
+    }
+}

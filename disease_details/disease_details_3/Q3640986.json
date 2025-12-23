@@ -1,0 +1,36 @@
+{
+    "name": "first-degree atrioventricular block",
+    "qid": "Q3640986",
+    "icd_10": "I44.0",
+    "description": "disease of the electrical conduction system of the heart in which the PR interval is lengthened beyond 0.20 seconds",
+    "aliases": [
+        "Atrioventricular block first degree",
+        "Atrioventricular Block, First Degree",
+        "AV block first degree",
+        "First Degree Atrioventricular Block",
+        "first degree AV block"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/First-degree_atrioventricular_block",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "atrioventricular block",
+                "qid": "Q300121",
+                "url": "https://en.wikipedia.org/wiki/Atrioventricular_block"
+            }
+        ]
+    }
+}

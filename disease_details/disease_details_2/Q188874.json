@@ -1,0 +1,55 @@
+{
+    "name": "colorectal cancer",
+    "qid": "Q188874",
+    "icd_10": "C21",
+    "description": "cancer of the colon or rectum",
+    "aliases": [
+        "rectal cancer",
+        "large intestine cancer",
+        "colon cancer",
+        "bowel cancer",
+        "colon and rectal cancer",
+        "Colorectal cancer, familial",
+        "rectocolonic cancer"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stomach%20colon%20rectum%20diagram-cy.svg",
+    "url": "https://en.wikipedia.org/wiki/Colorectal_cancer",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "large intestine cancer",
+                "qid": "Q12048781"
+            },
+            {
+                "name": "colorectal neoplasm",
+                "qid": "Q58833976"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "irinotecan",
+                "qid": "Q412197",
+                "url": "https://en.wikipedia.org/wiki/Irinotecan"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "colon",
+                "qid": "Q5982337",
+                "url": "https://en.wikipedia.org/wiki/Colon_(anatomy)"
+            }
+        ]
+    }
+}

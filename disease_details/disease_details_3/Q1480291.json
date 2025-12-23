@@ -1,0 +1,30 @@
+{
+    "name": "contracture",
+    "qid": "Q1480291",
+    "icd_10": "M62.4",
+    "description": "prolonged shortening of the muscle or other soft tissue around a joint, preventing movement of the joint",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Contracture",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "musculoskeletal disorder",
+                "qid": "Q4116663",
+                "url": "https://en.wikipedia.org/wiki/Musculoskeletal_disorder"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            },
+            {
+                "name": "traumatology",
+                "qid": "Q376680",
+                "url": "https://en.wikipedia.org/wiki/Traumatology"
+            }
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Klatskin's tumor",
+    "qid": "Q475260",
+    "icd_10": "C24.8",
+    "description": "Human disease",
+    "aliases": [
+        "hilar cholangiocarcinoma",
+        "hilar cholangiocellular carcinoma",
+        "Klatskin tumor",
+        "Klatskin's tumor (disorder)",
+        "Klatskin's tumor (morphologic abnormality)",
+        "obsolete hilar cholangiocellular carcinoma",
+        "Perihilar extrahepatic bile duct carcinoma"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Klatskin_tumor",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "intrahepatic cholangiocarcinoma",
+                "qid": "Q18556554"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ]
+    }
+}

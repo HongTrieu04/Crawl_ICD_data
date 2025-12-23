@@ -1,0 +1,24 @@
+{
+    "name": "Rubella virus hepatitis",
+    "qid": "Q18928386",
+    "icd_10": "B06.89",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete Rubella virus hepatitis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "viral hepatitis",
+                "qid": "Q1983841",
+                "url": "https://en.wikipedia.org/wiki/Viral_hepatitis"
+            },
+            {
+                "name": "rubella virus infectious disease",
+                "qid": "Q19000421"
+            }
+        ]
+    }
+}

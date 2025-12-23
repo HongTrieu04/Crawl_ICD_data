@@ -1,0 +1,29 @@
+{
+    "name": "toxicodendron dermatitis",
+    "qid": "Q7901561",
+    "icd_10": "L23.7",
+    "description": "Human disease",
+    "aliases": [
+        "Contact dermatitis due to Genus Toxicodendron",
+        "Rhus dermatitis",
+        "urushiol-induced contact dermatitis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Urushiol-induced_contact_dermatitis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "allergic contact dermatitis",
+                "qid": "Q12077704",
+                "url": "https://en.wikipedia.org/wiki/Allergic_contact_dermatitis"
+            }
+        ]
+    }
+}

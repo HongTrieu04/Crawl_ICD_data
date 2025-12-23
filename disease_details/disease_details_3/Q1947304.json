@@ -1,0 +1,25 @@
+{
+    "name": "Cushing's disease",
+    "qid": "Q1947304",
+    "icd_10": "E24.0",
+    "description": "disease related to the anterior pituitary",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Cushing%27s_disease",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "Cushing's syndrome",
+                "qid": "Q219102",
+                "url": "https://en.wikipedia.org/wiki/Cushing%27s_syndrome"
+            }
+        ]
+    }
+}

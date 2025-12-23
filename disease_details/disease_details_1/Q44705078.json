@@ -1,0 +1,28 @@
+{
+    "name": "calcium deficiency",
+    "qid": "Q44705078",
+    "icd_10": "E58",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "hypocalcaemia",
+                "qid": "Q936382",
+                "url": "https://en.wikipedia.org/wiki/Hypocalcemia"
+            },
+            {
+                "name": "calcium metabolism disease",
+                "qid": "Q5282519",
+                "url": "https://en.wikipedia.org/wiki/Disorders_of_calcium_metabolism"
+            },
+            {
+                "name": "mineral deficiency",
+                "qid": "Q16944888",
+                "url": "https://en.wikipedia.org/wiki/Mineral_deficiency"
+            }
+        ]
+    }
+}

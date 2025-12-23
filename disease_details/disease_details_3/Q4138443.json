@@ -1,0 +1,25 @@
+{
+    "name": "Ant sting",
+    "qid": "Q4138443",
+    "icd_10": "X25",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Ant_venom",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "insect-inflicted wound",
+                "qid": "Q368779",
+                "url": "https://en.wikipedia.org/wiki/Insect_bites_and_stings"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ]
+    }
+}

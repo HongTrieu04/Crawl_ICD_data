@@ -1,0 +1,29 @@
+{
+    "name": "manganese deficiency",
+    "qid": "Q6748784",
+    "icd_10": "E61.3",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Manganese_deficiency_(medicine)",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "mineral deficiency",
+                "qid": "Q16944888",
+                "url": "https://en.wikipedia.org/wiki/Mineral_deficiency"
+            },
+            {
+                "name": "manganese metabolism disease",
+                "qid": "Q55787341"
+            }
+        ]
+    }
+}

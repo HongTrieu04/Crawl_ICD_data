@@ -1,0 +1,41 @@
+{
+    "name": "diabetic neuropathy",
+    "qid": "Q2046550",
+    "icd_10": "E10.4",
+    "description": "neurological complication of persistently high blood sugar",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Diapason.jpg",
+    "url": "https://en.wikipedia.org/wiki/Diabetic_neuropathy",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "peripheral neuropathy",
+                "qid": "Q945238",
+                "url": "https://en.wikipedia.org/wiki/Peripheral_neuropathy"
+            },
+            {
+                "name": "complications of diabetes mellitus",
+                "qid": "Q4198677",
+                "url": "https://en.wikipedia.org/wiki/Complications_of_diabetes"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "chronic neuropathic pain",
+                "qid": "Q58490835"
+            }
+        ]
+    }
+}

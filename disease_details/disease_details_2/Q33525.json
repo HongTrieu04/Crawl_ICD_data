@@ -1,0 +1,142 @@
+{
+    "name": "carcinoma",
+    "qid": "Q33525",
+    "icd_10": "C80",
+    "description": "cell type cancer that has material basis in abnormally proliferating cells derives from epithelial cells",
+    "aliases": [
+        "epithelial carcinoma",
+        "epithelial skin tumor",
+        "epithelial tumor (qualifier value)",
+        "epithelioma",
+        "malignant epithelioma",
+        "obsolete epithelial carcinoma",
+        "skin Epithelium tumor",
+        "tumor of surface epithelium (disorder)"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thyroid%20cancer.jpg",
+    "url": "https://en.wikipedia.org/wiki/Carcinoma",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "cancer",
+                "qid": "Q12078",
+                "url": "https://en.wikipedia.org/wiki/Cancer"
+            },
+            {
+                "name": "epithelioma",
+                "qid": "Q3542027",
+                "url": "https://en.wikipedia.org/wiki/Epithelioma"
+            },
+            {
+                "name": "cell type cancer",
+                "qid": "Q18553402"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "adaptive radiation therapy",
+                "qid": "Q180507",
+                "url": "https://en.wikipedia.org/wiki/Radiation_therapy"
+            },
+            {
+                "name": "antineoplastic",
+                "qid": "Q2853144",
+                "url": "https://en.wikipedia.org/wiki/Antineoplastic"
+            },
+            {
+                "name": "surgical operation",
+                "qid": "Q600236",
+                "url": "https://en.wikipedia.org/wiki/Surgical_operation"
+            },
+            {
+                "name": "chemotherapy",
+                "qid": "Q974135",
+                "url": "https://en.wikipedia.org/wiki/Chemotherapy"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "sirolimus",
+                "qid": "Q32089",
+                "url": "https://en.wikipedia.org/wiki/Sirolimus"
+            },
+            {
+                "name": "lidocaine",
+                "qid": "Q216935",
+                "url": "https://en.wikipedia.org/wiki/Lidocaine"
+            },
+            {
+                "name": "trastuzumab",
+                "qid": "Q412616",
+                "url": "https://en.wikipedia.org/wiki/Trastuzumab"
+            },
+            {
+                "name": "cabazitaxel",
+                "qid": "Q412963",
+                "url": "https://en.wikipedia.org/wiki/Cabazitaxel"
+            },
+            {
+                "name": "nilutamide",
+                "qid": "Q3877030",
+                "url": "https://en.wikipedia.org/wiki/Nilutamide"
+            },
+            {
+                "name": "regorafenib",
+                "qid": "Q3891664",
+                "url": "https://en.wikipedia.org/wiki/Regorafenib"
+            },
+            {
+                "name": "axitinib",
+                "qid": "Q4830631",
+                "url": "https://en.wikipedia.org/wiki/Axitinib"
+            },
+            {
+                "name": "olaparib",
+                "qid": "Q7083106",
+                "url": "https://en.wikipedia.org/wiki/Olaparib"
+            },
+            {
+                "name": "bevacizumab",
+                "qid": "Q413299",
+                "url": "https://en.wikipedia.org/wiki/Bevacizumab"
+            },
+            {
+                "name": "anastrozole",
+                "qid": "Q419143",
+                "url": "https://en.wikipedia.org/wiki/Anastrozole"
+            },
+            {
+                "name": "everolimus",
+                "qid": "Q421052",
+                "url": "https://en.wikipedia.org/wiki/Everolimus"
+            },
+            {
+                "name": "paclitaxel",
+                "qid": "Q423762",
+                "url": "https://en.wikipedia.org/wiki/Paclitaxel"
+            },
+            {
+                "name": "diethylstilbestrol",
+                "qid": "Q423989",
+                "url": "https://en.wikipedia.org/wiki/Diethylstilbestrol"
+            },
+            {
+                "name": "tolvaptan",
+                "qid": "Q426132",
+                "url": "https://en.wikipedia.org/wiki/Tolvaptan"
+            },
+            {
+                "name": "ipilimumab",
+                "qid": "Q2459042",
+                "url": "https://en.wikipedia.org/wiki/Ipilimumab"
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "name": "kerion",
+    "qid": "Q167967",
+    "icd_10": "B35.0",
+    "description": "fungal infection",
+    "aliases": [
+        "Kerion celsi",
+        "Susceptibility to Tinea imbricata",
+        "Tinea capitis profunda",
+        "TINEA IMBRICATA, SUSCEPTIBILITY TO",
+        "Trichophytia profunda barbae",
+        "Trichophytia profunda capitis",
+        "Trichophyton infection"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/K%C3%A9rion%2002.jpg",
+    "url": "https://en.wikipedia.org/wiki/Kerion",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "infection",
+                "qid": "Q166231",
+                "url": "https://en.wikipedia.org/wiki/Infection"
+            },
+            {
+                "name": "zoonosis",
+                "qid": "Q182672",
+                "url": "https://en.wikipedia.org/wiki/Zoonosis"
+            },
+            {
+                "name": "dermatophytosis",
+                "qid": "Q1909343",
+                "url": "https://en.wikipedia.org/wiki/Dermatophytosis"
+            },
+            {
+                "name": "scalp mycosis",
+                "qid": "Q11702831"
+            },
+            {
+                "name": "other acquired skin disease",
+                "qid": "Q55788714"
+            }
+        ]
+    }
+}

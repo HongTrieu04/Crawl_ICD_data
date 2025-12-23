@@ -1,0 +1,138 @@
+{
+    "name": "purulent meningitis",
+    "qid": "Q109466005",
+    "icd_10": "G00.9",
+    "description": "type of meningitis",
+    "aliases": [
+        "pyogenic meningitis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Symptoms": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            },
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "muscle cramp",
+                "qid": "Q2006818",
+                "url": "https://en.wikipedia.org/wiki/Cramp"
+            },
+            {
+                "name": "photophobia",
+                "qid": "Q281289",
+                "url": "https://en.wikipedia.org/wiki/Photophobia"
+            },
+            {
+                "name": "hyperacusis",
+                "qid": "Q1421356",
+                "url": "https://en.wikipedia.org/wiki/Hyperacusis"
+            },
+            {
+                "name": "vomiting",
+                "qid": "Q127076",
+                "url": "https://en.wikipedia.org/wiki/Vomiting"
+            },
+            {
+                "name": "coma",
+                "qid": "Q159557",
+                "url": "https://en.wikipedia.org/wiki/Coma"
+            },
+            {
+                "name": "nausea",
+                "qid": "Q186889",
+                "url": "https://en.wikipedia.org/wiki/Nausea"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "antibiotic",
+                "qid": "Q12187",
+                "url": "https://en.wikipedia.org/wiki/Antibiotic"
+            },
+            {
+                "name": "diuretic",
+                "qid": "Q200656",
+                "url": "https://en.wikipedia.org/wiki/Diuretic"
+            },
+            {
+                "name": "antimicrobial drug",
+                "qid": "Q178859"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            },
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "meningitis",
+                "qid": "Q48143",
+                "url": "https://en.wikipedia.org/wiki/Meningitis"
+            },
+            {
+                "name": "neurological disorder",
+                "qid": "Q3339235",
+                "url": "https://en.wikipedia.org/wiki/Neurological_disorder"
+            },
+            {
+                "name": "bacterial meningitis",
+                "qid": "Q3678510"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Escherichia coli",
+                "qid": "Q25419",
+                "url": "https://en.wikipedia.org/wiki/Escherichia_coli"
+            },
+            {
+                "name": "Listeria monocytogenes",
+                "qid": "Q292015",
+                "url": "https://en.wikipedia.org/wiki/Listeria_monocytogenes"
+            },
+            {
+                "name": "Haemophilus influenzae",
+                "qid": "Q1141979",
+                "url": "https://en.wikipedia.org/wiki/Haemophilus_influenzae"
+            },
+            {
+                "name": "Neisseria meningitidis",
+                "qid": "Q154625",
+                "url": "https://en.wikipedia.org/wiki/Neisseria_meningitidis"
+            },
+            {
+                "name": "Staphylococcus",
+                "qid": "Q199695",
+                "url": "https://en.wikipedia.org/wiki/Staphylococcus"
+            },
+            {
+                "name": "Streptococcus pneumoniae",
+                "qid": "Q221179",
+                "url": "https://en.wikipedia.org/wiki/Streptococcus_pneumoniae"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "meninges",
+                "qid": "Q268930",
+                "url": "https://en.wikipedia.org/wiki/Meninges"
+            }
+        ]
+    }
+}

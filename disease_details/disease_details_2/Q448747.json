@@ -1,0 +1,25 @@
+{
+    "name": "alveolitis",
+    "qid": "Q448747",
+    "icd_10": "J67",
+    "description": "lung disease",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Alveolitis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "extrinsic allergic alveolitis",
+                "qid": "Q35890",
+                "url": "https://en.wikipedia.org/wiki/Hypersensitivity_pneumonitis"
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "name": "primary bladder neck obstruction",
+    "qid": "Q98688207",
+    "icd_10": "Q64.3",
+    "description": "condition in which bladder neck doesn't open in an appropriate way",
+    "aliases": [
+        "congenital bladder neck obstruction",
+        "PBNO"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "bladder neck obstruction",
+                "qid": "Q7900619",
+                "url": "https://en.wikipedia.org/wiki/Urinary_bladder_neck_obstruction"
+            },
+            {
+                "name": "urinary system disease",
+                "qid": "Q7900883",
+                "url": "https://en.wikipedia.org/wiki/Urologic_disease"
+            }
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "aural myiasis",
+    "qid": "Q4339894",
+    "icd_10": "B87.4",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "myiasis",
+                "qid": "Q304601",
+                "url": "https://en.wikipedia.org/wiki/Myiasis"
+            },
+            {
+                "name": "ear disease",
+                "qid": "Q5325633",
+                "url": "https://en.wikipedia.org/wiki/Ear_disease"
+            }
+        ]
+    }
+}

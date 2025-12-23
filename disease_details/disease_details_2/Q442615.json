@@ -1,0 +1,45 @@
+{
+    "name": "slipped capital femoral epiphysis",
+    "qid": "Q442615",
+    "icd_10": "M93.0",
+    "description": "rare disease",
+    "aliases": [
+        "Epiphysiolysis Capitis Femoris",
+        "epiphysiolysis of the hip",
+        "Epiphysiolysis of the upper femur",
+        "Femoral head epiphysiolysis",
+        "SCFE",
+        "Slipped Capital Femoral Epiphyses",
+        "Slipped capital femoral epiphysis",
+        "SLIPPED FEMORAL CAPITAL EPIPHYSES",
+        "Slipped upper femoral epiphysis",
+        "SUFE"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Epilys.jpg",
+    "url": "https://en.wikipedia.org/wiki/Slipped_capital_femoral_epiphysis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "genetic disease",
+                "qid": "Q200779",
+                "url": "https://en.wikipedia.org/wiki/Genetic_disorder"
+            },
+            {
+                "name": "chondropathy",
+                "qid": "Q851693",
+                "url": "https://en.wikipedia.org/wiki/Chondropathy"
+            },
+            {
+                "name": "slipped epiphysis",
+                "qid": "Q54932080"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "orthopedics",
+                "qid": "Q216685",
+                "url": "https://en.wikipedia.org/wiki/Orthopedic_surgery"
+            }
+        ]
+    }
+}

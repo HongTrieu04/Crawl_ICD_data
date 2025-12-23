@@ -1,0 +1,36 @@
+{
+    "name": "HIV encephalopathy",
+    "qid": "Q18967433",
+    "icd_10": "B22.0",
+    "description": "Human disease",
+    "aliases": [
+        "AIDS Encephalopathy",
+        "Human immunodefiency virus encephalopathy",
+        "obsolete HIV encephalopathy"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Cause": [
+            {
+                "name": "AIDS",
+                "qid": "Q12199",
+                "url": "https://en.wikipedia.org/wiki/HIV/AIDS"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "viral encephalitis",
+                "qid": "Q3053951",
+                "url": "https://en.wikipedia.org/wiki/Viral_encephalitis"
+            }
+        ]
+    }
+}

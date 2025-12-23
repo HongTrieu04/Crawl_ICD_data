@@ -1,0 +1,53 @@
+{
+    "name": "spastic quadriplegia",
+    "qid": "Q3985306",
+    "icd_10": "G80.0",
+    "description": "type of spastic cerebral palsy characterized by increased muscle tone of all four extremities",
+    "aliases": [
+        "Inherited congenital spastic quadriplegia",
+        "Inherited congenital spastic tetraplegia",
+        "quadriplegic infantile cerebral palsy",
+        "spastic quadriplegic cerebral palsy",
+        "tetraplegic infantile cerebral palsy"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Spastic_quadriplegia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "(RS)-baclofen",
+                "qid": "Q413717",
+                "url": "https://en.wikipedia.org/wiki/Baclofen"
+            },
+            {
+                "name": "dantrolene",
+                "qid": "Q421274",
+                "url": "https://en.wikipedia.org/wiki/Dantrolene"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "spastic cerebral palsy",
+                "qid": "Q7573995",
+                "url": "https://en.wikipedia.org/wiki/Spastic_cerebral_palsy"
+            },
+            {
+                "name": "nervous system heredodegenerative disease",
+                "qid": "Q19001236"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "quadrispasticity",
+                "qid": "Q1616084"
+            }
+        ]
+    }
+}

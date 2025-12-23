@@ -1,0 +1,30 @@
+{
+    "name": "Perianal cellulitis",
+    "qid": "Q2944105",
+    "icd_10": "L03.3",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Perianal_cellulitis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "anorectal disorder",
+                "qid": "Q4770164",
+                "url": "https://en.wikipedia.org/wiki/Anorectal_disorder"
+            },
+            {
+                "name": "cellulitis",
+                "qid": "Q876887",
+                "url": "https://en.wikipedia.org/wiki/Cellulitis"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ]
+    }
+}

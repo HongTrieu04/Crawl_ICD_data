@@ -1,0 +1,36 @@
+{
+    "name": "hamartoma",
+    "qid": "Q525075",
+    "icd_10": "Q85.9",
+    "description": "non-cancerous growth, made up of an abnormal mixture of cells and tissues normally found in the area of the body",
+    "aliases": [
+        "Hamartoma",
+        "hamartoma (disorder)",
+        "hamartoma (morphologic abnormality)",
+        "hamartomatous polyp",
+        "hamartomatous polyp (morphologic abnormality)"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hamartoma%20of%20the%20spleen.jpg",
+    "url": "https://en.wikipedia.org/wiki/Hamartoma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            },
+            {
+                "name": "pathology",
+                "qid": "Q7208",
+                "url": "https://en.wikipedia.org/wiki/Pathology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "neoplasm",
+                "qid": "Q1216998",
+                "url": "https://en.wikipedia.org/wiki/Neoplasm"
+            }
+        ]
+    }
+}

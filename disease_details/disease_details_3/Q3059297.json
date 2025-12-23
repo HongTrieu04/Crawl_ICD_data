@@ -1,0 +1,29 @@
+{
+    "name": "ethmoid sinusitis",
+    "qid": "Q3059297",
+    "icd_10": "J32.2",
+    "description": "sinusitis which involves infection of ethmoid sinuses that causes pain or pressure behind and between the eyes, tearing, and headache over the forehead",
+    "aliases": [
+        "ethmoid bone sinusitis",
+        "ethmoidal sinusitis",
+        "ethmoiditis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "sinusitis",
+                "qid": "Q183344",
+                "url": "https://en.wikipedia.org/wiki/Sinusitis"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ]
+    }
+}

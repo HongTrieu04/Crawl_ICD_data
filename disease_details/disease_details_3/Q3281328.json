@@ -1,0 +1,28 @@
+{
+    "name": "heavy chain disease",
+    "qid": "Q3281328",
+    "icd_10": "C88.2",
+    "description": "hypersensitivity reaction type IV disease that results from a proliferation of cells producing immunoglobulin heavy chains",
+    "aliases": [
+        "HCD",
+        "Heavy Chain Disease"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Heavy_chain_disease",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "type IV hypersensitivity",
+                "qid": "Q7860879",
+                "url": "https://en.wikipedia.org/wiki/Type_IV_hypersensitivity"
+            }
+        ]
+    }
+}

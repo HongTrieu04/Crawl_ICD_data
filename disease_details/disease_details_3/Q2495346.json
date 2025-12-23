@@ -1,0 +1,25 @@
+{
+    "name": "Monorchism",
+    "qid": "Q2495346",
+    "icd_10": "Q55.0",
+    "description": "state of having only one testicle within the scrotum",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Monorchism.JPG",
+    "url": "https://en.wikipedia.org/wiki/Monorchism",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "cryptorchidism",
+                "qid": "Q966052",
+                "url": "https://en.wikipedia.org/wiki/Cryptorchidism"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "name": "dissociation",
+    "qid": "Q18663",
+    "icd_10": "F44",
+    "description": "mild detachment from immediate surroundings to more severe detachment from physical and emotional experience",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Dissociation_(psychology)",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychology",
+                "qid": "Q9418",
+                "url": "https://en.wikipedia.org/wiki/Psychology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "state of consciousness",
+                "qid": "Q15788410"
+            }
+        ]
+    }
+}

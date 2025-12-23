@@ -1,0 +1,49 @@
+{
+    "name": "diabetic coma",
+    "qid": "Q777717",
+    "icd_10": "E10.0",
+    "description": "medical condition due to diabetes",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Diabetic_coma",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "coma",
+                "qid": "Q159557",
+                "url": "https://en.wikipedia.org/wiki/Coma"
+            },
+            {
+                "name": "complications of diabetes mellitus",
+                "qid": "Q4198677",
+                "url": "https://en.wikipedia.org/wiki/Complications_of_diabetes"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "hyperglycemia",
+                "qid": "Q271993",
+                "url": "https://en.wikipedia.org/wiki/Hyperglycemia"
+            },
+            {
+                "name": "unconsciousness",
+                "qid": "Q12829165",
+                "url": "https://en.wikipedia.org/wiki/Unconsciousness"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "diabetic ketoacidosis",
+                "qid": "Q877827",
+                "url": "https://en.wikipedia.org/wiki/Diabetic_ketoacidosis"
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "glaucoma associated with systemic syndromes",
+    "qid": "Q18966875",
+    "icd_10": "H42",
+    "description": "Human disease",
+    "aliases": [
+        "Glaucoma associated with systemic syndromes (disorder)"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "glaucoma",
+                "qid": "Q159701",
+                "url": "https://en.wikipedia.org/wiki/Glaucoma"
+            }
+        ]
+    }
+}

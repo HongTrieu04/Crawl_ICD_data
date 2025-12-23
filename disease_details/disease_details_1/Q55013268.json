@@ -1,0 +1,20 @@
+{
+    "name": "Puerperal pyrexia of unknown origin",
+    "qid": "Q55013268",
+    "icd_10": "O86.4",
+    "description": "human disease",
+    "aliases": [
+        "obsolete Puerperal pyrexia of unknown origin"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "puerperal infection",
+                "qid": "Q1419347",
+                "url": "https://en.wikipedia.org/wiki/Postpartum_infections"
+            }
+        ]
+    }
+}

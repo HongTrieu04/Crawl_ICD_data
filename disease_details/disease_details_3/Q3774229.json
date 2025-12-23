@@ -1,0 +1,27 @@
+{
+    "name": "Transient acantholytic dermatosis",
+    "qid": "Q3774229",
+    "icd_10": "L11.1",
+    "description": "acantholytic",
+    "aliases": [
+        "Grover's Disease"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Transient_acantholytic_dermatosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "acantholysis",
+                "qid": "Q415794",
+                "url": "https://en.wikipedia.org/wiki/Acantholysis"
+            }
+        ]
+    }
+}

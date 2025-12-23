@@ -1,0 +1,33 @@
+{
+    "name": "Fregoli delusion",
+    "qid": "Q1453767",
+    "icd_10": "F22",
+    "description": "psychopathological syndrome",
+    "aliases": [
+        "Fregoli syndrome",
+        "Fregoli's syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Fregoli_delusion",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "delusional misidentification syndrome",
+                "qid": "Q2460356",
+                "url": "https://en.wikipedia.org/wiki/Delusional_misidentification_syndrome"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "psychotherapy",
+                "qid": "Q183257",
+                "url": "https://en.wikipedia.org/wiki/Psychotherapy"
+            }
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "drusen",
+    "qid": "Q1140528",
+    "icd_10": "H47.3",
+    "description": "tiny yellow or white accumulations of extracellular material that build up between Bruch's membrane and the retinal pigment epithelium of the eye",
+    "aliases": [
+        "Basal laminar drusen",
+        "retinal drusen"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Drusen",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "degeneration of macula and posterior pole",
+                "qid": "Q16678480"
+            }
+        ]
+    }
+}

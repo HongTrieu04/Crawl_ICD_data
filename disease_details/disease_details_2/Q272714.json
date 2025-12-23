@@ -1,0 +1,34 @@
+{
+    "name": "gallstone",
+    "qid": "Q272714",
+    "icd_10": "K80",
+    "description": "stone formed within the gallbladder (object, not disease)",
+    "aliases": [
+        "cholelithiasis",
+        "gallstones",
+        "biliary calculi",
+        "calculus of gallbladder and bile duct without cholecystitis",
+        "calculus of gallbladder and bile duct without cholecystitis, with obstruction",
+        "gall stone",
+        "gall stones",
+        "pancreatic stone"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gallensteine%202006%2003%2028.JPG",
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "calculus",
+                "qid": "Q617079",
+                "url": "https://en.wikipedia.org/wiki/Calculus_(medicine)"
+            }
+        ]
+    }
+}

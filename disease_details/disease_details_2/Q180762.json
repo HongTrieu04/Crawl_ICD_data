@@ -1,0 +1,187 @@
+{
+    "name": "angina pectoris",
+    "qid": "Q180762",
+    "icd_10": "I20",
+    "description": "chest discomfort due to not enough blood flow to heart muscle",
+    "aliases": [
+        "angina"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/AMI%20pain%20front.png",
+    "url": "https://en.wikipedia.org/wiki/Angina",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "papaverine",
+                "qid": "Q410374",
+                "url": "https://en.wikipedia.org/wiki/Papaverine"
+            },
+            {
+                "name": "atenolol",
+                "qid": "Q411325",
+                "url": "https://en.wikipedia.org/wiki/Atenolol"
+            },
+            {
+                "name": "amlodipine",
+                "qid": "Q411347",
+                "url": "https://en.wikipedia.org/wiki/Amlodipine"
+            },
+            {
+                "name": "n-pentyl nitrite",
+                "qid": "Q412350",
+                "url": "https://en.wikipedia.org/wiki/Pentyl_nitrite"
+            },
+            {
+                "name": "bisoprolol",
+                "qid": "Q412515",
+                "url": "https://en.wikipedia.org/wiki/Bisoprolol"
+            },
+            {
+                "name": "carvedilol",
+                "qid": "Q412534",
+                "url": "https://en.wikipedia.org/wiki/Carvedilol"
+            },
+            {
+                "name": "(S)-(−)-timolol",
+                "qid": "Q413994",
+                "url": "https://en.wikipedia.org/wiki/Timolol"
+            },
+            {
+                "name": "pentaerythritol tetranitrate",
+                "qid": "Q189334",
+                "url": "https://en.wikipedia.org/wiki/Pentaerythritol_tetranitrate"
+            },
+            {
+                "name": "ubidecarenone",
+                "qid": "Q321285",
+                "url": "https://en.wikipedia.org/wiki/Coenzyme_Q10"
+            },
+            {
+                "name": "nifedipine",
+                "qid": "Q39111",
+                "url": "https://en.wikipedia.org/wiki/Nifedipine"
+            },
+            {
+                "name": "(RS)-metoprolol",
+                "qid": "Q409468",
+                "url": "https://en.wikipedia.org/wiki/Metoprolol"
+            },
+            {
+                "name": "verapamil",
+                "qid": "Q410291",
+                "url": "https://en.wikipedia.org/wiki/Verapamil"
+            },
+            {
+                "name": "bepridil",
+                "qid": "Q4890934",
+                "url": "https://en.wikipedia.org/wiki/Bepridil"
+            },
+            {
+                "name": "mibefradil",
+                "qid": "Q6827783",
+                "url": "https://en.wikipedia.org/wiki/Mibefradil"
+            },
+            {
+                "name": "isradipine",
+                "qid": "Q414873",
+                "url": "https://en.wikipedia.org/wiki/Isradipine"
+            },
+            {
+                "name": "erythrityl tetranitrate",
+                "qid": "Q417174",
+                "url": "https://en.wikipedia.org/wiki/Erythritol_tetranitrate"
+            },
+            {
+                "name": "pindolol",
+                "qid": "Q418101",
+                "url": "https://en.wikipedia.org/wiki/Pindolol"
+            },
+            {
+                "name": "esmolol",
+                "qid": "Q418139",
+                "url": "https://en.wikipedia.org/wiki/Esmolol"
+            },
+            {
+                "name": "acebutolol",
+                "qid": "Q418857",
+                "url": "https://en.wikipedia.org/wiki/Acebutolol"
+            },
+            {
+                "name": "felodipine",
+                "qid": "Q420644",
+                "url": "https://en.wikipedia.org/wiki/Felodipine"
+            },
+            {
+                "name": "diltiazem",
+                "qid": "Q422229",
+                "url": "https://en.wikipedia.org/wiki/Diltiazem"
+            },
+            {
+                "name": "propranolol",
+                "qid": "Q423364",
+                "url": "https://en.wikipedia.org/wiki/Propranolol"
+            },
+            {
+                "name": "nadolol",
+                "qid": "Q424952",
+                "url": "https://en.wikipedia.org/wiki/Nadolol"
+            },
+            {
+                "name": "nicardipine",
+                "qid": "Q729213",
+                "url": "https://en.wikipedia.org/wiki/Nicardipine"
+            },
+            {
+                "name": "penbutolol",
+                "qid": "Q944244",
+                "url": "https://en.wikipedia.org/wiki/Penbutolol"
+            },
+            {
+                "name": "labetalol",
+                "qid": "Q958087",
+                "url": "https://en.wikipedia.org/wiki/Labetalol"
+            },
+            {
+                "name": "isosorbide",
+                "qid": "Q1243800",
+                "url": "https://en.wikipedia.org/wiki/Isosorbide"
+            },
+            {
+                "name": "pharmaceutical preparation of nitroglycerin",
+                "qid": "Q3221044",
+                "url": "https://en.wikipedia.org/wiki/Nitroglycerin_(medication)"
+            },
+            {
+                "name": "(RS)-nisoldipine",
+                "qid": "Q3342150",
+                "url": "https://en.wikipedia.org/wiki/Nisoldipine"
+            },
+            {
+                "name": "sulfinpyrazone",
+                "qid": "Q3790542",
+                "url": "https://en.wikipedia.org/wiki/Sulfinpyrazone"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "chest pain",
+                "qid": "Q693058",
+                "url": "https://en.wikipedia.org/wiki/Chest_pain"
+            },
+            {
+                "name": "coronaropathy",
+                "qid": "Q10260689"
+            },
+            {
+                "name": "angina",
+                "qid": "Q130313321"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "lobar pneumonia",
+    "qid": "Q6663548",
+    "icd_10": "J18.1",
+    "description": "Human disease",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lobar%20pneumonia%20with%20abscess%20%283729951501%29.jpg",
+    "url": "https://en.wikipedia.org/wiki/Lobar_pneumonia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "pneumonia",
+                "qid": "Q12192",
+                "url": "https://en.wikipedia.org/wiki/Pneumonia"
+            }
+        ]
+    }
+}

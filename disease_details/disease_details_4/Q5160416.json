@@ -1,0 +1,90 @@
+{
+    "name": "congenital cytomegalovirus infection",
+    "qid": "Q5160416",
+    "icd_10": "P35.1",
+    "description": "mother-to-child transmission of cytomegalovirus occurring in the prenatal period",
+    "aliases": [
+        "Antenatal CMV infection",
+        "Antenatal cytomegalovirus infection",
+        "CMV antenatal infection",
+        "Congenital CMV",
+        "Congenital cytomegalovirus",
+        "Congenital cytomegalovirus syndrome",
+        "fetal cytomegalovirus syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Congenital_cytomegalovirus_infection",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "convulsion",
+                "qid": "Q852376",
+                "url": "https://en.wikipedia.org/wiki/Convulsion"
+            },
+            {
+                "name": "hepatomegaly",
+                "qid": "Q1362864",
+                "url": "https://en.wikipedia.org/wiki/Hepatomegaly"
+            },
+            {
+                "name": "exanthem",
+                "qid": "Q14509067",
+                "url": "https://en.wikipedia.org/wiki/Exanthem"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "pediatrics",
+                "qid": "Q123028",
+                "url": "https://en.wikipedia.org/wiki/Pediatrics"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Cytomegalovirus",
+                "qid": "Q6946",
+                "url": "https://en.wikipedia.org/wiki/Cytomegalovirus"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "central nervous system viral disease",
+                "qid": "Q5062121",
+                "url": "https://en.wikipedia.org/wiki/Central_nervous_system_viral_disease"
+            },
+            {
+                "name": "cytomegaloviral disease",
+                "qid": "Q2076966"
+            },
+            {
+                "name": "congenital transmission",
+                "qid": "Q15304507"
+            },
+            {
+                "name": "infectious disease with epilepsy",
+                "qid": "Q55785635"
+            },
+            {
+                "name": "infectious embryofetopathy",
+                "qid": "Q55786275"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "ganciclovir",
+                "qid": "Q417640",
+                "url": "https://en.wikipedia.org/wiki/Ganciclovir"
+            },
+            {
+                "name": "valganciclovir",
+                "qid": "Q423384",
+                "url": "https://en.wikipedia.org/wiki/Valganciclovir"
+            },
+            {
+                "name": "hand washing",
+                "qid": "Q552461",
+                "url": "https://en.wikipedia.org/wiki/Hand_washing"
+            }
+        ]
+    }
+}

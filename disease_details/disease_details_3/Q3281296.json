@@ -1,0 +1,28 @@
+{
+    "name": "Schamberg disease",
+    "qid": "Q3281296",
+    "icd_10": "L81.7",
+    "description": "medical condition",
+    "aliases": [
+        "Pigmented purpura",
+        "Purpura pigmentosa progressiva"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Schamberg_disease",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "Pigmented purpuric dermatosis",
+                "qid": "Q7193411",
+                "url": "https://en.wikipedia.org/wiki/Pigmented_purpuric_dermatosis"
+            }
+        ]
+    }
+}

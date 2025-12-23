@@ -1,0 +1,30 @@
+{
+    "name": "Trypanosoma brucei gambiense infectious disease",
+    "qid": "Q18966240",
+    "icd_10": "B56.0",
+    "description": "Human disease",
+    "aliases": [
+        "Gambian sleeping sickness",
+        "Gambian Trypanosomiasis",
+        "obsolete Trypanosoma brucei gambiense infectious disease",
+        "West African trypanosomiasis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "African trypanosomiasis",
+                "qid": "Q203133",
+                "url": "https://en.wikipedia.org/wiki/African_trypanosomiasis"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Trypanosoma brucei",
+                "qid": "Q33244",
+                "url": "https://en.wikipedia.org/wiki/Trypanosoma_brucei"
+            }
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name": "pityriasis amiantacea",
+    "qid": "Q7199562",
+    "icd_10": "L44.8",
+    "description": "human disease",
+    "aliases": [
+        "tinea amiantacea",
+        "Tinea amiantacea"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pityriasis_amiantacea",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "pityriasis",
+                "qid": "Q2097389",
+                "url": "https://en.wikipedia.org/wiki/Pityriasis"
+            }
+        ]
+    }
+}

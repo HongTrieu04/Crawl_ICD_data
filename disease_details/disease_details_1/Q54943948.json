@@ -1,0 +1,32 @@
+{
+    "name": "malunited fracture",
+    "qid": "Q54943948",
+    "icd_10": "M84.0",
+    "description": "union of the fragments of a fractured bone in a faulty or abnormal position",
+    "aliases": [
+        "malunited fractures"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "malunion",
+                "qid": "Q25036443",
+                "url": "https://en.wikipedia.org/wiki/Malunion"
+            },
+            {
+                "name": "bone fracture",
+                "qid": "Q68833",
+                "url": "https://en.wikipedia.org/wiki/Bone_fracture"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ]
+    }
+}

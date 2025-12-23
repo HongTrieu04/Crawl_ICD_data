@@ -1,0 +1,22 @@
+{
+    "name": "postencephalitic syndrome",
+    "qid": "Q2357690",
+    "icd_10": "F07.1",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "organic brain syndrome",
+                "qid": "Q360341",
+                "url": "https://en.wikipedia.org/wiki/Organic_brain_syndrome"
+            },
+            {
+                "name": "post-infectious disorder",
+                "qid": "Q55789778"
+            }
+        ]
+    }
+}

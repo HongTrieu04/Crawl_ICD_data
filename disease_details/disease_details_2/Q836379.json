@@ -1,0 +1,35 @@
+{
+    "name": "dysphonia",
+    "qid": "Q836379",
+    "icd_10": "R49.0",
+    "description": "voice impairment",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hoarse_voice",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "voice disorder",
+                "qid": "Q4593337",
+                "url": "https://en.wikipedia.org/wiki/List_of_voice_disorders"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            },
+            {
+                "name": "speech-language pathology",
+                "qid": "Q33226",
+                "url": "https://en.wikipedia.org/wiki/Speech%E2%80%93language_pathology"
+            },
+            {
+                "name": "otolaryngology",
+                "qid": "Q189553",
+                "url": "https://en.wikipedia.org/wiki/Otorhinolaryngology"
+            }
+        ]
+    }
+}

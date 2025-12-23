@@ -1,0 +1,26 @@
+{
+    "name": "talipes calcaneus",
+    "qid": "Q1567174",
+    "icd_10": "Q66.4",
+    "description": null,
+    "aliases": [
+        "calcaneus",
+        "pes calcaneus"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "clubfoot",
+                "qid": "Q1162164",
+                "url": "https://en.wikipedia.org/wiki/Clubfoot"
+            },
+            {
+                "name": "foot deformity",
+                "qid": "Q5465742",
+                "url": "https://en.wikipedia.org/wiki/Foot_deformity"
+            }
+        ]
+    }
+}

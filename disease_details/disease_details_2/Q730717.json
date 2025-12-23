@@ -1,0 +1,27 @@
+{
+    "name": "Protrusio acetabuli",
+    "qid": "Q730717",
+    "icd_10": "M24.7",
+    "description": "human disease",
+    "aliases": [
+        "Protrusio Acetabuli"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Protrusio_acetabuli",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "arthropathy",
+                "qid": "Q708176",
+                "url": "https://en.wikipedia.org/wiki/Arthropathy"
+            }
+        ]
+    }
+}

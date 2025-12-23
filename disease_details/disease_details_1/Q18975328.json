@@ -1,0 +1,21 @@
+{
+    "name": "stenosis and insufficiency of lacrimal passage",
+    "qid": "Q18975328",
+    "icd_10": "H04.5",
+    "description": "Human disease",
+    "aliases": [
+        "Stenosis and insufficiency of lacrimal passages (disorder)",
+        "Stenosis and insufficiency of lacrimal passages NOS (disorder)",
+        "Stenosis of lacrimal passages"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "lacrimal apparatus disease",
+                "qid": "Q18554657"
+            }
+        ]
+    }
+}

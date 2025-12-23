@@ -1,0 +1,28 @@
+{
+    "name": "visceroptosis",
+    "qid": "Q5420556",
+    "icd_10": "K63.4",
+    "description": "medical condition",
+    "aliases": [
+        "enteroptosis",
+        "Splanchnoptosis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Visceroptosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "gastrointestinal system disease",
+                "qid": "Q2300099",
+                "url": "https://en.wikipedia.org/wiki/Gastrointestinal_disease"
+            }
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "gastric outlet obstruction",
+    "qid": "Q5526789",
+    "icd_10": "K31.1",
+    "description": "Human disease",
+    "aliases": [
+        "gastric outflow obstruction"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Gastric_outlet_obstruction",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "stomach disease",
+                "qid": "Q175827",
+                "url": "https://en.wikipedia.org/wiki/Stomach_disease"
+            }
+        ]
+    }
+}

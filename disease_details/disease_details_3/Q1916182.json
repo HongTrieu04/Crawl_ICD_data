@@ -1,0 +1,35 @@
+{
+    "name": "middle cerebral artery infarction",
+    "qid": "Q1916182",
+    "icd_10": "G46.0",
+    "description": "human disease",
+    "aliases": [
+        "Infarction, Middle Cerebral Artery"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Middle_cerebral_artery_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "cerebral infarction",
+                "qid": "Q1209150",
+                "url": "https://en.wikipedia.org/wiki/Cerebral_infarction"
+            },
+            {
+                "name": "cerebral artery occlusion",
+                "qid": "Q18553787"
+            },
+            {
+                "name": "cerebral arterial disease",
+                "qid": "Q18555970"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ]
+    }
+}

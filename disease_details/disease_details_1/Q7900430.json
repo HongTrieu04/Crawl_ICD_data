@@ -1,0 +1,22 @@
+{
+    "name": "Urethral foreign body",
+    "qid": "Q7900430",
+    "icd_10": "T19.0",
+    "description": "Foreign objects found in the urethra",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Urethral_foreign_body",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "foreign body",
+                "qid": "Q1455142",
+                "url": "https://en.wikipedia.org/wiki/Foreign_body"
+            },
+            {
+                "name": "urethral disease",
+                "qid": "Q18557550"
+            }
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "motor disorder",
+    "qid": "Q16342771",
+    "icd_10": "F98.4",
+    "description": "neurodevelopmental motor disorder",
+    "aliases": [
+        "Motor disorders"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Motor_disorder",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "neurodevelopmental disorder",
+                "qid": "Q3450985",
+                "url": "https://en.wikipedia.org/wiki/Neurodevelopmental_disorder"
+            }
+        ]
+    }
+}

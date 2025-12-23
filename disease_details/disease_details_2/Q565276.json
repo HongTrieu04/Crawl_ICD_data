@@ -1,0 +1,38 @@
+{
+    "name": "sciatica",
+    "qid": "Q565276",
+    "icd_10": "M54.4",
+    "description": "medical condition with pain down the leg from the lower back",
+    "aliases": [
+        "Bilateral Sciatica",
+        "Bilateral Sciaticas",
+        "Neuralgia, Sciatic",
+        "Neuralgias, Sciatic",
+        "sciatic neuralgia",
+        "Sciatic Neuralgias",
+        "Sciatica, Bilateral"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gray1244.png",
+    "url": "https://en.wikipedia.org/wiki/Sciatica",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            },
+            {
+                "name": "orthopedics",
+                "qid": "Q216685",
+                "url": "https://en.wikipedia.org/wiki/Orthopedic_surgery"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "neuralgia",
+                "qid": "Q1136940",
+                "url": "https://en.wikipedia.org/wiki/Neuralgia"
+            }
+        ]
+    }
+}

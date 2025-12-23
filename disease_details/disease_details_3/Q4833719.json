@@ -1,0 +1,135 @@
+{
+    "name": "B-cell lymphoma",
+    "qid": "Q4833719",
+    "icd_10": "C85.1",
+    "description": "non-Hodgkin lymphoma that has material basis in B cells",
+    "aliases": [
+        "B-cell lymphocytic neoplasm",
+        "B-Cell Neoplasm",
+        "Lymphoma, B-Cell"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lymphoma%2C%20B-cell%20type%2C%20small%20cell%2C%20well-differentaited%20Case%20173%20%285601360422%29.jpg",
+    "url": "https://en.wikipedia.org/wiki/B-cell_lymphoma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "doxorubicin",
+                "qid": "Q18936",
+                "url": "https://en.wikipedia.org/wiki/Doxorubicin"
+            },
+            {
+                "name": "bortezomib",
+                "qid": "Q419319",
+                "url": "https://en.wikipedia.org/wiki/Bortezomib"
+            },
+            {
+                "name": "methotrexate",
+                "qid": "Q422232",
+                "url": "https://en.wikipedia.org/wiki/Methotrexate"
+            },
+            {
+                "name": "prednisone",
+                "qid": "Q424972",
+                "url": "https://en.wikipedia.org/wiki/Prednisone"
+            },
+            {
+                "name": "busulfan",
+                "qid": "Q348922",
+                "url": "https://en.wikipedia.org/wiki/Busulfan"
+            },
+            {
+                "name": "obinutuzumab",
+                "qid": "Q389496",
+                "url": "https://en.wikipedia.org/wiki/Obinutuzumab"
+            },
+            {
+                "name": "vincristine",
+                "qid": "Q408977",
+                "url": "https://en.wikipedia.org/wiki/Vincristine"
+            },
+            {
+                "name": "ofatumumab",
+                "qid": "Q410656",
+                "url": "https://en.wikipedia.org/wiki/Ofatumumab"
+            },
+            {
+                "name": "rituximab",
+                "qid": "Q412323",
+                "url": "https://en.wikipedia.org/wiki/Rituximab"
+            },
+            {
+                "name": "thiotepa",
+                "qid": "Q416507",
+                "url": "https://en.wikipedia.org/wiki/Thiotepa"
+            },
+            {
+                "name": "etoposide",
+                "qid": "Q418817",
+                "url": "https://en.wikipedia.org/wiki/Etoposide"
+            },
+            {
+                "name": "(RS)-lenalidomide",
+                "qid": "Q425681",
+                "url": "https://en.wikipedia.org/wiki/Lenalidomide"
+            },
+            {
+                "name": "bendamustine",
+                "qid": "Q425745",
+                "url": "https://en.wikipedia.org/wiki/Bendamustine"
+            },
+            {
+                "name": "pegfilgrastim",
+                "qid": "Q1592932",
+                "url": "https://en.wikipedia.org/wiki/Pegfilgrastim"
+            },
+            {
+                "name": "venetoclax",
+                "qid": "Q23671272",
+                "url": "https://en.wikipedia.org/wiki/Venetoclax"
+            },
+            {
+                "name": "filgrastim",
+                "qid": "Q3151081",
+                "url": "https://en.wikipedia.org/wiki/Filgrastim"
+            },
+            {
+                "name": "idelalisib",
+                "qid": "Q5908266",
+                "url": "https://en.wikipedia.org/wiki/Idelalisib"
+            },
+            {
+                "name": "ibrutinib",
+                "qid": "Q5984881",
+                "url": "https://en.wikipedia.org/wiki/Ibrutinib"
+            },
+            {
+                "name": "prednisolone",
+                "qid": "Q11426176",
+                "url": "https://en.wikipedia.org/wiki/Prednisolone"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "non-Hodgkin lymphoma",
+                "qid": "Q1138590",
+                "url": "https://en.wikipedia.org/wiki/Non-Hodgkin_lymphoma"
+            },
+            {
+                "name": "immune disorder",
+                "qid": "Q3843811",
+                "url": "https://en.wikipedia.org/wiki/Immune_disorder"
+            },
+            {
+                "name": "leukocyte disease",
+                "qid": "Q18558143"
+            }
+        ]
+    }
+}

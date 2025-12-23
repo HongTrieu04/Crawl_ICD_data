@@ -1,0 +1,33 @@
+{
+    "name": "pectus carinatum",
+    "qid": "Q164218",
+    "icd_10": "Q67.7",
+    "description": "Congenital deformity of the chest",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pectus_carinatum",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "clinical sign",
+                "qid": "Q1441305",
+                "url": "https://en.wikipedia.org/wiki/Clinical_sign"
+            },
+            {
+                "name": "bone development disease",
+                "qid": "Q18553737"
+            },
+            {
+                "name": "deformity of chest and rib",
+                "qid": "Q25377767"
+            }
+        ]
+    }
+}

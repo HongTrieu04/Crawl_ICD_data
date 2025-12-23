@@ -1,0 +1,37 @@
+{
+    "name": "sesamoiditis",
+    "qid": "Q4411017",
+    "icd_10": "M89.37",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Sesamoiditis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "occupational disease",
+                "qid": "Q637816",
+                "url": "https://en.wikipedia.org/wiki/Occupational_disease"
+            },
+            {
+                "name": "foot diseases",
+                "qid": "Q5282137",
+                "url": "https://en.wikipedia.org/wiki/Diseases_of_the_foot"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "sesamoid bone",
+                "qid": "Q1365684",
+                "url": "https://en.wikipedia.org/wiki/Sesamoid_bone"
+            }
+        ]
+    }
+}

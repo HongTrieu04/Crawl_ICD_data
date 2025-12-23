@@ -1,0 +1,68 @@
+{
+    "name": "T-cell prolymphocytic leukemia",
+    "qid": "Q17152512",
+    "icd_10": "C91.6",
+    "description": "slow-growing type of leukemia (blood cancer) in which too many lymphocytes are found in the bone marrow and/or blood",
+    "aliases": [
+        "Chronic T-Cell Leukemia",
+        "Chronic T-Cell Lymphocytic Leukemia",
+        "CLL, T-Cell",
+        "T Cell Chronic Lymphocytic Leukemia",
+        "T Cell CLL",
+        "T Cell Prolymphocytic Leukemia",
+        "T Prolymphocytic Leukemia",
+        "T-cell chronic lymphocytic leukemia",
+        "T-Cell CLL",
+        "T-Cell Prolymphocytic Leukemia",
+        "T-PLL"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/T-cell_prolymphocytic_leukemia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "immunology",
+                "qid": "Q101929",
+                "url": "https://en.wikipedia.org/wiki/Immunology"
+            },
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            },
+            {
+                "name": "angiology",
+                "qid": "Q539690",
+                "url": "https://en.wikipedia.org/wiki/Angiology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "alemtuzumab",
+                "qid": "Q420164",
+                "url": "https://en.wikipedia.org/wiki/Alemtuzumab"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "prolymphocytic leukemia",
+                "qid": "Q2112719",
+                "url": "https://en.wikipedia.org/wiki/Prolymphocytic_leukemia"
+            },
+            {
+                "name": "immune disorder",
+                "qid": "Q3843811",
+                "url": "https://en.wikipedia.org/wiki/Immune_disorder"
+            },
+            {
+                "name": "T-cell leukemia",
+                "qid": "Q7667895",
+                "url": "https://en.wikipedia.org/wiki/T-cell_leukemia"
+            },
+            {
+                "name": "rare bone disease",
+                "qid": "Q55788795"
+            }
+        ]
+    }
+}

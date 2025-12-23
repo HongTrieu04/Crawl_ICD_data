@@ -1,0 +1,24 @@
+{
+    "name": "radicular syndrome",
+    "qid": "Q1121047",
+    "icd_10": "G55",
+    "description": null,
+    "aliases": [
+        "nerve root compression"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "radiculopathy",
+                "qid": "Q175180",
+                "url": "https://en.wikipedia.org/wiki/Radiculopathy"
+            },
+            {
+                "name": "low backache",
+                "qid": "Q3911817"
+            }
+        ]
+    }
+}

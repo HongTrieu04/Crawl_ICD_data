@@ -1,0 +1,19 @@
+{
+    "name": "Page kidney",
+    "qid": "Q2046139",
+    "icd_10": "N26.2",
+    "description": "form of secondary arterial hypertension",
+    "aliases": [
+        "Page phenomena"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Page_kidney",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "renal hypertension",
+                "qid": "Q11788761"
+            }
+        ]
+    }
+}

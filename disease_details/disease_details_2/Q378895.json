@@ -1,0 +1,36 @@
+{
+    "name": "oral mucocele",
+    "qid": "Q378895",
+    "icd_10": "K13.7",
+    "description": "medical condition",
+    "aliases": [
+        "mucous cyst of the oral mucosa",
+        "mucous extravasation cyst",
+        "mucous retention and extravasation phenomena",
+        "mucus extravasation phenomenon",
+        "mucus retention cyst"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mucocele02-17-06cropped.jpg",
+    "url": "https://en.wikipedia.org/wiki/Oral_mucocele",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oral and maxillofacial surgery",
+                "qid": "Q504033",
+                "url": "https://en.wikipedia.org/wiki/Oral_and_maxillofacial_surgery"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "mucinosis",
+                "qid": "Q6931138",
+                "url": "https://en.wikipedia.org/wiki/Mucinosis"
+            },
+            {
+                "name": "mucocele",
+                "qid": "Q6931220",
+                "url": "https://en.wikipedia.org/wiki/Mucocele"
+            }
+        ]
+    }
+}

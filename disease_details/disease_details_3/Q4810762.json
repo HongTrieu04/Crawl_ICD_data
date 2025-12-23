@@ -1,0 +1,24 @@
+{
+    "name": "asteroid hyalosis",
+    "qid": "Q4810762",
+    "icd_10": "H43.2",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Asteroid_hyalosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "vitreous disease",
+                "qid": "Q18558199"
+            }
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "name": "brachial plexus lesion",
+    "qid": "Q2517861",
+    "icd_10": "P14.3",
+    "description": "brachial plexus neuropathy characterized by an abnormality, usually caused by disease or trauma, located in the brachial plexus",
+    "aliases": [
+        "arm pain",
+        "Brachial plexus lesions",
+        "Brachial plexus lesions NOS (disorder)"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Brachial_plexus_injury",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "nerve injury",
+                "qid": "Q2945973",
+                "url": "https://en.wikipedia.org/wiki/Nerve_injury"
+            },
+            {
+                "name": "neck injury",
+                "qid": "Q6152017"
+            },
+            {
+                "name": "brachial plexus neuropathy",
+                "qid": "Q18556023"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "brachial plexus",
+                "qid": "Q846961",
+                "url": "https://en.wikipedia.org/wiki/Brachial_plexus"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ]
+    }
+}

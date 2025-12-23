@@ -1,0 +1,25 @@
+{
+    "name": "Rokitansky-Aschoff sinuses",
+    "qid": "Q10369494",
+    "icd_10": "K82.8",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Rokitansky%E2%80%93Aschoff_sinuses",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "gallbladder disease",
+                "qid": "Q5518905",
+                "url": "https://en.wikipedia.org/wiki/Gallbladder_disease"
+            }
+        ]
+    }
+}

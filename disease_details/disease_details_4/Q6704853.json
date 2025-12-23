@@ -1,0 +1,37 @@
+{
+    "name": "lupus erythematosus panniculitis",
+    "qid": "Q6704853",
+    "icd_10": "L93.2",
+    "description": "type of lupus erythematosus characterized by deep dermal or subcutaneous nodules",
+    "aliases": [
+        "Lupus erythematosus profundus",
+        "Panniculitis, Lupus Erythematosus"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Lupus_erythematosus_panniculitis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "panniculitis",
+                "qid": "Q780629",
+                "url": "https://en.wikipedia.org/wiki/Panniculitis"
+            },
+            {
+                "name": "lupus erythematosus",
+                "qid": "Q188297",
+                "url": "https://en.wikipedia.org/wiki/Lupus_erythematosus"
+            },
+            {
+                "name": "chronic cutaneous lupus erythematosus",
+                "qid": "Q55785567"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ]
+    }
+}

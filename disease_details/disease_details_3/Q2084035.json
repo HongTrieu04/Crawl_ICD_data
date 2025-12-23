@@ -1,0 +1,36 @@
+{
+    "name": "nail disease",
+    "qid": "Q2084035",
+    "icd_10": "L60",
+    "description": "integumentary system disease that is located in nail",
+    "aliases": [
+        "disease of nail",
+        "disorder of nail",
+        "nail diseases",
+        "onychopathy"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Nail_disease",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "nail",
+                "qid": "Q36864",
+                "url": "https://en.wikipedia.org/wiki/Nail_(anatomy)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "integumentary system disease",
+                "qid": "Q18554850"
+            }
+        ]
+    }
+}

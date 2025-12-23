@@ -1,0 +1,21 @@
+{
+    "name": "premature labor",
+    "qid": "Q102186811",
+    "icd_10": "O60.0",
+    "description": "symptom",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "premature labor",
+                "qid": "Q18966545"
+            },
+            {
+                "name": "reproductive system symptom",
+                "qid": "Q102186786"
+            }
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Cysts of iris, ciliary body and anterior chamber",
+    "qid": "Q18975213",
+    "icd_10": "H21.3",
+    "description": "Human disease",
+    "aliases": [
+        "Cysts of iris, ciliary body and anterior chamber (disorder)",
+        "Cysts of iris, ciliary body and anterior chamber NOS (disorder)",
+        "Cysts of iris, ciliary body, and anterior chamber",
+        "obsolete Cysts of iris, ciliary body and anterior chamber"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "iris disease",
+                "qid": "Q18555070"
+            }
+        ]
+    }
+}

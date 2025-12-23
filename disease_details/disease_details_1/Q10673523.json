@@ -1,0 +1,22 @@
+{
+    "name": "somatoform autonomic dysfunction",
+    "qid": "Q10673523",
+    "icd_10": "F45.3",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "somatic symptom disorder",
+                "qid": "Q936549",
+                "url": "https://en.wikipedia.org/wiki/Somatic_symptom_disorder"
+            },
+            {
+                "name": "autonomic nervous system disease",
+                "qid": "Q18554088"
+            }
+        ]
+    }
+}

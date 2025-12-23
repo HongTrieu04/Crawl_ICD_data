@@ -1,0 +1,30 @@
+{
+    "name": "primary tuberculosis",
+    "qid": "Q18966256",
+    "icd_10": "A16.7",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete primary tuberculosis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "tuberculosis",
+                "qid": "Q12204",
+                "url": "https://en.wikipedia.org/wiki/Tuberculosis"
+            },
+            {
+                "name": "primary affect",
+                "qid": "Q24084959"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "phenyl aminosalicylate",
+                "qid": "Q27195393"
+            }
+        ]
+    }
+}

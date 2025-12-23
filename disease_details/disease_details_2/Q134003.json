@@ -1,0 +1,39 @@
+{
+    "name": "hemophilia",
+    "qid": "Q134003",
+    "icd_10": "D68",
+    "description": "human genetic disease that impairs the body's ability to make blood clots, a process needed to stop bleeding",
+    "aliases": [
+        "haemophilia",
+        "hemophiliac",
+        "Haemophilia",
+        "Hemophilia (disorder)",
+        "Hemophilia NOS",
+        "obsolete hemophilia"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20woman%20suffering%20from%20Hemophilia.png",
+    "url": "https://en.wikipedia.org/wiki/Haemophilia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "inherited blood coagulation disease",
+                "qid": "Q18555031"
+            },
+            {
+                "name": "coagulation factor deficiency",
+                "qid": "Q18971506"
+            },
+            {
+                "name": "rare hemorrhagic disorder due to a constitutional coagulation factors defect",
+                "qid": "Q55788455"
+            }
+        ]
+    }
+}

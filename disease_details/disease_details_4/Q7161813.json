@@ -1,0 +1,22 @@
+{
+    "name": "Pelvis justo major",
+    "qid": "Q7161813",
+    "icd_10": "Q74.2",
+    "description": "medical condition",
+    "aliases": [
+        "giant pelvis",
+        "Giant pelvis",
+        "pelvis aequabiliter justo major"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pelvis_justo_major",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "congenital abnormality",
+                "qid": "Q2852249",
+                "url": "https://en.wikipedia.org/wiki/Congenital_abnormality"
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "name": "congenital megacalycosis",
+    "qid": "Q55788762",
+    "icd_10": "Q63.8",
+    "description": null,
+    "aliases": [
+        "Megacalyces",
+        "megacalycosis",
+        "Puigvert disease"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "nephromegaly",
+                "qid": "Q6995177",
+                "url": "https://en.wikipedia.org/wiki/Nephromegaly"
+            },
+            {
+                "name": "non-syndromic renal or urinary tract malformation",
+                "qid": "Q55788831"
+            }
+        ]
+    }
+}

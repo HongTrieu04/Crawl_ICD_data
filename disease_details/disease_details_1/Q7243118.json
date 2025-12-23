@@ -1,0 +1,24 @@
+{
+    "name": "primary cutaneous follicular lymphoma",
+    "qid": "Q7243118",
+    "icd_10": "C82.6",
+    "description": "medical condition",
+    "aliases": [
+        "Crosti's Disease",
+        "Cutaneous Follicle Center Lymphoma",
+        "Cutaneous Follicle Centre Lymphoma",
+        "PCFCL",
+        "primary cutaneous follicle center lymphoma",
+        "Reticulohistiocytoma of the Dorsum"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Primary_cutaneous_follicle_center_lymphoma",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "indolent primary cutaneous B-cell lymphoma",
+                "qid": "Q55785740"
+            }
+        ]
+    }
+}

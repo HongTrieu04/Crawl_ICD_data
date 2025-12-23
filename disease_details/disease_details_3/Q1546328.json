@@ -1,0 +1,45 @@
+{
+    "name": "tardive dyskinesia",
+    "qid": "Q1546328",
+    "icd_10": "G24.0",
+    "description": "human neurological disorder",
+    "aliases": [
+        "linguofacial dyskinesia",
+        "tardive dystonia",
+        "tardive oral dyskinesia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Tardive_dyskinesia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "genetic disease",
+                "qid": "Q200779",
+                "url": "https://en.wikipedia.org/wiki/Genetic_disorder"
+            },
+            {
+                "name": "advers effect of psychopharmacological medication",
+                "qid": "Q62665995"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "tetrabenazine",
+                "qid": "Q413050",
+                "url": "https://en.wikipedia.org/wiki/Tetrabenazine"
+            },
+            {
+                "name": "valbenazine",
+                "qid": "Q27089118",
+                "url": "https://en.wikipedia.org/wiki/Valbenazine"
+            }
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Adie-Critchley syndrome",
+    "qid": "Q38057954",
+    "icd_10": "C71.1",
+    "description": "neurological syndrome",
+    "aliases": [
+        "Forced grasping syndrome",
+        "Fulton's syndrome",
+        "Premotor cortex syndrome"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            },
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ]
+    }
+}

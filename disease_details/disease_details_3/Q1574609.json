@@ -1,0 +1,42 @@
+{
+    "name": "thin basement membrane disease",
+    "qid": "Q1574609",
+    "icd_10": "N05.8",
+    "description": "human disease",
+    "aliases": [
+        "BFH",
+        "benign familial hematuria",
+        "Benign familial hematuria",
+        "HEMATURIA, BENIGN FAMILIAL",
+        "HEMATURIA, BENIGN FAMILIAL; BFH",
+        "Thin Membrane Nephropathy",
+        "Thin-Basement-Membrane Nephropathy"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Thin_basement_membrane_disease",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "urinary system disease",
+                "qid": "Q7900883",
+                "url": "https://en.wikipedia.org/wiki/Urologic_disease"
+            },
+            {
+                "name": "genetic disease",
+                "qid": "Q200779",
+                "url": "https://en.wikipedia.org/wiki/Genetic_disorder"
+            },
+            {
+                "name": "autosomal dominant disease",
+                "qid": "Q18553439"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "nephrology",
+                "qid": "Q177635",
+                "url": "https://en.wikipedia.org/wiki/Nephrology"
+            }
+        ]
+    }
+}

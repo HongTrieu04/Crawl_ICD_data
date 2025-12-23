@@ -1,0 +1,100 @@
+{
+    "name": "human parainfluenza",
+    "qid": "Q2051533",
+    "icd_10": "B34.8",
+    "description": "viruses that cause human parainfluenza",
+    "aliases": [
+        "Human parainfluenza viruses"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Parainfluenza%20virus%20TEM%20PHIL%20271%20lores.jpg",
+    "url": "https://en.wikipedia.org/wiki/Human_parainfluenza_viruses",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "pediatrics",
+                "qid": "Q123028",
+                "url": "https://en.wikipedia.org/wiki/Pediatrics"
+            },
+            {
+                "name": "family medicine",
+                "qid": "Q3505712",
+                "url": "https://en.wikipedia.org/wiki/Family_medicine"
+            },
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "conjunctivitis",
+                "qid": "Q167844",
+                "url": "https://en.wikipedia.org/wiki/Conjunctivitis"
+            },
+            {
+                "name": "runny nose",
+                "qid": "Q1115038",
+                "url": "https://en.wikipedia.org/wiki/Rhinorrhea"
+            },
+            {
+                "name": "sore throat",
+                "qid": "Q1292082",
+                "url": "https://en.wikipedia.org/wiki/Sore_throat"
+            },
+            {
+                "name": "aphonia",
+                "qid": "Q514686",
+                "url": "https://en.wikipedia.org/wiki/Aphonia"
+            },
+            {
+                "name": "croup",
+                "qid": "Q836356",
+                "url": "https://en.wikipedia.org/wiki/Croup"
+            },
+            {
+                "name": "low-grade fever",
+                "qid": "Q480971"
+            },
+            {
+                "name": "barking cough",
+                "qid": "Q21513506"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "ribavirin",
+                "qid": "Q421862",
+                "url": "https://en.wikipedia.org/wiki/Ribavirin"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Human parainfluenza virus 3",
+                "qid": "Q18965254"
+            },
+            {
+                "name": "Human parainfluenza virus 1",
+                "qid": "Q18965253"
+            },
+            {
+                "name": "Human parainfluenza virus 4",
+                "qid": "Q18965258"
+            },
+            {
+                "name": "Human parainfluenza virus 2",
+                "qid": "Q18965256"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "Paramyxoviridae infectious disease",
+                "qid": "Q18975304"
+            },
+            {
+                "name": "acute viral respiratory tract infection",
+                "qid": "Q55790495"
+            }
+        ]
+    }
+}

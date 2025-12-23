@@ -1,0 +1,56 @@
+{
+    "name": "tennis elbow",
+    "qid": "Q736776",
+    "icd_10": "M77.1",
+    "description": "condition caused by repetitive movements in which the outer elbow becomes sore and tender, sometimes involving inflammation or small tendon tears",
+    "aliases": [
+        "lateral epicondylitis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tennis%20Elbow%20Anatomy.jpg",
+    "url": "https://en.wikipedia.org/wiki/Tennis_elbow",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "physical medicine and rehabilitation",
+                "qid": "Q2678675",
+                "url": "https://en.wikipedia.org/wiki/Physical_medicine_and_rehabilitation"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "Physical Therapy",
+                "qid": "Q15763171",
+                "url": "https://en.wikipedia.org/wiki/Physical_Therapy_%26_Rehabilitation_Journal"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "pain",
+                "qid": "Q81938",
+                "url": "https://en.wikipedia.org/wiki/Pain"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "occupational disease",
+                "qid": "Q637816",
+                "url": "https://en.wikipedia.org/wiki/Occupational_disease"
+            },
+            {
+                "name": "repetitive strain injury",
+                "qid": "Q877796",
+                "url": "https://en.wikipedia.org/wiki/Repetitive_strain_injury"
+            },
+            {
+                "name": "elbow tendinopathy",
+                "qid": "Q54947001"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "repetition",
+                "qid": "Q18699055"
+            }
+        ]
+    }
+}

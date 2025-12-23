@@ -1,0 +1,32 @@
+{
+    "name": "Sickle cell trait",
+    "qid": "Q3536635",
+    "icd_10": "D57.3",
+    "description": "medical condition",
+    "aliases": [
+        "Haemoglobin S trait",
+        "Hb-S trait",
+        "obsolete sickle cell trait",
+        "sickle cell trait",
+        "Sickle cell trait (disorder)",
+        "Sickle-cell trait"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Sickle_cell_trait",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "sickle-cell disease",
+                "qid": "Q185034",
+                "url": "https://en.wikipedia.org/wiki/Sickle_cell_disease"
+            }
+        ]
+    }
+}

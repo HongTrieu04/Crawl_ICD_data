@@ -1,0 +1,27 @@
+{
+    "name": "Fournier gangrene",
+    "qid": "Q616449",
+    "icd_10": "N76.8",
+    "description": "type of necrotizing fasciitis or gangrene affecting the external genitalia and/or perineum",
+    "aliases": [
+        "Fournier's gangrene"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Furnijerova%20gangrena.jpg",
+    "url": "https://en.wikipedia.org/wiki/Fournier_gangrene",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "necrotizing fasciitis",
+                "qid": "Q1145674",
+                "url": "https://en.wikipedia.org/wiki/Necrotizing_fasciitis"
+            }
+        ]
+    }
+}

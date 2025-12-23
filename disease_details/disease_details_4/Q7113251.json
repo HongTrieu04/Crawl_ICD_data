@@ -1,0 +1,28 @@
+{
+    "name": "ovarian pregnancy",
+    "qid": "Q7113251",
+    "icd_10": "O00.2",
+    "description": "medical condition",
+    "aliases": [
+        "oocyesis",
+        "ovariocyesis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Ovarian_pregnancy",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "obstetrics and gynaecology",
+                "qid": "Q80015",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics_and_gynaecology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "ectopic pregnancy",
+                "qid": "Q207087",
+                "url": "https://en.wikipedia.org/wiki/Ectopic_pregnancy"
+            }
+        ]
+    }
+}

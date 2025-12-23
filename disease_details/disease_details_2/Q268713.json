@@ -1,0 +1,109 @@
+{
+    "name": "mantle cell lymphoma",
+    "qid": "Q268713",
+    "icd_10": "C85.7",
+    "description": "B-cell lymphocytic neoplasm due to CD5 positive antigen-naive pregerminal center B-cell within the mantle zone that surrounds normal germinal center follicles",
+    "aliases": [
+        "LCM",
+        "MCL",
+        "Classical Mantle Cell Lymphoma",
+        "Lymphoma, Mantle-Cell",
+        "Mantle cell lymphoma",
+        "Mantle cell lymphoma, MCL",
+        "Mantle Zone Lymphoma"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mantle%20cell%20lymphoma%20-%20intermed%20mag.jpg",
+    "url": "https://en.wikipedia.org/wiki/Mantle_cell_lymphoma",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "B-cell lymphoma",
+                "qid": "Q4833719",
+                "url": "https://en.wikipedia.org/wiki/B-cell_lymphoma"
+            },
+            {
+                "name": "aggressive B-cell non-Hodgkin lymphoma",
+                "qid": "Q55787212"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "doxorubicin",
+                "qid": "Q18936",
+                "url": "https://en.wikipedia.org/wiki/Doxorubicin"
+            },
+            {
+                "name": "bortezomib",
+                "qid": "Q419319",
+                "url": "https://en.wikipedia.org/wiki/Bortezomib"
+            },
+            {
+                "name": "dexamethasone",
+                "qid": "Q422252",
+                "url": "https://en.wikipedia.org/wiki/Dexamethasone"
+            },
+            {
+                "name": "(RS)-lenalidomide",
+                "qid": "Q425681",
+                "url": "https://en.wikipedia.org/wiki/Lenalidomide"
+            },
+            {
+                "name": "cytarabine",
+                "qid": "Q180983",
+                "url": "https://en.wikipedia.org/wiki/Cytarabine"
+            },
+            {
+                "name": "obinutuzumab",
+                "qid": "Q389496",
+                "url": "https://en.wikipedia.org/wiki/Obinutuzumab"
+            },
+            {
+                "name": "rituximab",
+                "qid": "Q412323",
+                "url": "https://en.wikipedia.org/wiki/Rituximab"
+            },
+            {
+                "name": "acalabrutinib",
+                "qid": "Q23668732",
+                "url": "https://en.wikipedia.org/wiki/Acalabrutinib"
+            },
+            {
+                "name": "venetoclax",
+                "qid": "Q23671272",
+                "url": "https://en.wikipedia.org/wiki/Venetoclax"
+            },
+            {
+                "name": "bendamustine",
+                "qid": "Q425745",
+                "url": "https://en.wikipedia.org/wiki/Bendamustine"
+            },
+            {
+                "name": "idelalisib",
+                "qid": "Q5908266",
+                "url": "https://en.wikipedia.org/wiki/Idelalisib"
+            },
+            {
+                "name": "ibrutinib",
+                "qid": "Q5984881",
+                "url": "https://en.wikipedia.org/wiki/Ibrutinib"
+            },
+            {
+                "name": "temsirolimus",
+                "qid": "Q7699074",
+                "url": "https://en.wikipedia.org/wiki/Temsirolimus"
+            }
+        ]
+    }
+}

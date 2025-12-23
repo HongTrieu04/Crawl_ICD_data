@@ -1,0 +1,37 @@
+{
+    "name": "unilateral hearing loss",
+    "qid": "Q3813334",
+    "icd_10": "H90.7",
+    "description": "hearing impairment",
+    "aliases": [
+        "SSD",
+        "UHL",
+        "deafness, unilateral",
+        "DEAFNESS, UNILATERAL",
+        "Hearing Loss, Unilateral",
+        "single-sided deafness"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Unilateral_hearing_loss",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "sensorineural hearing loss",
+                "qid": "Q928697",
+                "url": "https://en.wikipedia.org/wiki/Sensorineural_hearing_loss"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "otolaryngology",
+                "qid": "Q189553",
+                "url": "https://en.wikipedia.org/wiki/Otorhinolaryngology"
+            },
+            {
+                "name": "audiology",
+                "qid": "Q569965",
+                "url": "https://en.wikipedia.org/wiki/Audiology"
+            }
+        ]
+    }
+}

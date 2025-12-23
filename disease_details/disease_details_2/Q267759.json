@@ -1,0 +1,41 @@
+{
+    "name": "disorganized schizophrenia",
+    "qid": "Q267759",
+    "icd_10": "F20.1",
+    "description": "mental disorder",
+    "aliases": [
+        "hebephrenia",
+        "hebephrenic schizophrenia",
+        "hebephrenic type schizophrenia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Disorganized_schizophrenia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "clinical psychology",
+                "qid": "Q199906",
+                "url": "https://en.wikipedia.org/wiki/Clinical_psychology"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "psychotherapy",
+                "qid": "Q183257",
+                "url": "https://en.wikipedia.org/wiki/Psychotherapy"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "schizophrenia",
+                "qid": "Q41112",
+                "url": "https://en.wikipedia.org/wiki/Schizophrenia"
+            }
+        ]
+    }
+}

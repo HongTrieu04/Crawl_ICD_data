@@ -1,0 +1,52 @@
+{
+    "name": "hepatic hemangioma",
+    "qid": "Q2596039",
+    "icd_10": "D18.0",
+    "description": "non-cancerous tumor of the liver",
+    "aliases": [
+        "Angioma of Liver",
+        "Angioma of the Liver",
+        "cavernous liver haemangioma",
+        "cavernous liver hemangioma",
+        "hemangioma of liver",
+        "Hemangioma of Liver",
+        "Hemangioma of the Liver",
+        "hepatic angioma",
+        "hepatic angioma (disorder)",
+        "hepatic haemangioma",
+        "Hepatic Hemangioma",
+        "Liver Angioma",
+        "liver hemangioma",
+        "Liver Hemangioma"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Cavernous_liver_hemangioma",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "hemangioma",
+                "qid": "Q861028",
+                "url": "https://en.wikipedia.org/wiki/Hemangioma"
+            },
+            {
+                "name": "hemangioma of intra-abdominal structure",
+                "qid": "Q18555112"
+            },
+            {
+                "name": "hepatic vascular disease",
+                "qid": "Q18555173"
+            },
+            {
+                "name": "liver neoplasm",
+                "qid": "Q18558073"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ]
+    }
+}

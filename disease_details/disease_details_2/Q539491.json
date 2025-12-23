@@ -1,0 +1,32 @@
+{
+    "name": "angiodysplasia",
+    "qid": "Q539491",
+    "icd_10": "K55.2",
+    "description": "vascular disease that is characterized as a small vascular malformation of the gut",
+    "aliases": [
+        "angiodysplasia of stomach and duodenum with hemorrhage"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Argon%20plasma%20coagulation.jpg",
+    "url": "https://en.wikipedia.org/wiki/Angiodysplasia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "vascular disease",
+                "qid": "Q1266890",
+                "url": "https://en.wikipedia.org/wiki/Vascular_disease"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "angiology",
+                "qid": "Q539690",
+                "url": "https://en.wikipedia.org/wiki/Angiology"
+            }
+        ]
+    }
+}

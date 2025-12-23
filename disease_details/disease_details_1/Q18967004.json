@@ -1,0 +1,29 @@
+{
+    "name": "spontaneous abortion complicated by genital tract and pelvic infectious disease",
+    "qid": "Q18967004",
+    "icd_10": "O03.5",
+    "description": "Human disease",
+    "aliases": [
+        "abortion with sepsis",
+        "septic abortion",
+        "obsolete spontaneous abortion complicated by genital tract and pelvic infectious disease",
+        "Septic abortion (disorder)",
+        "spontaneous abortion, unspecified, complicated by genital tract and pelvic infection"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "septic abortion",
+                "qid": "Q17011656",
+                "url": "https://en.wikipedia.org/wiki/Septic_abortion"
+            },
+            {
+                "name": "miscarriage",
+                "qid": "Q28693",
+                "url": "https://en.wikipedia.org/wiki/Miscarriage"
+            }
+        ]
+    }
+}

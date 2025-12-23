@@ -1,0 +1,29 @@
+{
+    "name": "stretch marks",
+    "qid": "Q596942",
+    "icd_10": "L90.6",
+    "description": "form of scarring on the skin",
+    "aliases": [
+        "stria",
+        "striae",
+        "Striae distensae"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Belly%20Strech%20Marks.jpg",
+    "url": "https://en.wikipedia.org/wiki/Stretch_marks",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "scar",
+                "qid": "Q206060",
+                "url": "https://en.wikipedia.org/wiki/Scar"
+            }
+        ]
+    }
+}

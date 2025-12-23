@@ -1,0 +1,240 @@
+{
+    "name": "typhoid fever",
+    "qid": "Q83319",
+    "icd_10": "A01.00",
+    "description": "bacterial infectious disorder contracted by consumption of food or drink contaminated with Salmonella typhi. This disorder is common in developing countries and can be treated with antibiotics.",
+    "aliases": [
+        "typhoid",
+        "nervous fever",
+        "abdominal typhus",
+        "enteric fever",
+        "Fever: [typhoid] or [enteric]",
+        "gastric fever",
+        "pythogenic fever",
+        "slow fever",
+        "Typhoid fever",
+        "Typhoid fever (disorder)",
+        "Typhoid infection"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Salmonella%20typhi%20typhoid%20fever%20PHIL%202215%20lores.jpg",
+    "url": "https://en.wikipedia.org/wiki/Typhoid_fever",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            },
+            {
+                "name": "fatigue",
+                "qid": "Q9690",
+                "url": "https://en.wikipedia.org/wiki/Fatigue"
+            },
+            {
+                "name": "diarrhea",
+                "qid": "Q40878",
+                "url": "https://en.wikipedia.org/wiki/Diarrhea"
+            },
+            {
+                "name": "delusion",
+                "qid": "Q189643",
+                "url": "https://en.wikipedia.org/wiki/Delusion"
+            },
+            {
+                "name": "bradycardia",
+                "qid": "Q217111",
+                "url": "https://en.wikipedia.org/wiki/Bradycardia"
+            },
+            {
+                "name": "pallor",
+                "qid": "Q2336398",
+                "url": "https://en.wikipedia.org/wiki/Pallor"
+            },
+            {
+                "name": "abdominal distention",
+                "qid": "Q2536390",
+                "url": "https://en.wikipedia.org/wiki/Abdominal_distension"
+            },
+            {
+                "name": "continuous fever",
+                "qid": "Q29644032",
+                "url": "https://en.wikipedia.org/wiki/Continuous_fever"
+            },
+            {
+                "name": "constipation",
+                "qid": "Q178436",
+                "url": "https://en.wikipedia.org/wiki/Constipation"
+            },
+            {
+                "name": "leukopenia",
+                "qid": "Q496812",
+                "url": "https://en.wikipedia.org/wiki/Leukopenia"
+            },
+            {
+                "name": "rash",
+                "qid": "Q653197",
+                "url": "https://en.wikipedia.org/wiki/Rash"
+            },
+            {
+                "name": "splenomegaly",
+                "qid": "Q1129121",
+                "url": "https://en.wikipedia.org/wiki/Splenomegaly"
+            },
+            {
+                "name": "hepatomegaly",
+                "qid": "Q1362864",
+                "url": "https://en.wikipedia.org/wiki/Hepatomegaly"
+            },
+            {
+                "name": "gastrointestinal bleeding",
+                "qid": "Q1495657",
+                "url": "https://en.wikipedia.org/wiki/Gastrointestinal_bleeding"
+            },
+            {
+                "name": "insomnia",
+                "qid": "Q1869874",
+                "url": "https://en.wikipedia.org/wiki/Insomnia"
+            },
+            {
+                "name": "prostration",
+                "qid": "Q3407854"
+            },
+            {
+                "name": "intestinal perforation",
+                "qid": "Q18554982"
+            },
+            {
+                "name": "confusion of consciousness",
+                "qid": "Q65202123"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "anthroponotic disease",
+                "qid": "Q1049711",
+                "url": "https://en.wikipedia.org/wiki/Reverse_zoonosis"
+            },
+            {
+                "name": "primary bacterial infectious disease",
+                "qid": "Q18553247"
+            },
+            {
+                "name": "pandemic and epidemic-prone diseases",
+                "qid": "Q131345497"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "antibiotic",
+                "qid": "Q12187",
+                "url": "https://en.wikipedia.org/wiki/Antibiotic"
+            },
+            {
+                "name": "blood transfusion",
+                "qid": "Q183605",
+                "url": "https://en.wikipedia.org/wiki/Blood_transfusion"
+            },
+            {
+                "name": "diet",
+                "qid": "Q474191",
+                "url": "https://en.wikipedia.org/wiki/Diet_(nutrition)"
+            },
+            {
+                "name": "surgical operation",
+                "qid": "Q600236",
+                "url": "https://en.wikipedia.org/wiki/Surgical_operation"
+            },
+            {
+                "name": "detoxification",
+                "qid": "Q1090423",
+                "url": "https://en.wikipedia.org/wiki/Detoxification"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "amoxicillin",
+                "qid": "Q201928",
+                "url": "https://en.wikipedia.org/wiki/Amoxicillin"
+            },
+            {
+                "name": "DL-ofloxacin",
+                "qid": "Q411447",
+                "url": "https://en.wikipedia.org/wiki/Ofloxacin"
+            },
+            {
+                "name": "cefotaxime",
+                "qid": "Q417968",
+                "url": "https://en.wikipedia.org/wiki/Cefotaxime"
+            },
+            {
+                "name": "aztreonam",
+                "qid": "Q418546",
+                "url": "https://en.wikipedia.org/wiki/Aztreonam"
+            },
+            {
+                "name": "ampicillin",
+                "qid": "Q244150",
+                "url": "https://en.wikipedia.org/wiki/Ampicillin"
+            },
+            {
+                "name": "ciprofloxacin",
+                "qid": "Q256602",
+                "url": "https://en.wikipedia.org/wiki/Ciprofloxacin"
+            },
+            {
+                "name": "gatifloxacin",
+                "qid": "Q2365016",
+                "url": "https://en.wikipedia.org/wiki/Gatifloxacin"
+            },
+            {
+                "name": "pefloxacin",
+                "qid": "Q2601859",
+                "url": "https://en.wikipedia.org/wiki/Pefloxacin"
+            },
+            {
+                "name": "cefixime",
+                "qid": "Q163901",
+                "url": "https://en.wikipedia.org/wiki/Cefixime"
+            },
+            {
+                "name": "azithromycin",
+                "qid": "Q165399",
+                "url": "https://en.wikipedia.org/wiki/Azithromycin"
+            },
+            {
+                "name": "ceftriaxone",
+                "qid": "Q421713",
+                "url": "https://en.wikipedia.org/wiki/Ceftriaxone"
+            },
+            {
+                "name": "levofloxacin",
+                "qid": "Q424193",
+                "url": "https://en.wikipedia.org/wiki/Levofloxacin"
+            },
+            {
+                "name": "imipen",
+                "qid": "Q425152",
+                "url": "https://en.wikipedia.org/wiki/Imipenem"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Salmonella enterica",
+                "qid": "Q2264864",
+                "url": "https://en.wikipedia.org/wiki/Salmonella_enterica"
+            }
+        ]
+    }
+}

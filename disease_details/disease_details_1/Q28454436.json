@@ -1,0 +1,56 @@
+{
+    "name": "failure of eruption of teeth",
+    "qid": "Q28454436",
+    "icd_10": "K00.8",
+    "description": "human disease",
+    "aliases": [
+        "PFE",
+        "Dental Noneruption",
+        "FAILURE OF TOOTH ERUPTION, PRIMARY",
+        "FAILURE OF TOOTH ERUPTION, PRIMARY; PFE",
+        "Posterior Openbite Malocclusion, Familial",
+        "Primary Failure of Eruption, Nonsyndromic",
+        "primary failure of tooth eruption",
+        "Primary retention of teeth",
+        "Unerupted Second Primary Molar"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Failure_of_eruption_of_teeth",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "genetic disease",
+                "qid": "Q200779",
+                "url": "https://en.wikipedia.org/wiki/Genetic_disorder"
+            },
+            {
+                "name": "dental disease",
+                "qid": "Q5259414",
+                "url": "https://en.wikipedia.org/wiki/Tooth_pathology"
+            },
+            {
+                "name": "teething disorder",
+                "qid": "Q1189911"
+            },
+            {
+                "name": "autosomal dominant disease",
+                "qid": "Q18553439"
+            },
+            {
+                "name": "rare genetic odontal or periodontal disorder",
+                "qid": "Q55788118"
+            },
+            {
+                "name": "unerupted tooth",
+                "qid": "Q67996045"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oral and maxillofacial surgery",
+                "qid": "Q504033",
+                "url": "https://en.wikipedia.org/wiki/Oral_and_maxillofacial_surgery"
+            }
+        ]
+    }
+}

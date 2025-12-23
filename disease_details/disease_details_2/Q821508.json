@@ -1,0 +1,32 @@
+{
+    "name": "sudden unexpected death in epilepsy",
+    "qid": "Q821508",
+    "icd_10": "G40",
+    "description": "fatal complication of epilepsy",
+    "aliases": [
+        "SUDEP"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Sudden_unexpected_death_in_epilepsy",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "sudden cardiac death",
+                "qid": "Q1329925",
+                "url": "https://en.wikipedia.org/wiki/Sudden_cardiac_death"
+            },
+            {
+                "name": "epilepsy",
+                "qid": "Q41571",
+                "url": "https://en.wikipedia.org/wiki/Epilepsy"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chronic prostatitis/chronic pelvic pain syndrome",
+    "qid": "Q4900222",
+    "icd_10": "N41",
+    "description": "medical condition",
+    "aliases": [
+        "chronic nonbacterial prostatitis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Chronic_prostatitis/chronic_pelvic_pain_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "urologic chronic pelvic pain syndrome",
+                "qid": "Q106179315",
+                "url": "https://en.wikipedia.org/wiki/Urologic_chronic_pelvic_pain_syndrome"
+            },
+            {
+                "name": "chronic prostatitis",
+                "qid": "Q11074137"
+            }
+        ]
+    }
+}

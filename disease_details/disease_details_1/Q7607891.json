@@ -1,0 +1,27 @@
+{
+    "name": "stenosing tenosynovitis",
+    "qid": "Q7607891",
+    "icd_10": "M65.4",
+    "description": "narrowing or stenosis of a tendon's retinacular sheath",
+    "aliases": [
+        "tendon entrapment"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Stenosing_tenosynovitis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "tenosynovitis",
+                "qid": "Q1505689",
+                "url": "https://en.wikipedia.org/wiki/Tenosynovitis"
+            }
+        ]
+    }
+}

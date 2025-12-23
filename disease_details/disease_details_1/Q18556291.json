@@ -1,0 +1,28 @@
+{
+    "name": "posterior mediastinum cancer",
+    "qid": "Q18556291",
+    "icd_10": "C38.2",
+    "description": "Human disease",
+    "aliases": [
+        "cancer of posterior mediastinum",
+        "malignant neoplasm of posterior mediastinum",
+        "malignant posterior mediastinum neoplasm"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "mediastinal cancer",
+                "qid": "Q5795828"
+            }
+        ]
+    }
+}

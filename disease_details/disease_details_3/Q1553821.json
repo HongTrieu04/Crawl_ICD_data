@@ -1,0 +1,18 @@
+{
+    "name": "saber shin",
+    "qid": "Q1553821",
+    "icd_10": "M21.86",
+    "description": "sharp anterior bowing, or convexity, of the tibia",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Saber_shin",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "musculoskeletal disorder",
+                "qid": "Q4116663",
+                "url": "https://en.wikipedia.org/wiki/Musculoskeletal_disorder"
+            }
+        ]
+    }
+}

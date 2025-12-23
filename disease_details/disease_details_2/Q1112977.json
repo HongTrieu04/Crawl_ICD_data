@@ -1,0 +1,44 @@
+{
+    "name": "syringomyelia",
+    "qid": "Q1112977",
+    "icd_10": "Q06.4",
+    "description": "congenital disorder of nervous system",
+    "aliases": [
+        "Syringomyelia"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Syringomyelia.jpg",
+    "url": "https://en.wikipedia.org/wiki/Syringomyelia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "spinal cord disease",
+                "qid": "Q2303951",
+                "url": "https://en.wikipedia.org/wiki/Myelopathy"
+            },
+            {
+                "name": "syrinx",
+                "qid": "Q7663375",
+                "url": "https://en.wikipedia.org/wiki/Syrinx_(medicine)"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Arnold-Chiari malformation",
+                "qid": "Q1071707",
+                "url": "https://en.wikipedia.org/wiki/Chiari_malformation"
+            }
+        ]
+    }
+}

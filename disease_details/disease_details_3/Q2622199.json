@@ -1,0 +1,281 @@
+{
+    "name": "upper respiratory tract infection",
+    "qid": "Q2622199",
+    "icd_10": "J06.9",
+    "description": "illness caused by an acute infection in including the nose, sinuses, pharynx, or larynx",
+    "aliases": [
+        "upper respiratory infection"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Upper_respiratory_tract_infection",
+    "details": {
+        "Drug used for treatment": [
+            {
+                "name": "amoxicillin",
+                "qid": "Q201928",
+                "url": "https://en.wikipedia.org/wiki/Amoxicillin"
+            },
+            {
+                "name": "ampicillin",
+                "qid": "Q244150",
+                "url": "https://en.wikipedia.org/wiki/Ampicillin"
+            },
+            {
+                "name": "ciprofloxacin",
+                "qid": "Q256602",
+                "url": "https://en.wikipedia.org/wiki/Ciprofloxacin"
+            },
+            {
+                "name": "amikacin",
+                "qid": "Q408529",
+                "url": "https://en.wikipedia.org/wiki/Amikacin"
+            },
+            {
+                "name": "clarithromycin",
+                "qid": "Q118551",
+                "url": "https://en.wikipedia.org/wiki/Clarithromycin"
+            },
+            {
+                "name": "cefixime",
+                "qid": "Q163901",
+                "url": "https://en.wikipedia.org/wiki/Cefixime"
+            },
+            {
+                "name": "azithromycin",
+                "qid": "Q165399",
+                "url": "https://en.wikipedia.org/wiki/Azithromycin"
+            },
+            {
+                "name": "cephalexin",
+                "qid": "Q411417",
+                "url": "https://en.wikipedia.org/wiki/Cefalexin"
+            },
+            {
+                "name": "DL-ofloxacin",
+                "qid": "Q411447",
+                "url": "https://en.wikipedia.org/wiki/Ofloxacin"
+            },
+            {
+                "name": "cefaclor",
+                "qid": "Q415167",
+                "url": "https://en.wikipedia.org/wiki/Cefaclor"
+            },
+            {
+                "name": "cefazolin",
+                "qid": "Q415739",
+                "url": "https://en.wikipedia.org/wiki/Cefazolin"
+            },
+            {
+                "name": "cefotaxime",
+                "qid": "Q417968",
+                "url": "https://en.wikipedia.org/wiki/Cefotaxime"
+            },
+            {
+                "name": "aztreonam",
+                "qid": "Q418546",
+                "url": "https://en.wikipedia.org/wiki/Aztreonam"
+            },
+            {
+                "name": "oxacillin",
+                "qid": "Q418725",
+                "url": "https://en.wikipedia.org/wiki/Oxacillin"
+            },
+            {
+                "name": "imipen",
+                "qid": "Q425152",
+                "url": "https://en.wikipedia.org/wiki/Imipenem"
+            },
+            {
+                "name": "trovafloxacin",
+                "qid": "Q544393",
+                "url": "https://en.wikipedia.org/wiki/Trovafloxacin"
+            },
+            {
+                "name": "cefapirin",
+                "qid": "Q549803",
+                "url": "https://en.wikipedia.org/wiki/Cefapirin"
+            },
+            {
+                "name": "ertapenem",
+                "qid": "Q553220",
+                "url": "https://en.wikipedia.org/wiki/Ertapenem"
+            },
+            {
+                "name": "ceftazidime",
+                "qid": "Q808845",
+                "url": "https://en.wikipedia.org/wiki/Ceftazidime"
+            },
+            {
+                "name": "sparfloxacin",
+                "qid": "Q976559",
+                "url": "https://en.wikipedia.org/wiki/Sparfloxacin"
+            },
+            {
+                "name": "loracarbef",
+                "qid": "Q979521",
+                "url": "https://en.wikipedia.org/wiki/Loracarbef"
+            },
+            {
+                "name": "ceftizoxime",
+                "qid": "Q1082945",
+                "url": "https://en.wikipedia.org/wiki/Ceftizoxime"
+            },
+            {
+                "name": "mezlocillin",
+                "qid": "Q3307752",
+                "url": "https://en.wikipedia.org/wiki/Mezlocillin"
+            },
+            {
+                "name": "cefditoren",
+                "qid": "Q3664175",
+                "url": "https://en.wikipedia.org/wiki/Cefditoren"
+            },
+            {
+                "name": "cyclacillin",
+                "qid": "Q5119441",
+                "url": "https://en.wikipedia.org/wiki/Ciclacillin"
+            },
+            {
+                "name": "meropenem",
+                "qid": "Q421670",
+                "url": "https://en.wikipedia.org/wiki/Meropenem"
+            },
+            {
+                "name": "ceftriaxone",
+                "qid": "Q421713",
+                "url": "https://en.wikipedia.org/wiki/Ceftriaxone"
+            },
+            {
+                "name": "kanamycin (extract)",
+                "qid": "Q421951",
+                "url": "https://en.wikipedia.org/wiki/Kanamycin"
+            },
+            {
+                "name": "cloxacillin",
+                "qid": "Q422219",
+                "url": "https://en.wikipedia.org/wiki/Cloxacillin"
+            },
+            {
+                "name": "gentamicin",
+                "qid": "Q422482",
+                "url": "https://en.wikipedia.org/wiki/Gentamicin"
+            },
+            {
+                "name": "trimethoprim",
+                "qid": "Q422665",
+                "url": "https://en.wikipedia.org/wiki/Trimethoprim"
+            },
+            {
+                "name": "piperacillin",
+                "qid": "Q423787",
+                "url": "https://en.wikipedia.org/wiki/Piperacillin"
+            },
+            {
+                "name": "levofloxacin",
+                "qid": "Q424193",
+                "url": "https://en.wikipedia.org/wiki/Levofloxacin"
+            },
+            {
+                "name": "moxifloxacin",
+                "qid": "Q424940",
+                "url": "https://en.wikipedia.org/wiki/Moxifloxacin"
+            },
+            {
+                "name": "cefdinir",
+                "qid": "Q1453445",
+                "url": "https://en.wikipedia.org/wiki/Cefdinir"
+            },
+            {
+                "name": "nafcillin",
+                "qid": "Q1638852",
+                "url": "https://en.wikipedia.org/wiki/Nafcillin"
+            },
+            {
+                "name": "tobramycin",
+                "qid": "Q1758380",
+                "url": "https://en.wikipedia.org/wiki/Tobramycin"
+            },
+            {
+                "name": "dicloxacillin",
+                "qid": "Q2313471",
+                "url": "https://en.wikipedia.org/wiki/Dicloxacillin"
+            },
+            {
+                "name": "cefadroxil",
+                "qid": "Q2319020",
+                "url": "https://en.wikipedia.org/wiki/Cefadroxil"
+            },
+            {
+                "name": "cefoperazone",
+                "qid": "Q2325775",
+                "url": "https://en.wikipedia.org/wiki/Cefoperazone"
+            },
+            {
+                "name": "cefoxitin",
+                "qid": "Q2353907",
+                "url": "https://en.wikipedia.org/wiki/Cefoxitin"
+            },
+            {
+                "name": "gatifloxacin",
+                "qid": "Q2365016",
+                "url": "https://en.wikipedia.org/wiki/Gatifloxacin"
+            },
+            {
+                "name": "cefamandole",
+                "qid": "Q2601530",
+                "url": "https://en.wikipedia.org/wiki/Cefamandole"
+            },
+            {
+                "name": "ticarcillin",
+                "qid": "Q2601832",
+                "url": "https://en.wikipedia.org/wiki/Ticarcillin"
+            },
+            {
+                "name": "cefotetan",
+                "qid": "Q2602246",
+                "url": "https://en.wikipedia.org/wiki/Cefotetan"
+            },
+            {
+                "name": "cephalothin",
+                "qid": "Q2736126",
+                "url": "https://en.wikipedia.org/wiki/Cefalotin"
+            },
+            {
+                "name": "bacampicillin",
+                "qid": "Q2878140",
+                "url": "https://en.wikipedia.org/wiki/Bacampicillin"
+            },
+            {
+                "name": "(E)-cefprozil",
+                "qid": "Q3231623",
+                "url": "https://en.wikipedia.org/wiki/Cefprozil"
+            },
+            {
+                "name": "cefpodoxime proxetil",
+                "qid": "Q1052672"
+            },
+            {
+                "name": "penicillin v potassium",
+                "qid": "Q27107637"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "respiratory tract infection",
+                "qid": "Q754447",
+                "url": "https://en.wikipedia.org/wiki/Respiratory_tract_infection"
+            },
+            {
+                "name": "upper respiratory tract disease",
+                "qid": "Q18558209"
+            }
+        ]
+    }
+}

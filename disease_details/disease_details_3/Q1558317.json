@@ -1,0 +1,34 @@
+{
+    "name": "focal hand dystonia",
+    "qid": "Q1558317",
+    "icd_10": "G25.8",
+    "description": "focal dystonia that affects a single muscle or small group of muscles in the hand resulting from involuntary muscular contractions",
+    "aliases": [
+        "hand and arm dystonia",
+        "organic writer's cramp",
+        "writer's cramp"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Writer%27s_cramp",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "focal dystonia",
+                "qid": "Q1428695",
+                "url": "https://en.wikipedia.org/wiki/Focal_dystonia"
+            },
+            {
+                "name": "occupational disease",
+                "qid": "Q637816",
+                "url": "https://en.wikipedia.org/wiki/Occupational_disease"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "orthopedics",
+                "qid": "Q216685",
+                "url": "https://en.wikipedia.org/wiki/Orthopedic_surgery"
+            }
+        ]
+    }
+}

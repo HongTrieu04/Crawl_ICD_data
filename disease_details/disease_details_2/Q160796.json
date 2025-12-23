@@ -1,0 +1,100 @@
+{
+    "name": "delirium",
+    "qid": "Q160796",
+    "icd_10": "F05",
+    "description": "severe confusion that develops quickly, and often fluctuates in intensity",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Delirium",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "psychology",
+                "qid": "Q9418",
+                "url": "https://en.wikipedia.org/wiki/Psychology"
+            },
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "memory disorder",
+                "qid": "Q3072083",
+                "url": "https://en.wikipedia.org/wiki/Memory_disorder"
+            },
+            {
+                "name": "psychosis",
+                "qid": "Q170082",
+                "url": "https://en.wikipedia.org/wiki/Psychosis"
+            },
+            {
+                "name": "sleep disorder",
+                "qid": "Q177190",
+                "url": "https://en.wikipedia.org/wiki/Sleep_disorder"
+            },
+            {
+                "name": "thought disorder",
+                "qid": "Q1188698",
+                "url": "https://en.wikipedia.org/wiki/Thought_disorder"
+            },
+            {
+                "name": "speech disorder",
+                "qid": "Q1282114",
+                "url": "https://en.wikipedia.org/wiki/Speech_disorder"
+            },
+            {
+                "name": "distraction",
+                "qid": "Q3030775",
+                "url": "https://en.wikipedia.org/wiki/Distraction"
+            },
+            {
+                "name": "affect lability",
+                "qid": "Q382255"
+            },
+            {
+                "name": "disorientation",
+                "qid": "Q1895873"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "trazodone",
+                "qid": "Q411457",
+                "url": "https://en.wikipedia.org/wiki/Trazodone"
+            },
+            {
+                "name": "haloperidol",
+                "qid": "Q251347",
+                "url": "https://en.wikipedia.org/wiki/Haloperidol"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "mental confusion",
+                "qid": "Q557945",
+                "url": "https://en.wikipedia.org/wiki/Confusion"
+            },
+            {
+                "name": "cognitive disorder",
+                "qid": "Q3065932",
+                "url": "https://en.wikipedia.org/wiki/Neurocognitive_disorder"
+            },
+            {
+                "name": "Q57823731",
+                "qid": "Q57823731"
+            },
+            {
+                "name": "neurological and physiological symptom",
+                "qid": "Q99860490"
+            }
+        ]
+    }
+}

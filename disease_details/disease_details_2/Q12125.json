@@ -1,0 +1,193 @@
+{
+    "name": "common cold",
+    "qid": "Q12125",
+    "icd_10": "J00",
+    "description": "common viral infection of upper respiratory tract",
+    "aliases": [
+        "acute coryza",
+        "acute nasopharyngitis",
+        "acute nasopharyngitis [common cold]",
+        "acute rhinitis",
+        "acute viral rhinopharyngitis",
+        "colders",
+        "head cold",
+        "Nasopharyngitis - acute",
+        "nasopharyngitis, acute",
+        "nasopharyngitis12",
+        "rhino-sinusitis",
+        "rhinopharyngitis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rhinovirus%20isosurface.png",
+    "url": "https://en.wikipedia.org/wiki/Common_cold",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            },
+            {
+                "name": "cough",
+                "qid": "Q35805",
+                "url": "https://en.wikipedia.org/wiki/Cough"
+            },
+            {
+                "name": "sneeze",
+                "qid": "Q35830",
+                "url": "https://en.wikipedia.org/wiki/Sneeze"
+            },
+            {
+                "name": "tinnitus",
+                "qid": "Q192309",
+                "url": "https://en.wikipedia.org/wiki/Tinnitus"
+            },
+            {
+                "name": "snoring",
+                "qid": "Q205835",
+                "url": "https://en.wikipedia.org/wiki/Snoring"
+            },
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "nasal congestion",
+                "qid": "Q3245488",
+                "url": "https://en.wikipedia.org/wiki/Nasal_congestion"
+            },
+            {
+                "name": "runny nose",
+                "qid": "Q1115038",
+                "url": "https://en.wikipedia.org/wiki/Rhinorrhea"
+            },
+            {
+                "name": "sore throat",
+                "qid": "Q1292082",
+                "url": "https://en.wikipedia.org/wiki/Sore_throat"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "upper respiratory tract infection",
+                "qid": "Q2622199",
+                "url": "https://en.wikipedia.org/wiki/Upper_respiratory_tract_infection"
+            },
+            {
+                "name": "nasopharyngitis",
+                "qid": "Q3936113"
+            },
+            {
+                "name": "upper respiratory tract disease",
+                "qid": "Q18558209"
+            },
+            {
+                "name": "Picornaviridae infectious disease",
+                "qid": "Q18975569"
+            },
+            {
+                "name": "acute viral respiratory tract infection",
+                "qid": "Q55790495"
+            },
+            {
+                "name": "viral rhinitis",
+                "qid": "Q111527211"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "otolaryngology",
+                "qid": "Q189553",
+                "url": "https://en.wikipedia.org/wiki/Otorhinolaryngology"
+            },
+            {
+                "name": "family medicine",
+                "qid": "Q3505712",
+                "url": "https://en.wikipedia.org/wiki/Family_medicine"
+            },
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "zinc chloride",
+                "qid": "Q204714",
+                "url": "https://en.wikipedia.org/wiki/Zinc_chloride"
+            },
+            {
+                "name": "guaifenesin",
+                "qid": "Q420682",
+                "url": "https://en.wikipedia.org/wiki/Guaifenesin"
+            },
+            {
+                "name": "sodium ascorbate",
+                "qid": "Q424551",
+                "url": "https://en.wikipedia.org/wiki/Sodium_ascorbate"
+            },
+            {
+                "name": "Vicks VapoRub",
+                "qid": "Q3123711",
+                "url": "https://en.wikipedia.org/wiki/Vicks_VapoRub"
+            },
+            {
+                "name": "paracetamol",
+                "qid": "Q57055",
+                "url": "https://en.wikipedia.org/wiki/Paracetamol"
+            },
+            {
+                "name": "zinc gluconate",
+                "qid": "Q3822815",
+                "url": "https://en.wikipedia.org/wiki/Zinc_gluconate"
+            },
+            {
+                "name": "(+)-norephedrin",
+                "qid": "Q413147"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Adenoviridae",
+                "qid": "Q193447",
+                "url": "https://en.wikipedia.org/wiki/Adenoviridae"
+            },
+            {
+                "name": "human bocavirus",
+                "qid": "Q667756",
+                "url": "https://en.wikipedia.org/wiki/Human_bocavirus"
+            },
+            {
+                "name": "human metapneumovirus",
+                "qid": "Q743338",
+                "url": "https://en.wikipedia.org/wiki/Human_metapneumovirus"
+            },
+            {
+                "name": "Rhinovirus",
+                "qid": "Q1351647",
+                "url": "https://en.wikipedia.org/wiki/Rhinovirus"
+            },
+            {
+                "name": "human parainfluenza",
+                "qid": "Q2051533",
+                "url": "https://en.wikipedia.org/wiki/Human_parainfluenza_viruses"
+            },
+            {
+                "name": "respiratory syncytial virus",
+                "qid": "Q1052913",
+                "url": "https://en.wikipedia.org/wiki/Respiratory_syncytial_virus"
+            },
+            {
+                "name": "Coronaviridae",
+                "qid": "Q1134583",
+                "url": "https://en.wikipedia.org/wiki/Coronaviridae"
+            }
+        ]
+    }
+}

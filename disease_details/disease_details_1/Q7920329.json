@@ -1,0 +1,27 @@
+{
+    "name": "ventriculitis",
+    "qid": "Q7920329",
+    "icd_10": "G04.9",
+    "description": "inflammation of the ventricles in the brain",
+    "aliases": [
+        "cerebral ventriculitis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gray734.png",
+    "url": "https://en.wikipedia.org/wiki/Ventriculitis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "encephalitis",
+                "qid": "Q199615",
+                "url": "https://en.wikipedia.org/wiki/Encephalitis"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ]
+    }
+}

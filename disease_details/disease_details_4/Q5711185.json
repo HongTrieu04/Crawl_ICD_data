@@ -1,0 +1,24 @@
+{
+    "name": "hematosalpinx",
+    "qid": "Q5711185",
+    "icd_10": "N83.6",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hematosalpinx",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "fallopian tube disease",
+                "qid": "Q18554947"
+            }
+        ]
+    }
+}

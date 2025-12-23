@@ -1,0 +1,56 @@
+{
+    "name": "Whipple disease",
+    "qid": "Q653078",
+    "icd_10": "K90.89",
+    "description": "Human disease",
+    "aliases": [
+        "intestinal lipodystrophy",
+        "Intestinal lipophagic granulomatosis",
+        "Secondary non-tropical sprue",
+        "Whipple's disease",
+        "Whipple's disease (disorder)"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Whipple2.jpg",
+    "url": "https://en.wikipedia.org/wiki/Whipple%27s_disease",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "bacterial infectious disease",
+                "qid": "Q727028",
+                "url": "https://en.wikipedia.org/wiki/Bacterial_disease"
+            },
+            {
+                "name": "intestinal disease",
+                "qid": "Q3055380",
+                "url": "https://en.wikipedia.org/wiki/Enteropathy"
+            },
+            {
+                "name": "infectious disease of the nervous system",
+                "qid": "Q10336461"
+            },
+            {
+                "name": "rare disease with myoclonus as a major feature",
+                "qid": "Q55787252"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "infection",
+                "qid": "Q166231",
+                "url": "https://en.wikipedia.org/wiki/Infection"
+            }
+        ]
+    }
+}

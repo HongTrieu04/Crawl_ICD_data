@@ -1,0 +1,21 @@
+{
+    "name": "sickle-cell/Hb-C disease with crisis",
+    "qid": "Q18967387",
+    "icd_10": "D57.2",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete sickle-cell/Hb-C disease with crisis",
+        "Sickle cell-hemoglobin C disease with crisis (disorder)"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "sickle-cell disease",
+                "qid": "Q185034",
+                "url": "https://en.wikipedia.org/wiki/Sickle_cell_disease"
+            }
+        ]
+    }
+}

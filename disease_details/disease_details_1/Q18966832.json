@@ -1,0 +1,17 @@
+{
+    "name": "dysplasia of prostate",
+    "qid": "Q18966832",
+    "icd_10": "N42.3",
+    "description": "Human disease",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "prostate disease",
+                "qid": "Q18556445"
+            }
+        ]
+    }
+}

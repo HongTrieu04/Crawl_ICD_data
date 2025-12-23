@@ -1,0 +1,36 @@
+{
+    "name": "torus mandibularis",
+    "qid": "Q5644824",
+    "icd_10": "K10.0",
+    "description": "bony growth in the mandible along the surface nearest to the tongue",
+    "aliases": [
+        "mandibular torus"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mandibulartori02-04-06.jpg",
+    "url": "https://en.wikipedia.org/wiki/Torus_mandibularis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "otolaryngology",
+                "qid": "Q189553",
+                "url": "https://en.wikipedia.org/wiki/Otorhinolaryngology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "exostosis",
+                "qid": "Q1384176",
+                "url": "https://en.wikipedia.org/wiki/Exostosis"
+            },
+            {
+                "name": "oral torus",
+                "qid": "Q7099406",
+                "url": "https://en.wikipedia.org/wiki/Oral_torus"
+            },
+            {
+                "name": "zone of body of mandible",
+                "qid": "Q66555869"
+            }
+        ]
+    }
+}

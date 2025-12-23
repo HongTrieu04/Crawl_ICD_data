@@ -1,0 +1,45 @@
+{
+    "name": "acute stress reaction",
+    "qid": "Q424221",
+    "icd_10": "F43.0",
+    "description": "psychological response to a terrifying, traumatic, or surprising experience",
+    "aliases": [
+        "shock",
+        "acute stress disorder",
+        "mental shock",
+        "psychological shock"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Acute_stress_reaction",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "psychology",
+                "qid": "Q9418",
+                "url": "https://en.wikipedia.org/wiki/Psychology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "anxiety disorder",
+                "qid": "Q544006",
+                "url": "https://en.wikipedia.org/wiki/Anxiety_disorder"
+            },
+            {
+                "name": "stress-related disorders",
+                "qid": "Q815296",
+                "url": "https://en.wikipedia.org/wiki/Stress-related_disorders"
+            }
+        ]
+    }
+}

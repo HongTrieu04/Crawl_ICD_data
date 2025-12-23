@@ -1,0 +1,42 @@
+{
+    "name": "paraneoplastic neurologic syndrome",
+    "qid": "Q3508804",
+    "icd_10": "G13.0",
+    "description": "paraneoplastic syndrome that involves the nervous system",
+    "aliases": [
+        "PCD",
+        "PNS",
+        "nervous system paraneoplastic syndrome",
+        "Paraneoplastic cerebellar degeneration",
+        "paraneoplastic neurological syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Paraneoplastic_cerebellar_degeneration",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "paraneoplastic syndrome",
+                "qid": "Q936417",
+                "url": "https://en.wikipedia.org/wiki/Paraneoplastic_syndrome"
+            },
+            {
+                "name": "nervous system paraneoplastic syndrome",
+                "qid": "Q54931551"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "nervous system",
+                "qid": "Q9404",
+                "url": "https://en.wikipedia.org/wiki/Nervous_system"
+            }
+        ]
+    }
+}

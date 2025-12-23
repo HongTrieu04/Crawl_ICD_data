@@ -1,0 +1,37 @@
+{
+    "name": "flat feet",
+    "qid": "Q653200",
+    "icd_10": "M21.4",
+    "description": "human foot arch that is very low",
+    "aliases": [
+        "flatfoot",
+        "fallen arch",
+        "fallen arches",
+        "pes planovalgus",
+        "pes planus",
+        "Pes Valgus"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Flatfoot.jpg",
+    "url": "https://en.wikipedia.org/wiki/Flat_feet",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "clinical sign",
+                "qid": "Q1441305",
+                "url": "https://en.wikipedia.org/wiki/Clinical_sign"
+            },
+            {
+                "name": "foot deformity",
+                "qid": "Q5465742",
+                "url": "https://en.wikipedia.org/wiki/Foot_deformity"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "podiatry",
+                "qid": "Q11865729",
+                "url": "https://en.wikipedia.org/wiki/Podiatry"
+            }
+        ]
+    }
+}

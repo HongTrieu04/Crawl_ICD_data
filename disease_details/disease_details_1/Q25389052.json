@@ -1,0 +1,30 @@
+{
+    "name": "sexual aversion",
+    "qid": "Q25389052",
+    "icd_10": "F52.1",
+    "description": "sexual dysfunction in which the prospect of sexual interaction produces sufficient anxiety or fear that sexual activity is avoided",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "sexology",
+                "qid": "Q170912",
+                "url": "https://en.wikipedia.org/wiki/Sexology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "hypoactive sexual desire disorder",
+                "qid": "Q303555",
+                "url": "https://en.wikipedia.org/wiki/Hypoactive_sexual_desire_disorder"
+            }
+        ]
+    }
+}

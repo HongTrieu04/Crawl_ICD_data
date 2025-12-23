@@ -1,0 +1,25 @@
+{
+    "name": "urinary burning",
+    "qid": "Q21109236",
+    "icd_10": "R30.9",
+    "description": null,
+    "aliases": [
+        "Burning micturition",
+        "Scalding pain on urination"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "dysuria",
+                "qid": "Q1269399",
+                "url": "https://en.wikipedia.org/wiki/Dysuria"
+            },
+            {
+                "name": "algiuria",
+                "qid": "Q1806356"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "pigeon toe",
+    "qid": "Q1524166",
+    "icd_10": "Q66.2",
+    "description": "condition which causes the toes to point inward when walking",
+    "aliases": [
+        "false clubfoot",
+        "in-toe gait",
+        "in-toeing",
+        "intoeing",
+        "metatarsus adductus",
+        "metatarsus varus"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/In-toeing.jpg",
+    "url": "https://en.wikipedia.org/wiki/Pigeon_toe",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "foot deformity",
+                "qid": "Q5465742",
+                "url": "https://en.wikipedia.org/wiki/Foot_deformity"
+            }
+        ]
+    }
+}

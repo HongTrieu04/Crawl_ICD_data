@@ -1,0 +1,49 @@
+{
+    "name": "tooth and nail syndrome",
+    "qid": "Q7824262",
+    "icd_10": "Q82.4",
+    "description": "Human disease",
+    "aliases": [
+        "Ectodermal Dysplasia 3, Tooth/Nail Type",
+        "Ectodermal Dysplasia 3, Witkop Type",
+        "Hypodontia and Nail Dysplasia",
+        "Hypodontia with Nail Dysplasia",
+        "Hypodontia-dysplasia of nails syndrome",
+        "Hypodontia-nail dysgenesis syndrome",
+        "Hypodontia-Nail Dysplasia",
+        "Hypoplastic enamel-onycholysis-hypohidrosis syndrome",
+        "Hypoplastic enamel-onycholysis-hypohidrosis syndrome (disorder)",
+        "Nail Dysplasia With Hypodontia",
+        "Tooth and Nail syndrome",
+        "Tooth-And-Nail Syndrome",
+        "Witkop syndrome",
+        "Witkop's syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Tooth_and_nail_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "ectodermal dysplasia",
+                "qid": "Q1323713",
+                "url": "https://en.wikipedia.org/wiki/Ectodermal_dysplasia"
+            },
+            {
+                "name": "syndrome",
+                "qid": "Q179630",
+                "url": "https://en.wikipedia.org/wiki/Syndrome"
+            },
+            {
+                "name": "malformation syndrome with odontal and/or periodontal component",
+                "qid": "Q55785406"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

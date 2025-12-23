@@ -1,0 +1,33 @@
+{
+    "name": "paranoid psychosis",
+    "qid": "Q3043345",
+    "icd_10": "F23.3",
+    "description": null,
+    "aliases": [
+        "paranoid"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "psychosis",
+                "qid": "Q170082",
+                "url": "https://en.wikipedia.org/wiki/Psychosis"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "paranoid delusion",
+                "qid": "Q3043347"
+            }
+        ]
+    }
+}

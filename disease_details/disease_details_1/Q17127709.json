@@ -1,0 +1,27 @@
+{
+    "name": "tibial hemimelia",
+    "qid": "Q17127709",
+    "icd_10": "Q72.5",
+    "description": "Tibial hemimelia is a rare congenital anomaly characterized by deficiency of the tibia with a relatively intact fibula",
+    "aliases": [
+        "Congenital absence of tibia",
+        "Congenital aplasia and dysplasia of the tibia with intact fibula",
+        "Congenital longitudinal deficiency of the tibia",
+        "Thm",
+        "Tibia, Absence of",
+        "tibial agenesis",
+        "TIBIAL HEMIMELIA",
+        "Tibial longitudinal meromelia"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "hemimelia",
+                "qid": "Q17627190",
+                "url": "https://en.wikipedia.org/wiki/Hemimelia"
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Swyer-James syndrome",
+    "qid": "Q826957",
+    "icd_10": "J43.0",
+    "description": "medical condition",
+    "aliases": [
+        "SJS",
+        "Swyer–James–Macleod's syndrome"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Swyer-James-Syndrom.jpg",
+    "url": "https://en.wikipedia.org/wiki/Swyer%E2%80%93James_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "lung disease",
+                "qid": "Q3392853"
+            }
+        ]
+    }
+}

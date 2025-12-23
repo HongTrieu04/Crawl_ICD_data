@@ -1,0 +1,40 @@
+{
+    "name": "splenomegaly",
+    "qid": "Q1129121",
+    "icd_10": "R16.1",
+    "description": "abnormal increased size of the spleen",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Splenomegaly",
+    "details": {
+        "Anatomical location": [
+            {
+                "name": "spleen",
+                "qid": "Q9371",
+                "url": "https://en.wikipedia.org/wiki/Spleen"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "general surgery",
+                "qid": "Q932510",
+                "url": "https://en.wikipedia.org/wiki/General_surgery"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "splenic disease",
+                "qid": "Q7578540",
+                "url": "https://en.wikipedia.org/wiki/Splenic_disease"
+            },
+            {
+                "name": "visceromegaly",
+                "qid": "Q1125753"
+            },
+            {
+                "name": "spleen symptom",
+                "qid": "Q102187499"
+            }
+        ]
+    }
+}

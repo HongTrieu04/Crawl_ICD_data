@@ -1,0 +1,161 @@
+{
+    "name": "anasarka",
+    "qid": "Q486485",
+    "icd_10": "R60.1",
+    "description": "medical condition characterized by widespread swelling",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Plasmodium%20falciparum%20nephrosis%20edema%20PHIL%203894%20lores.jpg",
+    "url": "https://en.wikipedia.org/wiki/Anasarca",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "edema",
+                "qid": "Q152234",
+                "url": "https://en.wikipedia.org/wiki/Edema"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "internal medicine",
+                "qid": "Q11180",
+                "url": "https://en.wikipedia.org/wiki/Internal_medicine"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "triamterene",
+                "qid": "Q221520",
+                "url": "https://en.wikipedia.org/wiki/Triamterene"
+            },
+            {
+                "name": "bumetanide",
+                "qid": "Q275926",
+                "url": "https://en.wikipedia.org/wiki/Bumetanide"
+            },
+            {
+                "name": "amiloride",
+                "qid": "Q419995",
+                "url": "https://en.wikipedia.org/wiki/Amiloride"
+            },
+            {
+                "name": "captopril",
+                "qid": "Q421119",
+                "url": "https://en.wikipedia.org/wiki/Captopril"
+            },
+            {
+                "name": "enalapril",
+                "qid": "Q422185",
+                "url": "https://en.wikipedia.org/wiki/Enalapril"
+            },
+            {
+                "name": "furosemide",
+                "qid": "Q388801",
+                "url": "https://en.wikipedia.org/wiki/Furosemide"
+            },
+            {
+                "name": "ethacrynic acid",
+                "qid": "Q418571",
+                "url": "https://en.wikipedia.org/wiki/Etacrynic_acid"
+            },
+            {
+                "name": "danazol",
+                "qid": "Q419652",
+                "url": "https://en.wikipedia.org/wiki/Danazol"
+            },
+            {
+                "name": "torasemide",
+                "qid": "Q419948",
+                "url": "https://en.wikipedia.org/wiki/Torasemide"
+            },
+            {
+                "name": "spironolactone",
+                "qid": "Q422188",
+                "url": "https://en.wikipedia.org/wiki/Spironolactone"
+            },
+            {
+                "name": "hydrochlorothiazide",
+                "qid": "Q423930",
+                "url": "https://en.wikipedia.org/wiki/Hydrochlorothiazide"
+            },
+            {
+                "name": "chlorthalidone",
+                "qid": "Q425289",
+                "url": "https://en.wikipedia.org/wiki/Chlortalidone"
+            },
+            {
+                "name": "indapamide",
+                "qid": "Q1078392",
+                "url": "https://en.wikipedia.org/wiki/Indapamide"
+            },
+            {
+                "name": "(RS)-bendroflumethiazide",
+                "qid": "Q1169164",
+                "url": "https://en.wikipedia.org/wiki/Bendroflumethiazide"
+            },
+            {
+                "name": "metolazone",
+                "qid": "Q1169561",
+                "url": "https://en.wikipedia.org/wiki/Metolazone"
+            },
+            {
+                "name": "trichlormethiazide",
+                "qid": "Q2072745",
+                "url": "https://en.wikipedia.org/wiki/Trichlormethiazide"
+            },
+            {
+                "name": "chlorothiazide",
+                "qid": "Q2603363",
+                "url": "https://en.wikipedia.org/wiki/Chlorothiazide"
+            },
+            {
+                "name": "benzthiazide",
+                "qid": "Q2889971",
+                "url": "https://en.wikipedia.org/wiki/Benzthiazide"
+            },
+            {
+                "name": "hydroflumethiazide",
+                "qid": "Q3791957",
+                "url": "https://en.wikipedia.org/wiki/Hydroflumethiazide"
+            },
+            {
+                "name": "loteprednol etabonate",
+                "qid": "Q3837481",
+                "url": "https://en.wikipedia.org/wiki/Loteprednol_etabonate"
+            },
+            {
+                "name": "cyclothiazide",
+                "qid": "Q5199066",
+                "url": "https://en.wikipedia.org/wiki/Cyclothiazide"
+            },
+            {
+                "name": "icodextrin",
+                "qid": "Q5986553",
+                "url": "https://en.wikipedia.org/wiki/Icodextrin"
+            },
+            {
+                "name": "methyclothiazide",
+                "qid": "Q6823919",
+                "url": "https://en.wikipedia.org/wiki/Methyclothiazide"
+            },
+            {
+                "name": "polythiazide",
+                "qid": "Q7227099",
+                "url": "https://en.wikipedia.org/wiki/Polythiazide"
+            },
+            {
+                "name": "quinethazone",
+                "qid": "Q7272222",
+                "url": "https://en.wikipedia.org/wiki/Quinethazone"
+            },
+            {
+                "name": "prednisolone",
+                "qid": "Q11426176",
+                "url": "https://en.wikipedia.org/wiki/Prednisolone"
+            },
+            {
+                "name": "ethacrynate sodium",
+                "qid": "Q27281933"
+            }
+        ]
+    }
+}

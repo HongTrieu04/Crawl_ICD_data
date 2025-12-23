@@ -1,0 +1,25 @@
+{
+    "name": "Subacromial bursitis",
+    "qid": "Q7630699",
+    "icd_10": "M75.5",
+    "description": "medical condition",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bursae%20shoulder%20joint%20normal.jpg",
+    "url": "https://en.wikipedia.org/wiki/Subacromial_bursitis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "bursitis",
+                "qid": "Q645363",
+                "url": "https://en.wikipedia.org/wiki/Bursitis"
+            }
+        ]
+    }
+}

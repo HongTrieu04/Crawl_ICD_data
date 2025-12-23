@@ -1,0 +1,32 @@
+{
+    "name": "shoulder fracture",
+    "qid": "Q56301149",
+    "icd_10": "S42.9",
+    "description": "fractures of the proximal humerus (not joint)",
+    "aliases": [
+        "Shoulder Fractures"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Shoulder%20fracture%201%20--%20Smart-Servier.png",
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "shoulder problem",
+                "qid": "Q7502714",
+                "url": "https://en.wikipedia.org/wiki/Shoulder_problems"
+            },
+            {
+                "name": "bone fracture",
+                "qid": "Q68833",
+                "url": "https://en.wikipedia.org/wiki/Bone_fracture"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "shoulder",
+                "qid": "Q16363",
+                "url": "https://en.wikipedia.org/wiki/Shoulder"
+            }
+        ]
+    }
+}

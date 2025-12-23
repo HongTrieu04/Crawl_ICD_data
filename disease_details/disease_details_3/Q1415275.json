@@ -1,0 +1,76 @@
+{
+    "name": "spinal cord injury",
+    "qid": "Q1415275",
+    "icd_10": "T09.3",
+    "description": "injury to the spine on the back side of humans",
+    "aliases": [
+        "SCI",
+        "broken spinal cord",
+        "spinal cord damage",
+        "spinal cord impairment",
+        "spinal cord injuries"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lesionmedula.jpg",
+    "url": "https://en.wikipedia.org/wiki/Spinal_cord_injury",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "paralysis",
+                "qid": "Q107231",
+                "url": "https://en.wikipedia.org/wiki/Paralysis"
+            },
+            {
+                "name": "hypoesthesia",
+                "qid": "Q1641556",
+                "url": "https://en.wikipedia.org/wiki/Hypoesthesia"
+            },
+            {
+                "name": "chronic pain",
+                "qid": "Q1088113",
+                "url": "https://en.wikipedia.org/wiki/Chronic_pain"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurosurgery",
+                "qid": "Q188449",
+                "url": "https://en.wikipedia.org/wiki/Neurosurgery"
+            },
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "spinal cord disease",
+                "qid": "Q2303951",
+                "url": "https://en.wikipedia.org/wiki/Myelopathy"
+            },
+            {
+                "name": "spine trauma",
+                "qid": "Q3997975"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "(RS)-baclofen",
+                "qid": "Q413717",
+                "url": "https://en.wikipedia.org/wiki/Baclofen"
+            },
+            {
+                "name": "dantrolene",
+                "qid": "Q421274",
+                "url": "https://en.wikipedia.org/wiki/Dantrolene"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "spinal cord",
+                "qid": "Q9606",
+                "url": "https://en.wikipedia.org/wiki/Spinal_cord"
+            }
+        ]
+    }
+}

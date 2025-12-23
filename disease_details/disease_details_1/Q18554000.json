@@ -1,0 +1,40 @@
+{
+    "name": "Brucella suis brucellosis",
+    "qid": "Q18554000",
+    "icd_10": "A23.2",
+    "description": "Human disease",
+    "aliases": [
+        "Porcine brucellosis",
+        "Swine brucellosis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Symptoms": [
+            {
+                "name": "chills",
+                "qid": "Q2260058",
+                "url": "https://en.wikipedia.org/wiki/Chills"
+            },
+            {
+                "name": "arthralgia",
+                "qid": "Q683498",
+                "url": "https://en.wikipedia.org/wiki/Arthralgia"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "brucellosis",
+                "qid": "Q156050",
+                "url": "https://en.wikipedia.org/wiki/Brucellosis"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "infection",
+                "qid": "Q166231",
+                "url": "https://en.wikipedia.org/wiki/Infection"
+            }
+        ]
+    }
+}

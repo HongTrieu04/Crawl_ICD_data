@@ -1,0 +1,17 @@
+{
+    "name": "acute laryngotracheitis",
+    "qid": "Q11800699",
+    "icd_10": "J04.2",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "laryngotracheitis",
+                "qid": "Q18928323"
+            }
+        ]
+    }
+}

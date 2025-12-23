@@ -1,0 +1,71 @@
+{
+    "name": "problem gambling",
+    "qid": "Q748309",
+    "icd_10": "F63.0",
+    "description": "repetitive gambling despite demonstrable harm and adverse consequences",
+    "aliases": [
+        "gambling disorder",
+        "pathological gambling"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Problem_gambling",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "clinical psychology",
+                "qid": "Q199906",
+                "url": "https://en.wikipedia.org/wiki/Clinical_psychology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "impulse control disorder",
+                "qid": "Q1201835",
+                "url": "https://en.wikipedia.org/wiki/Impulse-control_disorder"
+            },
+            {
+                "name": "behavioral addiction",
+                "qid": "Q1513352",
+                "url": "https://en.wikipedia.org/wiki/Behavioral_addiction"
+            },
+            {
+                "name": "social issue",
+                "qid": "Q1920219",
+                "url": "https://en.wikipedia.org/wiki/Social_issue"
+            },
+            {
+                "name": "money disorder",
+                "qid": "Q6899222",
+                "url": "https://en.wikipedia.org/wiki/Money_disorder"
+            },
+            {
+                "name": "poverty factor",
+                "qid": "Q116005587"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "psychotherapy",
+                "qid": "Q183257",
+                "url": "https://en.wikipedia.org/wiki/Psychotherapy"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "gambling",
+                "qid": "Q11416",
+                "url": "https://en.wikipedia.org/wiki/Gambling"
+            }
+        ]
+    }
+}

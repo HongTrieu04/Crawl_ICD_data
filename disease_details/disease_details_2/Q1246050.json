@@ -1,0 +1,69 @@
+{
+    "name": "visual verbal agnosia",
+    "qid": "Q1246050",
+    "icd_10": "R48.0",
+    "description": "an agnosia that is a loss of the ability to read and comprehend the meaning of written words",
+    "aliases": [
+        "acquired dyslexia",
+        "Acquired Alexia",
+        "Acquired Global Dyslexia",
+        "Acquired Reading Disabilities",
+        "Acquired Reading Disability",
+        "Acquired Spelling Dyslexia",
+        "Acquired Word Blindness",
+        "Acquired Word Blindnesses",
+        "alexia",
+        "Alexia, Acquired",
+        "Aphemesthaesia",
+        "Blindness, Acquired Word",
+        "Blindnesses, Acquired Word",
+        "Disabilities, Acquired Reading",
+        "Disability, Acquired Reading",
+        "Dyslexia, Acquired Global",
+        "Dyslexia, Acquired Spelling",
+        "Global Dyslexia, Acquired",
+        "Reading Disabilities, Acquired",
+        "Reading Disability, Acquired",
+        "Spelling Dyslexia, Acquired",
+        "Word Blindness, Acquired",
+        "Word Blindnesses, Acquired"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "neuropsychology",
+                "qid": "Q3872",
+                "url": "https://en.wikipedia.org/wiki/Neuropsychology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "reading disorder and écrites disorder",
+                "qid": "Q17077617",
+                "url": "https://en.wikipedia.org/wiki/Reading_disability"
+            },
+            {
+                "name": "agnosia",
+                "qid": "Q220322",
+                "url": "https://en.wikipedia.org/wiki/Agnosia"
+            },
+            {
+                "name": "aphasia",
+                "qid": "Q2836",
+                "url": "https://en.wikipedia.org/wiki/Aphasia"
+            }
+        ]
+    }
+}

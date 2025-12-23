@@ -1,0 +1,37 @@
+{
+    "name": "benign epilepsy with centrotemporal spikes",
+    "qid": "Q488214",
+    "icd_10": "G40.0",
+    "description": "the most common epilepsy syndrome in childhood which usually subsides with age",
+    "aliases": [
+        "BCECTS",
+        "benign childhood epilepsy with centrotemporal spike",
+        "benign Rolandic epilepsy",
+        "benign Rolandic epilepsy (disorder)",
+        "Epilepsy, Rolandic",
+        "rolandic epilepsy",
+        "sylvan seizures"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Rolandic_epilepsy",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "epilepsy syndrome",
+                "qid": "Q55785625",
+                "url": "https://en.wikipedia.org/wiki/Epilepsy_syndromes"
+            },
+            {
+                "name": "childhood electroclinical syndrome",
+                "qid": "Q18553414"
+            }
+        ]
+    }
+}

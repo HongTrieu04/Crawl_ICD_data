@@ -1,0 +1,20 @@
+{
+    "name": "Far-Eastern tick-borne encephalitis",
+    "qid": "Q2381549",
+    "icd_10": "A84.0",
+    "description": null,
+    "aliases": [
+        "Russian spring summer encephalitis v"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "tick-borne encephalitis",
+                "qid": "Q326663",
+                "url": "https://en.wikipedia.org/wiki/Tick-borne_encephalitis"
+            }
+        ]
+    }
+}

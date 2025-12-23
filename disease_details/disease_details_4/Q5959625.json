@@ -1,0 +1,35 @@
+{
+    "name": "hypoglossia",
+    "qid": "Q5959625",
+    "icd_10": "Q38.3",
+    "description": "short, incompletely developed tongue",
+    "aliases": [
+        "microglossia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hypoglossia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "tongue disease",
+                "qid": "Q7107436",
+                "url": "https://en.wikipedia.org/wiki/Tongue_disease"
+            },
+            {
+                "name": "rare head and neck malformation",
+                "qid": "Q55785495"
+            },
+            {
+                "name": "rare maxillo-facial surgical disease",
+                "qid": "Q55788454"
+            }
+        ]
+    }
+}

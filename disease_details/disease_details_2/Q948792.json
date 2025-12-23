@@ -1,0 +1,24 @@
+{
+    "name": "pneumomediastinum",
+    "qid": "Q948792",
+    "icd_10": "P25.2",
+    "description": "perinatal respiratory disorder",
+    "aliases": [
+        "mediastinal emphysema"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pneumomediastinum",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "emphysema",
+                "qid": "Q1339243",
+                "url": "https://en.wikipedia.org/wiki/Pneumatosis"
+            },
+            {
+                "name": "perinatal respiratory disorder",
+                "qid": "Q18966634"
+            }
+        ]
+    }
+}

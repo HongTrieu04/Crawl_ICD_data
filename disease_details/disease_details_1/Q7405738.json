@@ -1,0 +1,27 @@
+{
+    "name": "salpingitis isthmica nodosa",
+    "qid": "Q7405738",
+    "icd_10": "N70.9",
+    "description": "Human disease",
+    "aliases": [
+        "Salpingitis Isthmica Nodosa",
+        "Salpingitis isthmica nodosa (disorder)"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Salpingitis_isthmica_nodosa",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gynaecology",
+                "qid": "Q1221899",
+                "url": "https://en.wikipedia.org/wiki/Gynaecology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "chronic salpingitis",
+                "qid": "Q18556977"
+            }
+        ]
+    }
+}

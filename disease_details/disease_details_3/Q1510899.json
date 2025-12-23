@@ -1,0 +1,27 @@
+{
+    "name": "hemoperitoneum",
+    "qid": "Q1510899",
+    "icd_10": "K66.1",
+    "description": "disease",
+    "aliases": [
+        "Haemoperitoneum",
+        "Intraabdominal bleeding, hemoperitoneum"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hemoperitoneum",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "peritoneal disease",
+                "qid": "Q54935444"
+            }
+        ]
+    }
+}

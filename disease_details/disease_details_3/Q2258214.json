@@ -1,0 +1,18 @@
+{
+    "name": "cephalic presentation",
+    "qid": "Q2258214",
+    "icd_10": "O80.0",
+    "description": "baby position during birth",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Cephalic_presentation",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "obstetrics",
+                "qid": "Q5284418",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics"
+            }
+        ]
+    }
+}

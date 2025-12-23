@@ -1,0 +1,24 @@
+{
+    "name": "primary hypotonic uterine dysfunction",
+    "qid": "Q19001121",
+    "icd_10": "O62.0",
+    "description": "Human disease",
+    "aliases": [
+        "antepartum primary uterine inertia",
+        "obsolete primary hypotonic uterine dysfunction",
+        "primary uterine inertia - delivered",
+        "primary uterine inertia - delivered (disorder)",
+        "primary uterine inertia, with delivery"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "obstetric labor complication",
+                "qid": "Q7075540",
+                "url": "https://en.wikipedia.org/wiki/Obstetric_labor_complication"
+            }
+        ]
+    }
+}

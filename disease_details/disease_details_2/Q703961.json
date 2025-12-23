@@ -1,0 +1,46 @@
+{
+    "name": "transmissible spongiform encephalopathy",
+    "qid": "Q703961",
+    "icd_10": "A81",
+    "description": "group of brain diseases induced by prion proteins",
+    "aliases": [
+        "TSE",
+        "Prion disease pathway",
+        "human prion disease",
+        "Prion disease",
+        "prion diseases",
+        "prion induced disorder",
+        "Prion protein disease",
+        "Spongiform Encephalopathy",
+        "Transmissible spongiform encephalopathy"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Transmissible_spongiform_encephalopathy",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "encephalopathy",
+                "qid": "Q576349",
+                "url": "https://en.wikipedia.org/wiki/Encephalopathy"
+            },
+            {
+                "name": "neurodegenerative disease with dementia",
+                "qid": "Q55346096"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "prion",
+                "qid": "Q47051",
+                "url": "https://en.wikipedia.org/wiki/Prion"
+            }
+        ]
+    }
+}

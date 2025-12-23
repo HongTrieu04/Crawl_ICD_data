@@ -1,0 +1,36 @@
+{
+    "name": "Agalactia",
+    "qid": "Q390217",
+    "icd_10": "O92.3",
+    "description": "Human disease",
+    "aliases": [
+        "agalactia",
+        "agalactorrhea",
+        "Failure of lactation - delivered",
+        "Failure of lactation - delivered (disorder)",
+        "Failure of lactation, with delivery, with or without mention of antepartum condition",
+        "obsolete agalactia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Lactation_failure",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "low milk supply",
+                "qid": "Q1641325",
+                "url": "https://en.wikipedia.org/wiki/Low_milk_supply"
+            },
+            {
+                "name": "lactation disorder",
+                "qid": "Q19001407"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "obstetrics",
+                "qid": "Q5284418",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics"
+            }
+        ]
+    }
+}

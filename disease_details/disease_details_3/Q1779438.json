@@ -1,0 +1,21 @@
+{
+    "name": "piblokto",
+    "qid": "Q1779438",
+    "icd_10": "F44.7",
+    "description": "culture-bound syndrome",
+    "aliases": [
+        "arctic hysteria",
+        "pibloktoq"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Piblokto",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "hysteria",
+                "qid": "Q144119",
+                "url": "https://en.wikipedia.org/wiki/Hysteria"
+            }
+        ]
+    }
+}

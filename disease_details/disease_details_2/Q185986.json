@@ -1,0 +1,60 @@
+{
+    "name": "Factor V Leiden",
+    "qid": "Q185986",
+    "icd_10": "D68.5",
+    "description": "variant causing increased blood clotting",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Factor_V_Leiden",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "activated protein C resistance",
+                "qid": "Q296104",
+                "url": "https://en.wikipedia.org/wiki/Activated_protein_C_resistance"
+            },
+            {
+                "name": "inherited blood coagulation disease",
+                "qid": "Q18555031"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "swelling",
+                "qid": "Q109186",
+                "url": "https://en.wikipedia.org/wiki/Swelling_(medical)"
+            },
+            {
+                "name": "pain",
+                "qid": "Q81938",
+                "url": "https://en.wikipedia.org/wiki/Pain"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "genetic disease",
+                "qid": "Q200779",
+                "url": "https://en.wikipedia.org/wiki/Genetic_disorder"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "anticoagulant",
+                "qid": "Q215118",
+                "url": "https://en.wikipedia.org/wiki/Anticoagulant"
+            }
+        ]
+    }
+}

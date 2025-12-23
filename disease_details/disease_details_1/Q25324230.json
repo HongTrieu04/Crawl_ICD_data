@@ -1,0 +1,47 @@
+{
+    "name": "pancreatic cyst",
+    "qid": "Q25324230",
+    "icd_10": "K86.2",
+    "description": "medical condition",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Large%20pancreatic%20cyst%20causing%20symptoms%20of%20early%20satiety.jpg",
+    "url": "https://en.wikipedia.org/wiki/Pancreatic_cyst",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            },
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "cyst",
+                "qid": "Q193211",
+                "url": "https://en.wikipedia.org/wiki/Cyst"
+            },
+            {
+                "name": "pancreas disease",
+                "qid": "Q7130407",
+                "url": "https://en.wikipedia.org/wiki/Pancreatic_disease"
+            },
+            {
+                "name": "cystic lesions of the pancreas",
+                "qid": "Q15733958",
+                "url": "https://en.wikipedia.org/wiki/Cystic_lesions_of_the_pancreas"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "pancreas",
+                "qid": "Q9618",
+                "url": "https://en.wikipedia.org/wiki/Pancreas"
+            }
+        ]
+    }
+}

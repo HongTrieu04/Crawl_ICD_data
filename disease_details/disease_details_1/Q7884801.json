@@ -1,0 +1,25 @@
+{
+    "name": "unicornuate uterus",
+    "qid": "Q7884801",
+    "icd_10": "Q51.4",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Unicornuate_uterus",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gynaecology",
+                "qid": "Q1221899",
+                "url": "https://en.wikipedia.org/wiki/Gynaecology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "uterine malformation",
+                "qid": "Q2034363",
+                "url": "https://en.wikipedia.org/wiki/Uterine_malformation"
+            }
+        ]
+    }
+}

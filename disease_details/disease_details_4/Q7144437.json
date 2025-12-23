@@ -1,0 +1,44 @@
+{
+    "name": "patellofemoral pain syndrome",
+    "qid": "Q7144437",
+    "icd_10": "M22.2",
+    "description": "Human disease",
+    "aliases": [
+        "runner's knee"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Patellofemoral_pain_syndrome",
+    "details": {
+        "Possible treatment": [
+            {
+                "name": "athletic taping",
+                "qid": "Q1856025",
+                "url": "https://en.wikipedia.org/wiki/Athletic_taping"
+            },
+            {
+                "name": "orthotic device",
+                "qid": "Q1410069",
+                "url": "https://en.wikipedia.org/wiki/Orthoses"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "knee pain",
+                "qid": "Q6421876",
+                "url": "https://en.wikipedia.org/wiki/Knee_pain"
+            },
+            {
+                "name": "arthropathy",
+                "qid": "Q708176",
+                "url": "https://en.wikipedia.org/wiki/Arthropathy"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ]
+    }
+}

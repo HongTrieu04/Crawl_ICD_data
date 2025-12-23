@@ -1,0 +1,37 @@
+{
+    "name": "acquired C1 esterase inhibitor deficiency",
+    "qid": "Q4674768",
+    "icd_10": "D84.1",
+    "description": "Acquired angioedema (AAE) is characterized by the occurrence of transitory and recurrent subcutaneous and/or submucosal edemas resulting in swelling and/or abdominal pain due to an acquired C1 inhibitor (C1-INH) deficiency",
+    "aliases": [
+        "AAE",
+        "Acquired angioedema",
+        "Acquired angioneurotic edema",
+        "Acquired bradykinine-induced angioedema",
+        "Acquired C1 inhibitor deficiency",
+        "Acquired non histamine-induced angioedema",
+        "Angioedema, acquired"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Acquired_C1_esterase_inhibitor_deficiency",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "angioedema",
+                "qid": "Q1129007",
+                "url": "https://en.wikipedia.org/wiki/Angioedema"
+            },
+            {
+                "name": "non-histaminic angioedema",
+                "qid": "Q55788444"
+            }
+        ]
+    }
+}

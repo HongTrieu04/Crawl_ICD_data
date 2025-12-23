@@ -1,0 +1,29 @@
+{
+    "name": "eye pain",
+    "qid": "Q21077147",
+    "icd_10": "H57.1",
+    "description": "medical symptom",
+    "aliases": [
+        "aching eyes",
+        "eye ache",
+        "sore eyes",
+        "Eye pain",
+        "ocular pain",
+        "ophthomalgia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Eye_pain",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "pain",
+                "qid": "Q81938",
+                "url": "https://en.wikipedia.org/wiki/Pain"
+            },
+            {
+                "name": "eye symptom",
+                "qid": "Q102186610"
+            }
+        ]
+    }
+}

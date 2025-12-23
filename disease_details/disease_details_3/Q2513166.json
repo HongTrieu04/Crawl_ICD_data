@@ -1,0 +1,23 @@
+{
+    "name": "venous hypertension",
+    "qid": "Q2513166",
+    "icd_10": "I87.3",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "vein disorder",
+                "qid": "Q7918687",
+                "url": "https://en.wikipedia.org/wiki/Vein_disorders"
+            },
+            {
+                "name": "arterial hypertension",
+                "qid": "Q41861",
+                "url": "https://en.wikipedia.org/wiki/Hypertension"
+            }
+        ]
+    }
+}

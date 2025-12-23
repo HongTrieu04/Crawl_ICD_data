@@ -1,0 +1,24 @@
+{
+    "name": "saddle nose",
+    "qid": "Q478112",
+    "icd_10": "M95.0",
+    "description": "condition characterized by a loss of height of the nose, because of the collapse of the bridge",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Saddle_nose",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "plastic surgery",
+                "qid": "Q182442",
+                "url": "https://en.wikipedia.org/wiki/Plastic_surgery"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "nose disease",
+                "qid": "Q10267828"
+            }
+        ]
+    }
+}

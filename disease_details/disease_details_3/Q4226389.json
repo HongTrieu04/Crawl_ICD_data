@@ -1,0 +1,31 @@
+{
+    "name": "dermal myiasis",
+    "qid": "Q4226389",
+    "icd_10": "B87.0",
+    "description": "human disease",
+    "aliases": [
+        "Cutaneous myiasis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "myiasis",
+                "qid": "Q304601",
+                "url": "https://en.wikipedia.org/wiki/Myiasis"
+            },
+            {
+                "name": "parasitic skin disease",
+                "qid": "Q54911414"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "name": "fever",
+    "qid": "Q38933",
+    "icd_10": "R50",
+    "description": "common medical sign characterized by elevated body temperature",
+    "aliases": [
+        "pyrexia",
+        "febrile response",
+        "pyrrhexia"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Clinical%20thermometer%2038.7.JPG",
+    "url": "https://en.wikipedia.org/wiki/Fever",
+    "details": {
+        "Drug used for treatment": [
+            {
+                "name": "aspirin",
+                "qid": "Q18216",
+                "url": "https://en.wikipedia.org/wiki/Aspirin"
+            },
+            {
+                "name": "diflunisal",
+                "qid": "Q2602750",
+                "url": "https://en.wikipedia.org/wiki/Diflunisal"
+            },
+            {
+                "name": "naproxen",
+                "qid": "Q1215575",
+                "url": "https://en.wikipedia.org/wiki/Naproxen"
+            },
+            {
+                "name": "salicylamide",
+                "qid": "Q2496906",
+                "url": "https://en.wikipedia.org/wiki/Salicylamide"
+            },
+            {
+                "name": "ibuprofen",
+                "qid": "Q186969",
+                "url": "https://en.wikipedia.org/wiki/Ibuprofen"
+            },
+            {
+                "name": "paracetamol",
+                "qid": "Q57055",
+                "url": "https://en.wikipedia.org/wiki/Paracetamol"
+            },
+            {
+                "name": "non-steroidal anti-inflammatory drug",
+                "qid": "Q188724",
+                "url": "https://en.wikipedia.org/wiki/Nonsteroidal_anti-inflammatory_drug"
+            },
+            {
+                "name": "mefenamic acid",
+                "qid": "Q284321",
+                "url": "https://en.wikipedia.org/wiki/Mefenamic_acid"
+            },
+            {
+                "name": "phenacetin",
+                "qid": "Q419175",
+                "url": "https://en.wikipedia.org/wiki/Phenacetin"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "clinical sign",
+                "qid": "Q1441305",
+                "url": "https://en.wikipedia.org/wiki/Clinical_sign"
+            },
+            {
+                "name": "neurological and physiological symptom",
+                "qid": "Q99860490"
+            }
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "name": "Eisenmenger's syndrome",
+    "qid": "Q572695",
+    "icd_10": "Q21.8",
+    "description": "fetal heart defect",
+    "aliases": [
+        "ES",
+        "Eisenmenger syndrome",
+        "Eisenmenger's reaction",
+        "Eisenmenger's Syndrome",
+        "tardive cyanosis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Eisenmenger_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            },
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "congenital heart disease",
+                "qid": "Q939364",
+                "url": "https://en.wikipedia.org/wiki/Congenital_heart_defect"
+            },
+            {
+                "name": "cyanotic heart defect",
+                "qid": "Q2186829",
+                "url": "https://en.wikipedia.org/wiki/Cyanotic_heart_defect"
+            },
+            {
+                "name": "pulmonary arterial hypertension associated with congenital heart disease",
+                "qid": "Q55786875"
+            }
+        ]
+    }
+}

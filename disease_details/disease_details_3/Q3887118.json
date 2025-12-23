@@ -1,0 +1,26 @@
+{
+    "name": "viral acute otitis media",
+    "qid": "Q3887118",
+    "icd_10": "H65.0",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "viral infectious disease",
+                "qid": "Q1928978",
+                "url": "https://en.wikipedia.org/wiki/Viral_disease"
+            },
+            {
+                "name": "Acute Otitis Media",
+                "qid": "Q864028"
+            },
+            {
+                "name": "infectious otitis media",
+                "qid": "Q55790483"
+            }
+        ]
+    }
+}

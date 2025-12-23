@@ -1,0 +1,49 @@
+{
+    "name": "spina bifida",
+    "qid": "Q844717",
+    "icd_10": "Q76.0",
+    "description": "congenital disorder of nervous system",
+    "aliases": [
+        "meningocele",
+        "Myelomeningocele"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Spina-bifida.jpg",
+    "url": "https://en.wikipedia.org/wiki/Spina_bifida",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "neural tube defect",
+                "qid": "Q548213",
+                "url": "https://en.wikipedia.org/wiki/Neural_tube_defect"
+            },
+            {
+                "name": "spinal dysraphism",
+                "qid": "Q1269334"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            },
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "Asymptomatic",
+                "qid": "Q1707292",
+                "url": "https://en.wikipedia.org/wiki/Asymptomatic"
+            }
+        ]
+    }
+}

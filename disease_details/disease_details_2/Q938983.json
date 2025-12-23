@@ -1,0 +1,78 @@
+{
+    "name": "osteomyelitis",
+    "qid": "Q938983",
+    "icd_10": "M86",
+    "description": "bone inflammation disease that has material basis in infection located in bone or located in bone marrow",
+    "aliases": [
+        "OM"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Osteomyelitis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "infectious disease",
+                "qid": "Q18123741",
+                "url": "https://en.wikipedia.org/wiki/Infectious_disease"
+            },
+            {
+                "name": "bone inflammation disease",
+                "qid": "Q1178507",
+                "url": "https://en.wikipedia.org/wiki/Osteitis"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "ciprofloxacin",
+                "qid": "Q256602",
+                "url": "https://en.wikipedia.org/wiki/Ciprofloxacin"
+            },
+            {
+                "name": "methicillin",
+                "qid": "Q409262",
+                "url": "https://en.wikipedia.org/wiki/Methicillin"
+            },
+            {
+                "name": "oxacillin",
+                "qid": "Q418725",
+                "url": "https://en.wikipedia.org/wiki/Oxacillin"
+            },
+            {
+                "name": "cloxacillin",
+                "qid": "Q422219",
+                "url": "https://en.wikipedia.org/wiki/Cloxacillin"
+            },
+            {
+                "name": "nafcillin",
+                "qid": "Q1638852",
+                "url": "https://en.wikipedia.org/wiki/Nafcillin"
+            },
+            {
+                "name": "dicloxacillin",
+                "qid": "Q2313471",
+                "url": "https://en.wikipedia.org/wiki/Dicloxacillin"
+            },
+            {
+                "name": "acexamic acid",
+                "qid": "Q4727167"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            },
+            {
+                "name": "podiatry",
+                "qid": "Q11865729",
+                "url": "https://en.wikipedia.org/wiki/Podiatry"
+            }
+        ]
+    }
+}

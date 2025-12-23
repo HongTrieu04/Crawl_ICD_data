@@ -1,0 +1,25 @@
+{
+    "name": "serum sickness",
+    "qid": "Q33121",
+    "icd_10": "T80.6",
+    "description": "negative reaction against proteins which are contained in a specific serum",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Serum_sickness",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "type III hypersensitivity",
+                "qid": "Q5898315",
+                "url": "https://en.wikipedia.org/wiki/Type_III_hypersensitivity"
+            }
+        ]
+    }
+}

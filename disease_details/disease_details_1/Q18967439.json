@@ -1,0 +1,20 @@
+{
+    "name": "abdominal actinomycosis",
+    "qid": "Q18967439",
+    "icd_10": "A42.1",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete abdominal actinomycosis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "actinomycosis",
+                "qid": "Q422268",
+                "url": "https://en.wikipedia.org/wiki/Actinomycosis"
+            }
+        ]
+    }
+}

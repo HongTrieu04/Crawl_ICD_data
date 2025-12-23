@@ -1,0 +1,17 @@
+{
+    "name": "Steroid folliculitis",
+    "qid": "Q7611607",
+    "icd_10": "Y42",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Steroid_folliculitis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "steroid adverse effect",
+                "qid": "Q30277163"
+            }
+        ]
+    }
+}

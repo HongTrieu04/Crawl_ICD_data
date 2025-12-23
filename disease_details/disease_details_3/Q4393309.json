@@ -1,0 +1,20 @@
+{
+    "name": "dextran-40",
+    "qid": "Q4393309",
+    "icd_10": "H48",
+    "description": "chemical compound",
+    "aliases": [
+        "Rheopolyglucine"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "chemical compound",
+                "qid": "Q11173",
+                "url": "https://en.wikipedia.org/wiki/Chemical_compound"
+            }
+        ]
+    }
+}

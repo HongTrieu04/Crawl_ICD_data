@@ -1,0 +1,22 @@
+{
+    "name": "omphalitis",
+    "qid": "Q18341004",
+    "icd_10": "L08.9",
+    "description": "infection or inflammation of the navel",
+    "aliases": [
+        "“mushy chick” disease",
+        "navel ill",
+        "yolk sac infection"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "skin disease",
+                "qid": "Q949302",
+                "url": "https://en.wikipedia.org/wiki/Skin_condition"
+            }
+        ]
+    }
+}

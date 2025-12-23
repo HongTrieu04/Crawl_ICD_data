@@ -1,0 +1,27 @@
+{
+    "name": "hemopericardium",
+    "qid": "Q3144949",
+    "icd_10": "I31.2",
+    "description": "pericardial effusion that results from blood in the pericardial sac",
+    "aliases": [
+        "Haemopericardium"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hemopericardium",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "pericardial effusion",
+                "qid": "Q1306218",
+                "url": "https://en.wikipedia.org/wiki/Pericardial_effusion"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ]
+    }
+}

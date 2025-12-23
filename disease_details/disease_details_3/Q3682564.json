@@ -1,0 +1,18 @@
+{
+    "name": "chronic cholecystitis",
+    "qid": "Q3682564",
+    "icd_10": "K81.1",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "cholecystitis",
+                "qid": "Q376666",
+                "url": "https://en.wikipedia.org/wiki/Cholecystitis"
+            }
+        ]
+    }
+}

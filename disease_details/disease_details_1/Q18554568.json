@@ -1,0 +1,33 @@
+{
+    "name": "polyneuropathy in collagen vascular disease",
+    "qid": "Q18554568",
+    "icd_10": "G63",
+    "description": "Human disease",
+    "aliases": [
+        "Polyneuropathy in collagen vascular disease (disorder)",
+        "Polyneuropathy in collagen vascular disease NOS (disorder)"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "collagen disease",
+                "qid": "Q1446169",
+                "url": "https://en.wikipedia.org/wiki/Collagen_disease"
+            },
+            {
+                "name": "polyneuropathy",
+                "qid": "Q1502312",
+                "url": "https://en.wikipedia.org/wiki/Polyneuropathy"
+            }
+        ]
+    }
+}

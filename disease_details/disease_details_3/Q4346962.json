@@ -1,0 +1,28 @@
+{
+    "name": "pathological intoxication",
+    "qid": "Q4346962",
+    "icd_10": "F10.07",
+    "description": "extraordinary severe response to alcohol",
+    "aliases": [
+        "idiosyncratic alcohol intoxication",
+        "idiosyncratic intoxication",
+        "pathological alcohol intoxication",
+        "pathologiс drunkenness",
+        "pathologiс intoxication"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "substance intoxication",
+                "qid": "Q865968",
+                "url": "https://en.wikipedia.org/wiki/Substance_intoxication"
+            },
+            {
+                "name": "alcohol-induced psychotic disorder",
+                "qid": "Q4062514"
+            }
+        ]
+    }
+}

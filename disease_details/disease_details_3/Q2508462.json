@@ -1,0 +1,62 @@
+{
+    "name": "mouth disease",
+    "qid": "Q2508462",
+    "icd_10": "K14",
+    "description": "gastrointestinal system disease that is located in the mouth",
+    "aliases": [
+        "oral pathology",
+        "disease of mouth",
+        "disorder of mouth",
+        "mouth diseases"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Oral_and_maxillofacial_pathology",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "gastrointestinal system disease",
+                "qid": "Q2300099",
+                "url": "https://en.wikipedia.org/wiki/Gastrointestinal_disease"
+            },
+            {
+                "name": "disease of anatomical entity",
+                "qid": "Q18557436"
+            },
+            {
+                "name": "stomatognathic disease",
+                "qid": "Q55082545"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "oral cavity",
+                "qid": "Q27042858",
+                "url": "https://en.wikipedia.org/wiki/Oral_cavity"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "lidocaine",
+                "qid": "Q216935",
+                "url": "https://en.wikipedia.org/wiki/Lidocaine"
+            },
+            {
+                "name": "chlorhexidine",
+                "qid": "Q15646788",
+                "url": "https://en.wikipedia.org/wiki/Chlorhexidine"
+            }
+        ]
+    }
+}

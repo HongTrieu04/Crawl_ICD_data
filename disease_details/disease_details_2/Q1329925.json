@@ -1,0 +1,20 @@
+{
+    "name": "sudden cardiac death",
+    "qid": "Q1329925",
+    "icd_10": "I46.1",
+    "description": "sudden stop in effective blood flow due to the failure of the heart to contract effectively",
+    "aliases": [
+        "acute cardiac death",
+        "Death, Sudden, Cardiac"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Sudden_cardiac_death",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "sudden death",
+                "qid": "Q54973951"
+            }
+        ]
+    }
+}

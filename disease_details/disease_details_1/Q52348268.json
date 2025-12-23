@@ -1,0 +1,36 @@
+{
+    "name": "sprained wrist",
+    "qid": "Q52348268",
+    "icd_10": "S63.5",
+    "description": null,
+    "aliases": [
+        "wrist sprain"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "pain",
+                "qid": "Q81938",
+                "url": "https://en.wikipedia.org/wiki/Pain"
+            },
+            {
+                "name": "sprain",
+                "qid": "Q470747",
+                "url": "https://en.wikipedia.org/wiki/Sprain"
+            },
+            {
+                "name": "wrist injury",
+                "qid": "Q54927127"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "wrist",
+                "qid": "Q185706",
+                "url": "https://en.wikipedia.org/wiki/Wrist"
+            }
+        ]
+    }
+}

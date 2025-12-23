@@ -1,0 +1,75 @@
+{
+    "name": "Schimmelpenning syndrome",
+    "qid": "Q1274018",
+    "icd_10": "Q85.8",
+    "description": "neurocutaneous syndrome with anomalies of the central nervous system, ocular system, skeletal system, cardiovascular system, and genitourinary system. A triad of sebaceous nevi, seizures, and mental retardation",
+    "aliases": [
+        "SFM",
+        "JNP",
+        "Epidermal Nevus Syndrome",
+        "Epidermal Nevus Syndrome, Formerly",
+        "Feuerstein-Mims syndrome",
+        "Jadassohn nevus phakomatosis",
+        "Jadassohn's nevus phakomatosis",
+        "linear nevus sebaceous syndrome",
+        "Linear nevus sebaceous syndrome",
+        "Linear nevus sebaceous syndrome (LNSS)",
+        "linear nevus sebaceous syndrome of Jadassohn",
+        "Linear Sebaceous Nevus Syndrome",
+        "Nevus sebaceus of Jadassohn",
+        "Nevus sebaceus syndrome",
+        "Organoid Nevus Phakomatosis",
+        "Organoid nevus syndrome",
+        "Schimmelpenning Feuerstein Mims syndrome",
+        "Schimmelpenning-Feuerstein-Mims syndrome",
+        "SCHIMMELPENNING-FEUERSTEIN-MIMS SYNDROME; SFM",
+        "sebaceous nevus syndrome",
+        "Sebaceous nevus syndrome linear",
+        "Sebaceous Nevus Syndrome, Linear",
+        "SFM syndrome",
+        "Solomon syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Schimmelpenning_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "syndrome",
+                "qid": "Q179630",
+                "url": "https://en.wikipedia.org/wiki/Syndrome"
+            },
+            {
+                "name": "phakomatosis",
+                "qid": "Q748376",
+                "url": "https://en.wikipedia.org/wiki/Phakomatosis"
+            },
+            {
+                "name": "epidermal nevus",
+                "qid": "Q4454468"
+            },
+            {
+                "name": "benign conjunctival neoplasm",
+                "qid": "Q55779987"
+            },
+            {
+                "name": "malformation syndrome with hamartosis",
+                "qid": "Q55789095"
+            },
+            {
+                "name": "palpebral nevus",
+                "qid": "Q55789182"
+            },
+            {
+                "name": "bulbar conjunctival dermoid or conjunctival dermolipoma",
+                "qid": "Q55789204"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

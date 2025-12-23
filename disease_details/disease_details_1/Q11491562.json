@@ -1,0 +1,66 @@
+{
+    "name": "acute hemorrhagic conjunctivitis",
+    "qid": "Q11491562",
+    "icd_10": "B30.3",
+    "description": "Human disease",
+    "aliases": [
+        "Apollo disease",
+        "Epidemic hemorrhagic conjunctivitis",
+        "viral conjunctivitis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Acute_hemorrhagic_conjunctivitis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "viral infectious disease",
+                "qid": "Q1928978",
+                "url": "https://en.wikipedia.org/wiki/Viral_disease"
+            },
+            {
+                "name": "infectious disease of the nervous system",
+                "qid": "Q10336461"
+            },
+            {
+                "name": "conjunctival disease",
+                "qid": "Q18556249"
+            },
+            {
+                "name": "acute contagious conjunctivitis",
+                "qid": "Q18573393"
+            },
+            {
+                "name": "viral conjunctivitis",
+                "qid": "Q54974347"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "emedastine",
+                "qid": "Q5370305",
+                "url": "https://en.wikipedia.org/wiki/Emedastine"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "conjunctiva",
+                "qid": "Q273554",
+                "url": "https://en.wikipedia.org/wiki/Conjunctiva"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "photophobia",
+                "qid": "Q281289",
+                "url": "https://en.wikipedia.org/wiki/Photophobia"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

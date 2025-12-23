@@ -1,0 +1,27 @@
+{
+    "name": "hydroa vacciniforme",
+    "qid": "Q5954614",
+    "icd_10": "L56.86",
+    "description": "rare skin disorder of unknown etiology affecting children",
+    "aliases": [
+        "HV"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hydroa_vacciniforme",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "photodermatosis",
+                "qid": "Q2986815",
+                "url": "https://en.wikipedia.org/wiki/Photodermatosis"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Verruga peruana",
+    "qid": "Q7922597",
+    "icd_10": "A44.1",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Verruga_peruana",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "Carrion's disease",
+                "qid": "Q1750104",
+                "url": "https://en.wikipedia.org/wiki/Carrion%27s_disease"
+            }
+        ]
+    }
+}

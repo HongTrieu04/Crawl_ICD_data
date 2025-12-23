@@ -1,0 +1,35 @@
+{
+    "name": "Heyde's syndrome",
+    "qid": "Q1090833",
+    "icd_10": "I35.0",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Heyde%27s_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            },
+            {
+                "name": "general surgery",
+                "qid": "Q932510",
+                "url": "https://en.wikipedia.org/wiki/General_surgery"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "aortic valve stenosis",
+                "qid": "Q531019",
+                "url": "https://en.wikipedia.org/wiki/Aortic_stenosis"
+            },
+            {
+                "name": "angiodysplasia",
+                "qid": "Q539491",
+                "url": "https://en.wikipedia.org/wiki/Angiodysplasia"
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "name": "pelvic organ prolapse",
+    "qid": "Q166102",
+    "icd_10": "N81",
+    "description": "pelvic organs protruding from the opening of the vagina",
+    "aliases": [
+        "vaginal prolapse",
+        "prolapse of female genital organ"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hippocrates%20treatment%20for%20prolapse.png",
+    "url": "https://en.wikipedia.org/wiki/Pelvic_organ_prolapse",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "female reproductive system disease",
+                "qid": "Q5442760",
+                "url": "https://en.wikipedia.org/wiki/Female_genital_disease"
+            },
+            {
+                "name": "prolapse",
+                "qid": "Q2112703",
+                "url": "https://en.wikipedia.org/wiki/Prolapse"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            }
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "nervousness",
+    "qid": "Q1978097",
+    "icd_10": "R45.0",
+    "description": "state of feeling agitated or distressed",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "feeling",
+                "qid": "Q205555",
+                "url": "https://en.wikipedia.org/wiki/Feeling"
+            },
+            {
+                "name": "mental state",
+                "qid": "Q3968640",
+                "url": "https://en.wikipedia.org/wiki/Mental_state"
+            }
+        ]
+    }
+}

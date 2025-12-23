@@ -1,0 +1,29 @@
+{
+    "name": "delayed ejaculation",
+    "qid": "Q1142563",
+    "icd_10": "N53.11",
+    "description": "man's inability for or persistent difficulty in achieving orgasm, despite typical sexual desire and sexual stimulation",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Delayed_ejaculation",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "ejaculatory dysfunction",
+                "qid": "Q47528917"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            }
+        ]
+    }
+}

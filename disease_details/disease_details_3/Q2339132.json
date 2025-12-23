@@ -1,0 +1,38 @@
+{
+    "name": "postpartum psychosis",
+    "qid": "Q2339132",
+    "icd_10": "F53.1",
+    "description": "abrupt onset of psychotic symptoms shortly following childbirth",
+    "aliases": [
+        "PPP",
+        "peripartum psychosis",
+        "puerperal psychosis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Postpartum_psychosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "puerperal disorders",
+                "qid": "Q7258523",
+                "url": "https://en.wikipedia.org/wiki/Postpartum_disorder"
+            },
+            {
+                "name": "psychosis",
+                "qid": "Q170082",
+                "url": "https://en.wikipedia.org/wiki/Psychosis"
+            },
+            {
+                "name": "mental disorder complicating pregnancy, childbirth, or the puerperium",
+                "qid": "Q18966384"
+            }
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "papyraceous fetus",
+    "qid": "Q105096381",
+    "icd_10": "O31.0",
+    "description": "disease",
+    "aliases": [
+        "Fetus compressus",
+        "fetus papyraceus"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "vanishing twin",
+                "qid": "Q3269752",
+                "url": "https://en.wikipedia.org/wiki/Vanishing_twin"
+            }
+        ]
+    }
+}

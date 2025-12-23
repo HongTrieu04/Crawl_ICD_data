@@ -1,0 +1,29 @@
+{
+    "name": "variant Creutzfeldt–Jakob disease",
+    "qid": "Q2323502",
+    "icd_10": "F02.1",
+    "description": "degenerative brain disease caused by prions",
+    "aliases": [
+        "variant Creutzfeldt-Jakob disease",
+        "variant Creutzfeldt–Jakob",
+        "vCJD"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/VCJD%20Tonsil.jpg",
+    "url": "https://en.wikipedia.org/wiki/Variant_Creutzfeldt%E2%80%93Jakob_disease",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "transmissible spongiform encephalopathy",
+                "qid": "Q703961",
+                "url": "https://en.wikipedia.org/wiki/Transmissible_spongiform_encephalopathy"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

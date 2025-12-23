@@ -1,0 +1,27 @@
+{
+    "name": "myoglobinuria",
+    "qid": "Q1956682",
+    "icd_10": "R82.1",
+    "description": "myopathy that is characterized by an increased urinary excretion of myoglobin",
+    "aliases": [
+        "Myoglobinurias"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/RhabdoUrine.JPG",
+    "url": "https://en.wikipedia.org/wiki/Myoglobinuria",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "muscular disease",
+                "qid": "Q692536",
+                "url": "https://en.wikipedia.org/wiki/Myopathy"
+            }
+        ]
+    }
+}

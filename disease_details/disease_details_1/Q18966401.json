@@ -1,0 +1,29 @@
+{
+    "name": "pinna disease",
+    "qid": "Q18966401",
+    "icd_10": "H61.1",
+    "description": "human disease",
+    "aliases": [
+        "disorder of pinna (disorder)",
+        "disorder of pinna, unspecified",
+        "obsolete pinna disease",
+        "Unspecified disorder of pinna (disorder)"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Anatomical location": [
+            {
+                "name": "auricle",
+                "qid": "Q379858",
+                "url": "https://en.wikipedia.org/wiki/Auricle_(anatomy)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "external ear disease",
+                "qid": "Q18556075"
+            }
+        ]
+    }
+}

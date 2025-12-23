@@ -1,0 +1,25 @@
+{
+    "name": "Measles virus otitis media",
+    "qid": "Q19001201",
+    "icd_10": "B05.3",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete Measles virus otitis media",
+        "postmeasles otitis media"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "measles",
+                "qid": "Q79793",
+                "url": "https://en.wikipedia.org/wiki/Measles"
+            },
+            {
+                "name": "infectious otitis media",
+                "qid": "Q55790483"
+            }
+        ]
+    }
+}

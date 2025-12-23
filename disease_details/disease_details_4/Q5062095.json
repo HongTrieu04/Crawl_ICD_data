@@ -1,0 +1,25 @@
+{
+    "name": "Central facial palsy",
+    "qid": "Q5062095",
+    "icd_10": "G51",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Central_facial_palsy",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "facial paralysis",
+                "qid": "Q7562539",
+                "url": "https://en.wikipedia.org/wiki/Facial_nerve_paralysis"
+            }
+        ]
+    }
+}

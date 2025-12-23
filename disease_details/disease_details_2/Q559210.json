@@ -1,0 +1,50 @@
+{
+    "name": "joint stiffness",
+    "qid": "Q559210",
+    "icd_10": "M25.6",
+    "description": "toughness",
+    "aliases": [
+        "obsolete stiffness of joint",
+        "stiffness of joint",
+        "Stiffness of joint, NEC, involving ankle and foot in ICD9CM_2006",
+        "Stiffness of joint, NEC, involving forearm in ICD9CM_2005",
+        "Stiffness of joint, NEC, involving forearm in ICD9CM_2006",
+        "Stiffness of joint, NEC, involving hand in ICD9CM_2005",
+        "Stiffness of joint, NEC, involving hand in ICD9CM_2006",
+        "Stiffness of joint, NEC, involving lower leg in ICD9CM_2005",
+        "Stiffness of joint, NEC, involving lower leg in ICD9CM_2006",
+        "Stiffness of joint, NEC, involving multiple sites in ICD9CM_2005",
+        "Stiffness of joint, NEC, involving multiple sites in ICD9CM_2006",
+        "Stiffness of joint, NEC, involving pelvic region and thigh in ICD9CM_2005",
+        "Stiffness of joint, NEC, involving pelvic region and thigh in ICD9CM_2006",
+        "Stiffness of joint, NEC, involving shoulder region in ICD9CM_2005",
+        "Stiffness of joint, NEC, involving shoulder region in ICD9CM_2006",
+        "Stiffness of joint, NEC, involving upper arm in ICD9CM_2005",
+        "Stiffness of joint, NEC, involving upper arm in ICD9CM_2006",
+        "Stiffness of joint, not elsewhere classified, involving ankle and foot",
+        "Stiffness of joint, not elsewhere classified, involving forearm",
+        "Stiffness of joint, not elsewhere classified, involving hand",
+        "Stiffness of joint, not elsewhere classified, involving lower leg",
+        "Stiffness of joint, not elsewhere classified, involving multiple sites",
+        "Stiffness of joint, not elsewhere classified, involving pelvic region and thigh",
+        "Stiffness of joint, not elsewhere classified, involving shoulder region",
+        "Stiffness of joint, not elsewhere classified, involving upper arm"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Joint_stiffness",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "joint symptom",
+                "qid": "Q102187320"
+            }
+        ]
+    }
+}

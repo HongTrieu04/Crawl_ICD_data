@@ -1,0 +1,32 @@
+{
+    "name": "candidal endocarditis",
+    "qid": "Q18967594",
+    "icd_10": "B37.6",
+    "description": "human disease",
+    "aliases": [
+        "Candidal endocarditis (disorder)",
+        "obsolete candidal endocarditis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Drug used for treatment": [
+            {
+                "name": "5-fluorocytosine",
+                "qid": "Q238490",
+                "url": "https://en.wikipedia.org/wiki/Flucytosine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "candidiasis",
+                "qid": "Q273510",
+                "url": "https://en.wikipedia.org/wiki/Candidiasis"
+            },
+            {
+                "name": "fungal endocarditis",
+                "qid": "Q104522836"
+            }
+        ]
+    }
+}

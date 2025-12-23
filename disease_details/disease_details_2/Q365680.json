@@ -1,0 +1,40 @@
+{
+    "name": "assault",
+    "qid": "Q365680",
+    "icd_10": "Y09",
+    "description": "physical attack of another person",
+    "aliases": [
+        "crime of violence or threatened violence",
+        "criminal assault",
+        "statutory assault"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Assault",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "violent crime",
+                "qid": "Q1520311",
+                "url": "https://en.wikipedia.org/wiki/Violent_crime"
+            },
+            {
+                "name": "physical abuse",
+                "qid": "Q2827132",
+                "url": "https://en.wikipedia.org/wiki/Physical_abuse"
+            },
+            {
+                "name": "aggression",
+                "qid": "Q191797",
+                "url": "https://en.wikipedia.org/wiki/Aggression"
+            },
+            {
+                "name": "attack",
+                "qid": "Q1174599"
+            },
+            {
+                "name": "occurrence",
+                "qid": "Q1190554"
+            }
+        ]
+    }
+}

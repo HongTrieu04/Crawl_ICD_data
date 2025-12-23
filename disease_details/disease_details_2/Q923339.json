@@ -1,0 +1,27 @@
+{
+    "name": "osteophyte",
+    "qid": "Q923339",
+    "icd_10": "M25.7",
+    "description": "a bone projection formed on the margins of a joint, caused by stress and damage to the surfaces",
+    "aliases": [
+        "bone spurs"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Osteophytes%20processus%20anconeus.png",
+    "url": "https://en.wikipedia.org/wiki/Osteophyte",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "exostosis",
+                "qid": "Q1384176",
+                "url": "https://en.wikipedia.org/wiki/Exostosis"
+            }
+        ]
+    }
+}

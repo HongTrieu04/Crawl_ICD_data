@@ -1,0 +1,30 @@
+{
+    "name": "amelogenesis imperfecta",
+    "qid": "Q461854",
+    "icd_10": "K00.5",
+    "description": "dental enamel hypoplasia characterized by abnormal enamel formation",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/B%20amelogenesis%20imperfecta.jpg",
+    "url": "https://en.wikipedia.org/wiki/Amelogenesis_imperfecta",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dentistry",
+                "qid": "Q12128",
+                "url": "https://en.wikipedia.org/wiki/Dentistry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "dental enamel hypoplasia",
+                "qid": "Q5375191",
+                "url": "https://en.wikipedia.org/wiki/Enamel_hypoplasia"
+            }
+        ]
+    }
+}

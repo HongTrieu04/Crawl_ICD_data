@@ -1,0 +1,21 @@
+{
+    "name": "Larva currens",
+    "qid": "Q376869",
+    "icd_10": "B78.1",
+    "description": "Human disease",
+    "aliases": [
+        "cutaneous strongyloidiasis",
+        "obsolete cutaneous strongyloidiasis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Larva_currens",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "strongyloidiasis",
+                "qid": "Q2360849",
+                "url": "https://en.wikipedia.org/wiki/Strongyloidiasis"
+            }
+        ]
+    }
+}

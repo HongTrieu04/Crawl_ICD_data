@@ -1,0 +1,25 @@
+{
+    "name": "decapitation",
+    "qid": "Q204933",
+    "icd_10": "S18",
+    "description": "complete separation of the head from the body",
+    "aliases": [
+        "beheading",
+        "beheadings"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chinese%20to%20be%20beheaded%20in%20Nanking%20Massacre.jpg",
+    "url": "https://en.wikipedia.org/wiki/Decapitation",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "capital punishment",
+                "qid": "Q8454",
+                "url": "https://en.wikipedia.org/wiki/Capital_punishment"
+            },
+            {
+                "name": "execution",
+                "qid": "Q3966286"
+            }
+        ]
+    }
+}

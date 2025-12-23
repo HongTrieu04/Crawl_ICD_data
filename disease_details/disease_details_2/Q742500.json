@@ -1,0 +1,40 @@
+{
+    "name": "methylmalonic acidemia",
+    "qid": "Q742500",
+    "icd_10": "E71.1",
+    "description": "organic acidemia that involves an accumulation of methylmalonic acid in the blood",
+    "aliases": [
+        "methylmalonic aciduria cblB type",
+        "methylmalonic aciduria mut type",
+        "METHYLMALONIC ACIDEMIA, cblA TYPE",
+        "METHYLMALONIC ACIDEMIA, cblB TYPE",
+        "methylmalonic aciduria",
+        "METHYLMALONIC ACIDURIA DUE TO METHYLMALONYL-CoA MUTASE DEFICIENCY",
+        "methylmalonic aciduria type cblA",
+        "methylmalonic aciduria type cblB",
+        "METHYLMALONIC ACIDURIA, mut TYPE",
+        "METHYLMALONIC ACIDURIA, VITAMIN B12-RESPONSIVE, DUE TO DEFECT IN SYNTHESIS OF ADENOSYLCOBALAMIN, cblA TYPE",
+        "METHYLMALONIC ACIDURIA, VITAMIN B12-RESPONSIVE, DUE TO DEFECT IN SYNTHESIS OF ADENOSYLCOBALAMIN, cblB TYPE",
+        "METHYLMALONICACIDURIA DUE TO METHYLMALONIC CoA MUTASE deficiency",
+        "METHYLMALONICACIDURIA, vitamin B12-RESPONSIVE, DUE TO DEFECT IN SYNTHESIS OF ADENOSYLCOBALAMIN--cbl A",
+        "METHYLMALONICACIDURIA, vitamin B12-RESPONSIVE, DUE TO DEFECT IN SYNTHESIS OF ADENOSYLCOBALAMIN--cbl B"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Methylmalonic_acidemias",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "organic acidemia",
+                "qid": "Q1547640",
+                "url": "https://en.wikipedia.org/wiki/Organic_acidemia"
+            }
+        ]
+    }
+}

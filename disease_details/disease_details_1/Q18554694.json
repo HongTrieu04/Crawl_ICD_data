@@ -1,0 +1,60 @@
+{
+    "name": "ureterolithiasis",
+    "qid": "Q18554694",
+    "icd_10": "N20.1",
+    "description": "human disease",
+    "aliases": [
+        "calculus of ureter",
+        "Ureteric calculus",
+        "Ureteric stone",
+        "Ureteric Stone",
+        "Ureteric stone (disorder)",
+        "Ureterolithiasis (disorder)"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ureter%20Engstellen.png",
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            },
+            {
+                "name": "medicine",
+                "qid": "Q11190",
+                "url": "https://en.wikipedia.org/wiki/Medicine"
+            },
+            {
+                "name": "urolithiasis",
+                "qid": "Q1585769",
+                "url": "https://en.wikipedia.org/wiki/Urolithiasis"
+            },
+            {
+                "name": "bladder disease",
+                "qid": "Q6066379",
+                "url": "https://en.wikipedia.org/wiki/Urinary_bladder_disease"
+            },
+            {
+                "name": "pathology",
+                "qid": "Q7208",
+                "url": "https://en.wikipedia.org/wiki/Pathology"
+            },
+            {
+                "name": "ureteral disease",
+                "qid": "Q18554726"
+            },
+            {
+                "name": "human disease",
+                "qid": "Q104477483"
+            }
+        ]
+    }
+}

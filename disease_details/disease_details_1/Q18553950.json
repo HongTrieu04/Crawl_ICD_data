@@ -1,0 +1,34 @@
+{
+    "name": "chylocele of tunica vaginalis",
+    "qid": "Q18553950",
+    "icd_10": "N50.8",
+    "description": "Human disease",
+    "aliases": [
+        "Chylocele of tunica vaginalis (disorder)"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "Tunica vaginalis",
+                "qid": "Q2407406",
+                "url": "https://en.wikipedia.org/wiki/Tunica_vaginalis"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "male reproductive system disease",
+                "qid": "Q6742925",
+                "url": "https://en.wikipedia.org/wiki/Male_genital_disease"
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "IQ classification",
+    "qid": "Q5973340",
+    "icd_10": "F70",
+    "description": "categorisation of people based on intelligence",
+    "aliases": [
+        "IQ reference chart"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/IQ_classification",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ]
+    }
+}

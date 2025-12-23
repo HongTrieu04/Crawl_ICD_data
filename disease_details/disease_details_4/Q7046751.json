@@ -1,0 +1,37 @@
+{
+    "name": "nodular melanoma",
+    "qid": "Q7046751",
+    "icd_10": "C43",
+    "description": "melanoma that is characterized as highly aggressive and manifests as a uniform blue-black, blue-red, or amelanotic nodule",
+    "aliases": [
+        "cutaneous nodular melanoma",
+        "Nodular Cutaneous (Skin) Melanoma",
+        "nodular malignant melanoma",
+        "Nodular Malignant Melanoma of Skin",
+        "Nodular Malignant Melanoma of the Skin",
+        "Nodular Malignant Skin Melanoma",
+        "nodular melanoma (morphologic abnormality)"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Nodular_melanoma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            },
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "skin melanoma",
+                "qid": "Q18558032"
+            }
+        ]
+    }
+}

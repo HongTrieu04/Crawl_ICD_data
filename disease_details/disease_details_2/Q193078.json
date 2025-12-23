@@ -1,0 +1,69 @@
+{
+    "name": "injury in humans",
+    "qid": "Q193078",
+    "icd_10": "T79",
+    "description": "physiological wound caused by an external source",
+    "aliases": [
+        "injury",
+        "trauma",
+        "injured",
+        "injuries",
+        "physical trauma",
+        "traumatic injury",
+        "wounds and injuries"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Burns%20foot.jpg",
+    "url": "https://en.wikipedia.org/wiki/Injury_in_humans",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "damage",
+                "qid": "Q481609",
+                "url": "https://en.wikipedia.org/wiki/Damage"
+            },
+            {
+                "name": "health problem",
+                "qid": "Q2057971"
+            },
+            {
+                "name": "trauma",
+                "qid": "Q117134054"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            },
+            {
+                "name": "traumatology",
+                "qid": "Q376680",
+                "url": "https://en.wikipedia.org/wiki/Traumatology"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "accident",
+                "qid": "Q171558",
+                "url": "https://en.wikipedia.org/wiki/Accident"
+            },
+            {
+                "name": "attack",
+                "qid": "Q1174599"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "oxycodone",
+                "qid": "Q407535",
+                "url": "https://en.wikipedia.org/wiki/Oxycodone"
+            },
+            {
+                "name": "denosumab",
+                "qid": "Q408283",
+                "url": "https://en.wikipedia.org/wiki/Denosumab"
+            }
+        ]
+    }
+}

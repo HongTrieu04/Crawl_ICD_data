@@ -1,0 +1,24 @@
+{
+    "name": "Annular lichen planus",
+    "qid": "Q4769717",
+    "icd_10": "L43.8",
+    "description": "Annular lichen planus (LP) is a rare variant of cutaneous lichen planus (see this term) characterized by the development of annular lesions",
+    "aliases": [
+        "Annular LP"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Annular_lichen_planus",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "lichen planus",
+                "qid": "Q848371",
+                "url": "https://en.wikipedia.org/wiki/Lichen_planus"
+            },
+            {
+                "name": "rare cutaneous lichen planus",
+                "qid": "Q55786412"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "caviar tongue",
+    "qid": "Q5055127",
+    "icd_10": "I86.0",
+    "description": "tongue disease",
+    "aliases": [
+        "sublingual varicosities"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Caviar_tongue",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "varicose veins",
+                "qid": "Q201180",
+                "url": "https://en.wikipedia.org/wiki/Varicose_veins"
+            },
+            {
+                "name": "tongue disease",
+                "qid": "Q7107436",
+                "url": "https://en.wikipedia.org/wiki/Tongue_disease"
+            }
+        ]
+    }
+}

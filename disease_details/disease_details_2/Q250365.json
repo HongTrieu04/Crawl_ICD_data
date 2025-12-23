@@ -1,0 +1,56 @@
+{
+    "name": "Parry–Romberg syndrome",
+    "qid": "Q250365",
+    "icd_10": "G51.8",
+    "description": "a rare disease characterized by progressive shrinkage and degeneration of the tissues beneath the skin, usually on only one side of the face (hemifacial atrophy) but occasionally extending to other parts of the body",
+    "aliases": [
+        "PHA",
+        "HFA",
+        "facial hemiatrophy",
+        "Hemifacial atrophy",
+        "HEMIFACIAL ATROPHY, PROGRESSIVE",
+        "HEMIFACIAL ATROPHY, PROGRESSIVE; HFA",
+        "Parry-Romberg syndrome",
+        "Progressive facial hemiatrophy",
+        "progressive hemifacial atrophy",
+        "Romberg syndrome"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Parry%20Romberg%20Syndrome%201.jpg",
+    "url": "https://en.wikipedia.org/wiki/Parry%E2%80%93Romberg_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "facial nerve disease",
+                "qid": "Q18554894"
+            },
+            {
+                "name": "brain inflammatory disease",
+                "qid": "Q55785279"
+            },
+            {
+                "name": "inflammatory and autoimmune disease with epilepsy",
+                "qid": "Q55785633"
+            },
+            {
+                "name": "rare genetic epilepsy",
+                "qid": "Q55785842"
+            },
+            {
+                "name": "genetic peripheral neuropathy",
+                "qid": "Q55789138"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ]
+    }
+}

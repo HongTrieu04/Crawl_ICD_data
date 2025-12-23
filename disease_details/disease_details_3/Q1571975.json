@@ -1,0 +1,27 @@
+{
+    "name": "hallux varus",
+    "qid": "Q1571975",
+    "icd_10": "M20.3",
+    "description": "Deviation of the first toe away from the rest of the foot",
+    "aliases": [
+        "sandal gap"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hallux%20Varus%20Foot.jpg",
+    "url": "https://en.wikipedia.org/wiki/Hallux_varus",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "foot deformity",
+                "qid": "Q5465742",
+                "url": "https://en.wikipedia.org/wiki/Foot_deformity"
+            }
+        ]
+    }
+}

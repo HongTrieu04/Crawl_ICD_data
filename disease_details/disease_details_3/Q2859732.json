@@ -1,0 +1,46 @@
+{
+    "name": "arbovirosis",
+    "qid": "Q2859732",
+    "icd_10": "A94",
+    "description": "any viral disease transmitted by arthropod vectors",
+    "aliases": [
+        "arboviral diseases",
+        "arboviral infection",
+        "arboviral infections",
+        "Arbovirosis",
+        "Arbovirus fever",
+        "Arbovirus Infection",
+        "Arbovirus Infections",
+        "arthropod-borne viruses"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "viral infectious disease",
+                "qid": "Q1928978",
+                "url": "https://en.wikipedia.org/wiki/Viral_disease"
+            },
+            {
+                "name": "zoonosis",
+                "qid": "Q182672",
+                "url": "https://en.wikipedia.org/wiki/Zoonosis"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "arbovirus",
+                "qid": "Q630622",
+                "url": "https://en.wikipedia.org/wiki/Arbovirus"
+            }
+        ]
+    }
+}

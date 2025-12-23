@@ -1,0 +1,28 @@
+{
+    "name": "foreign body granuloma",
+    "qid": "Q1455131",
+    "icd_10": "L92.3",
+    "description": "response of biological tissue to foreign material",
+    "aliases": [
+        "foreign body reaction",
+        "granuloma, foreign-body"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Suture%20granuloma%201.jpg",
+    "url": "https://en.wikipedia.org/wiki/Foreign_body_reaction",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "granuloma",
+                "qid": "Q1129338",
+                "url": "https://en.wikipedia.org/wiki/Granuloma"
+            }
+        ]
+    }
+}

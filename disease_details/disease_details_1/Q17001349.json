@@ -1,0 +1,33 @@
+{
+    "name": "cervical agenesis",
+    "qid": "Q17001349",
+    "icd_10": "Q51.5",
+    "description": "human disease",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Cervical_agenesis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "agenesis",
+                "qid": "Q392604",
+                "url": "https://en.wikipedia.org/wiki/Agenesis"
+            },
+            {
+                "name": "non-syndromic uterovaginal malformation",
+                "qid": "Q55785748"
+            },
+            {
+                "name": "female infertility due to an implantation defect",
+                "qid": "Q55788056"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gynaecology",
+                "qid": "Q1221899",
+                "url": "https://en.wikipedia.org/wiki/Gynaecology"
+            }
+        ]
+    }
+}

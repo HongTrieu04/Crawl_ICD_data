@@ -1,0 +1,43 @@
+{
+    "name": "Kienbock's disease",
+    "qid": "Q1877388",
+    "icd_10": "M87.9",
+    "description": "Kienbock disease is a rare bone disorder of unknown etiology characterized clinically by osteonecrosis of the carpal lunate, eventually leading to collapse of the lunate bone impacting wrist function",
+    "aliases": [
+        "Aseptic necrosis of the lunate bone",
+        "Lunatomalacia",
+        "Osteochondritis of the lunate bone",
+        "Osteochondrosis of the lunate bone"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Kienb%C3%B6ck%27s_disease",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "plastic surgery",
+                "qid": "Q182442",
+                "url": "https://en.wikipedia.org/wiki/Plastic_surgery"
+            },
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            },
+            {
+                "name": "orthopedic surgery",
+                "qid": "Q15218776"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "osteochondrosis",
+                "qid": "Q1154055",
+                "url": "https://en.wikipedia.org/wiki/Osteochondrosis"
+            },
+            {
+                "name": "hand disease",
+                "qid": "Q12628098"
+            }
+        ]
+    }
+}

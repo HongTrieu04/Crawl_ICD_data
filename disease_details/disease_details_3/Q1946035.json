@@ -1,0 +1,32 @@
+{
+    "name": "Monteggia fracture",
+    "qid": "Q1946035",
+    "icd_10": "S52.0",
+    "description": "fracture of the proximal third of the ulna with dislocation of the proximal head of the radius",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Monteggia%20Fracture.jpg",
+    "url": "https://en.wikipedia.org/wiki/Monteggia_fracture",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "orthopedics",
+                "qid": "Q216685",
+                "url": "https://en.wikipedia.org/wiki/Orthopedic_surgery"
+            },
+            {
+                "name": "orthopedic surgery",
+                "qid": "Q15218776"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "fracture dislocation",
+                "qid": "Q54930822"
+            },
+            {
+                "name": "fracture of upper end of ulna",
+                "qid": "Q111363113"
+            }
+        ]
+    }
+}

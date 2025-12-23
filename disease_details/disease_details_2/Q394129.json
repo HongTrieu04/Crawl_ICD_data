@@ -1,0 +1,36 @@
+{
+    "name": "psychomotor agitation",
+    "qid": "Q394129",
+    "icd_10": "R45.1",
+    "description": "a set of signs and symptoms that stem from mental tension and anxiety; the signs are unintentional and purposeless motions; the symptoms are emotional distress and restlessness",
+    "aliases": [
+        "agitation",
+        "excitation",
+        "excitement",
+        "combative agitation",
+        "obsolete predominant psychomotor disturbance",
+        "predominant psychomotor disturbance"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Psychomotor_agitation",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "dyskinesia",
+                "qid": "Q629444",
+                "url": "https://en.wikipedia.org/wiki/Dyskinesia"
+            },
+            {
+                "name": "restlessness",
+                "qid": "Q10649843"
+            }
+        ]
+    }
+}

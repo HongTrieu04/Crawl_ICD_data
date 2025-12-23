@@ -1,0 +1,35 @@
+{
+    "name": "polyphagia",
+    "qid": "Q653267",
+    "icd_10": "R63.2",
+    "description": "excessive hunger or increased appetite",
+    "aliases": [
+        "hyperphagia",
+        "increased appetite"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Polyphagia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "clinical sign",
+                "qid": "Q1441305",
+                "url": "https://en.wikipedia.org/wiki/Clinical_sign"
+            },
+            {
+                "name": "symptom",
+                "qid": "Q169872",
+                "url": "https://en.wikipedia.org/wiki/Symptom"
+            },
+            {
+                "name": "eating disorder",
+                "qid": "Q373822",
+                "url": "https://en.wikipedia.org/wiki/Eating_disorder"
+            },
+            {
+                "name": "nutrition, metabolism, and development symptom",
+                "qid": "Q102187407"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "name": "aplasia cutis congenita",
+    "qid": "Q1424491",
+    "icd_10": "Q84.8",
+    "description": "medical condition",
+    "aliases": [
+        "ACC",
+        "APLASIA CUTIS CONGENITA, NONSYNDROMIC",
+        "APLASIA CUTIS CONGENITA, NONSYNDROMIC; ACC",
+        "Congenital Defect of Skull and Scalp",
+        "Scalp Defect, Congenital"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Aplasia_cutis_congenita",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "mixed dermis disorder",
+                "qid": "Q55788599"
+            }
+        ]
+    }
+}

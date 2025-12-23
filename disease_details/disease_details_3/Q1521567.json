@@ -1,0 +1,37 @@
+{
+    "name": "omphalocele",
+    "qid": "Q1521567",
+    "icd_10": "Q79.2",
+    "description": "physical disorder characterized by a defect in the development of the abdominal wall muscles, resulting in the intestines, liver and other organs to remain outside of the abdomen in a sac",
+    "aliases": [
+        "omphalocoele"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Omphalocele",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "abdominal wall defect",
+                "qid": "Q2852251",
+                "url": "https://en.wikipedia.org/wiki/Abdominal_wall_defect"
+            },
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "congenital disorder",
+                "qid": "Q727096",
+                "url": "https://en.wikipedia.org/wiki/Birth_defect"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

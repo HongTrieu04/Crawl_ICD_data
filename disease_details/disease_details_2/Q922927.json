@@ -1,0 +1,149 @@
+{
+    "name": "primary amebic meningoencephalitis",
+    "qid": "Q922927",
+    "icd_10": "B60.2",
+    "description": "extremely rare type of amoebiasis that infects the brain",
+    "aliases": [
+        "PAM",
+        "amebic encephalitis",
+        "infections, Naegleria fowleri",
+        "Naegleria fowleri infection",
+        "naegleria infection",
+        "naegleriasis",
+        "primary amebic menencephalitis",
+        "Primary Amoebic Meningoencephalitis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/M%C3%A9ningo-enc%C3%A9phalite%20amibienne%20primitive.JPG",
+    "url": "https://en.wikipedia.org/wiki/Primary_amoebic_meningoencephalitis",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            },
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "chills",
+                "qid": "Q2260058",
+                "url": "https://en.wikipedia.org/wiki/Chills"
+            },
+            {
+                "name": "ulcer",
+                "qid": "Q6452285",
+                "url": "https://en.wikipedia.org/wiki/Ulcer_(dermatology)"
+            },
+            {
+                "name": "spasm",
+                "qid": "Q574360",
+                "url": "https://en.wikipedia.org/wiki/Spasm"
+            },
+            {
+                "name": "ageusia",
+                "qid": "Q606216",
+                "url": "https://en.wikipedia.org/wiki/Ageusia"
+            },
+            {
+                "name": "vomiting",
+                "qid": "Q127076",
+                "url": "https://en.wikipedia.org/wiki/Vomiting"
+            },
+            {
+                "name": "coma",
+                "qid": "Q159557",
+                "url": "https://en.wikipedia.org/wiki/Coma"
+            },
+            {
+                "name": "syncope",
+                "qid": "Q180007",
+                "url": "https://en.wikipedia.org/wiki/Syncope_(medicine)"
+            },
+            {
+                "name": "nausea",
+                "qid": "Q186889",
+                "url": "https://en.wikipedia.org/wiki/Nausea"
+            },
+            {
+                "name": "nasopharyngitis",
+                "qid": "Q3936113"
+            },
+            {
+                "name": "meningism signs",
+                "qid": "Q12122651"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "nose",
+                "qid": "Q7363",
+                "url": "https://en.wikipedia.org/wiki/Nose"
+            },
+            {
+                "name": "central nervous system",
+                "qid": "Q47273",
+                "url": "https://en.wikipedia.org/wiki/Central_nervous_system"
+            },
+            {
+                "name": "pharynx",
+                "qid": "Q174778",
+                "url": "https://en.wikipedia.org/wiki/Pharynx"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "meningoencephalitis",
+                "qid": "Q2346415",
+                "url": "https://en.wikipedia.org/wiki/Meningoencephalitis"
+            },
+            {
+                "name": "central nervous system protozoal infection",
+                "qid": "Q54944161"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "miconazole",
+                "qid": "Q410534",
+                "url": "https://en.wikipedia.org/wiki/Miconazole"
+            },
+            {
+                "name": "fluconazole",
+                "qid": "Q411478",
+                "url": "https://en.wikipedia.org/wiki/Fluconazole"
+            },
+            {
+                "name": "amphotericin B",
+                "qid": "Q412223",
+                "url": "https://en.wikipedia.org/wiki/Amphotericin_B"
+            },
+            {
+                "name": "azithromycin",
+                "qid": "Q165399",
+                "url": "https://en.wikipedia.org/wiki/Azithromycin"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Naegleria fowleri",
+                "qid": "Q131273",
+                "url": "https://en.wikipedia.org/wiki/Naegleria_fowleri"
+            }
+        ]
+    }
+}

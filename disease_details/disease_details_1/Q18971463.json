@@ -1,0 +1,21 @@
+{
+    "name": "ankle or tarsus enthesopathy",
+    "qid": "Q18971463",
+    "icd_10": "M77.40",
+    "description": "human disease",
+    "aliases": [
+        "Ankle or tarsus enthesopathy",
+        "obsolete Ankle or tarsus enthesopathy"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "foot diseases",
+                "qid": "Q5282137",
+                "url": "https://en.wikipedia.org/wiki/Diseases_of_the_foot"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Ord's thyroiditis",
+    "qid": "Q7100346",
+    "icd_10": "E06.5",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Ord%27s_thyroiditis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "autoimmune thyroiditis",
+                "qid": "Q187842",
+                "url": "https://en.wikipedia.org/wiki/Autoimmune_thyroiditis"
+            }
+        ]
+    }
+}

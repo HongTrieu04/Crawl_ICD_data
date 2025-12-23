@@ -1,0 +1,32 @@
+{
+    "name": "nephrocalcinosis",
+    "qid": "Q1527711",
+    "icd_10": "N29.8",
+    "description": "Human disease",
+    "aliases": [
+        "Hypercalcemic nephropathy"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Nephrocalcinosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "kidney disease",
+                "qid": "Q1054718",
+                "url": "https://en.wikipedia.org/wiki/Kidney_disease"
+            },
+            {
+                "name": "calcinosis",
+                "qid": "Q239027",
+                "url": "https://en.wikipedia.org/wiki/Calcinosis"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "name": "non-syndromic limb reduction defect",
+    "qid": "Q55788825",
+    "icd_10": "Q73",
+    "description": "human disease",
+    "aliases": [
+        "isolated limb reduction defect",
+        "Non-syndromic limb hypoplasia",
+        "nonsyndromic limb reduction defect"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "congenital amputation",
+                "qid": "Q5160408",
+                "url": "https://en.wikipedia.org/wiki/Congenital_amputation"
+            },
+            {
+                "name": "non-syndromic limb malformation",
+                "qid": "Q55785344"
+            },
+            {
+                "name": "dysostosis of genetic origin with limb anomaly as a major feature",
+                "qid": "Q55788097"
+            }
+        ]
+    }
+}

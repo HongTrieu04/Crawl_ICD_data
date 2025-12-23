@@ -1,0 +1,41 @@
+{
+    "name": "folate deficiency",
+    "qid": "Q2915477",
+    "icd_10": "D52",
+    "description": "Human disease",
+    "aliases": [
+        "deficiency of folic acid (disorder)",
+        "folic acid deficiency",
+        "Folic acid deficiency",
+        "folic acid deficiency (disorder)",
+        "obsolete folic acid deficiency"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Folate_deficiency",
+    "details": {
+        "Drug used for treatment": [
+            {
+                "name": "folic acid",
+                "qid": "Q127060",
+                "url": "https://en.wikipedia.org/wiki/Folate"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "vitamin B deficiency",
+                "qid": "Q19001111"
+            },
+            {
+                "name": "disorder of folate metabolism and transport",
+                "qid": "Q55786977"
+            }
+        ]
+    }
+}

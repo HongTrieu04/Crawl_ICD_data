@@ -1,0 +1,21 @@
+{
+    "name": "hyperemesis",
+    "qid": "Q18968158",
+    "icd_10": "O21.0",
+    "description": "frequent vomiting",
+    "aliases": [
+        "frequent vomiting",
+        "obsolete mild hyperemesis gravidarum"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "vomiting",
+                "qid": "Q127076",
+                "url": "https://en.wikipedia.org/wiki/Vomiting"
+            }
+        ]
+    }
+}

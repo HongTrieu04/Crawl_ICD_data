@@ -1,0 +1,49 @@
+{
+    "name": "Pancoast tumor",
+    "qid": "Q1750884",
+    "icd_10": "C34.1",
+    "description": "tumor of the pulmonary apex",
+    "aliases": [
+        "Malignant Superior Sulcus Lung Neoplasm",
+        "Malignant Superior Sulcus Lung Tumor",
+        "Malignant Superior Sulcus Neoplasm",
+        "Malignant Superior Sulcus Neoplasm of Lung",
+        "Malignant Superior Sulcus Neoplasm of the Lung",
+        "malignant Superior Sulcus tumor",
+        "Malignant Superior Sulcus Tumor of Lung",
+        "Malignant Superior Sulcus Tumor of the Lung",
+        "Pancoast syndrome",
+        "Pancoast Tumor",
+        "Pancoast's syndrome",
+        "Pancoast's Tumor",
+        "Pancoast's tumour",
+        "Superior pulmonary sulcus syndrome"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pancoast%20Tumor%201.jpg",
+    "url": "https://en.wikipedia.org/wiki/Pancoast_tumor",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "lung cancer",
+                "qid": "Q47912",
+                "url": "https://en.wikipedia.org/wiki/Lung_cancer"
+            },
+            {
+                "name": "pulmonary sulcus neoplasm",
+                "qid": "Q56014675"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ]
+    }
+}

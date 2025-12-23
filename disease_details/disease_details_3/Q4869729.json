@@ -1,0 +1,27 @@
+{
+    "name": "battered woman syndrome",
+    "qid": "Q4869729",
+    "icd_10": "T74.1",
+    "description": "pattern of signs and symptoms displayed by a woman who has suffered persistent intimate partner violence",
+    "aliases": [
+        "battered person syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Battered_woman_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "abuse defense",
+                "qid": "Q4670673",
+                "url": "https://en.wikipedia.org/wiki/Abuse_defense"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "psychology",
+                "qid": "Q9418",
+                "url": "https://en.wikipedia.org/wiki/Psychology"
+            }
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "septic abortion",
+    "qid": "Q17011656",
+    "icd_10": "O06.5",
+    "description": "form of miscarriage that is associated with a serious uterine infection",
+    "aliases": [
+        "abortion with sepsis",
+        "obsolete septic abortion",
+        "septic miscarriage"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Septic_abortion",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "abortion complication",
+                "qid": "Q30348304"
+            }
+        ]
+    }
+}

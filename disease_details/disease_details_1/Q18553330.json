@@ -1,0 +1,21 @@
+{
+    "name": "extrapulmonary tuberculosis",
+    "qid": "Q18553330",
+    "icd_10": "A18",
+    "description": "respiratory disease",
+    "aliases": [
+        "Extrapulmonary tuberculosis",
+        "Tuberculosis, Extrapulmonary"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mal%20de%20POTT%20esp.jpg",
+    "url": "https://en.wikipedia.org/wiki/Extrapulmonary_tuberculosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "tuberculosis",
+                "qid": "Q12204",
+                "url": "https://en.wikipedia.org/wiki/Tuberculosis"
+            }
+        ]
+    }
+}

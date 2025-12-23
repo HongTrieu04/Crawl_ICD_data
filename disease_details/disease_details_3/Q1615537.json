@@ -1,0 +1,30 @@
+{
+    "name": "Commotio cordis",
+    "qid": "Q1615537",
+    "icd_10": "S26",
+    "description": "heart injury",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Commotio%20Cordis%20Risk%20Zone.jpg",
+    "url": "https://en.wikipedia.org/wiki/Commotio_cordis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "traumatic cardiac arrest",
+                "qid": "Q7835828",
+                "url": "https://en.wikipedia.org/wiki/Traumatic_cardiac_arrest"
+            },
+            {
+                "name": "cardiac arrest",
+                "qid": "Q202837",
+                "url": "https://en.wikipedia.org/wiki/Cardiac_arrest"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ]
+    }
+}

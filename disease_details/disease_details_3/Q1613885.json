@@ -1,0 +1,35 @@
+{
+    "name": "herpesviral encephalitis",
+    "qid": "Q1613885",
+    "icd_10": "B00.4",
+    "description": "encephalitis associated with herpes simplex virus",
+    "aliases": [
+        "Encephalopathy, Acute, Infection-Induced, Susceptibility To, 2",
+        "HERPES SIMPLEX ENCEPHALITIS, SUSCEPTIBILITY TO, 2",
+        "Herpes Simplex Encephalitis, Susceptibility To, type 2",
+        "Herpes simplex virus encephalitis",
+        "obsolete Herpes simplex virus encephalitis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hsv%20encephalitis.jpg",
+    "url": "https://en.wikipedia.org/wiki/Herpes_simplex_encephalitis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "viral encephalitis",
+                "qid": "Q3053951",
+                "url": "https://en.wikipedia.org/wiki/Viral_encephalitis"
+            },
+            {
+                "name": "Herpesviridae infectious disease",
+                "qid": "Q18975237"
+            }
+        ]
+    }
+}

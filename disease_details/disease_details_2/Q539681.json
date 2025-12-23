@@ -1,0 +1,39 @@
+{
+    "name": "angiomyolipoma",
+    "qid": "Q539681",
+    "icd_10": "D30.0",
+    "description": "cell type benign neoplasm that from perivascular epithelioid cells",
+    "aliases": [
+        "Angiomyolipoma",
+        "Angiomyolipoma (morphologic abnormality)"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Angiomyolipoma",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "benign neoplasms by histologic type",
+                "qid": "Q18553645"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "everolimus",
+                "qid": "Q421052",
+                "url": "https://en.wikipedia.org/wiki/Everolimus"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ]
+    }
+}

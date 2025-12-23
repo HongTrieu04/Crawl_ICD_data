@@ -1,0 +1,41 @@
+{
+    "name": "retinal perforation",
+    "qid": "Q18554331",
+    "icd_10": "H33.3",
+    "description": "human disease",
+    "aliases": [
+        "retinal break",
+        "Retinal break",
+        "Retinal breaks NOS",
+        "retinal defect",
+        "Retinal dialysis",
+        "Retinal dialysis (disorder)",
+        "retinal perforations",
+        "Retinal tear",
+        "Retinal tear (disorder)",
+        "Retinal tears"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "retinal disease",
+                "qid": "Q550455",
+                "url": "https://en.wikipedia.org/wiki/Retinopathy"
+            },
+            {
+                "name": "retinal detachment",
+                "qid": "Q625164",
+                "url": "https://en.wikipedia.org/wiki/Retinal_detachment"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ]
+    }
+}

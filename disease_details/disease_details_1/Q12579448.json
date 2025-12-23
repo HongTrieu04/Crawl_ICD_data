@@ -1,0 +1,21 @@
+{
+    "name": "pulmonary agenesis",
+    "qid": "Q12579448",
+    "icd_10": "Q33.3",
+    "description": "medical condition",
+    "aliases": [
+        "Congenital Absence of Lung",
+        "Pulmonary agenesis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pulmonary_agenesis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "pulmonary hypoplasia",
+                "qid": "Q7259532",
+                "url": "https://en.wikipedia.org/wiki/Pulmonary_hypoplasia"
+            }
+        ]
+    }
+}

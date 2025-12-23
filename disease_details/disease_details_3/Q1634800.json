@@ -1,0 +1,31 @@
+{
+    "name": "telangiectasia",
+    "qid": "Q1634800",
+    "icd_10": "M34.1",
+    "description": "condition caused by small dilated blood vessels near the surface of the skin or mucous membranes",
+    "aliases": [
+        "telangiectasis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Teleangiektasie.jpg",
+    "url": "https://en.wikipedia.org/wiki/Telangiectasia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "peripheral vascular disease",
+                "qid": "Q26695607"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ]
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "name": "tetany",
+    "qid": "Q511818",
+    "icd_10": "R29.0",
+    "description": "medical sign consisting of the involuntary contraction of muscles",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Tetany",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            },
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "tetanic contraction",
+                "qid": "Q1632123",
+                "url": "https://en.wikipedia.org/wiki/Tetanic_contraction"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "calcium gluceptate",
+                "qid": "Q5018826",
+                "url": "https://en.wikipedia.org/wiki/Calcium_glucoheptonate"
+            },
+            {
+                "name": "calcium chloride",
+                "qid": "Q208451",
+                "url": "https://en.wikipedia.org/wiki/Calcium_chloride"
+            },
+            {
+                "name": "calcium gluconate",
+                "qid": "Q413739",
+                "url": "https://en.wikipedia.org/wiki/Calcium_gluconate"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "hypocalcaemia",
+                "qid": "Q936382",
+                "url": "https://en.wikipedia.org/wiki/Hypocalcemia"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "musculoskeletal system symptom",
+                "qid": "Q102187380"
+            }
+        ]
+    }
+}

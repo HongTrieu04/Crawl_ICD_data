@@ -1,0 +1,41 @@
+{
+    "name": "synovitis",
+    "qid": "Q538432",
+    "icd_10": "M65.9",
+    "description": "connective tissue disease that results in inflammation located in synovial membrane that lines a synovial joint which causes pain and swelling",
+    "aliases": [
+        "Synovitides",
+        "synovitis and tenosynovitis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Synovitis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "connective tissue disease",
+                "qid": "Q1779300",
+                "url": "https://en.wikipedia.org/wiki/Connective_tissue_disease"
+            },
+            {
+                "name": "synovitis and tenosynovitis",
+                "qid": "Q55013011"
+            },
+            {
+                "name": "joint inflammation",
+                "qid": "Q102186573"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ]
+    }
+}

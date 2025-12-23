@@ -1,0 +1,27 @@
+{
+    "name": "Sheldon-Hall syndrome",
+    "qid": "Q9390344",
+    "icd_10": "Q68.8",
+    "description": "human disease",
+    "aliases": [
+        "Freeman-Sheldon syndrome variant",
+        "distal arthrogryposis type 2B"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "distal arthrogryposis",
+                "qid": "Q18553375"
+            }
+        ]
+    }
+}

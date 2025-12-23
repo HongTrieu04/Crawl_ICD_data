@@ -1,0 +1,49 @@
+{
+    "name": "nephroblastoma",
+    "qid": "Q756289",
+    "icd_10": "C64",
+    "description": "rare disease",
+    "aliases": [
+        "adult nephroblastoma",
+        "adult renal Wilms' tumor",
+        "childhood renal Wilms tumor",
+        "childhood renal Wilms' cancer",
+        "renal Wilms tumor",
+        "Wilm's tumor",
+        "Wilm's tumour",
+        "Wilms tumor",
+        "Wilms tumour",
+        "Wilms' tumor",
+        "Wilms’ tumour"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Wilms%20tumour%20-%20very%20high%20mag.jpg",
+    "url": "https://en.wikipedia.org/wiki/Wilms%27_tumor",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "kidney cancer",
+                "qid": "Q3242950",
+                "url": "https://en.wikipedia.org/wiki/Kidney_cancer"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "nephrectomy",
+                "qid": "Q1357376",
+                "url": "https://en.wikipedia.org/wiki/Nephrectomy"
+            }
+        ]
+    }
+}

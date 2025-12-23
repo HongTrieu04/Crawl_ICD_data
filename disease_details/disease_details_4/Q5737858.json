@@ -1,0 +1,28 @@
+{
+    "name": "Hereditary mucoepithelial dysplasia",
+    "qid": "Q5737858",
+    "icd_10": "L98.9",
+    "description": "medical condition",
+    "aliases": [
+        "Hmd",
+        "MUCOEPITHELIAL DYSPLASIA, HEREDITARY",
+        "Urban-Schosser-Spohn syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hereditary_mucoepithelial_dysplasia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "immune deficiency with skin involvement",
+                "qid": "Q55788607"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "intrauterine hypoxia",
+    "qid": "Q4113828",
+    "icd_10": "P21",
+    "description": "human disease",
+    "aliases": [
+        "intrauterine hypoxia and birth asphyxia",
+        "obsolete intrauterine hypoxia and birth asphyxia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Intrauterine_hypoxia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "pediatrics",
+                "qid": "Q123028",
+                "url": "https://en.wikipedia.org/wiki/Pediatrics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "complications of pregnancy",
+                "qid": "Q2916477",
+                "url": "https://en.wikipedia.org/wiki/Complications_of_pregnancy"
+            },
+            {
+                "name": "prenatal injury",
+                "qid": "Q55083326"
+            }
+        ]
+    }
+}

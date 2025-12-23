@@ -1,0 +1,33 @@
+{
+    "name": "auditory hallucination",
+    "qid": "Q1054088",
+    "icd_10": "R44.0",
+    "description": "hearing sounds without finding external stimuli, but having the characteristic of actually hearing sounds",
+    "aliases": [
+        "hearing voice",
+        "paracusia",
+        "hearing hallucination"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Auditory_hallucination",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "hallucination",
+                "qid": "Q130741",
+                "url": "https://en.wikipedia.org/wiki/Hallucination"
+            },
+            {
+                "name": "hearing disorder",
+                "qid": "Q1644260"
+            }
+        ]
+    }
+}

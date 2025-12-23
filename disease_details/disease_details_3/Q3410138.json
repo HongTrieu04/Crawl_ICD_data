@@ -1,0 +1,29 @@
+{
+    "name": "chronic hallucinatory psychosis",
+    "qid": "Q3410138",
+    "icd_10": "F28",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Chronic_hallucinatory_psychosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "psychosis",
+                "qid": "Q170082",
+                "url": "https://en.wikipedia.org/wiki/Psychosis"
+            },
+            {
+                "name": "hallucinosis",
+                "qid": "Q4132712"
+            }
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "name": "immediate postpartum haemorrhage",
+    "qid": "Q21660381",
+    "icd_10": "O72.1",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "postpartum hemorrhage",
+                "qid": "Q2916482",
+                "url": "https://en.wikipedia.org/wiki/Postpartum_bleeding"
+            }
+        ]
+    }
+}

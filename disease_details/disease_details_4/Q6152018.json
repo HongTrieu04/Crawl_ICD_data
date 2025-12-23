@@ -1,0 +1,20 @@
+{
+    "name": "renal trauma",
+    "qid": "Q6152018",
+    "icd_10": "S37.0",
+    "description": null,
+    "aliases": [
+        "kidney trauma"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "kidney disease",
+                "qid": "Q1054718",
+                "url": "https://en.wikipedia.org/wiki/Kidney_disease"
+            }
+        ]
+    }
+}

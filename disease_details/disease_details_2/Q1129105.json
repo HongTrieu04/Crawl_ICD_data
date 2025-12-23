@@ -1,0 +1,59 @@
+{
+    "name": "diabetic nephropathy",
+    "qid": "Q1129105",
+    "icd_10": "E10.2",
+    "description": "disease",
+    "aliases": [
+        "diabetes mellitus insulin dependent type not stated as uncontrolled with renal manifestations",
+        "diabetes mellitus insulin dependent type uncontrolled with renal manifestations",
+        "Diabetes mellitus juvenile type, not stated as uncontrolled, with renal manifestations",
+        "Diabetes mellitus juvenile type, uncontrolled, with renal manifestations",
+        "Diabetes mellitus type I [insulin dependent type] [IDDM] [juvenile type], not stated as uncontrolled, with renal manifestations",
+        "Diabetes mellitus type I [juvenile type], uncontrolled, with renal manifestations",
+        "diabetic kidney disease",
+        "Diabetic Nephropathies",
+        "Diabetic Nephropathy",
+        "Nephropatia diabetica",
+        "obsolete diabetic nephropathy"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nodular%20glomerulosclerosis.jpeg",
+    "url": "https://en.wikipedia.org/wiki/Diabetic_nephropathy",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            },
+            {
+                "name": "nephrology",
+                "qid": "Q177635",
+                "url": "https://en.wikipedia.org/wiki/Nephrology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "gabapentin",
+                "qid": "Q410352",
+                "url": "https://en.wikipedia.org/wiki/Gabapentin"
+            },
+            {
+                "name": "pregabalin",
+                "qid": "Q412174",
+                "url": "https://en.wikipedia.org/wiki/Pregabalin"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "kidney disease",
+                "qid": "Q1054718",
+                "url": "https://en.wikipedia.org/wiki/Kidney_disease"
+            },
+            {
+                "name": "complications of diabetes mellitus",
+                "qid": "Q4198677",
+                "url": "https://en.wikipedia.org/wiki/Complications_of_diabetes"
+            }
+        ]
+    }
+}

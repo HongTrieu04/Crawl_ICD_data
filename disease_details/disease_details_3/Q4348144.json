@@ -1,0 +1,44 @@
+{
+    "name": "Weaver syndrome",
+    "qid": "Q4348144",
+    "icd_10": "Q87.3",
+    "description": "human disease",
+    "aliases": [
+        "WVS",
+        "Camptodactyly-overgrowth-unusual facies syndrome",
+        "Weaver-Like syndrome",
+        "Weaver-Smith Syndrome",
+        "Weaver-Williams syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Weaver_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "congenital disorder",
+                "qid": "Q727096",
+                "url": "https://en.wikipedia.org/wiki/Birth_defect"
+            },
+            {
+                "name": "overgrowth syndrome",
+                "qid": "Q7113674",
+                "url": "https://en.wikipedia.org/wiki/Overgrowth_syndrome"
+            },
+            {
+                "name": "multiple congenital anomalies/dysmorphic syndrome-intellectual disability",
+                "qid": "Q55785288"
+            },
+            {
+                "name": "genetic syndromic intellectual disability",
+                "qid": "Q55785866"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

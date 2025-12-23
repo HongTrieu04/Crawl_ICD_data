@@ -1,0 +1,39 @@
+{
+    "name": "transient tic disorder",
+    "qid": "Q2184304",
+    "icd_10": "F95.0",
+    "description": "tic disorder that consists of multiple motor and/or phonic tics with duration of at least 4 weeks, but less than 12 months",
+    "aliases": [
+        "Benign Tic Disorder of Childhood"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "pimozide",
+                "qid": "Q144085",
+                "url": "https://en.wikipedia.org/wiki/Pimozide"
+            },
+            {
+                "name": "clonazepam",
+                "qid": "Q407988",
+                "url": "https://en.wikipedia.org/wiki/Clonazepam"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "tic disorder",
+                "qid": "Q1077139",
+                "url": "https://en.wikipedia.org/wiki/Tic_disorder"
+            }
+        ]
+    }
+}

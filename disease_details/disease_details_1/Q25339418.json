@@ -1,0 +1,18 @@
+{
+    "name": "Salivary gland hyperplasia",
+    "qid": "Q25339418",
+    "icd_10": "K11.1",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Salivary_gland_hyperplasia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "salivary gland disease",
+                "qid": "Q17152566",
+                "url": "https://en.wikipedia.org/wiki/Salivary_gland_disease"
+            }
+        ]
+    }
+}

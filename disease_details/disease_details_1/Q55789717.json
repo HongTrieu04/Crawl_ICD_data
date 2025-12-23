@@ -1,0 +1,27 @@
+{
+    "name": "benign neoplasm of pharynx",
+    "qid": "Q55789717",
+    "icd_10": "D10.9",
+    "description": "benign neoplasm that involves the pharynx",
+    "aliases": [
+        "Benign Neoplasm of the Pharynx",
+        "Benign Pharyngeal Neoplasm",
+        "Benign Pharyngeal Tumor",
+        "Benign Pharynx Neoplasm",
+        "Benign Pharynx Tumor",
+        "Benign Tumor of Pharynx",
+        "Benign Tumor of the Pharynx",
+        "Pharyngeal Neoplasm Benign",
+        "pharynx benign neoplasm"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "pharynx neoplasm",
+                "qid": "Q56014508"
+            }
+        ]
+    }
+}

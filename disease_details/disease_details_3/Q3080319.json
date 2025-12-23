@@ -1,0 +1,43 @@
+{
+    "name": "penicilliosis",
+    "qid": "Q3080319",
+    "icd_10": "B48.4",
+    "description": "Human disease",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Talaromycosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "opportunistic mycosis",
+                "qid": "Q18555090"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "hepatosplenomegaly",
+                "qid": "Q1260186",
+                "url": "https://en.wikipedia.org/wiki/Hepatosplenomegaly"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Talaromyces marneffei",
+                "qid": "Q2317277",
+                "url": "https://en.wikipedia.org/wiki/Talaromyces_marneffei"
+            }
+        ]
+    }
+}

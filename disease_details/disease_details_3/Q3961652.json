@@ -1,0 +1,46 @@
+{
+    "name": "middle lobe syndrome",
+    "qid": "Q3961652",
+    "icd_10": "J98.1",
+    "description": "human disease",
+    "aliases": [
+        "Brock’s syndrome"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Symptoms": [
+            {
+                "name": "lymphadenopathy",
+                "qid": "Q847726",
+                "url": "https://en.wikipedia.org/wiki/Lymphadenopathy"
+            },
+            {
+                "name": "granulomatous inflammation",
+                "qid": "Q3150763"
+            },
+            {
+                "name": "enlargement of lymph nodes",
+                "qid": "Q102187500"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "atelectasis",
+                "qid": "Q754031",
+                "url": "https://en.wikipedia.org/wiki/Atelectasis"
+            },
+            {
+                "name": "lung disease",
+                "qid": "Q3392853"
+            }
+        ]
+    }
+}

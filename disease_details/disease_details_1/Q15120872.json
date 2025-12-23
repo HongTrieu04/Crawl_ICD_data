@@ -1,0 +1,25 @@
+{
+    "name": "lightning strike",
+    "qid": "Q15120872",
+    "icd_10": "X33",
+    "description": "electric discharge between the atmosphere and the ground",
+    "aliases": [
+        "struck by lightning"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lightning%20strike%20jan%202007.jpg",
+    "url": "https://en.wikipedia.org/wiki/Lightning_strike",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "lightning",
+                "qid": "Q33741",
+                "url": "https://en.wikipedia.org/wiki/Lightning"
+            },
+            {
+                "name": "accident",
+                "qid": "Q171558",
+                "url": "https://en.wikipedia.org/wiki/Accident"
+            }
+        ]
+    }
+}

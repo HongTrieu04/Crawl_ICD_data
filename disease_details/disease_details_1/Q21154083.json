@@ -1,0 +1,20 @@
+{
+    "name": "corneal endothelial dystrophy",
+    "qid": "Q21154083",
+    "icd_10": "H18.51",
+    "description": "Human disease",
+    "aliases": [
+        "endothelial dystrophy"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "corneal dystrophy",
+                "qid": "Q2044949",
+                "url": "https://en.wikipedia.org/wiki/Corneal_dystrophy"
+            }
+        ]
+    }
+}

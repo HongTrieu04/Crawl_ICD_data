@@ -1,0 +1,18 @@
+{
+    "name": "malnutrition-related diabetes mellitus",
+    "qid": "Q4409454",
+    "icd_10": "E12",
+    "description": "type of disease",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Blue%20circle%20for%20diabetes.svg",
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "diabetes",
+                "qid": "Q12206",
+                "url": "https://en.wikipedia.org/wiki/Diabetes"
+            }
+        ]
+    }
+}

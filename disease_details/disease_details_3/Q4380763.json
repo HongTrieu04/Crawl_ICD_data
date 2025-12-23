@@ -1,0 +1,34 @@
+{
+    "name": "penetrating head injury",
+    "qid": "Q4380763",
+    "icd_10": "S01.9",
+    "description": "head injury in which the outer layer of the meninges is breached",
+    "aliases": [
+        "Head Injuries, Penetrating",
+        "open head injury",
+        "penetrating head injuries"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Phineas%20gage%20-%201868%20skull%20diagram.jpg",
+    "url": "https://en.wikipedia.org/wiki/Penetrating_head_injury",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "cranial trauma",
+                "qid": "Q2920572",
+                "url": "https://en.wikipedia.org/wiki/Head_injury"
+            },
+            {
+                "name": "penetrating trauma",
+                "qid": "Q7162621",
+                "url": "https://en.wikipedia.org/wiki/Penetrating_trauma"
+            }
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Disseminated coccidioidomycosis",
+    "qid": "Q5282746",
+    "icd_10": "B38.7",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Disseminated_coccidioidomycosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "coccidioidomycosis",
+                "qid": "Q868137",
+                "url": "https://en.wikipedia.org/wiki/Coccidioidomycosis"
+            }
+        ]
+    }
+}

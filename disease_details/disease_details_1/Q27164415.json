@@ -1,0 +1,28 @@
+{
+    "name": "alpha-methylacyl-CoA racemase deficiency",
+    "qid": "Q27164415",
+    "icd_10": "K76.8",
+    "description": "Human disease",
+    "aliases": [
+        "AMACR deficiency",
+        "Congenital bile acid synthesis defect type 4"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "peroxisomal disease",
+                "qid": "Q3281322",
+                "url": "https://en.wikipedia.org/wiki/Peroxisomal_disorder"
+            }
+        ]
+    }
+}

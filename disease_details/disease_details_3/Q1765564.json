@@ -1,0 +1,67 @@
+{
+    "name": "septic shock",
+    "qid": "Q1765564",
+    "icd_10": "R57.2",
+    "description": "medical condition defined as sepsis that has circulatory, cellular and metabolic abnormalities, is associated with clinical severity and greater risk of dying.",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sepsis%20%26%20Choc%20septique.pdf",
+    "url": "https://en.wikipedia.org/wiki/Septic_shock",
+    "details": {
+        "Drug used for treatment": [
+            {
+                "name": "hydrocortisone",
+                "qid": "Q26981430",
+                "url": "https://en.wikipedia.org/wiki/Hydrocortisone"
+            },
+            {
+                "name": "dexamethasone",
+                "qid": "Q422252",
+                "url": "https://en.wikipedia.org/wiki/Dexamethasone"
+            },
+            {
+                "name": "epinephrine",
+                "qid": "Q132621",
+                "url": "https://en.wikipedia.org/wiki/Adrenaline"
+            },
+            {
+                "name": "naloxone",
+                "qid": "Q282902",
+                "url": "https://en.wikipedia.org/wiki/Naloxone"
+            },
+            {
+                "name": "phenylephrine",
+                "qid": "Q421910",
+                "url": "https://en.wikipedia.org/wiki/Phenylephrine"
+            },
+            {
+                "name": "arginine vasopressin",
+                "qid": "Q183011",
+                "url": "https://en.wikipedia.org/wiki/Vasopressin_(medication)"
+            },
+            {
+                "name": "norepinephrine",
+                "qid": "Q186242",
+                "url": "https://en.wikipedia.org/wiki/Norepinephrine"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "intensive care medicine",
+                "qid": "Q679690",
+                "url": "https://en.wikipedia.org/wiki/Intensive_care_medicine"
+            },
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "shock",
+                "qid": "Q178061",
+                "url": "https://en.wikipedia.org/wiki/Shock_(circulatory)"
+            }
+        ]
+    }
+}

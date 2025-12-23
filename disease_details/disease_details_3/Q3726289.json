@@ -1,0 +1,20 @@
+{
+    "name": "enterorrhagia",
+    "qid": "Q3726289",
+    "icd_10": "K92.2",
+    "description": null,
+    "aliases": [
+        "intestinal hemorrhage"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "lower gastrointestinal bleeding",
+                "qid": "Q2915863",
+                "url": "https://en.wikipedia.org/wiki/Lower_gastrointestinal_bleeding"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "name": "factor XIII deficiency",
+    "qid": "Q1393725",
+    "icd_10": "D68.2",
+    "description": "Human disease",
+    "aliases": [
+        "deficiency, Laki-Lorand factor",
+        "Factor XIII deficiency disease",
+        "factor XIII deficiency disease (disorder)",
+        "Fibrin-stabilizing factor deficiency",
+        "Hereditary factor XIII deficiency disease",
+        "hereditary factor XIII deficiency disease (disorder)"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Factor_XIII_deficiency",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "inherited blood coagulation disease",
+                "qid": "Q18555031"
+            },
+            {
+                "name": "rare hemorrhagic disorder due to a constitutional coagulation factors defect",
+                "qid": "Q55788455"
+            }
+        ]
+    }
+}

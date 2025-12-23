@@ -1,0 +1,25 @@
+{
+    "name": "nuchal cord",
+    "qid": "Q1961969",
+    "icd_10": "O69.1",
+    "description": "Umbilical cord wrapped around the fetus's neck in the womb",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Nuchal_cord",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "obstetrics",
+                "qid": "Q5284418",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "umbilical cord compression",
+                "qid": "Q7881314",
+                "url": "https://en.wikipedia.org/wiki/Umbilical_cord_compression"
+            }
+        ]
+    }
+}

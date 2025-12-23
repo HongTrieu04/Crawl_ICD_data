@@ -1,0 +1,27 @@
+{
+    "name": "knee disorder",
+    "qid": "Q18971535",
+    "icd_10": "M23",
+    "description": "human disease",
+    "aliases": [
+        "knee disease"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "arthropathy",
+                "qid": "Q708176",
+                "url": "https://en.wikipedia.org/wiki/Arthropathy"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "knee",
+                "qid": "Q37425",
+                "url": "https://en.wikipedia.org/wiki/Knee"
+            }
+        ]
+    }
+}

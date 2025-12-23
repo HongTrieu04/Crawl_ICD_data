@@ -1,0 +1,32 @@
+{
+    "name": "deaf-mute",
+    "qid": "Q1118643",
+    "icd_10": "H91.3",
+    "description": "deaf person using a sign language or both deaf and could not speak",
+    "aliases": [
+        "deaf",
+        "deaf muteness",
+        "deaf-muteness"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Deaf-mute",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "deafness",
+                "qid": "Q12133",
+                "url": "https://en.wikipedia.org/wiki/Deafness"
+            },
+            {
+                "name": "muteness",
+                "qid": "Q671776",
+                "url": "https://en.wikipedia.org/wiki/Muteness"
+            },
+            {
+                "name": "hard of hearing person",
+                "qid": "Q69946825",
+                "url": "https://en.wikipedia.org/wiki/Persons_with_hearing_impairments"
+            }
+        ]
+    }
+}

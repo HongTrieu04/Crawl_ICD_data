@@ -1,0 +1,30 @@
+{
+    "name": "bad trip",
+    "qid": "Q622106",
+    "icd_10": "F16.0",
+    "description": "frightening and unpleasant experience triggered by psychoactive drugs",
+    "aliases": [
+        "\"bad trips\" (drugs)",
+        "acute intoxication from hallucinogens",
+        "bad trip due to hallucinogens",
+        "bad trip due to psychedelics",
+        "bad trips (drugs)",
+        "bad trips due to hallucinogenic drugs",
+        "psychedelic crisis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Bad_trip",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "psychedelic experience",
+                "qid": "Q1076521",
+                "url": "https://en.wikipedia.org/wiki/Psychedelic_experience"
+            },
+            {
+                "name": "hallucinogen abuse",
+                "qid": "Q18554379"
+            }
+        ]
+    }
+}

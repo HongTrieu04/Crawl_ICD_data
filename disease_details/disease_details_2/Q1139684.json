@@ -1,0 +1,30 @@
+{
+    "name": "chronic bronchitis",
+    "qid": "Q1139684",
+    "icd_10": "J42",
+    "description": "lung disease that involves excessive mucus production and is accompanied by a continuous cough",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Chronic_bronchitis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "bronchitis",
+                "qid": "Q173022",
+                "url": "https://en.wikipedia.org/wiki/Bronchitis"
+            },
+            {
+                "name": "chronic condition",
+                "qid": "Q383126",
+                "url": "https://en.wikipedia.org/wiki/Chronic_condition"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ]
+    }
+}

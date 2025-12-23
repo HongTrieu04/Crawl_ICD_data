@@ -1,0 +1,27 @@
+{
+    "name": "cervical syndrome",
+    "qid": "Q196781",
+    "icd_10": "M50.1",
+    "description": "general term for complaints of the cervical spine",
+    "aliases": [
+        "Neck syndrome"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "spinal disease",
+                "qid": "Q7577457",
+                "url": "https://en.wikipedia.org/wiki/Spinal_disease"
+            }
+        ]
+    }
+}

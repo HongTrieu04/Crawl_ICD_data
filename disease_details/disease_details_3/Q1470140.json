@@ -1,0 +1,86 @@
+{
+    "name": "cryptococcosis",
+    "qid": "Q1470140",
+    "icd_10": "B45",
+    "description": "potentially fatal disease",
+    "aliases": [
+        "Busse-Buschke's disease",
+        "cryptococcal infection",
+        "Cryptococcosis、Cryptococcal disease",
+        "cryptococcus neoformans infection",
+        "European cryptococcosis",
+        "torula",
+        "torulosis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pulmonary%20cryptococcosis%20%282%29%20Alcian%20blue-PAS.jpg",
+    "url": "https://en.wikipedia.org/wiki/Cryptococcosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "immune disorder",
+                "qid": "Q3843811",
+                "url": "https://en.wikipedia.org/wiki/Immune_disorder"
+            },
+            {
+                "name": "fungal infectious disease",
+                "qid": "Q464067",
+                "url": "https://en.wikipedia.org/wiki/Fungal_infection"
+            },
+            {
+                "name": "opportunistic mycosis",
+                "qid": "Q18555090"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "itraconazole",
+                "qid": "Q411229",
+                "url": "https://en.wikipedia.org/wiki/Itraconazole"
+            },
+            {
+                "name": "fluconazole",
+                "qid": "Q411478",
+                "url": "https://en.wikipedia.org/wiki/Fluconazole"
+            },
+            {
+                "name": "amphotericin B",
+                "qid": "Q412223",
+                "url": "https://en.wikipedia.org/wiki/Amphotericin_B"
+            },
+            {
+                "name": "5-fluorocytosine",
+                "qid": "Q238490",
+                "url": "https://en.wikipedia.org/wiki/Flucytosine"
+            },
+            {
+                "name": "natamycin",
+                "qid": "Q248466",
+                "url": "https://en.wikipedia.org/wiki/Natamycin"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Q131924",
+                "qid": "Q131924",
+                "url": "https://en.wikipedia.org/wiki/Cryptococcus_neoformans"
+            },
+            {
+                "name": "Cryptococcus gattii",
+                "qid": "Q149791",
+                "url": "https://en.wikipedia.org/wiki/Cryptococcus_gattii"
+            }
+        ]
+    }
+}

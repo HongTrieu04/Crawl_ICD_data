@@ -1,0 +1,25 @@
+{
+    "name": "perinatal cyanotic attack",
+    "qid": "Q19001381",
+    "icd_10": "P28.2",
+    "description": "Human disease",
+    "aliases": [
+        "Cyanotic attacks of newborn",
+        "obsolete perinatal cyanotic attack"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "cyanosis",
+                "qid": "Q192120",
+                "url": "https://en.wikipedia.org/wiki/Cyanosis"
+            },
+            {
+                "name": "perinatal respiratory disorder",
+                "qid": "Q18966634"
+            }
+        ]
+    }
+}

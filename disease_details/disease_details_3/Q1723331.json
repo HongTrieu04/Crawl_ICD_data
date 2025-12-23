@@ -1,0 +1,40 @@
+{
+    "name": "ophthalmoplegia",
+    "qid": "Q1723331",
+    "icd_10": "H49.4",
+    "description": "Human disease",
+    "aliases": [
+        "oculomotor paralysis",
+        "Ophthalmoplegia (disorder)",
+        "Ophthalmoplegia NOS",
+        "Total ophthalmoplegia",
+        "Total ophthalmoplegia (disorder)"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Ophthalmoparesis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "paralysis",
+                "qid": "Q107231",
+                "url": "https://en.wikipedia.org/wiki/Paralysis"
+            },
+            {
+                "name": "ocular motility disease",
+                "qid": "Q11583708"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            }
+        ]
+    }
+}

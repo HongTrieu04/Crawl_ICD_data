@@ -1,0 +1,31 @@
+{
+    "name": "shock",
+    "qid": "Q178061",
+    "icd_10": "R57",
+    "description": "medical condition of insufficient blood flow to the tissues of the body",
+    "aliases": [
+        "circulatory shock"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Versorgung%20eines%20Notfallpatienten.jpg",
+    "url": "https://en.wikipedia.org/wiki/Shock_(circulatory)",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "intensive care medicine",
+                "qid": "Q679690",
+                "url": "https://en.wikipedia.org/wiki/Intensive_care_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "circulatory collapse",
+                "qid": "Q5121708",
+                "url": "https://en.wikipedia.org/wiki/Circulatory_collapse"
+            },
+            {
+                "name": "cardiovascular system symptom",
+                "qid": "Q102186826"
+            }
+        ]
+    }
+}

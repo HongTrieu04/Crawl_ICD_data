@@ -1,0 +1,38 @@
+{
+    "name": "multiple symmetric lipomatosis",
+    "qid": "Q4887975",
+    "icd_10": "E88.8",
+    "description": "skin condition characterized by extensive symmetric fat deposits in the head, neck, and shoulder girdle area",
+    "aliases": [
+        "Benign symmetric lipomatosis of Launois–Bensaude",
+        "Cephalothoracic lipodystrophy",
+        "Cervical Symmetrical Lipomatosis",
+        "Launois-Bensaude's lipomatosis",
+        "LIPODYSTROPHY, CEPHALOTHORACIC",
+        "LIPOMATOSIS, FAMILIAL BENIGN CERVICAL",
+        "Madelung's disease",
+        "Madelung's neck",
+        "Multiple symmetric lipomatosis",
+        "multiple symmetrical lipomatosis",
+        "Multiple symmetrical lipomatosis (disorder)",
+        "obsolete multiple symmetrical lipomatosis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Benign%20symmetric%20lipomatosis.JPG",
+    "url": "https://en.wikipedia.org/wiki/Benign_symmetric_lipomatosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "lipomatosis",
+                "qid": "Q1691351",
+                "url": "https://en.wikipedia.org/wiki/Lipomatosis"
+            }
+        ]
+    }
+}

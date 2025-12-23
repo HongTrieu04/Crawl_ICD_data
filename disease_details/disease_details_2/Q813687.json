@@ -1,0 +1,37 @@
+{
+    "name": "breech presentation",
+    "qid": "Q813687",
+    "icd_10": "O83.0",
+    "description": "malpresentation of the fetus at near term or during labor with the fetal cephalic pole in the fundus of the uterus",
+    "aliases": [
+        "breech birth"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Breechpre.jpg",
+    "url": "https://en.wikipedia.org/wiki/Breech_birth",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "malpresentation of fetus",
+                "qid": "Q1309355",
+                "url": "https://en.wikipedia.org/wiki/Malpresentation_of_fetus"
+            },
+            {
+                "name": "obstructed labor",
+                "qid": "Q1811189",
+                "url": "https://en.wikipedia.org/wiki/Obstructed_labour"
+            },
+            {
+                "name": "labor presentation",
+                "qid": "Q3409113",
+                "url": "https://en.wikipedia.org/wiki/Presentation_(obstetrics)"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "midwifery",
+                "qid": "Q20862341",
+                "url": "https://en.wikipedia.org/wiki/Midwifery"
+            }
+        ]
+    }
+}

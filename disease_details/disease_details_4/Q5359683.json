@@ -1,0 +1,26 @@
+{
+    "name": "elevated alpha-fetoprotein",
+    "qid": "Q5359683",
+    "icd_10": "R77.2",
+    "description": "state where Alpha-fetoprotein levels are outside of the reference range in the blood or amniotic fluid",
+    "aliases": [
+        "Elevated AFP"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Elevated_alpha-fetoprotein",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "clinical chemistry",
+                "qid": "Q849994",
+                "url": "https://en.wikipedia.org/wiki/Clinical_chemistry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "plasma protein metabolism disease",
+                "qid": "Q18555057"
+            }
+        ]
+    }
+}

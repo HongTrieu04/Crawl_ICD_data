@@ -1,0 +1,20 @@
+{
+    "name": "Scar sarcoid",
+    "qid": "Q7430224",
+    "icd_10": "D86.3",
+    "description": null,
+    "aliases": [
+        "Sarcoidosis in scars"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Scar_sarcoid",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "skin sarcoidosis",
+                "qid": "Q4769722",
+                "url": "https://en.wikipedia.org/wiki/Skin_manifestations_of_sarcoidosis"
+            }
+        ]
+    }
+}

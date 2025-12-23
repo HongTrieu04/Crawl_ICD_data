@@ -1,0 +1,34 @@
+{
+    "name": "Schatzki ring",
+    "qid": "Q628052",
+    "icd_10": "Q39.3",
+    "description": "congenital disorder of digestive system",
+    "aliases": [
+        "esophageal ring, lower",
+        "ESOPHAGEAL RING, LOWER",
+        "Schatzki's Ring"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Schatzki_ring",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "genetic disease",
+                "qid": "Q200779",
+                "url": "https://en.wikipedia.org/wiki/Genetic_disorder"
+            },
+            {
+                "name": "esophageal disease",
+                "qid": "Q2912193",
+                "url": "https://en.wikipedia.org/wiki/Esophageal_disease"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

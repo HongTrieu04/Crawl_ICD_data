@@ -1,0 +1,119 @@
+{
+    "name": "fatal familial insomnia",
+    "qid": "Q862872",
+    "icd_10": "A81.98",
+    "description": "Prion disease of the human brain",
+    "aliases": [
+        "FFI",
+        "Familial fatal insomnia",
+        "Insomnia familial fatal",
+        "Insomnia, Fatal Familial"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cranial%20imaging%20of%20a%20FFI%20patient.jpg",
+    "url": "https://en.wikipedia.org/wiki/Fatal_insomnia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "neuropathology",
+                "qid": "Q1650750",
+                "url": "https://en.wikipedia.org/wiki/Neuropathology"
+            },
+            {
+                "name": "sleep medicine",
+                "qid": "Q744029",
+                "url": "https://en.wikipedia.org/wiki/Sleep_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "genetic disease",
+                "qid": "Q200779",
+                "url": "https://en.wikipedia.org/wiki/Genetic_disorder"
+            },
+            {
+                "name": "insomnia",
+                "qid": "Q1869874",
+                "url": "https://en.wikipedia.org/wiki/Insomnia"
+            },
+            {
+                "name": "rare disease",
+                "qid": "Q929833",
+                "url": "https://en.wikipedia.org/wiki/Rare_disease"
+            },
+            {
+                "name": "transmissible spongiform encephalopathy",
+                "qid": "Q703961",
+                "url": "https://en.wikipedia.org/wiki/Transmissible_spongiform_encephalopathy"
+            },
+            {
+                "name": "inherited prion disease",
+                "qid": "Q16662567"
+            },
+            {
+                "name": "thalamic disease",
+                "qid": "Q18556419"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "hallucination",
+                "qid": "Q130741",
+                "url": "https://en.wikipedia.org/wiki/Hallucination"
+            },
+            {
+                "name": "phobia",
+                "qid": "Q175854",
+                "url": "https://en.wikipedia.org/wiki/Phobia"
+            },
+            {
+                "name": "dementia",
+                "qid": "Q83030",
+                "url": "https://en.wikipedia.org/wiki/Dementia"
+            },
+            {
+                "name": "arterial hypertension",
+                "qid": "Q41861",
+                "url": "https://en.wikipedia.org/wiki/Hypertension"
+            },
+            {
+                "name": "insomnia",
+                "qid": "Q1869874",
+                "url": "https://en.wikipedia.org/wiki/Insomnia"
+            },
+            {
+                "name": "generalized anxiety disorder",
+                "qid": "Q845224",
+                "url": "https://en.wikipedia.org/wiki/Generalized_anxiety_disorder"
+            },
+            {
+                "name": "ageing",
+                "qid": "Q332154",
+                "url": "https://en.wikipedia.org/wiki/Ageing"
+            },
+            {
+                "name": "panic attack",
+                "qid": "Q696490",
+                "url": "https://en.wikipedia.org/wiki/Panic_attack"
+            },
+            {
+                "name": "agrypnia excitata",
+                "qid": "Q397554"
+            }
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Milk stasis",
+    "qid": "Q4253356",
+    "icd_10": "O92.79",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Anatomical location": [
+            {
+                "name": "mammary gland",
+                "qid": "Q189961",
+                "url": "https://en.wikipedia.org/wiki/Mammary_gland"
+            }
+        ]
+    }
+}

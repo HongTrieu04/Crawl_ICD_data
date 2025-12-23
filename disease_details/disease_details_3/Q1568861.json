@@ -1,0 +1,31 @@
+{
+    "name": "Jones fracture",
+    "qid": "Q1568861",
+    "icd_10": "S92.3",
+    "description": "break between the base and middle part of the fifth metatarsal of the foot",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cropped%20version%20of%20Jonesfracture.jpg",
+    "url": "https://en.wikipedia.org/wiki/Jones_fracture",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "fifth metatarsal bone",
+                "qid": "Q5447591",
+                "url": "https://en.wikipedia.org/wiki/Fifth_metatarsal_bone"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "foot fracture",
+                "qid": "Q30904172"
+            }
+        ]
+    }
+}

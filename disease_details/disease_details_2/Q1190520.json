@@ -1,0 +1,40 @@
+{
+    "name": "Nursemaid's elbow",
+    "qid": "Q1190520",
+    "icd_10": "S53.0",
+    "description": "traumatic condition",
+    "aliases": [
+        "annular ligament displacement",
+        "babysitter's elbow",
+        "Elbow subluxation",
+        "nursemaid's elbow",
+        "Nursemaid's elbow, pulled elbow",
+        "pulled elbow",
+        "Radial head subluxation",
+        "slipped elbow",
+        "subluxatio radii",
+        "Subluxed elbow"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gray331.png",
+    "url": "https://en.wikipedia.org/wiki/Pulled_elbow",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "injury in humans",
+                "qid": "Q193078",
+                "url": "https://en.wikipedia.org/wiki/Injury_in_humans"
+            },
+            {
+                "name": "arm injury",
+                "qid": "Q55040509"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Tropical acne",
+    "qid": "Q7846142",
+    "icd_10": "L70.3",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Tropical_acne",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "acne",
+                "qid": "Q79928",
+                "url": "https://en.wikipedia.org/wiki/Acne"
+            }
+        ]
+    }
+}

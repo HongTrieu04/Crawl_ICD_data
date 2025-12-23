@@ -1,0 +1,28 @@
+{
+    "name": "asterixis",
+    "qid": "Q748444",
+    "icd_10": "R27.8",
+    "description": "medical condition",
+    "aliases": [
+        "flapping tremor",
+        "liver flap"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Asterixis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "tremor",
+                "qid": "Q223907",
+                "url": "https://en.wikipedia.org/wiki/Tremor"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ]
+    }
+}

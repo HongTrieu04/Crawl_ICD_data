@@ -1,0 +1,25 @@
+{
+    "name": "Babinski–Nageotte syndrome",
+    "qid": "Q797708",
+    "icd_10": "G83.89",
+    "description": "alternating brainstem syndrome",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Babinski%E2%80%93Nageotte_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "encephalopathy",
+                "qid": "Q576349",
+                "url": "https://en.wikipedia.org/wiki/Encephalopathy"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ]
+    }
+}

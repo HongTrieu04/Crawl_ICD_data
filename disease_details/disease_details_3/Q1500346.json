@@ -1,0 +1,24 @@
+{
+    "name": "xanthelasma",
+    "qid": "Q1500346",
+    "icd_10": "H02.6",
+    "description": "medical condition",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Xanthelasma%20palpebrarum.jpg",
+    "url": "https://en.wikipedia.org/wiki/Xanthelasma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "eyelid disease",
+                "qid": "Q18556729"
+            }
+        ]
+    }
+}

@@ -1,0 +1,238 @@
+{
+    "name": "pneumonia",
+    "qid": "Q12192",
+    "icd_10": "J18.9",
+    "description": "inflammation of the alveoli of the lungs",
+    "aliases": [
+        "acute pneumonia",
+        "inflammation of lung tissue",
+        "inflammation of lungs",
+        "lung inflammation",
+        "Pneumonia"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pneumonia%2C%20mixed%20patterns%2C%20lobar%20and%20bronchopneumonia%20%283679096639%29.jpg",
+    "url": "https://en.wikipedia.org/wiki/Pneumonia",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "cough",
+                "qid": "Q35805",
+                "url": "https://en.wikipedia.org/wiki/Cough"
+            },
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "snoring",
+                "qid": "Q205835",
+                "url": "https://en.wikipedia.org/wiki/Snoring"
+            },
+            {
+                "name": "tachypnea",
+                "qid": "Q570920",
+                "url": "https://en.wikipedia.org/wiki/Tachypnea"
+            },
+            {
+                "name": "hemoptysis",
+                "qid": "Q647099",
+                "url": "https://en.wikipedia.org/wiki/Hemoptysis"
+            },
+            {
+                "name": "dyspnea",
+                "qid": "Q188008",
+                "url": "https://en.wikipedia.org/wiki/Shortness_of_breath"
+            },
+            {
+                "name": "chills",
+                "qid": "Q2260058",
+                "url": "https://en.wikipedia.org/wiki/Chills"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "antibiotic",
+                "qid": "Q12187",
+                "url": "https://en.wikipedia.org/wiki/Antibiotic"
+            },
+            {
+                "name": "clarithromycin",
+                "qid": "Q118551",
+                "url": "https://en.wikipedia.org/wiki/Clarithromycin"
+            },
+            {
+                "name": "azithromycin",
+                "qid": "Q165399",
+                "url": "https://en.wikipedia.org/wiki/Azithromycin"
+            },
+            {
+                "name": "ciprofloxacin",
+                "qid": "Q256602",
+                "url": "https://en.wikipedia.org/wiki/Ciprofloxacin"
+            },
+            {
+                "name": "vancomycin",
+                "qid": "Q424027",
+                "url": "https://en.wikipedia.org/wiki/Vancomycin"
+            },
+            {
+                "name": "tiotropium",
+                "qid": "Q424316",
+                "url": "https://en.wikipedia.org/wiki/Tiotropium_bromide"
+            },
+            {
+                "name": "moxifloxacin",
+                "qid": "Q424940",
+                "url": "https://en.wikipedia.org/wiki/Moxifloxacin"
+            },
+            {
+                "name": "metronidazole",
+                "qid": "Q169569",
+                "url": "https://en.wikipedia.org/wiki/Metronidazole"
+            },
+            {
+                "name": "N-acetyl-L-cysteine",
+                "qid": "Q375613",
+                "url": "https://en.wikipedia.org/wiki/Acetylcysteine"
+            },
+            {
+                "name": "rac-salbutamol",
+                "qid": "Q410358",
+                "url": "https://en.wikipedia.org/wiki/Salbutamol"
+            },
+            {
+                "name": "linezolid",
+                "qid": "Q411377",
+                "url": "https://en.wikipedia.org/wiki/Linezolid"
+            },
+            {
+                "name": "voriconazole",
+                "qid": "Q412236",
+                "url": "https://en.wikipedia.org/wiki/Voriconazole"
+            },
+            {
+                "name": "cefuroxime",
+                "qid": "Q413728",
+                "url": "https://en.wikipedia.org/wiki/Cefuroxime"
+            },
+            {
+                "name": "tigecycline",
+                "qid": "Q420595",
+                "url": "https://en.wikipedia.org/wiki/Tigecycline"
+            },
+            {
+                "name": "ceftriaxone",
+                "qid": "Q421713",
+                "url": "https://en.wikipedia.org/wiki/Ceftriaxone"
+            },
+            {
+                "name": "doxycycline",
+                "qid": "Q422442",
+                "url": "https://en.wikipedia.org/wiki/Doxycycline"
+            },
+            {
+                "name": "antiviral drug",
+                "qid": "Q846227",
+                "url": "https://en.wikipedia.org/wiki/Antiviral_drug"
+            },
+            {
+                "name": "budesonide/formoterol",
+                "qid": "Q863389",
+                "url": "https://en.wikipedia.org/wiki/Budesonide/formoterol"
+            },
+            {
+                "name": "tobramycin",
+                "qid": "Q1758380",
+                "url": "https://en.wikipedia.org/wiki/Tobramycin"
+            },
+            {
+                "name": "oxygen therapy",
+                "qid": "Q1988216",
+                "url": "https://en.wikipedia.org/wiki/Oxygen_therapy"
+            },
+            {
+                "name": "cefepime",
+                "qid": "Q2552927",
+                "url": "https://en.wikipedia.org/wiki/Cefepime"
+            },
+            {
+                "name": "tosufloxacin",
+                "qid": "Q3995932",
+                "url": "https://en.wikipedia.org/wiki/Tosufloxacin"
+            },
+            {
+                "name": "dicloxacillin sodium",
+                "qid": "Q27116225"
+            },
+            {
+                "name": "meropenem trihydrate",
+                "qid": "Q47495774"
+            },
+            {
+                "name": "levofloxacin hemihydrate",
+                "qid": "Q47495791"
+            },
+            {
+                "name": "albuterol / ipratropium",
+                "qid": "Q48566653"
+            },
+            {
+                "name": "sulfamethoxazole / trimethoprim",
+                "qid": "Q48566821"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            },
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "aspiration pneumonia",
+                "qid": "Q677449",
+                "url": "https://en.wikipedia.org/wiki/Aspiration_pneumonia"
+            },
+            {
+                "name": "smoking",
+                "qid": "Q662860",
+                "url": "https://en.wikipedia.org/wiki/Smoking"
+            },
+            {
+                "name": "infection",
+                "qid": "Q166231",
+                "url": "https://en.wikipedia.org/wiki/Infection"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "pneumonitis",
+                "qid": "Q1284347",
+                "url": "https://en.wikipedia.org/wiki/Pneumonitis"
+            },
+            {
+                "name": "lower respiratory tract infection",
+                "qid": "Q3631290",
+                "url": "https://en.wikipedia.org/wiki/Lower_respiratory_tract_infection"
+            },
+            {
+                "name": "lung disease",
+                "qid": "Q3392853"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "oxygen therapy",
+                "qid": "Q1988216",
+                "url": "https://en.wikipedia.org/wiki/Oxygen_therapy"
+            }
+        ]
+    }
+}

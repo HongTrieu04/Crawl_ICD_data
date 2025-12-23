@@ -1,0 +1,50 @@
+{
+    "name": "benign paroxysmal positional nystagmus",
+    "qid": "Q817310",
+    "icd_10": "H81.1",
+    "description": "human disease",
+    "aliases": [
+        "benign paroxysmal positional vertigo"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Balance%20Disorder%20Illustration%20A.png",
+    "url": "https://en.wikipedia.org/wiki/Benign_paroxysmal_positional_vertigo",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "peripheral vertigo",
+                "qid": "Q18558240"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "otolaryngology",
+                "qid": "Q189553",
+                "url": "https://en.wikipedia.org/wiki/Otorhinolaryngology"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "Epley maneuver",
+                "qid": "Q1347487",
+                "url": "https://en.wikipedia.org/wiki/Epley_maneuver"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "vertigo",
+                "qid": "Q10686316",
+                "url": "https://en.wikipedia.org/wiki/Vertigo"
+            },
+            {
+                "name": "dizziness",
+                "qid": "Q10916362",
+                "url": "https://en.wikipedia.org/wiki/Dizziness"
+            }
+        ]
+    }
+}

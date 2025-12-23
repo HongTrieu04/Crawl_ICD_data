@@ -1,0 +1,32 @@
+{
+    "name": "drug-induced autoimmune hemolytic anemia",
+    "qid": "Q5308809",
+    "icd_10": "D59.0",
+    "description": "Drug-induced autoimmune hemolytic anemia is a type of autoimmune hemolytic anemia (AIHA; see this term) that occurs as a reaction to therapeutic drugs, and can be due to various mechanisms",
+    "aliases": [
+        "Drug-induced AIHA"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Drug-induced_autoimmune_hemolytic_anemia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "autoimmune hemolytic anemia",
+                "qid": "Q28814",
+                "url": "https://en.wikipedia.org/wiki/Autoimmune_hemolytic_anemia"
+            },
+            {
+                "name": "adverse drug reaction",
+                "qid": "Q45959",
+                "url": "https://en.wikipedia.org/wiki/Adverse_drug_reaction"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "name": "galactose-1-phosphate uridylyltransferase deficiency",
+    "qid": "Q5517832",
+    "icd_10": "E74.2",
+    "description": "human disease",
+    "aliases": [
+        "classic galactosemia",
+        "Galactose-1-phosphate uridyltransferase deficiency",
+        "Galactosemia type 1",
+        "GALT deficiency",
+        "transferase deficiency galactosemia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Galactose-1-phosphate_uridylyltransferase_deficiency",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "galactosemia",
+                "qid": "Q774483",
+                "url": "https://en.wikipedia.org/wiki/Galactosemia"
+            },
+            {
+                "name": "autosomal recessive disease",
+                "qid": "Q10267817"
+            }
+        ]
+    }
+}

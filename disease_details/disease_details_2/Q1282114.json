@@ -1,0 +1,40 @@
+{
+    "name": "speech disorder",
+    "qid": "Q1282114",
+    "icd_10": "R47",
+    "description": "type of communication disorder in which normal speech is disrupted",
+    "aliases": [
+        "speech impediment",
+        "neurological speech impairment",
+        "speech disability",
+        "speech impairment"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Speech_disorder",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "language",
+                "qid": "Q315",
+                "url": "https://en.wikipedia.org/wiki/Language"
+            },
+            {
+                "name": "psychology",
+                "qid": "Q9418",
+                "url": "https://en.wikipedia.org/wiki/Psychology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "communication disorder",
+                "qid": "Q1058691",
+                "url": "https://en.wikipedia.org/wiki/Communication_disorder"
+            },
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            }
+        ]
+    }
+}

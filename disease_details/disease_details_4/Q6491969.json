@@ -1,0 +1,24 @@
+{
+    "name": "laryngocele",
+    "qid": "Q6491969",
+    "icd_10": "Q31.3",
+    "description": "congenital disorder of respiratory system",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Laryngocele",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "larynx anomaly",
+                "qid": "Q55785516"
+            }
+        ]
+    }
+}

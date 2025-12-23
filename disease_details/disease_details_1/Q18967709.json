@@ -1,0 +1,20 @@
+{
+    "name": "convergence excess",
+    "qid": "Q18967709",
+    "icd_10": "H51.12",
+    "description": "Human disease",
+    "aliases": [
+        "convergence excess or spasm"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "strabismus",
+                "qid": "Q179951",
+                "url": "https://en.wikipedia.org/wiki/Strabismus"
+            }
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "name": "left ventricular noncompaction",
+    "qid": "Q1725245",
+    "icd_10": "I42.8",
+    "description": "human disease",
+    "aliases": [
+        "left ventricular hypertrabeculation",
+        "Left ventricular non-compaction cardiomyopathy",
+        "LEFT VENTRICULAR NONCOMPACTION 1",
+        "Left Ventricular Noncompaction 1 With or Without Congenital Heart Defects",
+        "LEFT VENTRICULAR NONCOMPACTION 1; LVNC1",
+        "Left Ventricular Noncompaction type 1",
+        "LVNC1"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Noncompaction_cardiomyopathy",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "cardiomyopathy",
+                "qid": "Q847583",
+                "url": "https://en.wikipedia.org/wiki/Cardiomyopathy"
+            },
+            {
+                "name": "intrinsic cardiomyopathy",
+                "qid": "Q18553611"
+            }
+        ]
+    }
+}

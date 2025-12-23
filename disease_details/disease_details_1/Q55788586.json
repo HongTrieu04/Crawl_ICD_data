@@ -1,0 +1,17 @@
+{
+    "name": "isolated genetic hair shaft abnormality",
+    "qid": "Q55788586",
+    "icd_10": "Q84.1",
+    "description": "human disease",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "genetic hair anomaly",
+                "qid": "Q55789465"
+            }
+        ]
+    }
+}

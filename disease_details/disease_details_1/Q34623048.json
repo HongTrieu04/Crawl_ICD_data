@@ -1,0 +1,34 @@
+{
+    "name": "cruciate ligament injury",
+    "qid": "Q34623048",
+    "icd_10": "S83.5",
+    "description": "injury of a cruciate ligament of the knee",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "orthopedics",
+                "qid": "Q216685",
+                "url": "https://en.wikipedia.org/wiki/Orthopedic_surgery"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "knee injury",
+                "qid": "Q15283847"
+            },
+            {
+                "name": "ligament injury",
+                "qid": "Q38039238"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "Q31840067",
+                "qid": "Q31840067"
+            }
+        ]
+    }
+}

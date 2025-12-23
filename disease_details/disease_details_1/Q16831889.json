@@ -1,0 +1,20 @@
+{
+    "name": "humeral shaft fracture",
+    "qid": "Q16831889",
+    "icd_10": "S42.3",
+    "description": null,
+    "aliases": [
+        "fracture of shaft of humerus"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "humerus fracture",
+                "qid": "Q5940721",
+                "url": "https://en.wikipedia.org/wiki/Humerus_fracture"
+            }
+        ]
+    }
+}

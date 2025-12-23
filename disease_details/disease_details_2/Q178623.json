@@ -1,0 +1,48 @@
+{
+    "name": "kidney stone disease",
+    "qid": "Q178623",
+    "icd_10": "N20",
+    "description": "formation of one or more mineral calculi (stones) in the urinary tract",
+    "aliases": [
+        "kidney stones",
+        "renal calculi",
+        "renal calculus disease",
+        "urinary stone disease",
+        "urolithiasis",
+        "kidney stone",
+        "nephrolithiasis",
+        "USD",
+        "KSD",
+        "kidney calculi",
+        "kidney calculus",
+        "renal calculus"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nefrolit.jpg",
+    "url": "https://en.wikipedia.org/wiki/Kidney_stone_disease",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            },
+            {
+                "name": "nephrology",
+                "qid": "Q177635",
+                "url": "https://en.wikipedia.org/wiki/Nephrology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "calculus",
+                "qid": "Q617079",
+                "url": "https://en.wikipedia.org/wiki/Calculus_(medicine)"
+            },
+            {
+                "name": "urolithiasis",
+                "qid": "Q1585769",
+                "url": "https://en.wikipedia.org/wiki/Urolithiasis"
+            }
+        ]
+    }
+}

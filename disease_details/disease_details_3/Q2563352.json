@@ -1,0 +1,33 @@
+{
+    "name": "Wernicke–Korsakoff syndrome",
+    "qid": "Q2563352",
+    "icd_10": "F10.6",
+    "description": "combined presence of Wernicke's encephalopathy (WE) and Korsakoff's syndrome",
+    "aliases": [
+        "WKS",
+        "Korsakoff's syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Wernicke%E2%80%93Korsakoff_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "Korsakoff's syndrome",
+                "qid": "Q622901",
+                "url": "https://en.wikipedia.org/wiki/Korsakoff_syndrome"
+            },
+            {
+                "name": "Wernicke encephalopathy",
+                "qid": "Q1573307",
+                "url": "https://en.wikipedia.org/wiki/Wernicke_encephalopathy"
+            }
+        ]
+    }
+}

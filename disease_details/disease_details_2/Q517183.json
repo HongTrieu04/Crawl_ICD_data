@@ -1,0 +1,27 @@
+{
+    "name": "dysmetria",
+    "qid": "Q517183",
+    "icd_10": "R27",
+    "description": "type of ataxia characterized by the inability to carry out movements with the correct range and motion across the plane of more than one joint related to incorrect estimation of the distances required for targeted movements",
+    "aliases": [
+        "Dysmetric movements"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Dysmetria",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "ataxia",
+                "qid": "Q213373",
+                "url": "https://en.wikipedia.org/wiki/Ataxia"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ]
+    }
+}

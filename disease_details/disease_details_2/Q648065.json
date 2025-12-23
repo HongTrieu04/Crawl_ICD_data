@@ -1,0 +1,38 @@
+{
+    "name": "female infertility",
+    "qid": "Q648065",
+    "icd_10": "N97.0",
+    "description": "diminished or absent ability of a female to achieve conception",
+    "aliases": [
+        "Female Infertility",
+        "female reproductive system infertility",
+        "female sterility",
+        "Female Sub-Fertility",
+        "female subfertility",
+        "Infertility, Female",
+        "Postpartum Sterility",
+        "Sterility, Female",
+        "Sterility, Postpartum",
+        "Sub Fertility, Female",
+        "Sub-Fertility, Female",
+        "Subfertility, Female"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Female_infertility",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "infertility",
+                "qid": "Q179399",
+                "url": "https://en.wikipedia.org/wiki/Infertility"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gynaecology",
+                "qid": "Q1221899",
+                "url": "https://en.wikipedia.org/wiki/Gynaecology"
+            }
+        ]
+    }
+}

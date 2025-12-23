@@ -1,0 +1,35 @@
+{
+    "name": "micromastia",
+    "qid": "Q5360758",
+    "icd_10": "Q83.8",
+    "description": "human condition",
+    "aliases": [
+        "BNAH2",
+        "BREASTS AND/OR NIPPLES, APLASIA OR HYPOPLASIA OF, 2",
+        "BREASTS AND/OR NIPPLES, APLASIA OR HYPOPLASIA OF, 2; BNAH2",
+        "Breasts And/Or Nipples, Aplasia or Hypoplasia Of, type 2",
+        "cup size A"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Japanese%20girl%20in%20a%20white%20AA65%20bra.jpg",
+    "url": "https://en.wikipedia.org/wiki/Micromastia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "breast disease",
+                "qid": "Q4959796",
+                "url": "https://en.wikipedia.org/wiki/Breast_disease"
+            },
+            {
+                "name": "deficient breast volume or number",
+                "qid": "Q55785775"
+            }
+        ]
+    }
+}

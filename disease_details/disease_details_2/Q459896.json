@@ -1,0 +1,45 @@
+{
+    "name": "cystic lymphangioma",
+    "qid": "Q459896",
+    "icd_10": "D18.1",
+    "description": "human disease",
+    "aliases": [
+        "cystic Hygroma",
+        "cystic hygroma (disorder)",
+        "cystic lymphangioma (morphologic abnormality)",
+        "Lymphangioma, Cystic",
+        "macrocystic lymphatic malformation"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Cystic_hygroma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            },
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "Lymphatic Malformation",
+                "qid": "Q1545750",
+                "url": "https://en.wikipedia.org/wiki/Lymphatic_malformations"
+            },
+            {
+                "name": "Cystic lymphatic malformation",
+                "qid": "Q5201213",
+                "url": "https://en.wikipedia.org/wiki/Cystic_lymphatic_malformation"
+            },
+            {
+                "name": "hygroma",
+                "qid": "Q1640492"
+            }
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "name": "Onychotillomania",
+    "qid": "Q1757549",
+    "icd_10": "F98.8",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Onychotillomania",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "nail",
+                "qid": "Q36864",
+                "url": "https://en.wikipedia.org/wiki/Nail_(anatomy)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "self-injury",
+                "qid": "Q622527",
+                "url": "https://en.wikipedia.org/wiki/Self-harm"
+            },
+            {
+                "name": "nail biting",
+                "qid": "Q1367423",
+                "url": "https://en.wikipedia.org/wiki/Nail_biting"
+            },
+            {
+                "name": "body-focused repetitive behavior disorders",
+                "qid": "Q4936774",
+                "url": "https://en.wikipedia.org/wiki/Body-focused_repetitive_behavior"
+            }
+        ]
+    }
+}

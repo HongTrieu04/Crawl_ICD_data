@@ -1,0 +1,29 @@
+{
+    "name": "thyrotoxicosis with toxic single thyroid nodule",
+    "qid": "Q19000960",
+    "icd_10": "E05.1",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete thyrotoxicosis with toxic single thyroid nodule",
+        "Toxic uninodular goiter"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "Plummer's disease",
+                "qid": "Q7830387",
+                "url": "https://en.wikipedia.org/wiki/Toxic_nodular_goiter"
+            },
+            {
+                "name": "toxic thyroid adenoma",
+                "qid": "Q2825481"
+            },
+            {
+                "name": "thyrotoxicosis",
+                "qid": "Q3991731"
+            }
+        ]
+    }
+}

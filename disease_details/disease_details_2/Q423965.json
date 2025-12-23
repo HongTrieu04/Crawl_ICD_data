@@ -1,0 +1,53 @@
+{
+    "name": "vestibular schwannoma",
+    "qid": "Q423965",
+    "icd_10": "D33.3",
+    "description": "human disease",
+    "aliases": [
+        "acoustic neurilemmoma",
+        "acoustic neuroma",
+        "acoustic schwannoma",
+        "neurilemoma, acoustic",
+        "neuroma, acoustic",
+        "vestibular neurilemmoma",
+        "vestibular schwannomas"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mri1BrughoekTumor2cm.jpg",
+    "url": "https://en.wikipedia.org/wiki/Vestibular_schwannoma",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "neurilemmoma",
+                "qid": "Q369148",
+                "url": "https://en.wikipedia.org/wiki/Schwannoma"
+            },
+            {
+                "name": "vestibulocochlear nerve neoplasm",
+                "qid": "Q55789529"
+            },
+            {
+                "name": "benign neoplasm of brain",
+                "qid": "Q55789633"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "otolaryngology",
+                "qid": "Q189553",
+                "url": "https://en.wikipedia.org/wiki/Otorhinolaryngology"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "vestibulocochlear nerve",
+                "qid": "Q319317",
+                "url": "https://en.wikipedia.org/wiki/Vestibulocochlear_nerve"
+            }
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Raymond Céstan syndrome",
+    "qid": "Q18393649",
+    "icd_10": "I65.8",
+    "description": "medical condition",
+    "aliases": [
+        "Céstan–Chenais syndrome",
+        "upper dorsal pontine syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Raymond%E2%80%93C%C3%A9stan_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "central nervous system disease",
+                "qid": "Q5062122",
+                "url": "https://en.wikipedia.org/wiki/Central_nervous_system_disease"
+            }
+        ]
+    }
+}

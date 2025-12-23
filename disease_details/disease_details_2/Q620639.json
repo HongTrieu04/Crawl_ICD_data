@@ -1,0 +1,28 @@
+{
+    "name": "dysautonomia",
+    "qid": "Q620639",
+    "icd_10": "G90",
+    "description": "any disease or malfunction, mostly of neurogenic origin, of the autonomic nervous system",
+    "aliases": [
+        "autonomic dysfunction",
+        "autonomic failure",
+        "disorders of autonomic nervous system"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Dysautonomia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "autonomic nervous system disease",
+                "qid": "Q18554088"
+            }
+        ]
+    }
+}

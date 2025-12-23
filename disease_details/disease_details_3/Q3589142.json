@@ -1,0 +1,21 @@
+{
+    "name": "epigastric pain",
+    "qid": "Q3589142",
+    "icd_10": "R10.1",
+    "description": "symptom",
+    "aliases": [
+        "epigastralgia",
+        "epigastric abdominal pain"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "abdominal pain",
+                "qid": "Q183425",
+                "url": "https://en.wikipedia.org/wiki/Abdominal_pain"
+            }
+        ]
+    }
+}

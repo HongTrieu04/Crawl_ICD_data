@@ -1,0 +1,38 @@
+{
+    "name": "finger fracture",
+    "qid": "Q4350506",
+    "icd_10": "S62.6",
+    "description": "medical condition",
+    "aliases": [
+        "Broken finger"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Finger%20fractures%20--%20Smart-Servier.jpg",
+    "url": "https://en.wikipedia.org/wiki/Broken_finger",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "bone fracture",
+                "qid": "Q68833",
+                "url": "https://en.wikipedia.org/wiki/Bone_fracture"
+            },
+            {
+                "name": "finger injury",
+                "qid": "Q54946694"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "finger",
+                "qid": "Q620207",
+                "url": "https://en.wikipedia.org/wiki/Finger"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ]
+    }
+}

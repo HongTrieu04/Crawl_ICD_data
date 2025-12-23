@@ -1,0 +1,35 @@
+{
+    "name": "mesenteric adenitis",
+    "qid": "Q2891261",
+    "icd_10": "I88.0",
+    "description": "lymphadenitis",
+    "aliases": [
+        "Mesenteric adenitis",
+        "mesenteric lymphadenitis",
+        "Mesenteric lymphadenitis",
+        "Mesenteric lymphadenitis (disorder)",
+        "mesentery lymphadenitis (disease)"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "adenitis",
+                "qid": "Q355981",
+                "url": "https://en.wikipedia.org/wiki/Adenitis"
+            },
+            {
+                "name": "lymphadenitis",
+                "qid": "Q3269466"
+            }
+        ]
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "name": "gastrointestinal stromal tumor",
+    "qid": "Q1495661",
+    "icd_10": "C26.9",
+    "description": "human disease",
+    "aliases": [
+        "GIST",
+        "GANT",
+        "Gastrointestinal Stromal Neoplasm",
+        "Gastrointestinal stromal sarcoma",
+        "GASTROINTESTINAL STROMAL TUMOR",
+        "Gastrointestinal Stromal Tumor (GIST)",
+        "GASTROINTESTINAL STROMAL TUMOR; GIST",
+        "Gastrointestinal stromal tumors",
+        "Stromal tumor of gastrointestinal tract"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/CT%20image%20of%20a%20GIST%20tumor%20in%20the%20gastric%20cardia.jpg",
+    "url": "https://en.wikipedia.org/wiki/Gastrointestinal_stromal_tumor",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "gastrointestinal system cancer",
+                "qid": "Q5526839",
+                "url": "https://en.wikipedia.org/wiki/Gastrointestinal_cancer"
+            },
+            {
+                "name": "Stromal tumor",
+                "qid": "Q16869243",
+                "url": "https://en.wikipedia.org/wiki/Stromal_tumor"
+            },
+            {
+                "name": "rare genetic intestinal disease",
+                "qid": "Q55785596"
+            },
+            {
+                "name": "inherited digestive tract tumor",
+                "qid": "Q55786847"
+            },
+            {
+                "name": "mesenchymal tumor of small intestine",
+                "qid": "Q55788134"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "pazopanib",
+                "qid": "Q7157043",
+                "url": "https://en.wikipedia.org/wiki/Pazopanib"
+            },
+            {
+                "name": "imatinib",
+                "qid": "Q177094",
+                "url": "https://en.wikipedia.org/wiki/Imatinib"
+            },
+            {
+                "name": "ponatinib",
+                "qid": "Q198728",
+                "url": "https://en.wikipedia.org/wiki/Ponatinib"
+            },
+            {
+                "name": "nilotinib",
+                "qid": "Q412327",
+                "url": "https://en.wikipedia.org/wiki/Nilotinib"
+            },
+            {
+                "name": "sunitinib",
+                "qid": "Q417542",
+                "url": "https://en.wikipedia.org/wiki/Sunitinib"
+            },
+            {
+                "name": "regorafenib",
+                "qid": "Q3891664",
+                "url": "https://en.wikipedia.org/wiki/Regorafenib"
+            }
+        ]
+    }
+}

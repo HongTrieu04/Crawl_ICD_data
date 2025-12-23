@@ -1,0 +1,99 @@
+{
+    "name": "hypertriglyceridemia",
+    "qid": "Q1467339",
+    "icd_10": "E78.3",
+    "description": "high blood levels of triglycerides",
+    "aliases": [
+        "Hypertriglyceridemia"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dislipidemias1.jpg",
+    "url": "https://en.wikipedia.org/wiki/Hypertriglyceridemia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "gemfibrozil",
+                "qid": "Q384295",
+                "url": "https://en.wikipedia.org/wiki/Gemfibrozil"
+            },
+            {
+                "name": "lovastatin",
+                "qid": "Q417740",
+                "url": "https://en.wikipedia.org/wiki/Lovastatin"
+            },
+            {
+                "name": "fluvastatin",
+                "qid": "Q417942",
+                "url": "https://en.wikipedia.org/wiki/Fluvastatin"
+            },
+            {
+                "name": "colestyramine",
+                "qid": "Q418006",
+                "url": "https://en.wikipedia.org/wiki/Colestyramine"
+            },
+            {
+                "name": "fenofibrate",
+                "qid": "Q419724",
+                "url": "https://en.wikipedia.org/wiki/Fenofibrate"
+            },
+            {
+                "name": "clofibrate",
+                "qid": "Q2701912",
+                "url": "https://en.wikipedia.org/wiki/Clofibrate"
+            },
+            {
+                "name": "colestipol",
+                "qid": "Q3294635",
+                "url": "https://en.wikipedia.org/wiki/Colestipol"
+            },
+            {
+                "name": "colesevelam",
+                "qid": "Q899036",
+                "url": "https://en.wikipedia.org/wiki/Colesevelam"
+            },
+            {
+                "name": "pravastatin",
+                "qid": "Q1240093",
+                "url": "https://en.wikipedia.org/wiki/Pravastatin"
+            },
+            {
+                "name": "cerivastatin",
+                "qid": "Q423439",
+                "url": "https://en.wikipedia.org/wiki/Cerivastatin"
+            },
+            {
+                "name": "atorvastatin",
+                "qid": "Q668093",
+                "url": "https://en.wikipedia.org/wiki/Atorvastatin"
+            },
+            {
+                "name": "simvastatin",
+                "qid": "Q670131",
+                "url": "https://en.wikipedia.org/wiki/Simvastatin"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "metabolic disease",
+                "qid": "Q2351083",
+                "url": "https://en.wikipedia.org/wiki/Metabolic_disorder"
+            },
+            {
+                "name": "hyperlipidemia",
+                "qid": "Q1079120",
+                "url": "https://en.wikipedia.org/wiki/Hyperlipidemia"
+            },
+            {
+                "name": "inherited metabolic disorder",
+                "qid": "Q1758393",
+                "url": "https://en.wikipedia.org/wiki/Inborn_errors_of_metabolism"
+            }
+        ]
+    }
+}

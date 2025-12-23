@@ -1,0 +1,24 @@
+{
+    "name": "pulmonary paracoccidioidomycosis",
+    "qid": "Q18924581",
+    "icd_10": "B41.0",
+    "description": "human disease",
+    "aliases": [
+        "obsolete pulmonary paracoccidioidomycosis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "paracoccidioidomycosis",
+                "qid": "Q247096",
+                "url": "https://en.wikipedia.org/wiki/Paracoccidioidomycosis"
+            },
+            {
+                "name": "lung disease",
+                "qid": "Q3392853"
+            }
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "name": "effect of spaceflight on the human body",
+    "qid": "Q2824097",
+    "icd_10": "X52",
+    "description": "medical consequences of spaceflight",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Effect_of_spaceflight_on_the_human_body",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "exposure to abnormal gravitational force",
+                "qid": "Q322567"
+            }
+        ]
+    }
+}

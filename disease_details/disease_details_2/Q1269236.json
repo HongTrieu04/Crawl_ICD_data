@@ -1,0 +1,25 @@
+{
+    "name": "Dyschromia",
+    "qid": "Q1269236",
+    "icd_10": "L81.9",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Dyschromia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "pigmentation disorder",
+                "qid": "Q7193408",
+                "url": "https://en.wikipedia.org/wiki/Pigmentation_disorder"
+            }
+        ]
+    }
+}

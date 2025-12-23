@@ -1,0 +1,18 @@
+{
+    "name": "Congenital malaria",
+    "qid": "Q25324142",
+    "icd_10": "P37.4",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Congenital_malaria",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "malaria",
+                "qid": "Q12156",
+                "url": "https://en.wikipedia.org/wiki/Malaria"
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "name": "hypervitaminosis",
+    "qid": "Q423927",
+    "icd_10": "E67",
+    "description": "human disease",
+    "aliases": [
+        "vitamin poisoning"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hypervitaminosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "overload disease",
+                "qid": "Q1496114"
+            }
+        ]
+    }
+}

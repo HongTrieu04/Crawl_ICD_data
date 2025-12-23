@@ -1,0 +1,199 @@
+{
+    "name": "prostate cancer",
+    "qid": "Q181257",
+    "icd_10": "C61",
+    "description": "male reproductive organ cancer",
+    "aliases": [
+        "hereditary prostate cancer",
+        "malignant neoplasm of the prostate",
+        "malignant tumor of the prostate",
+        "prostate cancer, familial",
+        "prostatic cancer",
+        "tumor of the prostate"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Metastatic%20prostatic%20adenocarcinoma%20Case%20167%20%285478497747%29.jpg",
+    "url": "https://en.wikipedia.org/wiki/Prostate_cancer",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "male reproductive organ cancer",
+                "qid": "Q18556093"
+            },
+            {
+                "name": "prostate disease",
+                "qid": "Q18556445"
+            },
+            {
+                "name": "prostate neoplasm",
+                "qid": "Q56014511"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            },
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "erectile dysfunction",
+                "qid": "Q184674",
+                "url": "https://en.wikipedia.org/wiki/Erectile_dysfunction"
+            },
+            {
+                "name": "frequent urination",
+                "qid": "Q352585",
+                "url": "https://en.wikipedia.org/wiki/Frequent_urination"
+            },
+            {
+                "name": "odynorgasmia",
+                "qid": "Q7078393",
+                "url": "https://en.wikipedia.org/wiki/Odynorgasmia"
+            },
+            {
+                "name": "pelvic pain",
+                "qid": "Q7161805",
+                "url": "https://en.wikipedia.org/wiki/Pelvic_pain"
+            },
+            {
+                "name": "bone pain",
+                "qid": "Q3480107",
+                "url": "https://en.wikipedia.org/wiki/Bone_pain"
+            },
+            {
+                "name": "back pain",
+                "qid": "Q5781808",
+                "url": "https://en.wikipedia.org/wiki/Back_pain"
+            },
+            {
+                "name": "weight loss",
+                "qid": "Q718113",
+                "url": "https://en.wikipedia.org/wiki/Weight_loss"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "prostate",
+                "qid": "Q9625",
+                "url": "https://en.wikipedia.org/wiki/Prostate"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "mitoxantrone",
+                "qid": "Q239426",
+                "url": "https://en.wikipedia.org/wiki/Mitoxantrone"
+            },
+            {
+                "name": "(RS)-aminoglutethimide",
+                "qid": "Q241150",
+                "url": "https://en.wikipedia.org/wiki/Aminoglutethimide"
+            },
+            {
+                "name": "cisplatin",
+                "qid": "Q412415",
+                "url": "https://en.wikipedia.org/wiki/Cisplatin"
+            },
+            {
+                "name": "estramustine",
+                "qid": "Q412939",
+                "url": "https://en.wikipedia.org/wiki/Estramustine"
+            },
+            {
+                "name": "cabazitaxel",
+                "qid": "Q412963",
+                "url": "https://en.wikipedia.org/wiki/Cabazitaxel"
+            },
+            {
+                "name": "ethinylestradiol",
+                "qid": "Q415563",
+                "url": "https://en.wikipedia.org/wiki/Ethinylestradiol"
+            },
+            {
+                "name": "flutamide",
+                "qid": "Q418669",
+                "url": "https://en.wikipedia.org/wiki/Flutamide"
+            },
+            {
+                "name": "etoposide",
+                "qid": "Q418817",
+                "url": "https://en.wikipedia.org/wiki/Etoposide"
+            },
+            {
+                "name": "hydroxycarbamide",
+                "qid": "Q212272",
+                "url": "https://en.wikipedia.org/wiki/Hydroxycarbamide"
+            },
+            {
+                "name": "zoledronic acid",
+                "qid": "Q218507",
+                "url": "https://en.wikipedia.org/wiki/Zoledronic_acid"
+            },
+            {
+                "name": "doxorubicin hydrochloride",
+                "qid": "Q27032359",
+                "url": "https://en.wikipedia.org/wiki/Doxorubicin_hydrochloride"
+            },
+            {
+                "name": "goserelin acetate",
+                "qid": "Q27265738",
+                "url": "https://en.wikipedia.org/wiki/Goserelin_acetate"
+            },
+            {
+                "name": "bicalutamide",
+                "qid": "Q1988832",
+                "url": "https://en.wikipedia.org/wiki/Bicalutamide"
+            },
+            {
+                "name": "nilutamide",
+                "qid": "Q3877030",
+                "url": "https://en.wikipedia.org/wiki/Nilutamide"
+            },
+            {
+                "name": "chlorotrianisene",
+                "qid": "Q5103213",
+                "url": "https://en.wikipedia.org/wiki/Chlorotrianisene"
+            },
+            {
+                "name": "17β-estradiol",
+                "qid": "Q422416",
+                "url": "https://en.wikipedia.org/wiki/Estradiol"
+            },
+            {
+                "name": "diethylstilbestrol",
+                "qid": "Q423989",
+                "url": "https://en.wikipedia.org/wiki/Diethylstilbestrol"
+            },
+            {
+                "name": "finasteride",
+                "qid": "Q424167",
+                "url": "https://en.wikipedia.org/wiki/Finasteride"
+            },
+            {
+                "name": "cyproterone acetate",
+                "qid": "Q426185",
+                "url": "https://en.wikipedia.org/wiki/Cyproterone_acetate"
+            },
+            {
+                "name": "leuprolide",
+                "qid": "Q907160",
+                "url": "https://en.wikipedia.org/wiki/Leuprorelin"
+            },
+            {
+                "name": "radium ra-223 dichloride",
+                "qid": "Q4735269"
+            }
+        ]
+    }
+}

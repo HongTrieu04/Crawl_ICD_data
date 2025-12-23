@@ -1,0 +1,28 @@
+{
+    "name": "ulcerative proctosigmoiditis",
+    "qid": "Q19001192",
+    "icd_10": "K51.3",
+    "description": "Human disease",
+    "aliases": [
+        "chronic ulcerative rectosigmoiditis (disorder)",
+        "proctosigmoiditis",
+        "Proctosigmoiditis (disorder)",
+        "ulcerative (chronic) proctosigmoiditis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "Proctocolitis",
+                "qid": "Q7247500",
+                "url": "https://en.wikipedia.org/wiki/Proctocolitis"
+            },
+            {
+                "name": "ulcerative colitis",
+                "qid": "Q1477",
+                "url": "https://en.wikipedia.org/wiki/Ulcerative_colitis"
+            }
+        ]
+    }
+}

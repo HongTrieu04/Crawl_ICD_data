@@ -1,0 +1,46 @@
+{
+    "name": "microcytic anemia",
+    "qid": "Q3298999",
+    "icd_10": "D50.8",
+    "description": "human disease",
+    "aliases": [
+        "Iron-Refractory Iron Deficiency Anemia"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Microcytosis.jpg",
+    "url": "https://en.wikipedia.org/wiki/Microcytic_anemia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "anemia",
+                "qid": "Q5445",
+                "url": "https://en.wikipedia.org/wiki/Anemia"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "microcytosis",
+                "qid": "Q1091552",
+                "url": "https://en.wikipedia.org/wiki/Microcytosis"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "iron deficiency",
+                "qid": "Q6072950",
+                "url": "https://en.wikipedia.org/wiki/Iron_deficiency_(plant_disorder)"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            }
+        ]
+    }
+}

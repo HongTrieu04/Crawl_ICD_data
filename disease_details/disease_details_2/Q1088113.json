@@ -1,0 +1,27 @@
+{
+    "name": "chronic pain",
+    "qid": "Q1088113",
+    "icd_10": "R52.2",
+    "description": "acute pain extending beyond the usual healing process",
+    "aliases": [
+        "chronic pain disease",
+        "chronic pain syndrome",
+        "disorder involving pain, chronic"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Chronic_pain",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "clinical sign",
+                "qid": "Q1441305",
+                "url": "https://en.wikipedia.org/wiki/Clinical_sign"
+            },
+            {
+                "name": "pain",
+                "qid": "Q81938",
+                "url": "https://en.wikipedia.org/wiki/Pain"
+            }
+        ]
+    }
+}

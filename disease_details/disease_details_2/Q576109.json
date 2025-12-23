@@ -1,0 +1,54 @@
+{
+    "name": "mucopolysaccharidosis VI",
+    "qid": "Q576109",
+    "icd_10": "E76.2",
+    "description": "lysosomal storage disease",
+    "aliases": [
+        "MPS VI - Maroteaux-Lamy syndrome",
+        "ARSB deficiency",
+        "arylsulfatase B deficiency",
+        "ASB deficiency",
+        "deficiency of N-acetylgalactosamine-4-sulfatase",
+        "Maroteaux - Lamy syndrome",
+        "Maroteaux-Lamy disease",
+        "Maroteaux-Lamy syndrome",
+        "Mps 6",
+        "MPS VI",
+        "MPS6",
+        "MPSVI",
+        "mucopolysaccharidosis type VI",
+        "N-acetylgalactosamine 4-sulfatase deficiency",
+        "N-Acetylgalactosamine-4-Sulfatase Deficiency"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Maroteaux%E2%80%93Lamy_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "mucopolysaccharidosis",
+                "qid": "Q1479681",
+                "url": "https://en.wikipedia.org/wiki/Mucopolysaccharidosis"
+            },
+            {
+                "name": "lysosomal storage disease with skeletal involvement",
+                "qid": "Q55788818"
+            },
+            {
+                "name": "metabolic disease with corneal opacity",
+                "qid": "Q55789274"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ]
+    }
+}

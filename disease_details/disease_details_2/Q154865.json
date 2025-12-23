@@ -1,0 +1,185 @@
+{
+    "name": "botulism",
+    "qid": "Q154865",
+    "icd_10": "A05.1",
+    "description": "human and animal disease",
+    "aliases": [
+        "Botulism",
+        "Botulism poisoning",
+        "Food poisoning due to Clostridium botulinum",
+        "Foodborne botulism",
+        "Foodborne botulism (subtype)",
+        "Infant botulism (subtype)",
+        "Infection due to clostridium botulinum",
+        "Intoxication with Clostridium botulinum toxin",
+        "Wound botulism (subtype)"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Clostridium%20botulinum.jpg",
+    "url": "https://en.wikipedia.org/wiki/Botulism",
+    "details": {
+        "Cause": [
+            {
+                "name": "Clostridium botulinum",
+                "qid": "Q131268",
+                "url": "https://en.wikipedia.org/wiki/Clostridium_botulinum"
+            },
+            {
+                "name": "botulinum toxin group",
+                "qid": "Q208413",
+                "url": "https://en.wikipedia.org/wiki/Botulinum_toxin"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "metronidazole",
+                "qid": "Q169569",
+                "url": "https://en.wikipedia.org/wiki/Metronidazole"
+            },
+            {
+                "name": "clindamycin",
+                "qid": "Q422273",
+                "url": "https://en.wikipedia.org/wiki/Clindamycin"
+            },
+            {
+                "name": "ipidacrine",
+                "qid": "Q15409425",
+                "url": "https://en.wikipedia.org/wiki/Ipidacrine"
+            },
+            {
+                "name": "heptavalent botulism antitoxin",
+                "qid": "Q17148719",
+                "url": "https://en.wikipedia.org/wiki/Heptavalent_botulism_antitoxin"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "constipation",
+                "qid": "Q178436",
+                "url": "https://en.wikipedia.org/wiki/Constipation"
+            },
+            {
+                "name": "dysautonomia",
+                "qid": "Q620639",
+                "url": "https://en.wikipedia.org/wiki/Dysautonomia"
+            },
+            {
+                "name": "ptosis",
+                "qid": "Q622427",
+                "url": "https://en.wikipedia.org/wiki/Ptosis_(eyelid)"
+            },
+            {
+                "name": "muscle weakness",
+                "qid": "Q270421",
+                "url": "https://en.wikipedia.org/wiki/Muscle_weakness"
+            },
+            {
+                "name": "dysarthria",
+                "qid": "Q225957",
+                "url": "https://en.wikipedia.org/wiki/Dysarthria"
+            },
+            {
+                "name": "diplopia",
+                "qid": "Q775940",
+                "url": "https://en.wikipedia.org/wiki/Diplopia"
+            },
+            {
+                "name": "mydriasis",
+                "qid": "Q1128283",
+                "url": "https://en.wikipedia.org/wiki/Mydriasis"
+            },
+            {
+                "name": "xerostomia",
+                "qid": "Q1162276",
+                "url": "https://en.wikipedia.org/wiki/Xerostomia"
+            },
+            {
+                "name": "urinary retention",
+                "qid": "Q1366695",
+                "url": "https://en.wikipedia.org/wiki/Urinary_retention"
+            },
+            {
+                "name": "tympanites",
+                "qid": "Q1413614",
+                "url": "https://en.wikipedia.org/wiki/Tympany"
+            },
+            {
+                "name": "blurred vision",
+                "qid": "Q4930803",
+                "url": "https://en.wikipedia.org/wiki/Blurred_vision"
+            },
+            {
+                "name": "acute respiratory insufficiency",
+                "qid": "Q21006662",
+                "url": "https://en.wikipedia.org/wiki/Acute_respiratory_failure"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "enema",
+                "qid": "Q194517",
+                "url": "https://en.wikipedia.org/wiki/Enema"
+            },
+            {
+                "name": "symptomatic treatment",
+                "qid": "Q621558",
+                "url": "https://en.wikipedia.org/wiki/Symptomatic_treatment"
+            },
+            {
+                "name": "hyperbaric medicine",
+                "qid": "Q731615",
+                "url": "https://en.wikipedia.org/wiki/Hyperbaric_medicine"
+            },
+            {
+                "name": "detoxification",
+                "qid": "Q1090423",
+                "url": "https://en.wikipedia.org/wiki/Detoxification"
+            },
+            {
+                "name": "gastric lavage",
+                "qid": "Q1755116",
+                "url": "https://en.wikipedia.org/wiki/Gastric_lavage"
+            },
+            {
+                "name": "mechanical ventilation",
+                "qid": "Q3766250",
+                "url": "https://en.wikipedia.org/wiki/Mechanical_ventilation"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "foodborne illness",
+                "qid": "Q272002",
+                "url": "https://en.wikipedia.org/wiki/Foodborne_illness"
+            },
+            {
+                "name": "bacterial infectious disease",
+                "qid": "Q727028",
+                "url": "https://en.wikipedia.org/wiki/Bacterial_disease"
+            },
+            {
+                "name": "geonosis",
+                "qid": "Q1503299",
+                "url": "https://en.wikipedia.org/wiki/Sapronosis"
+            },
+            {
+                "name": "infectious disease of the nervous system",
+                "qid": "Q10336461"
+            },
+            {
+                "name": "primary bacterial infectious disease",
+                "qid": "Q18553247"
+            },
+            {
+                "name": "acquired neuromuscular junction disease",
+                "qid": "Q55789136"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

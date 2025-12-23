@@ -1,0 +1,30 @@
+{
+    "name": "muscle diastasis",
+    "qid": "Q67501487",
+    "icd_10": "M62.0",
+    "description": "abnormal separation of muscles",
+    "aliases": [
+        "Diastasis, Muscle"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "muscular disease",
+                "qid": "Q692536",
+                "url": "https://en.wikipedia.org/wiki/Myopathy"
+            },
+            {
+                "name": "arthropathy",
+                "qid": "Q708176",
+                "url": "https://en.wikipedia.org/wiki/Arthropathy"
+            },
+            {
+                "name": "diastasis",
+                "qid": "Q3026419",
+                "url": "https://en.wikipedia.org/wiki/Diastasis_(pathology)"
+            }
+        ]
+    }
+}

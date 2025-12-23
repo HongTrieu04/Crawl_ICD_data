@@ -1,0 +1,30 @@
+{
+    "name": "gastrointestinal myiasis",
+    "qid": "Q4222640",
+    "icd_10": "B87.8",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "myiasis",
+                "qid": "Q304601",
+                "url": "https://en.wikipedia.org/wiki/Myiasis"
+            },
+            {
+                "name": "gastrointestinal system disease",
+                "qid": "Q2300099",
+                "url": "https://en.wikipedia.org/wiki/Gastrointestinal_disease"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

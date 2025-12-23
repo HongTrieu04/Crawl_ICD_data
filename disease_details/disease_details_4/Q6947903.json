@@ -1,0 +1,20 @@
+{
+    "name": "myocardial infarction complication",
+    "qid": "Q6947903",
+    "icd_10": "I23",
+    "description": "medical problems resulting from heart attacks",
+    "aliases": [
+        "myocardial infarction complications"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Myocardial_infarction_complications",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "myocardial infarction",
+                "qid": "Q12152",
+                "url": "https://en.wikipedia.org/wiki/Myocardial_infarction"
+            }
+        ]
+    }
+}

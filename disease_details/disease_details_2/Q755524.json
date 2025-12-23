@@ -1,0 +1,29 @@
+{
+    "name": "athetosis",
+    "qid": "Q755524",
+    "icd_10": "R25.8",
+    "description": "slow, involuntary, convoluted, writhing movements of the fingers, hands, toes, and feet and in some cases, arms, legs, neck and tongue",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Medical%20diseases%20of%20infancy%20and%20childhood%20%281900%29%20%2814580019148%29.jpg",
+    "url": "https://en.wikipedia.org/wiki/Athetosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "movement disorders",
+                "qid": "Q2608695",
+                "url": "https://en.wikipedia.org/wiki/Movement_disorder"
+            },
+            {
+                "name": "involuntary movement",
+                "qid": "Q11361883"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ]
+    }
+}

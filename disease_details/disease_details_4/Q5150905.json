@@ -1,0 +1,28 @@
+{
+    "name": "mixed hyperlipidemia",
+    "qid": "Q5150905",
+    "icd_10": "E78.4",
+    "description": "medical condition",
+    "aliases": [
+        "combined hyperlipidemia",
+        "multiple-type hyperlipoproteinemia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Combined_hyperlipidemia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "hyperlipidemia",
+                "qid": "Q1079120",
+                "url": "https://en.wikipedia.org/wiki/Hyperlipidemia"
+            }
+        ]
+    }
+}

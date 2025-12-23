@@ -1,0 +1,107 @@
+{
+    "name": "nasopharyngitis",
+    "qid": "Q3936113",
+    "icd_10": "J31.1",
+    "description": "respiratory disease",
+    "aliases": [
+        "chronic nasopharyngitis",
+        "nasopharynx inflammation",
+        "nasopharynxitis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Drug used for treatment": [
+            {
+                "name": "paracetamol",
+                "qid": "Q57055",
+                "url": "https://en.wikipedia.org/wiki/Paracetamol"
+            },
+            {
+                "name": "azithromycin",
+                "qid": "Q165399",
+                "url": "https://en.wikipedia.org/wiki/Azithromycin"
+            },
+            {
+                "name": "ibuprofen",
+                "qid": "Q186969",
+                "url": "https://en.wikipedia.org/wiki/Ibuprofen"
+            },
+            {
+                "name": "xylometazoline",
+                "qid": "Q31030",
+                "url": "https://en.wikipedia.org/wiki/Xylometazoline"
+            },
+            {
+                "name": "(+)-pseudoephedrine",
+                "qid": "Q263958",
+                "url": "https://en.wikipedia.org/wiki/Pseudoephedrine"
+            },
+            {
+                "name": "dextromethorphan",
+                "qid": "Q407781",
+                "url": "https://en.wikipedia.org/wiki/Dextromethorphan"
+            },
+            {
+                "name": "fexofenadine",
+                "qid": "Q415122",
+                "url": "https://en.wikipedia.org/wiki/Fexofenadine"
+            },
+            {
+                "name": "oxymetazoline",
+                "qid": "Q417813",
+                "url": "https://en.wikipedia.org/wiki/Oxymetazoline"
+            },
+            {
+                "name": "guaifenesin",
+                "qid": "Q420682",
+                "url": "https://en.wikipedia.org/wiki/Guaifenesin"
+            },
+            {
+                "name": "cetirizine",
+                "qid": "Q423075",
+                "url": "https://en.wikipedia.org/wiki/Cetirizine"
+            },
+            {
+                "name": "loratadine",
+                "qid": "Q424049",
+                "url": "https://en.wikipedia.org/wiki/Loratadine"
+            },
+            {
+                "name": "fluticasone",
+                "qid": "Q1002165",
+                "url": "https://en.wikipedia.org/wiki/Fluticasone"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "sneeze",
+                "qid": "Q35830",
+                "url": "https://en.wikipedia.org/wiki/Sneeze"
+            },
+            {
+                "name": "runny nose",
+                "qid": "Q1115038",
+                "url": "https://en.wikipedia.org/wiki/Rhinorrhea"
+            },
+            {
+                "name": "nasal congestion",
+                "qid": "Q3245488",
+                "url": "https://en.wikipedia.org/wiki/Nasal_congestion"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "nasopharyngeal disease",
+                "qid": "Q18558167"
+            }
+        ]
+    }
+}

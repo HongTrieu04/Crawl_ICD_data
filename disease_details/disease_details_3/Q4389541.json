@@ -1,0 +1,32 @@
+{
+    "name": "periapical cyst",
+    "qid": "Q4389541",
+    "icd_10": "K04.8",
+    "description": "medical condition",
+    "aliases": [
+        "radicular cyst",
+        "inflammatory cyst"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Periapical_cyst",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dentistry",
+                "qid": "Q12128",
+                "url": "https://en.wikipedia.org/wiki/Dentistry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "cyst of the jaws",
+                "qid": "Q17085172",
+                "url": "https://en.wikipedia.org/wiki/Cysts_of_the_jaws"
+            },
+            {
+                "name": "periapical disease",
+                "qid": "Q54944146"
+            }
+        ]
+    }
+}

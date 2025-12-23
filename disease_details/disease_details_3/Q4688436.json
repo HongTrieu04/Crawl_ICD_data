@@ -1,0 +1,25 @@
+{
+    "name": "aerosol burn",
+    "qid": "Q4688436",
+    "icd_10": "T34",
+    "description": "injury to the skin caused by the pressurized gas within an aerosol spray cooling quickly",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Aerosol_burn",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "frostbite",
+                "qid": "Q1350326",
+                "url": "https://en.wikipedia.org/wiki/Frostbite"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "name": "intermittent monocular esotropia",
+    "qid": "Q18966311",
+    "icd_10": "H50.31",
+    "description": "Human disease",
+    "aliases": [
+        "Intermittent esotropia, monocular",
+        "Intermittent monocular esotropia (disorder)",
+        "Monocular intermittent esotropia (disorder)",
+        "obsolete intermittent monocular esotropia"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "monocular esotropia",
+                "qid": "Q18553835"
+            }
+        ]
+    }
+}

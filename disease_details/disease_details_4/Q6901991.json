@@ -1,0 +1,28 @@
+{
+    "name": "Monostotic fibrous dysplasia",
+    "qid": "Q6901991",
+    "icd_10": "M85.0",
+    "description": "fibrous dysplasia of bone involving only one bone",
+    "aliases": [
+        "Jaffe-Lichtenstein disease",
+        "Monostotic Fibrous Dysplasia of Bone"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Monostotic_fibrous_dysplasia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "fibrous dysplasia of bone",
+                "qid": "Q1410864",
+                "url": "https://en.wikipedia.org/wiki/Fibrous_dysplasia_of_bone"
+            }
+        ]
+    }
+}

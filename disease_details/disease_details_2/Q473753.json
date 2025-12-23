@@ -1,0 +1,30 @@
+{
+    "name": "amniotic band constriction",
+    "qid": "Q473753",
+    "icd_10": "P02.8",
+    "description": "Human disease",
+    "aliases": [
+        "amniotic band syndrome",
+        "congenital contricting bands",
+        "Constriction Ring Syndrome",
+        "obsolete congenital contricting bands"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Constriction_ring_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "pediatrics",
+                "qid": "Q123028",
+                "url": "https://en.wikipedia.org/wiki/Pediatrics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "congenital abnormality",
+                "qid": "Q2852249",
+                "url": "https://en.wikipedia.org/wiki/Congenital_abnormality"
+            }
+        ]
+    }
+}

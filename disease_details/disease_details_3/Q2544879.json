@@ -1,0 +1,61 @@
+{
+    "name": "tricuspid valve stenosis",
+    "qid": "Q2544879",
+    "icd_10": "I36.0",
+    "description": "valvular heart disease which results in the narrowing of the orifice of the tricuspid valve of the heart",
+    "aliases": [
+        "TS",
+        "tricuspid stenosis",
+        "Tricuspid valve stenosis (disorder)"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Tricuspid_valve_stenosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            },
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "heart valve stenosis",
+                "qid": "Q123482454",
+                "url": "https://en.wikipedia.org/wiki/Heart_valve_stenosis"
+            },
+            {
+                "name": "tricuspid valve disease",
+                "qid": "Q18553500"
+            },
+            {
+                "name": "aortic disease",
+                "qid": "Q18556675"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "endocarditis",
+                "qid": "Q82504",
+                "url": "https://en.wikipedia.org/wiki/Endocarditis"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "tricuspid valve",
+                "qid": "Q1344255",
+                "url": "https://en.wikipedia.org/wiki/Tricuspid_valve"
+            }
+        ]
+    }
+}

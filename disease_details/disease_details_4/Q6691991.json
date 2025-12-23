@@ -1,0 +1,56 @@
+{
+    "name": "pervasive developmental disorder",
+    "qid": "Q6691991",
+    "icd_10": "F84",
+    "description": "range of neurodevelopmental conditions",
+    "aliases": [
+        "PDD",
+        "Child Development Disorders, Pervasive",
+        "pervasive development disorder"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Autismo-fita3.jpg",
+    "url": "https://en.wikipedia.org/wiki/Pervasive_developmental_disorder",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "pediatrics",
+                "qid": "Q123028",
+                "url": "https://en.wikipedia.org/wiki/Pediatrics"
+            },
+            {
+                "name": "clinical psychology",
+                "qid": "Q199906",
+                "url": "https://en.wikipedia.org/wiki/Clinical_psychology"
+            },
+            {
+                "name": "psychomotor education",
+                "qid": "Q2116083",
+                "url": "https://en.wikipedia.org/wiki/Psychomotor_education"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "developmental disorder",
+                "qid": "Q3087172",
+                "url": "https://en.wikipedia.org/wiki/Developmental_disorder"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "risperidone",
+                "qid": "Q412443",
+                "url": "https://en.wikipedia.org/wiki/Risperidone"
+            }
+        ]
+    }
+}

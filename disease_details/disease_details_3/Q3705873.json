@@ -1,0 +1,32 @@
+{
+    "name": "photoaging",
+    "qid": "Q3705873",
+    "icd_10": "L57",
+    "description": "ultraviolet light-induced biological development over time",
+    "aliases": [
+        "dermatoheliosis",
+        "photoageing",
+        "solar elastosis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Noraduz%20-%20Armenia%20%282922753494%29.jpg",
+    "url": "https://en.wikipedia.org/wiki/Photoaging",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "skin disease",
+                "qid": "Q949302",
+                "url": "https://en.wikipedia.org/wiki/Skin_condition"
+            },
+            {
+                "name": "senescence",
+                "qid": "Q2070979",
+                "url": "https://en.wikipedia.org/wiki/Senescence"
+            },
+            {
+                "name": "health effects of sun exposure",
+                "qid": "Q5690942",
+                "url": "https://en.wikipedia.org/wiki/Health_effects_of_sunlight_exposure"
+            }
+        ]
+    }
+}

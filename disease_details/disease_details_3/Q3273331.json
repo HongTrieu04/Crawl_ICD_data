@@ -1,0 +1,36 @@
+{
+    "name": "acatalasia",
+    "qid": "Q3273331",
+    "icd_10": "E80.3",
+    "description": "Human disease",
+    "aliases": [
+        "Acatalasemia",
+        "ACATLAS",
+        "deficiency of catalase",
+        "deficiency of catalase (disorder)",
+        "Takahara disease"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Acatalasia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "peroxisomal disease",
+                "qid": "Q3281322",
+                "url": "https://en.wikipedia.org/wiki/Peroxisomal_disorder"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ]
+    }
+}

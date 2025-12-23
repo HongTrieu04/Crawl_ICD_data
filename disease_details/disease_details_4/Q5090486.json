@@ -1,0 +1,49 @@
+{
+    "name": "chemical pneumonitis",
+    "qid": "Q5090486",
+    "icd_10": "J68.0",
+    "description": "inflammation of the lung caused by aspirating or inhaling irritants",
+    "aliases": [
+        "acute chemical fume pulmonary edema",
+        "acute chemical pulmonary edema",
+        "acute pulmonary edema due to fumes and vapors",
+        "bronchitis and pneumonitis due to fumes and vapors",
+        "Pneumonitis due to fumes and/or vapors (disorder)",
+        "toxic pneumonitis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Chemical_pneumonitis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "pneumonia",
+                "qid": "Q12192",
+                "url": "https://en.wikipedia.org/wiki/Pneumonia"
+            },
+            {
+                "name": "pneumonitis",
+                "qid": "Q1284347",
+                "url": "https://en.wikipedia.org/wiki/Pneumonitis"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "perfluorooctanoic acid",
+                "qid": "Q418348",
+                "url": "https://en.wikipedia.org/wiki/Perfluorooctanoic_acid"
+            }
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name": "traumatic glaucoma",
+    "qid": "Q18554423",
+    "icd_10": "H40.3",
+    "description": "Human disease",
+    "aliases": [
+        "Glaucoma associated with ocular trauma",
+        "Glaucoma associated with ocular trauma (disorder)"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "glaucoma",
+                "qid": "Q159701",
+                "url": "https://en.wikipedia.org/wiki/Glaucoma"
+            }
+        ]
+    }
+}

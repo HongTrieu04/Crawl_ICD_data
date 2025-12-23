@@ -1,0 +1,37 @@
+{
+    "name": "deafness",
+    "qid": "Q12133",
+    "icd_10": "H91",
+    "description": "partial or total inability to hear",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Noun%20Hearing%20Loop%20Hadi%20Davodpour%2028161.svg",
+    "url": "https://en.wikipedia.org/wiki/Deafness",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "otolaryngology",
+                "qid": "Q189553",
+                "url": "https://en.wikipedia.org/wiki/Otorhinolaryngology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "sensory loss",
+                "qid": "Q2289481",
+                "url": "https://en.wikipedia.org/wiki/Sensory_loss"
+            },
+            {
+                "name": "hearing disorder",
+                "qid": "Q1644260"
+            },
+            {
+                "name": "ear symptom",
+                "qid": "Q102187283"
+            },
+            {
+                "name": "sensory disability",
+                "qid": "Q115269691"
+            }
+        ]
+    }
+}

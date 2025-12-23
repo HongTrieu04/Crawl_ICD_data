@@ -1,0 +1,27 @@
+{
+    "name": "papulosquamous disorder",
+    "qid": "Q7133237",
+    "icd_10": "L45",
+    "description": "medical condition",
+    "aliases": [
+        "Skin Diseases, Papulosquamous"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Papulosquamous_disorder",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "skin disease",
+                "qid": "Q949302",
+                "url": "https://en.wikipedia.org/wiki/Skin_condition"
+            }
+        ]
+    }
+}

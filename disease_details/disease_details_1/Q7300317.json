@@ -1,0 +1,25 @@
+{
+    "name": "Reactive perforating collagenosis",
+    "qid": "Q7300317",
+    "icd_10": "L87.10",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Reactive_perforating_collagenosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "Cutaneous perforating disorders",
+                "qid": "Q5196708",
+                "url": "https://en.wikipedia.org/wiki/Cutaneous_perforating_disorders"
+            }
+        ]
+    }
+}

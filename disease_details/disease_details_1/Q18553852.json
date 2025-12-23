@@ -1,0 +1,53 @@
+{
+    "name": "lymphoblastic leukemia",
+    "qid": "Q18553852",
+    "icd_10": "C91.9",
+    "description": "leukemia that has material basis in lymphoblasts (immature white blood cells)",
+    "aliases": [
+        "lymphoid leukemia"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "leukemia",
+                "qid": "Q29496",
+                "url": "https://en.wikipedia.org/wiki/Leukemia"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "vincristine",
+                "qid": "Q408977",
+                "url": "https://en.wikipedia.org/wiki/Vincristine"
+            },
+            {
+                "name": "teniposide",
+                "qid": "Q417555",
+                "url": "https://en.wikipedia.org/wiki/Teniposide"
+            },
+            {
+                "name": "(RS)-lenalidomide",
+                "qid": "Q425681",
+                "url": "https://en.wikipedia.org/wiki/Lenalidomide"
+            },
+            {
+                "name": "ibrutinib",
+                "qid": "Q5984881",
+                "url": "https://en.wikipedia.org/wiki/Ibrutinib"
+            },
+            {
+                "name": "dasatinib monohydrate",
+                "qid": "Q27139135"
+            }
+        ]
+    }
+}

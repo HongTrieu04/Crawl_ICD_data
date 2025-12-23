@@ -1,0 +1,42 @@
+{
+    "name": "sternum cancer",
+    "qid": "Q18556616",
+    "icd_10": "C41.3",
+    "description": "bone cancer and neoplasm of chest wall and sternal disorder that is located in the sternum",
+    "aliases": [
+        "Ca ribs/sternum/clavicle",
+        "malignant neoplasm of ribs, sternum and clavicle",
+        "malignant sternal neoplasm",
+        "malignant Sternal tumor",
+        "neoplasm of sternum",
+        "neoplasm of sternum (disorder)",
+        "obsolete malignant neoplasm of ribs, sternum and clavicle",
+        "Sternal tumor"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "bone cancer",
+                "qid": "Q18554919",
+                "url": "https://en.wikipedia.org/wiki/Bone_cancer"
+            },
+            {
+                "name": "thoracic cancer",
+                "qid": "Q18556617"
+            },
+            {
+                "name": "sternal neoplasm",
+                "qid": "Q56014542"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "sternum",
+                "qid": "Q8481",
+                "url": "https://en.wikipedia.org/wiki/Sternum"
+            }
+        ]
+    }
+}

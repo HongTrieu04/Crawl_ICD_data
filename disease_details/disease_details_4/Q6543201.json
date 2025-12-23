@@ -1,0 +1,32 @@
+{
+    "name": "Lichen planopilaris",
+    "qid": "Q6543201",
+    "icd_10": "L66.1",
+    "description": "rare cutaneous variant of lichen planus which affects hair follicles",
+    "aliases": [
+        "LPP",
+        "Follicular lichen planus",
+        "Lichen follicularis",
+        "Lichen planus follicularis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Lichen_planopilaris",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "hair loss",
+                "qid": "Q181391",
+                "url": "https://en.wikipedia.org/wiki/Hair_loss"
+            },
+            {
+                "name": "lichen planus",
+                "qid": "Q848371",
+                "url": "https://en.wikipedia.org/wiki/Lichen_planus"
+            },
+            {
+                "name": "rare cutaneous lichen planus",
+                "qid": "Q55786412"
+            }
+        ]
+    }
+}

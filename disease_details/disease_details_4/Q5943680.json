@@ -1,0 +1,26 @@
+{
+    "name": "Hunner's ulcer",
+    "qid": "Q5943680",
+    "icd_10": "N30.1",
+    "description": "medical condition",
+    "aliases": [
+        "Chronic ulcerating interstitial cystitis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hunner%27s_ulcer",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "chronic interstitial cystitis",
+                "qid": "Q27675337"
+            }
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name": "erythroderma",
+    "qid": "Q1363741",
+    "icd_10": "L26",
+    "description": "skin disease",
+    "aliases": [
+        "dermatitis exfoliativa",
+        "exfoliative dermatitis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Erythroderma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "erythema",
+                "qid": "Q1166142",
+                "url": "https://en.wikipedia.org/wiki/Erythema"
+            }
+        ]
+    }
+}

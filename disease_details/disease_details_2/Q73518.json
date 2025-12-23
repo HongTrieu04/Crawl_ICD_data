@@ -1,0 +1,41 @@
+{
+    "name": "marantic endocarditis",
+    "qid": "Q73518",
+    "icd_10": "I38",
+    "description": "endocarditis that results from the deposition of small sterile vegetations on valve leaflets",
+    "aliases": [
+        "non-bacterial thrombotic endocarditis",
+        "non-infective endocarditis",
+        "nonbacterial thrombotic endocarditis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Nonbacterial_thrombotic_endocarditis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "endocarditis",
+                "qid": "Q82504",
+                "url": "https://en.wikipedia.org/wiki/Endocarditis"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "endocarditis",
+                "qid": "Q82504",
+                "url": "https://en.wikipedia.org/wiki/Endocarditis"
+            },
+            {
+                "name": "thrombosis",
+                "qid": "Q261327",
+                "url": "https://en.wikipedia.org/wiki/Thrombosis"
+            }
+        ]
+    }
+}

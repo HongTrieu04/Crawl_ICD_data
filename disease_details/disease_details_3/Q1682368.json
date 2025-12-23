@@ -1,0 +1,18 @@
+{
+    "name": "perityphlitic abscess",
+    "qid": "Q1682368",
+    "icd_10": "K35.1",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "appendicitis",
+                "qid": "Q121041",
+                "url": "https://en.wikipedia.org/wiki/Appendicitis"
+            }
+        ]
+    }
+}

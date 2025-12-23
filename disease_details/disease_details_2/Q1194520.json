@@ -1,0 +1,144 @@
+{
+    "name": "graft-versus-host disease",
+    "qid": "Q1194520",
+    "icd_10": "T86.0",
+    "description": "medical condition",
+    "aliases": [
+        "GVHD",
+        "GVH",
+        "Disease, Graft-Versus-Host",
+        "Disease, Graft-vs-Host",
+        "Disease, Homologous Wasting",
+        "Disease, Runt",
+        "Diseases, Graft-Versus-Host",
+        "Diseases, Graft-vs-Host",
+        "graft versus host disease",
+        "Graft vs Host Disease",
+        "Graft Vs. Host Disease",
+        "Graft-Versus-Host Disease, Resistance to",
+        "GRAFT-VERSUS-HOST DISEASE, SUSCEPTIBILITY TO",
+        "GRAFT-VERSUS-HOST DISEASE, SUSCEPTIBILITY TO; GVHDS",
+        "Graft-Versus-Host Diseases",
+        "Graft-Versus-Host-Disease",
+        "Graft-vs-Host Disease",
+        "Graft-vs-Host Diseases",
+        "GVHDS",
+        "Homologous Wasting Disease",
+        "Runt Disease"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Graft-versus-host_disease",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            },
+            {
+                "name": "immunology",
+                "qid": "Q101929",
+                "url": "https://en.wikipedia.org/wiki/Immunology"
+            },
+            {
+                "name": "pathology",
+                "qid": "Q7208",
+                "url": "https://en.wikipedia.org/wiki/Pathology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "cyclosporine",
+                "qid": "Q367700",
+                "url": "https://en.wikipedia.org/wiki/Ciclosporin"
+            },
+            {
+                "name": "methoxsalen",
+                "qid": "Q408570",
+                "url": "https://en.wikipedia.org/wiki/Methoxsalen"
+            },
+            {
+                "name": "tacrolimus",
+                "qid": "Q411648",
+                "url": "https://en.wikipedia.org/wiki/Tacrolimus"
+            },
+            {
+                "name": "rituximab",
+                "qid": "Q412323",
+                "url": "https://en.wikipedia.org/wiki/Rituximab"
+            },
+            {
+                "name": "sirolimus",
+                "qid": "Q32089",
+                "url": "https://en.wikipedia.org/wiki/Sirolimus"
+            },
+            {
+                "name": "imatinib",
+                "qid": "Q177094",
+                "url": "https://en.wikipedia.org/wiki/Imatinib"
+            },
+            {
+                "name": "thalidomide",
+                "qid": "Q203174",
+                "url": "https://en.wikipedia.org/wiki/Thalidomide"
+            },
+            {
+                "name": "daclizumab",
+                "qid": "Q412920",
+                "url": "https://en.wikipedia.org/wiki/Daclizumab"
+            },
+            {
+                "name": "methylprednisolone",
+                "qid": "Q417222",
+                "url": "https://en.wikipedia.org/wiki/Methylprednisolone"
+            },
+            {
+                "name": "prednisone",
+                "qid": "Q424972",
+                "url": "https://en.wikipedia.org/wiki/Prednisone"
+            },
+            {
+                "name": "ibrutinib",
+                "qid": "Q5984881",
+                "url": "https://en.wikipedia.org/wiki/Ibrutinib"
+            },
+            {
+                "name": "ruxolitinib",
+                "qid": "Q7383611",
+                "url": "https://en.wikipedia.org/wiki/Ruxolitinib"
+            },
+            {
+                "name": "vedolizumab",
+                "qid": "Q7918002",
+                "url": "https://en.wikipedia.org/wiki/Vedolizumab"
+            },
+            {
+                "name": "prednisolone",
+                "qid": "Q11426176",
+                "url": "https://en.wikipedia.org/wiki/Prednisolone"
+            },
+            {
+                "name": "mycophenolate mofetil",
+                "qid": "Q4567614"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "transplant rejection",
+                "qid": "Q1765748",
+                "url": "https://en.wikipedia.org/wiki/Transplant_rejection"
+            },
+            {
+                "name": "immune disorder",
+                "qid": "Q3843811",
+                "url": "https://en.wikipedia.org/wiki/Immune_disorder"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "graft vs host reaction",
+                "qid": "Q71146048"
+            }
+        ]
+    }
+}

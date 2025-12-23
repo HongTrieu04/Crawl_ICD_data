@@ -1,0 +1,26 @@
+{
+    "name": "low birth weight infant",
+    "qid": "Q6692979",
+    "icd_10": "P05.0",
+    "description": "liveborn infant with birth weight of less than 2.5 kilograms",
+    "aliases": [
+        "LBW",
+        "Infant, Low Birth Weight",
+        "low birth weight"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nina%20wcze%C5%9Bniak.jpg",
+    "url": "https://en.wikipedia.org/wiki/Low_birth_weight",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "failure to thrive",
+                "qid": "Q1497481",
+                "url": "https://en.wikipedia.org/wiki/Failure_to_thrive"
+            },
+            {
+                "name": "nutrition, metabolism, and development symptom",
+                "qid": "Q102187407"
+            }
+        ]
+    }
+}

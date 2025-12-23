@@ -1,0 +1,31 @@
+{
+    "name": "phantom limb",
+    "qid": "Q1191062",
+    "icd_10": "G54.7",
+    "description": "perception of painful and nonpainful phantom sensations that occur following the complete or partial loss of a limb",
+    "aliases": [
+        "ghost limb"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Phantom_limb",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "perception",
+                "qid": "Q160402",
+                "url": "https://en.wikipedia.org/wiki/Perception"
+            },
+            {
+                "name": "perceptual disorders",
+                "qid": "Q42247489"
+            }
+        ]
+    }
+}

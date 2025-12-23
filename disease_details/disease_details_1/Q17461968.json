@@ -1,0 +1,21 @@
+{
+    "name": "gummy smile",
+    "qid": "Q17461968",
+    "icd_10": "K06.8",
+    "description": "show of the anterior gingiva above the teeth when smiling",
+    "aliases": [
+        "gingival smile",
+        "Gummy smile"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gummy%20Smile%20Woman.jpg",
+    "url": "https://en.wikipedia.org/wiki/Gummy_smile",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "orthodontics",
+                "qid": "Q118301",
+                "url": "https://en.wikipedia.org/wiki/Orthodontics"
+            }
+        ]
+    }
+}

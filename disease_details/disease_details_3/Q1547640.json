@@ -1,0 +1,21 @@
+{
+    "name": "organic acidemia",
+    "qid": "Q1547640",
+    "icd_10": "E72",
+    "description": "amino acid metabolic disorder that disrupts normal amino acid metabolism causing a building up of branched-chain amino acids",
+    "aliases": [
+        "Disorder of Organic Acid Metabolism",
+        "organic acid metabolism disorder",
+        "organic aciduria"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Organic_acidemia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "amino acid metabolic disorder",
+                "qid": "Q18558086"
+            }
+        ]
+    }
+}

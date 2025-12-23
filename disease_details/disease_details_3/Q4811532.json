@@ -1,0 +1,29 @@
+{
+    "name": "astroblastoma",
+    "qid": "Q4811532",
+    "icd_10": "C71.9",
+    "description": "glial tumor derived from the astroblast, a type of cell that closely resembles spongioblastoma and astrocytes",
+    "aliases": [
+        "Astroblastoma",
+        "Astroblastoma (morphologic abnormality)",
+        "Cerebral astroblastoma"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Astroblastoma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "astrocytoma",
+                "qid": "Q177755",
+                "url": "https://en.wikipedia.org/wiki/Astrocytoma"
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "name": "manganism",
+    "qid": "Q2480013",
+    "icd_10": "T57.2",
+    "description": "manganese poisoning",
+    "aliases": [
+        "Manganese intoxication",
+        "manganese poisoning",
+        "Manganism"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Manganism",
+    "details": {
+        "Cause": [
+            {
+                "name": "manganese",
+                "qid": "Q731",
+                "url": "https://en.wikipedia.org/wiki/Manganese"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "occupational medicine",
+                "qid": "Q628764",
+                "url": "https://en.wikipedia.org/wiki/Occupational_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "metal poisoning",
+                "qid": "Q4215775",
+                "url": "https://en.wikipedia.org/wiki/Metal_toxicity"
+            },
+            {
+                "name": "rare intoxication",
+                "qid": "Q55785342"
+            },
+            {
+                "name": "rare parkinsonian syndrome due to intoxication",
+                "qid": "Q55787241"
+            }
+        ]
+    }
+}

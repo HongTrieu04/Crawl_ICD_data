@@ -1,0 +1,48 @@
+{
+    "name": "pneumococcal pneumonia",
+    "qid": "Q7205992",
+    "icd_10": "J13",
+    "description": "human disease",
+    "aliases": [
+        "Chest infection - pneumococcal pneumonia",
+        "Lobar -pneumococcal -pneumonia",
+        "Lobar pneumonia (disorder)",
+        "obsolete pneumococcal pneumonia",
+        "Pneumococcal lobar pneumonia (disorder)",
+        "Pneumococcal pneumonia (disorder)",
+        "Pneumococcal pneumonia (disorder) [Ambiguous]",
+        "Pneumococcal pneumonia [Streptococcus pneumoniae pneumonia]",
+        "Pneumonia, Pneumococcal",
+        "Streptococcus pneumonia",
+        "Streptococcus pneumoniae pneumonia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pneumococcal_pneumonia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "streptococcal pneumonia",
+                "qid": "Q18966412"
+            },
+            {
+                "name": "bacterial pneumonia",
+                "qid": "Q3776920",
+                "url": "https://en.wikipedia.org/wiki/Bacterial_pneumonia"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "pneumococcal infection",
+                "qid": "Q4366062",
+                "url": "https://en.wikipedia.org/wiki/Pneumococcal_infection"
+            }
+        ]
+    }
+}

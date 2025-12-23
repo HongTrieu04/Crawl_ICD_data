@@ -1,0 +1,27 @@
+{
+    "name": "exploding head syndrome",
+    "qid": "Q3106901",
+    "icd_10": "G47.59",
+    "description": "syndrome where people perceive loud imagined noises when falling asleep or waking up",
+    "aliases": [
+        "EHS"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Exploding%20head%20syndrome%20visual%20flash%20illustration.gif",
+    "url": "https://en.wikipedia.org/wiki/Exploding_head_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "parasomnia",
+                "qid": "Q559869",
+                "url": "https://en.wikipedia.org/wiki/Parasomnia"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "sleep medicine",
+                "qid": "Q744029",
+                "url": "https://en.wikipedia.org/wiki/Sleep_medicine"
+            }
+        ]
+    }
+}

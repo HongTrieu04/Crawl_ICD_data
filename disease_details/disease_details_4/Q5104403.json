@@ -1,0 +1,32 @@
+{
+    "name": "choluria",
+    "qid": "Q5104403",
+    "icd_10": "R82.2",
+    "description": "presence of bile in urine",
+    "aliases": [
+        "Biliuria"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Choluria.svg",
+    "url": "https://en.wikipedia.org/wiki/Choluria",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "urological symptom",
+                "qid": "Q2565950"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "dark urine",
+                "qid": "Q21110084"
+            }
+        ]
+    }
+}

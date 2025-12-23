@@ -1,0 +1,60 @@
+{
+    "name": "febrile seizure",
+    "qid": "Q127664",
+    "icd_10": "R56.0",
+    "description": "seizure associated with a high body temperature",
+    "aliases": [
+        "febrile convulsion",
+        "fever fit"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Febrile_seizure",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "convulsion",
+                "qid": "Q852376",
+                "url": "https://en.wikipedia.org/wiki/Convulsion"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            },
+            {
+                "name": "pediatrics",
+                "qid": "Q123028",
+                "url": "https://en.wikipedia.org/wiki/Pediatrics"
+            },
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "diazepam",
+                "qid": "Q210402",
+                "url": "https://en.wikipedia.org/wiki/Diazepam"
+            },
+            {
+                "name": "phenobarbital",
+                "qid": "Q407241",
+                "url": "https://en.wikipedia.org/wiki/Phenobarbital"
+            },
+            {
+                "name": "phenytoin",
+                "qid": "Q410400",
+                "url": "https://en.wikipedia.org/wiki/Phenytoin"
+            }
+        ]
+    }
+}

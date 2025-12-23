@@ -1,0 +1,29 @@
+{
+    "name": "Uterine clear cell carcinoma",
+    "qid": "Q7902646",
+    "icd_10": "C54.1",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Uterine_clear-cell_carcinoma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "clear cell carcinoma",
+                "qid": "Q18556242",
+                "url": "https://en.wikipedia.org/wiki/Clear-cell_carcinoma"
+            },
+            {
+                "name": "endometrial carcinoma",
+                "qid": "Q18555222"
+            }
+        ]
+    }
+}

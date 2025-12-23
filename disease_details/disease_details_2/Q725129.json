@@ -1,0 +1,44 @@
+{
+    "name": "adhesions of uterus",
+    "qid": "Q725129",
+    "icd_10": "N85.6",
+    "description": "adhesions or fibrosis of endometrium of uterus",
+    "aliases": [
+        "uterine",
+        "adhesions of uterus (finding)",
+        "Asherman's syndrome",
+        "Band of uterus",
+        "Intrauterine adhesions",
+        "Intrauterine adhesions (disorder)",
+        "Intrauterine adhesions [Ambiguous]",
+        "Intrauterine synechiae",
+        "Intrauterine synechiae (disorder)",
+        "Intrauterine synechiae (disorder) [Ambiguous]"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Asherman%27s_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "gynatresia",
+                "qid": "Q1486140"
+            },
+            {
+                "name": "uterine disease",
+                "qid": "Q18555940"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gynaecology",
+                "qid": "Q1221899",
+                "url": "https://en.wikipedia.org/wiki/Gynaecology"
+            }
+        ]
+    }
+}

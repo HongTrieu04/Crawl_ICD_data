@@ -1,0 +1,49 @@
+{
+    "name": "periventricular leukomalacia",
+    "qid": "Q469490",
+    "icd_10": "P91.29",
+    "description": "human disease",
+    "aliases": [
+        "PVL",
+        "coagulation necrosis",
+        "diffuse symmetrical periventricular leukoencephalopathy",
+        "encephalodystrophy",
+        "infarct periventricular white matter",
+        "ischemic necrosis",
+        "leukomalacia",
+        "necrosis of white matter",
+        "periventricular infarction",
+        "Periventricular leucomalacia (disorder)",
+        "softening of the brain"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Periventricular_leukomalacia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "encephalomalacia",
+                "qid": "Q947813",
+                "url": "https://en.wikipedia.org/wiki/Encephalomalacia"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "pediatrics",
+                "qid": "Q123028",
+                "url": "https://en.wikipedia.org/wiki/Pediatrics"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "preterm birth",
+                "qid": "Q625506",
+                "url": "https://en.wikipedia.org/wiki/Preterm_birth"
+            }
+        ]
+    }
+}

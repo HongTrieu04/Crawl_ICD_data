@@ -1,0 +1,34 @@
+{
+    "name": "juvenile neuronal ceroid lipofuscinosis",
+    "qid": "Q1753778",
+    "icd_10": "E75.4",
+    "description": "extremely rare and fatal autosomal recessive neurodegenerative disorder in humans",
+    "aliases": [
+        "JNCL",
+        "Batten disease",
+        "Batten-Mayou disease",
+        "Juvenile NCL",
+        "obsolete CLN3 disease",
+        "Spielmeyer-Vogt disease",
+        "Spielmeyer-Vogt-Sjögren-Batten disease",
+        "Vogt-Spielmeyer disease"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Batten_disease",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "neuronal ceroid lipofuscinosis",
+                "qid": "Q4358039",
+                "url": "https://en.wikipedia.org/wiki/Neuronal_ceroid_lipofuscinosis"
+            }
+        ]
+    }
+}

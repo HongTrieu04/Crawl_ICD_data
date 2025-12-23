@@ -1,0 +1,19 @@
+{
+    "name": "infant extremely preterm",
+    "qid": "Q57813460",
+    "icd_10": "P07.2",
+    "description": "human infant born before 28 weeks of gestation",
+    "aliases": [
+        "Infant, Extremely Premature"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "preterm infant",
+                "qid": "Q45051448"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Group B streptococcal infection",
+    "qid": "Q3500350",
+    "icd_10": "B95.1",
+    "description": "bacterial infection",
+    "aliases": [
+        "GBS",
+        "Group B Strep infection"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Streptococci.jpg",
+    "url": "https://en.wikipedia.org/wiki/Group_B_streptococcal_infection",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "streptococcal infection",
+                "qid": "Q5849703",
+                "url": "https://en.wikipedia.org/wiki/Streptococcosis"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "pediatrics",
+                "qid": "Q123028",
+                "url": "https://en.wikipedia.org/wiki/Pediatrics"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Streptococcus agalactiae",
+                "qid": "Q132949",
+                "url": "https://en.wikipedia.org/wiki/Streptococcus_agalactiae"
+            }
+        ]
+    }
+}

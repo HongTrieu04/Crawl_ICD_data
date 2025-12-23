@@ -1,0 +1,29 @@
+{
+    "name": "tianeptine abuse",
+    "qid": "Q25383796",
+    "icd_10": "F55.0",
+    "description": null,
+    "aliases": [
+        "tianeptine use disorder"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "non-controlled substance abuse",
+                "qid": "Q182413",
+                "url": "https://en.wikipedia.org/wiki/Toxicomania"
+            },
+            {
+                "name": "substance use disorder",
+                "qid": "Q7632070",
+                "url": "https://en.wikipedia.org/wiki/Substance_use_disorder"
+            },
+            {
+                "name": "abuse of medicaments",
+                "qid": "Q2258219"
+            }
+        ]
+    }
+}

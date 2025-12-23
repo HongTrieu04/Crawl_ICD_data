@@ -1,0 +1,30 @@
+{
+    "name": "inflammatory spondylopathy",
+    "qid": "Q18554238",
+    "icd_10": "M49.8",
+    "description": "Human disease",
+    "aliases": [
+        "Inflammatory spondylopathies in disease classified elsewhere",
+        "Inflammatory spondylopathies in disease EC",
+        "Inflammatory spondylopathies in disease EC (disorder)",
+        "Inflammatory spondylopathy in disease classified elsewhere"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "spondylitis",
+                "qid": "Q2165411",
+                "url": "https://en.wikipedia.org/wiki/Spondylitis"
+            }
+        ]
+    }
+}

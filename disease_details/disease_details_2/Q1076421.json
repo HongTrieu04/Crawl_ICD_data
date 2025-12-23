@@ -1,0 +1,52 @@
+{
+    "name": "choreatic disease",
+    "qid": "Q1076421",
+    "icd_10": "G25.52",
+    "description": "movement disease characterized by brief, semi-directed, irregular movements that not repetitive or rhythmic, but appear to flow from one muscle to the next",
+    "aliases": [
+        "chorea",
+        "Bch",
+        "Benign familial chorea",
+        "BHC",
+        "hereditary benign chorea",
+        "hereditary chorea",
+        "Hereditary Progressive Chorea Without Dementia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Chorea",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "clinical sign",
+                "qid": "Q1441305",
+                "url": "https://en.wikipedia.org/wiki/Clinical_sign"
+            },
+            {
+                "name": "movement disorders",
+                "qid": "Q2608695",
+                "url": "https://en.wikipedia.org/wiki/Movement_disorder"
+            },
+            {
+                "name": "Huntington's disease-like syndrome",
+                "qid": "Q24977062",
+                "url": "https://en.wikipedia.org/wiki/Huntington%27s_disease-like_syndrome"
+            },
+            {
+                "name": "involuntary movement",
+                "qid": "Q11361883"
+            }
+        ]
+    }
+}

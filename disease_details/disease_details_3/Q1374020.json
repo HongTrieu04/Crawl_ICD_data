@@ -1,0 +1,46 @@
+{
+    "name": "somatization disorder",
+    "qid": "Q1374020",
+    "icd_10": "F45.0",
+    "description": "somatoform disorder that involves persistently complaints of varied physical symptoms that have no identifiable physical origin.",
+    "aliases": [
+        "Briquet's disorder",
+        "Polysomatising disorder",
+        "Somatisation disorder"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Somatization_disorder",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "psychology",
+                "qid": "Q9418",
+                "url": "https://en.wikipedia.org/wiki/Psychology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "somatic symptom disorder",
+                "qid": "Q936549",
+                "url": "https://en.wikipedia.org/wiki/Somatic_symptom_disorder"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "psychotherapy",
+                "qid": "Q183257",
+                "url": "https://en.wikipedia.org/wiki/Psychotherapy"
+            }
+        ]
+    }
+}

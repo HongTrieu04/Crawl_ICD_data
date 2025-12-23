@@ -1,0 +1,38 @@
+{
+    "name": "movement disorders",
+    "qid": "Q2608695",
+    "icd_10": "R25",
+    "description": "clinical syndromes with either an excess of movement or a paucity of voluntary and involuntary movements",
+    "aliases": [
+        "movement disorder",
+        "extrapyramidal disease",
+        "movement disease"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Movement_disorder",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "encephalopathy",
+                "qid": "Q576349",
+                "url": "https://en.wikipedia.org/wiki/Encephalopathy"
+            },
+            {
+                "name": "motor dysfunction",
+                "qid": "Q21862894"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ]
+    }
+}

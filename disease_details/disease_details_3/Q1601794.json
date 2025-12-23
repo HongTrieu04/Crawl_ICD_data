@@ -1,0 +1,44 @@
+{
+    "name": "parasitic infectious diseases",
+    "qid": "Q1601794",
+    "icd_10": "B89",
+    "description": "infectious disease caused or transmitted by a parasite",
+    "aliases": [
+        "parasitemia",
+        "ectoparasitic disease",
+        "infectious and parasitic diseases",
+        "parasitic diseases",
+        "parasitic endophthalmitis",
+        "parasitic infectious disease"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Parasitic_disease",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "infectious disease",
+                "qid": "Q18123741",
+                "url": "https://en.wikipedia.org/wiki/Infectious_disease"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "parasite",
+                "qid": "Q10253316",
+                "url": "https://en.wikipedia.org/wiki/Parasite"
+            }
+        ]
+    }
+}

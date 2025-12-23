@@ -1,0 +1,30 @@
+{
+    "name": "sternal fracture",
+    "qid": "Q3080308",
+    "icd_10": "S22.2",
+    "description": "term",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Breastbone%20fracture%20-%20Sternal%20fracture%201%20--%20Smart-Servier.png",
+    "url": "https://en.wikipedia.org/wiki/Sternal_fracture",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "bone fracture",
+                "qid": "Q68833",
+                "url": "https://en.wikipedia.org/wiki/Bone_fracture"
+            },
+            {
+                "name": "chest trauma",
+                "qid": "Q368370",
+                "url": "https://en.wikipedia.org/wiki/Chest_injury"
+            }
+        ]
+    }
+}

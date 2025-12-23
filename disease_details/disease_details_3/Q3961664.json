@@ -1,0 +1,20 @@
+{
+    "name": "Alfidi's syndrome",
+    "qid": "Q3961664",
+    "icd_10": "I15.9",
+    "description": "arterial hypertension",
+    "aliases": [
+        "enal splanchnic steal syndrome"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "arterial hypertension",
+                "qid": "Q41861",
+                "url": "https://en.wikipedia.org/wiki/Hypertension"
+            }
+        ]
+    }
+}

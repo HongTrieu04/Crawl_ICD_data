@@ -1,0 +1,43 @@
+{
+    "name": "psychological abuse",
+    "qid": "Q1339137",
+    "icd_10": "T74.3",
+    "description": "form of abuse characterized by a person subjecting or exposing another to behavior that may result in psychological trauma",
+    "aliases": [
+        "emotional abuse",
+        "mental abuse",
+        "Psychological Maltreatment",
+        "psychological violence"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Psychological_abuse",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "narcissistic abuse",
+                "qid": "Q15081042",
+                "url": "https://en.wikipedia.org/wiki/Narcissistic_abuse"
+            },
+            {
+                "name": "abuse",
+                "qid": "Q600571",
+                "url": "https://en.wikipedia.org/wiki/Abuse"
+            },
+            {
+                "name": "manipulation",
+                "qid": "Q905726",
+                "url": "https://en.wikipedia.org/wiki/Manipulation_(psychology)"
+            },
+            {
+                "name": "domestic violence",
+                "qid": "Q156537",
+                "url": "https://en.wikipedia.org/wiki/Domestic_violence"
+            },
+            {
+                "name": "assault",
+                "qid": "Q365680",
+                "url": "https://en.wikipedia.org/wiki/Assault"
+            }
+        ]
+    }
+}

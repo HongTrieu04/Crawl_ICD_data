@@ -1,0 +1,34 @@
+{
+    "name": "keraunopathy",
+    "qid": "Q6393683",
+    "icd_10": "T75.0",
+    "description": "injury caused by lightning strike",
+    "aliases": [
+        "Lightning injuries",
+        "lightning injury"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Lightning_injury",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "electrical injury",
+                "qid": "Q244404",
+                "url": "https://en.wikipedia.org/wiki/Electrical_injury"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "lightning strike",
+                "qid": "Q15120872",
+                "url": "https://en.wikipedia.org/wiki/Lightning_strike"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "keraunomedicine",
+                "qid": "Q6393681"
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Tertiary hyperparathyroidism",
+    "qid": "Q7705271",
+    "icd_10": "E21",
+    "description": "overproduction of parathyroid hormone that is autonomous and often associated with chronic secondary hyperparathyroidism",
+    "aliases": [
+        "tertiary hyperparathyroidism",
+        "Tertiary Hyperparathyroidism"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Tertiary_hyperparathyroidism",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "hyperparathyroidism",
+                "qid": "Q1344835",
+                "url": "https://en.wikipedia.org/wiki/Hyperparathyroidism"
+            },
+            {
+                "name": "hypercalcemia",
+                "qid": "Q1474877",
+                "url": "https://en.wikipedia.org/wiki/Hypercalcaemia"
+            }
+        ]
+    }
+}

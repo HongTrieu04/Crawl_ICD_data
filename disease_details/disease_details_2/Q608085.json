@@ -1,0 +1,82 @@
+{
+    "name": "photodermatitis",
+    "qid": "Q608085",
+    "icd_10": "L57.8",
+    "description": "photosensitivity disorder in which an agent or allergen is activated by light to sensitize the allergic response",
+    "aliases": [
+        "photoallergic contact dermatitis",
+        "photoallergic eczema"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Photodermatitis.jpg",
+    "url": "https://en.wikipedia.org/wiki/Photodermatitis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "immunology",
+                "qid": "Q101929",
+                "url": "https://en.wikipedia.org/wiki/Immunology"
+            },
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "epidermis",
+                "qid": "Q212743",
+                "url": "https://en.wikipedia.org/wiki/Epidermis"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "dermatitis",
+                "qid": "Q229256",
+                "url": "https://en.wikipedia.org/wiki/Dermatitis"
+            },
+            {
+                "name": "photosensitivity",
+                "qid": "Q2944236",
+                "url": "https://en.wikipedia.org/wiki/Photosensitivity_in_humans"
+            },
+            {
+                "name": "photodermatosis",
+                "qid": "Q2986815",
+                "url": "https://en.wikipedia.org/wiki/Photodermatosis"
+            },
+            {
+                "name": "allergic contact dermatitis",
+                "qid": "Q12077704",
+                "url": "https://en.wikipedia.org/wiki/Allergic_contact_dermatitis"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "cinoxate",
+                "qid": "Q2319112",
+                "url": "https://en.wikipedia.org/wiki/Cinoxate"
+            },
+            {
+                "name": "avobenzone",
+                "qid": "Q2775914",
+                "url": "https://en.wikipedia.org/wiki/Avobenzone"
+            },
+            {
+                "name": "4-aminobenzoic acid",
+                "qid": "Q284959",
+                "url": "https://en.wikipedia.org/wiki/4-Aminobenzoic_acid"
+            },
+            {
+                "name": "hydroxychloroquine",
+                "qid": "Q421094",
+                "url": "https://en.wikipedia.org/wiki/Hydroxychloroquine"
+            },
+            {
+                "name": "oxybenzone",
+                "qid": "Q518114",
+                "url": "https://en.wikipedia.org/wiki/Oxybenzone"
+            }
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "name": "fibrolamellar hepatocellular carcinoma",
+    "qid": "Q5446468",
+    "icd_10": "C22.0",
+    "description": "hepatocellular carcinoma characterized microscopically by laminated fibrous layers interspersed between the tumour cells. The polygonal, deeply eosinophilic tumor cells arise in non-cirrhotic livers",
+    "aliases": [
+        "FLC",
+        "hepatocellular carcinoma",
+        "FHCC",
+        "Fibrolamellar Cancer",
+        "Fibrolamellar Carcinoma",
+        "Fibrolamellar Carcinoma of Liver Cells",
+        "Fibrolamellar Carcinoma of the Liver Cells",
+        "Fibrolamellar hepatocarcinoma",
+        "Fibrolamellar hepatocellular carcinoma",
+        "Fibrolamellar hepatocellular carcinoma (disorder)",
+        "Hepatocellular carcinoma, fibrolamellar",
+        "Hepatocellular carcinoma, fibrolamellar (morphologic abnormality)",
+        "hepatocellular fibrolamellar carcinoma",
+        "Liver Cell Fibrolamellar Carcinoma",
+        "Oncocytic Hepatocellular tumor",
+        "Polygonal Cell Type Hepatocellular Carcinoma with Fibrous Stroma"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Fibrolamellar_hepatocellular_carcinoma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "hepatocellular carcinoma",
+                "qid": "Q1148337",
+                "url": "https://en.wikipedia.org/wiki/Hepatocellular_carcinoma"
+            }
+        ]
+    }
+}

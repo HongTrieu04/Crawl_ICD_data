@@ -1,0 +1,31 @@
+{
+    "name": "idiopathic giant-cell myocarditis",
+    "qid": "Q17125239",
+    "icd_10": "I40.8",
+    "description": "human disease",
+    "aliases": [
+        "IGCM"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Idiopathic_giant-cell_myocarditis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "cardiomyopathy",
+                "qid": "Q847583",
+                "url": "https://en.wikipedia.org/wiki/Cardiomyopathy"
+            },
+            {
+                "name": "acute myocarditis",
+                "qid": "Q18556126"
+            }
+        ]
+    }
+}

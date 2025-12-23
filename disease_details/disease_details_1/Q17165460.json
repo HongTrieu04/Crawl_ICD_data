@@ -1,0 +1,37 @@
+{
+    "name": "atypical hemolytic uremic syndrome",
+    "qid": "Q17165460",
+    "icd_10": "D59.3",
+    "description": "complement deficiency that is characterized by mechanical hemolytic anemia, thrombocytopenia, and renal dysfunction",
+    "aliases": [
+        "atypical hemolytic-uremic syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Atypical_hemolytic_uremic_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "hemolytic-uremic syndrome",
+                "qid": "Q162266",
+                "url": "https://en.wikipedia.org/wiki/Hemolytic%E2%80%93uremic_syndrome"
+            },
+            {
+                "name": "complement deficiency",
+                "qid": "Q5156409",
+                "url": "https://en.wikipedia.org/wiki/Complement_deficiency"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            }
+        ]
+    }
+}

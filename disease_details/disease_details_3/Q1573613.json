@@ -1,0 +1,50 @@
+{
+    "name": "venous ulcer",
+    "qid": "Q1573613",
+    "icd_10": "I83.2",
+    "description": "disease",
+    "aliases": [
+        "venous insufficiency ulceration"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%9Alcera%20varicosa%20%28RPS%2024-08-2020%29%20en%20pierna%20con%20insuficiencia%20venosa%20cr%C3%B3nica.png",
+    "url": "https://en.wikipedia.org/wiki/Venous_ulcer",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "vein disorder",
+                "qid": "Q7918687",
+                "url": "https://en.wikipedia.org/wiki/Vein_disorders"
+            },
+            {
+                "name": "wound",
+                "qid": "Q184753",
+                "url": "https://en.wikipedia.org/wiki/Wound"
+            },
+            {
+                "name": "ulcer of lower limbs",
+                "qid": "Q18557964"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "lower leg",
+                "qid": "Q8265768",
+                "url": "https://en.wikipedia.org/wiki/Crus_(lower_leg)"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "becaplermin",
+                "qid": "Q2313188",
+                "url": "https://en.wikipedia.org/wiki/Becaplermin"
+            }
+        ]
+    }
+}

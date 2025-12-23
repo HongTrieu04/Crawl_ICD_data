@@ -1,0 +1,86 @@
+{
+    "name": "Danon disease",
+    "qid": "Q5220984",
+    "icd_10": "E74.0",
+    "description": "Human disease",
+    "aliases": [
+        "ANTOPOL DISEASE",
+        "DANON DISEASE",
+        "Glycogen storage cardiomyopathy",
+        "Glycogen storage disease due to LAMP-2 deficiency",
+        "Glycogen Storage Disease Iib",
+        "Glycogen storage disease limited to the heart",
+        "Glycogen storage disease type 2b (formerly)",
+        "Glycogen Storage Disease Type IIb",
+        "Glycogenosis due to LAMP-2 deficiency",
+        "GSD due to LAMP-2 deficiency",
+        "Gsd Iib",
+        "Gsd Iib, Formerly",
+        "GSD2B (formerly)",
+        "Lysosomal glycogen storage disease with normal acid maltase activity",
+        "Lysosomal Glycogen Storage Disease Without Acid Maltase Deficiency",
+        "Lysosomal glycogen storage disease without acid maltase deficiency (formerly)",
+        "Lysosomal Glycogen Storage Disease Without Acid Maltase Deficiency, Formerly",
+        "Pseudoglycogenosis 2",
+        "PSEUDOGLYCOGENOSIS II",
+        "Vacuolar cardiomyopathy and myopathy X-linked",
+        "Vacuolar Cardiomyopathy and Myopathy, X-Linked",
+        "X-linked vacuolar cardiomyopathy and myopathy"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Danon_disease",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "genetic disease",
+                "qid": "Q200779",
+                "url": "https://en.wikipedia.org/wiki/Genetic_disorder"
+            },
+            {
+                "name": "lysosomal storage disease",
+                "qid": "Q675010",
+                "url": "https://en.wikipedia.org/wiki/Lysosomal_storage_disease"
+            },
+            {
+                "name": "hypertrophic cardiomyopathy",
+                "qid": "Q1364270",
+                "url": "https://en.wikipedia.org/wiki/Hypertrophic_cardiomyopathy"
+            },
+            {
+                "name": "X-linked dominant disease",
+                "qid": "Q55010089"
+            },
+            {
+                "name": "syndromic neurometabolic disease with X-linked intellectual disability",
+                "qid": "Q55785814"
+            },
+            {
+                "name": "muscular glycogenosis",
+                "qid": "Q55785945"
+            },
+            {
+                "name": "lysosomal disease with hypertrophic cardiomyopathy",
+                "qid": "Q55786143"
+            },
+            {
+                "name": "glycogen storage disease with hypertrophic cardiomyopathy",
+                "qid": "Q55786141"
+            },
+            {
+                "name": "syndrome associated with hypertrophic cardiomyopathy",
+                "qid": "Q55786146"
+            },
+            {
+                "name": "lysosomal glycogen storage disease",
+                "qid": "Q55787314"
+            }
+        ]
+    }
+}

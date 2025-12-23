@@ -1,0 +1,20 @@
+{
+    "name": "borderline personality disorder: borderline type",
+    "qid": "Q18710618",
+    "icd_10": "F60.31",
+    "description": "subtype of borderline personality disorder, with the ICD-10 classification of F60.31",
+    "aliases": [
+        "emotionally unstable personality disorder: borderline type"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "borderline personality disorder",
+                "qid": "Q208166",
+                "url": "https://en.wikipedia.org/wiki/Borderline_personality_disorder"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Streptococcal intertrigo",
+    "qid": "Q7623345",
+    "icd_10": "L08.8",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Streptococcal_intertrigo",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "intertrigo",
+                "qid": "Q796150",
+                "url": "https://en.wikipedia.org/wiki/Intertrigo"
+            },
+            {
+                "name": "streptococcal infection",
+                "qid": "Q5849703",
+                "url": "https://en.wikipedia.org/wiki/Streptococcosis"
+            }
+        ]
+    }
+}

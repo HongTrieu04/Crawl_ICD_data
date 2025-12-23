@@ -1,0 +1,25 @@
+{
+    "name": "acute myeloid leukemia with 11q23 abnormalities",
+    "qid": "Q55789297",
+    "icd_10": "C92.6",
+    "description": null,
+    "aliases": [
+        "Acute Myeloid Leukemia with 11q23 (MLL) Abnormalities",
+        "Acute Myeloid Leukemia with MLL Abnormalities",
+        "Acute Myeloid Leukemia with t(9;11)(p22;q23); MLLT3-MLL",
+        "Acute Myeloid Leukemia with t(9;11)(p22.3;q23.3); MLLT3-KMT2A",
+        "AML with 11q23 abnormalities",
+        "AML with t(9;11)(p22;q23); MLLT3-MLL"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "acute myeloid leukemia",
+                "qid": "Q264118",
+                "url": "https://en.wikipedia.org/wiki/Acute_myeloid_leukemia"
+            }
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "name": "hallucinogen persisting perception disorder",
+    "qid": "Q1001920",
+    "icd_10": "F16.7",
+    "description": "non-psychotic disorder after a previous use of drugs",
+    "aliases": [
+        "HPPD",
+        "posthallucinogen perception disorder"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hallucinogen_persisting_perception_disorder",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "hallucinogen",
+                "qid": "Q194270",
+                "url": "https://en.wikipedia.org/wiki/Hallucinogen"
+            },
+            {
+                "name": "psychedelic drug",
+                "qid": "Q2314176",
+                "url": "https://en.wikipedia.org/wiki/Psychedelic_drug"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "hallucinatory state induced by drug",
+                "qid": "Q18967503"
+            }
+        ]
+    }
+}

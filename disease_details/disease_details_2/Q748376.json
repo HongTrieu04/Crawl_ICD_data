@@ -1,0 +1,31 @@
+{
+    "name": "phakomatosis",
+    "qid": "Q748376",
+    "icd_10": "Q85",
+    "description": "multisystem disorders that involve the ectodermal structures like central nervous system, skin and eyes",
+    "aliases": [
+        "Neuro-oculo-cutaneous syndromes",
+        "Neurocutaneous diseases",
+        "Neurocutaneous disorders",
+        "Neurocutaneous syndromes",
+        "Phakomatoses"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Phakomatosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            }
+        ]
+    }
+}

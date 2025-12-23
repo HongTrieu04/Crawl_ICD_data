@@ -1,0 +1,24 @@
+{
+    "name": "ganglioneuroma",
+    "qid": "Q1124606",
+    "icd_10": "D36",
+    "description": "rare and benign tumor of the autonomic nerve fibers arising from neural crest sympathogonia",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Ganglioneuroma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "autonomic nervous system benign neoplasm",
+                "qid": "Q60195312"
+            }
+        ]
+    }
+}

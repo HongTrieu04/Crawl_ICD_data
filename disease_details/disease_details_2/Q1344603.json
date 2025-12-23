@@ -1,0 +1,45 @@
+{
+    "name": "enterohaemorrhagic Escherichia coli infection",
+    "qid": "Q1344603",
+    "icd_10": "A04.3",
+    "description": "Human disease",
+    "aliases": [
+        "Enterohaemorrhagic Escherichia coli infection",
+        "Enterohemorrhagic Escherichia coli infection",
+        "enterohemorrhagic Escherichia coli infectious disease",
+        "Hemorrhagic colitis",
+        "intestinal infection due to enterohemorrhagic E. coli",
+        "obsolete enterohemorrhagic Escherichia coli infectious disease",
+        "Verotoxigenic Escherichia coli gastrointestinal tract infection",
+        "Verotoxigenic Escherichia coli gastrointestinal tract infection (disorder)"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "colitis",
+                "qid": "Q2453464",
+                "url": "https://en.wikipedia.org/wiki/Colitis"
+            },
+            {
+                "name": "Escherichia coli infectious disease",
+                "qid": "Q4227886"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "infection",
+                "qid": "Q166231",
+                "url": "https://en.wikipedia.org/wiki/Infection"
+            }
+        ]
+    }
+}

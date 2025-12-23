@@ -1,0 +1,32 @@
+{
+    "name": "salmonella sepsis",
+    "qid": "Q12775774",
+    "icd_10": "A02.1",
+    "description": "disease",
+    "aliases": [
+        "obsolete Salmonella septicemia",
+        "Salmonella septicemia",
+        "Salmonella septicemia (disorder)"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Cause": [
+            {
+                "name": "infection",
+                "qid": "Q166231",
+                "url": "https://en.wikipedia.org/wiki/Infection"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "Salmonella food poisoning",
+                "qid": "Q18967963"
+            },
+            {
+                "name": "bacterial sepsis",
+                "qid": "Q55009180"
+            }
+        ]
+    }
+}

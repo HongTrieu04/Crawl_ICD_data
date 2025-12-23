@@ -1,0 +1,28 @@
+{
+    "name": "ligamentous laxity",
+    "qid": "Q6545848",
+    "icd_10": "M24.2",
+    "description": "medical condition",
+    "aliases": [
+        "laxity of ligaments",
+        "ligament laxity"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Ligamentous_laxity",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "hypermobility syndrome",
+                "qid": "Q1641042",
+                "url": "https://en.wikipedia.org/wiki/Hypermobility_(joints)"
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "name": "behavioral disorder",
+    "qid": "Q1815366",
+    "icd_10": "F91",
+    "description": null,
+    "aliases": [
+        "behavior disorder",
+        "behavioural disorder"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Behavioral_disorder",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "clinical sign",
+                "qid": "Q1441305",
+                "url": "https://en.wikipedia.org/wiki/Clinical_sign"
+            },
+            {
+                "name": "emotional and behavioral disorders",
+                "qid": "Q3063847",
+                "url": "https://en.wikipedia.org/wiki/Emotional_and_behavioral_disorders"
+            }
+        ]
+    }
+}

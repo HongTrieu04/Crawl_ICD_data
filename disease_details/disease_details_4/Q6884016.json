@@ -1,0 +1,29 @@
+{
+    "name": "mixed affective state",
+    "qid": "Q6884016",
+    "icd_10": "F38.0",
+    "description": "state with features unique to both depression and mania",
+    "aliases": [
+        "mixed episode",
+        "mixed state",
+        "mixed-manic episode"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Mixed_affective_state",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "major depressive disorder",
+                "qid": "Q42844",
+                "url": "https://en.wikipedia.org/wiki/Major_depressive_disorder"
+            }
+        ]
+    }
+}

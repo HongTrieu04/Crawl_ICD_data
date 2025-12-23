@@ -1,0 +1,82 @@
+{
+    "name": "hemorrhoid",
+    "qid": "Q41478",
+    "icd_10": "K64",
+    "description": "vascular structures in the anal canal",
+    "aliases": [
+        "Haemorrhoid",
+        "haemorrhoids",
+        "Hemorrhoids",
+        "piles",
+        "Hemorrhoid",
+        "hemorrhoidal disease"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hemorrhoid.png",
+    "url": "https://en.wikipedia.org/wiki/Hemorrhoid",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "gastrointestinal system disease",
+                "qid": "Q2300099",
+                "url": "https://en.wikipedia.org/wiki/Gastrointestinal_disease"
+            },
+            {
+                "name": "anorectal disorder",
+                "qid": "Q4770164",
+                "url": "https://en.wikipedia.org/wiki/Anorectal_disorder"
+            },
+            {
+                "name": "skin disease",
+                "qid": "Q949302",
+                "url": "https://en.wikipedia.org/wiki/Skin_condition"
+            },
+            {
+                "name": "pelvic varices",
+                "qid": "Q18558211"
+            },
+            {
+                "name": "anal disease",
+                "qid": "Q56603543"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "Euphorbia prostrata",
+                "qid": "Q1023705",
+                "url": "https://en.wikipedia.org/wiki/Euphorbia_prostrata"
+            },
+            {
+                "name": "pramoxine",
+                "qid": "Q1240076",
+                "url": "https://en.wikipedia.org/wiki/Pramocaine"
+            },
+            {
+                "name": "cortisol",
+                "qid": "Q190875",
+                "url": "https://en.wikipedia.org/wiki/Cortisol"
+            },
+            {
+                "name": "phenylephrine",
+                "qid": "Q421910",
+                "url": "https://en.wikipedia.org/wiki/Phenylephrine"
+            },
+            {
+                "name": "benzocaine",
+                "qid": "Q422745",
+                "url": "https://en.wikipedia.org/wiki/Benzocaine"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "general surgery",
+                "qid": "Q932510",
+                "url": "https://en.wikipedia.org/wiki/General_surgery"
+            }
+        ]
+    }
+}

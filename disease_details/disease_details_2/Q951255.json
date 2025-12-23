@@ -1,0 +1,38 @@
+{
+    "name": "transfusion incident",
+    "qid": "Q951255",
+    "icd_10": "T80",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "adverse effect",
+                "qid": "Q2047938",
+                "url": "https://en.wikipedia.org/wiki/Adverse_effect"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "blood transfusion",
+                "qid": "Q183605",
+                "url": "https://en.wikipedia.org/wiki/Blood_transfusion"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "transfusion medicine",
+                "qid": "Q1318451",
+                "url": "https://en.wikipedia.org/wiki/Transfusion_medicine"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "blood safety",
+                "qid": "Q1351530"
+            }
+        ]
+    }
+}

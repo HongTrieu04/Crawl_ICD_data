@@ -1,0 +1,23 @@
+{
+    "name": "antiviral drug",
+    "qid": "Q846227",
+    "icd_10": "Y41.5",
+    "description": "class of medications",
+    "aliases": [
+        "antiviral"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Antiretroviral%20Drugs%20to%20Treat%20HIV%20Infection%20%2831793869534%29.jpg",
+    "url": "https://en.wikipedia.org/wiki/Antiviral_drug",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "antimicrobial drug",
+                "qid": "Q178859"
+            },
+            {
+                "name": "antiviral agent",
+                "qid": "Q40207875"
+            }
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "name": "abdominal pain",
+    "qid": "Q183425",
+    "icd_10": "R10",
+    "description": "pain in the abdomen",
+    "aliases": [
+        "stomach ache",
+        "stomach pain",
+        "tummy ache"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gray1220.png",
+    "url": "https://en.wikipedia.org/wiki/Abdominal_pain",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "cajeput oil",
+                "qid": "Q857162",
+                "url": "https://en.wikipedia.org/wiki/Cajeput_oil"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "pain",
+                "qid": "Q81938",
+                "url": "https://en.wikipedia.org/wiki/Pain"
+            },
+            {
+                "name": "abdominal symptom",
+                "qid": "Q102187028"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "abdomen",
+                "qid": "Q9597",
+                "url": "https://en.wikipedia.org/wiki/Abdomen"
+            }
+        ]
+    }
+}

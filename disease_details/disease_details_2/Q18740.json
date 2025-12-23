@@ -1,0 +1,30 @@
+{
+    "name": "transient global amnesia",
+    "qid": "Q18740",
+    "icd_10": "G45.4",
+    "description": "amnestic disorder that is characterized by temporary but almost total disruption of short-term memory with a range of problems accessing older memories.",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Transiente%20globale%20Amnesie%20MRT%20DWI%20axial.png",
+    "url": "https://en.wikipedia.org/wiki/Transient_global_amnesia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "amnesia",
+                "qid": "Q11072",
+                "url": "https://en.wikipedia.org/wiki/Amnesia"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ]
+    }
+}

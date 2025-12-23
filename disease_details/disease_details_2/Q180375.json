@@ -1,0 +1,40 @@
+{
+    "name": "right bundle branch block",
+    "qid": "Q180375",
+    "icd_10": "I45.1",
+    "description": "heart block in the electrical conduction system",
+    "aliases": [
+        "RBBB",
+        "Right bundle branch block with left posterior fascicular block",
+        "Right bundle branch block with left posterior fascicular block (disorder)",
+        "Right bundle branch block, RBBB"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Right_bundle_branch_block",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "heart conduction disease",
+                "qid": "Q1361515",
+                "url": "https://en.wikipedia.org/wiki/Heart_block"
+            },
+            {
+                "name": "bundle branch block",
+                "qid": "Q13365162",
+                "url": "https://en.wikipedia.org/wiki/Bundle_branch_block"
+            },
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ]
+    }
+}

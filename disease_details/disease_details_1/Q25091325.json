@@ -1,0 +1,18 @@
+{
+    "name": "Vaginal adenosis",
+    "qid": "Q25091325",
+    "icd_10": "Q52.4",
+    "description": "vaginal abnormality",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Vaginal_adenosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "vaginal disease",
+                "qid": "Q18211693",
+                "url": "https://en.wikipedia.org/wiki/Vaginal_disease"
+            }
+        ]
+    }
+}

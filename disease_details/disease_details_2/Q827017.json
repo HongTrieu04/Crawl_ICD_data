@@ -1,0 +1,39 @@
+{
+    "name": "gait abnormality",
+    "qid": "Q827017",
+    "icd_10": "R26",
+    "description": "deviation from normal walking (gait)",
+    "aliases": [
+        "abnormal gait",
+        "abnormality of gait",
+        "Gait Disorders, Neurologic",
+        "gait disturbance"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Gait_abnormality",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "movement disorders",
+                "qid": "Q2608695",
+                "url": "https://en.wikipedia.org/wiki/Movement_disorder"
+            },
+            {
+                "name": "gait deviations",
+                "qid": "Q30633204",
+                "url": "https://en.wikipedia.org/wiki/Gait_deviations"
+            },
+            {
+                "name": "musculoskeletal system symptom",
+                "qid": "Q102187380"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ]
+    }
+}

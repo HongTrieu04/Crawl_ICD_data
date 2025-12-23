@@ -1,0 +1,21 @@
+{
+    "name": "Traumatic neuroma",
+    "qid": "Q7835832",
+    "icd_10": "T87.3",
+    "description": "medical condition",
+    "aliases": [
+        "Amputation neuroma",
+        "Pseudoneuroma"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Traumatic_neuroma",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "neuroma",
+                "qid": "Q1981345",
+                "url": "https://en.wikipedia.org/wiki/Neuroma"
+            }
+        ]
+    }
+}

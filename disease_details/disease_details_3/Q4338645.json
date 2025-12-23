@@ -1,0 +1,18 @@
+{
+    "name": "tracheobronchopathia osteochondroplastica",
+    "qid": "Q4338645",
+    "icd_10": "J98.0",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Tracheobronchopathia_osteochondroplastica",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "respiratory disease",
+                "qid": "Q3286546",
+                "url": "https://en.wikipedia.org/wiki/Respiratory_disease"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Galeazzi fracture",
+    "qid": "Q259716",
+    "icd_10": "S52.3",
+    "description": "fracture of the distal third of the radius with dislocation of the distal radioulnar joint",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Galeazzifraktur%201%20THWZ.jpg",
+    "url": "https://en.wikipedia.org/wiki/Galeazzi_fracture",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "orthopedics",
+                "qid": "Q216685",
+                "url": "https://en.wikipedia.org/wiki/Orthopedic_surgery"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "forearm fracture",
+                "qid": "Q2390477"
+            }
+        ]
+    }
+}

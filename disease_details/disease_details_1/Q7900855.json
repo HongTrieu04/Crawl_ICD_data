@@ -1,0 +1,52 @@
+{
+    "name": "urogenital neoplasm",
+    "qid": "Q7900855",
+    "icd_10": "C68",
+    "description": "tumors or cancer of the urogenital system in either the male or the female",
+    "aliases": [
+        "genitourinary cancer",
+        "Genito-urinary Neoplasm",
+        "Genito-urinary Neoplasms",
+        "Genitourinary Neoplasm",
+        "Genitourinary Neoplasms",
+        "Neoplasm, Genito-urinary",
+        "Neoplasm, Genitourinary",
+        "Neoplasm, Urogenital",
+        "Neoplasms, Genito-urinary",
+        "Neoplasms, Genitourinary",
+        "Neoplasms, Urogenital",
+        "Urogenital Neoplasm",
+        "Urogenital Neoplasms"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Urogenital_neoplasm",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "tumor",
+                "qid": "Q133212",
+                "url": "https://en.wikipedia.org/wiki/Tumor"
+            },
+            {
+                "name": "neoplasm",
+                "qid": "Q1216998",
+                "url": "https://en.wikipedia.org/wiki/Neoplasm"
+            },
+            {
+                "name": "genitourinary system disease",
+                "qid": "Q29033580"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            },
+            {
+                "name": "genitourinary oncology",
+                "qid": "Q16683088"
+            }
+        ]
+    }
+}

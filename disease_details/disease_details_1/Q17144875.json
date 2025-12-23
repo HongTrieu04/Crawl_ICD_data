@@ -1,0 +1,28 @@
+{
+    "name": "papular mucinosis",
+    "qid": "Q17144875",
+    "icd_10": "L98.5",
+    "description": "Human disease",
+    "aliases": [
+        "sclerodermoid lichen myxedematosus",
+        "scleromyxedema"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Papular_mucinosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "lichen myxedematosus",
+                "qid": "Q6543199",
+                "url": "https://en.wikipedia.org/wiki/Lichen_myxedematosus"
+            }
+        ]
+    }
+}

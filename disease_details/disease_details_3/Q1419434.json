@@ -1,0 +1,23 @@
+{
+    "name": "oneirophrenia",
+    "qid": "Q1419434",
+    "icd_10": "F23.2",
+    "description": "acute schizophrenia-like psychotic disorder in which hallucinations and dream-like state are the main clinical features",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Oneirophrenia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "schizophreniform disorder",
+                "qid": "Q2157462",
+                "url": "https://en.wikipedia.org/wiki/Schizophreniform_disorder"
+            },
+            {
+                "name": "brief psychotic disorder",
+                "qid": "Q2787727",
+                "url": "https://en.wikipedia.org/wiki/Brief_psychotic_disorder"
+            }
+        ]
+    }
+}

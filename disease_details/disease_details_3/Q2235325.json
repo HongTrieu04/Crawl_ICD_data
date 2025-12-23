@@ -1,0 +1,25 @@
+{
+    "name": "maritime accident",
+    "qid": "Q2235325",
+    "icd_10": "V94",
+    "description": "maritime incident",
+    "aliases": [
+        "boat accident",
+        "marine accident",
+        "ship accident"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Maritime_incident",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "water accident",
+                "qid": "Q11549517"
+            },
+            {
+                "name": "transport accident",
+                "qid": "Q11822042"
+            }
+        ]
+    }
+}

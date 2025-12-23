@@ -1,0 +1,18 @@
+{
+    "name": "pustule",
+    "qid": "Q599389",
+    "icd_10": "R23.8",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "comedo",
+                "qid": "Q1146379",
+                "url": "https://en.wikipedia.org/wiki/Comedo"
+            }
+        ]
+    }
+}

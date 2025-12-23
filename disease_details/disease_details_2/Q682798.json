@@ -1,0 +1,110 @@
+{
+    "name": "bejel",
+    "qid": "Q682798",
+    "icd_10": "A65",
+    "description": "Human disease",
+    "aliases": [
+        "Bejel (disorder)",
+        "Dichuchwa",
+        "Endemic syphilis",
+        "Frenga",
+        "Njovera",
+        "Njovera (disorder)",
+        "Non-venereal endemic syphilis (disorder)",
+        "Non-venereal endemic syphilis (disorder) [Ambiguous]",
+        "Nonvenereal endemic syphilis",
+        "Nonvenereal endemic syphilis (& [Bejel] or [Njovera])",
+        "Nonvenereal syphilis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Infiltration%20of%20skin%20due%20to%20endemic%20syphilis.jpg",
+    "url": "https://en.wikipedia.org/wiki/Nonvenereal_endemic_syphilis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "cellulitis",
+                "qid": "Q876887",
+                "url": "https://en.wikipedia.org/wiki/Cellulitis"
+            },
+            {
+                "name": "skin disease",
+                "qid": "Q949302",
+                "url": "https://en.wikipedia.org/wiki/Skin_condition"
+            },
+            {
+                "name": "treponematosis",
+                "qid": "Q1243869",
+                "url": "https://en.wikipedia.org/wiki/Treponematosis"
+            },
+            {
+                "name": "mouth disease",
+                "qid": "Q2508462",
+                "url": "https://en.wikipedia.org/wiki/Oral_and_maxillofacial_pathology"
+            },
+            {
+                "name": "bone disease",
+                "qid": "Q4941552",
+                "url": "https://en.wikipedia.org/wiki/Bone_disease"
+            },
+            {
+                "name": "primary bacterial infectious disease",
+                "qid": "Q18553247"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "lymphadenopathy",
+                "qid": "Q847726",
+                "url": "https://en.wikipedia.org/wiki/Lymphadenopathy"
+            },
+            {
+                "name": "scar",
+                "qid": "Q206060",
+                "url": "https://en.wikipedia.org/wiki/Scar"
+            },
+            {
+                "name": "periostitis",
+                "qid": "Q1480377",
+                "url": "https://en.wikipedia.org/wiki/Periostitis"
+            },
+            {
+                "name": "primary affect",
+                "qid": "Q24084959"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "azithromycin",
+                "qid": "Q165399",
+                "url": "https://en.wikipedia.org/wiki/Azithromycin"
+            },
+            {
+                "name": "benzylpenicillin",
+                "qid": "Q258450",
+                "url": "https://en.wikipedia.org/wiki/Benzylpenicillin"
+            },
+            {
+                "name": "doxycycline",
+                "qid": "Q422442",
+                "url": "https://en.wikipedia.org/wiki/Doxycycline"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Treponema endemicum",
+                "qid": "Q3998407"
+            }
+        ]
+    }
+}

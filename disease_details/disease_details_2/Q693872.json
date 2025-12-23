@@ -1,0 +1,34 @@
+{
+    "name": "Meige syndrome",
+    "qid": "Q693872",
+    "icd_10": "G24.4",
+    "description": "cranio-facial dystonia that is accompanied by blepharospasm",
+    "aliases": [
+        "Brueghel's syndrome",
+        "Meige dystonia",
+        "Meige syndrome (disorder)",
+        "Meige's syndrome",
+        "oral facial dystonia"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/DeGaper.png",
+    "url": "https://en.wikipedia.org/wiki/Meige%27s_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "cranio-facial dystonia",
+                "qid": "Q18553510"
+            },
+            {
+                "name": "focal, segmental or multifocal dystonia",
+                "qid": "Q55785869"
+            }
+        ]
+    }
+}

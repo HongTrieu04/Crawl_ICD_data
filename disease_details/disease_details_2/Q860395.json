@@ -1,0 +1,36 @@
+{
+    "name": "osteomalacia",
+    "qid": "Q860395",
+    "icd_10": "M83",
+    "description": "bone remodeling disease that has material basis in a vitamin D deficiency which results in softening located in bone",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Calcitriol.svg",
+    "url": "https://en.wikipedia.org/wiki/Osteomalacia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "bone remodeling disease",
+                "qid": "Q18553736"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "denosumab",
+                "qid": "Q408283",
+                "url": "https://en.wikipedia.org/wiki/Denosumab"
+            }
+        ]
+    }
+}

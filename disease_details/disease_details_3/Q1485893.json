@@ -1,0 +1,62 @@
+{
+    "name": "encephalopathy due to GLUT1 deficiency",
+    "qid": "Q1485893",
+    "icd_10": "G93.4",
+    "description": "disease",
+    "aliases": [
+        "De Vivo disease",
+        "Encephalopathy Due To Glut1 Deficiency",
+        "G1D",
+        "Glucose transport defect, blood-brain barrier",
+        "GLUCOSE TRANSPORT DEFECT, BLOOD-BRAIN BARRIER GLUT1 DEFICIENCY SYNDROME 1, AUTOSOMAL RECESSIVE, INCLUDED",
+        "Glucose transporter protein syndrome",
+        "Glucose transporter type 1 deficiency",
+        "Glucose Transporter Type 1 Deficiency Syndrome",
+        "Glucose transporter type1 (GLUT-1) deficiency",
+        "Glut-1 deficiency Syndrome",
+        "Glut1 deficiency",
+        "GLUT1 deficiency syndrome",
+        "GLUT1 DEFICIENCY SYNDROME 1",
+        "Glut1 Deficiency Syndrome 1, Autosomal Recessive",
+        "GLUT1 DEFICIENCY SYNDROME 1; GLUT1DS1",
+        "Glut1 Deficiency Syndrome type 1",
+        "GLUT1 DS",
+        "Glut1-DS",
+        "GLUT1DS1"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/GLUT1_deficiency",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "genetic disease",
+                "qid": "Q200779",
+                "url": "https://en.wikipedia.org/wiki/Genetic_disorder"
+            },
+            {
+                "name": "encephalopathy",
+                "qid": "Q576349",
+                "url": "https://en.wikipedia.org/wiki/Encephalopathy"
+            },
+            {
+                "name": "neurometabolic disease",
+                "qid": "Q1337418"
+            },
+            {
+                "name": "other metabolic disease with epilepsy",
+                "qid": "Q55786201"
+            },
+            {
+                "name": "glucose transport disorder",
+                "qid": "Q55788548"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

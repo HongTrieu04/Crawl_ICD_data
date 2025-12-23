@@ -1,0 +1,25 @@
+{
+    "name": "rectocele",
+    "qid": "Q964891",
+    "icd_10": "N81.6",
+    "description": "herniation of the rectum into the vagina",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rektozele.jpg",
+    "url": "https://en.wikipedia.org/wiki/Rectocele",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "pelvic organ prolapse",
+                "qid": "Q166102",
+                "url": "https://en.wikipedia.org/wiki/Pelvic_organ_prolapse"
+            }
+        ]
+    }
+}

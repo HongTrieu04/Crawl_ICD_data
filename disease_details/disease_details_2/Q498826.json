@@ -1,0 +1,57 @@
+{
+    "name": "sucrose intolerance",
+    "qid": "Q498826",
+    "icd_10": "E74.3",
+    "description": "Congenital sucrase-isomaltase deficiency (CSID) is a carbohydrate intolerance disorder characterised by malabsorption of oligosaccharides and disaccharides",
+    "aliases": [
+        "CISD",
+        "congenital sucrase-isomaltase deficiency",
+        "Congenital sucrase-isomaltose malabsorption",
+        "Congenital sucrose intolerance",
+        "congenital sucrose isomaltose malabsorption",
+        "CSID",
+        "Disaccharide intolerance",
+        "Disaccharide Intolerance 1",
+        "Si Deficiency",
+        "sucrase-isomaltase deficiency",
+        "SUCRASE-ISOMALTASE DEFICIENCY, CONGENITAL",
+        "SUCRASE-ISOMALTASE DEFICIENCY, CONGENITAL; CSID",
+        "Sucrose Intolerance, Congenital",
+        "Sucrose isomaltose enzyme deficiency",
+        "Sucrose-Isomaltose Malabsorption, Congenital"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Sucrose_intolerance",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "carbohydrate metabolic disorder",
+                "qid": "Q6013981",
+                "url": "https://en.wikipedia.org/wiki/Inborn_errors_of_carbohydrate_metabolism"
+            },
+            {
+                "name": "autosomal recessive disease",
+                "qid": "Q10267817"
+            },
+            {
+                "name": "congenital intestinal disease due to an enzymatic defect",
+                "qid": "Q55785308"
+            },
+            {
+                "name": "metabolic disease with intestinal involvement",
+                "qid": "Q55785312"
+            },
+            {
+                "name": "disorder of carbohydrate absorption and transport",
+                "qid": "Q55787291"
+            }
+        ]
+    }
+}

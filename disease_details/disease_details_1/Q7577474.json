@@ -1,0 +1,33 @@
+{
+    "name": "spinal cord neoplasm",
+    "qid": "Q7577474",
+    "icd_10": "C72.0",
+    "description": "neoplasm located in the spinal cord",
+    "aliases": [
+        "Neoplasm of Spinal Cord",
+        "Neoplasm of the Spinal Cord",
+        "spinal cord neoplasm (disease)",
+        "spinal cord neoplasms",
+        "Spinal Cord Tumor",
+        "spinal tumor",
+        "Tumor of Spinal Cord"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Spinal_tumor",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "spinal cord disease",
+                "qid": "Q2303951",
+                "url": "https://en.wikipedia.org/wiki/Myelopathy"
+            }
+        ]
+    }
+}

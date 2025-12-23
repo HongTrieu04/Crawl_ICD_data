@@ -1,0 +1,24 @@
+{
+    "name": "Stenosis of uterine cervix",
+    "qid": "Q7607894",
+    "icd_10": "N88.2",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Stenosis_of_uterine_cervix",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gynaecology",
+                "qid": "Q1221899",
+                "url": "https://en.wikipedia.org/wiki/Gynaecology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "cervix disease",
+                "qid": "Q18555046"
+            }
+        ]
+    }
+}

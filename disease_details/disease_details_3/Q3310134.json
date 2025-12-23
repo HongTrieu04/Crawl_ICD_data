@@ -1,0 +1,24 @@
+{
+    "name": "Adrenomyeloneuropathy",
+    "qid": "Q3310134",
+    "icd_10": "E71.52",
+    "description": "Adrenomyeloneuropathy (AMN) is an adult form of the peroxisomal disease X-linked adrenoleukodystrophy (X-ALD, see this term), characterized by spastic paraparesia and often associated with peripheral adrenal insufficiency in males",
+    "aliases": [
+        "adrenomyeloneuropathy"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Adrenomyeloneuropathy",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "X-linked adrenoleukodystrophy",
+                "qid": "Q366964",
+                "url": "https://en.wikipedia.org/wiki/Adrenoleukodystrophy"
+            },
+            {
+                "name": "X-linked cerebral adrenoleukodystrophy",
+                "qid": "Q55345732"
+            }
+        ]
+    }
+}

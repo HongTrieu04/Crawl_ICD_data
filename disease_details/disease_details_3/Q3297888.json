@@ -1,0 +1,35 @@
+{
+    "name": "pain disorder",
+    "qid": "Q3297888",
+    "icd_10": "F45.4",
+    "description": "somatoform disorder that involves chronic pain in one or more areas, and is thought to be caused by psychological stress.",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pain_disorder",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "pain",
+                "qid": "Q81938",
+                "url": "https://en.wikipedia.org/wiki/Pain"
+            },
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "somatic symptom disorder",
+                "qid": "Q936549",
+                "url": "https://en.wikipedia.org/wiki/Somatic_symptom_disorder"
+            }
+        ]
+    }
+}

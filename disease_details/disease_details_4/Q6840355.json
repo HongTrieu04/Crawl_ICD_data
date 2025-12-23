@@ -1,0 +1,28 @@
+{
+    "name": "Microstomia",
+    "qid": "Q6840355",
+    "icd_10": "Q18.5",
+    "description": "Abnormally small mouth",
+    "aliases": [
+        "narrow mouth",
+        "small mouth",
+        "small oral aperture"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Microstomia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "congenital physical abnormality",
+                "qid": "Q3281904"
+            }
+        ]
+    }
+}

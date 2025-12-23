@@ -1,0 +1,31 @@
+{
+    "name": "hair diseases",
+    "qid": "Q2989168",
+    "icd_10": "L73",
+    "description": "integumentary system disease that is located in hair",
+    "aliases": [
+        "disorder of pilosebaceous unit",
+        "hair and hair follicle diseases",
+        "hair disease",
+        "Hair Disorder",
+        "hair/hair follicle diseases",
+        "pilosebaceous unit disease"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hair_disease",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "integumentary system disease",
+                "qid": "Q18554850"
+            }
+        ]
+    }
+}

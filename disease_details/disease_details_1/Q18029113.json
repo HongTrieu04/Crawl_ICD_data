@@ -1,0 +1,57 @@
+{
+    "name": "Verma-Naumoff syndrome",
+    "qid": "Q18029113",
+    "icd_10": "Q77.2",
+    "description": "Human disease",
+    "aliases": [
+        "asphyxiating thoracic dystrophy 3",
+        "Asphyxiating Thoracic Dystrophy 3",
+        "asphyxiating thoracic dystrophy type 3",
+        "ATD3",
+        "obsolete Verma-Naumoff syndrome",
+        "Polydactyly With Neonatal Chondrodystrophy, Type 1",
+        "Polydactyly With Neonatal Chondrodystrophy, Type 3",
+        "polydactyly with neonatal chondrodystrophy, type I",
+        "polydactyly with neonatal chondrodystrophy, type III",
+        "Saldino-Noonan syndrome",
+        "Short Rib-Polydactyly Syndrome, Type 1",
+        "Short Rib-Polydactyly Syndrome, Type 2B",
+        "Short Rib-Polydactyly Syndrome, Type 3",
+        "short rib-polydactyly syndrome, type I",
+        "short rib-polydactyly syndrome, type IIB",
+        "short-rib thoracic dysplasia 3 with or without polydactyly",
+        "SHORT-RIB THORACIC DYSPLASIA 3 WITH OR WITHOUT POLYDACTYLY; SRTD3",
+        "SRPS1",
+        "SRPS2B",
+        "SRPS3",
+        "SRTD3",
+        "type III short rib-polydactyly syndrome"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "short rib – polydactyly syndrome",
+                "qid": "Q4420146",
+                "url": "https://en.wikipedia.org/wiki/Short_rib%E2%80%93polydactyly_syndrome"
+            },
+            {
+                "name": "asphyxiating thoracic dysplasia",
+                "qid": "Q4807981",
+                "url": "https://en.wikipedia.org/wiki/Asphyxiating_thoracic_dysplasia"
+            },
+            {
+                "name": "autosomal recessive disease",
+                "qid": "Q10267817"
+            }
+        ]
+    }
+}

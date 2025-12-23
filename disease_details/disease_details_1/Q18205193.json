@@ -1,0 +1,23 @@
+{
+    "name": "alcohol-related brain damage",
+    "qid": "Q18205193",
+    "icd_10": "G31.2",
+    "description": "toxic effects on the brain from use of alcohol",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Alcohol-related_brain_damage",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "neurotoxicity",
+                "qid": "Q3338704",
+                "url": "https://en.wikipedia.org/wiki/Neurotoxicity"
+            },
+            {
+                "name": "alcohol and health",
+                "qid": "Q11290178",
+                "url": "https://en.wikipedia.org/wiki/Health_effects_of_alcohol"
+            }
+        ]
+    }
+}

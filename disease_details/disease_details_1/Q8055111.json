@@ -1,0 +1,56 @@
+{
+    "name": "nasal polyps",
+    "qid": "Q8055111",
+    "icd_10": "J33",
+    "description": "polypoidal masses",
+    "aliases": [
+        "nasal cavity polyp",
+        "Nasal Cavity Polyp",
+        "nasal polyp",
+        "Nasal Polyp",
+        "Polyp of Nasal Cavity",
+        "Polyp of the Nasal Cavity"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Polyposis%20nasi%201.jpg",
+    "url": "https://en.wikipedia.org/wiki/Nasal_polyp",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "otolaryngology",
+                "qid": "Q189553",
+                "url": "https://en.wikipedia.org/wiki/Otorhinolaryngology"
+            },
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "polyp",
+                "qid": "Q657665",
+                "url": "https://en.wikipedia.org/wiki/Polyp_(medicine)"
+            },
+            {
+                "name": "polyposis",
+                "qid": "Q2103081"
+            },
+            {
+                "name": "nose disease",
+                "qid": "Q10267828"
+            },
+            {
+                "name": "nasal cavity neoplasm",
+                "qid": "Q18558103"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "mometasone",
+                "qid": "Q28208887",
+                "url": "https://en.wikipedia.org/wiki/Mometasone_(prodrug)"
+            }
+        ]
+    }
+}

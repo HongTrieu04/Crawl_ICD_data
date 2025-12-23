@@ -1,0 +1,25 @@
+{
+    "name": "motorcycle accident",
+    "qid": "Q48802726",
+    "icd_10": "V29.9",
+    "description": "traffic accident involving at least one motorcycle",
+    "aliases": [
+        "motorcycle crash"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Car%20vs%20motorcycle%20accident.jpg",
+    "url": "https://en.wikipedia.org/wiki/Motorcycle_accident",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "cause of death",
+                "qid": "Q1931388",
+                "url": "https://en.wikipedia.org/wiki/Cause_of_death"
+            },
+            {
+                "name": "traffic collision",
+                "qid": "Q9687",
+                "url": "https://en.wikipedia.org/wiki/Traffic_collision"
+            }
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name": "non-celiac gluten sensitivity",
+    "qid": "Q19772377",
+    "icd_10": "K90.41",
+    "description": "gluten-related disorder",
+    "aliases": [
+        "NCGS",
+        "gluten sensitivity"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Non-celiac_gluten_sensitivity",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "gluten-related disorder",
+                "qid": "Q1367782",
+                "url": "https://en.wikipedia.org/wiki/Gluten-related_disorders"
+            }
+        ]
+    }
+}

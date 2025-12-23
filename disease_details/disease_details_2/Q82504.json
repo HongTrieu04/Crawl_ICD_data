@@ -1,0 +1,62 @@
+{
+    "name": "endocarditis",
+    "qid": "Q82504",
+    "icd_10": "I33",
+    "description": "endocardium disease characterized by inflammation of the endocardium of the heart chambers and valves",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Blood%20culture%20negative%20endocarditis.jpg",
+    "url": "https://en.wikipedia.org/wiki/Endocarditis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "pancarditis",
+                "qid": "Q1729125",
+                "url": "https://en.wikipedia.org/wiki/Carditis"
+            },
+            {
+                "name": "endocardium disease",
+                "qid": "Q18553499"
+            },
+            {
+                "name": "cardiovascular system symptom",
+                "qid": "Q102186826"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            },
+            {
+                "name": "infectious disease",
+                "qid": "Q18123741",
+                "url": "https://en.wikipedia.org/wiki/Infectious_disease"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "inflammation",
+                "qid": "Q101991",
+                "url": "https://en.wikipedia.org/wiki/Inflammation"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "amikacin",
+                "qid": "Q408529",
+                "url": "https://en.wikipedia.org/wiki/Amikacin"
+            },
+            {
+                "name": "gentamicin",
+                "qid": "Q422482",
+                "url": "https://en.wikipedia.org/wiki/Gentamicin"
+            }
+        ]
+    }
+}

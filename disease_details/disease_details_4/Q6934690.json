@@ -1,0 +1,38 @@
+{
+    "name": "Multifocal motor neuropathy",
+    "qid": "Q6934690",
+    "icd_10": "G61.8",
+    "description": "Multifocal motor neuropathy (MMN) is a rare acquired immune-mediatedneuropathy characterized clinically by a purely motor deficit with conduction block and asymmetric multifocal weakness, fasciculations, and cramping",
+    "aliases": [
+        "MMN",
+        "MMNCB",
+        "Multifocal motor neuropathy with conduction block"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Multifocal_motor_neuropathy",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "polyneuropathy",
+                "qid": "Q1502312",
+                "url": "https://en.wikipedia.org/wiki/Polyneuropathy"
+            },
+            {
+                "name": "motor neuron disease",
+                "qid": "Q3221083",
+                "url": "https://en.wikipedia.org/wiki/Motor_neuron_diseases"
+            },
+            {
+                "name": "chronic acquired demyelinating polyneuropathy",
+                "qid": "Q55785989"
+            }
+        ]
+    }
+}

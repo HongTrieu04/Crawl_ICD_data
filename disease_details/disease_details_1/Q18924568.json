@@ -1,0 +1,20 @@
+{
+    "name": "tonsillar aspergillosis",
+    "qid": "Q18924568",
+    "icd_10": "B44.2",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete tonsillar aspergillosis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "aspergillosis",
+                "qid": "Q259626",
+                "url": "https://en.wikipedia.org/wiki/Aspergillosis"
+            }
+        ]
+    }
+}

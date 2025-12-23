@@ -1,0 +1,23 @@
+{
+    "name": "diphallia",
+    "qid": "Q1227139",
+    "icd_10": "Q55.6",
+    "description": "genital medical condition",
+    "aliases": [
+        "diphallasparatus",
+        "diphallic terata",
+        "Diphallus",
+        "penile duplication",
+        "Penile duplication"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Diphallia%2001.jpg",
+    "url": "https://en.wikipedia.org/wiki/Diphallia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "non-syndromic urogenital tract malformation of male",
+                "qid": "Q55785825"
+            }
+        ]
+    }
+}

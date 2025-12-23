@@ -1,0 +1,66 @@
+{
+    "name": "Lafora disease",
+    "qid": "Q163905",
+    "icd_10": "G40.3",
+    "description": "type of rare, inherited, severe, progressive myoclonic epilepsy",
+    "aliases": [
+        "LD",
+        "Melf",
+        "Epilepsy progressive myoclonic  2",
+        "Epilepsy, Progressive Myoclonic, 2A",
+        "Epilepsy, Progressive Myoclonic, 2B",
+        "EPM2",
+        "Lafora Body Disease",
+        "Lafora body disorder",
+        "Lafora Disease",
+        "Lafora disease (disorder)",
+        "Lafora Progressive Myoclonic Epilepsy",
+        "Lafora's disease",
+        "MYOCLONIC EPILEPSY OF LAFORA",
+        "PME type 2",
+        "Progressive myoclonic epilepsy type 2",
+        "Progressive myoclonus epilepsy type 2"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Lafora_disease",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "progressive myoclonus epilepsy",
+                "qid": "Q7248853",
+                "url": "https://en.wikipedia.org/wiki/Progressive_myoclonus_epilepsy"
+            },
+            {
+                "name": "neurodegeneration",
+                "qid": "Q1755122",
+                "url": "https://en.wikipedia.org/wiki/Neurodegenerative_disease"
+            },
+            {
+                "name": "autosomal recessive disease",
+                "qid": "Q10267817"
+            },
+            {
+                "name": "nervous system heredodegenerative disease",
+                "qid": "Q19001236"
+            },
+            {
+                "name": "progressive epilepsy and/or ataxia with myoclonus as a major feature",
+                "qid": "Q55787255"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "hallucination",
+                "qid": "Q130741",
+                "url": "https://en.wikipedia.org/wiki/Hallucination"
+            }
+        ]
+    }
+}

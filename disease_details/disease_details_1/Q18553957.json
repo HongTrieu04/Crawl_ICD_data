@@ -1,0 +1,34 @@
+{
+    "name": "middle ear cholesterol granuloma",
+    "qid": "Q18553957",
+    "icd_10": "H71",
+    "description": "Human disease",
+    "aliases": [
+        "Cholesterin granuloma",
+        "Cholesterin granuloma of middle ear",
+        "Cholesterin Granuloma of middle ear"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "otitis media",
+                "qid": "Q223254",
+                "url": "https://en.wikipedia.org/wiki/Otitis_media"
+            },
+            {
+                "name": "cholesteatoma",
+                "qid": "Q558230",
+                "url": "https://en.wikipedia.org/wiki/Cholesteatoma"
+            }
+        ]
+    }
+}

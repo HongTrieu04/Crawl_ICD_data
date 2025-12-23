@@ -1,0 +1,33 @@
+{
+    "name": "fibrous dysplasia of bone",
+    "qid": "Q1410864",
+    "icd_10": "K10.8",
+    "description": "bone remodeling disease that results in the destruction of normal bone and replacing it with fibrous bone tissue",
+    "aliases": [
+        "fibrous dysplasia",
+        "Jaffe–Lichtenstein syndrome",
+        "osteodysplasia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Fibrous_dysplasia_of_bone",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "bone remodeling disease",
+                "qid": "Q18553736"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

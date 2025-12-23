@@ -1,0 +1,75 @@
+{
+    "name": "Menkes disease",
+    "qid": "Q639203",
+    "icd_10": "E83.0",
+    "description": "Human disease",
+    "aliases": [
+        "MD",
+        "Mk",
+        "MNK",
+        "COPPER TRANSPORT DISEASE",
+        "Kinky Hair Disease",
+        "Kinky hair syndrome",
+        "Menkea syndrome",
+        "MENKES DISEASE",
+        "Menkes Kinky Hair Syndrome",
+        "Menkes kinky-hair syndrome",
+        "Menkes kinky-hair syndrome (disorder)",
+        "Menkes syndrome",
+        "Steely Hair Disease",
+        "steely hair syndrome",
+        "Trichopoliodystrophy",
+        "X-linked copper deficiency"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Menkes%20disease4.jpg",
+    "url": "https://en.wikipedia.org/wiki/Menkes_disease",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "metal metabolism disorder",
+                "qid": "Q3281373",
+                "url": "https://en.wikipedia.org/wiki/Inborn_errors_of_metal_metabolism"
+            },
+            {
+                "name": "copper metabolism disease",
+                "qid": "Q19001238"
+            },
+            {
+                "name": "syndromic neurometabolic disease with X-linked intellectual disability",
+                "qid": "Q55785814"
+            },
+            {
+                "name": "rare genetic epilepsy",
+                "qid": "Q55785842"
+            },
+            {
+                "name": "metal transport or utilization disorder with epilepsy",
+                "qid": "Q55786195"
+            },
+            {
+                "name": "epidermal disease",
+                "qid": "Q55788577"
+            },
+            {
+                "name": "syndromic hair shaft abnormality",
+                "qid": "Q55788587"
+            },
+            {
+                "name": "eyebrow/eyelashes structural anomaly",
+                "qid": "Q55789193"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ]
+    }
+}

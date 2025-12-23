@@ -1,0 +1,27 @@
+{
+    "name": "Blastomycosis-like pyoderma",
+    "qid": "Q4925480",
+    "icd_10": "L10.1",
+    "description": "medical condition",
+    "aliases": [
+        "pyodermatitis vegetans"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Blastomycosis-like_pyoderma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "pyoderma",
+                "qid": "Q2119633",
+                "url": "https://en.wikipedia.org/wiki/Pyoderma"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "nonthrombocytopenic purpura",
+    "qid": "Q7049631",
+    "icd_10": "D69.2",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Nonthrombocytopenic_purpura",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "purpura",
+                "qid": "Q935293",
+                "url": "https://en.wikipedia.org/wiki/Purpura"
+            }
+        ]
+    }
+}

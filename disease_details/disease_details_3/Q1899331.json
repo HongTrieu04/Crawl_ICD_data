@@ -1,0 +1,34 @@
+{
+    "name": "mariske",
+    "qid": "Q1899331",
+    "icd_10": "I84.6",
+    "description": null,
+    "aliases": [
+        "residual hemorrhoidal skin tags"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Piles%203rd%20deg%20and%20mariscs%2001.jpg",
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "swelling",
+                "qid": "Q109186",
+                "url": "https://en.wikipedia.org/wiki/Swelling_(medical)"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "hemorrhoid",
+                "qid": "Q41478",
+                "url": "https://en.wikipedia.org/wiki/Hemorrhoid"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "anus",
+                "qid": "Q497",
+                "url": "https://en.wikipedia.org/wiki/Anus"
+            }
+        ]
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "name": "mucolipidosis type IV",
+    "qid": "Q931538",
+    "icd_10": "E75.1",
+    "description": "Lysosomal storage disease",
+    "aliases": [
+        "ML4",
+        "Ml 4",
+        "ML IV",
+        "MUCOLIPIDOSIS IV",
+        "MUCOLIPIDOSIS IV; ML4",
+        "Mucolipidosis type 4",
+        "Sialolipidosis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Mucolipidosis_type_IV",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "mucolipidosis",
+                "qid": "Q1952032",
+                "url": "https://en.wikipedia.org/wiki/Mucolipidosis"
+            },
+            {
+                "name": "hereditary retinal dystrophy",
+                "qid": "Q18557955"
+            },
+            {
+                "name": "rare genetic epilepsy",
+                "qid": "Q55785842"
+            },
+            {
+                "name": "rare genetic developmental defect during embryogenesis",
+                "qid": "Q55785846"
+            },
+            {
+                "name": "lysosomal disease with epilepsy",
+                "qid": "Q55786192"
+            },
+            {
+                "name": "unclassified primitive or secondary maculopathy",
+                "qid": "Q55789241"
+            },
+            {
+                "name": "metabolic disease with corneal opacity",
+                "qid": "Q55789274"
+            }
+        ]
+    }
+}

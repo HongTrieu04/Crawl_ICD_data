@@ -1,0 +1,25 @@
+{
+    "name": "Acne conglobata",
+    "qid": "Q767311",
+    "icd_10": "L70.1",
+    "description": "skin condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Acne_conglobata",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "acne",
+                "qid": "Q79928",
+                "url": "https://en.wikipedia.org/wiki/Acne"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name": "vertebral artery dissection",
+    "qid": "Q7922751",
+    "icd_10": "I67.0",
+    "description": "traumatic or nontraumatic vertebral artery rupture",
+    "aliases": [
+        "VA dissection",
+        "vertebral dissection"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Vertebral_artery_dissection",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "Arterial dissections",
+                "qid": "Q2660911",
+                "url": "https://en.wikipedia.org/wiki/Arterial_dissections"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ]
+    }
+}

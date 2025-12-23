@@ -1,0 +1,27 @@
+{
+    "name": "fat embolism",
+    "qid": "Q950760",
+    "icd_10": "O88.8",
+    "description": "type of embolism",
+    "aliases": [
+        "fat embolism syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Fat_embolism_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "embolism",
+                "qid": "Q275466",
+                "url": "https://en.wikipedia.org/wiki/Embolism"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ]
+    }
+}

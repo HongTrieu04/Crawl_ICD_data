@@ -1,0 +1,26 @@
+{
+    "name": "amebic colitis",
+    "qid": "Q19001301",
+    "icd_10": "A06.2",
+    "description": "Human disease",
+    "aliases": [
+        "Amebic nondysenteric colitis (disorder)",
+        "amoebic colitis",
+        "obsolete amebic colitis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "colitis",
+                "qid": "Q2453464",
+                "url": "https://en.wikipedia.org/wiki/Colitis"
+            },
+            {
+                "name": "Amoebozoa infectious disease",
+                "qid": "Q18966956"
+            }
+        ]
+    }
+}

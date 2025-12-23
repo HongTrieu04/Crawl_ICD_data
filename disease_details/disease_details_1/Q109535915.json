@@ -1,0 +1,18 @@
+{
+    "name": "Dense breast tissue",
+    "qid": "Q109535915",
+    "icd_10": "R92.2",
+    "description": "condition of human breasts",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Dense_breast_tissue",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "breast disease",
+                "qid": "Q4959796",
+                "url": "https://en.wikipedia.org/wiki/Breast_disease"
+            }
+        ]
+    }
+}

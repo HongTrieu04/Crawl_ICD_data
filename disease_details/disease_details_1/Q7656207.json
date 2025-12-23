@@ -1,0 +1,25 @@
+{
+    "name": "Swimming-induced pulmonary edema",
+    "qid": "Q7656207",
+    "icd_10": "J69",
+    "description": "also known as swimming-induced pulmonary edema",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Swimming-induced_pulmonary_edema",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "pulmonary edema",
+                "qid": "Q857667",
+                "url": "https://en.wikipedia.org/wiki/Pulmonary_edema"
+            }
+        ]
+    }
+}

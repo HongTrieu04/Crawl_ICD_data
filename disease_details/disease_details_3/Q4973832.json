@@ -1,0 +1,24 @@
+{
+    "name": "bronchomalacia",
+    "qid": "Q4973832",
+    "icd_10": "Q32.2",
+    "description": "congenital disorder of respiratory system",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Bronchomalacia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "respiratory system abnormality",
+                "qid": "Q18975820"
+            }
+        ]
+    }
+}

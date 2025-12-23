@@ -1,0 +1,25 @@
+{
+    "name": "menstrual disorder",
+    "qid": "Q2137327",
+    "icd_10": "N91",
+    "description": "Medical condition affecting menstrual cycle",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lining%20of%20Uterine%20Wall.jpg",
+    "url": "https://en.wikipedia.org/wiki/Menstrual_disorder",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "obstetrics and gynaecology",
+                "qid": "Q80015",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics_and_gynaecology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "female reproductive system disease",
+                "qid": "Q5442760",
+                "url": "https://en.wikipedia.org/wiki/Female_genital_disease"
+            }
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "name": "chondroma",
+    "qid": "Q1076078",
+    "icd_10": "D21",
+    "description": "cell type benign neoplasm that is a cartilaginous tumor encapsulated with a lobular growing pattern",
+    "aliases": [
+        "central Chondroma",
+        "Chondroma",
+        "Chondroma (morphologic abnormality)",
+        "Chondroma NOS (morphologic abnormality)",
+        "CHONDROMA, BENIGN"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lantern%20slide%3B%20Multiple%20chondromata%20of%20fingers.%20Wellcome%20L0028445.jpg",
+    "url": "https://en.wikipedia.org/wiki/Chondroma",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "cartilage tumor",
+                "qid": "Q5047353",
+                "url": "https://en.wikipedia.org/wiki/Cartilage_tumor"
+            },
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "benign neoplasms by histologic type",
+                "qid": "Q18553645"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ]
+    }
+}

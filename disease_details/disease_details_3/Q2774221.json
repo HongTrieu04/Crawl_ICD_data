@@ -1,0 +1,37 @@
+{
+    "name": "lymph node metastasis",
+    "qid": "Q2774221",
+    "icd_10": "C77",
+    "description": "The spread of a malignant neoplasm to the lymph nodes",
+    "aliases": [
+        "Lymph node metastasis",
+        "Metastases to Lymph Nodes",
+        "Metastasis to Lymph Node",
+        "metastatic malignant neoplasm in the lymph nodes",
+        "Metastatic Malignant Neoplasm to the Lymph Nodes",
+        "Metastatic Neoplasm to the Lymph Node",
+        "Metastatic Tumor to Lymph Node"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Lymph_node_metastasis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "metastasis",
+                "qid": "Q181876",
+                "url": "https://en.wikipedia.org/wiki/Metastasis"
+            },
+            {
+                "name": "lymph node cancer",
+                "qid": "Q1868001"
+            }
+        ]
+    }
+}

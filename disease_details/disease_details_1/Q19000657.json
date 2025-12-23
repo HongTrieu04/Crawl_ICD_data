@@ -1,0 +1,21 @@
+{
+    "name": "hemispheric anaplastic astrocytoma",
+    "qid": "Q19000657",
+    "icd_10": "C71.0",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete hemispheric anaplastic astrocytoma",
+        "Undifferentiated Hemispheric astrocytoma"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "anaplastic astrocytoma",
+                "qid": "Q486092",
+                "url": "https://en.wikipedia.org/wiki/Anaplastic_astrocytoma"
+            }
+        ]
+    }
+}

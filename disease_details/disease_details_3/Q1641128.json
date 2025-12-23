@@ -1,0 +1,32 @@
+{
+    "name": "hypertelorism",
+    "qid": "Q1641128",
+    "icd_10": "Q75.2",
+    "description": "condition in which there is an abnormally increased distance between two organs or bodily parts; most often, this term is referring to an increased distance between the orbits (orbital hypertelorism)",
+    "aliases": [
+        "Hypertelorism of Orbit"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20mac%20dougal%201.jpg",
+    "url": "https://en.wikipedia.org/wiki/Hypertelorism",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "genetic disease",
+                "qid": "Q200779",
+                "url": "https://en.wikipedia.org/wiki/Genetic_disorder"
+            },
+            {
+                "name": "craniofacial abnormality",
+                "qid": "Q5182137",
+                "url": "https://en.wikipedia.org/wiki/Craniofacial_abnormality"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

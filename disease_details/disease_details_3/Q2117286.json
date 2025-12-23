@@ -1,0 +1,35 @@
+{
+    "name": "Braxton Hicks contraction",
+    "qid": "Q2117286",
+    "icd_10": "O47",
+    "description": "uterine contractions during pregnancy before labor",
+    "aliases": [
+        "Braxton-Hicks contraction",
+        "false labour"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Braxton_Hicks_contractions",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "uterine contraction",
+                "qid": "Q1751296",
+                "url": "https://en.wikipedia.org/wiki/Uterine_contraction"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "uterine contraction",
+                "qid": "Q1751296",
+                "url": "https://en.wikipedia.org/wiki/Uterine_contraction"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "obstetrics",
+                "qid": "Q5284418",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics"
+            }
+        ]
+    }
+}

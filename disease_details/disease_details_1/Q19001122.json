@@ -1,0 +1,24 @@
+{
+    "name": "prolonged first stage of labor",
+    "qid": "Q19001122",
+    "icd_10": "O63.0",
+    "description": "human disease",
+    "aliases": [
+        "obsolete Prolonged first stage of labor"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "prolonged labor",
+                "qid": "Q19001124",
+                "url": "https://en.wikipedia.org/wiki/Prolonged_labor"
+            },
+            {
+                "name": "first labor stage",
+                "qid": "Q67303141"
+            }
+        ]
+    }
+}

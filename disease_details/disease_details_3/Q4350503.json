@@ -1,0 +1,33 @@
+{
+    "name": "femoral fracture",
+    "qid": "Q4350503",
+    "icd_10": "S72",
+    "description": "medical condition",
+    "aliases": [
+        "femoral fractures"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thigh%20bone%20fracture%20-%20Fracture%20of%20femur%20--%20Smart-Servier.jpg",
+    "url": "https://en.wikipedia.org/wiki/Femoral_fracture",
+    "details": {
+        "Anatomical location": [
+            {
+                "name": "femur",
+                "qid": "Q176503",
+                "url": "https://en.wikipedia.org/wiki/Femur"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "orthopedics",
+                "qid": "Q216685",
+                "url": "https://en.wikipedia.org/wiki/Orthopedic_surgery"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "leg fracture",
+                "qid": "Q4350502"
+            }
+        ]
+    }
+}

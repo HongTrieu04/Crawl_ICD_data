@@ -1,0 +1,25 @@
+{
+    "name": "shoulder dystocia",
+    "qid": "Q420240",
+    "icd_10": "O66.0",
+    "description": "birthing obstruction complication",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Shoulder_dystocia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "obstructed labor",
+                "qid": "Q1811189",
+                "url": "https://en.wikipedia.org/wiki/Obstructed_labour"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "obstetrics",
+                "qid": "Q5284418",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics"
+            }
+        ]
+    }
+}

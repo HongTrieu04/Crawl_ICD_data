@@ -1,0 +1,30 @@
+{
+    "name": "Morsicatio buccarum",
+    "qid": "Q1948630",
+    "icd_10": "K13.1",
+    "description": "chronic irritation or injury of inner mouth-lining caused by repetitive chewing, biting",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Morsicatio_buccarum",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "parafunctional habit",
+                "qid": "Q2051463",
+                "url": "https://en.wikipedia.org/wiki/Parafunctional_activity"
+            },
+            {
+                "name": "body-focused repetitive behavior disorders",
+                "qid": "Q4936774",
+                "url": "https://en.wikipedia.org/wiki/Body-focused_repetitive_behavior"
+            }
+        ]
+    }
+}

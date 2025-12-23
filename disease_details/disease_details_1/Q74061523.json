@@ -1,0 +1,34 @@
+{
+    "name": "vaping-associated pulmonary injury",
+    "qid": "Q74061523",
+    "icd_10": "U07.0",
+    "description": "pulmonary lesion associated with electronic cigarette use",
+    "aliases": [
+        "VAPI",
+        "e-cigarette, or vaping, product use associated lung injury",
+        "e-cigarette, or vaping, product-use associated lung injury",
+        "E/VALI",
+        "EVALI",
+        "VALI",
+        "Vaping Induced Lung Dysfunction",
+        "vaping-associated lung injury",
+        "vaping-related lung injury"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/E%20cig%20tomography%20of%20chests%20mm6836e1-F1.gif",
+    "url": "https://en.wikipedia.org/wiki/Vaping-associated_pulmonary_injury",
+    "details": {
+        "Cause": [
+            {
+                "name": "vaping",
+                "qid": "Q27186512",
+                "url": "https://en.wikipedia.org/wiki/Vaping"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "pulmonary injury",
+                "qid": "Q7259546"
+            }
+        ]
+    }
+}

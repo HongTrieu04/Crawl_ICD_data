@@ -1,0 +1,61 @@
+{
+    "name": "scurvy",
+    "qid": "Q163865",
+    "icd_10": "E54",
+    "description": "human disease",
+    "aliases": [
+        "Deficiency of vitamin C",
+        "Gulo, Nonfunctional",
+        "HYPOASCORBEMIA",
+        "L-Gulonolactone Oxidase Pseudogene",
+        "L-Gulonolactone Oxidase, Nonfunctional",
+        "Scorbutus",
+        "Scurvy",
+        "Vitamin C deficiency",
+        "Vitamin C, Inability to Synthesize"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Scorbutic%20gums.jpg",
+    "url": "https://en.wikipedia.org/wiki/Scurvy",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "vitamin deficiency",
+                "qid": "Q194435",
+                "url": "https://en.wikipedia.org/wiki/Vitamin_deficiency"
+            },
+            {
+                "name": "nutritional deficiency disease",
+                "qid": "Q1890194"
+            },
+            {
+                "name": "ascorbic acid deficiency",
+                "qid": "Q18967616"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "internal medicine",
+                "qid": "Q11180",
+                "url": "https://en.wikipedia.org/wiki/Internal_medicine"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "sodium ascorbate",
+                "qid": "Q424551",
+                "url": "https://en.wikipedia.org/wiki/Sodium_ascorbate"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "ascorbic acid deficiency",
+                "qid": "Q18967616"
+            }
+        ]
+    }
+}

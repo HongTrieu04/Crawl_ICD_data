@@ -1,0 +1,19 @@
+{
+    "name": "ureter injury",
+    "qid": "Q60438596",
+    "icd_10": "S37.1",
+    "description": null,
+    "aliases": [
+        "Injury of ureter"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "ureteral disease",
+                "qid": "Q18554726"
+            }
+        ]
+    }
+}

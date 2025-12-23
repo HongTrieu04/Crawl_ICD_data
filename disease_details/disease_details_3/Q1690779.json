@@ -1,0 +1,35 @@
+{
+    "name": "primary ciliary dyskinesia",
+    "qid": "Q1690779",
+    "icd_10": "Q89.3",
+    "description": "ciliopathy with impaired function of the cilia lining the respiratory tract and fallopian tube",
+    "aliases": [
+        "PCD",
+        "ciliary motility disorder",
+        "ciliary motility disorders",
+        "immotile ciliary syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Primary_ciliary_dyskinesia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "ciliopathy",
+                "qid": "Q203031",
+                "url": "https://en.wikipedia.org/wiki/Ciliopathy"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "name": "chorditis",
+    "qid": "Q5104989",
+    "icd_10": "J38.2",
+    "description": "medical condition",
+    "aliases": [
+        "Inflammation of vocal cord"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Chorditis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "vocal cord dysfunction",
+                "qid": "Q1718230",
+                "url": "https://en.wikipedia.org/wiki/Vocal_cord_dysfunction"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "vocal folds",
+                "qid": "Q215558",
+                "url": "https://en.wikipedia.org/wiki/Vocal_cords"
+            }
+        ]
+    }
+}

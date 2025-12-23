@@ -1,0 +1,33 @@
+{
+    "name": "low milk supply",
+    "qid": "Q1641325",
+    "icd_10": "O92.4",
+    "description": "production of breast milk by a mother that is of insufficient quantity to meet the nutritional needs of her infant",
+    "aliases": [
+        "decreased lactation",
+        "decreased milk production",
+        "hypogalactia",
+        "poor lactation"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Low_milk_supply",
+    "details": {
+        "Cause": [
+            {
+                "name": "stress",
+                "qid": "Q123414",
+                "url": "https://en.wikipedia.org/wiki/Stress_(biology)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "lactation disorder",
+                "qid": "Q19001407"
+            },
+            {
+                "name": "nutrition, metabolism, and development symptom",
+                "qid": "Q102187407"
+            }
+        ]
+    }
+}

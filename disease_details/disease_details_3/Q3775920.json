@@ -1,0 +1,20 @@
+{
+    "name": "twin pregnancy",
+    "qid": "Q3775920",
+    "icd_10": "O30.0",
+    "description": "the condition of carrying twins",
+    "aliases": [
+        "pregnancy, twin"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "multiple pregnancy",
+                "qid": "Q41768637",
+                "url": "https://en.wikipedia.org/wiki/Multiple_pregnancies"
+            }
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "name": "anuria",
+    "qid": "Q612681",
+    "icd_10": "R33",
+    "description": "lack of urine",
+    "aliases": [
+        "anuria (context-dependent category)",
+        "anuria (finding)",
+        "oligoanuria",
+        "suppression of urinary secretion"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Anuria",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            },
+            {
+                "name": "nephrology",
+                "qid": "Q177635",
+                "url": "https://en.wikipedia.org/wiki/Nephrology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "furosemide",
+                "qid": "Q388801",
+                "url": "https://en.wikipedia.org/wiki/Furosemide"
+            },
+            {
+                "name": "D-(-)-mannitol",
+                "qid": "Q407646",
+                "url": "https://en.wikipedia.org/wiki/Mannitol"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "oliguria",
+                "qid": "Q961326",
+                "url": "https://en.wikipedia.org/wiki/Oliguria"
+            },
+            {
+                "name": "kidney disease",
+                "qid": "Q1054718",
+                "url": "https://en.wikipedia.org/wiki/Kidney_disease"
+            },
+            {
+                "name": "urological symptom",
+                "qid": "Q2565950"
+            }
+        ]
+    }
+}

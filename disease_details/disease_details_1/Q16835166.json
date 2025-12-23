@@ -1,0 +1,27 @@
+{
+    "name": "atrophodermia vermiculata",
+    "qid": "Q16835166",
+    "icd_10": "L66.4",
+    "description": "Dermatological condition",
+    "aliases": [
+        "atrophoderma vermiculata"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Atrophodermia_vermiculata",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "keratosis pilaris atrophicans",
+                "qid": "Q6393662",
+                "url": "https://en.wikipedia.org/wiki/Keratosis_pilaris_atrophicans"
+            }
+        ]
+    }
+}

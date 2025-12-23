@@ -1,0 +1,23 @@
+{
+    "name": "cellulitis of external ear",
+    "qid": "Q31182548",
+    "icd_10": "H60.1",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "otitis externa",
+                "qid": "Q680873",
+                "url": "https://en.wikipedia.org/wiki/Otitis_externa"
+            },
+            {
+                "name": "cellulitis",
+                "qid": "Q876887",
+                "url": "https://en.wikipedia.org/wiki/Cellulitis"
+            }
+        ]
+    }
+}

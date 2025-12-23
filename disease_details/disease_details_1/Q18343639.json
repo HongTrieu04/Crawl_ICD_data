@@ -1,0 +1,20 @@
+{
+    "name": "popliteal aneurysm",
+    "qid": "Q18343639",
+    "icd_10": "I72.4",
+    "description": "aneurysm of the popliteal artery",
+    "aliases": [
+        "Popliteal Artery Aneurysm"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Popliteal_artery_aneurysm",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "aneurysm",
+                "qid": "Q189389",
+                "url": "https://en.wikipedia.org/wiki/Aneurysm"
+            }
+        ]
+    }
+}

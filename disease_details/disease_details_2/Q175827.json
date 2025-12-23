@@ -1,0 +1,62 @@
+{
+    "name": "stomach disease",
+    "qid": "Q175827",
+    "icd_10": "K31",
+    "description": "gastrointestinal system disease that is located in the stomach",
+    "aliases": [
+        "disease of stomach",
+        "disorder of stomach",
+        "gastric disease",
+        "Gastropathy",
+        "Gastropathy (disorder)",
+        "Stomach Diseases",
+        "stomach disorder"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Stomach_disease",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "gastrointestinal system disease",
+                "qid": "Q2300099",
+                "url": "https://en.wikipedia.org/wiki/Gastrointestinal_disease"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "pantoprazole",
+                "qid": "Q286846",
+                "url": "https://en.wikipedia.org/wiki/Pantoprazole"
+            },
+            {
+                "name": "esomeprazole",
+                "qid": "Q553223",
+                "url": "https://en.wikipedia.org/wiki/Esomeprazole"
+            },
+            {
+                "name": "omeprazole",
+                "qid": "Q422210",
+                "url": "https://en.wikipedia.org/wiki/Omeprazole"
+            },
+            {
+                "name": "ranitidine",
+                "qid": "Q423037",
+                "url": "https://en.wikipedia.org/wiki/Ranitidine"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "stomach",
+                "qid": "Q1029907",
+                "url": "https://en.wikipedia.org/wiki/Stomach"
+            }
+        ]
+    }
+}

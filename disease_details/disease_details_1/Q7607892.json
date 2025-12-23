@@ -1,0 +1,36 @@
+{
+    "name": "stenosis of pulmonary artery",
+    "qid": "Q7607892",
+    "icd_10": "Q25.6",
+    "description": "condition where the pulmonary artery is subject to an abnormal constriction",
+    "aliases": [
+        "pulmonary artery stenosis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pulmonary_artery_stenosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "vascular malformation",
+                "qid": "Q121576",
+                "url": "https://en.wikipedia.org/wiki/Vascular_malformation"
+            },
+            {
+                "name": "pulmonic stenosis",
+                "qid": "Q3973118",
+                "url": "https://en.wikipedia.org/wiki/Pulmonic_stenosis"
+            },
+            {
+                "name": "pulmonary artery disease",
+                "qid": "Q60196522"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

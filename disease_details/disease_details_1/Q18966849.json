@@ -1,0 +1,34 @@
+{
+    "name": "idiopathic hydrops fetalis",
+    "qid": "Q18966849",
+    "icd_10": "P83.2",
+    "description": "Human disease",
+    "aliases": [
+        "Alpha-thalassemia hydrops fetalis",
+        "Alpha-thalassemia major",
+        "Hemoglobin Bart's hydrops fetalis",
+        "Homozygous alpha0-thalassemia",
+        "Hydrops fetalis not due to isoimmunization",
+        "Idiopathic hydrops fetalis (disorder)",
+        "Idiopathic hydrops fetalis (disorder) [Ambiguous]",
+        "Non-immune hydrops fetalis",
+        "Non-immune hydrops fetalis (disorder)",
+        "obsolete idiopathic hydrops fetalis",
+        "Perinatal skin prob. NOS"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "alpha thalassemia",
+                "qid": "Q288714",
+                "url": "https://en.wikipedia.org/wiki/Alpha-thalassemia"
+            },
+            {
+                "name": "non-immune hydrops fetalis",
+                "qid": "Q55998620"
+            }
+        ]
+    }
+}

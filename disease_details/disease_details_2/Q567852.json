@@ -1,0 +1,28 @@
+{
+    "name": "poliosis",
+    "qid": "Q567852",
+    "icd_10": "L67.15",
+    "description": "physological condition",
+    "aliases": [
+        "Mallen streak",
+        "poliosis circumscripta",
+        "white forelock"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Poliosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "hair discoloration",
+                "qid": "Q21120094"
+            }
+        ]
+    }
+}

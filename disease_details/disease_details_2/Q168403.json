@@ -1,0 +1,45 @@
+{
+    "name": "myopia",
+    "qid": "Q168403",
+    "icd_10": "H52.1",
+    "description": "visual defect which causes to see the near objects clearly and far objects unclearly",
+    "aliases": [
+        "near vision",
+        "near-sightedness",
+        "short-sightedness"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Myopia.gif",
+    "url": "https://en.wikipedia.org/wiki/Myopia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "refractive error",
+                "qid": "Q470427",
+                "url": "https://en.wikipedia.org/wiki/Refractive_error"
+            },
+            {
+                "name": "visual impairment",
+                "qid": "Q737460",
+                "url": "https://en.wikipedia.org/wiki/Visual_impairment"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "optometry",
+                "qid": "Q618211",
+                "url": "https://en.wikipedia.org/wiki/Optometry"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "spherical lens",
+                "qid": "Q89705203"
+            }
+        ]
+    }
+}

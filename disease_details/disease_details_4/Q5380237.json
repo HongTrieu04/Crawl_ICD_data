@@ -1,0 +1,32 @@
+{
+    "name": "Enterolith",
+    "qid": "Q5380237",
+    "icd_10": "K56.4",
+    "description": "A stone within the digestive tract",
+    "aliases": [
+        "Concretion of intestine"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Enterolith",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "intestinal disease",
+                "qid": "Q3055380",
+                "url": "https://en.wikipedia.org/wiki/Enteropathy"
+            },
+            {
+                "name": "calculus",
+                "qid": "Q617079",
+                "url": "https://en.wikipedia.org/wiki/Calculus_(medicine)"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ]
+    }
+}

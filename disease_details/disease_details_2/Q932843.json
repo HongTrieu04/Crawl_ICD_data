@@ -1,0 +1,44 @@
+{
+    "name": "pulpitis",
+    "qid": "Q932843",
+    "icd_10": "K04.0",
+    "description": "human tooth disease",
+    "aliases": [
+        "pulpitis (disorder)",
+        "pulpitis NOS (disorder)"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pulpitis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "dental pulp disease",
+                "qid": "Q3368715"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "dentistry",
+                "qid": "Q12128",
+                "url": "https://en.wikipedia.org/wiki/Dentistry"
+            },
+            {
+                "name": "endodontics",
+                "qid": "Q852143",
+                "url": "https://en.wikipedia.org/wiki/Endodontics"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "dental pulp",
+                "qid": "Q48286",
+                "url": "https://en.wikipedia.org/wiki/Pulp_(tooth)"
+            }
+        ]
+    }
+}

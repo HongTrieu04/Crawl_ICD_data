@@ -1,0 +1,21 @@
+{
+    "name": "secondary hyperaldosteronism",
+    "qid": "Q10665239",
+    "icd_10": "E26.1",
+    "description": null,
+    "aliases": [
+        "hyperreninemic hyperaldosteronism",
+        "hyperreninism"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "hyperaldosteronism",
+                "qid": "Q1640860",
+                "url": "https://en.wikipedia.org/wiki/Hyperaldosteronism"
+            }
+        ]
+    }
+}

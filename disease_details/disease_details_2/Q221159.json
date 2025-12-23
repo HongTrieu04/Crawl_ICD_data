@@ -1,0 +1,76 @@
+{
+    "name": "schistosomiasis",
+    "qid": "Q221159",
+    "icd_10": "B65",
+    "description": "human disease",
+    "aliases": [
+        "bilharzia",
+        "Katayama fever",
+        "bilharziasis",
+        "schistosoma infection",
+        "schistosome infection",
+        "snail fever"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Schistosomiasis%20itch.jpeg",
+    "url": "https://en.wikipedia.org/wiki/Schistosomiasis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "distomatosis",
+                "qid": "Q3030745",
+                "url": "https://en.wikipedia.org/wiki/Trematodiasis"
+            },
+            {
+                "name": "neglected tropical disease",
+                "qid": "Q929451",
+                "url": "https://en.wikipedia.org/wiki/Neglected_tropical_diseases"
+            },
+            {
+                "name": "parasitic helminthiasis infectious disease",
+                "qid": "Q578994",
+                "url": "https://en.wikipedia.org/wiki/Helminthiasis"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "nausea",
+                "qid": "Q186889",
+                "url": "https://en.wikipedia.org/wiki/Nausea"
+            },
+            {
+                "name": "diarrhea",
+                "qid": "Q40878",
+                "url": "https://en.wikipedia.org/wiki/Diarrhea"
+            },
+            {
+                "name": "chills",
+                "qid": "Q2260058",
+                "url": "https://en.wikipedia.org/wiki/Chills"
+            },
+            {
+                "name": "hematuria",
+                "qid": "Q373597",
+                "url": "https://en.wikipedia.org/wiki/Hematuria"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Schistosoma",
+                "qid": "Q1457418",
+                "url": "https://en.wikipedia.org/wiki/Schistosoma"
+            }
+        ]
+    }
+}

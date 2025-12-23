@@ -1,0 +1,27 @@
+{
+    "name": "arthropathy due to hypersensitivity reaction",
+    "qid": "Q18967007",
+    "icd_10": "M36.4",
+    "description": "Human disease",
+    "aliases": [
+        "Arthropathy associated with a hypersensitivity reaction (disorder)",
+        "Arthropathy associated with hypersensitivity reaction",
+        "obsolete arthropathy due to hypersensitivity reaction"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "arthropathy",
+                "qid": "Q708176",
+                "url": "https://en.wikipedia.org/wiki/Arthropathy"
+            },
+            {
+                "name": "hypersensitivity",
+                "qid": "Q5958765",
+                "url": "https://en.wikipedia.org/wiki/Hypersensitivity"
+            }
+        ]
+    }
+}

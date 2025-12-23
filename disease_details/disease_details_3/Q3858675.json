@@ -1,0 +1,35 @@
+{
+    "name": "myositis ossificans",
+    "qid": "Q3858675",
+    "icd_10": "M61",
+    "description": "myositis that is accompanied by ossification of muscle tissue or bony deposits in the muscles",
+    "aliases": [
+        "Myositis ossificans",
+        "Myisitis ossificans",
+        "Ossification - muscle",
+        "Posttraumatic myositis ossificans"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Myositis_ossificans",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "myositis",
+                "qid": "Q1433212",
+                "url": "https://en.wikipedia.org/wiki/Myositis"
+            },
+            {
+                "name": "heterotopic ossification",
+                "qid": "Q5747886",
+                "url": "https://en.wikipedia.org/wiki/Heterotopic_ossification"
+            }
+        ]
+    }
+}

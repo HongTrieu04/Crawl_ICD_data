@@ -1,0 +1,32 @@
+{
+    "name": "mild androgen insensitivity syndrome",
+    "qid": "Q17012451",
+    "icd_10": "E34.50",
+    "description": "medical condition",
+    "aliases": [
+        "MAIS"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Mild_androgen_insensitivity_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disorder of sex development, 46,XY",
+                "qid": "Q66653235",
+                "url": "https://en.wikipedia.org/wiki/Male_pseudohermaphrodism"
+            },
+            {
+                "name": "androgen insensitivity syndrome",
+                "qid": "Q512313",
+                "url": "https://en.wikipedia.org/wiki/Androgen_insensitivity_syndrome"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ]
+    }
+}

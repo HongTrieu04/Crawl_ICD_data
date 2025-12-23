@@ -1,0 +1,24 @@
+{
+    "name": "phytophotodermatitis",
+    "qid": "Q1660485",
+    "icd_10": "L56.2",
+    "description": "skin condition caused by a chemical reaction which makes skin hypersensitive to ultraviolet light",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Phytophotodermatitis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "phototoxic dermatitis",
+                "qid": "Q18556310"
+            }
+        ]
+    }
+}

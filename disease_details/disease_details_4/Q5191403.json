@@ -1,0 +1,44 @@
+{
+    "name": "crystal arthropathy",
+    "qid": "Q5191403",
+    "icd_10": "M11",
+    "description": "Human disease",
+    "aliases": [
+        "Crystal arthropathy NOS, of the pelvic region and thigh",
+        "Crystal arthropathy of ankle and/or foot",
+        "Crystal arthropathy of forearm",
+        "Crystal arthropathy of hand",
+        "Crystal arthropathy of lower leg",
+        "Crystal arthropathy of multiple sites",
+        "Crystal arthropathy of shoulder region",
+        "Crystal arthropathy of upper arm",
+        "crystal-induced arthritis",
+        "obsolete crystal arthropathy",
+        "Unspecified crystal arthropathy involving ankle and foot",
+        "Unspecified crystal arthropathy involving forearm",
+        "Unspecified crystal arthropathy involving hand",
+        "Unspecified crystal arthropathy involving lower leg",
+        "Unspecified crystal arthropathy involving multiple sites",
+        "Unspecified crystal arthropathy involving pelvic region and thigh",
+        "Unspecified crystal arthropathy involving shoulder region",
+        "Unspecified crystal arthropathy involving upper arm"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Crystal_arthropathy",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "arthropathy",
+                "qid": "Q708176",
+                "url": "https://en.wikipedia.org/wiki/Arthropathy"
+            }
+        ]
+    }
+}

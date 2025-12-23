@@ -1,0 +1,35 @@
+{
+    "name": "Hunter's glossitis",
+    "qid": "Q7546446",
+    "icd_10": "K14.4",
+    "description": "Human disease",
+    "aliases": [
+        "atrophic glossitis",
+        "Atrophy of tongue papillae",
+        "Glossitis, Hunter's",
+        "smooth atrophic tongue"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Atrophic_glossitis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "glossitis",
+                "qid": "Q1324237",
+                "url": "https://en.wikipedia.org/wiki/Glossitis"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ]
+    }
+}

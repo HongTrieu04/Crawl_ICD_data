@@ -1,0 +1,33 @@
+{
+    "name": "neonatal herpes simplex",
+    "qid": "Q3134326",
+    "icd_10": "P35.2",
+    "description": "Medical condition",
+    "aliases": [
+        "Antenatal herpes simplex virus infection",
+        "congenital herpes"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Neonatal_herpes",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "pediatrics",
+                "qid": "Q123028",
+                "url": "https://en.wikipedia.org/wiki/Pediatrics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "vertically transmitted infection",
+                "qid": "Q4113827",
+                "url": "https://en.wikipedia.org/wiki/Vertically_transmitted_infection"
+            },
+            {
+                "name": "herpes simplex",
+                "qid": "Q6473911",
+                "url": "https://en.wikipedia.org/wiki/Herpes"
+            }
+        ]
+    }
+}

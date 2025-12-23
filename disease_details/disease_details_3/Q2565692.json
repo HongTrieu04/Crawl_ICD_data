@@ -1,0 +1,31 @@
+{
+    "name": "abrachia",
+    "qid": "Q2565692",
+    "icd_10": "Q73.0",
+    "description": "birth defect",
+    "aliases": [
+        "Abrachie"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "reduction defects of upper limb",
+                "qid": "Q6000089"
+            },
+            {
+                "name": "amelia",
+                "qid": "Q23900578",
+                "url": "https://en.wikipedia.org/wiki/Amelia_(birth_defect)"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

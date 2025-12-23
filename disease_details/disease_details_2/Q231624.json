@@ -1,0 +1,18 @@
+{
+    "name": "compulsive act",
+    "qid": "Q231624",
+    "icd_10": "F42.1",
+    "description": "Action, in the context of OCD the person concerned involuntarily and against his will constantly imposes itself",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "obsessive-compulsive disorder",
+                "qid": "Q178190",
+                "url": "https://en.wikipedia.org/wiki/Obsessive%E2%80%93compulsive_disorder"
+            }
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "name": "conjoined twins",
+    "qid": "Q216866",
+    "icd_10": "Q89.4",
+    "description": "twins physically joined in utero",
+    "aliases": [
+        "Siamese twins"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Conjoined%20X-ray.jpg",
+    "url": "https://en.wikipedia.org/wiki/Conjoined_twins",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "monoamniotic twins",
+                "qid": "Q6901315",
+                "url": "https://en.wikipedia.org/wiki/Monoamniotic_twins"
+            },
+            {
+                "name": "diseases in twins",
+                "qid": "Q54943950"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "conjoined twins separation surgery",
+                "qid": "Q135478279"
+            }
+        ]
+    }
+}

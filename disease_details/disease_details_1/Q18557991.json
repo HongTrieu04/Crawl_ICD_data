@@ -1,0 +1,113 @@
+{
+    "name": "Hodgkin's lymphoma, mixed cellularity",
+    "qid": "Q18557991",
+    "icd_10": "C81.2",
+    "description": "human disease",
+    "aliases": [
+        "MCHL",
+        "classic Hodgkin lymphoma, mixed cellularity type",
+        "Hodgkin lymphoma, mixed cellularity",
+        "Hodgkin's Disease Mixed Cellularity",
+        "Hodgkin's disease, mixed cellularity",
+        "Hodgkin's disease, mixed cellularity (disorder)",
+        "Hodgkin's disease, mixed cellularity NOS (disorder)",
+        "Hodgkin's disease, mixed cellularity of unspecified site",
+        "Hodgkin's disease, mixed cellularity of unspecified site (disorder)",
+        "Hodgkin's Lymphoma Mixed Cellularity",
+        "MCCHL",
+        "Mixed Cellularity Classical Hodgkin Lymphoma",
+        "Mixed Cellularity Hodgkin Lymphoma",
+        "Mixed Cellularity Hodgkin's Disease",
+        "Mixed Cellularity Hodgkin's Lymphoma"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "(RS)-cyclophosphamide",
+                "qid": "Q408524",
+                "url": "https://en.wikipedia.org/wiki/Cyclophosphamide"
+            },
+            {
+                "name": "vincristine",
+                "qid": "Q408977",
+                "url": "https://en.wikipedia.org/wiki/Vincristine"
+            },
+            {
+                "name": "cisplatin",
+                "qid": "Q412415",
+                "url": "https://en.wikipedia.org/wiki/Cisplatin"
+            },
+            {
+                "name": "lomustine",
+                "qid": "Q415378",
+                "url": "https://en.wikipedia.org/wiki/Lomustine"
+            },
+            {
+                "name": "bleomycin",
+                "qid": "Q415571",
+                "url": "https://en.wikipedia.org/wiki/Bleomycin"
+            },
+            {
+                "name": "chlorambucil",
+                "qid": "Q415939",
+                "url": "https://en.wikipedia.org/wiki/Chlorambucil"
+            },
+            {
+                "name": "vinorelbine",
+                "qid": "Q420532",
+                "url": "https://en.wikipedia.org/wiki/Vinorelbine"
+            },
+            {
+                "name": "sargramostim",
+                "qid": "Q3950557",
+                "url": "https://en.wikipedia.org/wiki/Sargramostim"
+            },
+            {
+                "name": "dacarbazine",
+                "qid": "Q416975",
+                "url": "https://en.wikipedia.org/wiki/Dacarbazine"
+            },
+            {
+                "name": "mechlorethamine",
+                "qid": "Q418011",
+                "url": "https://en.wikipedia.org/wiki/Chlormethine"
+            },
+            {
+                "name": "ifosfamide",
+                "qid": "Q418560",
+                "url": "https://en.wikipedia.org/wiki/Ifosfamide"
+            },
+            {
+                "name": "procarbazine",
+                "qid": "Q418656",
+                "url": "https://en.wikipedia.org/wiki/Procarbazine"
+            },
+            {
+                "name": "α-streptozocin",
+                "qid": "Q257331",
+                "url": "https://en.wikipedia.org/wiki/Streptozotocin"
+            },
+            {
+                "name": "vinblastine",
+                "qid": "Q282629",
+                "url": "https://en.wikipedia.org/wiki/Vinblastine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "Hodgkin lymphoma",
+                "qid": "Q209369",
+                "url": "https://en.wikipedia.org/wiki/Hodgkin_lymphoma"
+            }
+        ]
+    }
+}

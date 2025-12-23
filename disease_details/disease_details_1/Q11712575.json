@@ -1,0 +1,39 @@
+{
+    "name": "urge incontinence",
+    "qid": "Q11712575",
+    "icd_10": "N39.4",
+    "description": "symptom",
+    "aliases": [
+        "Urge incontinence",
+        "urge urinary incontinence",
+        "Urinary Incontinence, Urge"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Urge_incontinence",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "obstetrics and gynaecology",
+                "qid": "Q80015",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics_and_gynaecology"
+            },
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "urinary incontinence",
+                "qid": "Q281490",
+                "url": "https://en.wikipedia.org/wiki/Urinary_incontinence"
+            },
+            {
+                "name": "low compliance bladder",
+                "qid": "Q331231",
+                "url": "https://en.wikipedia.org/wiki/Overactive_bladder"
+            }
+        ]
+    }
+}

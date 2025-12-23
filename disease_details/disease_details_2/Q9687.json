@@ -1,0 +1,47 @@
+{
+    "name": "traffic collision",
+    "qid": "Q9687",
+    "icd_10": "V89.9",
+    "description": "collision of a vehicle with another vehicle, pedestrian, animal, or other object",
+    "aliases": [
+        "traffic accident",
+        "RTA",
+        "MVC",
+        "MVA",
+        "car crash",
+        "road accident",
+        "accidents, traffic",
+        "motor vehicle accident",
+        "motor vehicle collision",
+        "road traffic accident",
+        "road traffic collision",
+        "road traffic crash",
+        "traffic crash",
+        "vehicle collision"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bad%20one%20-%20auto%20wreck%20in%20Dakar%20Senegal%2C%202011.jpg",
+    "url": "https://en.wikipedia.org/wiki/Traffic_collision",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "collision",
+                "qid": "Q238053",
+                "url": "https://en.wikipedia.org/wiki/Collision"
+            },
+            {
+                "name": "transport accident",
+                "qid": "Q11822042"
+            },
+            {
+                "name": "geographically localized event",
+                "qid": "Q123349687"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "road vehicle",
+                "qid": "Q1515493"
+            }
+        ]
+    }
+}

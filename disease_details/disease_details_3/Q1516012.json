@@ -1,0 +1,38 @@
+{
+    "name": "delayed puberty",
+    "qid": "Q1516012",
+    "icd_10": "E30.0",
+    "description": "human disease",
+    "aliases": [
+        "Delay in sexual development and/or puberty",
+        "Delayed puberty",
+        "Delayed puberty (& [NOS])",
+        "Delayed puberty (disorder)",
+        "Delayed puberty NOS",
+        "Puberty, Delayed"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Delayed_puberty",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "fluoxymesterone",
+                "qid": "Q410663",
+                "url": "https://en.wikipedia.org/wiki/Fluoxymesterone"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disorder of puberty",
+                "qid": "Q51619888"
+            }
+        ]
+    }
+}

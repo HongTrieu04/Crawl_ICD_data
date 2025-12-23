@@ -1,0 +1,55 @@
+{
+    "name": "mouth ulcer",
+    "qid": "Q3245680",
+    "icd_10": "K12",
+    "description": "ulcer that occurs on the mucous membrane of the oral cavity",
+    "aliases": [
+        "oral ulcer",
+        "mucosal ulcer",
+        "mucosal ulceration"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Aphthe%20Unterlippe.jpg",
+    "url": "https://en.wikipedia.org/wiki/Mouth_ulcer",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "symptom",
+                "qid": "Q169872",
+                "url": "https://en.wikipedia.org/wiki/Symptom"
+            },
+            {
+                "name": "ulcer",
+                "qid": "Q6452285",
+                "url": "https://en.wikipedia.org/wiki/Ulcer_(dermatology)"
+            },
+            {
+                "name": "mouth disease",
+                "qid": "Q2508462",
+                "url": "https://en.wikipedia.org/wiki/Oral_and_maxillofacial_pathology"
+            },
+            {
+                "name": "lesions in mouth",
+                "qid": "Q102186750"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "levonordefrin",
+                "qid": "Q12745763",
+                "url": "https://en.wikipedia.org/wiki/Corbadrine"
+            },
+            {
+                "name": "benzocaine",
+                "qid": "Q422745",
+                "url": "https://en.wikipedia.org/wiki/Benzocaine"
+            }
+        ]
+    }
+}

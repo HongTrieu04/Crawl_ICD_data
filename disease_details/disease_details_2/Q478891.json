@@ -1,0 +1,89 @@
+{
+    "name": "Simpson-Golabi-Behmel syndrome",
+    "qid": "Q478891",
+    "icd_10": "Q87.0",
+    "description": "X-linked disease characterized by pre- and postnatal overgrowth and craniofacial, skeletal, cardiac and renal abnormalities",
+    "aliases": [
+        "DGSX",
+        "SDYS",
+        "SGBS",
+        "SGBS1",
+        "bulldog syndrome",
+        "DGSX Golabi-Rosen syndrome",
+        "Dysplasia Gigantism Syndrome, X-Linked",
+        "Golabi-Rosen syndrome",
+        "Sara Angers syndrome",
+        "SGB syndrome",
+        "Simpson dysmorphia syndrome",
+        "Simpson-Golabi-Behmel syndrome type 1",
+        "SIMPSON-GOLABI-BEHMEL SYNDROME, TYPE 1",
+        "SIMPSON-GOLABI-BEHMEL SYNDROME, TYPE 1; SGBS1",
+        "X-linked dysplasia gigantism syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Simpson%E2%80%93Golabi%E2%80%93Behmel_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "overgrowth syndrome",
+                "qid": "Q7113674",
+                "url": "https://en.wikipedia.org/wiki/Overgrowth_syndrome"
+            },
+            {
+                "name": "X-linked intellectual disability",
+                "qid": "Q8041560",
+                "url": "https://en.wikipedia.org/wiki/X-linked_intellectual_disability"
+            },
+            {
+                "name": "X-linked recessive disease",
+                "qid": "Q55010090",
+                "url": "https://en.wikipedia.org/wiki/X-linked_recessive_disorder"
+            },
+            {
+                "name": "syndrome",
+                "qid": "Q179630",
+                "url": "https://en.wikipedia.org/wiki/Syndrome"
+            },
+            {
+                "name": "macroglossia",
+                "qid": "Q524095",
+                "url": "https://en.wikipedia.org/wiki/Macroglossia"
+            },
+            {
+                "name": "multiple congenital anomalies/dysmorphic syndrome-intellectual disability",
+                "qid": "Q55785288"
+            },
+            {
+                "name": "syndromic diaphragmatic or abdominal wall malformation",
+                "qid": "Q55785334"
+            },
+            {
+                "name": "syndrome or malformation associated with head and neck malformations",
+                "qid": "Q55785513"
+            },
+            {
+                "name": "syndromic diaphragmatic or thoracic malformation",
+                "qid": "Q55785792"
+            },
+            {
+                "name": "polymalformative genetic syndrome with increased risk of developing cancer",
+                "qid": "Q55785832"
+            },
+            {
+                "name": "rare genetic bone disease",
+                "qid": "Q55785844"
+            },
+            {
+                "name": "syndromic renal or urinary tract malformation",
+                "qid": "Q55788832"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

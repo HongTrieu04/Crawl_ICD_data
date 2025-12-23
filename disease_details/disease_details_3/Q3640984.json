@@ -1,0 +1,40 @@
+{
+    "name": "third-degree atrioventricular block",
+    "qid": "Q3640984",
+    "icd_10": "I44.2",
+    "description": "medical condition in which the impulse generated in the sinoatrial node (SA node) in the atrium of the heart does not propagate to the ventricles",
+    "aliases": [
+        "Atrioventricular block complete",
+        "Atrioventricular Block, Third Degree",
+        "AV block third degree",
+        "complete atrioventricular block",
+        "complete AV block",
+        "Complete Heart Block",
+        "Non-Congenital Complete Atrioventricular Block",
+        "Third Degree Atrioventricular Block",
+        "third degree AV block"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Third-degree_atrioventricular_block",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "atrioventricular block",
+                "qid": "Q300121",
+                "url": "https://en.wikipedia.org/wiki/Atrioventricular_block"
+            }
+        ]
+    }
+}

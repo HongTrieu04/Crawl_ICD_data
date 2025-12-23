@@ -1,0 +1,24 @@
+{
+    "name": "mineral metabolism disease",
+    "qid": "Q18553032",
+    "icd_10": "E83",
+    "description": "acquired metabolic disease that is characterized by abnormal mineral metabolism",
+    "aliases": [
+        "disease of mineral metabolism",
+        "disorder of mineral metabolism"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "acquired metabolic disease",
+                "qid": "Q18553699"
+            },
+            {
+                "name": "disorder of metabolite absorption and transport",
+                "qid": "Q55787333"
+            }
+        ]
+    }
+}

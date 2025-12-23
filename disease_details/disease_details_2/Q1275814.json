@@ -1,0 +1,67 @@
+{
+    "name": "konzo",
+    "qid": "Q1275814",
+    "icd_10": "T62.2",
+    "description": "disease caused by malnutrition and high dietary cyanide intake",
+    "aliases": [
+        "cassava intoxication",
+        "cassavism",
+        "mantakassa"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Konzo",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "paraparesis",
+                "qid": "Q3363589",
+                "url": "https://en.wikipedia.org/wiki/Paraparesis"
+            },
+            {
+                "name": "ataxia",
+                "qid": "Q213373",
+                "url": "https://en.wikipedia.org/wiki/Ataxia"
+            },
+            {
+                "name": "hereditary spastic paraplegia",
+                "qid": "Q657516",
+                "url": "https://en.wikipedia.org/wiki/Hereditary_spastic_paraplegia"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "foodborne illness",
+                "qid": "Q272002",
+                "url": "https://en.wikipedia.org/wiki/Foodborne_illness"
+            },
+            {
+                "name": "cyanide poisoning",
+                "qid": "Q883082",
+                "url": "https://en.wikipedia.org/wiki/Cyanide_poisoning"
+            },
+            {
+                "name": "tropical disease",
+                "qid": "Q1345671",
+                "url": "https://en.wikipedia.org/wiki/Tropical_disease"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "ingestion",
+                "qid": "Q1663054",
+                "url": "https://en.wikipedia.org/wiki/Ingestion"
+            },
+            {
+                "name": "cassava root",
+                "qid": "Q43304555"
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "name": "threatened abortion",
+    "qid": "Q10889918",
+    "icd_10": "O20.0",
+    "description": "uterine bleeding from a gestation of less than 20 weeks without any cervical dilatation",
+    "aliases": [
+        "Abortion, Threatened",
+        "threatened miscarriage"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "early pregnancy bleeding",
+                "qid": "Q57157864",
+                "url": "https://en.wikipedia.org/wiki/Early_pregnancy_bleeding"
+            },
+            {
+                "name": "miscarriage",
+                "qid": "Q28693",
+                "url": "https://en.wikipedia.org/wiki/Miscarriage"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "obstetrics and gynaecology",
+                "qid": "Q80015",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics_and_gynaecology"
+            }
+        ]
+    }
+}

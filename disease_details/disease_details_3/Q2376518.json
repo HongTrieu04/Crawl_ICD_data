@@ -1,0 +1,30 @@
+{
+    "name": "syringoma",
+    "qid": "Q2376518",
+    "icd_10": "D23.9",
+    "description": "Human disease",
+    "aliases": [
+        "Eccrine Syringoma",
+        "Syringoma",
+        "Syringoma (disorder)",
+        "Syringoma (morphologic abnormality)",
+        "Syringoma NOS (morphologic abnormality)"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Syringoma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "sweat gland neoplasm",
+                "qid": "Q18555150"
+            }
+        ]
+    }
+}

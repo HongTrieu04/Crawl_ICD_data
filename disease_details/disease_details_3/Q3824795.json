@@ -1,0 +1,43 @@
+{
+    "name": "exfoliation syndrome",
+    "qid": "Q3824795",
+    "icd_10": "H25.89",
+    "description": "syndrome that occurs when tiny flakes of dandruff-like material build up in the body and are found in the heart, kidneys, liver, lungs, and eye",
+    "aliases": [
+        "PXF",
+        "XFS",
+        "Exfoliation Glaucoma",
+        "EXFOLIATION SYNDROME",
+        "EXFOLIATION SYNDROME; XFS",
+        "Pseudoexfoliation glaucoma",
+        "Pseudoexfoliation glaucoma (disorder)",
+        "Pseudoexfoliation of the Lens",
+        "Pseudoexfoliation syndrome",
+        "XFG"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pseudoexfoliation_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "phacogenic glaucoma",
+                "qid": "Q18554346"
+            },
+            {
+                "name": "iris disease",
+                "qid": "Q18555070"
+            },
+            {
+                "name": "hereditary glaucoma",
+                "qid": "Q55787777"
+            }
+        ]
+    }
+}

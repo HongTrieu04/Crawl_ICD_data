@@ -1,0 +1,27 @@
+{
+    "name": "Acne miliaris necrotica",
+    "qid": "Q4674430",
+    "icd_10": "L70.2",
+    "description": "skin condition",
+    "aliases": [
+        "Acne necrotica miliaris"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Acne_miliaris_necrotica",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "folliculitis",
+                "qid": "Q942755",
+                "url": "https://en.wikipedia.org/wiki/Folliculitis"
+            }
+        ]
+    }
+}

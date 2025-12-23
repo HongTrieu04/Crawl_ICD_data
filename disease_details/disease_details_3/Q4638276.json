@@ -1,0 +1,34 @@
+{
+    "name": "46, XX/XY",
+    "qid": "Q4638276",
+    "icd_10": "Q99.0",
+    "description": "human disease",
+    "aliases": [
+        "46,XX/46,XY chimerism",
+        "Tetragametic chimerism"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/46,XX/46,XY",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "chimera",
+                "qid": "Q281721",
+                "url": "https://en.wikipedia.org/wiki/Chimera_(genetics)"
+            },
+            {
+                "name": "sex chromosome disorder",
+                "qid": "Q7458487",
+                "url": "https://en.wikipedia.org/wiki/Sex_chromosome_anomalies"
+            },
+            {
+                "name": "sex chromosome disorder of sex development",
+                "qid": "Q54943934"
+            },
+            {
+                "name": "syndrome with disorder of sex development of gynecological interest",
+                "qid": "Q55787661"
+            }
+        ]
+    }
+}

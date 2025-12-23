@@ -1,0 +1,160 @@
+{
+    "name": "influenza",
+    "qid": "Q2840",
+    "icd_10": "J11",
+    "description": "infectious disease caused by an influenza virus",
+    "aliases": [
+        "flu",
+        "common flu",
+        "flu infection",
+        "grippe (archaic)",
+        "human influenza",
+        "influenza infection",
+        "influenza with non-respiratory manifestation",
+        "Influenza with other manifestations",
+        "influenza, human",
+        "the grippe (archaic)"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/H1N1%20Influenza%20Virus%20Particles%20%288411599236%29.jpg",
+    "url": "https://en.wikipedia.org/wiki/Influenza",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            },
+            {
+                "name": "fatigue",
+                "qid": "Q9690",
+                "url": "https://en.wikipedia.org/wiki/Fatigue"
+            },
+            {
+                "name": "chills",
+                "qid": "Q2260058",
+                "url": "https://en.wikipedia.org/wiki/Chills"
+            },
+            {
+                "name": "rhinitis",
+                "qid": "Q114085",
+                "url": "https://en.wikipedia.org/wiki/Rhinitis"
+            },
+            {
+                "name": "cough",
+                "qid": "Q35805",
+                "url": "https://en.wikipedia.org/wiki/Cough"
+            },
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "nasal congestion",
+                "qid": "Q3245488",
+                "url": "https://en.wikipedia.org/wiki/Nasal_congestion"
+            },
+            {
+                "name": "myalgia",
+                "qid": "Q474959",
+                "url": "https://en.wikipedia.org/wiki/Myalgia"
+            },
+            {
+                "name": "chest pain",
+                "qid": "Q693058",
+                "url": "https://en.wikipedia.org/wiki/Chest_pain"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "respiratory disease",
+                "qid": "Q3286546",
+                "url": "https://en.wikipedia.org/wiki/Respiratory_disease"
+            },
+            {
+                "name": "viral infectious disease",
+                "qid": "Q1928978",
+                "url": "https://en.wikipedia.org/wiki/Viral_disease"
+            },
+            {
+                "name": "Orthomyxoviridae infectious disease",
+                "qid": "Q18975918"
+            },
+            {
+                "name": "acute viral respiratory tract infection",
+                "qid": "Q55790495"
+            },
+            {
+                "name": "Virus diseases of plants",
+                "qid": "Q107295072"
+            },
+            {
+                "name": "pandemic and epidemic-prone diseases",
+                "qid": "Q131345497"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "respiratory system",
+                "qid": "Q7891",
+                "url": "https://en.wikipedia.org/wiki/Respiratory_system"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            },
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            },
+            {
+                "name": "family medicine",
+                "qid": "Q3505712",
+                "url": "https://en.wikipedia.org/wiki/Family_medicine"
+            },
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "zanamivir",
+                "qid": "Q146075",
+                "url": "https://en.wikipedia.org/wiki/Zanamivir"
+            },
+            {
+                "name": "oseltamivir",
+                "qid": "Q211509",
+                "url": "https://en.wikipedia.org/wiki/Oseltamivir"
+            },
+            {
+                "name": "baloxavir marboxil",
+                "qid": "Q48333728",
+                "url": "https://en.wikipedia.org/wiki/Baloxavir_marboxil"
+            },
+            {
+                "name": "peramivir",
+                "qid": "Q412734",
+                "url": "https://en.wikipedia.org/wiki/Peramivir"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Orthomyxoviridae",
+                "qid": "Q287246",
+                "url": "https://en.wikipedia.org/wiki/Orthomyxoviridae"
+            }
+        ]
+    }
+}

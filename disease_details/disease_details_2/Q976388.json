@@ -1,0 +1,51 @@
+{
+    "name": "acute leukemia",
+    "qid": "Q976388",
+    "icd_10": "C95.0",
+    "description": "human disease",
+    "aliases": [
+        "Acute Leukemia",
+        "LEUKEMIA, ACUTE, ?X-LINKED",
+        "stem cell leukaemia",
+        "stem cell Leukemia",
+        "stem cell leukemia (disease)"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Acute_leukemia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "leukemia",
+                "qid": "Q29496",
+                "url": "https://en.wikipedia.org/wiki/Leukemia"
+            },
+            {
+                "name": "lymphoblastic leukemia",
+                "qid": "Q18553852"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "cytarabine",
+                "qid": "Q180983",
+                "url": "https://en.wikipedia.org/wiki/Cytarabine"
+            },
+            {
+                "name": "dasatinib monohydrate",
+                "qid": "Q27139135"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ]
+    }
+}

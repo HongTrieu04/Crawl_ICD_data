@@ -1,0 +1,28 @@
+{
+    "name": "schistosomiasis japonica",
+    "qid": "Q56351164",
+    "icd_10": "B65.2",
+    "description": "rare disease",
+    "aliases": [
+        "Japanese schistosomiasis",
+        "schistosomiasis due to Schistosoma japonicum"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "schistosomiasis",
+                "qid": "Q221159",
+                "url": "https://en.wikipedia.org/wiki/Schistosomiasis"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Schistosoma japonicum",
+                "qid": "Q1256989",
+                "url": "https://en.wikipedia.org/wiki/Schistosoma_japonicum"
+            }
+        ]
+    }
+}

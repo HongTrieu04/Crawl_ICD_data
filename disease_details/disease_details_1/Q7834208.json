@@ -1,0 +1,38 @@
+{
+    "name": "transfusion hemosiderosis",
+    "qid": "Q7834208",
+    "icd_10": "T80.8",
+    "description": "medical condition",
+    "aliases": [
+        "Transfusional hemosiderosis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Transfusion_hemosiderosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "blood transfusion",
+                "qid": "Q183605",
+                "url": "https://en.wikipedia.org/wiki/Blood_transfusion"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "hemosiderosis",
+                "qid": "Q2089854",
+                "url": "https://en.wikipedia.org/wiki/Hemosiderosis"
+            },
+            {
+                "name": "transfusion incident",
+                "qid": "Q951255"
+            }
+        ]
+    }
+}

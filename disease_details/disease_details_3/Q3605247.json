@@ -1,0 +1,62 @@
+{
+    "name": "bile duct adenoma",
+    "qid": "Q3605247",
+    "icd_10": "D13.5",
+    "description": "adenoma and biliary tract cancer that results in a small firm white nodule with multiple bile ducts that are located in a fibrous stroma",
+    "aliases": [
+        "Adenoma of Bile Duct",
+        "Adenoma of the Bile Duct",
+        "Bile Duct Adenoma",
+        "bile duct adenoma (morphologic abnormality)",
+        "Cholangioadenoma",
+        "Cholangioma",
+        "CHOLANGIOMA, BENIGN",
+        "Hepatocholangiocellular Adenoma",
+        "Hepatocholangioma"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "biliary tract neoplasm",
+                "qid": "Q18553364"
+            },
+            {
+                "name": "benign neoplasms by histologic type",
+                "qid": "Q18553645"
+            },
+            {
+                "name": "bile duct disease",
+                "qid": "Q18556206"
+            },
+            {
+                "name": "gastrointestinal adenoma",
+                "qid": "Q18556210"
+            },
+            {
+                "name": "liver neoplasm",
+                "qid": "Q18558073"
+            },
+            {
+                "name": "adenoma",
+                "qid": "Q272741",
+                "url": "https://en.wikipedia.org/wiki/Adenoma"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "bile duct",
+                "qid": "Q851111",
+                "url": "https://en.wikipedia.org/wiki/Bile_duct"
+            }
+        ]
+    }
+}

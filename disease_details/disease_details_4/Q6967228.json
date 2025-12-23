@@ -1,0 +1,28 @@
+{
+    "name": "Nasolacrimal duct cyst",
+    "qid": "Q6967228",
+    "icd_10": "H04.6",
+    "description": "medical condition",
+    "aliases": [
+        "Dacryocystocele",
+        "Dacryocele",
+        "Nasolacrimal mucocele"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Nasolacrimal_duct_cyst",
+    "details": {
+        "Anatomical location": [
+            {
+                "name": "nasolacrimal duct",
+                "qid": "Q526920",
+                "url": "https://en.wikipedia.org/wiki/Nasolacrimal_duct"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "lacrimal apparatus disease",
+                "qid": "Q18554657"
+            }
+        ]
+    }
+}

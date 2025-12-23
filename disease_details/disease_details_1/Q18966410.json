@@ -1,0 +1,32 @@
+{
+    "name": "developmental dislocation of joint",
+    "qid": "Q18966410",
+    "icd_10": "M24.8",
+    "description": "Human disease",
+    "aliases": [
+        "Developmental dislocation of ankle and foot joint",
+        "Developmental dislocation of forearm joint",
+        "Developmental dislocation of hand joint",
+        "Developmental dislocation of joint of multiple sites",
+        "Developmental dislocation of joint of pelvic region and thigh",
+        "Developmental dislocation of joint of shoulder region",
+        "Developmental dislocation of lower leg joint",
+        "Developmental dislocation of upper arm joint",
+        "obsolete developmental dislocation of joint"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "congenital limb deformity",
+                "qid": "Q5160441",
+                "url": "https://en.wikipedia.org/wiki/Congenital_limb_deformities"
+            },
+            {
+                "name": "non-syndromic limb malformation",
+                "qid": "Q55785344"
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "name": "hyperheparinemia",
+    "qid": "Q55781014",
+    "icd_10": "D68.3",
+    "description": "human disease",
+    "aliases": [
+        "hyperheparinaemia",
+        "HYPERHEPARINEMIA"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "genetic disease",
+                "qid": "Q200779",
+                "url": "https://en.wikipedia.org/wiki/Genetic_disorder"
+            },
+            {
+                "name": "blood coagulation disease",
+                "qid": "Q890200",
+                "url": "https://en.wikipedia.org/wiki/Coagulopathy"
+            }
+        ]
+    }
+}

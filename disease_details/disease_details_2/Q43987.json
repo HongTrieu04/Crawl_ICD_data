@@ -1,0 +1,78 @@
+{
+    "name": "avian influenza",
+    "qid": "Q43987",
+    "icd_10": "J09.00",
+    "description": "influenza caused by viruses adapted to birds",
+    "aliases": [
+        "bird flu",
+        "avian flu",
+        "HPAI",
+        "influenza in birds"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Influenza%20A%20-%20late%20passage.jpg",
+    "url": "https://en.wikipedia.org/wiki/Avian_influenza",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "influenza",
+                "qid": "Q2840",
+                "url": "https://en.wikipedia.org/wiki/Influenza"
+            },
+            {
+                "name": "viral infectious disease",
+                "qid": "Q1928978",
+                "url": "https://en.wikipedia.org/wiki/Viral_disease"
+            },
+            {
+                "name": "lung disease",
+                "qid": "Q3392853"
+            },
+            {
+                "name": "bird disease",
+                "qid": "Q12040649"
+            },
+            {
+                "name": "Orthomyxoviridae infectious disease",
+                "qid": "Q18975918"
+            },
+            {
+                "name": "pandemic and epidemic-prone diseases",
+                "qid": "Q131345497"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "pneumonia",
+                "qid": "Q12192",
+                "url": "https://en.wikipedia.org/wiki/Pneumonia"
+            },
+            {
+                "name": "vomiting",
+                "qid": "Q127076",
+                "url": "https://en.wikipedia.org/wiki/Vomiting"
+            },
+            {
+                "name": "nausea",
+                "qid": "Q186889",
+                "url": "https://en.wikipedia.org/wiki/Nausea"
+            },
+            {
+                "name": "diarrhea",
+                "qid": "Q40878",
+                "url": "https://en.wikipedia.org/wiki/Diarrhea"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ]
+    }
+}

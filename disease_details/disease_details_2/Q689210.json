@@ -1,0 +1,31 @@
+{
+    "name": "Le Fort fracture of skull",
+    "qid": "Q689210",
+    "icd_10": "S02.4",
+    "description": "medical condition",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/LeFort109M.jpg",
+    "url": "https://en.wikipedia.org/wiki/Le_Fort_fracture_of_skull",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "skull fracture",
+                "qid": "Q1971607",
+                "url": "https://en.wikipedia.org/wiki/Skull_fracture"
+            },
+            {
+                "name": "facial trauma",
+                "qid": "Q3632931",
+                "url": "https://en.wikipedia.org/wiki/Facial_trauma"
+            },
+            {
+                "name": "midface fracture",
+                "qid": "Q1474674"
+            },
+            {
+                "name": "maxillary fracture",
+                "qid": "Q54944911"
+            }
+        ]
+    }
+}

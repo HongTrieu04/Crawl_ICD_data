@@ -1,0 +1,65 @@
+{
+    "name": "cutaneous T cell lymphoma",
+    "qid": "Q5196687",
+    "icd_10": "C84.8",
+    "description": "non-Hodgkin's lymphoma that has material basis in a mutation of T cells",
+    "aliases": [
+        "CTCL",
+        "Cutaneous T Cell Lymphoma",
+        "cutaneous T-cell lymphoma",
+        "Cutaneous T-Cell Non-Hodgkin Lymphoma",
+        "Cutaneous T-Cell Non-Hodgkin's Lymphoma",
+        "Lymphoma, T-Cell, Cutaneous",
+        "PCTCL",
+        "Primary Cutaneous T-Cell Non-Hodgkin Lymphoma",
+        "Primary Cutaneous T-Cell Non-Hodgkin's Lymphoma",
+        "Skin T-Cell Non-Hodgkin's Lymphoma",
+        "T-Cell Non-Hodgkin's Lymphoma of Skin",
+        "T-Cell Non-Hodgkin's Lymphoma of the Skin"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Cutaneous_T-cell_lymphoma",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "peripheral T-cell lymphoma",
+                "qid": "Q7168693",
+                "url": "https://en.wikipedia.org/wiki/Peripheral_T-cell_lymphoma"
+            },
+            {
+                "name": "genetic disease",
+                "qid": "Q200779",
+                "url": "https://en.wikipedia.org/wiki/Genetic_disorder"
+            },
+            {
+                "name": "cutaneous lymphoma",
+                "qid": "Q1794643",
+                "url": "https://en.wikipedia.org/wiki/Cutaneous_lymphoma"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "methoxsalen",
+                "qid": "Q408570",
+                "url": "https://en.wikipedia.org/wiki/Methoxsalen"
+            },
+            {
+                "name": "bexarotene",
+                "qid": "Q418192",
+                "url": "https://en.wikipedia.org/wiki/Bexarotene"
+            }
+        ]
+    }
+}

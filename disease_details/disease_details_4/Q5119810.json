@@ -1,0 +1,27 @@
+{
+    "name": "Cigar cell",
+    "qid": "Q5119810",
+    "icd_10": "D58.1",
+    "description": "medical condition",
+    "aliases": [
+        "pencil cell"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Cigar_cell",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "Elliptocyte",
+                "qid": "Q3358860",
+                "url": "https://en.wikipedia.org/wiki/Elliptocyte"
+            }
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "group B streptococcal pneumonia",
+    "qid": "Q18966998",
+    "icd_10": "J15.3",
+    "description": "Human disease",
+    "aliases": [
+        "Group B",
+        "Group B streptococcal pneumonia (disorder)",
+        "Pneumonia due to Beta-haemolytic streptococcus",
+        "Pneumonia due to Streptococcus Group B"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "Group B streptococcal infection",
+                "qid": "Q3500350",
+                "url": "https://en.wikipedia.org/wiki/Group_B_streptococcal_infection"
+            },
+            {
+                "name": "streptococcal pneumonia",
+                "qid": "Q18966412"
+            }
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "name": "aspirin-exacerbated respiratory disease",
+    "qid": "Q2039267",
+    "icd_10": "J45.8",
+    "description": "human disease",
+    "aliases": [
+        "Asa Triad",
+        "aspirin-induced asthma",
+        "Asthma and Nasal Polyps",
+        "Asthma, Aspirin-Induced, Susceptibility to",
+        "asthma, nasal polyps, and aspirin intolerance",
+        "ASTHMA, NASAL POLYPS, AND ASPIRIN INTOLERANCE",
+        "Samter’s triad"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Aspirin-exacerbated_respiratory_disease",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "respiratory disease",
+                "qid": "Q3286546",
+                "url": "https://en.wikipedia.org/wiki/Respiratory_disease"
+            },
+            {
+                "name": "salicylate sensitivity",
+                "qid": "Q7404457",
+                "url": "https://en.wikipedia.org/wiki/Salicylate_sensitivity"
+            },
+            {
+                "name": "genetic disease",
+                "qid": "Q200779",
+                "url": "https://en.wikipedia.org/wiki/Genetic_disorder"
+            },
+            {
+                "name": "asthma",
+                "qid": "Q35869",
+                "url": "https://en.wikipedia.org/wiki/Asthma"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ]
+    }
+}

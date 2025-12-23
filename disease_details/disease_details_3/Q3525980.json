@@ -1,0 +1,27 @@
+{
+    "name": "Paris-Trousseau syndrome",
+    "qid": "Q3525980",
+    "icd_10": "D69.4",
+    "description": "Paris-Trousseau thrombocytopenia (TCPT) is a contiguous gene syndrome characterized by mild bleeding tendency, variable thrombocytopenia (THC), dysmorphic facies, abnormal giant alpha-granules in platelets and dysmegakaryopoiesis",
+    "aliases": [
+        "TCPT",
+        "Chromosome 11Q23 Deletion Syndrome",
+        "Thrombocytopenia Paris-Trousseau type",
+        "THROMBOCYTOPENIA, PARIS-TROUSSEAU TYPE",
+        "THROMBOCYTOPENIA, PARIS-TROUSSEAU TYPE; TCPT"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Paris-Trousseau_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "partial deletion of the long arm of chromosome 11",
+                "qid": "Q55786613"
+            },
+            {
+                "name": "alpha granule disease",
+                "qid": "Q55789132"
+            }
+        ]
+    }
+}

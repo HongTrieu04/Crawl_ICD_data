@@ -1,0 +1,38 @@
+{
+    "name": "chrysiasis",
+    "qid": "Q5114603",
+    "icd_10": "L81.8",
+    "description": "dermatological condition induced by the parenteral administration of gold salts",
+    "aliases": [
+        "aurochromoderma"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Chrysiasis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "metal poisoning",
+                "qid": "Q4215775",
+                "url": "https://en.wikipedia.org/wiki/Metal_toxicity"
+            },
+            {
+                "name": "abnormal skin coloration",
+                "qid": "Q47085690"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "gold salts",
+                "qid": "Q2736147",
+                "url": "https://en.wikipedia.org/wiki/Gold-containing_drugs"
+            }
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name": "vocal cord paresis",
+    "qid": "Q684045",
+    "icd_10": "J38.0",
+    "description": "injury to one or both recurrent laryngeal nerves",
+    "aliases": [
+        "recurrent laryngeal nerve paralysis",
+        "vocal cord paralysis",
+        "vocal fold paralysis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Vocal_cord_paresis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "otolaryngology",
+                "qid": "Q189553",
+                "url": "https://en.wikipedia.org/wiki/Otorhinolaryngology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "laryngeal disease",
+                "qid": "Q18557753"
+            }
+        ]
+    }
+}

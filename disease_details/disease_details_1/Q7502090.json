@@ -1,0 +1,30 @@
+{
+    "name": "short stature",
+    "qid": "Q7502090",
+    "icd_10": "E34.3",
+    "description": "height of a human being which is below typical",
+    "aliases": [
+        "shortness"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Short_stature",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "short",
+                "qid": "Q16042695"
+            },
+            {
+                "name": "lack of expected normal physiological development in childhood",
+                "qid": "Q102187399"
+            }
+        ]
+    }
+}

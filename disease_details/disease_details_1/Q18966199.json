@@ -1,0 +1,22 @@
+{
+    "name": "visual cortex disorder due to neoplasm",
+    "qid": "Q18966199",
+    "icd_10": "H47.63",
+    "description": "Human disease",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "brain tumor",
+                "qid": "Q233309",
+                "url": "https://en.wikipedia.org/wiki/Brain_tumor"
+            },
+            {
+                "name": "visual cortex disease",
+                "qid": "Q18556943"
+            }
+        ]
+    }
+}

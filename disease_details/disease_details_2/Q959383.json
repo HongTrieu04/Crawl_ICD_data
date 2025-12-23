@@ -1,0 +1,32 @@
+{
+    "name": "solar urticaria",
+    "qid": "Q959383",
+    "icd_10": "L56.3",
+    "description": "skin disease",
+    "aliases": [
+        "sunlight urticaria"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Solar_urticaria",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "urticaria",
+                "qid": "Q187440",
+                "url": "https://en.wikipedia.org/wiki/Hives"
+            },
+            {
+                "name": "photodermatosis",
+                "qid": "Q2986815",
+                "url": "https://en.wikipedia.org/wiki/Photodermatosis"
+            }
+        ]
+    }
+}

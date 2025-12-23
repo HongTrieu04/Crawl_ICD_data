@@ -1,0 +1,36 @@
+{
+    "name": "generalized pustular psoriasis",
+    "qid": "Q5532501",
+    "icd_10": "L40.1",
+    "description": "human disease",
+    "aliases": [
+        "GPP",
+        "PSORS14",
+        "Palmoplantar Pustulosis",
+        "Acrodermatitis Continua of Hallopeau",
+        "Generalized Pustular Psoriasis",
+        "Interleukin 36 Receptor Antagonist Deficiency",
+        "psoriasis 14, pustular",
+        "PSORIASIS 14, PUSTULAR",
+        "PSORIASIS 14, PUSTULAR; PSORS14",
+        "Psorp"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Generalized_pustular_psoriasis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "Pustular psoriasis",
+                "qid": "Q30314007",
+                "url": "https://en.wikipedia.org/wiki/Pustular_psoriasis"
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "gouty nephropathy",
+    "qid": "Q19000629",
+    "icd_10": "M10.3",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete gouty nephropathy"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "gout attack",
+                "qid": "Q6081223",
+                "url": "https://en.wikipedia.org/wiki/Podagra"
+            }
+        ]
+    }
+}

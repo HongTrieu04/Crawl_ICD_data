@@ -1,0 +1,58 @@
+{
+    "name": "multiple system atrophy",
+    "qid": "Q1541975",
+    "icd_10": "G23",
+    "description": "neurodegenerative disorder characterized by autonomic failure, parkinsonism, cerebellar impairment and corticospinal signs, with a median survival of 6-9 years",
+    "aliases": [
+        "MSA",
+        "Autonomic Failure, Pure",
+        "Hypotension, Orthostatic",
+        "MSA1",
+        "Msa1, Susceptibility to",
+        "Multiple system atrophy",
+        "Multiple system atrophy (disorder)",
+        "MULTIPLE SYSTEM ATROPHY 1, SUSCEPTIBILITY TO",
+        "MULTIPLE SYSTEM ATROPHY 1, SUSCEPTIBILITY TO; MSA1",
+        "Multiple system atrophy; MSA",
+        "Multisystem atrophy",
+        "Oligopontocerebellar atrophy",
+        "Shy-Drager syndrome",
+        "Straitonigral degeneration",
+        "susceptibility to multiple system atrophy 1"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Multiple_system_atrophy",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "neurodegeneration",
+                "qid": "Q1755122",
+                "url": "https://en.wikipedia.org/wiki/Neurodegenerative_disease"
+            },
+            {
+                "name": "synucleinopathy",
+                "qid": "Q2376264",
+                "url": "https://en.wikipedia.org/wiki/Synucleinopathy"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "droxidopa",
+                "qid": "Q907853",
+                "url": "https://en.wikipedia.org/wiki/Droxidopa"
+            }
+        ]
+    }
+}

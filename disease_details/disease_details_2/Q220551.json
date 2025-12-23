@@ -1,0 +1,143 @@
+{
+    "name": "diabetes insipidus",
+    "qid": "Q220551",
+    "icd_10": "N25.1",
+    "description": "human disease, a condition characterized by large amounts of dilute urine and increased thirst",
+    "aliases": [
+        "DI",
+        "ADH disorder",
+        "Arginine vasopressin disorder",
+        "AVP disorder",
+        "diabetes insipidus syndrome",
+        "insipidus diabetes"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Diabetes_insipidus",
+    "details": {
+        "Possible treatment": [
+            {
+                "name": "medication",
+                "qid": "Q12140",
+                "url": "https://en.wikipedia.org/wiki/Medication"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "infection",
+                "qid": "Q166231",
+                "url": "https://en.wikipedia.org/wiki/Infection"
+            },
+            {
+                "name": "tumor",
+                "qid": "Q133212",
+                "url": "https://en.wikipedia.org/wiki/Tumor"
+            },
+            {
+                "name": "autoimmunity",
+                "qid": "Q192360",
+                "url": "https://en.wikipedia.org/wiki/Autoimmunity"
+            },
+            {
+                "name": "cranial trauma",
+                "qid": "Q2920572",
+                "url": "https://en.wikipedia.org/wiki/Head_injury"
+            },
+            {
+                "name": "PSIS",
+                "qid": "Q56277527",
+                "url": "https://en.wikipedia.org/wiki/Pituitary_stalk_interruption_syndrome"
+            },
+            {
+                "name": "idiopathy",
+                "qid": "Q594841",
+                "url": "https://en.wikipedia.org/wiki/Idiopathic_disease"
+            },
+            {
+                "name": "mutation",
+                "qid": "Q610425",
+                "url": "https://en.wikipedia.org/wiki/Mutation_(evolutionary_algorithm)"
+            },
+            {
+                "name": "hypopituitarism",
+                "qid": "Q922411",
+                "url": "https://en.wikipedia.org/wiki/Hypopituitarism"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            },
+            {
+                "name": "nephrology",
+                "qid": "Q177635",
+                "url": "https://en.wikipedia.org/wiki/Nephrology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "arginine vasopressin",
+                "qid": "Q183011",
+                "url": "https://en.wikipedia.org/wiki/Vasopressin_(medication)"
+            },
+            {
+                "name": "desmopressin",
+                "qid": "Q241006",
+                "url": "https://en.wikipedia.org/wiki/Desmopressin"
+            },
+            {
+                "name": "thiazide",
+                "qid": "Q665843",
+                "url": "https://en.wikipedia.org/wiki/Thiazide"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "genetic disease",
+                "qid": "Q200779",
+                "url": "https://en.wikipedia.org/wiki/Genetic_disorder"
+            },
+            {
+                "name": "endocrine system disease",
+                "qid": "Q2661443",
+                "url": "https://en.wikipedia.org/wiki/Endocrine_disease"
+            },
+            {
+                "name": "idiopathy",
+                "qid": "Q594841",
+                "url": "https://en.wikipedia.org/wiki/Idiopathic_disease"
+            },
+            {
+                "name": "kidney disease",
+                "qid": "Q1054718",
+                "url": "https://en.wikipedia.org/wiki/Kidney_disease"
+            },
+            {
+                "name": "autoimmune disease of endocrine system",
+                "qid": "Q18553586"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "nocturia",
+                "qid": "Q1426443",
+                "url": "https://en.wikipedia.org/wiki/Nocturia"
+            },
+            {
+                "name": "polydipsia",
+                "qid": "Q635195",
+                "url": "https://en.wikipedia.org/wiki/Polydipsia"
+            },
+            {
+                "name": "polyuria",
+                "qid": "Q1124286",
+                "url": "https://en.wikipedia.org/wiki/Polyuria"
+            },
+            {
+                "name": "hyposthenuria",
+                "qid": "Q1641429"
+            }
+        ]
+    }
+}

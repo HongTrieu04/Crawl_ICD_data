@@ -1,0 +1,37 @@
+{
+    "name": "eye burn",
+    "qid": "Q4331896",
+    "icd_10": "T26.4",
+    "description": "medical condition",
+    "aliases": [
+        "eye burns"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "eye injury",
+                "qid": "Q2681162",
+                "url": "https://en.wikipedia.org/wiki/Eye_injury"
+            },
+            {
+                "name": "symptom",
+                "qid": "Q169872",
+                "url": "https://en.wikipedia.org/wiki/Symptom"
+            },
+            {
+                "name": "burn",
+                "qid": "Q170518",
+                "url": "https://en.wikipedia.org/wiki/Burn"
+            }
+        ]
+    }
+}

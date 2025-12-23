@@ -1,0 +1,31 @@
+{
+    "name": "dietary counselling",
+    "qid": "Q136479326",
+    "icd_10": "Z71.3",
+    "description": "patient guidance for a healthy diet",
+    "aliases": [
+        "diet counseling",
+        "diet counselling",
+        "dietary advise",
+        "dietary counseling",
+        "nutrition counseling",
+        "nutrition couselling",
+        "nutrition guidance"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "counseling",
+                "qid": "Q4390239",
+                "url": "https://en.wikipedia.org/wiki/Counseling"
+            },
+            {
+                "name": "physiological condition",
+                "qid": "Q7189713",
+                "url": "https://en.wikipedia.org/wiki/Physiological_condition"
+            }
+        ]
+    }
+}

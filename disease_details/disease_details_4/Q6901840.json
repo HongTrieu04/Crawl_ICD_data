@@ -1,0 +1,25 @@
+{
+    "name": "monoplegia",
+    "qid": "Q6901840",
+    "icd_10": "G83.3",
+    "description": "paralysis of a single limb",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Monoplegia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "paralysis",
+                "qid": "Q107231",
+                "url": "https://en.wikipedia.org/wiki/Paralysis"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ]
+    }
+}

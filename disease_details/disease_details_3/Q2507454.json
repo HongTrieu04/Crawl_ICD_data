@@ -1,0 +1,27 @@
+{
+    "name": "adrenal insufficiency",
+    "qid": "Q2507454",
+    "icd_10": "E27.1",
+    "description": "human disease",
+    "aliases": [
+        "adrenal gland hypofunction"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gl%C3%A1ndula%20suprarrenal.png",
+    "url": "https://en.wikipedia.org/wiki/Adrenal_insufficiency",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "endocrine system disease",
+                "qid": "Q2661443",
+                "url": "https://en.wikipedia.org/wiki/Endocrine_disease"
+            }
+        ]
+    }
+}

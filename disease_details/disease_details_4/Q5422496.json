@@ -1,0 +1,29 @@
+{
+    "name": "Exudative hyponychial dermatitis",
+    "qid": "Q5422496",
+    "icd_10": "Y43",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Exudative_hyponychial_dermatitis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "Drug-induced nail changes",
+                "qid": "Q5308814",
+                "url": "https://en.wikipedia.org/wiki/Drug-induced_nail_changes"
+            },
+            {
+                "name": "adverse effects of chemotherapy",
+                "qid": "Q20921177"
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "name": "latent schizophrenia",
+    "qid": "Q18966343",
+    "icd_10": "F21.1",
+    "description": "subtype of schizophrenia (characterized by clear symptoms of schizophrenia but no history of a psychotic schizophrenic episode)",
+    "aliases": [
+        "latent schizophrenia (disorder)",
+        "latent schizophrenia NOS (disorder)",
+        "latent schizophrenia, unspecified state",
+        "latent schizophrenic reaction",
+        "obsolete latent schizophrenia",
+        "schizophrenia, latent type",
+        "unspecified latent schizophrenia (disorder)"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "schizophrenia",
+                "qid": "Q41112",
+                "url": "https://en.wikipedia.org/wiki/Schizophrenia"
+            }
+        ]
+    }
+}

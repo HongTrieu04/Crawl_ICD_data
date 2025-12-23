@@ -1,0 +1,31 @@
+{
+    "name": "Gottron's sign",
+    "qid": "Q16583321",
+    "icd_10": "L94.4",
+    "description": "medical sign",
+    "aliases": [
+        "Gottron's papules"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Gottron%27s_sign",
+    "details": {
+        "Cause": [
+            {
+                "name": "dermatomyositis",
+                "qid": "Q681160",
+                "url": "https://en.wikipedia.org/wiki/Dermatomyositis"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "connective tissue disease",
+                "qid": "Q1779300",
+                "url": "https://en.wikipedia.org/wiki/Connective_tissue_disease"
+            },
+            {
+                "name": "cutaneous eruption",
+                "qid": "Q8777453"
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "name": "complications of pregnancy",
+    "qid": "Q2916477",
+    "icd_10": "O26.9",
+    "description": "medical problems caused by pregnancy in the mother",
+    "aliases": [
+        "complications mainly related to pregnancy",
+        "obsolete complications mainly related to pregnancy",
+        "pregnancy complications"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Complications_of_pregnancy",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "complication",
+                "qid": "Q1346149",
+                "url": "https://en.wikipedia.org/wiki/Complication_(medicine)"
+            },
+            {
+                "name": "complication of pregnancy, childbirth and the puerperium",
+                "qid": "Q18975815"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "obstetrics",
+                "qid": "Q5284418",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics"
+            }
+        ]
+    }
+}

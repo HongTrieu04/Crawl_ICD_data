@@ -1,0 +1,35 @@
+{
+    "name": "abdominal trauma:",
+    "qid": "Q308292",
+    "icd_10": "S39",
+    "description": "injury to the abdomen",
+    "aliases": [
+        "abdominal injuries",
+        "abdominal injury"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gray1224.png",
+    "url": "https://en.wikipedia.org/wiki/Abdominal_trauma",
+    "details": {
+        "Anatomical location": [
+            {
+                "name": "abdomen",
+                "qid": "Q9597",
+                "url": "https://en.wikipedia.org/wiki/Abdomen"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "injury in humans",
+                "qid": "Q193078",
+                "url": "https://en.wikipedia.org/wiki/Injury_in_humans"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ]
+    }
+}

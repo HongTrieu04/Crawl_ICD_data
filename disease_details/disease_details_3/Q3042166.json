@@ -1,0 +1,27 @@
+{
+    "name": "bullous emphysema",
+    "qid": "Q3042166",
+    "icd_10": "J43.9",
+    "description": "disease",
+    "aliases": [
+        "Bullous lung emphysema"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "pulmonary emphysema",
+                "qid": "Q188605",
+                "url": "https://en.wikipedia.org/wiki/Emphysema"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ]
+    }
+}

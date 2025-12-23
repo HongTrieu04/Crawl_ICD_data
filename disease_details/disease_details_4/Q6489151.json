@@ -1,0 +1,67 @@
+{
+    "name": "T-cell large granular lymphocyte leukemia",
+    "qid": "Q6489151",
+    "icd_10": "C91.7",
+    "description": "chronic lymphocytic leukemia that exhibits an unexplained, chronic (> 6 months) elevation in large granular lymphocytes (LGLs) in the peripheral blood",
+    "aliases": [
+        "Large Cell Granular Lymphogenous Leukemia",
+        "Large Cell Granular Lymphoid Leukemia",
+        "Large granular lymphocytic leukemia",
+        "Large Granular Lymphocytosis",
+        "Leukemia, Large Granular Lymphocytic",
+        "LEUKEMIA, LARGE GRANULAR LYMPHOCYTIC, MALIGNANT",
+        "LGLL",
+        "Proliferation of large granular lymphocytes",
+        "T Gamma Lymphoproliferative Disorder",
+        "T-cell large gran. lymph. leuk.",
+        "T-Cell Large Granular Lymphocyte Leukemia",
+        "T-Cell Large Granular Lymphocytic Leukemia",
+        "T-cell LGL leukemia",
+        "T-Gamma Lymphoproliferative Disorder",
+        "T-LGL",
+        "T-LGL leukemia",
+        "Tgamma Large Granular Lymphocyte Leukemia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Large_granular_lymphocytic_leukemia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "chronic lymphocytic leukemia",
+                "qid": "Q1088156",
+                "url": "https://en.wikipedia.org/wiki/Chronic_lymphocytic_leukemia"
+            },
+            {
+                "name": "T-cell leukemia",
+                "qid": "Q7667895",
+                "url": "https://en.wikipedia.org/wiki/T-cell_leukemia"
+            },
+            {
+                "name": "acquired neutropenia",
+                "qid": "Q55785744"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "immunology",
+                "qid": "Q101929",
+                "url": "https://en.wikipedia.org/wiki/Immunology"
+            },
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            },
+            {
+                "name": "angiology",
+                "qid": "Q539690",
+                "url": "https://en.wikipedia.org/wiki/Angiology"
+            }
+        ]
+    }
+}

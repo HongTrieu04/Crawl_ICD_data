@@ -1,0 +1,50 @@
+{
+    "name": "bladder tuberculosis",
+    "qid": "Q18557641",
+    "icd_10": "N33.0",
+    "description": "urogenital tuberculosis that is located in urinary bladder, which results in fibrosis of bladder wall muscles",
+    "aliases": [
+        "bladder tuberculous",
+        "Tuberculosis of bladder",
+        "Tuberculosis of bladder (disorder)",
+        "Tuberculosis of bladder, unspecified examination",
+        "Tuberculous cystitis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "bladder disease",
+                "qid": "Q6066379",
+                "url": "https://en.wikipedia.org/wiki/Urinary_bladder_disease"
+            },
+            {
+                "name": "urinary tuberculosis",
+                "qid": "Q19001376"
+            },
+            {
+                "name": "rare genetic urogenital disease",
+                "qid": "Q55785523"
+            },
+            {
+                "name": "male infertility due to obstructive azoospermia of genetic origin",
+                "qid": "Q55788064"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "urinary bladder",
+                "qid": "Q9382",
+                "url": "https://en.wikipedia.org/wiki/Bladder"
+            }
+        ]
+    }
+}

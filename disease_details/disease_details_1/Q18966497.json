@@ -1,0 +1,19 @@
+{
+    "name": "choroidal rupture",
+    "qid": "Q18966497",
+    "icd_10": "H31.3",
+    "description": "Human disease",
+    "aliases": [
+        "Choroidal rupture (disorder)"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "choroid disease",
+                "qid": "Q18554701"
+            }
+        ]
+    }
+}

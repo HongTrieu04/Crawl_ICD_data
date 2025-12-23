@@ -1,0 +1,30 @@
+{
+    "name": "transport accident",
+    "qid": "Q11822042",
+    "icd_10": "V99",
+    "description": "accident in transportation",
+    "aliases": [
+        "traffic accident",
+        "catastrophe on transport",
+        "traffic incident",
+        "transport catastrophe",
+        "transport incident",
+        "transportation accident",
+        "vehicle accident"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Car%20Crash%207-1-18%202245%20%2842450608354%29.jpg",
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "accident",
+                "qid": "Q171558",
+                "url": "https://en.wikipedia.org/wiki/Accident"
+            },
+            {
+                "name": "travel hazard",
+                "qid": "Q43339602"
+            }
+        ]
+    }
+}

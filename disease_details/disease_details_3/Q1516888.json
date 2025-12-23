@@ -1,0 +1,48 @@
+{
+    "name": "inclusion-cell disease",
+    "qid": "Q1516888",
+    "icd_10": "E77.0",
+    "description": "Human disease",
+    "aliases": [
+        "I-cell disease",
+        "mcolipidosis II alpha/beta",
+        "Ml 2 Alpha/Beta",
+        "ML II",
+        "Mucolipidosis 2",
+        "mucolipidosis II",
+        "MUCOLIPIDOSIS II ALPHA/BETA",
+        "Mucolipidosis Type II",
+        "N-acetylglucosamine 1-phosphotransferase deficiency"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Inclusion-cell_disease",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "mucolipidosis",
+                "qid": "Q1952032",
+                "url": "https://en.wikipedia.org/wiki/Mucolipidosis"
+            },
+            {
+                "name": "rare genetic developmental defect during embryogenesis",
+                "qid": "Q55785846"
+            },
+            {
+                "name": "lysosomal storage disease with skeletal involvement",
+                "qid": "Q55788818"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ]
+    }
+}

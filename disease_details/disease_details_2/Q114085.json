@@ -1,0 +1,145 @@
+{
+    "name": "rhinitis",
+    "qid": "Q114085",
+    "icd_10": "J30",
+    "description": "irritation and inflammation of the mucous membrane inside the nose",
+    "aliases": [
+        "runny nose",
+        "nasal cavity mucosa inflammation",
+        "nasal cavity mucosaitis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/H%27Mong%20babygirl%20-%20m%C5%A9%20m%C3%A8o%20nh%E1%BB%8F.jpg",
+    "url": "https://en.wikipedia.org/wiki/Rhinitis",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            },
+            {
+                "name": "sneeze",
+                "qid": "Q35830",
+                "url": "https://en.wikipedia.org/wiki/Sneeze"
+            },
+            {
+                "name": "runny nose",
+                "qid": "Q1115038",
+                "url": "https://en.wikipedia.org/wiki/Rhinorrhea"
+            },
+            {
+                "name": "nasal congestion",
+                "qid": "Q3245488",
+                "url": "https://en.wikipedia.org/wiki/Nasal_congestion"
+            },
+            {
+                "name": "nasal irritation",
+                "qid": "Q21118859"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "bacterial infectious disease",
+                "qid": "Q727028",
+                "url": "https://en.wikipedia.org/wiki/Bacterial_disease"
+            },
+            {
+                "name": "tracheitis",
+                "qid": "Q946278",
+                "url": "https://en.wikipedia.org/wiki/Tracheitis"
+            },
+            {
+                "name": "infectious disease of the nervous system",
+                "qid": "Q10336461"
+            },
+            {
+                "name": "nasal cavity disease",
+                "qid": "Q18555020"
+            },
+            {
+                "name": "rare respiratory disease",
+                "qid": "Q55789042"
+            },
+            {
+                "name": "nose symptom",
+                "qid": "Q102186674"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "(−)-ephedrine",
+                "qid": "Q219626",
+                "url": "https://en.wikipedia.org/wiki/Ephedrine"
+            },
+            {
+                "name": "hyoscyamine",
+                "qid": "Q413762",
+                "url": "https://en.wikipedia.org/wiki/Hyoscyamine"
+            },
+            {
+                "name": "fexofenadine",
+                "qid": "Q415122",
+                "url": "https://en.wikipedia.org/wiki/Fexofenadine"
+            },
+            {
+                "name": "naphazoline",
+                "qid": "Q415433",
+                "url": "https://en.wikipedia.org/wiki/Naphazoline"
+            },
+            {
+                "name": "montelukast",
+                "qid": "Q417767",
+                "url": "https://en.wikipedia.org/wiki/Montelukast"
+            },
+            {
+                "name": "ephedra",
+                "qid": "Q13530468",
+                "url": "https://en.wikipedia.org/wiki/Ephedra_(medicine)"
+            },
+            {
+                "name": "mometasone",
+                "qid": "Q28208887",
+                "url": "https://en.wikipedia.org/wiki/Mometasone_(prodrug)"
+            },
+            {
+                "name": "oxymetazoline",
+                "qid": "Q417813",
+                "url": "https://en.wikipedia.org/wiki/Oxymetazoline"
+            },
+            {
+                "name": "fluticasone",
+                "qid": "Q1002165",
+                "url": "https://en.wikipedia.org/wiki/Fluticasone"
+            },
+            {
+                "name": "(+)-norephedrin",
+                "qid": "Q413147"
+            },
+            {
+                "name": "azelastine / fluticasone",
+                "qid": "Q48566767"
+            },
+            {
+                "name": "Q97097281",
+                "qid": "Q97097281"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "allergology",
+                "qid": "Q1046686",
+                "url": "https://en.wikipedia.org/wiki/Allergology"
+            },
+            {
+                "name": "rhinology",
+                "qid": "Q7320661",
+                "url": "https://en.wikipedia.org/wiki/Rhinology"
+            }
+        ]
+    }
+}

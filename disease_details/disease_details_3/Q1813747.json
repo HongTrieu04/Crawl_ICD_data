@@ -1,0 +1,162 @@
+{
+    "name": "phlebotomus fever",
+    "qid": "Q1813747",
+    "icd_10": "A93.1",
+    "description": "human disease",
+    "aliases": [
+        "pappataci fever",
+        "Sandfly fever",
+        "Sandfly-borne arboviral fever",
+        "Sandfly-borne bunyavirus fever",
+        "Sandfly-borne bunyavirus fever (disorder)",
+        "Sandfly-borne phleboviral disease"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pappataci_fever",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            },
+            {
+                "name": "conjunctivitis",
+                "qid": "Q167844",
+                "url": "https://en.wikipedia.org/wiki/Conjunctivitis"
+            },
+            {
+                "name": "tachycardia",
+                "qid": "Q209583",
+                "url": "https://en.wikipedia.org/wiki/Tachycardia"
+            },
+            {
+                "name": "irritability",
+                "qid": "Q29299",
+                "url": "https://en.wikipedia.org/wiki/Irritability"
+            },
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "bradycardia",
+                "qid": "Q217111",
+                "url": "https://en.wikipedia.org/wiki/Bradycardia"
+            },
+            {
+                "name": "hypotension",
+                "qid": "Q275419",
+                "url": "https://en.wikipedia.org/wiki/Hypotension"
+            },
+            {
+                "name": "chills",
+                "qid": "Q2260058",
+                "url": "https://en.wikipedia.org/wiki/Chills"
+            },
+            {
+                "name": "photophobia",
+                "qid": "Q281289",
+                "url": "https://en.wikipedia.org/wiki/Photophobia"
+            },
+            {
+                "name": "myalgia",
+                "qid": "Q474959",
+                "url": "https://en.wikipedia.org/wiki/Myalgia"
+            },
+            {
+                "name": "asthenia",
+                "qid": "Q633403",
+                "url": "https://en.wikipedia.org/wiki/Asthenia"
+            },
+            {
+                "name": "rash",
+                "qid": "Q653197",
+                "url": "https://en.wikipedia.org/wiki/Rash"
+            },
+            {
+                "name": "arthralgia",
+                "qid": "Q683498",
+                "url": "https://en.wikipedia.org/wiki/Arthralgia"
+            },
+            {
+                "name": "insomnia",
+                "qid": "Q1869874",
+                "url": "https://en.wikipedia.org/wiki/Insomnia"
+            },
+            {
+                "name": "meningism signs",
+                "qid": "Q12122651"
+            },
+            {
+                "name": "primary affect",
+                "qid": "Q24084959"
+            },
+            {
+                "name": "hood symptom",
+                "qid": "Q56027188"
+            },
+            {
+                "name": "Taussig symptoms",
+                "qid": "Q56036789"
+            },
+            {
+                "name": "Pick symptom",
+                "qid": "Q56036868"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "diuretic",
+                "qid": "Q200656",
+                "url": "https://en.wikipedia.org/wiki/Diuretic"
+            },
+            {
+                "name": "symptomatic treatment",
+                "qid": "Q621558",
+                "url": "https://en.wikipedia.org/wiki/Symptomatic_treatment"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "mosquito-borne disease",
+                "qid": "Q6916469",
+                "url": "https://en.wikipedia.org/wiki/Mosquito-borne_disease"
+            },
+            {
+                "name": "viral infectious disease",
+                "qid": "Q1928978",
+                "url": "https://en.wikipedia.org/wiki/Viral_disease"
+            },
+            {
+                "name": "Bunyaviridae infectious disease",
+                "qid": "Q18967528"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Toscana virus",
+                "qid": "Q7827576",
+                "url": "https://en.wikipedia.org/wiki/Toscana_virus"
+            },
+            {
+                "name": "sandfly fever Naples virus",
+                "qid": "Q16992398",
+                "url": "https://en.wikipedia.org/wiki/Sandfly_fever_Naples_virus"
+            },
+            {
+                "name": "Sandfly fever Sicilian virus",
+                "qid": "Q29887743",
+                "url": "https://en.wikipedia.org/wiki/Sandfly_fever_Sicilian_virus"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "name": "syndrome of infant of a diabetic mother",
+    "qid": "Q18967772",
+    "icd_10": "P70.1",
+    "description": "Human disease",
+    "aliases": [
+        "Infant of a diabetic mother syndrome",
+        "obsolete syndrome of infant of a diabetic mother",
+        "syndrome of infant of diabetic mother (disorder)"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "diabetes mellitus and pregnancy",
+                "qid": "Q2777805",
+                "url": "https://en.wikipedia.org/wiki/Diabetes_and_pregnancy"
+            }
+        ]
+    }
+}

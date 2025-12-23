@@ -1,0 +1,42 @@
+{
+    "name": "medullary sponge kidney",
+    "qid": "Q119280",
+    "icd_10": "Q61.5",
+    "description": "congenital disorder of urinary system",
+    "aliases": [
+        "MSK",
+        "Cacchi Ricci disease",
+        "Cacchi-Ricci disease",
+        "Cacchi-Ricci syndrome",
+        "Cystic dilatation of renal collecting tubes",
+        "Medullary Sponge kidney",
+        "Medullary sponge kidney (disorder)",
+        "obsolete medullary sponge kidney",
+        "Precalicial canalicular ectasia",
+        "Precalyceal canalicular ectasia",
+        "Sponge kidney"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Medullary_sponge_kidney",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "nephrology",
+                "qid": "Q177635",
+                "url": "https://en.wikipedia.org/wiki/Nephrology"
+            },
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

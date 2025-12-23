@@ -1,0 +1,25 @@
+{
+    "name": "Congenital lacrimal duct obstruction",
+    "qid": "Q2158411",
+    "icd_10": "Q10.5",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Congenital_lacrimal_duct_obstruction",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "lacrimal duct obstruction",
+                "qid": "Q5797309",
+                "url": "https://en.wikipedia.org/wiki/Nasolacrimal_duct_obstruction"
+            }
+        ]
+    }
+}

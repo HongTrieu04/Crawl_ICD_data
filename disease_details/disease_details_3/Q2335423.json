@@ -1,0 +1,27 @@
+{
+    "name": "steatohepatitis",
+    "qid": "Q2335423",
+    "icd_10": "K76.0",
+    "description": "type of fatty liver disease, characterized by inflammation of the liver with concurrent fat accumulation in liver",
+    "aliases": [
+        "steatotis hepatis macrovezacularis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Steatohepatitis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "fatty liver disease",
+                "qid": "Q6058862",
+                "url": "https://en.wikipedia.org/wiki/Fatty_liver_disease"
+            }
+        ]
+    }
+}

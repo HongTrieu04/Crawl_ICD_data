@@ -1,0 +1,96 @@
+{
+    "name": "antisocial personality disorder",
+    "qid": "Q118418",
+    "icd_10": "F60.2",
+    "description": "personality disorder that involves a pervasive pattern of disregard for other people",
+    "aliases": [
+        "psychopathy",
+        "sociopathy",
+        "APD",
+        "ASPD",
+        "amoral personality",
+        "amoral personality disorder",
+        "asocial personality",
+        "asocial personality disorder",
+        "dissocial personality disorder",
+        "Psychopath.personality",
+        "psychopathic personality",
+        "psychopathic personality disorder",
+        "sociopathic personality",
+        "sociopathic personality disorder"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Signs%20of%20AsPD%201.png",
+    "url": "https://en.wikipedia.org/wiki/Antisocial_personality_disorder",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "psychology",
+                "qid": "Q9418",
+                "url": "https://en.wikipedia.org/wiki/Psychology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "Cluster B personality disorders",
+                "qid": "Q5136677",
+                "url": "https://en.wikipedia.org/wiki/Cluster_B"
+            },
+            {
+                "name": "personality disorder",
+                "qid": "Q270673",
+                "url": "https://en.wikipedia.org/wiki/Personality_disorder"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "fraud",
+                "qid": "Q28813",
+                "url": "https://en.wikipedia.org/wiki/Fraud"
+            },
+            {
+                "name": "anti-social behaviour",
+                "qid": "Q734611",
+                "url": "https://en.wikipedia.org/wiki/Anti-social_behaviour"
+            },
+            {
+                "name": "impulsivity",
+                "qid": "Q1549918",
+                "url": "https://en.wikipedia.org/wiki/Impulsivity"
+            },
+            {
+                "name": "violence",
+                "qid": "Q124490",
+                "url": "https://en.wikipedia.org/wiki/Violence"
+            },
+            {
+                "name": "irritability",
+                "qid": "Q29299",
+                "url": "https://en.wikipedia.org/wiki/Irritability"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "antipsychotics",
+                "qid": "Q208144",
+                "url": "https://en.wikipedia.org/wiki/Antipsychotic"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "psychotherapy",
+                "qid": "Q183257",
+                "url": "https://en.wikipedia.org/wiki/Psychotherapy"
+            }
+        ]
+    }
+}

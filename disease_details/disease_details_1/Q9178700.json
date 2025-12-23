@@ -1,0 +1,20 @@
+{
+    "name": "failure of genital response",
+    "qid": "Q9178700",
+    "icd_10": "F52.2",
+    "description": null,
+    "aliases": [
+        "Impuissance psychogène"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "psychosexual disorder",
+                "qid": "Q7256482",
+                "url": "https://en.wikipedia.org/wiki/Psychosexual_disorder"
+            }
+        ]
+    }
+}

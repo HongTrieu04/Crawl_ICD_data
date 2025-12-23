@@ -1,0 +1,33 @@
+{
+    "name": "calcaneonavicular coalition",
+    "qid": "Q18554815",
+    "icd_10": "Q74.8",
+    "description": "synostosis characterized by the fusion of carpal and tarsal bones, which causes stiffness and immobility of the hands and the feet",
+    "aliases": [
+        "Multiple synostosis syndrome",
+        "Multiple synostosis syndrome (disorder)",
+        "SYNOSTOSES, TARSAL, CARPAL AND DIGITAL"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "synostosis",
+                "qid": "Q2141048",
+                "url": "https://en.wikipedia.org/wiki/Synostosis"
+            },
+            {
+                "name": "tarsal-carpal coalition syndrome",
+                "qid": "Q18553474"
+            }
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "respiratory paralysis",
+    "qid": "Q754330",
+    "icd_10": "R09.2",
+    "description": "symptom",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "paralysis",
+                "qid": "Q107231",
+                "url": "https://en.wikipedia.org/wiki/Paralysis"
+            },
+            {
+                "name": "respiratory failure",
+                "qid": "Q767485",
+                "url": "https://en.wikipedia.org/wiki/Respiratory_failure"
+            }
+        ]
+    }
+}

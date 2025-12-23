@@ -1,0 +1,37 @@
+{
+    "name": "respiratory system abnormality",
+    "qid": "Q18975820",
+    "icd_10": "Q34.9",
+    "description": "congenital structural abnormality of the respiratory system",
+    "aliases": [
+        "obsolete respiratory system abnormality",
+        "respiratory malformation"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "congenital abnormality",
+                "qid": "Q2852249",
+                "url": "https://en.wikipedia.org/wiki/Congenital_abnormality"
+            },
+            {
+                "name": "respiratory disease",
+                "qid": "Q3286546",
+                "url": "https://en.wikipedia.org/wiki/Respiratory_disease"
+            },
+            {
+                "name": "respiratory or thoracic malformation",
+                "qid": "Q55789043"
+            }
+        ]
+    }
+}

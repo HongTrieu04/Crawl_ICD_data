@@ -1,0 +1,27 @@
+{
+    "name": "abdominal pregnancy",
+    "qid": "Q811134",
+    "icd_10": "O83.3",
+    "description": "embryo or fetus growing in the abdomen, but not in the Fallopian tube, ovary or broad ligament",
+    "aliases": [
+        "Pregnancy, Abdominal"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Intra-abdominal%20fetus%20being%20delivered.png",
+    "url": "https://en.wikipedia.org/wiki/Abdominal_pregnancy",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "ectopic pregnancy",
+                "qid": "Q207087",
+                "url": "https://en.wikipedia.org/wiki/Ectopic_pregnancy"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "obstetrics",
+                "qid": "Q5284418",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics"
+            }
+        ]
+    }
+}

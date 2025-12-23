@@ -1,0 +1,20 @@
+{
+    "name": "multiple fracture",
+    "qid": "Q55083281",
+    "icd_10": "T02",
+    "description": "injury involving the breaking of either several bones or one bone in two or more place",
+    "aliases": [
+        "multiple fractures"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "bone fracture",
+                "qid": "Q68833",
+                "url": "https://en.wikipedia.org/wiki/Bone_fracture"
+            }
+        ]
+    }
+}

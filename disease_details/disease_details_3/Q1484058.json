@@ -1,0 +1,78 @@
+{
+    "name": "short QT syndrome",
+    "qid": "Q1484058",
+    "icd_10": "R94.3",
+    "description": "heart conduction disease that is characterized by heart arrhythmia defined as a short QT interval on an EKG (less than 300 ms) that does not significantly change with heart rate, tall and peaked T waves, and a structurally normal heart",
+    "aliases": [
+        "Familial short QT syndrome",
+        "Ventricular arrhythmia associated with short QT syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Short_QT_syndrome",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "fatigue",
+                "qid": "Q9690",
+                "url": "https://en.wikipedia.org/wiki/Fatigue"
+            },
+            {
+                "name": "dyspnea",
+                "qid": "Q188008",
+                "url": "https://en.wikipedia.org/wiki/Shortness_of_breath"
+            },
+            {
+                "name": "heart arrhythmia",
+                "qid": "Q189331",
+                "url": "https://en.wikipedia.org/wiki/Arrhythmia"
+            },
+            {
+                "name": "palpitation",
+                "qid": "Q1123260",
+                "url": "https://en.wikipedia.org/wiki/Palpitations"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            },
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "mutation",
+                "qid": "Q42918",
+                "url": "https://en.wikipedia.org/wiki/Mutation"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "heart conduction disease",
+                "qid": "Q1361515",
+                "url": "https://en.wikipedia.org/wiki/Heart_block"
+            },
+            {
+                "name": "QT interval shortened",
+                "qid": "Q53327254"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "quinidine",
+                "qid": "Q412496",
+                "url": "https://en.wikipedia.org/wiki/Quinidine"
+            },
+            {
+                "name": "implantable cardioverter-defibrillator",
+                "qid": "Q594446",
+                "url": "https://en.wikipedia.org/wiki/Implantable_cardioverter-defibrillator"
+            }
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "New daily persistent headache",
+    "qid": "Q11794042",
+    "icd_10": "G44.52",
+    "description": "medical condition",
+    "aliases": [
+        "NDPH"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/New_daily_persistent_headache",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ]
+    }
+}

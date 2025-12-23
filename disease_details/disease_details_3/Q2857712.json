@@ -1,0 +1,22 @@
+{
+    "name": "family medical history",
+    "qid": "Q2857712",
+    "icd_10": "Z84",
+    "description": "medical history of a family",
+    "aliases": [
+        "FH",
+        "family medical history",
+        "FHx"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Family_history_(medicine)",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "medical history",
+                "qid": "Q188952",
+                "url": "https://en.wikipedia.org/wiki/Medical_history"
+            }
+        ]
+    }
+}

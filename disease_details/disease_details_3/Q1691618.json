@@ -1,0 +1,22 @@
+{
+    "name": "vaginal atresia",
+    "qid": "Q1691618",
+    "icd_10": "Q52.0",
+    "description": "human disease",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Agenesia%20de%20vagina2.png",
+    "url": "https://en.wikipedia.org/wiki/Vaginal_atresia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "vaginal anomaly",
+                "qid": "Q47512038",
+                "url": "https://en.wikipedia.org/wiki/Vaginal_anomalies"
+            },
+            {
+                "name": "gynatresia",
+                "qid": "Q1486140"
+            }
+        ]
+    }
+}

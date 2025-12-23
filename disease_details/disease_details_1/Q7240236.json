@@ -1,0 +1,36 @@
+{
+    "name": "premature atrial contraction",
+    "qid": "Q7240236",
+    "icd_10": "I49.1",
+    "description": "medical condition",
+    "aliases": [
+        "PAC",
+        "APC",
+        "atrial premature complex",
+        "atrial premature contraction",
+        "atrial premature depolarization"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Premature_atrial_contraction",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            },
+            {
+                "name": "electrophysiology",
+                "qid": "Q1154774",
+                "url": "https://en.wikipedia.org/wiki/Electrophysiology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "supraventricular extrasystole",
+                "qid": "Q7644763",
+                "url": "https://en.wikipedia.org/wiki/Supraventricular_extrasystole"
+            }
+        ]
+    }
+}

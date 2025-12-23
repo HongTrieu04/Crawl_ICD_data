@@ -1,0 +1,36 @@
+{
+    "name": "chloracne",
+    "qid": "Q426955",
+    "icd_10": "L70.8",
+    "description": "skin condition caused by toxic chemical exposure",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Viktor%20Yuschenko.jpg",
+    "url": "https://en.wikipedia.org/wiki/Chloracne",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "Halogen acne",
+                "qid": "Q16919787",
+                "url": "https://en.wikipedia.org/wiki/Halogen_acne"
+            },
+            {
+                "name": "toxic dermatosis",
+                "qid": "Q55787028"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "dioxins and dioxin-like compounds",
+                "qid": "Q2522",
+                "url": "https://en.wikipedia.org/wiki/Dioxins_and_dioxin-like_compounds"
+            }
+        ]
+    }
+}

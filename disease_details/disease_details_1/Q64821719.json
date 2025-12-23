@@ -1,0 +1,38 @@
+{
+    "name": "mixed conductive-sensorineural hearing loss",
+    "qid": "Q64821719",
+    "icd_10": "H90.8",
+    "description": "hearing loss caused by damage to or impairment of both the conductive elements and the sensorineural elements of the ear",
+    "aliases": [
+        "Hearing Loss, Mixed Conductive-Sensorineural",
+        "mixed hearing loss"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Audiograma%20Perda%20Auditiva%20Mista.png",
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            },
+            {
+                "name": "otolaryngology",
+                "qid": "Q189553",
+                "url": "https://en.wikipedia.org/wiki/Otorhinolaryngology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "sensorineural hearing loss",
+                "qid": "Q928697",
+                "url": "https://en.wikipedia.org/wiki/Sensorineural_hearing_loss"
+            },
+            {
+                "name": "conductive hearing loss",
+                "qid": "Q1581308",
+                "url": "https://en.wikipedia.org/wiki/Conductive_hearing_loss"
+            }
+        ]
+    }
+}

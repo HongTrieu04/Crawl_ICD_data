@@ -1,0 +1,40 @@
+{
+    "name": "bilirubin metabolic disorder",
+    "qid": "Q390475",
+    "icd_10": "E80.4",
+    "description": "inherited metabolic disorder that involves elevated levels of bilirubin resulting from disruption of bilirubin metabolism",
+    "aliases": [
+        "hyperbilirubinemia",
+        "hereditary hyperbilirubinemia",
+        "hyperbilirubinaemia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hereditary_hyperbilirubinemia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "phenobarbital",
+                "qid": "Q407241",
+                "url": "https://en.wikipedia.org/wiki/Phenobarbital"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "inherited metabolic disorder",
+                "qid": "Q1758393",
+                "url": "https://en.wikipedia.org/wiki/Inborn_errors_of_metabolism"
+            },
+            {
+                "name": "hyperbilirubinemia",
+                "qid": "Q1897247"
+            }
+        ]
+    }
+}

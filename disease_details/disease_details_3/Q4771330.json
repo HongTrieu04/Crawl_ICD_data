@@ -1,0 +1,29 @@
+{
+    "name": "anterior cerebral artery infarction",
+    "qid": "Q4771330",
+    "icd_10": "G46.1",
+    "description": "Human disease",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Anterior_cerebral_artery_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "cerebral infarction",
+                "qid": "Q1209150",
+                "url": "https://en.wikipedia.org/wiki/Cerebral_infarction"
+            },
+            {
+                "name": "cerebral artery occlusion",
+                "qid": "Q18553787"
+            }
+        ]
+    }
+}

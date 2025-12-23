@@ -1,0 +1,209 @@
+{
+    "name": "Crimean-Congo hemorrhagic fever",
+    "qid": "Q1077505",
+    "icd_10": "A98.09",
+    "description": "viral disease",
+    "aliases": [
+        "CCHF",
+        "CHF Congo virus",
+        "Congo fever",
+        "Congo hemorrhagic fever",
+        "Congo-Crimean Hemorrhagic Fever",
+        "Crimean hemorrhagic fever",
+        "Crimean hemorrhagic fever [CHF Congo virus]"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Crimean-Congo%20Hemorrhagic%20Fever.jpg",
+    "url": "https://en.wikipedia.org/wiki/Crimean%E2%80%93Congo_hemorrhagic_fever",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            },
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "jaundice",
+                "qid": "Q133244",
+                "url": "https://en.wikipedia.org/wiki/Jaundice"
+            },
+            {
+                "name": "flatulence",
+                "qid": "Q160184",
+                "url": "https://en.wikipedia.org/wiki/Flatulence"
+            },
+            {
+                "name": "vomiting",
+                "qid": "Q127076",
+                "url": "https://en.wikipedia.org/wiki/Vomiting"
+            },
+            {
+                "name": "myalgia",
+                "qid": "Q474959",
+                "url": "https://en.wikipedia.org/wiki/Myalgia"
+            },
+            {
+                "name": "anuria",
+                "qid": "Q612681",
+                "url": "https://en.wikipedia.org/wiki/Anuria"
+            },
+            {
+                "name": "arthralgia",
+                "qid": "Q683498",
+                "url": "https://en.wikipedia.org/wiki/Arthralgia"
+            },
+            {
+                "name": "bleeding",
+                "qid": "Q166019",
+                "url": "https://en.wikipedia.org/wiki/Bleeding"
+            },
+            {
+                "name": "conjunctivitis",
+                "qid": "Q167844",
+                "url": "https://en.wikipedia.org/wiki/Conjunctivitis"
+            },
+            {
+                "name": "abdominal pain",
+                "qid": "Q183425",
+                "url": "https://en.wikipedia.org/wiki/Abdominal_pain"
+            },
+            {
+                "name": "chills",
+                "qid": "Q2260058",
+                "url": "https://en.wikipedia.org/wiki/Chills"
+            },
+            {
+                "name": "back pain",
+                "qid": "Q5781808",
+                "url": "https://en.wikipedia.org/wiki/Back_pain"
+            },
+            {
+                "name": "hyperaemia",
+                "qid": "Q948806",
+                "url": "https://en.wikipedia.org/wiki/Hyperaemia"
+            },
+            {
+                "name": "oliguria",
+                "qid": "Q961326",
+                "url": "https://en.wikipedia.org/wiki/Oliguria"
+            },
+            {
+                "name": "xerostomia",
+                "qid": "Q1162276",
+                "url": "https://en.wikipedia.org/wiki/Xerostomia"
+            },
+            {
+                "name": "petechia",
+                "qid": "Q1412657",
+                "url": "https://en.wikipedia.org/wiki/Petechia"
+            },
+            {
+                "name": "nausea",
+                "qid": "Q186889",
+                "url": "https://en.wikipedia.org/wiki/Nausea"
+            },
+            {
+                "name": "cyanosis",
+                "qid": "Q192120",
+                "url": "https://en.wikipedia.org/wiki/Cyanosis"
+            },
+            {
+                "name": "tachycardia",
+                "qid": "Q209583",
+                "url": "https://en.wikipedia.org/wiki/Tachycardia"
+            },
+            {
+                "name": "bradycardia",
+                "qid": "Q217111",
+                "url": "https://en.wikipedia.org/wiki/Bradycardia"
+            },
+            {
+                "name": "hypotension",
+                "qid": "Q275419",
+                "url": "https://en.wikipedia.org/wiki/Hypotension"
+            },
+            {
+                "name": "hematuria",
+                "qid": "Q373597",
+                "url": "https://en.wikipedia.org/wiki/Hematuria"
+            },
+            {
+                "name": "hematoma",
+                "qid": "Q468787",
+                "url": "https://en.wikipedia.org/wiki/Hematoma"
+            },
+            {
+                "name": "meningism signs",
+                "qid": "Q12122651"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "viral hemorrhagic fever",
+                "qid": "Q162272",
+                "url": "https://en.wikipedia.org/wiki/Viral_hemorrhagic_fever"
+            },
+            {
+                "name": "skin infection",
+                "qid": "Q2458539",
+                "url": "https://en.wikipedia.org/wiki/Skin_infection"
+            },
+            {
+                "name": "viral infectious disease",
+                "qid": "Q1928978",
+                "url": "https://en.wikipedia.org/wiki/Viral_disease"
+            },
+            {
+                "name": "Bunyaviridae infectious disease",
+                "qid": "Q18967528"
+            },
+            {
+                "name": "rare skin disease",
+                "qid": "Q55788696"
+            },
+            {
+                "name": "pandemic and epidemic-prone diseases",
+                "qid": "Q131345497"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "antibody",
+                "qid": "Q79460",
+                "url": "https://en.wikipedia.org/wiki/Antibody"
+            },
+            {
+                "name": "corticosteroid",
+                "qid": "Q210420",
+                "url": "https://en.wikipedia.org/wiki/Corticosteroid"
+            },
+            {
+                "name": "ribavirin",
+                "qid": "Q421862",
+                "url": "https://en.wikipedia.org/wiki/Ribavirin"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Orthonairovirus haemorrhagiae",
+                "qid": "Q1788951"
+            }
+        ]
+    }
+}

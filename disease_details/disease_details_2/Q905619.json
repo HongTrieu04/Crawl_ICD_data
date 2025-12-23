@@ -1,0 +1,39 @@
+{
+    "name": "necrobiosis lipoidica",
+    "qid": "Q905619",
+    "icd_10": "L92.1",
+    "description": "human disease",
+    "aliases": [
+        "Necrobiosis lipoidica",
+        "Necrobiosis lipoidica (disorder)",
+        "Necrobiosis lipoidica diabeticorum (formerly)",
+        "Oppenheim-Urbach disease"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Necrobiosislipoidica.jpg",
+    "url": "https://en.wikipedia.org/wiki/Necrobiosis_lipoidica",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "skin disease",
+                "qid": "Q949302",
+                "url": "https://en.wikipedia.org/wiki/Skin_condition"
+            },
+            {
+                "name": "diabetic dermadrome",
+                "qid": "Q5270133",
+                "url": "https://en.wikipedia.org/wiki/Diabetic_dermadrome"
+            },
+            {
+                "name": "necrobiotic disorders",
+                "qid": "Q54911677"
+            }
+        ]
+    }
+}

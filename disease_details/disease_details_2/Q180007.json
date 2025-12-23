@@ -1,0 +1,28 @@
+{
+    "name": "syncope",
+    "qid": "Q180007",
+    "icd_10": "R55",
+    "description": "transient loss of consciousness and postural tone",
+    "aliases": [
+        "faint",
+        "blackout",
+        "fainting",
+        "blacking out",
+        "passing out"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pietro%20Longhi%20027.jpg",
+    "url": "https://en.wikipedia.org/wiki/Syncope_(medicine)",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "short loss of consciousness",
+                "qid": "Q16669556",
+                "url": "https://en.wikipedia.org/wiki/Transient_loss_of_consciousness"
+            },
+            {
+                "name": "alteration of consciousness",
+                "qid": "Q102186875"
+            }
+        ]
+    }
+}

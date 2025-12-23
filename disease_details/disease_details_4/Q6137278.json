@@ -1,0 +1,41 @@
+{
+    "name": "Prepatellar bursitis",
+    "qid": "Q6137278",
+    "icd_10": "M70.4",
+    "description": "inflammation of the prepatellar bursa at the front of the knee",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Prepatellar%20bursitis.JPG",
+    "url": "https://en.wikipedia.org/wiki/Prepatellar_bursitis",
+    "details": {
+        "Anatomical location": [
+            {
+                "name": "subcutaneous prepatellar bursa",
+                "qid": "Q1016959",
+                "url": "https://en.wikipedia.org/wiki/Prepatellar_bursa"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "Hygroma",
+                "qid": "Q5955890",
+                "url": "https://en.wikipedia.org/wiki/Hygroma"
+            },
+            {
+                "name": "occupational disease",
+                "qid": "Q637816",
+                "url": "https://en.wikipedia.org/wiki/Occupational_disease"
+            },
+            {
+                "name": "knee disorder",
+                "qid": "Q18971535"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ]
+    }
+}

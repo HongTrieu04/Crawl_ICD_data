@@ -1,0 +1,17 @@
+{
+    "name": "Q1586095",
+    "qid": "Q1586095",
+    "icd_10": "Q67.8",
+    "description": null,
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Harrenstein-Deformit%C3%A4t.jpg",
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "deformity of chest and rib",
+                "qid": "Q25377767"
+            }
+        ]
+    }
+}

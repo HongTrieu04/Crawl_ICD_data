@@ -1,0 +1,24 @@
+{
+    "name": "sinoatrial block",
+    "qid": "Q1426241",
+    "icd_10": "I45.5",
+    "description": "electrical impulse is delayed or blocked on the way to the atria, thus delaying the atrial bea",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Sinoatrial_block",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "genetic cardiac rhythm disease",
+                "qid": "Q55785258"
+            }
+        ]
+    }
+}

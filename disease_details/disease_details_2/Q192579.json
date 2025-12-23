@@ -1,0 +1,77 @@
+{
+    "name": "jet lag",
+    "qid": "Q192579",
+    "icd_10": "G47.2",
+    "description": "physiological condition caused by travel across time zones",
+    "aliases": [
+        "circadian dysrhythmia",
+        "circadian rhythm sleep disorder, jet lag type",
+        "desynchronosis",
+        "jetlag"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Jet_lag",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            },
+            {
+                "name": "fatigue",
+                "qid": "Q9690",
+                "url": "https://en.wikipedia.org/wiki/Fatigue"
+            },
+            {
+                "name": "irritability",
+                "qid": "Q29299",
+                "url": "https://en.wikipedia.org/wiki/Irritability"
+            },
+            {
+                "name": "sleep disorder",
+                "qid": "Q177190",
+                "url": "https://en.wikipedia.org/wiki/Sleep_disorder"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "light therapy",
+                "qid": "Q243570",
+                "url": "https://en.wikipedia.org/wiki/Light_therapy"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "change",
+                "qid": "Q1150070",
+                "url": "https://en.wikipedia.org/wiki/Change_(philosophy)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "circadian rhythm sleep disorder",
+                "qid": "Q2712607",
+                "url": "https://en.wikipedia.org/wiki/Circadian_rhythm_sleep_disorder"
+            },
+            {
+                "name": "circadian misalignment",
+                "qid": "Q47095613"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "melatonin",
+                "qid": "Q180912",
+                "url": "https://en.wikipedia.org/wiki/Melatonin"
+            }
+        ]
+    }
+}

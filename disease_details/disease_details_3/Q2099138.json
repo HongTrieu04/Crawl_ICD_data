@@ -1,0 +1,51 @@
+{
+    "name": "placental insufficiency",
+    "qid": "Q2099138",
+    "icd_10": "P02.2",
+    "description": "placenta disease that is characterized by insufficient blood flow to the placenta during pregnancy",
+    "aliases": [
+        "FPI",
+        "Insufficiency, Placental",
+        "utero-placental insufficiency",
+        "uteroplacental insufficiency",
+        "Uteroplacental vascular insufficiency",
+        "fetoplacental insufficiency"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Placental_insufficiency",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "placenta disease",
+                "qid": "Q7200296",
+                "url": "https://en.wikipedia.org/wiki/Placental_disease"
+            },
+            {
+                "name": "complication of pregnancy, childbirth and the puerperium",
+                "qid": "Q18975815"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "maternal-fetal medicine",
+                "qid": "Q582071",
+                "url": "https://en.wikipedia.org/wiki/Maternal%E2%80%93fetal_medicine"
+            },
+            {
+                "name": "neonatology",
+                "qid": "Q898674",
+                "url": "https://en.wikipedia.org/wiki/Neonatology"
+            },
+            {
+                "name": "obstetrics",
+                "qid": "Q5284418",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics"
+            }
+        ]
+    }
+}

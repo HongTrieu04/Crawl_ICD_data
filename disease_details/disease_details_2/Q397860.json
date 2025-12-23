@@ -1,0 +1,30 @@
+{
+    "name": "angioma",
+    "qid": "Q397860",
+    "icd_10": "D18",
+    "description": "benign tumor made up of vessels",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Angiome%20annulaire.JPG",
+    "url": "https://en.wikipedia.org/wiki/Angioma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            },
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "benign neoplasm",
+                "qid": "Q1417240",
+                "url": "https://en.wikipedia.org/wiki/Benign_tumor"
+            }
+        ]
+    }
+}

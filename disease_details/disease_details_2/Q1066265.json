@@ -1,0 +1,48 @@
+{
+    "name": "Osgood-Schlatter's disease",
+    "qid": "Q1066265",
+    "icd_10": "M92.5",
+    "description": "osteochondrosis",
+    "aliases": [
+        "Aseptic necrosis of the tibial tubercle",
+        "juvenile osteochondrosis of tibial tubercle",
+        "Osgood-Schlatter disease",
+        "Osteochondritis of the tibial tubercle",
+        "Osteochondritis of tibial tubercle",
+        "Osteochondrosis of proximal tibia",
+        "Osteochondrosis of the tibial tubercle",
+        "Tibial Tuberosity"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Osgood.jpg",
+    "url": "https://en.wikipedia.org/wiki/Osgood%E2%80%93Schlatter_disease",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "bone inflammation disease",
+                "qid": "Q1178507",
+                "url": "https://en.wikipedia.org/wiki/Osteitis"
+            },
+            {
+                "name": "knee disorder",
+                "qid": "Q18971535"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "orthopedics",
+                "qid": "Q216685",
+                "url": "https://en.wikipedia.org/wiki/Orthopedic_surgery"
+            },
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ]
+    }
+}

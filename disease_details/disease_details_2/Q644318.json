@@ -1,0 +1,72 @@
+{
+    "name": "vasculitis",
+    "qid": "Q644318",
+    "icd_10": "M31",
+    "description": "vascular disease that is characterized by inflammation of the blood vessels",
+    "aliases": [
+        "Angiitis",
+        "Vasculitis Syndrome"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Churg-Strauss%20syndrome%20-%20very%20high%20mag.jpg",
+    "url": "https://en.wikipedia.org/wiki/Vasculitis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "vascular disease",
+                "qid": "Q1266890",
+                "url": "https://en.wikipedia.org/wiki/Vascular_disease"
+            },
+            {
+                "name": "angiitis",
+                "qid": "Q539392"
+            },
+            {
+                "name": "hemic system symptom",
+                "qid": "Q102186671"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "immunology",
+                "qid": "Q101929",
+                "url": "https://en.wikipedia.org/wiki/Immunology"
+            },
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            },
+            {
+                "name": "angiology",
+                "qid": "Q539690",
+                "url": "https://en.wikipedia.org/wiki/Angiology"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "inflammation",
+                "qid": "Q101991",
+                "url": "https://en.wikipedia.org/wiki/Inflammation"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "pentoxifylline",
+                "qid": "Q416331",
+                "url": "https://en.wikipedia.org/wiki/Pentoxifylline"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "blood vessel",
+                "qid": "Q988343",
+                "url": "https://en.wikipedia.org/wiki/Blood_vessel"
+            }
+        ]
+    }
+}

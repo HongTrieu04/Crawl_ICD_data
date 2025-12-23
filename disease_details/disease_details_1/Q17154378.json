@@ -1,0 +1,37 @@
+{
+    "name": "opioid overdose",
+    "qid": "Q17154378",
+    "icd_10": "T40.1",
+    "description": "acute medical condition due to excessive use of opioids and related substance",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Opioid_overdose",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "addiction medicine",
+                "qid": "Q55190072",
+                "url": "https://en.wikipedia.org/wiki/Addiction_medicine"
+            },
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "naloxone",
+                "qid": "Q282902",
+                "url": "https://en.wikipedia.org/wiki/Naloxone"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "drug overdose",
+                "qid": "Q3505252",
+                "url": "https://en.wikipedia.org/wiki/Drug_overdose"
+            }
+        ]
+    }
+}

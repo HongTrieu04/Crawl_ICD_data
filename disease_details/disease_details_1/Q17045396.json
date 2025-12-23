@@ -1,0 +1,25 @@
+{
+    "name": "traumatic amputation of other parts of foot",
+    "qid": "Q17045396",
+    "icd_10": "S98.3",
+    "description": "combined traumatic amputation of toe(s) and other parts of foot",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "foot amputation",
+                "qid": "Q144838"
+            },
+            {
+                "name": "foot injury",
+                "qid": "Q15728074"
+            },
+            {
+                "name": "traumatic amputation of ankle and foot",
+                "qid": "Q17044723"
+            }
+        ]
+    }
+}

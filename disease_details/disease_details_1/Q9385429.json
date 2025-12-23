@@ -1,0 +1,27 @@
+{
+    "name": "overactive disorder associated with mental retardation and stereotyped movements",
+    "qid": "Q9385429",
+    "icd_10": "F84.4",
+    "description": "disease",
+    "aliases": [
+        "oeractive disorder associated with intellectual disabilities and stereotyped movements"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Overactive_disorder_associated_with_mental_retardation_and_stereotyped_movements",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "pervasive developmental disorder",
+                "qid": "Q6691991",
+                "url": "https://en.wikipedia.org/wiki/Pervasive_developmental_disorder"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ]
+    }
+}

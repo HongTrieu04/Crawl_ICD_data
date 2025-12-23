@@ -1,0 +1,33 @@
+{
+    "name": "crush syndrome",
+    "qid": "Q1130527",
+    "icd_10": "T79.5",
+    "description": "medical condition",
+    "aliases": [
+        "Bywaters' syndrome",
+        "traumatic rhabdomyolysis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Crush_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "rhabdomyolysis",
+                "qid": "Q917069",
+                "url": "https://en.wikipedia.org/wiki/Rhabdomyolysis"
+            },
+            {
+                "name": "crush injury",
+                "qid": "Q4388656",
+                "url": "https://en.wikipedia.org/wiki/Crush_injury"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ]
+    }
+}

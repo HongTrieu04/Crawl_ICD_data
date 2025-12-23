@@ -1,0 +1,63 @@
+{
+    "name": "thyroid lymphoma",
+    "qid": "Q3832897",
+    "icd_10": "C96",
+    "description": "lymphoma primarily involving the thyroid gland",
+    "aliases": [
+        "Lymphoma of the Thyroid",
+        "Lymphoma of the Thyroid Gland",
+        "Lymphoma of Thyroid",
+        "Lymphoma of Thyroid Gland",
+        "Primary Thyroid Gland Lymphoma",
+        "Thyroid Gland Lymphoma",
+        "Thyroid Lymphoma"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Thyroid_lymphoma",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "thyroid gland disease",
+                "qid": "Q6673122",
+                "url": "https://en.wikipedia.org/wiki/Thyroid_disease"
+            },
+            {
+                "name": "lymphoma",
+                "qid": "Q208414",
+                "url": "https://en.wikipedia.org/wiki/Lymphoma"
+            },
+            {
+                "name": "thyroid cancer",
+                "qid": "Q826522",
+                "url": "https://en.wikipedia.org/wiki/Thyroid_cancer"
+            },
+            {
+                "name": "endocrine gland cancer",
+                "qid": "Q18554878"
+            },
+            {
+                "name": "primary organ-specific lymphoma",
+                "qid": "Q55786911"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "thyroid gland",
+                "qid": "Q16399",
+                "url": "https://en.wikipedia.org/wiki/Thyroid"
+            }
+        ]
+    }
+}

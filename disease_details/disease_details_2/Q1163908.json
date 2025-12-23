@@ -1,0 +1,43 @@
+{
+    "name": "melena",
+    "qid": "Q1163908",
+    "icd_10": "K92.1",
+    "description": "medical condition with dark feces that are associated with upper gastrointestinal bleeding",
+    "aliases": [
+        "blood in the stool",
+        "melæna"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Melena",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "blood in stool",
+                "qid": "Q1214063",
+                "url": "https://en.wikipedia.org/wiki/Blood_in_stool"
+            },
+            {
+                "name": "feces and droppings symptom",
+                "qid": "Q102186864"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            },
+            {
+                "name": "general surgery",
+                "qid": "Q932510",
+                "url": "https://en.wikipedia.org/wiki/General_surgery"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "stomach bleeding",
+                "qid": "Q1883970"
+            }
+        ]
+    }
+}

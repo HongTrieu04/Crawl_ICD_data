@@ -1,0 +1,38 @@
+{
+    "name": "essential fructosuria",
+    "qid": "Q2791374",
+    "icd_10": "E74.1",
+    "description": "medical condition",
+    "aliases": [
+        "Fructokinase deficiency",
+        "fructosuria",
+        "Hepatic Fructokinase Deficiency",
+        "Ketohexokinase Deficiency"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Essential_fructosuria",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "carbohydrate metabolic disorder",
+                "qid": "Q6013981",
+                "url": "https://en.wikipedia.org/wiki/Inborn_errors_of_carbohydrate_metabolism"
+            },
+            {
+                "name": "autosomal recessive disease",
+                "qid": "Q10267817"
+            },
+            {
+                "name": "disorder of fructose metabolism",
+                "qid": "Q55787284"
+            }
+        ]
+    }
+}

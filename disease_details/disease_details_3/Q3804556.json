@@ -1,0 +1,27 @@
+{
+    "name": "lamellar ichthyosis",
+    "qid": "Q3804556",
+    "icd_10": "Q80.2",
+    "description": "disease",
+    "aliases": [
+        "Ichthyosis, Lamellar"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Lamellar_ichthyosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "ichthyosis",
+                "qid": "Q523893",
+                "url": "https://en.wikipedia.org/wiki/Ichthyosis"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

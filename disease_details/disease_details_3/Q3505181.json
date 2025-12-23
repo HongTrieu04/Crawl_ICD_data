@@ -1,0 +1,23 @@
+{
+    "name": "genetic deafness",
+    "qid": "Q3505181",
+    "icd_10": "H90.5",
+    "description": "hearing loss with genetic cause",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "genetic disease",
+                "qid": "Q200779",
+                "url": "https://en.wikipedia.org/wiki/Genetic_disorder"
+            },
+            {
+                "name": "congenital hearing loss",
+                "qid": "Q5160434",
+                "url": "https://en.wikipedia.org/wiki/Congenital_hearing_loss"
+            }
+        ]
+    }
+}

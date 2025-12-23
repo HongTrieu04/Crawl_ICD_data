@@ -1,0 +1,27 @@
+{
+    "name": "Ear eczema",
+    "qid": "Q5325635",
+    "icd_10": "H60.5",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Ear_eczema",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "otitis externa",
+                "qid": "Q680873",
+                "url": "https://en.wikipedia.org/wiki/Otitis_externa"
+            },
+            {
+                "name": "eczema",
+                "qid": "Q988594",
+                "url": "https://en.wikipedia.org/wiki/Eczema"
+            },
+            {
+                "name": "external ear disease",
+                "qid": "Q18556075"
+            }
+        ]
+    }
+}

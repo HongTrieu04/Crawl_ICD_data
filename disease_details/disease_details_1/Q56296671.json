@@ -1,0 +1,24 @@
+{
+    "name": "tracheobronchitis",
+    "qid": "Q56296671",
+    "icd_10": "J40",
+    "description": "symptom",
+    "aliases": [
+        "Tracheobronchitis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Tracheobronchitis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "respiratory tract infection",
+                "qid": "Q754447",
+                "url": "https://en.wikipedia.org/wiki/Respiratory_tract_infection"
+            },
+            {
+                "name": "throat symptom",
+                "qid": "Q102186813"
+            }
+        ]
+    }
+}

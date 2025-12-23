@@ -1,0 +1,39 @@
+{
+    "name": "puerperal disorders",
+    "qid": "Q7258523",
+    "icd_10": "O90",
+    "description": "human disease",
+    "aliases": [
+        "complication of the puerperium",
+        "disorder of puerperium (disorder)",
+        "disorder of the puerperium",
+        "obsolete complication of the puerperium",
+        "obsolete puerperal disease",
+        "puerperal disease",
+        "puerperal disorder"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Postpartum_disorder",
+    "details": {
+        "Cause": [
+            {
+                "name": "postpartum period",
+                "qid": "Q749115",
+                "url": "https://en.wikipedia.org/wiki/Postpartum_period"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "obstetrics",
+                "qid": "Q5284418",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "complication of pregnancy, childbirth and the puerperium",
+                "qid": "Q18975815"
+            }
+        ]
+    }
+}

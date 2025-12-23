@@ -1,0 +1,43 @@
+{
+    "name": "acute monocytic leukemia",
+    "qid": "Q4677938",
+    "icd_10": "C93.0",
+    "description": "Human disease",
+    "aliases": [
+        "acute monoblastic leukemia",
+        "acute Monoblastic Leukemia and acute Monocytic Leukemia",
+        "acute monocytic leukemia without mention of remission",
+        "acute monocytic leukemia, FAB M5",
+        "acute monocytic leukemia, FAB M5)",
+        "acute monocytic leukemia, morphology",
+        "acute monocytic leukemia, morphology (morphologic abnormality)"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Acute_monocytic_leukemia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "acute myeloid leukemia",
+                "qid": "Q264118",
+                "url": "https://en.wikipedia.org/wiki/Acute_myeloid_leukemia"
+            },
+            {
+                "name": "monocytic leukemia",
+                "qid": "Q1313618",
+                "url": "https://en.wikipedia.org/wiki/Monocytic_leukemia"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ]
+    }
+}

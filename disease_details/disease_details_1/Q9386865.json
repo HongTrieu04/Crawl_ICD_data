@@ -1,0 +1,29 @@
+{
+    "name": "olivopontocerebellar atrophy",
+    "qid": "Q9386865",
+    "icd_10": "G23.8",
+    "description": "group of sporadic and inherited neurodegenerative disorders affecting the cerebellum, pons, and inferior olives",
+    "aliases": [
+        "Dejerine-Thomas syndrome",
+        "Thomas' syndrome",
+        "WADIA-SWAMI SYNDROME"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Olivopontocerebellar_atrophy",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "neurodegeneration",
+                "qid": "Q1755122",
+                "url": "https://en.wikipedia.org/wiki/Neurodegenerative_disease"
+            }
+        ]
+    }
+}

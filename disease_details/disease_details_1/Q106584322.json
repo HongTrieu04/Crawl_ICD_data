@@ -1,0 +1,25 @@
+{
+    "name": "sprained  knee",
+    "qid": "Q106584322",
+    "icd_10": "S83.6",
+    "description": null,
+    "aliases": [
+        "Sprain of knee",
+        "strain of knee"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "sprain",
+                "qid": "Q470747",
+                "url": "https://en.wikipedia.org/wiki/Sprain"
+            },
+            {
+                "name": "knee injury",
+                "qid": "Q15283847"
+            }
+        ]
+    }
+}

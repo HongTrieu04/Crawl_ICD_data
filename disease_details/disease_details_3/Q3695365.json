@@ -1,0 +1,25 @@
+{
+    "name": "extra rib",
+    "qid": "Q3695365",
+    "icd_10": "Q76",
+    "description": null,
+    "aliases": [
+        "supernumerary rib"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "supernumerary body part",
+                "qid": "Q14387830",
+                "url": "https://en.wikipedia.org/wiki/Supernumerary_body_part"
+            },
+            {
+                "name": "rib",
+                "qid": "Q196672",
+                "url": "https://en.wikipedia.org/wiki/Rib"
+            }
+        ]
+    }
+}

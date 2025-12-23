@@ -1,0 +1,51 @@
+{
+    "name": "obsessive-compulsive personality disorder",
+    "qid": "Q231578",
+    "icd_10": "F60.5",
+    "description": "personal perfectionism at the cost of flexibility, openness, efficiency & effect on others",
+    "aliases": [
+        "anankastic personality",
+        "anankastic personality disorder",
+        "compulsive personality",
+        "compulsive personality disorder",
+        "obsessional personality",
+        "obsessional personality disorder",
+        "obsessive-compulsive personality",
+        "OCPD"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Obsessive%E2%80%93compulsive_personality_disorder",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "psychology",
+                "qid": "Q9418",
+                "url": "https://en.wikipedia.org/wiki/Psychology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "personality disorder",
+                "qid": "Q270673",
+                "url": "https://en.wikipedia.org/wiki/Personality_disorder"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "psychotherapy",
+                "qid": "Q183257",
+                "url": "https://en.wikipedia.org/wiki/Psychotherapy"
+            }
+        ]
+    }
+}

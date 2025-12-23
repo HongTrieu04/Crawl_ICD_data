@@ -1,0 +1,17 @@
+{
+    "name": "rupture of synovium",
+    "qid": "Q19001379",
+    "icd_10": "M66.1",
+    "description": "Human disease",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "synovial, tendon or bursa disorder",
+                "qid": "Q18967087"
+            }
+        ]
+    }
+}

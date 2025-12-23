@@ -1,0 +1,65 @@
+{
+    "name": "tinea corporis",
+    "qid": "Q775927",
+    "icd_10": "B35.4",
+    "description": "fungal infection",
+    "aliases": [
+        "dermatophytosis of the body",
+        "Dermatophytosis of the body (disorder)",
+        "Dermatophytosis of the trunk",
+        "Tinea corporis gladiatorum conojeteenlaboca"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ringworm%20on%20the%20arm%2C%20or%20tinea%20corporis%20due%20to%20Trichophyton%20mentagrophytes%20PHIL%202938%20lores.jpg",
+    "url": "https://en.wikipedia.org/wiki/Tinea_corporis",
+    "details": {
+        "Drug used for treatment": [
+            {
+                "name": "terbinafine",
+                "qid": "Q415259",
+                "url": "https://en.wikipedia.org/wiki/Terbinafine"
+            },
+            {
+                "name": "oxiconazole",
+                "qid": "Q3359058",
+                "url": "https://en.wikipedia.org/wiki/Oxiconazole"
+            },
+            {
+                "name": "luliconazole",
+                "qid": "Q15624030",
+                "url": "https://en.wikipedia.org/wiki/Luliconazole"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "rash",
+                "qid": "Q653197",
+                "url": "https://en.wikipedia.org/wiki/Rash"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "skin disease",
+                "qid": "Q949302",
+                "url": "https://en.wikipedia.org/wiki/Skin_condition"
+            },
+            {
+                "name": "dermatophytosis",
+                "qid": "Q1909343",
+                "url": "https://en.wikipedia.org/wiki/Dermatophytosis"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "zone of skin",
+                "qid": "Q30029801"
+            }
+        ]
+    }
+}

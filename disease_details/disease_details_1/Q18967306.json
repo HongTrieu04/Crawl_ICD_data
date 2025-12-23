@@ -1,0 +1,22 @@
+{
+    "name": "hyperemesis gravidarum with metabolic disturbance",
+    "qid": "Q18967306",
+    "icd_10": "O21.1",
+    "description": "Human disease",
+    "aliases": [
+        "hyperemesis gravidarum with metabolic disturbance - delivered (disorder)",
+        "hyperemesis gravidarum with metabolic disturbance, antepartum",
+        "hyperemesis gravidarum with metabolic disturbance, delivered"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "hyperemesis gravidarum",
+                "qid": "Q391556",
+                "url": "https://en.wikipedia.org/wiki/Hyperemesis_gravidarum"
+            }
+        ]
+    }
+}

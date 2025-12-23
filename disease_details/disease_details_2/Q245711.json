@@ -1,0 +1,30 @@
+{
+    "name": "cylindroma",
+    "qid": "Q245711",
+    "icd_10": "D23",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Cylindroma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            },
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "spiradenoma",
+                "qid": "Q7577703",
+                "url": "https://en.wikipedia.org/wiki/Spiradenoma"
+            }
+        ]
+    }
+}

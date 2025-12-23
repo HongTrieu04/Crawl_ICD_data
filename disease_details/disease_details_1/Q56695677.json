@@ -1,0 +1,30 @@
+{
+    "name": "contusion of thigh",
+    "qid": "Q56695677",
+    "icd_10": "S70.1",
+    "description": "leg injury",
+    "aliases": [
+        "dead leg"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Anatomical location": [
+            {
+                "name": "thigh",
+                "qid": "Q129757",
+                "url": "https://en.wikipedia.org/wiki/Thigh"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "cutaneous haemorrhage",
+                "qid": "Q1591380"
+            },
+            {
+                "name": "leg injury",
+                "qid": "Q11361295"
+            }
+        ]
+    }
+}

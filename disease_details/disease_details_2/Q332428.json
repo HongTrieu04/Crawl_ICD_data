@@ -1,0 +1,28 @@
+{
+    "name": "overweight",
+    "qid": "Q332428",
+    "icd_10": "E66",
+    "description": "having a body mass index of 25.0–29.9 kg/m2",
+    "aliases": [
+        "fat",
+        "over-weight"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Overweight%20biker.jpg",
+    "url": "https://en.wikipedia.org/wiki/Overweight",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "overnutrition",
+                "qid": "Q16956975",
+                "url": "https://en.wikipedia.org/wiki/Overnutrition"
+            }
+        ]
+    }
+}

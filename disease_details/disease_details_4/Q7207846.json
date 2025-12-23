@@ -1,0 +1,25 @@
+{
+    "name": "Poikiloderma of Civatte",
+    "qid": "Q7207846",
+    "icd_10": "L57.3",
+    "description": "Medical condition.",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Poikiloderma_of_Civatte",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "Poikiloderma",
+                "qid": "Q1307866",
+                "url": "https://en.wikipedia.org/wiki/Poikiloderma"
+            }
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "name": "police violence",
+    "qid": "Q96441150",
+    "icd_10": "Y35",
+    "description": "use of force by a police officer",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "use of force",
+                "qid": "Q971119",
+                "url": "https://en.wikipedia.org/wiki/Use_of_force"
+            },
+            {
+                "name": "institutional violence",
+                "qid": "Q30904503"
+            }
+        ]
+    }
+}

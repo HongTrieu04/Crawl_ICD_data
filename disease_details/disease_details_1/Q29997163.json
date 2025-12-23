@@ -1,0 +1,27 @@
+{
+    "name": "elective cesarean section",
+    "qid": "Q29997163",
+    "icd_10": "O82.0",
+    "description": "cesarean section that is scheduled",
+    "aliases": [
+        "elective caesarean delivery",
+        "elective caesarean section",
+        "elective cesarean delivery"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "cesarean section",
+                "qid": "Q228036",
+                "url": "https://en.wikipedia.org/wiki/Caesarean_section"
+            },
+            {
+                "name": "elective surgery",
+                "qid": "Q5354947",
+                "url": "https://en.wikipedia.org/wiki/Elective_surgery"
+            }
+        ]
+    }
+}

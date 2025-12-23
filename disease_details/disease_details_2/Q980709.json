@@ -1,0 +1,86 @@
+{
+    "name": "status epilepticus",
+    "qid": "Q980709",
+    "icd_10": "G41",
+    "description": "human disease",
+    "aliases": [
+        "SE",
+        "complex partial status epilepticus",
+        "petit mal status epilepticus",
+        "tonic-clonic status epilepticus"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Status_epilepticus",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "epilepsy",
+                "qid": "Q41571",
+                "url": "https://en.wikipedia.org/wiki/Epilepsy"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "diazepam",
+                "qid": "Q210402",
+                "url": "https://en.wikipedia.org/wiki/Diazepam"
+            },
+            {
+                "name": "phenobarbital",
+                "qid": "Q407241",
+                "url": "https://en.wikipedia.org/wiki/Phenobarbital"
+            },
+            {
+                "name": "lorazepam",
+                "qid": "Q408265",
+                "url": "https://en.wikipedia.org/wiki/Lorazepam"
+            },
+            {
+                "name": "(RS)-pentobarbital",
+                "qid": "Q409632",
+                "url": "https://en.wikipedia.org/wiki/Pentobarbital"
+            },
+            {
+                "name": "amobarbital",
+                "qid": "Q415850",
+                "url": "https://en.wikipedia.org/wiki/Amobarbital"
+            },
+            {
+                "name": "etomidate",
+                "qid": "Q418445",
+                "url": "https://en.wikipedia.org/wiki/Etomidate"
+            },
+            {
+                "name": "propofol",
+                "qid": "Q422740",
+                "url": "https://en.wikipedia.org/wiki/Propofol"
+            },
+            {
+                "name": "midazolam",
+                "qid": "Q423071",
+                "url": "https://en.wikipedia.org/wiki/Midazolam"
+            },
+            {
+                "name": "fosphenytoin",
+                "qid": "Q5473363",
+                "url": "https://en.wikipedia.org/wiki/Fosphenytoin"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            },
+            {
+                "name": "epileptology",
+                "qid": "Q23688644"
+            }
+        ]
+    }
+}

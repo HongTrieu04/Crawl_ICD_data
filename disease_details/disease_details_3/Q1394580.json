@@ -1,0 +1,34 @@
+{
+    "name": "paraneoplastic pemphigus",
+    "qid": "Q1394580",
+    "icd_10": "L10.8",
+    "description": "Pemphigus is a group of chronic autoimmune skin diseases characterised by blisters formation on the outer layer of the skin and the mucous membranes. Three clinical forms have been characterised, of which paraneoplastic pemphigus is extremely rare.",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Paraneoplastic_pemphigus",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "pemphigus",
+                "qid": "Q1483214",
+                "url": "https://en.wikipedia.org/wiki/Pemphigus"
+            },
+            {
+                "name": "paraneoplastic syndrome",
+                "qid": "Q936417",
+                "url": "https://en.wikipedia.org/wiki/Paraneoplastic_syndrome"
+            },
+            {
+                "name": "bullous skin disease",
+                "qid": "Q18557957"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ]
+    }
+}

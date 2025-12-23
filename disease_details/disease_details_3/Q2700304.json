@@ -1,0 +1,86 @@
+{
+    "name": "Bolivian hemorrhagic fever",
+    "qid": "Q2700304",
+    "icd_10": "A96.1",
+    "description": "hemorrhagic fever and zoonotic infectious disease originating in Bolivia after infection by Machupo virus",
+    "aliases": [
+        "Machupo hemorrhagic fever"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Bolivian_hemorrhagic_fever",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "rash",
+                "qid": "Q653197",
+                "url": "https://en.wikipedia.org/wiki/Rash"
+            },
+            {
+                "name": "gastrointestinal bleeding",
+                "qid": "Q1495657",
+                "url": "https://en.wikipedia.org/wiki/Gastrointestinal_bleeding"
+            },
+            {
+                "name": "bleeding",
+                "qid": "Q166019",
+                "url": "https://en.wikipedia.org/wiki/Bleeding"
+            },
+            {
+                "name": "nosebleed",
+                "qid": "Q202013",
+                "url": "https://en.wikipedia.org/wiki/Nosebleed"
+            },
+            {
+                "name": "alopecia",
+                "qid": "Q2697787",
+                "url": "https://en.wikipedia.org/wiki/Alopecia"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "blood plasma",
+                "qid": "Q79749",
+                "url": "https://en.wikipedia.org/wiki/Blood_plasma"
+            },
+            {
+                "name": "ribavirin",
+                "qid": "Q421862",
+                "url": "https://en.wikipedia.org/wiki/Ribavirin"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "viral infectious disease",
+                "qid": "Q1928978",
+                "url": "https://en.wikipedia.org/wiki/Viral_disease"
+            },
+            {
+                "name": "arenavirus hemorrhagic fever",
+                "qid": "Q19001357"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Chapare mammarenavirus",
+                "qid": "Q24719938",
+                "url": "https://en.wikipedia.org/wiki/Chapare_virus"
+            },
+            {
+                "name": "Machupo virus",
+                "qid": "Q3560886"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "infection in pregnancy",
+    "qid": "Q18211561",
+    "icd_10": "O98",
+    "description": "becoming infected with a disease while pregnant",
+    "aliases": [
+        "Pregnancy Complications, Infectious"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Susceptibility_and_severity_of_infections_in_pregnancy",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "intercurrent disease in pregnancy",
+                "qid": "Q16154420",
+                "url": "https://en.wikipedia.org/wiki/Pre-existing_disease_in_pregnancy"
+            },
+            {
+                "name": "infectious disease",
+                "qid": "Q18123741",
+                "url": "https://en.wikipedia.org/wiki/Infectious_disease"
+            }
+        ]
+    }
+}

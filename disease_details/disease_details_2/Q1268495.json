@@ -1,0 +1,30 @@
+{
+    "name": "metrorrhagia",
+    "qid": "Q1268495",
+    "icd_10": "N92.4",
+    "description": "uterine bleeding between menstrual periods",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Intermenstrual_bleeding",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "abnormal uterine bleeding",
+                "qid": "Q2633143",
+                "url": "https://en.wikipedia.org/wiki/Abnormal_uterine_bleeding"
+            },
+            {
+                "name": "menorrhagia",
+                "qid": "Q1494682",
+                "url": "https://en.wikipedia.org/wiki/Heavy_menstrual_bleeding"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gynaecology",
+                "qid": "Q1221899",
+                "url": "https://en.wikipedia.org/wiki/Gynaecology"
+            }
+        ]
+    }
+}

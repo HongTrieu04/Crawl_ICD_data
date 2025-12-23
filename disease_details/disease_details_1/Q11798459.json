@@ -1,0 +1,25 @@
+{
+    "name": "esophageal burn",
+    "qid": "Q11798459",
+    "icd_10": "T28.6",
+    "description": "thermal or caustic injury to the esophagus",
+    "aliases": [
+        "Burn of oesophagus"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "burn",
+                "qid": "Q170518",
+                "url": "https://en.wikipedia.org/wiki/Burn"
+            },
+            {
+                "name": "esophageal disease",
+                "qid": "Q2912193",
+                "url": "https://en.wikipedia.org/wiki/Esophageal_disease"
+            }
+        ]
+    }
+}

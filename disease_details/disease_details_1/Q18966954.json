@@ -1,0 +1,31 @@
+{
+    "name": "staphylococcal septicemia",
+    "qid": "Q18966954",
+    "icd_10": "A41.2",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete staphylococcal septicemia"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Drug used for treatment": [
+            {
+                "name": "benzylpenicillin",
+                "qid": "Q258450",
+                "url": "https://en.wikipedia.org/wiki/Benzylpenicillin"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "staphylococcal infection",
+                "qid": "Q34879",
+                "url": "https://en.wikipedia.org/wiki/Staphylococcal_infection"
+            },
+            {
+                "name": "bacterial sepsis",
+                "qid": "Q55009180"
+            }
+        ]
+    }
+}

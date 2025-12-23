@@ -1,0 +1,31 @@
+{
+    "name": "Snapping hip syndrome",
+    "qid": "Q1138264",
+    "icd_10": "R29.4",
+    "description": "medical condition",
+    "aliases": [
+        "Perrin-Ferraton disease"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Snapping_hip_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            },
+            {
+                "name": "Rehabilitation",
+                "qid": "Q26842021"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "occupational disease",
+                "qid": "Q637816",
+                "url": "https://en.wikipedia.org/wiki/Occupational_disease"
+            }
+        ]
+    }
+}

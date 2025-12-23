@@ -1,0 +1,31 @@
+{
+    "name": "necrosis of ear ossicle",
+    "qid": "Q18554172",
+    "icd_10": "H74.3",
+    "description": "Human disease",
+    "aliases": [
+        "partial loss or necrosis of ear ossicles"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "ear disease",
+                "qid": "Q5325633",
+                "url": "https://en.wikipedia.org/wiki/Ear_disease"
+            },
+            {
+                "name": "middle ear disease",
+                "qid": "Q18556619"
+            }
+        ]
+    }
+}

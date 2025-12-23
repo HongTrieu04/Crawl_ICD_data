@@ -1,0 +1,31 @@
+{
+    "name": "chemical eye injury",
+    "qid": "Q5090456",
+    "icd_10": "T26.9",
+    "description": "medical condition",
+    "aliases": [
+        "corneal burn"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Chemical_eye_injury",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "chemical burn",
+                "qid": "Q2141836",
+                "url": "https://en.wikipedia.org/wiki/Chemical_burn"
+            },
+            {
+                "name": "eye burn",
+                "qid": "Q4331896"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ]
+    }
+}

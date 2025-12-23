@@ -1,0 +1,39 @@
+{
+    "name": "rectosigmoid junction cancer",
+    "qid": "Q18555197",
+    "icd_10": "C19",
+    "description": "Human disease",
+    "aliases": [
+        "cancer of rectosigmoid junction",
+        "malignant neoplasm of rectosigmoid",
+        "malignant neoplasm of rectosigmoid junction",
+        "Malignant Neoplasm of the Rectosigmoid Junction",
+        "malignant rectosigmoid junction neoplasm",
+        "Malignant Rectosigmoid Neoplasm",
+        "malignant Rectosigmoid tumor",
+        "malignant tumor of rectosigmoid junction",
+        "malignant tumor of rectosigmoid junction (disorder)",
+        "Malignant Tumor of the Rectosigmoid Junction"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "sigmoid colon cancer",
+                "qid": "Q18554265"
+            },
+            {
+                "name": "rectosigmoid junction neoplasm",
+                "qid": "Q18555195"
+            }
+        ]
+    }
+}

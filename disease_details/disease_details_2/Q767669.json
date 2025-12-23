@@ -1,0 +1,35 @@
+{
+    "name": "vision disorder",
+    "qid": "Q767669",
+    "icd_10": "H53.8",
+    "description": "human disease",
+    "aliases": [
+        "obsolete vision disorder",
+        "obsolete visual alteration",
+        "vision disorders",
+        "visual alteration",
+        "visual disorder"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Vision_disorder",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "eye disease",
+                "qid": "Q3041498",
+                "url": "https://en.wikipedia.org/wiki/Eye_disease"
+            },
+            {
+                "name": "sensation disorder",
+                "qid": "Q11850222"
+            }
+        ]
+    }
+}

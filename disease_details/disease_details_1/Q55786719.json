@@ -1,0 +1,21 @@
+{
+    "name": "Y chromosome number anomaly",
+    "qid": "Q55786719",
+    "icd_10": "Q98.9",
+    "description": "human disease",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "Y-linked disease",
+                "qid": "Q18553441"
+            },
+            {
+                "name": "gonosome number anomaly",
+                "qid": "Q55789091"
+            }
+        ]
+    }
+}

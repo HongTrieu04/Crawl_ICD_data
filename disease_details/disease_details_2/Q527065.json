@@ -1,0 +1,28 @@
+{
+    "name": "anophthalmia",
+    "qid": "Q527065",
+    "icd_10": "Q11.1",
+    "description": "absence of one or both eyes",
+    "aliases": [
+        "anophthalmos",
+        "Microftalmia congenita"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Anophthalmia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "agenesis",
+                "qid": "Q392604",
+                "url": "https://en.wikipedia.org/wiki/Agenesis"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

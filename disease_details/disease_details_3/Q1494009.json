@@ -1,0 +1,31 @@
+{
+    "name": "pulmonary cyst",
+    "qid": "Q1494009",
+    "icd_10": "J98.4",
+    "description": "medical condition",
+    "aliases": [
+        "lung cyst"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Focal_lung_pneumatosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "cyst",
+                "qid": "Q193211",
+                "url": "https://en.wikipedia.org/wiki/Cyst"
+            },
+            {
+                "name": "lung disease",
+                "qid": "Q3392853"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ]
+    }
+}

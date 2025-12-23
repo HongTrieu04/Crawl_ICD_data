@@ -1,0 +1,30 @@
+{
+    "name": "anorectal abscess",
+    "qid": "Q2071131",
+    "icd_10": "K61.0",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Anorectal_abscess",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            },
+            {
+                "name": "surgery",
+                "qid": "Q40821",
+                "url": "https://en.wikipedia.org/wiki/Surgery"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "anorectal disorder",
+                "qid": "Q4770164",
+                "url": "https://en.wikipedia.org/wiki/Anorectal_disorder"
+            }
+        ]
+    }
+}

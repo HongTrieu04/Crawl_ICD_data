@@ -1,0 +1,27 @@
+{
+    "name": "Infantile acne",
+    "qid": "Q341991",
+    "icd_10": "L70.4",
+    "description": "medical condition",
+    "aliases": [
+        "Acne infantum"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Infantile_acne",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "acne",
+                "qid": "Q79928",
+                "url": "https://en.wikipedia.org/wiki/Acne"
+            }
+        ]
+    }
+}

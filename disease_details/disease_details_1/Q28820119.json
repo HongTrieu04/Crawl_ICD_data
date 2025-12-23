@@ -1,0 +1,32 @@
+{
+    "name": "Microcephaly with spastic diplegia",
+    "qid": "Q28820119",
+    "icd_10": "G82.19",
+    "description": "human disease",
+    "aliases": [
+        "Microcephaly With Spastic Diplegia",
+        "Paine syndrome",
+        "Seemanova Syndrome 1"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "spastic diplegia",
+                "qid": "Q3029045",
+                "url": "https://en.wikipedia.org/wiki/Spastic_diplegia"
+            },
+            {
+                "name": "genetic disease",
+                "qid": "Q200779",
+                "url": "https://en.wikipedia.org/wiki/Genetic_disorder"
+            },
+            {
+                "name": "microcephaly",
+                "qid": "Q431643",
+                "url": "https://en.wikipedia.org/wiki/Microcephaly"
+            }
+        ]
+    }
+}

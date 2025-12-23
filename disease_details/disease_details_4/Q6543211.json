@@ -1,0 +1,30 @@
+{
+    "name": "Lichen ruber moniliformis",
+    "qid": "Q6543211",
+    "icd_10": "L44.3",
+    "description": "skin disease",
+    "aliases": [
+        "Keratosis lichenoides chronica",
+        "Morbus moniliformis lichenoide",
+        "Nekam disease",
+        "Wise-Rein disease"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Lichen_ruber_moniliformis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "lichen planus",
+                "qid": "Q848371",
+                "url": "https://en.wikipedia.org/wiki/Lichen_planus"
+            }
+        ]
+    }
+}

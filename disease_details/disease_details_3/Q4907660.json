@@ -1,0 +1,35 @@
+{
+    "name": "bile acid malabsorption",
+    "qid": "Q4907660",
+    "icd_10": "K90.8",
+    "description": "human disease",
+    "aliases": [
+        "bile acid diarrhea",
+        "PBAM",
+        "BILE ACID MALABSORPTION, PRIMARY",
+        "BILE ACID MALABSORPTION, PRIMARY; PBAM"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Bile_acid_malabsorption",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "genetic disease",
+                "qid": "Q200779",
+                "url": "https://en.wikipedia.org/wiki/Genetic_disorder"
+            },
+            {
+                "name": "malabsorption",
+                "qid": "Q1442923",
+                "url": "https://en.wikipedia.org/wiki/Malabsorption"
+            }
+        ]
+    }
+}

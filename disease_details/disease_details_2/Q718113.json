@@ -1,0 +1,39 @@
+{
+    "name": "weight loss",
+    "qid": "Q718113",
+    "icd_10": "R63.4",
+    "description": "reduction of the total body mass",
+    "aliases": [
+        "loss of weight"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Matthew%20Riggs%20PHAT2FIT.jpg",
+    "url": "https://en.wikipedia.org/wiki/Weight_loss",
+    "details": {
+        "Drug used for treatment": [
+            {
+                "name": "bariatric medicine",
+                "qid": "Q1470093",
+                "url": "https://en.wikipedia.org/wiki/Bariatrics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "management of obesity",
+                "qid": "Q6746705",
+                "url": "https://en.wikipedia.org/wiki/Management_of_obesity"
+            },
+            {
+                "name": "body weight change",
+                "qid": "Q21128838"
+            },
+            {
+                "name": "reduction",
+                "qid": "Q47496130"
+            },
+            {
+                "name": "nutrition, metabolism, and development symptom",
+                "qid": "Q102187407"
+            }
+        ]
+    }
+}

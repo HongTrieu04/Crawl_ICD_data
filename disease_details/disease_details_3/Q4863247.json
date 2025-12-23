@@ -1,0 +1,53 @@
+{
+    "name": "Barraquer–Simons syndrome",
+    "qid": "Q4863247",
+    "icd_10": "E88.1",
+    "description": "Acquired partial lipodystrophy, or Barraquer-Simons syndrome, is characterised by the association of lipoatrophy of the upper part of the body and lipohypertrophy of the thighs",
+    "aliases": [
+        "APLD",
+        "Apld, Susceptibility to",
+        "Barraquer-Simons syndrome",
+        "Lipodystrophy, Cephalothoracic Type",
+        "LIPODYSTROPHY, PARTIAL, ACQUIRED, SUSCEPTIBILITY TO",
+        "LIPODYSTROPHY, PARTIAL, ACQUIRED, SUSCEPTIBILITY TO; APLD",
+        "Lipodystrophy, Partial, Progressive",
+        "Partial Acquired Lipodystrophy",
+        "Progressive cephalothoracic lipodystrophy",
+        "susceptibility to partial acquired lipodystrophy"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Barraquer%E2%80%93Simons_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "progeroid syndrome",
+                "qid": "Q6139748",
+                "url": "https://en.wikipedia.org/wiki/Progeroid_syndromes"
+            },
+            {
+                "name": "lipodystrophy",
+                "qid": "Q1538213",
+                "url": "https://en.wikipedia.org/wiki/Lipodystrophy"
+            },
+            {
+                "name": "partial lipodystrophy",
+                "qid": "Q53661802"
+            },
+            {
+                "name": "developmental anomaly of metabolic origin",
+                "qid": "Q55785399"
+            },
+            {
+                "name": "acquired lipodystrophy",
+                "qid": "Q55789110"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ]
+    }
+}

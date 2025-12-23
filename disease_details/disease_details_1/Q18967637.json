@@ -1,0 +1,29 @@
+{
+    "name": "pneumococcal septicemia",
+    "qid": "Q18967637",
+    "icd_10": "A40.3",
+    "description": "human disease",
+    "aliases": [
+        "obsolete pneumococcal septicemia",
+        "Pneumococcal sepsis",
+        "Pneumococcal septicemia (disorder)",
+        "Pneumococcal septicemia [Streptococcus pneumoniae septicemia]",
+        "Septicaemia due to streptococcus pneumoniae",
+        "Septicemia due to streptococcus pneumoniae (disorder)",
+        "Streptococcus pneumoniae septicemia"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "streptococcal septicemia",
+                "qid": "Q18967639"
+            },
+            {
+                "name": "idiopathic severe pneumococcemia",
+                "qid": "Q55787745"
+            }
+        ]
+    }
+}

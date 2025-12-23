@@ -1,0 +1,32 @@
+{
+    "name": "sacroiliitis",
+    "qid": "Q2213687",
+    "icd_10": "M46.1",
+    "description": "inflammation of pelvis",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sacroiliitis%20MRI%20ar1934-5.gif",
+    "url": "https://en.wikipedia.org/wiki/Sacroiliitis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "inflammation",
+                "qid": "Q101991",
+                "url": "https://en.wikipedia.org/wiki/Inflammation"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "sacroiliac joint",
+                "qid": "Q1543208",
+                "url": "https://en.wikipedia.org/wiki/Sacroiliac_joint"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "name": "herpetic vulvovaginitis",
+    "qid": "Q19001219",
+    "icd_10": "A60.04",
+    "description": "Human disease",
+    "aliases": [
+        "Herpetic Vulvovaginitis",
+        "Herpetic vulvovaginitis (disorder)"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "vulvovaginitis",
+                "qid": "Q2535470"
+            },
+            {
+                "name": "vulva herpetic infectious disease",
+                "qid": "Q19001317"
+            }
+        ]
+    }
+}

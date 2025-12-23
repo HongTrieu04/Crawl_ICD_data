@@ -1,0 +1,27 @@
+{
+    "name": "perineal tear",
+    "qid": "Q1158662",
+    "icd_10": "O70",
+    "description": "childbirth-related injury",
+    "aliases": [
+        "laceration of the perineum",
+        "obstetric laceration"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Perineal_tear",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "obstetrics",
+                "qid": "Q5284418",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "female genital trauma",
+                "qid": "Q4366482"
+            }
+        ]
+    }
+}

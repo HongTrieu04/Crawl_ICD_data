@@ -1,0 +1,35 @@
+{
+    "name": "tachycardia-induced cardiomyopathy",
+    "qid": "Q2386822",
+    "icd_10": "I42.9",
+    "description": "medical condition",
+    "aliases": [
+        "chronotropic cardiomyopathy",
+        "tachycardiomyopathy"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Tachycardia-induced_cardiomyopathy",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "tachycardia",
+                "qid": "Q209583",
+                "url": "https://en.wikipedia.org/wiki/Tachycardia"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "cardiomyopathy",
+                "qid": "Q847583",
+                "url": "https://en.wikipedia.org/wiki/Cardiomyopathy"
+            }
+        ]
+    }
+}

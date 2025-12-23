@@ -1,0 +1,37 @@
+{
+    "name": "tubulopathy",
+    "qid": "Q1048573",
+    "icd_10": "N25",
+    "description": "medical condition",
+    "aliases": [
+        "disease of renal tubule",
+        "disorder of renal tubule",
+        "renal tubular disease",
+        "renal tubular disorder",
+        "renal tubule disease"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hydro.jpg",
+    "url": "https://en.wikipedia.org/wiki/Tubulopathy",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "nephrology",
+                "qid": "Q177635",
+                "url": "https://en.wikipedia.org/wiki/Nephrology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "kidney disease",
+                "qid": "Q1054718",
+                "url": "https://en.wikipedia.org/wiki/Kidney_disease"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "kidney tubule",
+                "qid": "Q11465565"
+            }
+        ]
+    }
+}

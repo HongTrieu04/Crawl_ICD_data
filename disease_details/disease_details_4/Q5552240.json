@@ -1,0 +1,17 @@
+{
+    "name": "germinal matrix hemorrhage",
+    "qid": "Q5552240",
+    "icd_10": "P52",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Germinal_matrix_hemorrhage",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "Intraventricular hemorrhage from any perinatal cause",
+                "qid": "Q18975838"
+            }
+        ]
+    }
+}

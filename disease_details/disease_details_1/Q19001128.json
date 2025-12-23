@@ -1,0 +1,20 @@
+{
+    "name": "toxic gastroenteritis and colitis",
+    "qid": "Q19001128",
+    "icd_10": "K52.1",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete toxic gastroenteritis and colitis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "intestinal disease",
+                "qid": "Q3055380",
+                "url": "https://en.wikipedia.org/wiki/Enteropathy"
+            }
+        ]
+    }
+}

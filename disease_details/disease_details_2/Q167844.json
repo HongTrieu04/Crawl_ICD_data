@@ -1,0 +1,91 @@
+{
+    "name": "conjunctivitis",
+    "qid": "Q167844",
+    "icd_10": "H10",
+    "description": "inflammation of the outermost layer of the eye and the inner surface of the eyelids",
+    "aliases": [
+        "pinkeye",
+        "conjunctiva inflammation",
+        "conjunctivaitis",
+        "madras eye",
+        "pink eye"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Conjunctivitis%205174.jpg",
+    "url": "https://en.wikipedia.org/wiki/Conjunctivitis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "eye disease",
+                "qid": "Q3041498",
+                "url": "https://en.wikipedia.org/wiki/Eye_disease"
+            },
+            {
+                "name": "inflammatory disease",
+                "qid": "Q3508753"
+            },
+            {
+                "name": "conjunctival disease",
+                "qid": "Q18556249"
+            },
+            {
+                "name": "eye symptom",
+                "qid": "Q102186610"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "inflammation",
+                "qid": "Q101991",
+                "url": "https://en.wikipedia.org/wiki/Inflammation"
+            },
+            {
+                "name": "red eye",
+                "qid": "Q2610154",
+                "url": "https://en.wikipedia.org/wiki/Red_eye_(medicine)"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "moxifloxacin",
+                "qid": "Q424940",
+                "url": "https://en.wikipedia.org/wiki/Moxifloxacin"
+            },
+            {
+                "name": "tobramycin",
+                "qid": "Q1758380",
+                "url": "https://en.wikipedia.org/wiki/Tobramycin"
+            },
+            {
+                "name": "natamycin",
+                "qid": "Q248466",
+                "url": "https://en.wikipedia.org/wiki/Natamycin"
+            },
+            {
+                "name": "tacrolimus",
+                "qid": "Q411648",
+                "url": "https://en.wikipedia.org/wiki/Tacrolimus"
+            },
+            {
+                "name": "norfloxacin",
+                "qid": "Q417897",
+                "url": "https://en.wikipedia.org/wiki/Norfloxacin"
+            },
+            {
+                "name": "valinegramicidin a",
+                "qid": "Q27271585"
+            }
+        ]
+    }
+}

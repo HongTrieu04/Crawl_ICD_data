@@ -1,0 +1,62 @@
+{
+    "name": "urinary incontinence",
+    "qid": "Q281490",
+    "icd_10": "R32",
+    "description": "uncontrolled leakage of urine",
+    "aliases": [
+        "bladder incontinence",
+        "loss of bladder control"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Urinary_incontinence",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "midodrine",
+                "qid": "Q415051",
+                "url": "https://en.wikipedia.org/wiki/Midodrine"
+            },
+            {
+                "name": "phenoxybenzamine",
+                "qid": "Q419824",
+                "url": "https://en.wikipedia.org/wiki/Phenoxybenzamine"
+            },
+            {
+                "name": "tolterodine",
+                "qid": "Q424312",
+                "url": "https://en.wikipedia.org/wiki/Tolterodine"
+            },
+            {
+                "name": "flavoxate",
+                "qid": "Q848264",
+                "url": "https://en.wikipedia.org/wiki/Flavoxate"
+            },
+            {
+                "name": "(RS)-oxybutynin",
+                "qid": "Q1060922",
+                "url": "https://en.wikipedia.org/wiki/Oxybutynin"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "urological symptom",
+                "qid": "Q2565950"
+            },
+            {
+                "name": "impairment of continence",
+                "qid": "Q3232712"
+            },
+            {
+                "name": "urination disorder",
+                "qid": "Q19000619"
+            }
+        ]
+    }
+}

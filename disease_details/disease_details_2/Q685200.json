@@ -1,0 +1,98 @@
+{
+    "name": "superior canal dehiscence",
+    "qid": "Q685200",
+    "icd_10": "H83.8",
+    "description": "thinning or erosion of the bony layer covering the superior semicircular canal, causing abnormal exposure of the vestibular membranous labyrinth to the middle cranial fossa",
+    "aliases": [
+        "SCDS",
+        "canal dehiscence syndrome",
+        "minor's syndrome",
+        "minor’s syndrome",
+        "minorbs syndrome",
+        "SCD syndrome",
+        "Semicircular Canal Dehiscence",
+        "superior canal syndrome",
+        "superior semicircular canal dehiscence",
+        "superior semicircular canal dehiscence syndrome",
+        "Superior Semicircular Canal Dehiscence Syndrome",
+        "third mobile window syndrome"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Superior%20canal%20dehiscence%20syndrome%20by%20hariadhi.svg",
+    "url": "https://en.wikipedia.org/wiki/Superior_canal_dehiscence_syndrome",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            },
+            {
+                "name": "tinnitus",
+                "qid": "Q192309",
+                "url": "https://en.wikipedia.org/wiki/Tinnitus"
+            },
+            {
+                "name": "dizziness",
+                "qid": "Q10916362",
+                "url": "https://en.wikipedia.org/wiki/Dizziness"
+            },
+            {
+                "name": "nystagmus",
+                "qid": "Q220989",
+                "url": "https://en.wikipedia.org/wiki/Nystagmus"
+            },
+            {
+                "name": "conductive hearing loss",
+                "qid": "Q1581308",
+                "url": "https://en.wikipedia.org/wiki/Conductive_hearing_loss"
+            },
+            {
+                "name": "vertigo",
+                "qid": "Q10686316",
+                "url": "https://en.wikipedia.org/wiki/Vertigo"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "inner ear",
+                "qid": "Q212344",
+                "url": "https://en.wikipedia.org/wiki/Inner_ear"
+            },
+            {
+                "name": "inner ear disease",
+                "qid": "Q18555242"
+            },
+            {
+                "name": "rare otorhinolaryngologic disease",
+                "qid": "Q55789056"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "inner ear",
+                "qid": "Q212344",
+                "url": "https://en.wikipedia.org/wiki/Inner_ear"
+            },
+            {
+                "name": "vestibular labyrinth",
+                "qid": "Q25600755"
+            },
+            {
+                "name": "anterior semicircular canal",
+                "qid": "Q29717447"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurotology",
+                "qid": "Q1406609",
+                "url": "https://en.wikipedia.org/wiki/Neurotology"
+            }
+        ]
+    }
+}

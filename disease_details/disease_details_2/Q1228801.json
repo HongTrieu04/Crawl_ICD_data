@@ -1,0 +1,32 @@
+{
+    "name": "discoid lupus erythematosus",
+    "qid": "Q1228801",
+    "icd_10": "L93.0",
+    "description": "autoimmune skin condition",
+    "aliases": [
+        "discoid lupus",
+        "DLE"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/An%20American%20text-book%20of%20genito-urinary%20diseases%2C%20syphilis%20and%20diseases%20of%20the%20skin%20%281898%29%20%2814782759905%29.jpg",
+    "url": "https://en.wikipedia.org/wiki/Discoid_lupus_erythematosus",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "lupus erythematosus",
+                "qid": "Q188297",
+                "url": "https://en.wikipedia.org/wiki/Lupus_erythematosus"
+            },
+            {
+                "name": "chronic cutaneous lupus erythematosus",
+                "qid": "Q55785567"
+            }
+        ]
+    }
+}

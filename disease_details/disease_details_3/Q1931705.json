@@ -1,0 +1,34 @@
+{
+    "name": "menopausal hormone therapy",
+    "qid": "Q1931705",
+    "icd_10": "N95.0",
+    "description": "treatment for menopausal women",
+    "aliases": [
+        "hormone replacement therapy",
+        "HRT",
+        "postmenopausal hormone therapy"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Postmenopausal_hormone_therapy",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            },
+            {
+                "name": "gynaecology",
+                "qid": "Q1221899",
+                "url": "https://en.wikipedia.org/wiki/Gynaecology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "hormone replacement therapy",
+                "qid": "Q3354346",
+                "url": "https://en.wikipedia.org/wiki/Hormone_replacement_therapy"
+            }
+        ]
+    }
+}

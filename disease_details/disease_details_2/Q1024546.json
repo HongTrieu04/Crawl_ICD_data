@@ -1,0 +1,33 @@
+{
+    "name": "cancer of unknown primary origin",
+    "qid": "Q1024546",
+    "icd_10": "C80.0",
+    "description": "disease",
+    "aliases": [
+        "neoplasm, unknown primary",
+        "neoplasms, unknown primary"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Cancer_of_unknown_primary_origin",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "metastasis",
+                "qid": "Q181876",
+                "url": "https://en.wikipedia.org/wiki/Metastasis"
+            },
+            {
+                "name": "neoplasm",
+                "qid": "Q1216998",
+                "url": "https://en.wikipedia.org/wiki/Neoplasm"
+            }
+        ]
+    }
+}

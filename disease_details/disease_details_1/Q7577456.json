@@ -1,0 +1,31 @@
+{
+    "name": "abnormal spinal curvature",
+    "qid": "Q7577456",
+    "icd_10": "Q76.3",
+    "description": null,
+    "aliases": [
+        "spinal curvatures"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Spinal_curvature",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "spinal disease",
+                "qid": "Q7577457",
+                "url": "https://en.wikipedia.org/wiki/Spinal_disease"
+            },
+            {
+                "name": "spinal curvature",
+                "qid": "Q125983827"
+            }
+        ]
+    }
+}

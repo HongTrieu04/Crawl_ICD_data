@@ -1,0 +1,98 @@
+{
+    "name": "thrombosis",
+    "qid": "Q261327",
+    "icd_10": "I82",
+    "description": "vascular disease caused by the formation of a blood clot inside a blood vessel, obstructing the flow of blood through the circulatory system",
+    "aliases": [
+        "Blood Clots",
+        "Thrombus",
+        "Blood Clot",
+        "Clot, Blood",
+        "Clots, Blood",
+        "Thromboses",
+        "Thrombosis",
+        "thrombotic disorder"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Blausen%200089%20BloodClot%20Motion.png",
+    "url": "https://en.wikipedia.org/wiki/Thrombosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "vascular occlusion",
+                "qid": "Q1248007",
+                "url": "https://en.wikipedia.org/wiki/Vascular_occlusion"
+            },
+            {
+                "name": "vascular disease",
+                "qid": "Q1266890",
+                "url": "https://en.wikipedia.org/wiki/Vascular_disease"
+            },
+            {
+                "name": "embolism and thrombosis",
+                "qid": "Q54944012"
+            },
+            {
+                "name": "hematologic disorder",
+                "qid": "Q98844836"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            },
+            {
+                "name": "angiology",
+                "qid": "Q539690",
+                "url": "https://en.wikipedia.org/wiki/Angiology"
+            },
+            {
+                "name": "vascular surgery",
+                "qid": "Q1498222",
+                "url": "https://en.wikipedia.org/wiki/Vascular_surgery"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "eptifibatide",
+                "qid": "Q2295855",
+                "url": "https://en.wikipedia.org/wiki/Eptifibatide"
+            },
+            {
+                "name": "fondaparinux",
+                "qid": "Q27077698",
+                "url": "https://en.wikipedia.org/wiki/Fondaparinux"
+            },
+            {
+                "name": "rac-warfarin",
+                "qid": "Q113368879",
+                "url": "https://en.wikipedia.org/wiki/Warfarin"
+            },
+            {
+                "name": "clopidogrel",
+                "qid": "Q410237",
+                "url": "https://en.wikipedia.org/wiki/Clopidogrel"
+            },
+            {
+                "name": "apixaban",
+                "qid": "Q414462",
+                "url": "https://en.wikipedia.org/wiki/Apixaban"
+            },
+            {
+                "name": "rivaroxaban",
+                "qid": "Q420262",
+                "url": "https://en.wikipedia.org/wiki/Rivaroxaban"
+            },
+            {
+                "name": "dabigatran etexilate",
+                "qid": "Q20078502"
+            }
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "hypoganglionosis",
+    "qid": "Q3801602",
+    "icd_10": "Q43.2",
+    "description": "rare congenital nervous system disorder",
+    "aliases": [
+        "Congenital isolated hypoganglionosis",
+        "Intestinal ganglion cells insignificant disease"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            }
+        ]
+    }
+}

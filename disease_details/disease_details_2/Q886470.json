@@ -1,0 +1,23 @@
+{
+    "name": "blood alcohol level",
+    "qid": "Q886470",
+    "icd_10": "R78.0",
+    "description": "metric of alcohol intoxication",
+    "aliases": [
+        "blood alcohol content",
+        "BAC",
+        "blood alcohol concentration",
+        "blood ethanol concentration"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Campanya%20de%20controls%20d%27alcholemia%20i%20consum%20de%20drogues.jpg",
+    "url": "https://en.wikipedia.org/wiki/Blood_alcohol_content",
+    "details": {
+        "Anatomical location": [
+            {
+                "name": "blood serum",
+                "qid": "Q110084",
+                "url": "https://en.wikipedia.org/wiki/Serum_(blood)"
+            }
+        ]
+    }
+}

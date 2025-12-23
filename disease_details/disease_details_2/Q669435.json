@@ -1,0 +1,36 @@
+{
+    "name": "renal agenesis",
+    "qid": "Q669435",
+    "icd_10": "Q60.2",
+    "description": "congenital disorder of urinary system",
+    "aliases": [
+        "renal hypoplasia",
+        "renal adysplasia",
+        "hereditary renal aplasia",
+        "hereditary urogenital adysplasia",
+        "renal aplasia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Renal_agenesis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "kidney disease",
+                "qid": "Q1054718",
+                "url": "https://en.wikipedia.org/wiki/Kidney_disease"
+            },
+            {
+                "name": "renal hypoplasia",
+                "qid": "Q24284111",
+                "url": "https://en.wikipedia.org/wiki/Renal_hypoplasia"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "name": "infiltrative lung tuberculosis",
+    "qid": "Q18967082",
+    "icd_10": "A15.0",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete infiltrative lung tuberculosis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "interstitial lung disease",
+                "qid": "Q1153419",
+                "url": "https://en.wikipedia.org/wiki/Interstitial_lung_disease"
+            },
+            {
+                "name": "pulmonary tuberculosis",
+                "qid": "Q13046587"
+            }
+        ]
+    }
+}

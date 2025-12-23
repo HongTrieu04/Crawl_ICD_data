@@ -1,0 +1,31 @@
+{
+    "name": "Cerebellar stroke syndrome",
+    "qid": "Q5064077",
+    "icd_10": "G46.4",
+    "description": "medical condition",
+    "aliases": [
+        "Cerebellar infarction"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Cerebellar_stroke_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "stroke",
+                "qid": "Q12202",
+                "url": "https://en.wikipedia.org/wiki/Stroke"
+            },
+            {
+                "name": "cerebellar disease",
+                "qid": "Q564123"
+            }
+        ]
+    }
+}

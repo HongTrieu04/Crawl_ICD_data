@@ -1,0 +1,47 @@
+{
+    "name": "adrenal gland neoplasm",
+    "qid": "Q4684715",
+    "icd_10": "C74",
+    "description": "neoplasm (disease) that involves the adrenal gland",
+    "aliases": [
+        "Adrenal cancer",
+        "adrenal gland neoplasm (disease)",
+        "adrenal gland neoplasms",
+        "adrenal gland tumor",
+        "adrenal mass",
+        "Adrenal Neoplasms",
+        "adrenal tumor",
+        "Adrenal Tumor",
+        "Neoplasm of Adrenal Gland",
+        "Neoplasm of the Adrenal Gland",
+        "Tumor of Adrenal Gland"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Adrenal_tumor",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "endocrine gland neoplasm",
+                "qid": "Q3542030",
+                "url": "https://en.wikipedia.org/wiki/Endocrine_gland_neoplasm"
+            },
+            {
+                "name": "adrenal gland disease",
+                "qid": "Q4684717",
+                "url": "https://en.wikipedia.org/wiki/Adrenal_gland_disorder"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ]
+    }
+}

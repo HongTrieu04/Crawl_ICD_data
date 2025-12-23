@@ -1,0 +1,27 @@
+{
+    "name": "Knuckle pads",
+    "qid": "Q6423734",
+    "icd_10": "M72.1",
+    "description": "human disease",
+    "aliases": [
+        "KNUCKLE PADS"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Knuckle_pads",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "genetic disease",
+                "qid": "Q200779",
+                "url": "https://en.wikipedia.org/wiki/Genetic_disorder"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ]
+    }
+}

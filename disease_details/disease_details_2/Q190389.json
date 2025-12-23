@@ -1,0 +1,28 @@
+{
+    "name": "central pain",
+    "qid": "Q190389",
+    "icd_10": "G89.0",
+    "description": "type of pain",
+    "aliases": [
+        "Central neuropathic pain",
+        "Central pain syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Central_pain_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "neuropathic pain",
+                "qid": "Q2798704",
+                "url": "https://en.wikipedia.org/wiki/Neuropathic_pain"
+            }
+        ]
+    }
+}

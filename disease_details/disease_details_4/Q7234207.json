@@ -1,0 +1,25 @@
+{
+    "name": "posterior ischemic optic neuropathy",
+    "qid": "Q7234207",
+    "icd_10": "H47.0",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Posterior_ischemic_optic_neuropathy",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "ischemic optic neuropathy",
+                "qid": "Q6079225",
+                "url": "https://en.wikipedia.org/wiki/Ischemic_optic_neuropathy"
+            }
+        ]
+    }
+}

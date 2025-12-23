@@ -1,0 +1,145 @@
+{
+    "name": "Pseudomonas infection",
+    "qid": "Q7255052",
+    "icd_10": "B96.5",
+    "description": "infections with bacteria of the genus pseudomonas",
+    "aliases": [
+        "Pseudomonas infections"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pseudomonas_infection",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "pediatrics",
+                "qid": "Q123028",
+                "url": "https://en.wikipedia.org/wiki/Pediatrics"
+            },
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            },
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Pseudomonas",
+                "qid": "Q131143",
+                "url": "https://en.wikipedia.org/wiki/Pseudomonas"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "lomefloxacin",
+                "qid": "Q203618",
+                "url": "https://en.wikipedia.org/wiki/Lomefloxacin"
+            },
+            {
+                "name": "ciprofloxacin",
+                "qid": "Q256602",
+                "url": "https://en.wikipedia.org/wiki/Ciprofloxacin"
+            },
+            {
+                "name": "amikacin",
+                "qid": "Q408529",
+                "url": "https://en.wikipedia.org/wiki/Amikacin"
+            },
+            {
+                "name": "norfloxacin",
+                "qid": "Q417897",
+                "url": "https://en.wikipedia.org/wiki/Norfloxacin"
+            },
+            {
+                "name": "piperacillin",
+                "qid": "Q423787",
+                "url": "https://en.wikipedia.org/wiki/Piperacillin"
+            },
+            {
+                "name": "levofloxacin",
+                "qid": "Q424193",
+                "url": "https://en.wikipedia.org/wiki/Levofloxacin"
+            },
+            {
+                "name": "moxifloxacin",
+                "qid": "Q424940",
+                "url": "https://en.wikipedia.org/wiki/Moxifloxacin"
+            },
+            {
+                "name": "aztreonam",
+                "qid": "Q418546",
+                "url": "https://en.wikipedia.org/wiki/Aztreonam"
+            },
+            {
+                "name": "meropenem",
+                "qid": "Q421670",
+                "url": "https://en.wikipedia.org/wiki/Meropenem"
+            },
+            {
+                "name": "gentamicin",
+                "qid": "Q422482",
+                "url": "https://en.wikipedia.org/wiki/Gentamicin"
+            },
+            {
+                "name": "imipen",
+                "qid": "Q425152",
+                "url": "https://en.wikipedia.org/wiki/Imipenem"
+            },
+            {
+                "name": "trovafloxacin",
+                "qid": "Q544393",
+                "url": "https://en.wikipedia.org/wiki/Trovafloxacin"
+            },
+            {
+                "name": "ceftazidime",
+                "qid": "Q808845",
+                "url": "https://en.wikipedia.org/wiki/Ceftazidime"
+            },
+            {
+                "name": "enoxacin",
+                "qid": "Q1639616",
+                "url": "https://en.wikipedia.org/wiki/Enoxacin"
+            },
+            {
+                "name": "tobramycin",
+                "qid": "Q1758380",
+                "url": "https://en.wikipedia.org/wiki/Tobramycin"
+            },
+            {
+                "name": "cefoperazone",
+                "qid": "Q2325775",
+                "url": "https://en.wikipedia.org/wiki/Cefoperazone"
+            },
+            {
+                "name": "cefepime",
+                "qid": "Q2552927",
+                "url": "https://en.wikipedia.org/wiki/Cefepime"
+            },
+            {
+                "name": "ticarcillin",
+                "qid": "Q2601832",
+                "url": "https://en.wikipedia.org/wiki/Ticarcillin"
+            },
+            {
+                "name": "mezlocillin",
+                "qid": "Q3307752",
+                "url": "https://en.wikipedia.org/wiki/Mezlocillin"
+            },
+            {
+                "name": "colistimethate",
+                "qid": "Q20817140"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "gram-negative bacterial infection",
+                "qid": "Q19597369",
+                "url": "https://en.wikipedia.org/wiki/Gram-negative_bacterial_infection"
+            }
+        ]
+    }
+}

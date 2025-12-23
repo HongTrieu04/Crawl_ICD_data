@@ -1,0 +1,97 @@
+{
+    "name": "cystoisosporiasis",
+    "qid": "Q428447",
+    "icd_10": "A07.3",
+    "description": "Human intestinal disease",
+    "aliases": [
+        "Cystoisosporiasis",
+        "isosporiasis",
+        "Isosporosis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cystoisospora%20belli%20oocyst%20in%20epithelial%20cell%20%28hematoxylin%20and%20eosin%29%202.jpg",
+    "url": "https://en.wikipedia.org/wiki/Isosporiasis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "waterborne disease",
+                "qid": "Q2006636",
+                "url": "https://en.wikipedia.org/wiki/Waterborne_disease"
+            },
+            {
+                "name": "coccidiosis",
+                "qid": "Q487837",
+                "url": "https://en.wikipedia.org/wiki/Coccidiosis"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "diarrhea",
+                "qid": "Q40878",
+                "url": "https://en.wikipedia.org/wiki/Diarrhea"
+            },
+            {
+                "name": "abdominal pain",
+                "qid": "Q183425",
+                "url": "https://en.wikipedia.org/wiki/Abdominal_pain"
+            },
+            {
+                "name": "dehydration",
+                "qid": "Q194290",
+                "url": "https://en.wikipedia.org/wiki/Dehydration"
+            },
+            {
+                "name": "weight loss",
+                "qid": "Q718113",
+                "url": "https://en.wikipedia.org/wiki/Weight_loss"
+            },
+            {
+                "name": "abdominal cramps",
+                "qid": "Q3002092"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "azithromycin",
+                "qid": "Q165399",
+                "url": "https://en.wikipedia.org/wiki/Azithromycin"
+            },
+            {
+                "name": "sulfamethoxazole/trimethoprim",
+                "qid": "Q898623",
+                "url": "https://en.wikipedia.org/wiki/Trimethoprim/sulfamethoxazole"
+            },
+            {
+                "name": "paromomycin",
+                "qid": "Q415625",
+                "url": "https://en.wikipedia.org/wiki/Paromomycin"
+            },
+            {
+                "name": "pyrimethamine",
+                "qid": "Q421072",
+                "url": "https://en.wikipedia.org/wiki/Pyrimethamine"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Isospora belli",
+                "qid": "Q2715018"
+            },
+            {
+                "name": "Isospora hominis",
+                "qid": "Q3155611"
+            }
+        ]
+    }
+}

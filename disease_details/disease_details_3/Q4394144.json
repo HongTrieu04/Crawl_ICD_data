@@ -1,0 +1,33 @@
+{
+    "name": "lattice corneal dystrophy",
+    "qid": "Q4394144",
+    "icd_10": "H18.5",
+    "description": "Human disease",
+    "aliases": [
+        "familial amyloid neuropathy, Finnish type",
+        "familial amyloid neuropathy, Finnish type (disorder)",
+        "Lattice corneal dystrophy (disorder)",
+        "Lattice corneal dystrophy [Ambiguous]"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Lattice_corneal_dystrophy",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "autosomal dominant disease",
+                "qid": "Q18553439"
+            },
+            {
+                "name": "epithelial-stromal TGFBI dystrophy",
+                "qid": "Q21154081"
+            }
+        ]
+    }
+}

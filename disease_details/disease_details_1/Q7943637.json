@@ -1,0 +1,43 @@
+{
+    "name": "Vulvar intraepithelial neoplasia",
+    "qid": "Q7943637",
+    "icd_10": "D07.1",
+    "description": "Intraepithelial neoplasia of the vulvar squamous epithelium. There is no evidence of invasion. This category includes vulvar high grade squamous intraepithelial lesion and vulvar intraepithelial neoplasia, differentiated type.",
+    "aliases": [
+        "VIN",
+        "Intraepithelial Neoplasia of the Vulva",
+        "Intraepithelial Neoplasia of Vulva",
+        "Squamous Vulvar Intraepithelial Neoplasia",
+        "Vulva Intraepithelial Neoplasia",
+        "Vulval Intraepithelial Neoplasia",
+        "Vulvar intraepithelial neoplasia, VIN",
+        "Vulvar intraepithelial tumor"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Vulvar_intraepithelial_neoplasia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "intraepithelial neoplasia",
+                "qid": "Q6058399",
+                "url": "https://en.wikipedia.org/wiki/Intraepithelial_neoplasia"
+            },
+            {
+                "name": "vulvar disease",
+                "qid": "Q18211751",
+                "url": "https://en.wikipedia.org/wiki/Vulvar_disease"
+            },
+            {
+                "name": "rare vulvovaginal tumor",
+                "qid": "Q55785788"
+            }
+        ]
+    }
+}

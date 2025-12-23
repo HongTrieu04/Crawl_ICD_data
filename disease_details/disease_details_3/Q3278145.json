@@ -1,0 +1,34 @@
+{
+    "name": "periodic fever syndrome",
+    "qid": "Q3278145",
+    "icd_10": "A68.9",
+    "description": "fevers of unknown etiology recurring over months or years",
+    "aliases": [
+        "autoinflammatory diseases",
+        "Hereditary Autoinflammatory Diseases",
+        "Periodic fever syndromes"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Periodic_fever_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "recurrent fever",
+                "qid": "Q3073149"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "autoinflammatory disease",
+                "qid": "Q26882919"
+            }
+        ]
+    }
+}

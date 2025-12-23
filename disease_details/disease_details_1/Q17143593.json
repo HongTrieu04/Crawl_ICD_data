@@ -1,0 +1,18 @@
+{
+    "name": "neonatal hypoglycemia",
+    "qid": "Q17143593",
+    "icd_10": "P70.4",
+    "description": "occurs when the neonate's blood glucose level is less than the newborn's body requirements for factors such as cellular energy and metabolism",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Neonatal_hypoglycemia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "hypoglycemia",
+                "qid": "Q202758",
+                "url": "https://en.wikipedia.org/wiki/Hypoglycemia"
+            }
+        ]
+    }
+}

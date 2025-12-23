@@ -1,0 +1,51 @@
+{
+    "name": "mucormycosis",
+    "qid": "Q6931254",
+    "icd_10": "B46.5",
+    "description": "fungal infection by the order Mucorales",
+    "aliases": [
+        "zygomycosis",
+        "black fungus infection",
+        "disseminated mucormycosis",
+        "Mucormycosis (disorder)",
+        "Mucormycosis, unspecified",
+        "Phycomycosis",
+        "Zygomycosis (disorder)",
+        "Zygomycosis [Phycomycosis or Mucormycosis]",
+        "Zygomycosis, unspecified (disorder)"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Periorbital%20fungal%20infection%20known%20as%20mucormycosis%2C%20or%20phycomycosis%20PHIL%202831%20lores.jpg",
+    "url": "https://en.wikipedia.org/wiki/Mucormycosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "zygomycosis",
+                "qid": "Q3046374",
+                "url": "https://en.wikipedia.org/wiki/Zygomycosis"
+            },
+            {
+                "name": "opportunistic mycosis",
+                "qid": "Q18555090"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "infection",
+                "qid": "Q166231",
+                "url": "https://en.wikipedia.org/wiki/Infection"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

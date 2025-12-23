@@ -1,0 +1,181 @@
+{
+    "name": "attention deficit hyperactivity disorder",
+    "qid": "Q181923",
+    "icd_10": "F90.0",
+    "description": "neurodevelopmental disorder",
+    "aliases": [
+        "ADHD",
+        "attention deficit disorder",
+        "ADDH",
+        "A.D.H.D",
+        "AD/HD",
+        "attention deficit disorder with hyperactivity",
+        "attention deficit hyperactivity syndrome",
+        "attention deficit/hyperactivity disorder"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "child and adolescent psychiatry",
+                "qid": "Q1741745",
+                "url": "https://en.wikipedia.org/wiki/Child_and_adolescent_psychiatry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "neurodevelopmental disorder",
+                "qid": "Q3450985",
+                "url": "https://en.wikipedia.org/wiki/Neurodevelopmental_disorder"
+            },
+            {
+                "name": "specific developmental disorder",
+                "qid": "Q7574983",
+                "url": "https://en.wikipedia.org/wiki/Specific_developmental_disorder"
+            },
+            {
+                "name": "hyperkinetic disorder",
+                "qid": "Q17028415",
+                "url": "https://en.wikipedia.org/wiki/Hyperkinetic_disorder"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "DL-amphetamine",
+                "qid": "Q179452",
+                "url": "https://en.wikipedia.org/wiki/Amphetamine"
+            },
+            {
+                "name": "psychotherapy",
+                "qid": "Q183257",
+                "url": "https://en.wikipedia.org/wiki/Psychotherapy"
+            },
+            {
+                "name": "D-methamphetamine",
+                "qid": "Q191924",
+                "url": "https://en.wikipedia.org/wiki/Methamphetamine"
+            },
+            {
+                "name": "imipramine",
+                "qid": "Q58396",
+                "url": "https://en.wikipedia.org/wiki/Imipramine"
+            },
+            {
+                "name": "nortriptyline",
+                "qid": "Q61387",
+                "url": "https://en.wikipedia.org/wiki/Nortriptyline"
+            },
+            {
+                "name": "(±)-deprenyl",
+                "qid": "Q402633",
+                "url": "https://en.wikipedia.org/wiki/Deprenyl"
+            },
+            {
+                "name": "modafinil",
+                "qid": "Q410441",
+                "url": "https://en.wikipedia.org/wiki/Modafinil"
+            },
+            {
+                "name": "clonidine",
+                "qid": "Q412221",
+                "url": "https://en.wikipedia.org/wiki/Clonidine"
+            },
+            {
+                "name": "atomoxetine",
+                "qid": "Q417240",
+                "url": "https://en.wikipedia.org/wiki/Atomoxetine"
+            },
+            {
+                "name": "pemoline",
+                "qid": "Q419008",
+                "url": "https://en.wikipedia.org/wiki/Pemoline"
+            },
+            {
+                "name": "methylphenidate",
+                "qid": "Q422112",
+                "url": "https://en.wikipedia.org/wiki/Methylphenidate"
+            },
+            {
+                "name": "desipramine",
+                "qid": "Q423288",
+                "url": "https://en.wikipedia.org/wiki/Desipramine"
+            },
+            {
+                "name": "bupropion",
+                "qid": "Q834280",
+                "url": "https://en.wikipedia.org/wiki/Bupropion"
+            },
+            {
+                "name": "venlafaxine",
+                "qid": "Q898407",
+                "url": "https://en.wikipedia.org/wiki/Venlafaxine"
+            },
+            {
+                "name": "dexmethylphenidate",
+                "qid": "Q1207210",
+                "url": "https://en.wikipedia.org/wiki/Dexmethylphenidate"
+            },
+            {
+                "name": "dextroamphetamine",
+                "qid": "Q1706418",
+                "url": "https://en.wikipedia.org/wiki/Dextroamphetamine"
+            },
+            {
+                "name": "(R)-amphetamine",
+                "qid": "Q2506823",
+                "url": "https://en.wikipedia.org/wiki/Levoamphetamine"
+            },
+            {
+                "name": "guanfacine",
+                "qid": "Q5613599",
+                "url": "https://en.wikipedia.org/wiki/Guanfacine"
+            },
+            {
+                "name": "lisdexamfetamine",
+                "qid": "Q6558704",
+                "url": "https://en.wikipedia.org/wiki/Lisdexamfetamine"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "impulsivity",
+                "qid": "Q1549918",
+                "url": "https://en.wikipedia.org/wiki/Impulsivity"
+            },
+            {
+                "name": "hyperfocus",
+                "qid": "Q1640924",
+                "url": "https://en.wikipedia.org/wiki/Hyperfocus"
+            },
+            {
+                "name": "emotional dysregulation",
+                "qid": "Q3316140",
+                "url": "https://en.wikipedia.org/wiki/Emotional_dysregulation"
+            },
+            {
+                "name": "executive disfunction",
+                "qid": "Q5419936",
+                "url": "https://en.wikipedia.org/wiki/Executive_dysfunction"
+            },
+            {
+                "name": "distractibility",
+                "qid": "Q21515327"
+            },
+            {
+                "name": "rejection sensitive dysphoria",
+                "qid": "Q67135693"
+            }
+        ]
+    }
+}

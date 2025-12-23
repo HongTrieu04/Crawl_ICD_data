@@ -1,0 +1,27 @@
+{
+    "name": "perinatal jaundice due to hepatocellular damage",
+    "qid": "Q18554086",
+    "icd_10": "P59.2",
+    "description": "Human disease",
+    "aliases": [
+        "Perinatal jaundice due to hepatocellular damage",
+        "Perinatal jaundice due to hepatocellular damage (disorder)",
+        "Perinatal jaundice due to hepatocellular damage NOS (disorder)"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "neonatal jaundice",
+                "qid": "Q1755487",
+                "url": "https://en.wikipedia.org/wiki/Neonatal_jaundice"
+            },
+            {
+                "name": "Neonatal hepatitis",
+                "qid": "Q6993479",
+                "url": "https://en.wikipedia.org/wiki/Neonatal_hepatitis"
+            }
+        ]
+    }
+}

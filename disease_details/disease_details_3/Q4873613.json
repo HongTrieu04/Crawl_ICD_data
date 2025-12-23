@@ -1,0 +1,25 @@
+{
+    "name": "bauxite fibrosis",
+    "qid": "Q4873613",
+    "icd_10": "J63.1",
+    "description": "Medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Bauxite_fibrosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "pneumoconiosis",
+                "qid": "Q651223",
+                "url": "https://en.wikipedia.org/wiki/Pneumoconiosis"
+            }
+        ]
+    }
+}

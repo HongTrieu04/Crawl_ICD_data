@@ -1,0 +1,24 @@
+{
+    "name": "Macrocheilia",
+    "qid": "Q6725190",
+    "icd_10": "Q18.6",
+    "description": "pathologic swelling of the lips",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Macrocheilia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "lip disease",
+                "qid": "Q18558095"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ]
+    }
+}

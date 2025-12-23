@@ -1,0 +1,31 @@
+{
+    "name": "Van Buchem disease",
+    "qid": "Q2050936",
+    "icd_10": "M85.2",
+    "description": "genetic skeletal disease",
+    "aliases": [
+        "VBCH",
+        "Hyperostosis corticalis generalisata"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Van_Buchem_disease",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "SOST-related sclerosing bone dysplasia",
+                "qid": "Q3042146"
+            },
+            {
+                "name": "cortical hyperostosis",
+                "qid": "Q9292374"
+            }
+        ]
+    }
+}

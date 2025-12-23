@@ -1,0 +1,38 @@
+{
+    "name": "chronic hepatitis",
+    "qid": "Q62019625",
+    "icd_10": "K73.9",
+    "description": "form of clinical course of hepatitis",
+    "aliases": [
+        "Chronic liver inflammation",
+        "Recurrent hepatitis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            },
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            },
+            {
+                "name": "hepatology",
+                "qid": "Q668064",
+                "url": "https://en.wikipedia.org/wiki/Hepatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "hepatitis",
+                "qid": "Q131742",
+                "url": "https://en.wikipedia.org/wiki/Hepatitis"
+            }
+        ]
+    }
+}

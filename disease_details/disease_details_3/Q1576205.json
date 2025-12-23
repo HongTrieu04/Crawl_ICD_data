@@ -1,0 +1,47 @@
+{
+    "name": "carotid artery stenosis",
+    "qid": "Q1576205",
+    "icd_10": "I65.2",
+    "description": "narrowing or constriction of the inner surface (lumen) of the carotid artery, usually caused by atherosclerosis",
+    "aliases": [
+        "Carotid artery stenosis",
+        "Carotid artery stenosis (disorder)",
+        "carotid stenosis",
+        "Occlusion and stenosis of carotid artery",
+        "Stenosis, carotid artery"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gray513.png",
+    "url": "https://en.wikipedia.org/wiki/Carotid_artery_stenosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "aspirin",
+                "qid": "Q18216",
+                "url": "https://en.wikipedia.org/wiki/Aspirin"
+            },
+            {
+                "name": "clopidogrel",
+                "qid": "Q410237",
+                "url": "https://en.wikipedia.org/wiki/Clopidogrel"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "peripheral artery disease",
+                "qid": "Q378681",
+                "url": "https://en.wikipedia.org/wiki/Peripheral_artery_disease"
+            },
+            {
+                "name": "carotid artery disease",
+                "qid": "Q18555923"
+            }
+        ]
+    }
+}

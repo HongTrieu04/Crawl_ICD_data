@@ -1,0 +1,28 @@
+{
+    "name": "metaphyseal dysplasia",
+    "qid": "Q13566985",
+    "icd_10": "Q78.5",
+    "description": "osteochondrodysplasia that results in thinning and the tendency to fracture located in bone",
+    "aliases": [
+        "Bakwin-Krida syndrome",
+        "Pyle-Cohn syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Metaphyseal_dysplasia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "osteochondrodysplasia",
+                "qid": "Q3251367",
+                "url": "https://en.wikipedia.org/wiki/Osteochondrodysplasia"
+            }
+        ]
+    }
+}

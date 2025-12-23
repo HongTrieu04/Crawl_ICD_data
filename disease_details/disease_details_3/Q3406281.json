@@ -1,0 +1,24 @@
+{
+    "name": "sexual relationship disorder",
+    "qid": "Q3406281",
+    "icd_10": "F66.2",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Sexual_relationship_disorder",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "sexual and gender disorder",
+                "qid": "Q18553616"
+            }
+        ]
+    }
+}

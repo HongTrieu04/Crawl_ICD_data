@@ -1,0 +1,41 @@
+{
+    "name": "mania",
+    "qid": "Q185935",
+    "icd_10": "F30",
+    "description": "state of abnormally elevated or irritable mood, arousal, and/or energy levels",
+    "aliases": [
+        "manic",
+        "acute mania",
+        "manic syndrome"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Friern%20Hospital%2C%20London%3B%20a%20woman%20suffering%20from%20mania%2C%20with%20Wellcome%20V0029627.jpg",
+    "url": "https://en.wikipedia.org/wiki/Mania",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "medical psychology",
+                "qid": "Q1916597",
+                "url": "https://en.wikipedia.org/wiki/Medical_psychology"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "psychotherapy",
+                "qid": "Q183257",
+                "url": "https://en.wikipedia.org/wiki/Psychotherapy"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "mood disorder",
+                "qid": "Q188638",
+                "url": "https://en.wikipedia.org/wiki/Mood_disorder"
+            }
+        ]
+    }
+}

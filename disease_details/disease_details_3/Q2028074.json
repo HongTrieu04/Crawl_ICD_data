@@ -1,0 +1,46 @@
+{
+    "name": "tungiasis",
+    "qid": "Q2028074",
+    "icd_10": "B88.1",
+    "description": "human disease",
+    "aliases": [
+        "Chigoe flea",
+        "Tunga penetrans",
+        "Chigger flea",
+        "S penetrans",
+        "Sarcopsylla penetrans",
+        "T penetrans"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/ChiggerBMNH.jpg",
+    "url": "https://en.wikipedia.org/wiki/Tungiasis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "pulicosis",
+                "qid": "Q3410750",
+                "url": "https://en.wikipedia.org/wiki/Pulicosis"
+            },
+            {
+                "name": "ectoparasitism",
+                "qid": "Q5334259",
+                "url": "https://en.wikipedia.org/wiki/Ectoparasitic_infestation"
+            },
+            {
+                "name": "rare skin disease",
+                "qid": "Q55788696"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

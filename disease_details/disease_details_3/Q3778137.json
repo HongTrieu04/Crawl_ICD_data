@@ -1,0 +1,32 @@
+{
+    "name": "bacillary dysentery",
+    "qid": "Q3778137",
+    "icd_10": "A03.9",
+    "description": "medical condition",
+    "aliases": [
+        "Dysentery, Bacillary"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Bacillary_dysentery",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "dysentery",
+                "qid": "Q129279",
+                "url": "https://en.wikipedia.org/wiki/Dysentery"
+            },
+            {
+                "name": "shigellosis",
+                "qid": "Q327298",
+                "url": "https://en.wikipedia.org/wiki/Shigellosis"
+            }
+        ]
+    }
+}

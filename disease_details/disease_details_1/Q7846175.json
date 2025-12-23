@@ -1,0 +1,42 @@
+{
+    "name": "immersion foot syndrome",
+    "qid": "Q7846175",
+    "icd_10": "T69.0",
+    "description": "any of several skin conditions affecting the feet",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Immersion_foot_syndromes",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "foot",
+                "qid": "Q15807",
+                "url": "https://en.wikipedia.org/wiki/Foot"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "skin disease",
+                "qid": "Q949302",
+                "url": "https://en.wikipedia.org/wiki/Skin_condition"
+            },
+            {
+                "name": "foot diseases",
+                "qid": "Q5282137",
+                "url": "https://en.wikipedia.org/wiki/Diseases_of_the_foot"
+            },
+            {
+                "name": "Non-freezing cold injury",
+                "qid": "Q110051648",
+                "url": "https://en.wikipedia.org/wiki/Non-freezing_cold_injury"
+            }
+        ]
+    }
+}

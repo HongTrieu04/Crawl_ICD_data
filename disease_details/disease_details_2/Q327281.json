@@ -1,0 +1,96 @@
+{
+    "name": "hepatitis D",
+    "qid": "Q327281",
+    "icd_10": "B18.0",
+    "description": "Human disease",
+    "aliases": [
+        "delta hepatitis",
+        "hepatitis delta",
+        "hepatitis type D"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hepatitis-d-virion-Pathogens-04-00046-g001-1024.png",
+    "url": "https://en.wikipedia.org/wiki/Hepatitis_D",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "viral infectious disease",
+                "qid": "Q1928978",
+                "url": "https://en.wikipedia.org/wiki/Viral_disease"
+            },
+            {
+                "name": "viral hepatitis",
+                "qid": "Q1983841",
+                "url": "https://en.wikipedia.org/wiki/Viral_hepatitis"
+            },
+            {
+                "name": "hepatitis B",
+                "qid": "Q6853",
+                "url": "https://en.wikipedia.org/wiki/Hepatitis_B"
+            },
+            {
+                "name": "Deltavirus infectious disease",
+                "qid": "Q55009464"
+            },
+            {
+                "name": "rare hepatic disease",
+                "qid": "Q55788406"
+            },
+            {
+                "name": "rare skin disease",
+                "qid": "Q55788696"
+            },
+            {
+                "name": "post-viral disorder",
+                "qid": "Q55789779"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "hepatitis",
+                "qid": "Q131742",
+                "url": "https://en.wikipedia.org/wiki/Hepatitis"
+            },
+            {
+                "name": "nausea",
+                "qid": "Q186889",
+                "url": "https://en.wikipedia.org/wiki/Nausea"
+            },
+            {
+                "name": "superinfection",
+                "qid": "Q1563808",
+                "url": "https://en.wikipedia.org/wiki/Superinfection"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "interferon",
+                "qid": "Q188269",
+                "url": "https://en.wikipedia.org/wiki/Interferon"
+            },
+            {
+                "name": "liver transplantation",
+                "qid": "Q1368191",
+                "url": "https://en.wikipedia.org/wiki/Liver_transplantation"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "hepatitis delta virus",
+                "qid": "Q1607636",
+                "url": "https://en.wikipedia.org/wiki/Hepatitis_D_virus"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

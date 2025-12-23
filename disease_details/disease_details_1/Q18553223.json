@@ -1,0 +1,38 @@
+{
+    "name": "inhalation anthrax",
+    "qid": "Q18553223",
+    "icd_10": "A22.1",
+    "description": "human disease",
+    "aliases": [
+        "woolsorter's disease",
+        "woolsorters' disease",
+        "Inhalation anthrax disease",
+        "pulmonary anthrax",
+        "respiratory anthrax",
+        "Respiratory anthrax disease",
+        "wool-sorters' disease"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "bacterial infectious disease",
+                "qid": "Q727028",
+                "url": "https://en.wikipedia.org/wiki/Bacterial_disease"
+            },
+            {
+                "name": "anthrax",
+                "qid": "Q129104",
+                "url": "https://en.wikipedia.org/wiki/Anthrax"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

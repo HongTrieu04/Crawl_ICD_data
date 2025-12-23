@@ -1,0 +1,52 @@
+{
+    "name": "androgen insensitivity syndrome",
+    "qid": "Q512313",
+    "icd_10": "E34.5",
+    "description": "sex differentiation condition involving hormonal resistance due to androgen receptor dysfunction in a karyotypically male person",
+    "aliases": [
+        "AIS",
+        "testicular feminization",
+        "Reifenstein syndrome",
+        "Aiman's syndrome",
+        "Androgen resistance syndrome",
+        "Androgen resistance syndrome (disorder)",
+        "Androgen-Insensitivity Syndrome",
+        "Feminisation - testicular",
+        "Gilbert-Dreyfus syndrome",
+        "Goldberg - Maxwell syndrome",
+        "Goldberg-Maxwell syndrome",
+        "Lub's syndrome",
+        "Morris' syndrome",
+        "Rosewater syndrome",
+        "testicular feminization (disorder)",
+        "testicular Feminization syndrome"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Women%20with%20androgen%20insensitivity%20syndrome.jpg",
+    "url": "https://en.wikipedia.org/wiki/Androgen_insensitivity_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "sex differentiation disease",
+                "qid": "Q18554938",
+                "url": "https://en.wikipedia.org/wiki/Sex_differentiation_disorder"
+            },
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "pseudohermaphroditism",
+                "qid": "Q2273662",
+                "url": "https://en.wikipedia.org/wiki/Pseudohermaphroditism"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ]
+    }
+}

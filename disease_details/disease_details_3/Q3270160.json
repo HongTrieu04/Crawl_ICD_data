@@ -1,0 +1,50 @@
+{
+    "name": "actinobacillosis",
+    "qid": "Q3270160",
+    "icd_10": "A28.8",
+    "description": "Human disease",
+    "aliases": [
+        "Actinobacillosis",
+        "Actinobacillosis, NOS"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Actinobacillosis",
+    "details": {
+        "Cause": [
+            {
+                "name": "infection",
+                "qid": "Q166231",
+                "url": "https://en.wikipedia.org/wiki/Infection"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "respiratory system",
+                "qid": "Q7891",
+                "url": "https://en.wikipedia.org/wiki/Respiratory_system"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "respiratory disease",
+                "qid": "Q3286546",
+                "url": "https://en.wikipedia.org/wiki/Respiratory_disease"
+            },
+            {
+                "name": "commensal bacterial infectious disease",
+                "qid": "Q18553248"
+            },
+            {
+                "name": "Actinobacillus infectious disease",
+                "qid": "Q19000448"
+            }
+        ]
+    }
+}

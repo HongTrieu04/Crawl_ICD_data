@@ -1,0 +1,68 @@
+{
+    "name": "Prinzmetal's angina",
+    "qid": "Q1469637",
+    "icd_10": "I20.1",
+    "description": "cardiac chest pain at rest that occurs in cycles",
+    "aliases": [
+        "angina inversa",
+        "coronary vessel spasm",
+        "Prinzmetal angina",
+        "Prinzmetal's variant angina",
+        "variant angina",
+        "variant angina pectoris",
+        "vasospastic angina"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Variant_angina",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "angina pectoris",
+                "qid": "Q180762",
+                "url": "https://en.wikipedia.org/wiki/Angina"
+            },
+            {
+                "name": "coronary artery vasospasm",
+                "qid": "Q5172199",
+                "url": "https://en.wikipedia.org/wiki/Coronary_vasospasm"
+            },
+            {
+                "name": "coronaropathy",
+                "qid": "Q10260689"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "chest pain",
+                "qid": "Q693058",
+                "url": "https://en.wikipedia.org/wiki/Chest_pain"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "vasospasm",
+                "qid": "Q2849606",
+                "url": "https://en.wikipedia.org/wiki/Vasospasm"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "pharmaceutical preparation of nitroglycerin",
+                "qid": "Q3221044",
+                "url": "https://en.wikipedia.org/wiki/Nitroglycerin_(medication)"
+            }
+        ]
+    }
+}

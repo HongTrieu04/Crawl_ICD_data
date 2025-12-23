@@ -1,0 +1,37 @@
+{
+    "name": "second-degree atrioventricular block",
+    "qid": "Q685594",
+    "icd_10": "I44.1",
+    "description": "disease of the electrical conduction system of the heart. It is a conduction block between the atria and ventricles.",
+    "aliases": [
+        "Atrioventricular Block Second Degree",
+        "Atrioventricular Block, Second Degree",
+        "AV block second degree",
+        "Second Degree Atrioventricular Block",
+        "second degree AV block",
+        "second-degree heart block"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Second-degree_atrioventricular_block",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "atrioventricular block",
+                "qid": "Q300121",
+                "url": "https://en.wikipedia.org/wiki/Atrioventricular_block"
+            }
+        ]
+    }
+}

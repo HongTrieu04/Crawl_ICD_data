@@ -1,0 +1,25 @@
+{
+    "name": "cystocele",
+    "qid": "Q246085",
+    "icd_10": "N81.1",
+    "description": "prolapsed urinary bladder through vagina",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cystocele.png",
+    "url": "https://en.wikipedia.org/wiki/Cystocele",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "pelvic organ prolapse",
+                "qid": "Q166102",
+                "url": "https://en.wikipedia.org/wiki/Pelvic_organ_prolapse"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "urogynecology",
+                "qid": "Q7900864",
+                "url": "https://en.wikipedia.org/wiki/Urogynecology"
+            }
+        ]
+    }
+}

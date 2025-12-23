@@ -1,0 +1,51 @@
+{
+    "name": "tricuspid insufficiency",
+    "qid": "Q1780241",
+    "icd_10": "I36.1",
+    "description": "tricuspid valve disease",
+    "aliases": [
+        "TR",
+        "Insufficiency, Tricuspid",
+        "tricuspid incompetence",
+        "Tricuspid Insufficiency",
+        "tricuspid regurgitation",
+        "tricuspid valve insufficiency",
+        "tricuspid valve regurgitation",
+        "Tricuspid valve regurgitation (disorder)"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Tricuspid_regurgitation",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "heart failure",
+                "qid": "Q181754",
+                "url": "https://en.wikipedia.org/wiki/Heart_failure"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "tricuspid valve",
+                "qid": "Q1344255",
+                "url": "https://en.wikipedia.org/wiki/Tricuspid_valve"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "tricuspid valve disease",
+                "qid": "Q18553500"
+            },
+            {
+                "name": "valve insufficiency",
+                "qid": "Q22977956"
+            }
+        ]
+    }
+}

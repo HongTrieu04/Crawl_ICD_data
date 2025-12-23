@@ -1,0 +1,31 @@
+{
+    "name": "non-follicular lymphoma",
+    "qid": "Q19001171",
+    "icd_10": "C83",
+    "description": "Human disease",
+    "aliases": [
+        "Lymphosarcoma and reticulosarcoma",
+        "Other named variants of lymphosarcoma and reticulosarcoma",
+        "Other named variants of lymphosarcoma and reticulosarcoma involving intra-abdominal lymph nodes",
+        "Other named variants of lymphosarcoma and reticulosarcoma involving intrapelvic lymph nodes",
+        "Other named variants of lymphosarcoma and reticulosarcoma involving intrathoracic lymph nodes",
+        "Other named variants of lymphosarcoma and reticulosarcoma involving lymph nodes of axilla and upper limb",
+        "Other named variants of lymphosarcoma and reticulosarcoma involving lymph nodes of head, face and neck",
+        "Other named variants of lymphosarcoma and reticulosarcoma involving lymph nodes of head, face, and neck",
+        "Other named variants of lymphosarcoma and reticulosarcoma involving lymph nodes of inguinal region and lower limb",
+        "Other named variants of lymphosarcoma and reticulosarcoma involving lymph nodes of multiple sites",
+        "Other named variants of lymphosarcoma and reticulosarcoma involving spleen",
+        "Other named variants of lymphosarcoma and reticulosarcoma, unspecified site"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "non-Hodgkin lymphoma",
+                "qid": "Q1138590",
+                "url": "https://en.wikipedia.org/wiki/Non-Hodgkin_lymphoma"
+            }
+        ]
+    }
+}

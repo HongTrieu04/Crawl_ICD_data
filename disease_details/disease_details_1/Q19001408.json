@@ -1,0 +1,22 @@
+{
+    "name": "late vomiting of pregnancy",
+    "qid": "Q19001408",
+    "icd_10": "O21.2",
+    "description": "Human disease",
+    "aliases": [
+        "antepartum late vomiting of pregnancy",
+        "Excessive vomiting starting after 22 completed weeks of gestation",
+        "obsolete Excessive vomiting starting after 22 completed weeks of gestation"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "hyperemesis gravidarum",
+                "qid": "Q391556",
+                "url": "https://en.wikipedia.org/wiki/Hyperemesis_gravidarum"
+            }
+        ]
+    }
+}

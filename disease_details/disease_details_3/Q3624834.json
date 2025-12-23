@@ -1,0 +1,36 @@
+{
+    "name": "periapical abscess",
+    "qid": "Q3624834",
+    "icd_10": "K04.6",
+    "description": "localized collection of pus associated with a tooth",
+    "aliases": [
+        "apical abscess",
+        "dentoalveolar abscess",
+        "Periapical Dental Abscess",
+        "suppurative apical periodontitis",
+        "suppurative periapical periodontitis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Periapical_abscess",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dentistry",
+                "qid": "Q12128",
+                "url": "https://en.wikipedia.org/wiki/Dentistry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "periapical periodontitis",
+                "qid": "Q618622",
+                "url": "https://en.wikipedia.org/wiki/Periapical_periodontitis"
+            },
+            {
+                "name": "dental abscess",
+                "qid": "Q2710164",
+                "url": "https://en.wikipedia.org/wiki/Dental_abscess"
+            }
+        ]
+    }
+}

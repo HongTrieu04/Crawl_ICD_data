@@ -1,0 +1,33 @@
+{
+    "name": "chronic actinic dermatitis",
+    "qid": "Q3023830",
+    "icd_10": "L57.1",
+    "description": ". Resolution of photosensitivity is reported in up to 50% of individuals after 15 years or more, with contact allergies persisting.",
+    "aliases": [
+        "Actinic reticuloid",
+        "Chronic photosensitivity dermatitis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Chronic_actinic_dermatitis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "photoaging",
+                "qid": "Q3705873",
+                "url": "https://en.wikipedia.org/wiki/Photoaging"
+            },
+            {
+                "name": "photodermatosis",
+                "qid": "Q2986815",
+                "url": "https://en.wikipedia.org/wiki/Photodermatosis"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ]
+    }
+}

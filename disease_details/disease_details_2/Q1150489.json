@@ -1,0 +1,28 @@
+{
+    "name": "nummular dermatitis",
+    "qid": "Q1150489",
+    "icd_10": "L30.0",
+    "description": "medical condition",
+    "aliases": [
+        "discoid dermatitis",
+        "discoid eczema"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Nummular_dermatitis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "eczema",
+                "qid": "Q988594",
+                "url": "https://en.wikipedia.org/wiki/Eczema"
+            }
+        ]
+    }
+}

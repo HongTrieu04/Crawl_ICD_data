@@ -1,0 +1,38 @@
+{
+    "name": "Herpes esophagitis",
+    "qid": "Q2849596",
+    "icd_10": "B00.9",
+    "description": "Human disease",
+    "aliases": [
+        "herpes simplex esophagitis",
+        "Herpes simplex virus esophagitis",
+        "obsolete Herpes simplex virus esophagitis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Herpes_esophagitis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            },
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "herpes simplex",
+                "qid": "Q6473911",
+                "url": "https://en.wikipedia.org/wiki/Herpes"
+            },
+            {
+                "name": "viral esophagitis",
+                "qid": "Q18557211"
+            }
+        ]
+    }
+}

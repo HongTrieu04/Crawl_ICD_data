@@ -1,0 +1,20 @@
+{
+    "name": "silent myocardial ischemia",
+    "qid": "Q16644072",
+    "icd_10": "I25.6",
+    "description": null,
+    "aliases": [
+        "Asymptomatic ischaemia"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "myocardial ischemia",
+                "qid": "Q6947906",
+                "url": "https://en.wikipedia.org/wiki/Myocardial_ischemia"
+            }
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "name": "ocular hypotension",
+    "qid": "Q18557760",
+    "icd_10": "H44.4",
+    "description": "Human disease",
+    "aliases": [
+        "Decreased intraocular pressure (finding)",
+        "Hypotony of eye",
+        "Hypotony of eye (disorder)",
+        "hypotony of eye associated with another ocular disorder",
+        "Hypotony of eye NOS (disorder)",
+        "Hypotony of eye unspecified (disorder)",
+        "Hypotony of eye, unspecified",
+        "Ocular hypotension, Hypotony",
+        "Ocular hypotony"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Ocular_hypotony",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            },
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "hypotension",
+                "qid": "Q275419",
+                "url": "https://en.wikipedia.org/wiki/Hypotension"
+            },
+            {
+                "name": "eye disease",
+                "qid": "Q3041498",
+                "url": "https://en.wikipedia.org/wiki/Eye_disease"
+            }
+        ]
+    }
+}

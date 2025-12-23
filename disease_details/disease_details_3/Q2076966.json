@@ -1,0 +1,198 @@
+{
+    "name": "cytomegaloviral disease",
+    "qid": "Q2076966",
+    "icd_10": "B25",
+    "description": "human disease",
+    "aliases": [
+        "Cytomagalovirus infection",
+        "Cytomegalia",
+        "Cytomegaloviral disease",
+        "Cytomegaloviral disease, unspecified",
+        "Cytomegaloviral disease, unspecified (disorder)",
+        "Cytomegaloviral diseases",
+        "cytomegalovirus infection",
+        "Cytomegalovirus infection (disorder)",
+        "Cytomegalovirus Infections",
+        "Cytomegalovirus infectious disease",
+        "obsolete Cytomegalovirus infectious disease",
+        "Salivary gland virus disease"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cytomegalovirus%20infection%20-%20Case%20301%20%2835104826390%29.jpg",
+    "url": null,
+    "details": {
+        "Symptoms": [
+            {
+                "name": "anemia",
+                "qid": "Q5445",
+                "url": "https://en.wikipedia.org/wiki/Anemia"
+            },
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "cataract",
+                "qid": "Q127724",
+                "url": "https://en.wikipedia.org/wiki/Cataract"
+            },
+            {
+                "name": "blindness",
+                "qid": "Q10874",
+                "url": "https://en.wikipedia.org/wiki/Blindness"
+            },
+            {
+                "name": "pulmonary fibrosis",
+                "qid": "Q32446",
+                "url": "https://en.wikipedia.org/wiki/Pulmonary_fibrosis"
+            },
+            {
+                "name": "congenital disorder",
+                "qid": "Q727096",
+                "url": "https://en.wikipedia.org/wiki/Birth_defect"
+            },
+            {
+                "name": "lymphadenopathy",
+                "qid": "Q847726",
+                "url": "https://en.wikipedia.org/wiki/Lymphadenopathy"
+            },
+            {
+                "name": "microcephaly",
+                "qid": "Q431643",
+                "url": "https://en.wikipedia.org/wiki/Microcephaly"
+            },
+            {
+                "name": "thrombocytopenia",
+                "qid": "Q585285",
+                "url": "https://en.wikipedia.org/wiki/Thrombocytopenia"
+            },
+            {
+                "name": "retinitis",
+                "qid": "Q630552",
+                "url": "https://en.wikipedia.org/wiki/Retinitis"
+            },
+            {
+                "name": "rash",
+                "qid": "Q653197",
+                "url": "https://en.wikipedia.org/wiki/Rash"
+            },
+            {
+                "name": "peripheral neuropathy",
+                "qid": "Q945238",
+                "url": "https://en.wikipedia.org/wiki/Peripheral_neuropathy"
+            },
+            {
+                "name": "syndactyly",
+                "qid": "Q1360044",
+                "url": "https://en.wikipedia.org/wiki/Syndactyly"
+            },
+            {
+                "name": "hepatomegaly",
+                "qid": "Q1362864",
+                "url": "https://en.wikipedia.org/wiki/Hepatomegaly"
+            },
+            {
+                "name": "holoprosencephaly",
+                "qid": "Q1459821",
+                "url": "https://en.wikipedia.org/wiki/Holoprosencephaly"
+            },
+            {
+                "name": "coloboma",
+                "qid": "Q1462309",
+                "url": "https://en.wikipedia.org/wiki/Coloboma"
+            },
+            {
+                "name": "parotitis",
+                "qid": "Q1975850",
+                "url": "https://en.wikipedia.org/wiki/Parotitis"
+            },
+            {
+                "name": "pharyngitis",
+                "qid": "Q2085267",
+                "url": "https://en.wikipedia.org/wiki/Pharyngitis"
+            },
+            {
+                "name": "jaundice",
+                "qid": "Q133244",
+                "url": "https://en.wikipedia.org/wiki/Jaundice"
+            },
+            {
+                "name": "tonsillitis",
+                "qid": "Q186470",
+                "url": "https://en.wikipedia.org/wiki/Tonsillitis"
+            },
+            {
+                "name": "hydrocephalus",
+                "qid": "Q193003",
+                "url": "https://en.wikipedia.org/wiki/Hydrocephalus"
+            },
+            {
+                "name": "Guillain–Barré syndrome",
+                "qid": "Q205214",
+                "url": "https://en.wikipedia.org/wiki/Guillain%E2%80%93Barr%C3%A9_syndrome"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "obstetrics and gynaecology",
+                "qid": "Q80015",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics_and_gynaecology"
+            },
+            {
+                "name": "pediatrics",
+                "qid": "Q123028",
+                "url": "https://en.wikipedia.org/wiki/Pediatrics"
+            },
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "human betaherpesvirus 5",
+                "qid": "Q6929",
+                "url": "https://en.wikipedia.org/wiki/Human_cytomegalovirus"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "valganciclovir",
+                "qid": "Q423384",
+                "url": "https://en.wikipedia.org/wiki/Valganciclovir"
+            },
+            {
+                "name": "cidofovir",
+                "qid": "Q423445",
+                "url": "https://en.wikipedia.org/wiki/Cidofovir"
+            },
+            {
+                "name": "leflunomide",
+                "qid": "Q248550",
+                "url": "https://en.wikipedia.org/wiki/Leflunomide"
+            },
+            {
+                "name": "ganciclovir",
+                "qid": "Q417640",
+                "url": "https://en.wikipedia.org/wiki/Ganciclovir"
+            },
+            {
+                "name": "valacyclovir",
+                "qid": "Q418594",
+                "url": "https://en.wikipedia.org/wiki/Valaciclovir"
+            },
+            {
+                "name": "foscarnet",
+                "qid": "Q420387",
+                "url": "https://en.wikipedia.org/wiki/Foscarnet"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "Herpesviridae infectious disease",
+                "qid": "Q18975237"
+            }
+        ]
+    }
+}

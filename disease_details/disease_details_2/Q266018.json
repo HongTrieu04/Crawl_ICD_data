@@ -1,0 +1,69 @@
+{
+    "name": "acute coronary syndrome",
+    "qid": "Q266018",
+    "icd_10": "I20.0",
+    "description": "group of symptoms attributed to obstruction of the coronary arteries",
+    "aliases": [
+        "ACS",
+        "ACS, Acute coronary syndrome",
+        "Acute Coronary Syndrome",
+        "Acute coronary syndrome, ACS",
+        "Acute Coronary Syndromes",
+        "Coronary Syndrome, Acute",
+        "Coronary Syndromes, Acute",
+        "Syndrome, Acute Coronary",
+        "Syndromes, Acute Coronary"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Acute_coronary_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "aspirin",
+                "qid": "Q18216",
+                "url": "https://en.wikipedia.org/wiki/Aspirin"
+            },
+            {
+                "name": "clopidogrel",
+                "qid": "Q410237",
+                "url": "https://en.wikipedia.org/wiki/Clopidogrel"
+            },
+            {
+                "name": "prasugrel",
+                "qid": "Q416232",
+                "url": "https://en.wikipedia.org/wiki/Prasugrel"
+            },
+            {
+                "name": "ticagrelor",
+                "qid": "Q420542",
+                "url": "https://en.wikipedia.org/wiki/Ticagrelor"
+            },
+            {
+                "name": "ezetimibe / simvastatin",
+                "qid": "Q48566705"
+            },
+            {
+                "name": "bisoprolol / hydrochlorothiazide",
+                "qid": "Q48566757"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "coronary artery disease",
+                "qid": "Q844935",
+                "url": "https://en.wikipedia.org/wiki/Coronary_artery_disease"
+            },
+            {
+                "name": "coronary syndrome",
+                "qid": "Q113548997"
+            }
+        ]
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "name": "alcohol withdrawal syndrome",
+    "qid": "Q2914873",
+    "icd_10": "F10.3",
+    "description": "set of symptoms that can occur after a reduction in alcohol use after excessive use",
+    "aliases": [
+        "alcohol withdrawal"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Alcohol_withdrawal_syndrome",
+    "details": {
+        "Cause": [
+            {
+                "name": "ethanol",
+                "qid": "Q153",
+                "url": "https://en.wikipedia.org/wiki/Ethanol"
+            },
+            {
+                "name": "alcohol detoxification",
+                "qid": "Q4713265",
+                "url": "https://en.wikipedia.org/wiki/Alcohol_detoxification"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "addiction medicine",
+                "qid": "Q55190072",
+                "url": "https://en.wikipedia.org/wiki/Addiction_medicine"
+            },
+            {
+                "name": "narcology",
+                "qid": "Q4313186",
+                "url": "https://en.wikipedia.org/wiki/Narcology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "(RS)-baclofen",
+                "qid": "Q413717",
+                "url": "https://en.wikipedia.org/wiki/Baclofen"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "withdrawal symptom",
+                "qid": "Q4420149",
+                "url": "https://en.wikipedia.org/wiki/Withdrawal_syndrome"
+            },
+            {
+                "name": "alcohol-induced mental disorder",
+                "qid": "Q18555102"
+            }
+        ]
+    }
+}

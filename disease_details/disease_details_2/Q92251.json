@@ -1,0 +1,30 @@
+{
+    "name": "noise pollution",
+    "qid": "Q92251",
+    "icd_10": "W42",
+    "description": "excessive, displeasing human, animal, or machine-created environmental noise",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Qantas%20b747%20over%20houses%20arp.jpg",
+    "url": "https://en.wikipedia.org/wiki/Noise_pollution",
+    "details": {
+        "Cause": [
+            {
+                "name": "noise",
+                "qid": "Q179448",
+                "url": "https://en.wikipedia.org/wiki/Noise"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "noise",
+                "qid": "Q179448",
+                "url": "https://en.wikipedia.org/wiki/Noise"
+            },
+            {
+                "name": "pollution",
+                "qid": "Q58734",
+                "url": "https://en.wikipedia.org/wiki/Pollution"
+            }
+        ]
+    }
+}

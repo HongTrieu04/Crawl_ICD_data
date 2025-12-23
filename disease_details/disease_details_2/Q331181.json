@@ -1,0 +1,25 @@
+{
+    "name": "dental abrasion",
+    "qid": "Q331181",
+    "icd_10": "K03.1",
+    "description": "loss of tooth substance by mechanical contact with objects other than tooth-tooth contact",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Dental_abrasion",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "tooth wear",
+                "qid": "Q2502694",
+                "url": "https://en.wikipedia.org/wiki/Tooth_wear"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "dentistry",
+                "qid": "Q12128",
+                "url": "https://en.wikipedia.org/wiki/Dentistry"
+            }
+        ]
+    }
+}

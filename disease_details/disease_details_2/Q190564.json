@@ -1,0 +1,108 @@
+{
+    "name": "Huntington's disease",
+    "qid": "Q190564",
+    "icd_10": "F02.2",
+    "description": "rare neurodegenerative disorder of the central nervous system characterized by unwanted choreatic movements, behavioral and psychiatric disturbances and dementia",
+    "aliases": [
+        "HD",
+        "Huntington Chorea",
+        "Huntington's chorea",
+        "Huntington’s disease"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Neuron%20with%20mHtt%20inclusion.jpg",
+    "url": "https://en.wikipedia.org/wiki/Huntington%27s_disease",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "neurodegeneration",
+                "qid": "Q1755122",
+                "url": "https://en.wikipedia.org/wiki/Neurodegenerative_disease"
+            },
+            {
+                "name": "trinucleotide repeat disorder",
+                "qid": "Q356736",
+                "url": "https://en.wikipedia.org/wiki/Trinucleotide_repeat_disorder"
+            },
+            {
+                "name": "eye degenerative disease",
+                "qid": "Q18558225"
+            },
+            {
+                "name": "Huntington disease and related disorders",
+                "qid": "Q55345637"
+            },
+            {
+                "name": "genetic neurodegenerative disease with dementia",
+                "qid": "Q55346116"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "dementia",
+                "qid": "Q83030",
+                "url": "https://en.wikipedia.org/wiki/Dementia"
+            },
+            {
+                "name": "choreatic disease",
+                "qid": "Q1076421",
+                "url": "https://en.wikipedia.org/wiki/Chorea"
+            },
+            {
+                "name": "personality change",
+                "qid": "Q3525894",
+                "url": "https://en.wikipedia.org/wiki/Personality_change"
+            },
+            {
+                "name": "weight loss",
+                "qid": "Q718113",
+                "url": "https://en.wikipedia.org/wiki/Weight_loss"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "trinucleotide repeat expansion",
+                "qid": "Q6736610",
+                "url": "https://en.wikipedia.org/wiki/Trinucleotide_repeat_expansion"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "(RS)-baclofen",
+                "qid": "Q413717",
+                "url": "https://en.wikipedia.org/wiki/Baclofen"
+            },
+            {
+                "name": "perphenazine",
+                "qid": "Q423520",
+                "url": "https://en.wikipedia.org/wiki/Perphenazine"
+            },
+            {
+                "name": "pimozide",
+                "qid": "Q144085",
+                "url": "https://en.wikipedia.org/wiki/Pimozide"
+            },
+            {
+                "name": "ubidecarenone",
+                "qid": "Q321285",
+                "url": "https://en.wikipedia.org/wiki/Coenzyme_Q10"
+            },
+            {
+                "name": "tetrabenazine",
+                "qid": "Q413050",
+                "url": "https://en.wikipedia.org/wiki/Tetrabenazine"
+            }
+        ]
+    }
+}

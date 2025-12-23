@@ -1,0 +1,85 @@
+{
+    "name": "osteosarcoma",
+    "qid": "Q549534",
+    "icd_10": "C41",
+    "description": "bone cancer that is located in bone that has material basis in cells of mesenchymal origin",
+    "aliases": [
+        "Osteogenic sarcoma",
+        "osteoid sarcoma",
+        "OSTEOSARCOMA, MALIGNANT",
+        "sarcoma of osteoid",
+        "Skeletal sarcoma"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Predilection%20sites%20of%20osteosarcoma2.png",
+    "url": "https://en.wikipedia.org/wiki/Osteosarcoma",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "bone cancer",
+                "qid": "Q18554919",
+                "url": "https://en.wikipedia.org/wiki/Bone_cancer"
+            },
+            {
+                "name": "bone sarcoma",
+                "qid": "Q56014469",
+                "url": "https://en.wikipedia.org/wiki/Bone_sarcoma"
+            },
+            {
+                "name": "childhood cancer",
+                "qid": "Q5097977",
+                "url": "https://en.wikipedia.org/wiki/Childhood_cancer"
+            },
+            {
+                "name": "cell type cancer",
+                "qid": "Q18553402"
+            },
+            {
+                "name": "osteogenic neoplasm",
+                "qid": "Q18975434"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "doxorubicin",
+                "qid": "Q18936",
+                "url": "https://en.wikipedia.org/wiki/Doxorubicin"
+            },
+            {
+                "name": "cisplatin",
+                "qid": "Q412415",
+                "url": "https://en.wikipedia.org/wiki/Cisplatin"
+            },
+            {
+                "name": "carboplatin",
+                "qid": "Q415588",
+                "url": "https://en.wikipedia.org/wiki/Carboplatin"
+            },
+            {
+                "name": "methotrexate",
+                "qid": "Q422232",
+                "url": "https://en.wikipedia.org/wiki/Methotrexate"
+            },
+            {
+                "name": "oral and maxillofacial surgery",
+                "qid": "Q504033",
+                "url": "https://en.wikipedia.org/wiki/Oral_and_maxillofacial_surgery"
+            },
+            {
+                "name": "pediatric orthopedic surgery",
+                "qid": "Q30114865"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "carotenosis",
+    "qid": "Q2940108",
+    "icd_10": "E67.1",
+    "description": "presence in blood of the orange pigment carotene",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Carotenosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "pigmentation disorder",
+                "qid": "Q7193408",
+                "url": "https://en.wikipedia.org/wiki/Pigmentation_disorder"
+            },
+            {
+                "name": "carotenemia",
+                "qid": "Q18558268"
+            }
+        ]
+    }
+}

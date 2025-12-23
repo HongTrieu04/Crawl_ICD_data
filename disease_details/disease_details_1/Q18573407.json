@@ -1,0 +1,34 @@
+{
+    "name": "indolent systemic mastocytosis",
+    "qid": "Q18573407",
+    "icd_10": "D47.0",
+    "description": "human disease",
+    "aliases": [
+        "ISM",
+        "Indolent systemic mastocytosis",
+        "Indolent systemic mastocytosis (disorder)",
+        "Indolent systemic mastocytosis (morphologic abnormality)"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "mastocytoma",
+                "qid": "Q6785569",
+                "url": "https://en.wikipedia.org/wiki/Mastocytoma"
+            },
+            {
+                "name": "systemic mastocytosis",
+                "qid": "Q3851644"
+            }
+        ]
+    }
+}

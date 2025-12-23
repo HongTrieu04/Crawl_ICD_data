@@ -1,0 +1,64 @@
+{
+    "name": "Castleman's disease",
+    "qid": "Q1947302",
+    "icd_10": "D47",
+    "description": "lymphoproliferative syndrome characterized by one or more enlarged lymph nodes containing cells with hyaline-vascular, plasmacytic, or mixed appearance microscopically",
+    "aliases": [
+        "AFLH",
+        "Angiofollicular ganglionic hyperplasia",
+        "angiofollicular lymph hyperplasia",
+        "angiofollicular lymph node hyperplasia",
+        "Angiofollicular Lymphoid Hyperplasia",
+        "Castleman disease",
+        "Castleman's Disease",
+        "Castleman's Tumor",
+        "giant lymph node hyperplasia",
+        "GLNH",
+        "lymphoid hamartoma"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Castleman%20disease%20-%20high%20mag.jpg",
+    "url": "https://en.wikipedia.org/wiki/Castleman_disease",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "immunology",
+                "qid": "Q101929",
+                "url": "https://en.wikipedia.org/wiki/Immunology"
+            },
+            {
+                "name": "angiology",
+                "qid": "Q539690",
+                "url": "https://en.wikipedia.org/wiki/Angiology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "lymphoproliferative disorders",
+                "qid": "Q4165484",
+                "url": "https://en.wikipedia.org/wiki/Lymphoproliferative_disorders"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "siltuximab",
+                "qid": "Q3960572",
+                "url": "https://en.wikipedia.org/wiki/Siltuximab"
+            },
+            {
+                "name": "rituximab",
+                "qid": "Q412323",
+                "url": "https://en.wikipedia.org/wiki/Rituximab"
+            },
+            {
+                "name": "tocilizumab",
+                "qid": "Q425154",
+                "url": "https://en.wikipedia.org/wiki/Tocilizumab"
+            }
+        ]
+    }
+}

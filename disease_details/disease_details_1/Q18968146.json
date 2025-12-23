@@ -1,0 +1,24 @@
+{
+    "name": "coxsackie carditis",
+    "qid": "Q18968146",
+    "icd_10": "B33.2",
+    "description": "Human disease",
+    "aliases": [
+        "Enterovirus heart infection (disorder)",
+        "obsolete coxsackie carditis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "coxsackievirus infectious disease",
+                "qid": "Q18966421"
+            },
+            {
+                "name": "carditis",
+                "qid": "Q56377209"
+            }
+        ]
+    }
+}

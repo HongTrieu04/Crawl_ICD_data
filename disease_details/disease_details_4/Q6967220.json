@@ -1,0 +1,45 @@
+{
+    "name": "nasodigitoacoustic syndrome",
+    "qid": "Q6967220",
+    "icd_10": "Q89.8",
+    "description": "Rare X-linked recessive genetic syndrome",
+    "aliases": [
+        "Keipert syndrome",
+        "NASODIGITOACOUSTIC SYNDROME"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Nasodigitoacoustic_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "X-linked recessive disease",
+                "qid": "Q55010090",
+                "url": "https://en.wikipedia.org/wiki/X-linked_recessive_disorder"
+            },
+            {
+                "name": "syndrome",
+                "qid": "Q179630",
+                "url": "https://en.wikipedia.org/wiki/Syndrome"
+            },
+            {
+                "name": "genetic deafness",
+                "qid": "Q3505181"
+            },
+            {
+                "name": "multiple congenital anomalies/dysmorphic syndrome without intellectual disability",
+                "qid": "Q55785290"
+            },
+            {
+                "name": "rare genetic developmental defect during embryogenesis",
+                "qid": "Q55785846"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

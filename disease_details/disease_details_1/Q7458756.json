@@ -1,0 +1,27 @@
+{
+    "name": "orgasmic anhedonia",
+    "qid": "Q7458756",
+    "icd_10": "F52.0",
+    "description": "condition in which an individual cannot feel pleasure from an orgasm",
+    "aliases": [
+        "PDOD",
+        "pleasure dissociative orgasmic disorder",
+        "sexual anhedonia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Sexual_anhedonia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "hypoactive sexual desire disorder",
+                "qid": "Q303555",
+                "url": "https://en.wikipedia.org/wiki/Hypoactive_sexual_desire_disorder"
+            },
+            {
+                "name": "anhedonia",
+                "qid": "Q545365",
+                "url": "https://en.wikipedia.org/wiki/Anhedonia"
+            }
+        ]
+    }
+}

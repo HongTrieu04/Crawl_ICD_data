@@ -1,0 +1,20 @@
+{
+    "name": "synchysis scintillans",
+    "qid": "Q2375672",
+    "icd_10": "H43.8",
+    "description": "disease",
+    "aliases": [
+        "Cholesterol deposit in vitreous body",
+        "cholesterolosis bulbi"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Synchysis_scintillans",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "vitreous disease",
+                "qid": "Q18558199"
+            }
+        ]
+    }
+}

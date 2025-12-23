@@ -1,0 +1,37 @@
+{
+    "name": "radial tunnel syndrome",
+    "qid": "Q3961656",
+    "icd_10": "G56.3",
+    "description": "medical condition",
+    "aliases": [
+        "RTS"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Radial_tunnel_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "radial neuropathy",
+                "qid": "Q427118",
+                "url": "https://en.wikipedia.org/wiki/Radial_neuropathy"
+            },
+            {
+                "name": "occupational disease",
+                "qid": "Q637816",
+                "url": "https://en.wikipedia.org/wiki/Occupational_disease"
+            },
+            {
+                "name": "nerve compression syndrome",
+                "qid": "Q1978084",
+                "url": "https://en.wikipedia.org/wiki/Nerve_compression_syndrome"
+            }
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "ataxic cerebral palsy",
+    "qid": "Q4812914",
+    "icd_10": "G80.4",
+    "description": "cerebral palsy that is caused by damage to the cerebellum, which affects muscle coordination, particularly in the limb. Some individuals suffer from hypotonia, tremors, difficulty with visual and/or auditory processing",
+    "aliases": [
+        "hypotonic cerebral palsy"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Ataxic_cerebral_palsy",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "cerebral palsy",
+                "qid": "Q210427",
+                "url": "https://en.wikipedia.org/wiki/Cerebral_palsy"
+            }
+        ]
+    }
+}

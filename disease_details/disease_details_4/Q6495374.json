@@ -1,0 +1,29 @@
+{
+    "name": "Late congenital syphilitic oculopathy",
+    "qid": "Q6495374",
+    "icd_10": "A50.3",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Late_congenital_syphilitic_oculopathy",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "eye disease",
+                "qid": "Q3041498",
+                "url": "https://en.wikipedia.org/wiki/Eye_disease"
+            },
+            {
+                "name": "late congenital syphilis",
+                "qid": "Q18553768"
+            }
+        ]
+    }
+}

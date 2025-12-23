@@ -1,0 +1,32 @@
+{
+    "name": "granulomatous hepatitis",
+    "qid": "Q17633631",
+    "icd_10": "K75.3",
+    "description": "Human disease",
+    "aliases": [
+        "Granulomatous hepatitis",
+        "Granulomatous hepatitis (disorder)"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "hepatitis",
+                "qid": "Q131742",
+                "url": "https://en.wikipedia.org/wiki/Hepatitis"
+            },
+            {
+                "name": "hepatic granuloma",
+                "qid": "Q55780060"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Spinal enthesopathy",
+    "qid": "Q7577458",
+    "icd_10": "M46.0",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete spinal enthesopathy",
+        "spinal enthesopathy",
+        "Spinal enthesopathy (disorder)"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Spinal_enthesopathy",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "enthesopathy",
+                "qid": "Q52844",
+                "url": "https://en.wikipedia.org/wiki/Enthesopathy"
+            }
+        ]
+    }
+}

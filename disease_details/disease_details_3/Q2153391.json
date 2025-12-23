@@ -1,0 +1,55 @@
+{
+    "name": "Brucella abortus infection",
+    "qid": "Q2153391",
+    "icd_10": "A23.1",
+    "description": "primarily a disease of cattle, also a human disease",
+    "aliases": [
+        "Bang's disease",
+        "Bovine Brucellosis",
+        "Brucella abortus brucellosis",
+        "brucellosis in cattle",
+        "Brucellosis, Bovine"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Cause": [
+            {
+                "name": "Brucella abortus",
+                "qid": "Q11353905",
+                "url": "https://en.wikipedia.org/wiki/Brucella_abortus"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "weight loss",
+                "qid": "Q718113",
+                "url": "https://en.wikipedia.org/wiki/Weight_loss"
+            },
+            {
+                "name": "chills",
+                "qid": "Q2260058",
+                "url": "https://en.wikipedia.org/wiki/Chills"
+            },
+            {
+                "name": "arthralgia",
+                "qid": "Q683498",
+                "url": "https://en.wikipedia.org/wiki/Arthralgia"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "brucellosis",
+                "qid": "Q156050",
+                "url": "https://en.wikipedia.org/wiki/Brucellosis"
+            }
+        ]
+    }
+}

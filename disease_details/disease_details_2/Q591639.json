@@ -1,0 +1,25 @@
+{
+    "name": "cerebral contusion",
+    "qid": "Q591639",
+    "icd_10": "S06.3",
+    "description": "medical condition, bruising of the brain",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Frontale%20Kontusionsblutung%20als%20Contre%20coup%2001.png",
+    "url": "https://en.wikipedia.org/wiki/Cerebral_contusion",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurosurgery",
+                "qid": "Q188449",
+                "url": "https://en.wikipedia.org/wiki/Neurosurgery"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "traumatic brain injury",
+                "qid": "Q1995526",
+                "url": "https://en.wikipedia.org/wiki/Traumatic_brain_injury"
+            }
+        ]
+    }
+}

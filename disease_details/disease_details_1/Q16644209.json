@@ -1,0 +1,23 @@
+{
+    "name": "dilated cardiac chambers",
+    "qid": "Q16644209",
+    "icd_10": "I51.7",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "heart disease",
+                "qid": "Q190805",
+                "url": "https://en.wikipedia.org/wiki/Heart_disease"
+            },
+            {
+                "name": "cardiomegaly",
+                "qid": "Q1729124",
+                "url": "https://en.wikipedia.org/wiki/Cardiomegaly"
+            }
+        ]
+    }
+}

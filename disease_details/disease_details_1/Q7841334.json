@@ -1,0 +1,26 @@
+{
+    "name": "Tricyclic antidepressant overdose, opioides, benzodiazepinas, THC.",
+    "qid": "Q7841334",
+    "icd_10": "T43.0",
+    "description": "medical condition",
+    "aliases": [
+        "acute tricyclic antidepressant poisoning"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Tricyclic_antidepressant_overdose",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "poisoning by drugs",
+                "qid": "Q387175"
+            }
+        ]
+    }
+}

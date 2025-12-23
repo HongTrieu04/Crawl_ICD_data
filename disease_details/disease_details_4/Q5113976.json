@@ -1,0 +1,22 @@
+{
+    "name": "chronic eosinophilic leukemia",
+    "qid": "Q5113976",
+    "icd_10": "D47.5",
+    "description": "human disease",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Chronic_eosinophilic_leukemia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "chronic leukemia",
+                "qid": "Q5113979",
+                "url": "https://en.wikipedia.org/wiki/Chronic_leukemia"
+            },
+            {
+                "name": "eosinophilic leukemia",
+                "qid": "Q30090706"
+            }
+        ]
+    }
+}

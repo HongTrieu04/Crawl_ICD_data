@@ -1,0 +1,33 @@
+{
+    "name": "entropion",
+    "qid": "Q1327273",
+    "icd_10": "Q10.2",
+    "description": "medical condition in which the eyelid (usually the lower lid) folds inward",
+    "aliases": [
+        "entropion and trichiasis of eyelid",
+        "Entropion and trichiasis of eyelid (disorder)",
+        "Entropion or trichiasis of eyelid NOS (disorder)"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Canine%20entropion.JPG",
+    "url": "https://en.wikipedia.org/wiki/Entropion",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "eyelid disease",
+                "qid": "Q18556729"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "name": "pterygium",
+    "qid": "Q1862972",
+    "icd_10": "H11.01",
+    "description": "triangular tissue growth on the cornea of the eye",
+    "aliases": [
+        "Surfer's Eye"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pterygium%20%28from%20Michigan%20Uni%20site%2C%20CC-BY%29.jpg",
+    "url": "https://en.wikipedia.org/wiki/Pterygium_(eye)",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "pinguecula",
+                "qid": "Q1862031",
+                "url": "https://en.wikipedia.org/wiki/Pinguecula"
+            },
+            {
+                "name": "corneal disease",
+                "qid": "Q10526382"
+            },
+            {
+                "name": "conjunctival disease",
+                "qid": "Q18556249"
+            },
+            {
+                "name": "benign conjunctival neoplasm",
+                "qid": "Q55779987"
+            },
+            {
+                "name": "benign neoplasm of cornea",
+                "qid": "Q55789634"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            }
+        ]
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "name": "non-controlled substance abuse",
+    "qid": "Q182413",
+    "icd_10": "F19.2",
+    "description": "abuse of chemical substances and/or abuse of any licit substances",
+    "aliases": [
+        "drug addiction",
+        "abuse of licit drug",
+        "abuse of licit drugs",
+        "abuse of noncontrolled substances",
+        "legal substance abuse",
+        "licit drug use disorder",
+        "non-controlled medication abuse",
+        "non-controlled substance related disorder",
+        "non-controlled substance use disorder",
+        "noncontrolled substance related disorder",
+        "noncontrolled substance use disorder",
+        "substance dependence",
+        "toxic substance abuse",
+        "toxicomania"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Toxicoman%20-%20Substance%20abuse.jpg",
+    "url": "https://en.wikipedia.org/wiki/Toxicomania",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "psychology",
+                "qid": "Q9418",
+                "url": "https://en.wikipedia.org/wiki/Psychology"
+            },
+            {
+                "name": "narcology",
+                "qid": "Q4313186",
+                "url": "https://en.wikipedia.org/wiki/Narcology"
+            },
+            {
+                "name": "addiction medicine",
+                "qid": "Q55190072",
+                "url": "https://en.wikipedia.org/wiki/Addiction_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "addiction",
+                "qid": "Q12029",
+                "url": "https://en.wikipedia.org/wiki/Addiction"
+            },
+            {
+                "name": "social issue",
+                "qid": "Q1920219",
+                "url": "https://en.wikipedia.org/wiki/Social_issue"
+            },
+            {
+                "name": "substance use disorder",
+                "qid": "Q7632070",
+                "url": "https://en.wikipedia.org/wiki/Substance_use_disorder"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "psychotherapy",
+                "qid": "Q183257",
+                "url": "https://en.wikipedia.org/wiki/Psychotherapy"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "naltrexone",
+                "qid": "Q409587",
+                "url": "https://en.wikipedia.org/wiki/Naltrexone"
+            },
+            {
+                "name": "buprenorphine/naloxone",
+                "qid": "Q25048068",
+                "url": "https://en.wikipedia.org/wiki/Buprenorphine/naloxone"
+            }
+        ]
+    }
+}

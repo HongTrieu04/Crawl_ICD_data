@@ -1,0 +1,32 @@
+{
+    "name": "disinhibited attachment disorder",
+    "qid": "Q3700220",
+    "icd_10": "F94.2",
+    "description": "medical condition",
+    "aliases": [
+        "Disinhibited social engagement disorder"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Disinhibited_social_engagement_disorder",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "psychology",
+                "qid": "Q9418",
+                "url": "https://en.wikipedia.org/wiki/Psychology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "reactive attachment disorder",
+                "qid": "Q1329584",
+                "url": "https://en.wikipedia.org/wiki/Reactive_attachment_disorder"
+            }
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "name": "embryotomy",
+    "qid": "Q1409163",
+    "icd_10": "O83.4",
+    "description": "surgery to remove a dead or non-viable embryo from the mother's womb",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "pregnancy with abortive outcome",
+                "qid": "Q96649463",
+                "url": "https://en.wikipedia.org/wiki/Pregnancy_with_abortive_outcome"
+            },
+            {
+                "name": "destructive operation",
+                "qid": "Q124455119"
+            }
+        ]
+    }
+}

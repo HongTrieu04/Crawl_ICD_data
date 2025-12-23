@@ -1,0 +1,29 @@
+{
+    "name": "leg fracture",
+    "qid": "Q4350502",
+    "icd_10": "T12",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Anatomical location": [
+            {
+                "name": "lower leg",
+                "qid": "Q8265768",
+                "url": "https://en.wikipedia.org/wiki/Crus_(lower_leg)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "bone fracture",
+                "qid": "Q68833",
+                "url": "https://en.wikipedia.org/wiki/Bone_fracture"
+            },
+            {
+                "name": "leg injury",
+                "qid": "Q11361295"
+            }
+        ]
+    }
+}

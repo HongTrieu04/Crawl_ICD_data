@@ -1,0 +1,31 @@
+{
+    "name": "peritonsillar abscess",
+    "qid": "Q1586014",
+    "icd_10": "J36",
+    "description": "pus due to an infection behind the tonsil",
+    "aliases": [
+        "quinsy",
+        "obsolete peritonsillar abscess",
+        "Peritonsillar abscess",
+        "quinsey",
+        "squinancy"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/PeritonsilarAbsess.jpg",
+    "url": "https://en.wikipedia.org/wiki/Peritonsillar_abscess",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "otolaryngology",
+                "qid": "Q189553",
+                "url": "https://en.wikipedia.org/wiki/Otorhinolaryngology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "abscess",
+                "qid": "Q164655",
+                "url": "https://en.wikipedia.org/wiki/Abscess"
+            }
+        ]
+    }
+}

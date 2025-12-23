@@ -1,0 +1,33 @@
+{
+    "name": "albinism",
+    "qid": "Q81867",
+    "icd_10": "E70.3",
+    "description": "congenital disorder causing skin to lack pigmentation",
+    "aliases": [
+        "albino",
+        "albinos",
+        "achromasia",
+        "achromatosis",
+        "achromia",
+        "albinismus",
+        "albínky"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Beauty%20is%20in%20the%20eye%20of%20the%20beholder%20-%20Flickr%20-%20Zanastardust.jpg",
+    "url": "https://en.wikipedia.org/wiki/Albinism",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ]
+    }
+}

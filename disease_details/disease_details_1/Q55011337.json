@@ -1,0 +1,21 @@
+{
+    "name": "biliary calculus with acute cholecystitis",
+    "qid": "Q55011337",
+    "icd_10": "K80.0",
+    "description": "human disease",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "gallstone",
+                "qid": "Q272714"
+            },
+            {
+                "name": "acute cholecystitis",
+                "qid": "Q3682563"
+            }
+        ]
+    }
+}

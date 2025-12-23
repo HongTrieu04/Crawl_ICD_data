@@ -1,0 +1,19 @@
+{
+    "name": "extremely low birth weight infant",
+    "qid": "Q67579753",
+    "icd_10": "P07.0",
+    "description": "infant whose weight at birth is less than 1 kilogram",
+    "aliases": [
+        "Infant, Extremely Low Birth Weight"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "very low birth weight infant",
+                "qid": "Q67579493"
+            }
+        ]
+    }
+}

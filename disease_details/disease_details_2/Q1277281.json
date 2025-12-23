@@ -1,0 +1,32 @@
+{
+    "name": "oroantral fistula",
+    "qid": "Q1277281",
+    "icd_10": "J01.8",
+    "description": "antrum perforation",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Maxillary%20sinus%20-%20medial%20view.png",
+    "url": "https://en.wikipedia.org/wiki/Oroantral_fistula",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "otolaryngology",
+                "qid": "Q189553",
+                "url": "https://en.wikipedia.org/wiki/Otorhinolaryngology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "inflammatory disease",
+                "qid": "Q3508753"
+            },
+            {
+                "name": "paranasal sinus disease",
+                "qid": "Q18554536"
+            },
+            {
+                "name": "oral fistula",
+                "qid": "Q55083294"
+            }
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "acute respiratory insufficiency",
+    "qid": "Q21006662",
+    "icd_10": "J96.0",
+    "description": "life-threatening respiratory failure that develops rapidly; causes include injury, sepsis, drug overdose, and pancreatitis",
+    "aliases": [
+        "acute respiratory failure",
+        "Acute Respiratory Failure",
+        "respiratory failure, acute"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Acute_respiratory_failure",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "respiratory failure",
+                "qid": "Q767485",
+                "url": "https://en.wikipedia.org/wiki/Respiratory_failure"
+            },
+            {
+                "name": "clinical sign",
+                "qid": "Q1441305",
+                "url": "https://en.wikipedia.org/wiki/Clinical_sign"
+            }
+        ]
+    }
+}

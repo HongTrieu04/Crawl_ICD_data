@@ -1,0 +1,95 @@
+{
+    "name": "concussion",
+    "qid": "Q326921",
+    "icd_10": "S06.0",
+    "description": "type of traumatic brain injury",
+    "aliases": [
+        "brain concussion",
+        "cerebral concussion",
+        "mild traumatic brain injury",
+        "minor head trauma",
+        "mTBI"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Concussion%20mechanics.svg",
+    "url": "https://en.wikipedia.org/wiki/Concussion",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            },
+            {
+                "name": "sleep disorder",
+                "qid": "Q177190",
+                "url": "https://en.wikipedia.org/wiki/Sleep_disorder"
+            },
+            {
+                "name": "nausea",
+                "qid": "Q186889",
+                "url": "https://en.wikipedia.org/wiki/Nausea"
+            },
+            {
+                "name": "blurred vision",
+                "qid": "Q4930803",
+                "url": "https://en.wikipedia.org/wiki/Blurred_vision"
+            },
+            {
+                "name": "mood swing",
+                "qid": "Q7933601",
+                "url": "https://en.wikipedia.org/wiki/Mood_swing"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            },
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "traffic collision",
+                "qid": "Q9687",
+                "url": "https://en.wikipedia.org/wiki/Traffic_collision"
+            },
+            {
+                "name": "injury in humans",
+                "qid": "Q193078",
+                "url": "https://en.wikipedia.org/wiki/Injury_in_humans"
+            },
+            {
+                "name": "fall",
+                "qid": "Q11620540"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "paracetamol",
+                "qid": "Q57055",
+                "url": "https://en.wikipedia.org/wiki/Paracetamol"
+            },
+            {
+                "name": "non-steroidal anti-inflammatory drug",
+                "qid": "Q188724",
+                "url": "https://en.wikipedia.org/wiki/Nonsteroidal_anti-inflammatory_drug"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "traumatic brain injury",
+                "qid": "Q1995526",
+                "url": "https://en.wikipedia.org/wiki/Traumatic_brain_injury"
+            },
+            {
+                "name": "Q4429898",
+                "qid": "Q4429898"
+            }
+        ]
+    }
+}

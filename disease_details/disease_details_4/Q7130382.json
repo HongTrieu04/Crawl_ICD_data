@@ -1,0 +1,22 @@
+{
+    "name": "Pancolitis",
+    "qid": "Q7130382",
+    "icd_10": "K51.0",
+    "description": "Human disease",
+    "aliases": [
+        "chronic universal ulcerative colitis",
+        "universal ulcerative (chronic) colitis",
+        "universal ulcerative colitis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pancolitis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "ulcerative colitis",
+                "qid": "Q1477",
+                "url": "https://en.wikipedia.org/wiki/Ulcerative_colitis"
+            }
+        ]
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "name": "temporal lobe epilepsy",
+    "qid": "Q616667",
+    "icd_10": "G40.2",
+    "description": "Human disease",
+    "aliases": [
+        "epilepsy, temporal lobe"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Temporal_lobe_epilepsy",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "mephenytoin",
+                "qid": "Q1175385",
+                "url": "https://en.wikipedia.org/wiki/Mephenytoin"
+            },
+            {
+                "name": "lamotrigine",
+                "qid": "Q410346",
+                "url": "https://en.wikipedia.org/wiki/Lamotrigine"
+            },
+            {
+                "name": "phenytoin",
+                "qid": "Q410400",
+                "url": "https://en.wikipedia.org/wiki/Phenytoin"
+            },
+            {
+                "name": "carbamazepin",
+                "qid": "Q410412",
+                "url": "https://en.wikipedia.org/wiki/Carbamazepine"
+            },
+            {
+                "name": "(S)-etiracetam",
+                "qid": "Q417227",
+                "url": "https://en.wikipedia.org/wiki/Levetiracetam"
+            },
+            {
+                "name": "vigabatrin",
+                "qid": "Q421663",
+                "url": "https://en.wikipedia.org/wiki/Vigabatrin"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "focal epilepsy",
+                "qid": "Q7140388",
+                "url": "https://en.wikipedia.org/wiki/Focal_seizure"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "temporal lobe",
+                "qid": "Q744385",
+                "url": "https://en.wikipedia.org/wiki/Temporal_lobe"
+            }
+        ]
+    }
+}

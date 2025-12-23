@@ -1,0 +1,26 @@
+{
+    "name": "hyperacusis",
+    "qid": "Q1421356",
+    "icd_10": "H93.2",
+    "description": "very rare and extremely debilitating hearing disorder characterized by unusual intolerance to ordinary environmental sounds",
+    "aliases": [
+        "hyperacousis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Autism%20Aspect%20Sensory%20Sensitivity%201.png",
+    "url": "https://en.wikipedia.org/wiki/Hyperacusis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "otolaryngology",
+                "qid": "Q189553",
+                "url": "https://en.wikipedia.org/wiki/Otorhinolaryngology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "hearing disorder",
+                "qid": "Q1644260"
+            }
+        ]
+    }
+}

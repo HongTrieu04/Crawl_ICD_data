@@ -1,0 +1,33 @@
+{
+    "name": "Ring chromosome 14 syndrome",
+    "qid": "Q2966732",
+    "icd_10": "Q93.2",
+    "description": "very rare human chromosome abnormality",
+    "aliases": [
+        "Chromosome 14 ring",
+        "Ring 14",
+        "RING CHROMOSOME 14 SYNDROME",
+        "Ring chromosome type 14",
+        "Ring-14 disease"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Ring_chromosome_14_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "ring chromosome",
+                "qid": "Q474261",
+                "url": "https://en.wikipedia.org/wiki/Ring_chromosome"
+            },
+            {
+                "name": "rare disease",
+                "qid": "Q929833",
+                "url": "https://en.wikipedia.org/wiki/Rare_disease"
+            },
+            {
+                "name": "chromosomal anomaly with epilepsy as a major feature",
+                "qid": "Q55785627"
+            }
+        ]
+    }
+}

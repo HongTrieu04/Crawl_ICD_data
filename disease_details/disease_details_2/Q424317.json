@@ -1,0 +1,27 @@
+{
+    "name": "acute abdomen",
+    "qid": "Q424317",
+    "icd_10": "R10.0",
+    "description": "medical condition",
+    "aliases": [
+        "acute abdominal pain"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Quadranti%20addominali.jpg",
+    "url": "https://en.wikipedia.org/wiki/Acute_abdomen",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "abdominal pain",
+                "qid": "Q183425",
+                "url": "https://en.wikipedia.org/wiki/Abdominal_pain"
+            }
+        ]
+    }
+}

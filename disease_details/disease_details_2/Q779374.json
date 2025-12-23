@@ -1,0 +1,33 @@
+{
+    "name": "umbilical cord prolapse",
+    "qid": "Q779374",
+    "icd_10": "O69.0",
+    "description": "Complication of pregnancy where the umbilical cord slips out of the uterus",
+    "aliases": [
+        "cord prolapse",
+        "prolapse of umbilical cord"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Umbilical_cord_prolapse",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "obstetrics",
+                "qid": "Q5284418",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "obstetric labor complication",
+                "qid": "Q7075540",
+                "url": "https://en.wikipedia.org/wiki/Obstetric_labor_complication"
+            },
+            {
+                "name": "birth",
+                "qid": "Q14819852",
+                "url": "https://en.wikipedia.org/wiki/Birth"
+            }
+        ]
+    }
+}

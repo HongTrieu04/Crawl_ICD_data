@@ -1,0 +1,88 @@
+{
+    "name": "otalgia",
+    "qid": "Q1596398",
+    "icd_10": "H92",
+    "description": "pain in the ear",
+    "aliases": [
+        "earache",
+        "ear pain"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Depiction%20of%20a%20patient%20suffering%20from%20ear%20pain%20%28Otalgia%29.png",
+    "url": "https://en.wikipedia.org/wiki/Ear_pain",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            },
+            {
+                "name": "otolaryngology",
+                "qid": "Q189553",
+                "url": "https://en.wikipedia.org/wiki/Otorhinolaryngology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "pain",
+                "qid": "Q81938",
+                "url": "https://en.wikipedia.org/wiki/Pain"
+            },
+            {
+                "name": "ear symptom",
+                "qid": "Q102187283"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "common cold",
+                "qid": "Q12125",
+                "url": "https://en.wikipedia.org/wiki/Common_cold"
+            },
+            {
+                "name": "dental disease",
+                "qid": "Q5259414",
+                "url": "https://en.wikipedia.org/wiki/Tooth_pathology"
+            },
+            {
+                "name": "abscess",
+                "qid": "Q164655",
+                "url": "https://en.wikipedia.org/wiki/Abscess"
+            },
+            {
+                "name": "tonsillitis",
+                "qid": "Q186470",
+                "url": "https://en.wikipedia.org/wiki/Tonsillitis"
+            },
+            {
+                "name": "otitis media",
+                "qid": "Q223254",
+                "url": "https://en.wikipedia.org/wiki/Otitis_media"
+            },
+            {
+                "name": "sinusitis",
+                "qid": "Q183344",
+                "url": "https://en.wikipedia.org/wiki/Sinusitis"
+            },
+            {
+                "name": "otitis externa",
+                "qid": "Q680873",
+                "url": "https://en.wikipedia.org/wiki/Otitis_externa"
+            },
+            {
+                "name": "parotitis",
+                "qid": "Q1975850",
+                "url": "https://en.wikipedia.org/wiki/Parotitis"
+            },
+            {
+                "name": "upper respiratory tract infection",
+                "qid": "Q2622199",
+                "url": "https://en.wikipedia.org/wiki/Upper_respiratory_tract_infection"
+            },
+            {
+                "name": "foreign body in ear",
+                "qid": "Q106584076"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "abnormal reflex",
+    "qid": "Q34399420",
+    "icd_10": "R29.2",
+    "description": "abnormal response to a stimulus applied to the sensory components of the nervous system",
+    "aliases": [
+        "reflex symptom",
+        "Reflex, Abnormal"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "genetic disease",
+                "qid": "Q200779",
+                "url": "https://en.wikipedia.org/wiki/Genetic_disorder"
+            },
+            {
+                "name": "neurological symptom",
+                "qid": "Q12040808"
+            }
+        ]
+    }
+}

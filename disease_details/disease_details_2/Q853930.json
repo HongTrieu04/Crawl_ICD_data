@@ -1,0 +1,47 @@
+{
+    "name": "starvation",
+    "qid": "Q853930",
+    "icd_10": "T73.0",
+    "description": "most extreme form of malnutrition, a consequence of prolonged insufficiency of food",
+    "aliases": [
+        "inanition"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Starved%20girl.jpg",
+    "url": "https://en.wikipedia.org/wiki/Starvation",
+    "details": {
+        "Cause": [
+            {
+                "name": "food crisis",
+                "qid": "Q2964234",
+                "url": "https://en.wikipedia.org/wiki/Food_crisis"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "hunger",
+                "qid": "Q165947",
+                "url": "https://en.wikipedia.org/wiki/Hunger"
+            },
+            {
+                "name": "social issue",
+                "qid": "Q1920219",
+                "url": "https://en.wikipedia.org/wiki/Social_issue"
+            },
+            {
+                "name": "deprivation",
+                "qid": "Q1191925"
+            },
+            {
+                "name": "undernutrition",
+                "qid": "Q3044538"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "name": "degenerative disc disease",
+    "qid": "Q11773731",
+    "icd_10": "M51.3",
+    "description": "bone deterioration disease that has material basis in gradual dehydration and tears located in intervertebral disc",
+    "aliases": [
+        "DDD",
+        "cervical disc degenerative disease",
+        "discopathy",
+        "intervertebral disc degeneration",
+        "lumbar disc degeneration",
+        "vertebral disc disease"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cervical%20Spine%20MRI%20showing%20degenerative%20changes%20closeup.jpg",
+    "url": "https://en.wikipedia.org/wiki/Degenerative_disc_disease",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "Intervertebral disc disorder",
+                "qid": "Q6057394",
+                "url": "https://en.wikipedia.org/wiki/Intervertebral_disc_disorder"
+            },
+            {
+                "name": "bone deterioration disease",
+                "qid": "Q18553738"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "dehydration",
+                "qid": "Q194290",
+                "url": "https://en.wikipedia.org/wiki/Dehydration"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ]
+    }
+}

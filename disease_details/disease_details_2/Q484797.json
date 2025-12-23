@@ -1,0 +1,27 @@
+{
+    "name": "anal fissure",
+    "qid": "Q484797",
+    "icd_10": "K60.2",
+    "description": "Break or tear in the skin of the anal canal",
+    "aliases": [
+        "anal fissure and fistula",
+        "fissure in ano"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Anal%20fissure%202.jpg",
+    "url": "https://en.wikipedia.org/wiki/Anal_fissure",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "anal disease",
+                "qid": "Q56603543"
+            }
+        ]
+    }
+}

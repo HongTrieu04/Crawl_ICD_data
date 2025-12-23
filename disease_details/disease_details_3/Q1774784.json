@@ -1,0 +1,29 @@
+{
+    "name": "clitoromegaly",
+    "qid": "Q1774784",
+    "icd_10": "Q52.6",
+    "description": "atypical enlargement of the clitoris",
+    "aliases": [
+        "Clitorimegaly",
+        "enlarged clitoris",
+        "Hypertrophy of clitoris"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Clitoromegaly.jpg",
+    "url": "https://en.wikipedia.org/wiki/Clitoromegaly",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "gynaecology",
+                "qid": "Q1221899",
+                "url": "https://en.wikipedia.org/wiki/Gynaecology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "female reproductive system disease",
+                "qid": "Q5442760",
+                "url": "https://en.wikipedia.org/wiki/Female_genital_disease"
+            }
+        ]
+    }
+}

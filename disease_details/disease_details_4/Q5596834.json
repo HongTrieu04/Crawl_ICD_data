@@ -1,0 +1,119 @@
+{
+    "name": "granulomatous amebic encephalitis",
+    "qid": "Q5596834",
+    "icd_10": "A06.6",
+    "description": "Human disease",
+    "aliases": [
+        "Acanthamoeba encephalitis",
+        "Acanthamoeba granulomatous encephalitis",
+        "Balamuthia amoebic encephalitis",
+        "Granulomatous Amebic Encephalitis due to Acanthamoeba",
+        "granulomatous amoebic encephalitis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Granulomatous_amoebic_encephalitis",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            },
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "paralysis",
+                "qid": "Q107231",
+                "url": "https://en.wikipedia.org/wiki/Paralysis"
+            },
+            {
+                "name": "coma",
+                "qid": "Q159557",
+                "url": "https://en.wikipedia.org/wiki/Coma"
+            },
+            {
+                "name": "vomiting",
+                "qid": "Q127076",
+                "url": "https://en.wikipedia.org/wiki/Vomiting"
+            },
+            {
+                "name": "nausea",
+                "qid": "Q186889",
+                "url": "https://en.wikipedia.org/wiki/Nausea"
+            },
+            {
+                "name": "spasm",
+                "qid": "Q574360",
+                "url": "https://en.wikipedia.org/wiki/Spasm"
+            },
+            {
+                "name": "meningism signs",
+                "qid": "Q12122651"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "acanthamoebiasis",
+                "qid": "Q337675",
+                "url": "https://en.wikipedia.org/wiki/Acanthamoeba_infection"
+            },
+            {
+                "name": "primary amebic meningoencephalitis",
+                "qid": "Q922927",
+                "url": "https://en.wikipedia.org/wiki/Primary_amoebic_meningoencephalitis"
+            },
+            {
+                "name": "Balamuthia infection",
+                "qid": "Q4849924",
+                "url": "https://en.wikipedia.org/wiki/Balamuthia_infection"
+            },
+            {
+                "name": "encephalopathy",
+                "qid": "Q576349",
+                "url": "https://en.wikipedia.org/wiki/Encephalopathy"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "ketoconazole",
+                "qid": "Q407883",
+                "url": "https://en.wikipedia.org/wiki/Ketoconazole"
+            },
+            {
+                "name": "fluconazole",
+                "qid": "Q411478",
+                "url": "https://en.wikipedia.org/wiki/Fluconazole"
+            },
+            {
+                "name": "amphotericin B",
+                "qid": "Q412223",
+                "url": "https://en.wikipedia.org/wiki/Amphotericin_B"
+            },
+            {
+                "name": "sulfadiazine",
+                "qid": "Q2555060",
+                "url": "https://en.wikipedia.org/wiki/Sulfadiazine"
+            },
+            {
+                "name": "rifampicin",
+                "qid": "Q422652",
+                "url": "https://en.wikipedia.org/wiki/Rifampicin"
+            },
+            {
+                "name": "sulfamethoxazole/trimethoprim",
+                "qid": "Q898623",
+                "url": "https://en.wikipedia.org/wiki/Trimethoprim/sulfamethoxazole"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

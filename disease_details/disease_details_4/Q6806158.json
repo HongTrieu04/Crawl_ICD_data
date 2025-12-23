@@ -1,0 +1,42 @@
+{
+    "name": "Mediastinal fibrosis",
+    "qid": "Q6806158",
+    "icd_10": "J98.5",
+    "description": "human disease",
+    "aliases": [
+        "Fibrosing mediastinitis",
+        "Sclerosing mediastinitis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Mediastinal_fibrosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "mediastinitis",
+                "qid": "Q1581845",
+                "url": "https://en.wikipedia.org/wiki/Mediastinitis"
+            },
+            {
+                "name": "immune disorder",
+                "qid": "Q3843811",
+                "url": "https://en.wikipedia.org/wiki/Immune_disorder"
+            },
+            {
+                "name": "IgG4-related disease",
+                "qid": "Q11039483",
+                "url": "https://en.wikipedia.org/wiki/IgG4-related_disease"
+            },
+            {
+                "name": "rare respiratory disease",
+                "qid": "Q55789042"
+            }
+        ]
+    }
+}

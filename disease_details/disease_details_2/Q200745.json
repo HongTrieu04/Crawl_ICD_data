@@ -1,0 +1,29 @@
+{
+    "name": "pseudohypoaldosteronism",
+    "qid": "Q200745",
+    "icd_10": "N25.8",
+    "description": "Human disease",
+    "aliases": [
+        "Hyperkalemic distal renal tubular acidosis",
+        "Pseudohypoaldosteronism",
+        "Renal tubular acidosis, distal, type 4"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pseudohypoaldosteronism",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "nephrology",
+                "qid": "Q177635",
+                "url": "https://en.wikipedia.org/wiki/Nephrology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "renal tubular transport disease",
+                "qid": "Q6013986",
+                "url": "https://en.wikipedia.org/wiki/Inborn_errors_of_renal_tubular_transport"
+            }
+        ]
+    }
+}

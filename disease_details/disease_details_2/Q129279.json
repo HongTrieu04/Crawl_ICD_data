@@ -1,0 +1,60 @@
+{
+    "name": "dysentery",
+    "qid": "Q129279",
+    "icd_10": "A09.0",
+    "description": "inflammation of the intestine causing diarrhea with blood",
+    "aliases": [
+        "Infectious diarrhea"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dysentery%20Patient%2C%20Burma%20Hospital%2C%20Siam%20Art.IWMART1541787.jpg",
+    "url": "https://en.wikipedia.org/wiki/Dysentery",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "intestinal infectious disease",
+                "qid": "Q2970970",
+                "url": "https://en.wikipedia.org/wiki/Intestinal_infectious_diseases"
+            },
+            {
+                "name": "colitis",
+                "qid": "Q2453464",
+                "url": "https://en.wikipedia.org/wiki/Colitis"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "diarrhea",
+                "qid": "Q40878",
+                "url": "https://en.wikipedia.org/wiki/Diarrhea"
+            },
+            {
+                "name": "hemorrhagic diarrhea",
+                "qid": "Q21513416"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "ciprofloxacin",
+                "qid": "Q256602",
+                "url": "https://en.wikipedia.org/wiki/Ciprofloxacin"
+            },
+            {
+                "name": "L-scopolamine",
+                "qid": "Q337188",
+                "url": "https://en.wikipedia.org/wiki/Scopolamine"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

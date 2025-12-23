@@ -1,0 +1,27 @@
+{
+    "name": "influenza virus pneumonia",
+    "qid": "Q18966398",
+    "icd_10": "J11.0",
+    "description": "Human disease",
+    "aliases": [
+        "influenza pneumonia",
+        "influenzal pneumonia",
+        "obsolete influenza virus pneumonia"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "influenza",
+                "qid": "Q2840",
+                "url": "https://en.wikipedia.org/wiki/Influenza"
+            },
+            {
+                "name": "viral pneumonia",
+                "qid": "Q2603200",
+                "url": "https://en.wikipedia.org/wiki/Viral_pneumonia"
+            }
+        ]
+    }
+}

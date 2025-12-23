@@ -1,0 +1,35 @@
+{
+    "name": "deviated septum",
+    "qid": "Q2271880",
+    "icd_10": "J34.2",
+    "description": "physical disorder of the nose, involving a displacement of the nasal septum",
+    "aliases": [
+        "DNS",
+        "deviated nasal septum",
+        "nasal septum deviation"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Deviated%20nasal%20septum%20MRI.jpg",
+    "url": "https://en.wikipedia.org/wiki/Nasal_septum_deviation",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "septoplasty",
+                "qid": "Q1973252",
+                "url": "https://en.wikipedia.org/wiki/Septoplasty"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "acquired nose deformity",
+                "qid": "Q55082207"
+            }
+        ]
+    }
+}

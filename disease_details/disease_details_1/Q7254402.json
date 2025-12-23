@@ -1,0 +1,25 @@
+{
+    "name": "Pseudo-Cushing's syndrome",
+    "qid": "Q7254402",
+    "icd_10": "E24.3",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pseudo-Cushing%27s_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "adrenal gland hyperfunction",
+                "qid": "Q4684750",
+                "url": "https://en.wikipedia.org/wiki/Adrenocortical_hyperfunction"
+            }
+        ]
+    }
+}

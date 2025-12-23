@@ -1,0 +1,41 @@
+{
+    "name": "nail clubbing",
+    "qid": "Q1340669",
+    "icd_10": "R68.3",
+    "description": "deformity found in nails",
+    "aliases": [
+        "clubbing",
+        "clubbing of fingers",
+        "digital clubbing",
+        "finger clubbing",
+        "Hippocratic fingers"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dedos%20con%20acropaquia.jpg",
+    "url": "https://en.wikipedia.org/wiki/Nail_clubbing",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "finger",
+                "qid": "Q620207",
+                "url": "https://en.wikipedia.org/wiki/Finger"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "clubbing",
+                "qid": "Q30090600"
+            },
+            {
+                "name": "musculoskeletal system symptom",
+                "qid": "Q102187380"
+            }
+        ]
+    }
+}

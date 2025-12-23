@@ -1,0 +1,30 @@
+{
+    "name": "polysyndactyly",
+    "qid": "Q1595685",
+    "icd_10": "Q70.4",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Polysyndactyly",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "polydactyly",
+                "qid": "Q371520",
+                "url": "https://en.wikipedia.org/wiki/Polydactyly"
+            },
+            {
+                "name": "syndactyly",
+                "qid": "Q1360044",
+                "url": "https://en.wikipedia.org/wiki/Syndactyly"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "name": "pulmonary sequestration",
+    "qid": "Q688890",
+    "icd_10": "Q33.2",
+    "description": "congenital disorder of respiratory system",
+    "aliases": [
+        "Congenital bronchopulmonary sequestration",
+        "congenital pulmonary sequestration"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pulmonary_sequestration",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "respiratory disease",
+                "qid": "Q3286546",
+                "url": "https://en.wikipedia.org/wiki/Respiratory_disease"
+            },
+            {
+                "name": "respiratory system abnormality",
+                "qid": "Q18975820"
+            },
+            {
+                "name": "non-syndromic respiratory or mediastinal malformation",
+                "qid": "Q55785339"
+            },
+            {
+                "name": "rare genetic respiratory disease",
+                "qid": "Q55785522"
+            }
+        ]
+    }
+}

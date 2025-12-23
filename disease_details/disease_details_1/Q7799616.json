@@ -1,0 +1,24 @@
+{
+    "name": "thymic hypoplasia",
+    "qid": "Q7799616",
+    "icd_10": "Q89.2",
+    "description": "condition in which the thymus is underdeveloped or involuted",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Thymic_hypoplasia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "thymic dysplasia",
+                "qid": "Q18557560"
+            }
+        ]
+    }
+}

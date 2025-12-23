@@ -1,0 +1,51 @@
+{
+    "name": "acrocallosal syndrome",
+    "qid": "Q4675304",
+    "icd_10": "Q04.0",
+    "description": "syndrome that is an autosomal recessive disorder, which is characterized by corpus callosum agenesis, polydactyly, multiple dysmorphic features, motor and mental retardation",
+    "aliases": [
+        "ACS",
+        "ACLS",
+        "Joubert Syndrome 12/15, Digenic",
+        "ACROCALLOSAL SYNDROME",
+        "ACROCALLOSAL SYNDROME; ACLS",
+        "Hallux Duplication, Postaxial Polydactyly, and Absence of Corpus Callosum",
+        "Joubert Syndrome 12",
+        "SCHINZEL ACROCALLOSAL SYNDROME",
+        "Schinzel syndrome 1"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Acrocallosal_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "syndrome",
+                "qid": "Q179630",
+                "url": "https://en.wikipedia.org/wiki/Syndrome"
+            },
+            {
+                "name": "multiple congenital anomalies/dysmorphic syndrome-intellectual disability",
+                "qid": "Q55785288"
+            },
+            {
+                "name": "genetic syndromic intellectual disability",
+                "qid": "Q55785866"
+            },
+            {
+                "name": "genetic syndrome with corpus callosum agenesis/dysgenesis as a major feature",
+                "qid": "Q55786837"
+            },
+            {
+                "name": "syndrome with limb duplication, polydactyly, syndactyly, and/or hyperphalangy",
+                "qid": "Q55787048"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

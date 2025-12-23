@@ -1,0 +1,64 @@
+{
+    "name": "beta-mannosidosis",
+    "qid": "Q291617",
+    "icd_10": "Q77.1",
+    "description": "lysosomal storage disease that has material basis in deficiency of the beta-A-manosidase enzyme resulting in the disruption of N-linked glycoprotein oligosaccharide catabolism",
+    "aliases": [
+        "Beta-D-mannosidosis",
+        "Beta-D-mannosidosis (disorder)",
+        "beta-mannosidase deficiency",
+        "Beta-Mannosidosis",
+        "lysosomal beta-mannosidase deficiency",
+        "MANNOSIDOSIS, BETA A, LYSOSOMAL",
+        "MANNOSIDOSIS, BETA A, LYSOSOMAL; MANSB",
+        "MANSB"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Beta-mannosidosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "lysosomal storage disease",
+                "qid": "Q675010",
+                "url": "https://en.wikipedia.org/wiki/Lysosomal_storage_disease"
+            },
+            {
+                "name": "hypertrophic cardiomyopathy",
+                "qid": "Q1364270",
+                "url": "https://en.wikipedia.org/wiki/Hypertrophic_cardiomyopathy"
+            },
+            {
+                "name": "Mannosidosis",
+                "qid": "Q6750947",
+                "url": "https://en.wikipedia.org/wiki/Mannosidosis"
+            },
+            {
+                "name": "rare genetic developmental defect during embryogenesis",
+                "qid": "Q55785846"
+            },
+            {
+                "name": "rare hereditary metabolic disease with peripheral neuropathy",
+                "qid": "Q55785954"
+            },
+            {
+                "name": "lysosomal disease with hypertrophic cardiomyopathy",
+                "qid": "Q55786143"
+            },
+            {
+                "name": "oligosaccharidosis",
+                "qid": "Q55788568"
+            },
+            {
+                "name": "lysosomal storage disease with skeletal involvement",
+                "qid": "Q55788818"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

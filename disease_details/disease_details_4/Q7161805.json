@@ -1,0 +1,22 @@
+{
+    "name": "pelvic pain",
+    "qid": "Q7161805",
+    "icd_10": "R10.2",
+    "description": "pain in the pelvic region",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Endometrioma3.jpg",
+    "url": "https://en.wikipedia.org/wiki/Pelvic_pain",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "pain",
+                "qid": "Q81938",
+                "url": "https://en.wikipedia.org/wiki/Pain"
+            },
+            {
+                "name": "pelvic symptom",
+                "qid": "Q102186803"
+            }
+        ]
+    }
+}

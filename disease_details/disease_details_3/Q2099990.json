@@ -1,0 +1,27 @@
+{
+    "name": "pneumatosis intestinalis",
+    "qid": "Q2099990",
+    "icd_10": "R93.3",
+    "description": "pneumatosis of an intestine, that is, gas cysts in the bowel wall",
+    "aliases": [
+        "pneumatosis cystoides intestinalis",
+        "intestinal pneumatosis",
+        "pneumatosis coli"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pneumatosis%20coli%20-%2041997250402.jpg",
+    "url": "https://en.wikipedia.org/wiki/Pneumatosis_intestinalis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "emphysema",
+                "qid": "Q1339243",
+                "url": "https://en.wikipedia.org/wiki/Pneumatosis"
+            },
+            {
+                "name": "intestinal disease",
+                "qid": "Q3055380",
+                "url": "https://en.wikipedia.org/wiki/Enteropathy"
+            }
+        ]
+    }
+}

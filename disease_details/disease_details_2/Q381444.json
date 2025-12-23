@@ -1,0 +1,26 @@
+{
+    "name": "luxating patella",
+    "qid": "Q381444",
+    "icd_10": "M22.1",
+    "description": "medical condition",
+    "aliases": [
+        "patella luxation"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Luxating_patella",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "knee disorder",
+                "qid": "Q18971535"
+            }
+        ]
+    }
+}

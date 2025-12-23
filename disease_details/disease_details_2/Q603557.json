@@ -1,0 +1,23 @@
+{
+    "name": "climacteric",
+    "qid": "Q603557",
+    "icd_10": "N95.1",
+    "description": "time when menstrual periods stop permanently",
+    "aliases": [
+        "symptomatic menopausal or female climacteric state"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Climacteric_(human)",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "women's disease",
+                "qid": "Q1451794"
+            },
+            {
+                "name": "reproductive senescence",
+                "qid": "Q22299008"
+            }
+        ]
+    }
+}

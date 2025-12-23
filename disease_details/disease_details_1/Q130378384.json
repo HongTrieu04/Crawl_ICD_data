@@ -1,0 +1,64 @@
+{
+    "name": "central auditory processing disorder",
+    "qid": "Q130378384",
+    "icd_10": "H93.25",
+    "description": "neurodevelopmental disorder that affects how the brain processes sounds",
+    "aliases": [
+        "Auditory Processing Disorder",
+        "APD",
+        "Acoustic Perceptual Disorder",
+        "Acoustic Perceptual Disorders",
+        "Auditory Comprehension Disorder",
+        "Auditory Comprehension Disorders",
+        "Auditory Inattention",
+        "Auditory Inattentions",
+        "Auditory Perceptual Disorder",
+        "Auditory Perceptual Disorders",
+        "auditory processing disorder",
+        "Auditory Processing Disorders",
+        "central listening disorder",
+        "Comprehension Disorder, Auditory",
+        "Comprehension Disorders, Auditory",
+        "disorder of sensory perception of sound",
+        "Disorder, Acoustic Perceptual",
+        "Disorder, Auditory Comprehension",
+        "Disorder, Auditory Processing",
+        "Disorder, Psychoacoustical",
+        "Disorders, Acoustic Perceptual",
+        "Disorders, Auditory Comprehension",
+        "Disorders, Auditory Processing",
+        "Disorders, Psychoacoustical",
+        "Inattention, Auditory",
+        "Inattentions, Auditory",
+        "Perceptual Disorder, Acoustic",
+        "Perceptual Disorder, Auditory",
+        "Perceptual Disorders, Acoustic",
+        "Perceptual Disorders, Auditory",
+        "Processing Disorder, Auditory",
+        "Processing Disorders, Auditory",
+        "Psychoacoustical Disorder",
+        "Psychoacoustical Disorders"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Auditory_processing_disorder",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "audiology",
+                "qid": "Q569965",
+                "url": "https://en.wikipedia.org/wiki/Audiology"
+            },
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "hearing disorder",
+                "qid": "Q1644260"
+            }
+        ]
+    }
+}

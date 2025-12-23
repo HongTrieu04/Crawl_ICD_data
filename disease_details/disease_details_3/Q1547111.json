@@ -1,0 +1,26 @@
+{
+    "name": "Megaureter",
+    "qid": "Q1547111",
+    "icd_10": "Q62.2",
+    "description": "congenital disorder of urinary system",
+    "aliases": [
+        "Megalourether"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Megaureter",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "ureteral disease",
+                "qid": "Q18554726"
+            }
+        ]
+    }
+}

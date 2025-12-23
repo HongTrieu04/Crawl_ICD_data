@@ -1,0 +1,27 @@
+{
+    "name": "small for gestational age",
+    "qid": "Q1298973",
+    "icd_10": "P07",
+    "description": "babies whose birth weight lies below the 10th percentile for that gestational age",
+    "aliases": [
+        "infant, small for gestational age"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Small_for_gestational_age",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "pediatrics",
+                "qid": "Q123028",
+                "url": "https://en.wikipedia.org/wiki/Pediatrics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "low birth weight infant",
+                "qid": "Q6692979",
+                "url": "https://en.wikipedia.org/wiki/Low_birth_weight"
+            }
+        ]
+    }
+}

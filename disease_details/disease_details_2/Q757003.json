@@ -1,0 +1,25 @@
+{
+    "name": "atlantoaxial subluxation",
+    "qid": "Q757003",
+    "icd_10": "M43.4",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Anatomical location": [
+            {
+                "name": "atlanto-axial joint",
+                "qid": "Q2865747",
+                "url": "https://en.wikipedia.org/wiki/Atlanto-axial_joint"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "cervical spine disorder",
+                "qid": "Q5065358",
+                "url": "https://en.wikipedia.org/wiki/Cervical_spine_disorder"
+            }
+        ]
+    }
+}

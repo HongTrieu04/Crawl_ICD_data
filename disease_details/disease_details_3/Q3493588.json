@@ -1,0 +1,41 @@
+{
+    "name": "spirochetal diseases",
+    "qid": "Q3493588",
+    "icd_10": "A69.9",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete primary Spirochaetales infectious disease",
+        "primary Spirochaetales infectious disease",
+        "Spirochetes infectious disease",
+        "Spirochetosis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Cause": [
+            {
+                "name": "infection",
+                "qid": "Q166231",
+                "url": "https://en.wikipedia.org/wiki/Infection"
+            },
+            {
+                "name": "Spirochaetales",
+                "qid": "Q221315",
+                "url": "https://en.wikipedia.org/wiki/Spirochaetales"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "primary bacterial infectious disease",
+                "qid": "Q18553247"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "name": "pulmonary aspiration",
+    "qid": "Q737510",
+    "icd_10": "O89.0",
+    "description": "entry of materials into the larynx (voice box) and lower respiratory tract",
+    "aliases": [
+        "choking to death on one's own vomit",
+        "respiratory aspiration"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larynx%20-%20Aspiration%20of%20a%20large%20fragment%20of%20meat.jpg",
+    "url": "https://en.wikipedia.org/wiki/Pulmonary_aspiration",
+    "details": {
+        "Cause": [
+            {
+                "name": "barbiturate overdose",
+                "qid": "Q1184752",
+                "url": "https://en.wikipedia.org/wiki/Barbiturate_overdose"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "airway obstruction",
+                "qid": "Q4330029",
+                "url": "https://en.wikipedia.org/wiki/Airway_obstruction"
+            }
+        ]
+    }
+}

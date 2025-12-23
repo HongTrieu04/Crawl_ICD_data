@@ -1,0 +1,25 @@
+{
+    "name": "intention tremor",
+    "qid": "Q2149420",
+    "icd_10": "G25.2",
+    "description": "dyskinetic disorder characterized by a broad, coarse, and low frequency tremor",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Intention_tremor",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "tremor",
+                "qid": "Q223907",
+                "url": "https://en.wikipedia.org/wiki/Tremor"
+            }
+        ]
+    }
+}

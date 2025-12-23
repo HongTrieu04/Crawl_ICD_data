@@ -1,0 +1,29 @@
+{
+    "name": "renal abscess",
+    "qid": "Q11883397",
+    "icd_10": "N15.1",
+    "description": "symptom",
+    "aliases": [
+        "kidney abscess"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "abscess",
+                "qid": "Q164655",
+                "url": "https://en.wikipedia.org/wiki/Abscess"
+            },
+            {
+                "name": "kidney disease",
+                "qid": "Q1054718",
+                "url": "https://en.wikipedia.org/wiki/Kidney_disease"
+            },
+            {
+                "name": "urological symptom",
+                "qid": "Q2565950"
+            }
+        ]
+    }
+}

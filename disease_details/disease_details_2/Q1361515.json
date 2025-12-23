@@ -1,0 +1,46 @@
+{
+    "name": "heart conduction disease",
+    "qid": "Q1361515",
+    "icd_10": "I45",
+    "description": "cardiovascular system disease that involves the heart's electrical conduction system",
+    "aliases": [
+        "cardiac conduction defect",
+        "heart block",
+        "heart rhythm disease"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Heart_block",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "heart disease",
+                "qid": "Q190805",
+                "url": "https://en.wikipedia.org/wiki/Heart_disease"
+            },
+            {
+                "name": "bradycardia",
+                "qid": "Q217111",
+                "url": "https://en.wikipedia.org/wiki/Bradycardia"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "bretylium",
+                "qid": "Q420026",
+                "url": "https://en.wikipedia.org/wiki/Bretylium"
+            }
+        ]
+    }
+}

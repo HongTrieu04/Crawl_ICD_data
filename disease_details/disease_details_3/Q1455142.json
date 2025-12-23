@@ -1,0 +1,29 @@
+{
+    "name": "foreign body",
+    "qid": "Q1455142",
+    "icd_10": "T19",
+    "description": "any object originating outside the body of an organism",
+    "aliases": [
+        "FB",
+        "corpus alienum",
+        "foreign bodies"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Foreign%20Body.jpg",
+    "url": "https://en.wikipedia.org/wiki/Foreign_body",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "injury in humans",
+                "qid": "Q193078",
+                "url": "https://en.wikipedia.org/wiki/Injury_in_humans"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ]
+    }
+}

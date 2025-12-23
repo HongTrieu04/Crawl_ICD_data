@@ -1,0 +1,59 @@
+{
+    "name": "angiostrongyliasis",
+    "qid": "Q2558586",
+    "icd_10": "B83.2",
+    "description": "parasitic helminthiasis infectious disease by Angiostrongylus cantonensis or Angiostrongylus costaricensis",
+    "aliases": [
+        "Angiostrongylus cantonensis infectious disease",
+        "obsolete Angiostrongylus cantonensis infectious disease"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Angiostrongylus%20cantonensis.png",
+    "url": "https://en.wikipedia.org/wiki/Angiostrongyliasis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "meningitis",
+                "qid": "Q48143",
+                "url": "https://en.wikipedia.org/wiki/Meningitis"
+            },
+            {
+                "name": "intestinal disease",
+                "qid": "Q3055380",
+                "url": "https://en.wikipedia.org/wiki/Enteropathy"
+            },
+            {
+                "name": "central nervous system disease",
+                "qid": "Q5062122",
+                "url": "https://en.wikipedia.org/wiki/Central_nervous_system_disease"
+            },
+            {
+                "name": "parasitic helminthiasis infectious disease",
+                "qid": "Q578994",
+                "url": "https://en.wikipedia.org/wiki/Helminthiasis"
+            },
+            {
+                "name": "eye disease",
+                "qid": "Q3041498",
+                "url": "https://en.wikipedia.org/wiki/Eye_disease"
+            },
+            {
+                "name": "Strongylida infectious disease",
+                "qid": "Q18968162"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Angiostrongylus cantonensis",
+                "qid": "Q1449098",
+                "url": "https://en.wikipedia.org/wiki/Angiostrongylus_cantonensis"
+            }
+        ]
+    }
+}

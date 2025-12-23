@@ -1,0 +1,21 @@
+{
+    "name": "ketonuria",
+    "qid": "Q1739905",
+    "icd_10": "R82.4",
+    "description": "medical condition in which ketone bodies are present in the urine",
+    "aliases": [
+        "Acetonuria",
+        "urine ketones"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Ketonuria",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "urinalysis",
+                "qid": "Q842424",
+                "url": "https://en.wikipedia.org/wiki/Urinalysis"
+            }
+        ]
+    }
+}

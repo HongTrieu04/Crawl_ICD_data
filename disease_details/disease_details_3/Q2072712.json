@@ -1,0 +1,41 @@
+{
+    "name": "ophthalmic zoster",
+    "qid": "Q2072712",
+    "icd_10": "B02.3",
+    "description": "human disease",
+    "aliases": [
+        "Herpes zoster ophthalmicus",
+        "Herpes zoster ophthalmicus (disorder)",
+        "Herpes zoster with ophthalmic complication (disorder)",
+        "Herpes zoster with other ophthalmic complication (disorder)",
+        "herpes zoster with other ophthalmic complications",
+        "obsolete ophthalmic herpes zoster",
+        "ophthalmic herpes zoster",
+        "Ophthalmic herpes zoster infection"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Herpes_zoster_ophthalmicus",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "herpes zoster",
+                "qid": "Q182155",
+                "url": "https://en.wikipedia.org/wiki/Shingles"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "valacyclovir",
+                "qid": "Q418594",
+                "url": "https://en.wikipedia.org/wiki/Valaciclovir"
+            }
+        ]
+    }
+}

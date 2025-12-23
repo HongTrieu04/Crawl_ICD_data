@@ -1,0 +1,54 @@
+{
+    "name": "pulmonary arteriovenous malformations",
+    "qid": "Q52775754",
+    "icd_10": "I28.0",
+    "description": null,
+    "aliases": [
+        "Arteriovenous Fistula of Pulmonary Vessels",
+        "PAVM",
+        "pulmonary arteriovenous aneurysm",
+        "pulmonary arteriovenous fistula",
+        "pulmonary arteriovenous fistulae",
+        "PULMONARY ARTERIOVENOUS FISTULAS",
+        "Pulmonary arteriovenous malformation",
+        "Pulmonary AV Fistula"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Anatomical location": [
+            {
+                "name": "lung",
+                "qid": "Q7886",
+                "url": "https://en.wikipedia.org/wiki/Lung"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "arteriovenous malformation",
+                "qid": "Q1584110",
+                "url": "https://en.wikipedia.org/wiki/Arteriovenous_malformation"
+            },
+            {
+                "name": "arteriovenous fistula",
+                "qid": "Q707837",
+                "url": "https://en.wikipedia.org/wiki/Arteriovenous_fistula"
+            },
+            {
+                "name": "non-syndromic respiratory or mediastinal malformation",
+                "qid": "Q55785339"
+            },
+            {
+                "name": "rare genetic vascular tumor",
+                "qid": "Q55788290"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ]
+    }
+}

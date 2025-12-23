@@ -1,0 +1,37 @@
+{
+    "name": "sunburn",
+    "qid": "Q649717",
+    "icd_10": "L55",
+    "description": "inflammatory reaction from ultraviolet radiation characterized by transient redness, tenderness and occasional blistering",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sunburn%20flickr%2001.jpg",
+    "url": "https://en.wikipedia.org/wiki/Sunburn",
+    "details": {
+        "Cause": [
+            {
+                "name": "ultraviolet radiation",
+                "qid": "Q11391",
+                "url": "https://en.wikipedia.org/wiki/Ultraviolet"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "photosensitivity",
+                "qid": "Q2944236",
+                "url": "https://en.wikipedia.org/wiki/Photosensitivity_in_humans"
+            },
+            {
+                "name": "burn",
+                "qid": "Q170518",
+                "url": "https://en.wikipedia.org/wiki/Burn"
+            }
+        ]
+    }
+}

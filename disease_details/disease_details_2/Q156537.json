@@ -1,0 +1,44 @@
+{
+    "name": "domestic violence",
+    "qid": "Q156537",
+    "icd_10": "Y07.0",
+    "description": "pattern of behavior which involves the abuse of one family member by another",
+    "aliases": [
+        "DV",
+        "family violence",
+        "domestic abuse",
+        "household violence",
+        "Intimate partner violence",
+        "intrafamily violence",
+        "partner violence"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/UN%20Women%20-%20Domestic-violence.png",
+    "url": "https://en.wikipedia.org/wiki/Domestic_violence",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "cause of death",
+                "qid": "Q1931388",
+                "url": "https://en.wikipedia.org/wiki/Cause_of_death"
+            },
+            {
+                "name": "violence",
+                "qid": "Q124490",
+                "url": "https://en.wikipedia.org/wiki/Violence"
+            },
+            {
+                "name": "crime",
+                "qid": "Q83267",
+                "url": "https://en.wikipedia.org/wiki/Crime"
+            },
+            {
+                "name": "topic",
+                "qid": "Q26256810"
+            },
+            {
+                "name": "risk source",
+                "qid": "Q86923152"
+            }
+        ]
+    }
+}

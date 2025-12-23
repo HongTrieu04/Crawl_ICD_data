@@ -1,0 +1,140 @@
+{
+    "name": "diphtheria",
+    "qid": "Q134649",
+    "icd_10": "A36",
+    "description": "infectious disease",
+    "aliases": [
+        "Bull neck"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20diphtheria%20skin%20lesion%20on%20the%20leg.%20PHIL%201941%20lores.jpg",
+    "url": "https://en.wikipedia.org/wiki/Diphtheria",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "primary bacterial infectious disease",
+                "qid": "Q18553247"
+            },
+            {
+                "name": "Corynebacterium infection",
+                "qid": "Q69084244"
+            },
+            {
+                "name": "pandemic and epidemic-prone diseases",
+                "qid": "Q131345497"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "antibiotic",
+                "qid": "Q12187",
+                "url": "https://en.wikipedia.org/wiki/Antibiotic"
+            },
+            {
+                "name": "tracheotomy",
+                "qid": "Q324921",
+                "url": "https://en.wikipedia.org/wiki/Tracheotomy"
+            },
+            {
+                "name": "antitoxin",
+                "qid": "Q584135",
+                "url": "https://en.wikipedia.org/wiki/Antitoxin"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "penicillin",
+                "qid": "Q12190",
+                "url": "https://en.wikipedia.org/wiki/Penicillin"
+            },
+            {
+                "name": "diphtheria antitoxin",
+                "qid": "Q15893399",
+                "url": "https://en.wikipedia.org/wiki/Diphtheria_antitoxin"
+            },
+            {
+                "name": "ampicillin",
+                "qid": "Q244150",
+                "url": "https://en.wikipedia.org/wiki/Ampicillin"
+            },
+            {
+                "name": "benzylpenicillin",
+                "qid": "Q258450",
+                "url": "https://en.wikipedia.org/wiki/Benzylpenicillin"
+            },
+            {
+                "name": "tylosin",
+                "qid": "Q411462",
+                "url": "https://en.wikipedia.org/wiki/Tylosin"
+            },
+            {
+                "name": "clarithromycin",
+                "qid": "Q118551",
+                "url": "https://en.wikipedia.org/wiki/Clarithromycin"
+            },
+            {
+                "name": "azithromycin",
+                "qid": "Q165399",
+                "url": "https://en.wikipedia.org/wiki/Azithromycin"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "peripheral neuropathy",
+                "qid": "Q945238",
+                "url": "https://en.wikipedia.org/wiki/Peripheral_neuropathy"
+            },
+            {
+                "name": "sore throat",
+                "qid": "Q1292082",
+                "url": "https://en.wikipedia.org/wiki/Sore_throat"
+            },
+            {
+                "name": "swelling",
+                "qid": "Q109186",
+                "url": "https://en.wikipedia.org/wiki/Swelling_(medical)"
+            },
+            {
+                "name": "heart failure",
+                "qid": "Q181754",
+                "url": "https://en.wikipedia.org/wiki/Heart_failure"
+            },
+            {
+                "name": "tonsillitis",
+                "qid": "Q186470",
+                "url": "https://en.wikipedia.org/wiki/Tonsillitis"
+            },
+            {
+                "name": "pseudomembrane",
+                "qid": "Q1495301"
+            },
+            {
+                "name": "barking cough",
+                "qid": "Q21513506"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Corynebacterium diphtheriae",
+                "qid": "Q131649",
+                "url": "https://en.wikipedia.org/wiki/Corynebacterium_diphtheriae"
+            }
+        ]
+    }
+}

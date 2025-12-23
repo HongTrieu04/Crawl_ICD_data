@@ -1,0 +1,33 @@
+{
+    "name": "congenital aplasia of the vas deferens",
+    "qid": "Q1561647",
+    "icd_10": "Q55.4",
+    "description": "medical condition",
+    "aliases": [
+        "CAVD",
+        "congenital absence of the vas deferens"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Congenital_absence_of_the_vas_deferens",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "agenesis",
+                "qid": "Q392604",
+                "url": "https://en.wikipedia.org/wiki/Agenesis"
+            },
+            {
+                "name": "male reproductive system disease",
+                "qid": "Q6742925",
+                "url": "https://en.wikipedia.org/wiki/Male_genital_disease"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

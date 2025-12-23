@@ -1,0 +1,35 @@
+{
+    "name": "polyp",
+    "qid": "Q657665",
+    "icd_10": "N84",
+    "description": "abnormal growth of tissue projecting from a mucous membrane",
+    "aliases": [
+        "polyps",
+        "Polyp"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Polyp-2.jpeg",
+    "url": "https://en.wikipedia.org/wiki/Polyp_(medicine)",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "neoplasm",
+                "qid": "Q1216998",
+                "url": "https://en.wikipedia.org/wiki/Neoplasm"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "mucous membrane",
+                "qid": "Q1219805",
+                "url": "https://en.wikipedia.org/wiki/Mucous_membrane"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "pathology",
+                "qid": "Q7208",
+                "url": "https://en.wikipedia.org/wiki/Pathology"
+            }
+        ]
+    }
+}

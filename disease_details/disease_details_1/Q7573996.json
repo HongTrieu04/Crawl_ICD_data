@@ -1,0 +1,18 @@
+{
+    "name": "spastic gait",
+    "qid": "Q7573996",
+    "icd_10": "R26.1",
+    "description": "gait abnormality",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Spastic_gait",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "gait abnormality",
+                "qid": "Q827017",
+                "url": "https://en.wikipedia.org/wiki/Gait_abnormality"
+            }
+        ]
+    }
+}

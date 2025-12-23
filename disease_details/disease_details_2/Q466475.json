@@ -1,0 +1,27 @@
+{
+    "name": "trance",
+    "qid": "Q466475",
+    "icd_10": "F44.3",
+    "description": "abnormal state of wakefulness or altered state of consciousness",
+    "aliases": [
+        "Trance"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Martha%20Hatfield%2C%20who%20had%20a%20trance%20from%20which%20she%20gained%20divi%20Wellcome%20V0007121.jpg",
+    "url": "https://en.wikipedia.org/wiki/Trance",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "trance and possession disorder",
+                "qid": "Q9385431",
+                "url": "https://en.wikipedia.org/wiki/Possession_trance_disorder"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ]
+    }
+}

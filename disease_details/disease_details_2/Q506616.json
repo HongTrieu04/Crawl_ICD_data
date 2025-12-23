@@ -1,0 +1,46 @@
+{
+    "name": "drowning",
+    "qid": "Q506616",
+    "icd_10": "T75.1",
+    "description": "respiratory impairment caused by submersion in liquid causing death",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Wassilij%20Grigorjewitsch%20Perow%20002.jpg",
+    "url": "https://en.wikipedia.org/wiki/Drowning",
+    "details": {
+        "Cause": [
+            {
+                "name": "breathing",
+                "qid": "Q9530",
+                "url": "https://en.wikipedia.org/wiki/Breathing"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "hazard",
+                "qid": "Q1132455",
+                "url": "https://en.wikipedia.org/wiki/Hazard"
+            },
+            {
+                "name": "asphyxia",
+                "qid": "Q193840",
+                "url": "https://en.wikipedia.org/wiki/Asphyxia"
+            },
+            {
+                "name": "major trauma",
+                "qid": "Q1064904",
+                "url": "https://en.wikipedia.org/wiki/Major_trauma"
+            },
+            {
+                "name": "drowning or non-fatal submersion",
+                "qid": "Q130254505"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ]
+    }
+}

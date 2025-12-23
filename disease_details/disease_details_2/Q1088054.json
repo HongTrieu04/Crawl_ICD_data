@@ -1,0 +1,27 @@
+{
+    "name": "chronic cerebrospinal venous insufficiency",
+    "qid": "Q1088054",
+    "icd_10": "I87.8",
+    "description": "term developed by Italian researcher Paolo Zamboni in 2008 to describe compromised flow of blood in the veins draining the central nervous system",
+    "aliases": [
+        "CCSVI"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gray563.png",
+    "url": "https://en.wikipedia.org/wiki/Chronic_cerebrospinal_venous_insufficiency_controversy",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "cerebrovascular disease",
+                "qid": "Q3010352",
+                "url": "https://en.wikipedia.org/wiki/Cerebrovascular_disease"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ]
+    }
+}

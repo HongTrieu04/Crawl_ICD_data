@@ -1,0 +1,47 @@
+{
+    "name": "duodenal atresia",
+    "qid": "Q1266401",
+    "icd_10": "Q41.0",
+    "description": "congenital disorder of digestive system",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Duodenal_atresia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "atresia",
+                "qid": "Q757722",
+                "url": "https://en.wikipedia.org/wiki/Atresia"
+            },
+            {
+                "name": "intestinal atresia",
+                "qid": "Q4597494",
+                "url": "https://en.wikipedia.org/wiki/Intestinal_atresia"
+            },
+            {
+                "name": "atresia of small intestine",
+                "qid": "Q3629030"
+            },
+            {
+                "name": "duodenal stenosis",
+                "qid": "Q3973117"
+            },
+            {
+                "name": "gastroduodenal malformation",
+                "qid": "Q55789040"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "chilblains",
+    "qid": "Q2141001",
+    "icd_10": "T69.1",
+    "description": "medical condition",
+    "aliases": [
+        "pernio",
+        "perniosis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Wintertenen.jpg",
+    "url": "https://en.wikipedia.org/wiki/Chilblains",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "injury in humans",
+                "qid": "Q193078",
+                "url": "https://en.wikipedia.org/wiki/Injury_in_humans"
+            },
+            {
+                "name": "cold injury",
+                "qid": "Q4499376"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "family medicine",
+                "qid": "Q3505712",
+                "url": "https://en.wikipedia.org/wiki/Family_medicine"
+            }
+        ]
+    }
+}

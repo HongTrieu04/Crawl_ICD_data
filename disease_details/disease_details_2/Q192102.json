@@ -1,0 +1,139 @@
+{
+    "name": "skin cancer",
+    "qid": "Q192102",
+    "icd_10": "C44",
+    "description": "class of skin illnesses, tumor or cancer of the skin",
+    "aliases": [
+        "CA - skin cancer",
+        "cancer of skin",
+        "cancer of zone of skin",
+        "malignant neoplasm of skin",
+        "malignant neoplasm of the skin",
+        "malignant neoplasm of zone of skin",
+        "malignant skin neoplasm",
+        "malignant skin tumor",
+        "malignant tumor of skin",
+        "malignant tumor of the skin",
+        "malignant zone of skin neoplasm",
+        "melanoma and Non-melanoma skin cancer",
+        "skin cancer, including melanoma",
+        "skin cancer, NOS",
+        "skin neoplasm, malignant",
+        "zone of skin cancer"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Basal%20cell%20carcinoma.jpg",
+    "url": "https://en.wikipedia.org/wiki/Skin_cancer",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "skin disease",
+                "qid": "Q949302",
+                "url": "https://en.wikipedia.org/wiki/Skin_condition"
+            },
+            {
+                "name": "integumentary system cancer",
+                "qid": "Q18553679"
+            },
+            {
+                "name": "skin neoplasm",
+                "qid": "Q18921119"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "itch",
+                "qid": "Q199602",
+                "url": "https://en.wikipedia.org/wiki/Itch"
+            },
+            {
+                "name": "nevus",
+                "qid": "Q692077",
+                "url": "https://en.wikipedia.org/wiki/Nevus"
+            },
+            {
+                "name": "ulcer",
+                "qid": "Q6452285",
+                "url": "https://en.wikipedia.org/wiki/Ulcer_(dermatology)"
+            },
+            {
+                "name": "nodule",
+                "qid": "Q582484",
+                "url": "https://en.wikipedia.org/wiki/Nodule_(medicine)"
+            },
+            {
+                "name": "burning sensation",
+                "qid": "Q3645517"
+            },
+            {
+                "name": "skin lesion",
+                "qid": "Q102187434"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "ultraviolet radiation",
+                "qid": "Q11391",
+                "url": "https://en.wikipedia.org/wiki/Ultraviolet"
+            },
+            {
+                "name": "CMM",
+                "qid": "Q17907815"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "vismodegib",
+                "qid": "Q2070286",
+                "url": "https://en.wikipedia.org/wiki/Vismodegib"
+            },
+            {
+                "name": "ipilimumab",
+                "qid": "Q2459042",
+                "url": "https://en.wikipedia.org/wiki/Ipilimumab"
+            },
+            {
+                "name": "dabrafenib",
+                "qid": "Q3011604",
+                "url": "https://en.wikipedia.org/wiki/Dabrafenib"
+            },
+            {
+                "name": "fluorouracil",
+                "qid": "Q238512",
+                "url": "https://en.wikipedia.org/wiki/Fluorouracil"
+            },
+            {
+                "name": "vemurafenib",
+                "qid": "Q423111",
+                "url": "https://en.wikipedia.org/wiki/Vemurafenib"
+            },
+            {
+                "name": "imiquimod",
+                "qid": "Q423417",
+                "url": "https://en.wikipedia.org/wiki/Imiquimod"
+            },
+            {
+                "name": "ingenol mebutate",
+                "qid": "Q426386",
+                "url": "https://en.wikipedia.org/wiki/Ingenol_mebutate"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "zone of skin",
+                "qid": "Q30029801"
+            }
+        ]
+    }
+}

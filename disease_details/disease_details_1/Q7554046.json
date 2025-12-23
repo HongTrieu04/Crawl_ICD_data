@@ -1,0 +1,31 @@
+{
+    "name": "soft tissue disorder",
+    "qid": "Q7554046",
+    "icd_10": "M79",
+    "description": "human disease",
+    "aliases": [
+        "tissue disease",
+        "Connective and soft tissue disease",
+        "Connective and soft tissue disorder",
+        "disease of deep fascial system",
+        "soft tissue disease"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Soft_tissue_disorder",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "musculoskeletal disorder",
+                "qid": "Q4116663",
+                "url": "https://en.wikipedia.org/wiki/Musculoskeletal_disorder"
+            }
+        ]
+    }
+}

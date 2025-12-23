@@ -1,0 +1,27 @@
+{
+    "name": "hemothorax",
+    "qid": "Q369073",
+    "icd_10": "J94.2",
+    "description": "type of pleural effusion in which blood accumulates in the pleural cavity",
+    "aliases": [
+        "Haemothorax"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/H%C3%A9mothorax.jpg",
+    "url": "https://en.wikipedia.org/wiki/Hemothorax",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "pleural effusion",
+                "qid": "Q1334541",
+                "url": "https://en.wikipedia.org/wiki/Pleural_effusion"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ]
+    }
+}

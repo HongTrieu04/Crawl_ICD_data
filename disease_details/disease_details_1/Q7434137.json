@@ -1,0 +1,61 @@
+{
+    "name": "scleredema",
+    "qid": "Q7434137",
+    "icd_10": "M34.8",
+    "description": "Human disease",
+    "aliases": [
+        "Buschke scleredema",
+        "Buschke Scleredema",
+        "Buschke Scleredema Adultorum",
+        "Buschke Scleredema Diabeticorum",
+        "Buschke's scleredema",
+        "Buschkes Scleredema",
+        "Diabeticorum, Scleredema",
+        "Diabeticorums, Scleredema",
+        "scleredema adultorum",
+        "Scleredema Adultorum of Buschke",
+        "Scleredema Diabeticorum",
+        "Scleredema Diabeticorum of Buschke",
+        "Scleredema Diabeticorums",
+        "Scleredema, Buschke's",
+        "Scleredemas",
+        "Scleroedema"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Scleredema",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "skin disease",
+                "qid": "Q949302",
+                "url": "https://en.wikipedia.org/wiki/Skin_condition"
+            },
+            {
+                "name": "mucinosis",
+                "qid": "Q6931138",
+                "url": "https://en.wikipedia.org/wiki/Mucinosis"
+            },
+            {
+                "name": "cellulitis",
+                "qid": "Q876887",
+                "url": "https://en.wikipedia.org/wiki/Cellulitis"
+            },
+            {
+                "name": "other acquired skin disease",
+                "qid": "Q55788714"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "pediatrics",
+                "qid": "Q123028",
+                "url": "https://en.wikipedia.org/wiki/Pediatrics"
+            },
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ]
+    }
+}

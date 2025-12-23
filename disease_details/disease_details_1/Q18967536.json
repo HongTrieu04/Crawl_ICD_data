@@ -1,0 +1,28 @@
+{
+    "name": "Toxoplasma pneumonia",
+    "qid": "Q18967536",
+    "icd_10": "B58.3",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete Toxoplasma pneumonia",
+        "Pneumonitis due to toxoplasmosis",
+        "pulmonary toxoplasmosis",
+        "Toxoplasma pneumonitis (disorder)"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "toxoplasmosis",
+                "qid": "Q154878",
+                "url": "https://en.wikipedia.org/wiki/Toxoplasmosis"
+            },
+            {
+                "name": "parasitic pneumonia",
+                "qid": "Q7135955",
+                "url": "https://en.wikipedia.org/wiki/Parasitic_pneumonia"
+            }
+        ]
+    }
+}

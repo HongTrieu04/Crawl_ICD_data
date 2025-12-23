@@ -1,0 +1,20 @@
+{
+    "name": "paradoxical vocal cord motion disorder",
+    "qid": "Q25448996",
+    "icd_10": "J38.3",
+    "description": null,
+    "aliases": [
+        "PVFMD"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "vocal cord dysfunction",
+                "qid": "Q1718230",
+                "url": "https://en.wikipedia.org/wiki/Vocal_cord_dysfunction"
+            }
+        ]
+    }
+}

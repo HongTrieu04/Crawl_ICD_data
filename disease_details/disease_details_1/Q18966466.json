@@ -1,0 +1,32 @@
+{
+    "name": "Fissure of nipple associated with childbirth",
+    "qid": "Q18966466",
+    "icd_10": "O92.1",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete Fissure of nipple associated with childbirth"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "Fissure of the nipple",
+                "qid": "Q5455245",
+                "url": "https://en.wikipedia.org/wiki/Fissure_of_the_nipple"
+            },
+            {
+                "name": "puerperal disorders",
+                "qid": "Q7258523",
+                "url": "https://en.wikipedia.org/wiki/Postpartum_disorder"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "breastfeeding",
+                "qid": "Q174876",
+                "url": "https://en.wikipedia.org/wiki/Breastfeeding"
+            }
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "pharyngeal gonorrhea",
+    "qid": "Q18967603",
+    "icd_10": "A54.5",
+    "description": "Human disease",
+    "aliases": [
+        "Gonococcal infection of pharynx",
+        "gonococcal pharyngitis",
+        "Gonorrhea of pharynx (disorder)",
+        "obsolete pharyngeal gonorrhea"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "pharyngitis",
+                "qid": "Q2085267",
+                "url": "https://en.wikipedia.org/wiki/Pharyngitis"
+            },
+            {
+                "name": "gonococcal infectious diseases",
+                "qid": "Q26695958"
+            }
+        ]
+    }
+}

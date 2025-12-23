@@ -1,0 +1,35 @@
+{
+    "name": "lobular neoplasia",
+    "qid": "Q548070",
+    "icd_10": "D05.0",
+    "description": "Human disease",
+    "aliases": [
+        "LN",
+        "LIN",
+        "lobular carcinoma in situ",
+        "lobular intraepithelial neoplasia",
+        "Lobular Intraepithelial Neoplasia",
+        "Lobular Neoplasia"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "breast carcinoma in situ",
+                "qid": "Q18558015"
+            },
+            {
+                "name": "breast neoplasm",
+                "qid": "Q23929670"
+            }
+        ]
+    }
+}

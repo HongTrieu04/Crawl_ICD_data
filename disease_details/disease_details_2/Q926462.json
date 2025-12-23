@@ -1,0 +1,114 @@
+{
+    "name": "pityriasis versicolor",
+    "qid": "Q926462",
+    "icd_10": "B36.0",
+    "description": "condition characterized by a rash on the trunk and proximal extremities",
+    "aliases": [
+        "Infection by Pityrosporum furfur",
+        "infections, Malassezia furfur",
+        "Malassezia furfur infection",
+        "Pityriasis versicolor",
+        "Pityriasis versicolor (disorder)",
+        "tinea flava",
+        "tinea versicolor"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/P%20versicolorklein.jpg",
+    "url": "https://en.wikipedia.org/wiki/Tinea_versicolor",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "pityriasis",
+                "qid": "Q2097389",
+                "url": "https://en.wikipedia.org/wiki/Pityriasis"
+            },
+            {
+                "name": "skin infection",
+                "qid": "Q2458539",
+                "url": "https://en.wikipedia.org/wiki/Skin_infection"
+            },
+            {
+                "name": "superficial mycosis",
+                "qid": "Q18928094"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            },
+            {
+                "name": "parasitology",
+                "qid": "Q180502",
+                "url": "https://en.wikipedia.org/wiki/Parasitology"
+            },
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "ketoconazole",
+                "qid": "Q407883",
+                "url": "https://en.wikipedia.org/wiki/Ketoconazole"
+            },
+            {
+                "name": "tolnaftate",
+                "qid": "Q415238",
+                "url": "https://en.wikipedia.org/wiki/Tolnaftate"
+            },
+            {
+                "name": "terbinafine",
+                "qid": "Q415259",
+                "url": "https://en.wikipedia.org/wiki/Terbinafine"
+            },
+            {
+                "name": "(RS)-econazole",
+                "qid": "Q417141",
+                "url": "https://en.wikipedia.org/wiki/Econazole"
+            },
+            {
+                "name": "selenium disulfide",
+                "qid": "Q419375",
+                "url": "https://en.wikipedia.org/wiki/Selenium_disulfide"
+            },
+            {
+                "name": "ciclopirox",
+                "qid": "Q419468",
+                "url": "https://en.wikipedia.org/wiki/Ciclopirox"
+            },
+            {
+                "name": "butenafine",
+                "qid": "Q850729",
+                "url": "https://en.wikipedia.org/wiki/Butenafine"
+            },
+            {
+                "name": "sulconazole",
+                "qid": "Q2392530",
+                "url": "https://en.wikipedia.org/wiki/Sulconazole"
+            },
+            {
+                "name": "imidurea",
+                "qid": "Q2737856",
+                "url": "https://en.wikipedia.org/wiki/Imidazolidinyl_urea"
+            },
+            {
+                "name": "oxiconazole",
+                "qid": "Q3359058",
+                "url": "https://en.wikipedia.org/wiki/Oxiconazole"
+            },
+            {
+                "name": "flutrimazole",
+                "qid": "Q5462984",
+                "url": "https://en.wikipedia.org/wiki/Flutrimazole"
+            }
+        ]
+    }
+}

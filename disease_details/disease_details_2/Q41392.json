@@ -1,0 +1,32 @@
+{
+    "name": "stress fracture",
+    "qid": "Q41392",
+    "icd_10": "M84.3",
+    "description": "fatigue-induced fracture of the bone caused by repeated stress over time",
+    "aliases": [
+        "fatigue fracture in bones"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Stress_fracture",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "occupational disease",
+                "qid": "Q637816",
+                "url": "https://en.wikipedia.org/wiki/Occupational_disease"
+            },
+            {
+                "name": "bone fracture",
+                "qid": "Q68833",
+                "url": "https://en.wikipedia.org/wiki/Bone_fracture"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ]
+    }
+}

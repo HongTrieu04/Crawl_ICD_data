@@ -1,0 +1,43 @@
+{
+    "name": "klebsiellosis",
+    "qid": "Q3197774",
+    "icd_10": "B96.1",
+    "description": "infection by Klebsiella bacteria",
+    "aliases": [
+        "Klebsiella Infection",
+        "Klebsiella Infections",
+        "Klebsiella pneumonia",
+        "pneumonia caused by klebsiella pneumoniae",
+        "Pneumonia due to Klebsiella pneumoniae",
+        "Pneumonia due to Klebsiella pneumoniae (disorder)"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Klebsiella_pneumonia",
+    "details": {
+        "Cause": [
+            {
+                "name": "infection",
+                "qid": "Q166231",
+                "url": "https://en.wikipedia.org/wiki/Infection"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "bacterial pneumonia",
+                "qid": "Q3776920",
+                "url": "https://en.wikipedia.org/wiki/Bacterial_pneumonia"
+            },
+            {
+                "name": "Enterobacteriaceae infectious disease",
+                "qid": "Q18975069"
+            }
+        ]
+    }
+}

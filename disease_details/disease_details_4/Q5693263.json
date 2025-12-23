@@ -1,0 +1,25 @@
+{
+    "name": "heat cramps",
+    "qid": "Q5693263",
+    "icd_10": "T67.2",
+    "description": "cramps caused by heat",
+    "aliases": [
+        "heat cramp"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Heat_cramps",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "heat illness",
+                "qid": "Q1191065",
+                "url": "https://en.wikipedia.org/wiki/Heat_illness"
+            },
+            {
+                "name": "muscle cramp",
+                "qid": "Q2006818",
+                "url": "https://en.wikipedia.org/wiki/Cramp"
+            }
+        ]
+    }
+}

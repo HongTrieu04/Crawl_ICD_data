@@ -1,0 +1,46 @@
+{
+    "name": "neonatal hypoxic-ischemic  encephalopathy",
+    "qid": "Q5832339",
+    "icd_10": "P91.6",
+    "description": "Neurological dysfunction shortly after birth",
+    "aliases": [
+        "HIE",
+        "Hypoxic ischaemic encephalopathy of newborn",
+        "hypoxic ischemic encephalopathy",
+        "hypoxic-ischemic encephalopathy",
+        "neonatal encephalopathy",
+        "Neonatal hypoxic and ischemic brain injury"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Neonatal_encephalopathy",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "pediatrics",
+                "qid": "Q123028",
+                "url": "https://en.wikipedia.org/wiki/Pediatrics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "encephalopathy",
+                "qid": "Q576349",
+                "url": "https://en.wikipedia.org/wiki/Encephalopathy"
+            },
+            {
+                "name": "perinatal disease",
+                "qid": "Q18968218"
+            },
+            {
+                "name": "brain hypoxia-ischemia",
+                "qid": "Q18975859"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "neonatal hypoxemia",
+                "qid": "Q31189500"
+            }
+        ]
+    }
+}

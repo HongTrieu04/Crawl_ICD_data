@@ -1,0 +1,32 @@
+{
+    "name": "allomnesia",
+    "qid": "Q3612627",
+    "icd_10": "R41.3",
+    "description": "deformation of actual memories",
+    "aliases": [
+        "memory illusion"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Allomnesia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "memory disorder",
+                "qid": "Q3072083",
+                "url": "https://en.wikipedia.org/wiki/Memory_disorder"
+            }
+        ]
+    }
+}

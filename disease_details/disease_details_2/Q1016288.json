@@ -1,0 +1,27 @@
+{
+    "name": "buried bumper syndrome",
+    "qid": "Q1016288",
+    "icd_10": "T85.5",
+    "description": "disease",
+    "aliases": [
+        "BBS",
+        "Buried bumper syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Buried_bumper_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "postoperative complications",
+                "qid": "Q18478450"
+            }
+        ]
+    }
+}

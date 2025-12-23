@@ -1,0 +1,62 @@
+{
+    "name": "cytomegalovirus retinitis",
+    "qid": "Q4271835",
+    "icd_10": "H30.9",
+    "description": "retinitis that has material basis in Cytomegalovirus",
+    "aliases": [
+        "CMV retinitis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fundus%20photograph-CMV%20retinitis%20EDA07.JPG",
+    "url": "https://en.wikipedia.org/wiki/Cytomegalovirus_retinitis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "retinitis",
+                "qid": "Q630552",
+                "url": "https://en.wikipedia.org/wiki/Retinitis"
+            },
+            {
+                "name": "cytomegaloviral disease",
+                "qid": "Q2076966"
+            },
+            {
+                "name": "viral eye infection",
+                "qid": "Q54944486"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            },
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "ganciclovir",
+                "qid": "Q417640",
+                "url": "https://en.wikipedia.org/wiki/Ganciclovir"
+            },
+            {
+                "name": "valganciclovir",
+                "qid": "Q423384",
+                "url": "https://en.wikipedia.org/wiki/Valganciclovir"
+            },
+            {
+                "name": "cidofovir",
+                "qid": "Q423445",
+                "url": "https://en.wikipedia.org/wiki/Cidofovir"
+            }
+        ]
+    }
+}

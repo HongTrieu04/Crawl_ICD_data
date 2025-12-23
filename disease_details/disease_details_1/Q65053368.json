@@ -1,0 +1,17 @@
+{
+    "name": "Keratosis obturans",
+    "qid": "Q65053368",
+    "icd_10": "H60.4",
+    "description": "relatively uncommon ear disease",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Keratosis_obturans",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "external ear disease",
+                "qid": "Q18556075"
+            }
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Kleine-Levin syndrome",
+    "qid": "Q613809",
+    "icd_10": "G47.8",
+    "description": "recurrent hypersomnia that is characterized by recurring periods of excessive amounts of sleep and altered behavior",
+    "aliases": [
+        "KLS",
+        "Familial hibernation syndrome",
+        "Familial Kleine-Levin syndrome",
+        "Kleine Levin syndrome",
+        "Kleine-Levin Syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Kleine%E2%80%93Levin_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "hypersomnia",
+                "qid": "Q751641",
+                "url": "https://en.wikipedia.org/wiki/Hypersomnia"
+            },
+            {
+                "name": "genetic nervous system disorder",
+                "qid": "Q55788492"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ]
+    }
+}

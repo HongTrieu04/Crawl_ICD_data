@@ -1,0 +1,38 @@
+{
+    "name": "shellfish poisoning",
+    "qid": "Q384821",
+    "icd_10": "T61.2",
+    "description": "poisoning from toxins present in bivalve mollusks that have been ingested",
+    "aliases": [
+        "Shellfish poisoning"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Shellfish_poisoning",
+    "details": {
+        "Cause": [
+            {
+                "name": "shellfish",
+                "qid": "Q6501235",
+                "url": "https://en.wikipedia.org/wiki/Shellfish"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "foodborne illness",
+                "qid": "Q272002",
+                "url": "https://en.wikipedia.org/wiki/Foodborne_illness"
+            },
+            {
+                "name": "poisoning",
+                "qid": "Q114953"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ]
+    }
+}

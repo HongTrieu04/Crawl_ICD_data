@@ -1,0 +1,26 @@
+{
+    "name": "failed back syndrome",
+    "qid": "Q5429677",
+    "icd_10": "M96.1",
+    "description": "failed neck surgery syndrome",
+    "aliases": [
+        "Failed Back Surgery Syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Failed_back_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurosurgery",
+                "qid": "Q188449",
+                "url": "https://en.wikipedia.org/wiki/Neurosurgery"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "lumbosciatica",
+                "qid": "Q3258839"
+            }
+        ]
+    }
+}

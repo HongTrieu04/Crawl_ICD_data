@@ -1,0 +1,24 @@
+{
+    "name": "cervix tuberculosis",
+    "qid": "Q18924570",
+    "icd_10": "N74.0",
+    "description": "Human disease",
+    "aliases": [
+        "cervical tuberculosis",
+        "obsolete cervix tuberculosis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "cervix disease",
+                "qid": "Q18555046"
+            },
+            {
+                "name": "female genital tuberculosis",
+                "qid": "Q18967471"
+            }
+        ]
+    }
+}

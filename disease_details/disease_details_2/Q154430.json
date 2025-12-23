@@ -1,0 +1,263 @@
+{
+    "name": "anxiety",
+    "qid": "Q154430",
+    "icd_10": "F41.9",
+    "description": "unpleasant complex combination of emotions that includes fear, apprehension and worry, and is often accompanied by physical sensations such as palpitations, nausea, chest pain and/or shortness of breath",
+    "aliases": [
+        "anxiety, uneasiness and worry",
+        "uneasiness and stomach spinning"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Los%20Angeles%2C%20California.%20Lockheed%20Employment.%20A%20worried%20applicant%20waiting%20to%20be%20interviewed%20-%20NARA%20-%20532210.jpg",
+    "url": "https://en.wikipedia.org/wiki/Anxiety",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "psychotherapy",
+                "qid": "Q183257",
+                "url": "https://en.wikipedia.org/wiki/Psychotherapy"
+            },
+            {
+                "name": "clinical psychology",
+                "qid": "Q199906",
+                "url": "https://en.wikipedia.org/wiki/Clinical_psychology"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "nausea",
+                "qid": "Q186889",
+                "url": "https://en.wikipedia.org/wiki/Nausea"
+            },
+            {
+                "name": "depersonalization",
+                "qid": "Q83177",
+                "url": "https://en.wikipedia.org/wiki/Depersonalization"
+            },
+            {
+                "name": "vomiting",
+                "qid": "Q127076",
+                "url": "https://en.wikipedia.org/wiki/Vomiting"
+            },
+            {
+                "name": "tachycardia",
+                "qid": "Q209583",
+                "url": "https://en.wikipedia.org/wiki/Tachycardia"
+            },
+            {
+                "name": "derealization",
+                "qid": "Q1199997",
+                "url": "https://en.wikipedia.org/wiki/Derealization"
+            },
+            {
+                "name": "vertigo",
+                "qid": "Q10686316",
+                "url": "https://en.wikipedia.org/wiki/Vertigo"
+            },
+            {
+                "name": "disorientation",
+                "qid": "Q1895873"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "olanzapine",
+                "qid": "Q201872",
+                "url": "https://en.wikipedia.org/wiki/Olanzapine"
+            },
+            {
+                "name": "mirtazapine",
+                "qid": "Q421930",
+                "url": "https://en.wikipedia.org/wiki/Mirtazapine"
+            },
+            {
+                "name": "(RS)-hydroxyzine",
+                "qid": "Q421937",
+                "url": "https://en.wikipedia.org/wiki/Hydroxyzine"
+            },
+            {
+                "name": "risperidone",
+                "qid": "Q412443",
+                "url": "https://en.wikipedia.org/wiki/Risperidone"
+            },
+            {
+                "name": "lurasidone",
+                "qid": "Q416992",
+                "url": "https://en.wikipedia.org/wiki/Lurasidone"
+            },
+            {
+                "name": "atomoxetine",
+                "qid": "Q417240",
+                "url": "https://en.wikipedia.org/wiki/Atomoxetine"
+            },
+            {
+                "name": "haloperidol",
+                "qid": "Q251347",
+                "url": "https://en.wikipedia.org/wiki/Haloperidol"
+            },
+            {
+                "name": "alprazolam",
+                "qid": "Q319877",
+                "url": "https://en.wikipedia.org/wiki/Alprazolam"
+            },
+            {
+                "name": "sertraline",
+                "qid": "Q407617",
+                "url": "https://en.wikipedia.org/wiki/Sertraline"
+            },
+            {
+                "name": "clonazepam",
+                "qid": "Q407988",
+                "url": "https://en.wikipedia.org/wiki/Clonazepam"
+            },
+            {
+                "name": "lorazepam",
+                "qid": "Q408265",
+                "url": "https://en.wikipedia.org/wiki/Lorazepam"
+            },
+            {
+                "name": "ziprasidone",
+                "qid": "Q205517",
+                "url": "https://en.wikipedia.org/wiki/Ziprasidone"
+            },
+            {
+                "name": "diazepam",
+                "qid": "Q210402",
+                "url": "https://en.wikipedia.org/wiki/Diazepam"
+            },
+            {
+                "name": "zolpidem",
+                "qid": "Q218842",
+                "url": "https://en.wikipedia.org/wiki/Zolpidem"
+            },
+            {
+                "name": "paroxetine",
+                "qid": "Q408471",
+                "url": "https://en.wikipedia.org/wiki/Paroxetine"
+            },
+            {
+                "name": "quetiapine",
+                "qid": "Q408535",
+                "url": "https://en.wikipedia.org/wiki/Quetiapine"
+            },
+            {
+                "name": "vilazodone",
+                "qid": "Q408588",
+                "url": "https://en.wikipedia.org/wiki/Vilazodone"
+            },
+            {
+                "name": "(RS)-citalopram",
+                "qid": "Q409672",
+                "url": "https://en.wikipedia.org/wiki/Citalopram"
+            },
+            {
+                "name": "lamotrigine",
+                "qid": "Q410346",
+                "url": "https://en.wikipedia.org/wiki/Lamotrigine"
+            },
+            {
+                "name": "gabapentin",
+                "qid": "Q410352",
+                "url": "https://en.wikipedia.org/wiki/Gabapentin"
+            },
+            {
+                "name": "aripiprazole",
+                "qid": "Q411188",
+                "url": "https://en.wikipedia.org/wiki/Aripiprazole"
+            },
+            {
+                "name": "trazodone",
+                "qid": "Q411457",
+                "url": "https://en.wikipedia.org/wiki/Trazodone"
+            },
+            {
+                "name": "(S)-duloxetine",
+                "qid": "Q411932",
+                "url": "https://en.wikipedia.org/wiki/Duloxetine"
+            },
+            {
+                "name": "pregabalin",
+                "qid": "Q412174",
+                "url": "https://en.wikipedia.org/wiki/Pregabalin"
+            },
+            {
+                "name": "buspirone",
+                "qid": "Q412194",
+                "url": "https://en.wikipedia.org/wiki/Buspirone"
+            },
+            {
+                "name": "fluoxetine",
+                "qid": "Q422244",
+                "url": "https://en.wikipedia.org/wiki/Fluoxetine"
+            },
+            {
+                "name": "propranolol",
+                "qid": "Q423364",
+                "url": "https://en.wikipedia.org/wiki/Propranolol"
+            },
+            {
+                "name": "escitalopram",
+                "qid": "Q423757",
+                "url": "https://en.wikipedia.org/wiki/Escitalopram"
+            },
+            {
+                "name": "bupropion",
+                "qid": "Q834280",
+                "url": "https://en.wikipedia.org/wiki/Bupropion"
+            },
+            {
+                "name": "venlafaxine",
+                "qid": "Q898407",
+                "url": "https://en.wikipedia.org/wiki/Venlafaxine"
+            },
+            {
+                "name": "desvenlafaxine",
+                "qid": "Q2419445",
+                "url": "https://en.wikipedia.org/wiki/Desvenlafaxine"
+            },
+            {
+                "name": "brexpiprazole",
+                "qid": "Q2924764",
+                "url": "https://en.wikipedia.org/wiki/Brexpiprazole"
+            },
+            {
+                "name": "vortioxetine",
+                "qid": "Q3563148",
+                "url": "https://en.wikipedia.org/wiki/Vortioxetine"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "hazard",
+                "qid": "Q1132455",
+                "url": "https://en.wikipedia.org/wiki/Hazard"
+            },
+            {
+                "name": "worry",
+                "qid": "Q1436482",
+                "url": "https://en.wikipedia.org/wiki/Worry"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "cognitive behavioral therapy",
+                "qid": "Q1147152",
+                "url": "https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy"
+            },
+            {
+                "name": "systems psychology",
+                "qid": "Q1452527",
+                "url": "https://en.wikipedia.org/wiki/Systems_psychology"
+            },
+            {
+                "name": "psychodynamic psychotherapy",
+                "qid": "Q2279219",
+                "url": "https://en.wikipedia.org/wiki/Psychodynamic_psychotherapy"
+            }
+        ]
+    }
+}

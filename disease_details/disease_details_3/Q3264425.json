@@ -1,0 +1,31 @@
+{
+    "name": "loxoscelism",
+    "qid": "Q3264425",
+    "icd_10": "T63.3",
+    "description": "condition occasionally produced by the bite of the recluse spiders",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Loxoscelism",
+    "details": {
+        "Cause": [
+            {
+                "name": "spider bite",
+                "qid": "Q2549274",
+                "url": "https://en.wikipedia.org/wiki/Spider_bite"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "necrotising arachnidism",
+                "qid": "Q12859169"
+            }
+        ]
+    }
+}

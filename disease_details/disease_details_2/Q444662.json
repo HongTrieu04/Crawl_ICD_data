@@ -1,0 +1,98 @@
+{
+    "name": "Dipylidium caninum infectious disease",
+    "qid": "Q444662",
+    "icd_10": "B71.1",
+    "description": "Human helminthiasis",
+    "aliases": [
+        "Dipylidiasis",
+        "obsolete Dipylidium caninum infectious disease"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dipyl%20can%20worm1.JPG",
+    "url": null,
+    "details": {
+        "Anatomical location": [
+            {
+                "name": "small intestine",
+                "qid": "Q11090",
+                "url": "https://en.wikipedia.org/wiki/Small_intestine"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "abdominal pain",
+                "qid": "Q183425",
+                "url": "https://en.wikipedia.org/wiki/Abdominal_pain"
+            },
+            {
+                "name": "itch",
+                "qid": "Q199602",
+                "url": "https://en.wikipedia.org/wiki/Itch"
+            },
+            {
+                "name": "diarrhea",
+                "qid": "Q40878",
+                "url": "https://en.wikipedia.org/wiki/Diarrhea"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "zoonosis",
+                "qid": "Q182672",
+                "url": "https://en.wikipedia.org/wiki/Zoonosis"
+            },
+            {
+                "name": "parasitic helminthiasis infectious disease",
+                "qid": "Q578994",
+                "url": "https://en.wikipedia.org/wiki/Helminthiasis"
+            },
+            {
+                "name": "tapeworm infection",
+                "qid": "Q7356544",
+                "url": "https://en.wikipedia.org/wiki/Tapeworm_infection"
+            },
+            {
+                "name": "cat disease",
+                "qid": "Q2084422"
+            },
+            {
+                "name": "dog disease",
+                "qid": "Q53542448"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Dipylidium caninum",
+                "qid": "Q81125",
+                "url": "https://en.wikipedia.org/wiki/Dipylidium_caninum"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "veterinary medicine",
+                "qid": "Q170201",
+                "url": "https://en.wikipedia.org/wiki/Veterinary_medicine"
+            },
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            },
+            {
+                "name": "helminthologist",
+                "qid": "Q27497422"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "albendazol",
+                "qid": "Q411629",
+                "url": "https://en.wikipedia.org/wiki/Albendazole"
+            },
+            {
+                "name": "praziquantel",
+                "qid": "Q424145",
+                "url": "https://en.wikipedia.org/wiki/Praziquantel"
+            }
+        ]
+    }
+}

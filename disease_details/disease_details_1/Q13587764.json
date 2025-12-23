@@ -1,0 +1,42 @@
+{
+    "name": "Group A streptococcal infection",
+    "qid": "Q13587764",
+    "icd_10": "B95.0",
+    "description": "human disease",
+    "aliases": [
+        "IGAS",
+        "Group A Strep infection",
+        "Invasive Group A Streptococcus",
+        "streptococcus, group A, severity of infection by",
+        "STREPTOCOCCUS, GROUP A, SEVERITY OF INFECTION BY"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Group_A_streptococcal_infection",
+    "details": {
+        "Cause": [
+            {
+                "name": "Streptococcus pyogenes",
+                "qid": "Q131271",
+                "url": "https://en.wikipedia.org/wiki/Streptococcus_pyogenes"
+            },
+            {
+                "name": "Streptococcus, group A",
+                "qid": "Q3500347"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "streptococcal infection",
+                "qid": "Q5849703",
+                "url": "https://en.wikipedia.org/wiki/Streptococcosis"
+            }
+        ]
+    }
+}

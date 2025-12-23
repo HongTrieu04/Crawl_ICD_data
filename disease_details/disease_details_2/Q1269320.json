@@ -1,0 +1,28 @@
+{
+    "name": "dysplastic nevus",
+    "qid": "Q1269320",
+    "icd_10": "D48.5",
+    "description": "human disease",
+    "aliases": [
+        "nevus of Clark",
+        "obsolete dysplastic nevus"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Dysplastic_nevus",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "nevus",
+                "qid": "Q692077",
+                "url": "https://en.wikipedia.org/wiki/Nevus"
+            }
+        ]
+    }
+}

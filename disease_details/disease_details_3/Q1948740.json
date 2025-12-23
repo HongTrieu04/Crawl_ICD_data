@@ -1,0 +1,25 @@
+{
+    "name": "Morton's neuroma",
+    "qid": "Q1948740",
+    "icd_10": "G57.6",
+    "description": "benign neuroma of an intermetatarsal plantar nerve",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gray833.png",
+    "url": "https://en.wikipedia.org/wiki/Morton%27s_neuroma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "foot diseases",
+                "qid": "Q5282137",
+                "url": "https://en.wikipedia.org/wiki/Diseases_of_the_foot"
+            }
+        ]
+    }
+}

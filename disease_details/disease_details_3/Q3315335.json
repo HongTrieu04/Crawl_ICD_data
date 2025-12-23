@@ -1,0 +1,18 @@
+{
+    "name": "iniencephaly",
+    "qid": "Q3315335",
+    "icd_10": "Q00.2",
+    "description": "rare form of neural tube defect in which a malformation of the cervico-occipital junction is associated with a malformation of the central nervous system",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Iniencephaly",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "nervous system malformations",
+                "qid": "Q584265",
+                "url": "https://en.wikipedia.org/wiki/Cephalic_disorder"
+            }
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "name": "manic episode",
+    "qid": "Q18966903",
+    "icd_10": "F30.2",
+    "description": "mood disorder, characterised by a persistent elevation of mood (single manic episode)",
+    "aliases": [
+        "acute mania",
+        "bipolar disorder, single manic episode",
+        "mania with psychotic symptoms",
+        "mania without psychotic symptoms",
+        "manic disorder, single episode, in full remission",
+        "obsolete single manic episode in full remission",
+        "single manic episode",
+        "single manic episode in full remission (disorder)",
+        "single manic episode, bipolar affective disorder"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Manic_episode",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "bipolar disorder",
+                "qid": "Q131755",
+                "url": "https://en.wikipedia.org/wiki/Bipolar_disorder"
+            },
+            {
+                "name": "mania",
+                "qid": "Q185935",
+                "url": "https://en.wikipedia.org/wiki/Mania"
+            },
+            {
+                "name": "mood episodicity",
+                "qid": "Q130379849"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "exaltation",
+                "qid": "Q1276947"
+            }
+        ]
+    }
+}

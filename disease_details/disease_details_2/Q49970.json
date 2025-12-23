@@ -1,0 +1,55 @@
+{
+    "name": "hyperuricemia",
+    "qid": "Q49970",
+    "icd_10": "E79.0",
+    "description": "acquired metabolic disease that has material basis in an abnormally high level of uric acid in the blood.",
+    "aliases": [
+        "Blood urate raized",
+        "hyperuricaemia",
+        "uricacidemia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hyperuricemia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "acquired metabolic disease",
+                "qid": "Q18553699"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "allopurinol",
+                "qid": "Q412486",
+                "url": "https://en.wikipedia.org/wiki/Allopurinol"
+            },
+            {
+                "name": "febuxostat",
+                "qid": "Q417296",
+                "url": "https://en.wikipedia.org/wiki/Febuxostat"
+            },
+            {
+                "name": "mannitol hexanitrate",
+                "qid": "Q1890796",
+                "url": "https://en.wikipedia.org/wiki/Mannitol_hexanitrate"
+            },
+            {
+                "name": "rasburicase",
+                "qid": "Q3088229",
+                "url": "https://en.wikipedia.org/wiki/Rasburicase"
+            }
+        ]
+    }
+}

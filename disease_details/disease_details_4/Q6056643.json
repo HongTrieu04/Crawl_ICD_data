@@ -1,0 +1,33 @@
+{
+    "name": "interrupted aortic arch",
+    "qid": "Q6056643",
+    "icd_10": "Q25.2",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Interrupted_aortic_arch",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "coarctation of the aorta",
+                "qid": "Q616066",
+                "url": "https://en.wikipedia.org/wiki/Coarctation_of_the_aorta"
+            },
+            {
+                "name": "aortic arch defects",
+                "qid": "Q55785350"
+            },
+            {
+                "name": "aortic malformation",
+                "qid": "Q55789280"
+            }
+        ]
+    }
+}

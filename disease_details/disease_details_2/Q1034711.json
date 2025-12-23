@@ -1,0 +1,35 @@
+{
+    "name": "Heberden's node",
+    "qid": "Q1034711",
+    "icd_10": "M15.1",
+    "description": "human disease",
+    "aliases": [
+        "Dipoa",
+        "Hand Osteoarthritis",
+        "Heberden Nodes",
+        "Oadip",
+        "OS2",
+        "Osteoarthritis of Distal Interphalangeal Joints",
+        "OSTEOARTHRITIS SUSCEPTIBILITY 2",
+        "OSTEOARTHRITIS SUSCEPTIBILITY 2; OS2",
+        "Osteoarthritis Susceptibility type 2"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Heberden-Arthrose.JPG",
+    "url": "https://en.wikipedia.org/wiki/Heberden%27s_node",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "osteophyte",
+                "qid": "Q923339",
+                "url": "https://en.wikipedia.org/wiki/Osteophyte"
+            }
+        ]
+    }
+}

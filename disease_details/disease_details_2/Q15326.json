@@ -1,0 +1,76 @@
+{
+    "name": "alcoholism",
+    "qid": "Q15326",
+    "icd_10": "F10",
+    "description": "broad term for problems with alcohol",
+    "aliases": [
+        "alcohol dependence syndrome",
+        "alcohol use disorder",
+        "chronic alcoholism"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Walter%20Geikie%20-%20Drunken%20Man%20-%20WGA8520.jpg",
+    "url": "https://en.wikipedia.org/wiki/Alcoholism",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "psychology",
+                "qid": "Q9418",
+                "url": "https://en.wikipedia.org/wiki/Psychology"
+            },
+            {
+                "name": "narcology",
+                "qid": "Q4313186",
+                "url": "https://en.wikipedia.org/wiki/Narcology"
+            },
+            {
+                "name": "vocational rehabilitation",
+                "qid": "Q6130303",
+                "url": "https://en.wikipedia.org/wiki/Vocational_rehabilitation"
+            },
+            {
+                "name": "medical toxicology",
+                "qid": "Q6806614",
+                "url": "https://en.wikipedia.org/wiki/Medical_toxicology"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "psychotherapy",
+                "qid": "Q183257",
+                "url": "https://en.wikipedia.org/wiki/Psychotherapy"
+            },
+            {
+                "name": "cognitive behavioral therapy",
+                "qid": "Q1147152",
+                "url": "https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "alcohol abuse",
+                "qid": "Q7331102",
+                "url": "https://en.wikipedia.org/wiki/Alcohol_abuse"
+            },
+            {
+                "name": "substance use disorder",
+                "qid": "Q7632070",
+                "url": "https://en.wikipedia.org/wiki/Substance_use_disorder"
+            },
+            {
+                "name": "dependence syndrome",
+                "qid": "Q16697828"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "alcohol consumption",
+                "qid": "Q2647488"
+            }
+        ]
+    }
+}

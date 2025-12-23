@@ -1,0 +1,51 @@
+{
+    "name": "encephalocraniocutaneous lipomatosis",
+    "qid": "Q17540092",
+    "icd_10": "E88.2",
+    "description": "rare neoplastic syndrome characterized by the presence of unilateral lipomas of the cranium, face and neck, and ipsilateral cerebral malformations",
+    "aliases": [
+        "ECCL",
+        "Encephalocraniocutaneous Lipomatosis",
+        "ENCEPHALOCRANIOCUTANEOUS LIPOMATOSIS; ECCL",
+        "Fishman Syndrome",
+        "Haberland syndrome",
+        "Haberland's syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Encephalocraniocutaneous_lipomatosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "lipomatosis",
+                "qid": "Q1691351",
+                "url": "https://en.wikipedia.org/wiki/Lipomatosis"
+            },
+            {
+                "name": "rare genetic subcutaneous tissue disorder",
+                "qid": "Q55785836"
+            },
+            {
+                "name": "inherited skin tumor",
+                "qid": "Q55785837"
+            },
+            {
+                "name": "subcutaneous tissue disease",
+                "qid": "Q55788601"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "Nevus psiloliparus",
+                "qid": "Q7005041",
+                "url": "https://en.wikipedia.org/wiki/Nevus_psiloliparus"
+            }
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "name": "jaundice",
+    "qid": "Q133244",
+    "icd_10": "R17",
+    "description": "human disease",
+    "aliases": [
+        "icteric",
+        "icterus"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jaundice%20eye.jpg",
+    "url": "https://en.wikipedia.org/wiki/Jaundice",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "clinical sign",
+                "qid": "Q1441305",
+                "url": "https://en.wikipedia.org/wiki/Clinical_sign"
+            },
+            {
+                "name": "abnormal skin coloration",
+                "qid": "Q47085690"
+            },
+            {
+                "name": "skin and integumentary tissue symptom",
+                "qid": "Q100751718"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "internal medicine",
+                "qid": "Q11180",
+                "url": "https://en.wikipedia.org/wiki/Internal_medicine"
+            }
+        ]
+    }
+}

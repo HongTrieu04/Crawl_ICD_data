@@ -1,0 +1,35 @@
+{
+    "name": "neonatal sepsis",
+    "qid": "Q6993495",
+    "icd_10": "P36",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Neonatal_sepsis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "perinatal infectious disease",
+                "qid": "Q9386039",
+                "url": "https://en.wikipedia.org/wiki/Neonatal_infection"
+            },
+            {
+                "name": "sepsis",
+                "qid": "Q183134",
+                "url": "https://en.wikipedia.org/wiki/Sepsis"
+            },
+            {
+                "name": "bacteremia",
+                "qid": "Q650912",
+                "url": "https://en.wikipedia.org/wiki/Bloodstream_infection"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "pediatrics",
+                "qid": "Q123028",
+                "url": "https://en.wikipedia.org/wiki/Pediatrics"
+            }
+        ]
+    }
+}

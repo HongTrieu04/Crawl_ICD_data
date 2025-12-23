@@ -1,0 +1,25 @@
+{
+    "name": "reactive attachment disorder",
+    "qid": "Q1329584",
+    "icd_10": "F94.1",
+    "description": "severe and relatively uncommon disorder that can affect children",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mother-Child%20face%20to%20face.jpg",
+    "url": "https://en.wikipedia.org/wiki/Reactive_attachment_disorder",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychology",
+                "qid": "Q9418",
+                "url": "https://en.wikipedia.org/wiki/Psychology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "attachment disorder",
+                "qid": "Q3540868",
+                "url": "https://en.wikipedia.org/wiki/Attachment_disorder"
+            }
+        ]
+    }
+}

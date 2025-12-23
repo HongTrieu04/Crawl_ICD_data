@@ -1,0 +1,89 @@
+{
+    "name": "peripheral neuropathy",
+    "qid": "Q945238",
+    "icd_10": "G90.0",
+    "description": "nervous system disease located in nerves or nerve cells",
+    "aliases": [
+        "neuropathy",
+        "peripheral nerve disease",
+        "peripheral nervous system disease",
+        "Peripheral Nervous System Diseases",
+        "perpheral nervous system diseases"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Peripheral_neuropathy",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "pathology",
+                "qid": "Q7208",
+                "url": "https://en.wikipedia.org/wiki/Pathology"
+            },
+            {
+                "name": "neurological disorder",
+                "qid": "Q3339235",
+                "url": "https://en.wikipedia.org/wiki/Neurological_disorder"
+            },
+            {
+                "name": "neuropathy",
+                "qid": "Q122112679"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "peripheral nervous system",
+                "qid": "Q169953",
+                "url": "https://en.wikipedia.org/wiki/Peripheral_nervous_system"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "Diclofenac",
+                "qid": "Q244408",
+                "url": "https://en.wikipedia.org/wiki/Diclofenac"
+            },
+            {
+                "name": "capsaicin",
+                "qid": "Q273169",
+                "url": "https://en.wikipedia.org/wiki/Capsaicin"
+            },
+            {
+                "name": "fentanyl",
+                "qid": "Q407541",
+                "url": "https://en.wikipedia.org/wiki/Fentanyl"
+            },
+            {
+                "name": "buprenorphine",
+                "qid": "Q407721",
+                "url": "https://en.wikipedia.org/wiki/Buprenorphine"
+            },
+            {
+                "name": "gabapentin",
+                "qid": "Q410352",
+                "url": "https://en.wikipedia.org/wiki/Gabapentin"
+            },
+            {
+                "name": "(S)-duloxetine",
+                "qid": "Q411932",
+                "url": "https://en.wikipedia.org/wiki/Duloxetine"
+            },
+            {
+                "name": "pregabalin",
+                "qid": "Q412174",
+                "url": "https://en.wikipedia.org/wiki/Pregabalin"
+            }
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "name": "Rolando fracture",
+    "qid": "Q7360596",
+    "icd_10": "S62.2",
+    "description": "comminuted intra-articular fracture through the base of the first metacarpal bone",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rolando%20fracture.jpg",
+    "url": "https://en.wikipedia.org/wiki/Rolando_fracture",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "hand injury",
+                "qid": "Q5647163",
+                "url": "https://en.wikipedia.org/wiki/Hand_injury"
+            },
+            {
+                "name": "bone fracture",
+                "qid": "Q68833",
+                "url": "https://en.wikipedia.org/wiki/Bone_fracture"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "orthopedics",
+                "qid": "Q216685",
+                "url": "https://en.wikipedia.org/wiki/Orthopedic_surgery"
+            },
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "first metacarpal bone",
+                "qid": "Q724575",
+                "url": "https://en.wikipedia.org/wiki/First_metacarpal_bone"
+            }
+        ]
+    }
+}

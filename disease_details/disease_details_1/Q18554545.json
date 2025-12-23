@@ -1,0 +1,54 @@
+{
+    "name": "angle-closure glaucoma",
+    "qid": "Q18554545",
+    "icd_10": "H40.2",
+    "description": "human disease",
+    "aliases": [
+        "ACG - Angle-closure glaucoma",
+        "Angle Closure Glaucoma",
+        "Angle-closure glaucoma",
+        "Angle-closure glaucoma (disorder)",
+        "closed angle glaucoma",
+        "glaucoma associated with chamber angle anomalies",
+        "Glaucoma associated with chamber angle anomalies (disorder)",
+        "narrow cleft glaucoma",
+        "primary open-angle glaucoma with narrow angles"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "pilocarpine",
+                "qid": "Q411461",
+                "url": "https://en.wikipedia.org/wiki/Pilocarpine"
+            },
+            {
+                "name": "methazolamide",
+                "qid": "Q1149099",
+                "url": "https://en.wikipedia.org/wiki/Methazolamide"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "iridocorneal angle",
+                "qid": "Q2849630",
+                "url": "https://en.wikipedia.org/wiki/Anterior_chamber_angle"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "glaucoma",
+                "qid": "Q159701",
+                "url": "https://en.wikipedia.org/wiki/Glaucoma"
+            }
+        ]
+    }
+}

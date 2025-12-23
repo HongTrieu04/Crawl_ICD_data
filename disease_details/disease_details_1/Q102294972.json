@@ -1,0 +1,32 @@
+{
+    "name": "VEXAS syndrome",
+    "qid": "Q102294972",
+    "icd_10": "M35.8",
+    "description": "human disease",
+    "aliases": [
+        "VEXAS"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/VEXAS_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            },
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "syndrome",
+                "qid": "Q179630",
+                "url": "https://en.wikipedia.org/wiki/Syndrome"
+            }
+        ]
+    }
+}

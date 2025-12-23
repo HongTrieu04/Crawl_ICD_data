@@ -1,0 +1,45 @@
+{
+    "name": "scarabiasis",
+    "qid": "Q7430242",
+    "icd_10": "B88.2",
+    "description": "medical condition",
+    "aliases": [
+        "canthariasis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Scarabiasis",
+    "details": {
+        "Anatomical location": [
+            {
+                "name": "large intestine",
+                "qid": "Q11083",
+                "url": "https://en.wikipedia.org/wiki/Large_intestine"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "infestation",
+                "qid": "Q1292038",
+                "url": "https://en.wikipedia.org/wiki/Infestation"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "ectoparasitism",
+                "qid": "Q5334259",
+                "url": "https://en.wikipedia.org/wiki/Ectoparasitic_infestation"
+            },
+            {
+                "name": "arthropod infestation",
+                "qid": "Q4068610"
+            }
+        ]
+    }
+}

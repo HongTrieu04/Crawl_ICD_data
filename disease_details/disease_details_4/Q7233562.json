@@ -1,0 +1,27 @@
+{
+    "name": "post-nasal drip",
+    "qid": "Q7233562",
+    "icd_10": "R09.82",
+    "description": "disorder that occurs when excessive mucus is produced by the nasal mucosa",
+    "aliases": [
+        "PND"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Post-nasal_drip",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "otolaryngology",
+                "qid": "Q189553",
+                "url": "https://en.wikipedia.org/wiki/Otorhinolaryngology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "runny nose",
+                "qid": "Q1115038",
+                "url": "https://en.wikipedia.org/wiki/Rhinorrhea"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "name": "thrombotic microangiopathy",
+    "qid": "Q3312044",
+    "icd_10": "M31.1",
+    "description": "pathology that results in thrombosis in capillaries and arterioles, due to an endothelial injury",
+    "aliases": [
+        "TMA",
+        "thrombotic microangiopathies"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Thrombotic_microangiopathy",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "eculizumab",
+                "qid": "Q421617",
+                "url": "https://en.wikipedia.org/wiki/Eculizumab"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "microangiopathy",
+                "qid": "Q1412400",
+                "url": "https://en.wikipedia.org/wiki/Microangiopathy"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "thymoma",
+    "qid": "Q1429863",
+    "icd_10": "C37",
+    "description": "thymus cancer that derives from epithelial cells",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Intrapulmonary%20thymoma%20Case%20237%20%287493570462%29.jpg",
+    "url": "https://en.wikipedia.org/wiki/Thymoma",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "thymus cancer",
+                "qid": "Q18555361"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ]
+    }
+}

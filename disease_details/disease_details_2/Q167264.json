@@ -1,0 +1,63 @@
+{
+    "name": "Marburg virus disease",
+    "qid": "Q167264",
+    "icd_10": "A98.39",
+    "description": "human disease",
+    "aliases": [
+        "MVD",
+        "MHF",
+        "Green monkey disease",
+        "Marburg disease",
+        "Marburg hemorrhagic fever"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marburg%20virus.jpg",
+    "url": "https://en.wikipedia.org/wiki/Marburg_virus_disease",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "viral infectious disease",
+                "qid": "Q1928978",
+                "url": "https://en.wikipedia.org/wiki/Viral_disease"
+            },
+            {
+                "name": "viral hemorrhagic fever",
+                "qid": "Q162272",
+                "url": "https://en.wikipedia.org/wiki/Viral_hemorrhagic_fever"
+            },
+            {
+                "name": "hospital-acquired infection",
+                "qid": "Q215509",
+                "url": "https://en.wikipedia.org/wiki/Hospital-acquired_infection"
+            },
+            {
+                "name": "Filoviridae infectious disease",
+                "qid": "Q18975835"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Marburg marburgvirus",
+                "qid": "Q6755280",
+                "url": "https://en.wikipedia.org/wiki/Marburg_marburgvirus"
+            },
+            {
+                "name": "Ravn virus",
+                "qid": "Q7296794",
+                "url": "https://en.wikipedia.org/wiki/Ravn_virus"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "poisoning",
+                "qid": "Q114953"
+            }
+        ]
+    }
+}

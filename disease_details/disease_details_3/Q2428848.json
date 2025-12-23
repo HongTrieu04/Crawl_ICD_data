@@ -1,0 +1,25 @@
+{
+    "name": "commotio thoracis",
+    "qid": "Q2428848",
+    "icd_10": "S20.2",
+    "description": "chest trauma",
+    "aliases": [
+        "contusion of thorax"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Commotio_thoracis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "chest trauma",
+                "qid": "Q368370",
+                "url": "https://en.wikipedia.org/wiki/Chest_injury"
+            },
+            {
+                "name": "bruise",
+                "qid": "Q574491",
+                "url": "https://en.wikipedia.org/wiki/Bruise"
+            }
+        ]
+    }
+}

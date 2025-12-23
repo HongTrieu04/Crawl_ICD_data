@@ -1,0 +1,28 @@
+{
+    "name": "needlestick injury",
+    "qid": "Q1565962",
+    "icd_10": "W46",
+    "description": "accidental puncture of skin causing contamination",
+    "aliases": [
+        "percutaneous exposure incident",
+        "percutaneous injury"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Needlestick_injury",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "penetrating trauma",
+                "qid": "Q7162621",
+                "url": "https://en.wikipedia.org/wiki/Penetrating_trauma"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "multiple pregnancy",
+    "qid": "Q41768637",
+    "icd_10": "O30.9",
+    "description": "one multiple pregnancy, wherein the mother delivers two or more offspring",
+    "aliases": [
+        "multiple gestation"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Multiple_pregnancies",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "human pregnancy",
+                "qid": "Q11995",
+                "url": "https://en.wikipedia.org/wiki/Pregnancy"
+            },
+            {
+                "name": "pregnancy",
+                "qid": "Q1490716",
+                "url": "https://en.wikipedia.org/wiki/Pregnancy_(mammals)"
+            }
+        ]
+    }
+}

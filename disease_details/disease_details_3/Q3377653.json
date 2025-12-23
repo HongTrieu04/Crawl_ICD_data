@@ -1,0 +1,24 @@
+{
+    "name": "scapular fracture",
+    "qid": "Q3377653",
+    "icd_10": "S42.1",
+    "description": "injury of the shoulder blade",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Scapular_fracture",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "shoulder fracture",
+                "qid": "Q56301149"
+            }
+        ]
+    }
+}

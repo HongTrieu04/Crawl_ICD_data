@@ -1,0 +1,56 @@
+{
+    "name": "cerebral hemorrhage",
+    "qid": "Q1368943",
+    "icd_10": "P10.1",
+    "description": "type of intracranial hemorrhage that occurs within the brain tissue itself",
+    "aliases": [
+        "brain bleed",
+        "brain haemorrhage",
+        "brain hemorrhage",
+        "cerebral haematoma",
+        "cerebral haemorrhage",
+        "cerebral hematoma",
+        "intracerebral haemorrhage",
+        "intracerebral hemorrhage"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Intracerebral%20hemorrage%20%28CT%20scan%29.jpg",
+    "url": "https://en.wikipedia.org/wiki/Intracerebral_hemorrhage",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            },
+            {
+                "name": "neurosurgery",
+                "qid": "Q188449",
+                "url": "https://en.wikipedia.org/wiki/Neurosurgery"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "stroke",
+                "qid": "Q12202",
+                "url": "https://en.wikipedia.org/wiki/Stroke"
+            },
+            {
+                "name": "intracranial hemorrhage",
+                "qid": "Q426199",
+                "url": "https://en.wikipedia.org/wiki/Intracranial_hemorrhage"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "simvastatin",
+                "qid": "Q670131",
+                "url": "https://en.wikipedia.org/wiki/Simvastatin"
+            },
+            {
+                "name": "alteplase",
+                "qid": "Q45769835",
+                "url": "https://en.wikipedia.org/wiki/Alteplase"
+            }
+        ]
+    }
+}

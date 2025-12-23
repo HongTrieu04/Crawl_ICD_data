@@ -1,0 +1,37 @@
+{
+    "name": "Morgellons",
+    "qid": "Q41398",
+    "icd_10": "F22.8",
+    "description": "self-diagnosed skin condition",
+    "aliases": [
+        "Skin fiber disease"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Morgellons",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            },
+            {
+                "name": "family medicine",
+                "qid": "Q3505712",
+                "url": "https://en.wikipedia.org/wiki/Family_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "delusional parasitosis",
+                "qid": "Q1200256",
+                "url": "https://en.wikipedia.org/wiki/Delusional_parasitosis"
+            }
+        ]
+    }
+}

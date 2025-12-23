@@ -1,0 +1,28 @@
+{
+    "name": "congenital lung malformation",
+    "qid": "Q21077033",
+    "icd_10": "Q33",
+    "description": "type of malformation",
+    "aliases": [
+        "lung anomaly"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "congenital abnormality",
+                "qid": "Q2852249",
+                "url": "https://en.wikipedia.org/wiki/Congenital_abnormality"
+            },
+            {
+                "name": "lung disease",
+                "qid": "Q3392853"
+            },
+            {
+                "name": "respiratory system abnormality",
+                "qid": "Q18975820"
+            }
+        ]
+    }
+}

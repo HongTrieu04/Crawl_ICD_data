@@ -1,0 +1,30 @@
+{
+    "name": "monoclonal gammopathy",
+    "qid": "Q4301818",
+    "icd_10": "D47.2",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Monoclonal_gammopathy",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "plasma cell dyscrasia",
+                "qid": "Q1706485",
+                "url": "https://en.wikipedia.org/wiki/Plasma_cell_dyscrasias"
+            },
+            {
+                "name": "paraproteinemia",
+                "qid": "Q1664199",
+                "url": "https://en.wikipedia.org/wiki/Paraproteinemia"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ]
+    }
+}

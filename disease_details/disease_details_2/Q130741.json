@@ -1,0 +1,49 @@
+{
+    "name": "hallucination",
+    "qid": "Q130741",
+    "icd_10": "R44",
+    "description": "perception in the presence of no external stimuli found, but characteristic of true perception",
+    "aliases": [
+        "hallucinations",
+        "hearing voice"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hallucination",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "medical psychology",
+                "qid": "Q1916597",
+                "url": "https://en.wikipedia.org/wiki/Medical_psychology"
+            },
+            {
+                "name": "psychotherapy",
+                "qid": "Q183257",
+                "url": "https://en.wikipedia.org/wiki/Psychotherapy"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disruption",
+                "qid": "Q2956685"
+            },
+            {
+                "name": "perceptual distortion",
+                "qid": "Q11999558"
+            },
+            {
+                "name": "psychopathological symptom",
+                "qid": "Q30897648"
+            },
+            {
+                "name": "general symptom",
+                "qid": "Q31836626"
+            }
+        ]
+    }
+}

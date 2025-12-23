@@ -1,0 +1,33 @@
+{
+    "name": "Clostridium difficile intestinal infectious disease",
+    "qid": "Q55011690",
+    "icd_10": "A04.7",
+    "description": "human disease",
+    "aliases": [
+        "intestinal infectious disease due to clostridium difficile"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Cause": [
+            {
+                "name": "infection",
+                "qid": "Q166231",
+                "url": "https://en.wikipedia.org/wiki/Infection"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "fidaxomicin",
+                "qid": "Q5446672",
+                "url": "https://en.wikipedia.org/wiki/Fidaxomicin"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "clostridium difficile infection",
+                "qid": "Q56150863"
+            }
+        ]
+    }
+}

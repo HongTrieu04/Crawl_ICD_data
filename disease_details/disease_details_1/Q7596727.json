@@ -1,0 +1,23 @@
+{
+    "name": "Stafne defect",
+    "qid": "Q7596727",
+    "icd_10": "M27.0",
+    "description": "mandibular depression",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Stafne_defect",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "pseudocyst",
+                "qid": "Q2424791",
+                "url": "https://en.wikipedia.org/wiki/Pseudocyst"
+            },
+            {
+                "name": "mouth disease",
+                "qid": "Q2508462",
+                "url": "https://en.wikipedia.org/wiki/Oral_and_maxillofacial_pathology"
+            }
+        ]
+    }
+}

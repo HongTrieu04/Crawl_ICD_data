@@ -1,0 +1,20 @@
+{
+    "name": "low vision",
+    "qid": "Q2634782",
+    "icd_10": "H54.2",
+    "description": "vision deficient in acuity, field of vision or motility",
+    "aliases": [
+        "vision, low"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Low_vision",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "visual impairment",
+                "qid": "Q737460",
+                "url": "https://en.wikipedia.org/wiki/Visual_impairment"
+            }
+        ]
+    }
+}

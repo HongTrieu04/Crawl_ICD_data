@@ -1,0 +1,32 @@
+{
+    "name": "endogenous depression",
+    "qid": "Q5376333",
+    "icd_10": "F33.3",
+    "description": "mental depression that is characterized by a dysregulation of the endogenous opioid system and not of the monaminergic system",
+    "aliases": [
+        "clinical depression",
+        "unipolar depression"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Endogenous_depression",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "major depressive disorder",
+                "qid": "Q42844",
+                "url": "https://en.wikipedia.org/wiki/Major_depressive_disorder"
+            },
+            {
+                "name": "endogenous mental disorder",
+                "qid": "Q16543683"
+            }
+        ]
+    }
+}

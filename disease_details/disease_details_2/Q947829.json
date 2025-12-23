@@ -1,0 +1,29 @@
+{
+    "name": "chronic paroxysmal hemicrania",
+    "qid": "Q947829",
+    "icd_10": "G44.03",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Chronic_paroxysmal_hemicrania",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            },
+            {
+                "name": "paroxysmal hemicrania",
+                "qid": "Q42324521"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ]
+    }
+}

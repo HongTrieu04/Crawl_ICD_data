@@ -1,0 +1,24 @@
+{
+    "name": "Wilson–Mikity syndrome",
+    "qid": "Q8023320",
+    "icd_10": "P27.0",
+    "description": "rare lung infection that affects low birthweight infants",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Wilson%E2%80%93Mikity_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "pediatrics",
+                "qid": "Q123028",
+                "url": "https://en.wikipedia.org/wiki/Pediatrics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "perinatal respiratory disorder",
+                "qid": "Q18966634"
+            }
+        ]
+    }
+}

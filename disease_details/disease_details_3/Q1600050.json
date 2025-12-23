@@ -1,0 +1,47 @@
+{
+    "name": "retroperitoneal fibrosis",
+    "qid": "Q1600050",
+    "icd_10": "K66.2",
+    "description": "progressive condition characterized by deposition of fibrous tissue in the retroperitoneal space",
+    "aliases": [
+        "IgG4-related disease",
+        "IgG4-related systemic disease",
+        "Albarran-Ormond syndrome",
+        "Idiopathic retroperitoneal fibrosis",
+        "IgG4-related retroperitoneal fibrosis",
+        "Ormond disease",
+        "Ormond's disease",
+        "Sclerosing retroperitoneal granuloma"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Retroperitoneal_fibrosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "immune disorder",
+                "qid": "Q3843811",
+                "url": "https://en.wikipedia.org/wiki/Immune_disorder"
+            },
+            {
+                "name": "IgG4-related disease",
+                "qid": "Q11039483",
+                "url": "https://en.wikipedia.org/wiki/IgG4-related_disease"
+            },
+            {
+                "name": "peritoneal disease",
+                "qid": "Q54935444"
+            },
+            {
+                "name": "rare abdominal surgical disease",
+                "qid": "Q55785601"
+            }
+        ]
+    }
+}

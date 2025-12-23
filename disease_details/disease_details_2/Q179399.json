@@ -1,0 +1,85 @@
+{
+    "name": "infertility",
+    "qid": "Q179399",
+    "icd_10": "N46",
+    "description": "inability of a person, animal or plant to reproduce by natural means that is no intervention of contraceptive techniques",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Infertility%20causes.png",
+    "url": "https://en.wikipedia.org/wiki/Infertility",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "reproductive system disease",
+                "qid": "Q7314317",
+                "url": "https://en.wikipedia.org/wiki/Reproductive_system_disease"
+            },
+            {
+                "name": "reproductive system symptom",
+                "qid": "Q102186786"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "obstetrics and gynaecology",
+                "qid": "Q80015",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics_and_gynaecology"
+            },
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            },
+            {
+                "name": "reproductive endocrinology and infertility",
+                "qid": "Q17145564",
+                "url": "https://en.wikipedia.org/wiki/Reproductive_endocrinology_and_infertility"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "human follitropin",
+                "qid": "Q200774",
+                "url": "https://en.wikipedia.org/wiki/Follicle-stimulating_hormone"
+            },
+            {
+                "name": "chorionic gonadotropin",
+                "qid": "Q407172",
+                "url": "https://en.wikipedia.org/wiki/Human_chorionic_gonadotropin"
+            },
+            {
+                "name": "bromocriptine",
+                "qid": "Q413581",
+                "url": "https://en.wikipedia.org/wiki/Bromocriptine"
+            },
+            {
+                "name": "leuprolide",
+                "qid": "Q907160",
+                "url": "https://en.wikipedia.org/wiki/Leuprorelin"
+            },
+            {
+                "name": "ethisterone",
+                "qid": "Q5403717",
+                "url": "https://en.wikipedia.org/wiki/Ethisterone"
+            },
+            {
+                "name": "sermorelin",
+                "qid": "Q7455005",
+                "url": "https://en.wikipedia.org/wiki/Sermorelin"
+            },
+            {
+                "name": "17α/β-estradiol",
+                "qid": "Q12415847",
+                "url": "https://en.wikipedia.org/wiki/Estradiol_(medication)"
+            },
+            {
+                "name": "follitropin alpha",
+                "qid": "Q20817286"
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Hodgkin's lymphoma, nodular sclerosis",
+    "qid": "Q17126784",
+    "icd_10": "C81.1",
+    "description": "Human disease",
+    "aliases": [
+        "NSHD",
+        "Classical Hodgkin lymphoma, nodular sclerosis",
+        "Hodgkin lymphoma, nodular sclerosis",
+        "Hodgkin's disease nodular sclerosis",
+        "Hodgkin's disease nodular sclerosis NOS",
+        "Hodgkin's disease, nodular sclerosis",
+        "Hodgkin's disease, nodular sclerosis (disorder)",
+        "Hodgkin's disease, nodular sclerosis NOS (disorder)",
+        "Hodgkin's disease, nodular sclerosis NOS (morphologic abnormality)",
+        "Hodgkin's disease, nodular sclerosis of unspecified site",
+        "Hodgkin's disease, nodular sclerosis of unspecified site (disorder)",
+        "Hodgkin's Nodular Sclerosis",
+        "Nodular Sclerosis Classical Hodgkin Lymphoma",
+        "Nodular Sclerosis Hodgkin Lymphoma",
+        "Nodular Sclerosis Hodgkin's Disease",
+        "Nodular Sclerosis Hodgkin's Lymphoma",
+        "NSCHL",
+        "NSHL"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Nodular_sclerosing_Hodgkin_lymphoma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "Hodgkin lymphoma",
+                "qid": "Q209369",
+                "url": "https://en.wikipedia.org/wiki/Hodgkin_lymphoma"
+            }
+        ]
+    }
+}

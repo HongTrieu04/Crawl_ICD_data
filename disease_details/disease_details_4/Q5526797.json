@@ -1,0 +1,29 @@
+{
+    "name": "gastric varices",
+    "qid": "Q5526797",
+    "icd_10": "I86.4",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Gastric_varices",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "varicose veins",
+                "qid": "Q201180",
+                "url": "https://en.wikipedia.org/wiki/Varicose_veins"
+            },
+            {
+                "name": "esophageal and gastric varices",
+                "qid": "Q54911777"
+            }
+        ]
+    }
+}

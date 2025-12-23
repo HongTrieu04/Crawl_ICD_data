@@ -1,0 +1,29 @@
+{
+    "name": "embolism",
+    "qid": "Q275466",
+    "icd_10": "O88",
+    "description": "disease of arteries, arterioles and capillaries",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/3D%20Medical%20Animation%20still%20shot%20Pulmonary%20Embolism.jpg",
+    "url": "https://en.wikipedia.org/wiki/Embolism",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "vascular surgery",
+                "qid": "Q1498222",
+                "url": "https://en.wikipedia.org/wiki/Vascular_surgery"
+            },
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "embolism and thrombosis",
+                "qid": "Q54944012"
+            }
+        ]
+    }
+}

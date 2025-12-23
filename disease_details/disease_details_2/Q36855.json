@@ -1,0 +1,79 @@
+{
+    "name": "swine influenza",
+    "qid": "Q36855",
+    "icd_10": "J09",
+    "description": "infection caused by any one of several types of swine influenza viruses",
+    "aliases": [
+        "swine flu",
+        "H1N1 Flu",
+        "H1N1 Influenza",
+        "H1N1 Virus Infection",
+        "hog flu",
+        "Influenza A (H1N1)",
+        "Influenza A (H1N1) Virus Infection",
+        "pig flu",
+        "pig influenza"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/H1N1%20Influenza%20Virus%20Particles%20%288411599236%29.jpg",
+    "url": "https://en.wikipedia.org/wiki/Swine_influenza",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "influenza",
+                "qid": "Q2840",
+                "url": "https://en.wikipedia.org/wiki/Influenza"
+            },
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "diarrhea",
+                "qid": "Q40878",
+                "url": "https://en.wikipedia.org/wiki/Diarrhea"
+            },
+            {
+                "name": "vomiting",
+                "qid": "Q127076",
+                "url": "https://en.wikipedia.org/wiki/Vomiting"
+            },
+            {
+                "name": "nausea",
+                "qid": "Q186889",
+                "url": "https://en.wikipedia.org/wiki/Nausea"
+            },
+            {
+                "name": "lethargy",
+                "qid": "Q15637420",
+                "url": "https://en.wikipedia.org/wiki/Lethargy"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "zanamivir",
+                "qid": "Q146075",
+                "url": "https://en.wikipedia.org/wiki/Zanamivir"
+            },
+            {
+                "name": "oseltamivir",
+                "qid": "Q211509",
+                "url": "https://en.wikipedia.org/wiki/Oseltamivir"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            },
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

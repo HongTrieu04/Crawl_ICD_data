@@ -1,0 +1,42 @@
+{
+    "name": "tuberculous peritonitis",
+    "qid": "Q18558227",
+    "icd_10": "K67.3",
+    "description": "human disease",
+    "aliases": [
+        "Tuberculous peritonitis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tuberculous%20peritonitis%20%286544825621%29.jpg",
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "peritonitis",
+                "qid": "Q223102",
+                "url": "https://en.wikipedia.org/wiki/Peritonitis"
+            },
+            {
+                "name": "gastrointestinal tuberculosis",
+                "qid": "Q18556166"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "abdominal distention",
+                "qid": "Q2536390",
+                "url": "https://en.wikipedia.org/wiki/Abdominal_distension"
+            },
+            {
+                "name": "abdominal discomfort",
+                "qid": "Q102186744"
+            }
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "name": "second-degree burn",
+    "qid": "Q2303020",
+    "icd_10": "T30.2",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Second-degree_burn",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "burn",
+                "qid": "Q170518",
+                "url": "https://en.wikipedia.org/wiki/Burn"
+            }
+        ]
+    }
+}

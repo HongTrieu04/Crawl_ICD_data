@@ -1,0 +1,164 @@
+{
+    "name": "obsessive-compulsive disorder",
+    "qid": "Q178190",
+    "icd_10": "F42",
+    "description": "mental disorder involving obsessions and compulsions",
+    "aliases": [
+        "OCD",
+        "Anancastic neurosis",
+        "obsessive compulsive disorder"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Obsessive-compulsive%20disorder%20world%20map%20-%20DALY%20-%20WHO2002.svg",
+    "url": "https://en.wikipedia.org/wiki/Obsessive%E2%80%93compulsive_disorder",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "psychology",
+                "qid": "Q9418",
+                "url": "https://en.wikipedia.org/wiki/Psychology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "mental disorder",
+                "qid": "Q12135",
+                "url": "https://en.wikipedia.org/wiki/Mental_disorder"
+            },
+            {
+                "name": "genetic disease",
+                "qid": "Q200779",
+                "url": "https://en.wikipedia.org/wiki/Genetic_disorder"
+            },
+            {
+                "name": "anxiety disorder",
+                "qid": "Q544006",
+                "url": "https://en.wikipedia.org/wiki/Anxiety_disorder"
+            },
+            {
+                "name": "impulse control disorder",
+                "qid": "Q1201835",
+                "url": "https://en.wikipedia.org/wiki/Impulse-control_disorder"
+            },
+            {
+                "name": "genetic nervous system disorder",
+                "qid": "Q55788492"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "clomipramine",
+                "qid": "Q58713",
+                "url": "https://en.wikipedia.org/wiki/Clomipramine"
+            },
+            {
+                "name": "fluvoxamine",
+                "qid": "Q409236",
+                "url": "https://en.wikipedia.org/wiki/Fluvoxamine"
+            },
+            {
+                "name": "(RS)-citalopram",
+                "qid": "Q409672",
+                "url": "https://en.wikipedia.org/wiki/Citalopram"
+            },
+            {
+                "name": "aripiprazole",
+                "qid": "Q411188",
+                "url": "https://en.wikipedia.org/wiki/Aripiprazole"
+            },
+            {
+                "name": "olanzapine",
+                "qid": "Q201872",
+                "url": "https://en.wikipedia.org/wiki/Olanzapine"
+            },
+            {
+                "name": "sertraline",
+                "qid": "Q407617",
+                "url": "https://en.wikipedia.org/wiki/Sertraline"
+            },
+            {
+                "name": "lorazepam",
+                "qid": "Q408265",
+                "url": "https://en.wikipedia.org/wiki/Lorazepam"
+            },
+            {
+                "name": "paroxetine",
+                "qid": "Q408471",
+                "url": "https://en.wikipedia.org/wiki/Paroxetine"
+            },
+            {
+                "name": "quetiapine",
+                "qid": "Q408535",
+                "url": "https://en.wikipedia.org/wiki/Quetiapine"
+            },
+            {
+                "name": "(S)-duloxetine",
+                "qid": "Q411932",
+                "url": "https://en.wikipedia.org/wiki/Duloxetine"
+            },
+            {
+                "name": "risperidone",
+                "qid": "Q412443",
+                "url": "https://en.wikipedia.org/wiki/Risperidone"
+            },
+            {
+                "name": "fluoxetine",
+                "qid": "Q422244",
+                "url": "https://en.wikipedia.org/wiki/Fluoxetine"
+            },
+            {
+                "name": "escitalopram",
+                "qid": "Q423757",
+                "url": "https://en.wikipedia.org/wiki/Escitalopram"
+            },
+            {
+                "name": "venlafaxine",
+                "qid": "Q898407",
+                "url": "https://en.wikipedia.org/wiki/Venlafaxine"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "anxiety",
+                "qid": "Q154430",
+                "url": "https://en.wikipedia.org/wiki/Anxiety"
+            },
+            {
+                "name": "compulsive behavior",
+                "qid": "Q266332",
+                "url": "https://en.wikipedia.org/wiki/Compulsive_behavior"
+            },
+            {
+                "name": "intrusive thought",
+                "qid": "Q1671614",
+                "url": "https://en.wikipedia.org/wiki/Intrusive_thought"
+            },
+            {
+                "name": "obsession",
+                "qid": "Q6048309",
+                "url": "https://en.wikipedia.org/wiki/Obsessive_thought"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "psychotherapy",
+                "qid": "Q183257",
+                "url": "https://en.wikipedia.org/wiki/Psychotherapy"
+            },
+            {
+                "name": "psychiatric medication",
+                "qid": "Q1572854",
+                "url": "https://en.wikipedia.org/wiki/Psychiatric_medication"
+            },
+            {
+                "name": "exposure and response prevention",
+                "qid": "Q5421633",
+                "url": "https://en.wikipedia.org/wiki/Exposure_and_response_prevention"
+            }
+        ]
+    }
+}

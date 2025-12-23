@@ -1,0 +1,30 @@
+{
+    "name": "dysbarism",
+    "qid": "Q3709266",
+    "icd_10": "T70",
+    "description": "disorder caused by pressure change",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Dysbarism",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "diving medicine",
+                "qid": "Q1423517",
+                "url": "https://en.wikipedia.org/wiki/Diving_medicine"
+            },
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "external causes of illness and death",
+                "qid": "Q5422022",
+                "url": "https://en.wikipedia.org/wiki/External_cause"
+            }
+        ]
+    }
+}

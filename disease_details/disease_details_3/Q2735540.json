@@ -1,0 +1,37 @@
+{
+    "name": "sexual addiction",
+    "qid": "Q2735540",
+    "icd_10": "F52.7",
+    "description": "proposed compulsive sexual disorder",
+    "aliases": [
+        "sex addiction"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Sexual_addiction",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "compulsive behavior",
+                "qid": "Q266332",
+                "url": "https://en.wikipedia.org/wiki/Compulsive_behavior"
+            },
+            {
+                "name": "hypersexuality",
+                "qid": "Q267907",
+                "url": "https://en.wikipedia.org/wiki/Hypersexuality"
+            },
+            {
+                "name": "behavioral addiction",
+                "qid": "Q1513352",
+                "url": "https://en.wikipedia.org/wiki/Behavioral_addiction"
+            }
+        ]
+    }
+}

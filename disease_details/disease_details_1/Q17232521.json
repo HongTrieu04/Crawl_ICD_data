@@ -1,0 +1,34 @@
+{
+    "name": "vascular myelopathy",
+    "qid": "Q17232521",
+    "icd_10": "G95.1",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete spinal vascular disorder",
+        "spinal cord vascular disease",
+        "spinal cord vascular diseases",
+        "spinal vascular disorder",
+        "vascular myelopathies",
+        "vascular myelopathies (disorder)",
+        "vascular myelopathy (disorder)",
+        "vascular myelopathy NOS (disorder)"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Vascular_myelopathy",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "spinal cord disease",
+                "qid": "Q2303951",
+                "url": "https://en.wikipedia.org/wiki/Myelopathy"
+            }
+        ]
+    }
+}

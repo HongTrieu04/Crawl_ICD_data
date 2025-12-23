@@ -1,0 +1,257 @@
+{
+    "name": "migraine",
+    "qid": "Q133823",
+    "icd_10": "G43.9",
+    "description": "disorder resulting in recurrent moderate-severe headaches",
+    "aliases": [
+        "migraine disorder",
+        "migraine disorders",
+        "migraine variant",
+        "migraine with or without aura",
+        "sick headache"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Migraine.jpg",
+    "url": "https://en.wikipedia.org/wiki/Migraine",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "encephalopathy",
+                "qid": "Q576349",
+                "url": "https://en.wikipedia.org/wiki/Encephalopathy"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            },
+            {
+                "name": "nausea",
+                "qid": "Q186889",
+                "url": "https://en.wikipedia.org/wiki/Nausea"
+            },
+            {
+                "name": "vomiting",
+                "qid": "Q127076",
+                "url": "https://en.wikipedia.org/wiki/Vomiting"
+            },
+            {
+                "name": "burping",
+                "qid": "Q209789",
+                "url": "https://en.wikipedia.org/wiki/Belching"
+            },
+            {
+                "name": "photophobia",
+                "qid": "Q281289",
+                "url": "https://en.wikipedia.org/wiki/Photophobia"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "paracetamol",
+                "qid": "Q57055",
+                "url": "https://en.wikipedia.org/wiki/Paracetamol"
+            },
+            {
+                "name": "amitriptyline",
+                "qid": "Q58397",
+                "url": "https://en.wikipedia.org/wiki/Amitriptyline"
+            },
+            {
+                "name": "ibuprofen",
+                "qid": "Q186969",
+                "url": "https://en.wikipedia.org/wiki/Ibuprofen"
+            },
+            {
+                "name": "rizatriptan",
+                "qid": "Q212171",
+                "url": "https://en.wikipedia.org/wiki/Rizatriptan"
+            },
+            {
+                "name": "zolmitriptan",
+                "qid": "Q218820",
+                "url": "https://en.wikipedia.org/wiki/Zolmitriptan"
+            },
+            {
+                "name": "zonisamide",
+                "qid": "Q219957",
+                "url": "https://en.wikipedia.org/wiki/Zonisamide"
+            },
+            {
+                "name": "topiramate",
+                "qid": "Q221174",
+                "url": "https://en.wikipedia.org/wiki/Topiramate"
+            },
+            {
+                "name": "botulinum toxin type A",
+                "qid": "Q4095199"
+            },
+            {
+                "name": "Diclofenac",
+                "qid": "Q244408",
+                "url": "https://en.wikipedia.org/wiki/Diclofenac"
+            },
+            {
+                "name": "fentanyl",
+                "qid": "Q407541",
+                "url": "https://en.wikipedia.org/wiki/Fentanyl"
+            },
+            {
+                "name": "buprenorphine",
+                "qid": "Q407721",
+                "url": "https://en.wikipedia.org/wiki/Buprenorphine"
+            },
+            {
+                "name": "almotriptan",
+                "qid": "Q409729",
+                "url": "https://en.wikipedia.org/wiki/Almotriptan"
+            },
+            {
+                "name": "lamotrigine",
+                "qid": "Q410346",
+                "url": "https://en.wikipedia.org/wiki/Lamotrigine"
+            },
+            {
+                "name": "gabapentin",
+                "qid": "Q410352",
+                "url": "https://en.wikipedia.org/wiki/Gabapentin"
+            },
+            {
+                "name": "(S)-duloxetine",
+                "qid": "Q411932",
+                "url": "https://en.wikipedia.org/wiki/Duloxetine"
+            },
+            {
+                "name": "pregabalin",
+                "qid": "Q412174",
+                "url": "https://en.wikipedia.org/wiki/Pregabalin"
+            },
+            {
+                "name": "eletriptan",
+                "qid": "Q415032",
+                "url": "https://en.wikipedia.org/wiki/Eletriptan"
+            },
+            {
+                "name": "sumatriptan",
+                "qid": "Q416978",
+                "url": "https://en.wikipedia.org/wiki/Sumatriptan"
+            },
+            {
+                "name": "ergotamine",
+                "qid": "Q419186",
+                "url": "https://en.wikipedia.org/wiki/Ergotamine"
+            },
+            {
+                "name": "naratriptan",
+                "qid": "Q421315",
+                "url": "https://en.wikipedia.org/wiki/Naratriptan"
+            },
+            {
+                "name": "dihydroergotamine",
+                "qid": "Q421336",
+                "url": "https://en.wikipedia.org/wiki/Dihydroergotamine"
+            },
+            {
+                "name": "propranolol",
+                "qid": "Q423364",
+                "url": "https://en.wikipedia.org/wiki/Propranolol"
+            },
+            {
+                "name": "triptan",
+                "qid": "Q423866",
+                "url": "https://en.wikipedia.org/wiki/Triptan"
+            },
+            {
+                "name": "venlafaxine",
+                "qid": "Q898407",
+                "url": "https://en.wikipedia.org/wiki/Venlafaxine"
+            },
+            {
+                "name": "butorphanol",
+                "qid": "Q1185089",
+                "url": "https://en.wikipedia.org/wiki/Butorphanol"
+            },
+            {
+                "name": "naproxen",
+                "qid": "Q1215575",
+                "url": "https://en.wikipedia.org/wiki/Naproxen"
+            },
+            {
+                "name": "ketorolac",
+                "qid": "Q2014797",
+                "url": "https://en.wikipedia.org/wiki/Ketorolac"
+            },
+            {
+                "name": "clonixin",
+                "qid": "Q5135028",
+                "url": "https://en.wikipedia.org/wiki/Clonixin"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "analgesic",
+                "qid": "Q173235",
+                "url": "https://en.wikipedia.org/wiki/Analgesic"
+            },
+            {
+                "name": "antidepressant",
+                "qid": "Q76560",
+                "url": "https://en.wikipedia.org/wiki/Antidepressant"
+            },
+            {
+                "name": "botulinum toxin group",
+                "qid": "Q208413",
+                "url": "https://en.wikipedia.org/wiki/Botulinum_toxin"
+            },
+            {
+                "name": "monoclonal antibody",
+                "qid": "Q422248",
+                "url": "https://en.wikipedia.org/wiki/Monoclonal_antibody"
+            },
+            {
+                "name": "triptan",
+                "qid": "Q423866",
+                "url": "https://en.wikipedia.org/wiki/Triptan"
+            },
+            {
+                "name": "anticonvulsant agent",
+                "qid": "Q576618",
+                "url": "https://en.wikipedia.org/wiki/Anticonvulsant"
+            },
+            {
+                "name": "beta blocker",
+                "qid": "Q816759",
+                "url": "https://en.wikipedia.org/wiki/Beta_blocker"
+            },
+            {
+                "name": "tricyclic antidepressant",
+                "qid": "Q908843",
+                "url": "https://en.wikipedia.org/wiki/Tricyclic_antidepressant"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "unknown",
+                "qid": "Q24238356"
+            },
+            {
+                "name": "psychological stress",
+                "qid": "Q3500368",
+                "url": "https://en.wikipedia.org/wiki/Psychological_stress"
+            }
+        ]
+    }
+}

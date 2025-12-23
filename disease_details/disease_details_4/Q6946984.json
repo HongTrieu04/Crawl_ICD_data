@@ -1,0 +1,72 @@
+{
+    "name": "Mycobacterium avium-intracellulare infection",
+    "qid": "Q6946984",
+    "icd_10": "A31.0",
+    "description": "Human disease",
+    "aliases": [
+        "DMAC",
+        "Disseminated infection with mycobacterium avium complex",
+        "Infection due to Mycobacterium intracellulare",
+        "Infection due to Mycobacterium intracellulare (disorder)",
+        "MAC disease",
+        "Mycobacterium avium complex disease",
+        "Mycobacterium Avium Infection"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Mycobacterium_avium-intracellulare_infection",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "mycobacterium infectious disease",
+                "qid": "Q4293079"
+            },
+            {
+                "name": "nontuberculous mycobacterial infectious disease",
+                "qid": "Q11663754"
+            },
+            {
+                "name": "primary bacterial infectious disease",
+                "qid": "Q18553247"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "rifabutin",
+                "qid": "Q1135705",
+                "url": "https://en.wikipedia.org/wiki/Rifabutin"
+            },
+            {
+                "name": "clarithromycin",
+                "qid": "Q118551",
+                "url": "https://en.wikipedia.org/wiki/Clarithromycin"
+            },
+            {
+                "name": "azithromycin",
+                "qid": "Q165399",
+                "url": "https://en.wikipedia.org/wiki/Azithromycin"
+            },
+            {
+                "name": "ethambutol",
+                "qid": "Q412318",
+                "url": "https://en.wikipedia.org/wiki/Ethambutol"
+            },
+            {
+                "name": "clofazimine",
+                "qid": "Q418611",
+                "url": "https://en.wikipedia.org/wiki/Clofazimine"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

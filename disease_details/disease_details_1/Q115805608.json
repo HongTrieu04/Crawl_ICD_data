@@ -1,0 +1,24 @@
+{
+    "name": "patella alta",
+    "qid": "Q115805608",
+    "icd_10": "M22.8",
+    "description": "medical condition",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/PatellaAlta%20XRay%20Insall-Salvati.svg",
+    "url": null,
+    "details": {
+        "Anatomical location": [
+            {
+                "name": "knee",
+                "qid": "Q37425",
+                "url": "https://en.wikipedia.org/wiki/Knee"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "knee disorder",
+                "qid": "Q18971535"
+            }
+        ]
+    }
+}

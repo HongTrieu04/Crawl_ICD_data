@@ -1,0 +1,62 @@
+{
+    "name": "dermatofibrosarcoma protuberans",
+    "qid": "Q1200239",
+    "icd_10": "C49",
+    "description": "fibrosarcoma that is located in the dermis layer of the skin",
+    "aliases": [
+        "Dermatofibrosarcoma",
+        "DERMATOFIBROSARCOMA PROTUBERANS",
+        "DERMATOFIBROSARCOMA PROTUBERANS; DFSP",
+        "DFSP",
+        "Familial dermatofibrosarcoma protuberans (subtype)",
+        "Giant Cell Fibroblastoma",
+        "Metastatic dermatofibrosarcoma protuberans (subtype)"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dermatofibrosarcome%20facial%2001.jpg",
+    "url": "https://en.wikipedia.org/wiki/Dermatofibrosarcoma_protuberans",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "fibrosarcoma",
+                "qid": "Q1362453",
+                "url": "https://en.wikipedia.org/wiki/Fibrosarcoma"
+            },
+            {
+                "name": "skin sarcoma",
+                "qid": "Q18555161",
+                "url": "https://en.wikipedia.org/wiki/Skin_sarcoma"
+            },
+            {
+                "name": "inherited soft tissue tumor",
+                "qid": "Q55786846"
+            },
+            {
+                "name": "dermis disorder",
+                "qid": "Q55788597"
+            },
+            {
+                "name": "skin tumor or hamartoma",
+                "qid": "Q55788604"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "imatinib",
+                "qid": "Q177094",
+                "url": "https://en.wikipedia.org/wiki/Imatinib"
+            }
+        ]
+    }
+}

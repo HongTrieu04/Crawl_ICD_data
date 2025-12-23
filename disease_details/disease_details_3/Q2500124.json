@@ -1,0 +1,60 @@
+{
+    "name": "lipoid proteinosis",
+    "qid": "Q2500124",
+    "icd_10": "E78.8",
+    "description": "rare recessive genetic disorder",
+    "aliases": [
+        "Hyalinosis Cutis Et Mucosae",
+        "lipid proteinosis",
+        "Lipoid Proteinosis of Urbach and Wiethe",
+        "LIPOPROTEINOSIS",
+        "Urbach–Wiethe disease"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Urbach%E2%80%93Wiethe_disease",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "lipid metabolism disorder",
+                "qid": "Q1476525",
+                "url": "https://en.wikipedia.org/wiki/Dyslipidemia"
+            },
+            {
+                "name": "hoarseness",
+                "qid": "Q3930506"
+            },
+            {
+                "name": "rare dyslipidemia",
+                "qid": "Q55785266"
+            },
+            {
+                "name": "developmental anomaly of metabolic origin",
+                "qid": "Q55785399"
+            },
+            {
+                "name": "malformation syndrome with skin/mucosae involvement",
+                "qid": "Q55785402"
+            },
+            {
+                "name": "other genetic dermis disorder",
+                "qid": "Q55788349"
+            },
+            {
+                "name": "other dermis disorder",
+                "qid": "Q55788600"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ]
+    }
+}

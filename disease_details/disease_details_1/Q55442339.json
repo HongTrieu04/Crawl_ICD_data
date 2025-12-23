@@ -1,0 +1,30 @@
+{
+    "name": "Acute white phosphorus poisoning",
+    "qid": "Q55442339",
+    "icd_10": "T57.1",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Cause": [
+            {
+                "name": "white phosphorus",
+                "qid": "Q457515",
+                "url": "https://en.wikipedia.org/wiki/White_phosphorus"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "intoxication",
+                "qid": "Q18621601",
+                "url": "https://en.wikipedia.org/wiki/Poisoning"
+            },
+            {
+                "name": "chemical hazard",
+                "qid": "Q21167512",
+                "url": "https://en.wikipedia.org/wiki/Chemical_hazard"
+            }
+        ]
+    }
+}

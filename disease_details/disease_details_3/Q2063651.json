@@ -1,0 +1,28 @@
+{
+    "name": "microangiopathic hemolytic anemia",
+    "qid": "Q2063651",
+    "icd_10": "D59.4",
+    "description": "symptom",
+    "aliases": [
+        "MAHA",
+        "Microangiopathic hemolytic anemia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Microangiopathic_hemolytic_anemia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "hemolytic anemia",
+                "qid": "Q1145668",
+                "url": "https://en.wikipedia.org/wiki/Hemolytic_anemia"
+            }
+        ]
+    }
+}

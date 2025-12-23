@@ -1,0 +1,38 @@
+{
+    "name": "abnormal uterine bleeding",
+    "qid": "Q2633143",
+    "icd_10": "N93.8",
+    "description": "medical condition",
+    "aliases": [
+        "dysfunctional uterine bleeding",
+        "Uterine hemorrhage"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Abnormal_uterine_bleeding",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "menstrual disorder",
+                "qid": "Q2137327",
+                "url": "https://en.wikipedia.org/wiki/Menstrual_disorder"
+            },
+            {
+                "name": "vaginal bleeding",
+                "qid": "Q244913",
+                "url": "https://en.wikipedia.org/wiki/Vaginal_bleeding"
+            },
+            {
+                "name": "gynecologic hemorrhage",
+                "qid": "Q554130",
+                "url": "https://en.wikipedia.org/wiki/Gynecologic_hemorrhage"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gynaecology",
+                "qid": "Q1221899",
+                "url": "https://en.wikipedia.org/wiki/Gynaecology"
+            }
+        ]
+    }
+}

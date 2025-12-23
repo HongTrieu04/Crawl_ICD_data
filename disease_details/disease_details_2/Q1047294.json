@@ -1,0 +1,24 @@
+{
+    "name": "pyonephrosis",
+    "qid": "Q1047294",
+    "icd_10": "N13.6",
+    "description": "infection of the renal collecting system",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pyonephrosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "kidney infection",
+                "qid": "Q17651228"
+            }
+        ]
+    }
+}

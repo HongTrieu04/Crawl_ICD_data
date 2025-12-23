@@ -1,0 +1,33 @@
+{
+    "name": "postherpetic neuralgia",
+    "qid": "Q1714245",
+    "icd_10": "G53.0",
+    "description": "medical condition",
+    "aliases": [
+        "Neuralgia, Postherpetic"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Postherpetic_neuralgia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "herpes zoster",
+                "qid": "Q182155",
+                "url": "https://en.wikipedia.org/wiki/Shingles"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "post-infectious neuralgia",
+                "qid": "Q55789780"
+            }
+        ]
+    }
+}

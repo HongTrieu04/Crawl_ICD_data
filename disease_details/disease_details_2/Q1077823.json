@@ -1,0 +1,25 @@
+{
+    "name": "somnolence",
+    "qid": "Q1077823",
+    "icd_10": "R40.0",
+    "description": "state of strong desire for sleep, or sleeping for unusually long periods",
+    "aliases": [
+        "drowsiness",
+        "sleepiness"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Zu%20sp%C3%A4ter%20Stunde%201875.jpg",
+    "url": "https://en.wikipedia.org/wiki/Somnolence",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "wish",
+                "qid": "Q241625",
+                "url": "https://en.wikipedia.org/wiki/Wish"
+            },
+            {
+                "name": "neurological and physiological symptom",
+                "qid": "Q99860490"
+            }
+        ]
+    }
+}

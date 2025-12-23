@@ -1,0 +1,95 @@
+{
+    "name": "sleep disorder",
+    "qid": "Q177190",
+    "icd_10": "F51",
+    "description": "disease of mental health that involves disruption of sleep patterns",
+    "aliases": [
+        "non-organic sleep disorder",
+        "sleep disorders",
+        "somnipathy"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Sleep_disorder",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            },
+            {
+                "name": "sleep medicine",
+                "qid": "Q744029",
+                "url": "https://en.wikipedia.org/wiki/Sleep_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "mental disorder",
+                "qid": "Q12135",
+                "url": "https://en.wikipedia.org/wiki/Mental_disorder"
+            },
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "clinical sign",
+                "qid": "Q1441305",
+                "url": "https://en.wikipedia.org/wiki/Clinical_sign"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "quazepam",
+                "qid": "Q3927403",
+                "url": "https://en.wikipedia.org/wiki/Quazepam"
+            },
+            {
+                "name": "flutoprazepam",
+                "qid": "Q5462983",
+                "url": "https://en.wikipedia.org/wiki/Flutoprazepam"
+            },
+            {
+                "name": "perlapine",
+                "qid": "Q27260239",
+                "url": "https://en.wikipedia.org/wiki/Perlapine"
+            },
+            {
+                "name": "zolpidem",
+                "qid": "Q218842",
+                "url": "https://en.wikipedia.org/wiki/Zolpidem"
+            },
+            {
+                "name": "zopiclone",
+                "qid": "Q220426",
+                "url": "https://en.wikipedia.org/wiki/Zopiclone"
+            },
+            {
+                "name": "phenobarbital",
+                "qid": "Q407241",
+                "url": "https://en.wikipedia.org/wiki/Phenobarbital"
+            },
+            {
+                "name": "melperone",
+                "qid": "Q415972",
+                "url": "https://en.wikipedia.org/wiki/Melperone"
+            },
+            {
+                "name": "phenibut",
+                "qid": "Q419559",
+                "url": "https://en.wikipedia.org/wiki/Phenibut"
+            },
+            {
+                "name": "(R)-zopiclone",
+                "qid": "Q27124198"
+            }
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "name": "perineurioma",
+    "qid": "Q1314058",
+    "icd_10": "C47.9",
+    "description": "benign nerve tumor",
+    "aliases": [
+        "Perineurioma",
+        "perineurioma (disorder)",
+        "perineurioma (morphologic abnormality)",
+        "soft tissue perineurioma",
+        "soft tissue Perineurioma"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "nerve sheath neoplasms",
+                "qid": "Q11590740",
+                "url": "https://en.wikipedia.org/wiki/Nerve_sheath_tumor"
+            }
+        ]
+    }
+}

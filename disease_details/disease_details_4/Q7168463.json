@@ -1,0 +1,28 @@
+{
+    "name": "Perifolliculitis capitis abscedens et suffodiens",
+    "qid": "Q7168463",
+    "icd_10": "L66.3",
+    "description": "medical condition",
+    "aliases": [
+        "dissecting cellulitis of the scalp",
+        "Dissecting Cellulitis of the Scalp",
+        "PERIFOLLICULITIS CAPITIS ABSCEDENS ET SUFFODIENS, FAMILIAL"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Dissecting_cellulitis_of_the_scalp",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "subcutaneous tissue disease",
+                "qid": "Q55788601"
+            }
+        ]
+    }
+}

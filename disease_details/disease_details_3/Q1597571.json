@@ -1,0 +1,35 @@
+{
+    "name": "cutaneous larva migrans",
+    "qid": "Q1597571",
+    "icd_10": "B76.9",
+    "description": "medical condition",
+    "aliases": [
+        "CLM",
+        "Creeping eruption",
+        "Cutaneous larva migrans;CLM",
+        "Dew itch",
+        "Ground itch"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cutaneous%20larva%20migrans%201.jpg",
+    "url": "https://en.wikipedia.org/wiki/Cutaneous_larva_migrans",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "parasitic helminthiasis infectious disease",
+                "qid": "Q578994",
+                "url": "https://en.wikipedia.org/wiki/Helminthiasis"
+            },
+            {
+                "name": "parasitic skin disease",
+                "qid": "Q54911414"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

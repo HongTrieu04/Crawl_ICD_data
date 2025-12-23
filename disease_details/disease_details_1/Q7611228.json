@@ -1,0 +1,24 @@
+{
+    "name": "Stereoblindness",
+    "qid": "Q7611228",
+    "icd_10": "H53.34",
+    "description": "medical condition resulting in no depth perception",
+    "aliases": [
+        "stereo blindness"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Stereoblindness",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "visual impairment",
+                "qid": "Q737460",
+                "url": "https://en.wikipedia.org/wiki/Visual_impairment"
+            },
+            {
+                "name": "binocular vision disease",
+                "qid": "Q18554359"
+            }
+        ]
+    }
+}

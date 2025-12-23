@@ -1,0 +1,30 @@
+{
+    "name": "toddler's fracture",
+    "qid": "Q7812743",
+    "icd_10": "S82.3",
+    "description": "fracture of the distal part of the tibia in toddlers and other young children",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tibfracture.png",
+    "url": "https://en.wikipedia.org/wiki/Toddler%27s_fracture",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "orthopedics",
+                "qid": "Q216685",
+                "url": "https://en.wikipedia.org/wiki/Orthopedic_surgery"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "tibia fracture",
+                "qid": "Q3080298",
+                "url": "https://en.wikipedia.org/wiki/Crus_fracture"
+            },
+            {
+                "name": "child bone fracture",
+                "qid": "Q5097825",
+                "url": "https://en.wikipedia.org/wiki/Child_bone_fracture"
+            }
+        ]
+    }
+}

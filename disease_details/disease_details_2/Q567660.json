@@ -1,0 +1,142 @@
+{
+    "name": "St. Louis encephalitis",
+    "qid": "Q567660",
+    "icd_10": "A83.3",
+    "description": "human disease",
+    "aliases": [
+        "Saint Louis encephalitis virus",
+        "Neuroinvasive St. Louis encephalitis virus infection",
+        "Saint Louis encephalitis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/St.%20Louis%20Encephalitis%20%28SLE%29%20virus%20EM%20PHIL%201871%20lores.JPG",
+    "url": "https://en.wikipedia.org/wiki/Saint_Louis_encephalitis",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            },
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "vomiting",
+                "qid": "Q127076",
+                "url": "https://en.wikipedia.org/wiki/Vomiting"
+            },
+            {
+                "name": "mental confusion",
+                "qid": "Q557945",
+                "url": "https://en.wikipedia.org/wiki/Confusion"
+            },
+            {
+                "name": "coma",
+                "qid": "Q159557",
+                "url": "https://en.wikipedia.org/wiki/Coma"
+            },
+            {
+                "name": "nausea",
+                "qid": "Q186889",
+                "url": "https://en.wikipedia.org/wiki/Nausea"
+            },
+            {
+                "name": "myalgia",
+                "qid": "Q474959",
+                "url": "https://en.wikipedia.org/wiki/Myalgia"
+            },
+            {
+                "name": "vertigo",
+                "qid": "Q10686316",
+                "url": "https://en.wikipedia.org/wiki/Vertigo"
+            },
+            {
+                "name": "meningism signs",
+                "qid": "Q12122651"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "viral infectious disease",
+                "qid": "Q1928978",
+                "url": "https://en.wikipedia.org/wiki/Viral_disease"
+            },
+            {
+                "name": "viral encephalitis",
+                "qid": "Q3053951",
+                "url": "https://en.wikipedia.org/wiki/Viral_encephalitis"
+            },
+            {
+                "name": "infection of the central nervous system",
+                "qid": "Q4316437",
+                "url": "https://en.wikipedia.org/wiki/List_of_infections_of_the_central_nervous_system"
+            },
+            {
+                "name": "mosquito-borne disease",
+                "qid": "Q6916469",
+                "url": "https://en.wikipedia.org/wiki/Mosquito-borne_disease"
+            },
+            {
+                "name": "arbovirosis",
+                "qid": "Q2859732"
+            },
+            {
+                "name": "flavivirus infectious disease",
+                "qid": "Q19001421"
+            },
+            {
+                "name": "infectious disease with epilepsy",
+                "qid": "Q55785635"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "spinal cord",
+                "qid": "Q9606",
+                "url": "https://en.wikipedia.org/wiki/Spinal_cord"
+            },
+            {
+                "name": "human brain",
+                "qid": "Q492038",
+                "url": "https://en.wikipedia.org/wiki/Human_brain"
+            },
+            {
+                "name": "meninges",
+                "qid": "Q268930",
+                "url": "https://en.wikipedia.org/wiki/Meninges"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "diuretic",
+                "qid": "Q200656",
+                "url": "https://en.wikipedia.org/wiki/Diuretic"
+            },
+            {
+                "name": "neuroprotection",
+                "qid": "Q1981368",
+                "url": "https://en.wikipedia.org/wiki/Neuroprotection"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "St. Louis encephalitis virus",
+                "qid": "Q19838321"
+            }
+        ]
+    }
+}

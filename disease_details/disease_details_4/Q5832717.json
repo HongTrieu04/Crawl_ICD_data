@@ -1,0 +1,23 @@
+{
+    "name": "drug-induced lung disease",
+    "qid": "Q5832717",
+    "icd_10": "J70.4",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "pulmonary toxicity",
+                "qid": "Q2100012",
+                "url": "https://en.wikipedia.org/wiki/Pulmonary_toxicity"
+            },
+            {
+                "name": "adverse drug reaction",
+                "qid": "Q45959",
+                "url": "https://en.wikipedia.org/wiki/Adverse_drug_reaction"
+            }
+        ]
+    }
+}

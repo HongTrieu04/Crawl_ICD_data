@@ -1,0 +1,19 @@
+{
+    "name": "drummer's palsy",
+    "qid": "Q1468892",
+    "icd_10": "M66.2",
+    "description": null,
+    "aliases": [
+        "Spontaneous rupture of the extensor pollicis longus"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "hand disease",
+                "qid": "Q12628098"
+            }
+        ]
+    }
+}

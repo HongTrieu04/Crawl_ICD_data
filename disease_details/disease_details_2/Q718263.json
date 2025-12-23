@@ -1,0 +1,45 @@
+{
+    "name": "logorrhea",
+    "qid": "Q718263",
+    "icd_10": "R47.8",
+    "description": "extreme and overwhelming prolixity, wordiness",
+    "aliases": [
+        "logorrhoea",
+        "verbal diarrhea"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Logorrhea_(psychology)",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychology",
+                "qid": "Q9418",
+                "url": "https://en.wikipedia.org/wiki/Psychology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "compulsive talking",
+                "qid": "Q5157235",
+                "url": "https://en.wikipedia.org/wiki/Compulsive_talking"
+            },
+            {
+                "name": "speech disorder",
+                "qid": "Q1282114",
+                "url": "https://en.wikipedia.org/wiki/Speech_disorder"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "lithium",
+                "qid": "Q568",
+                "url": "https://en.wikipedia.org/wiki/Lithium"
+            },
+            {
+                "name": "antipsychotics",
+                "qid": "Q208144",
+                "url": "https://en.wikipedia.org/wiki/Antipsychotic"
+            }
+        ]
+    }
+}

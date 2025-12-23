@@ -1,0 +1,28 @@
+{
+    "name": "lichen striatus",
+    "qid": "Q6543217",
+    "icd_10": "L44.2",
+    "description": "rare skin condition, seen primarily in children, characterized by self-limiting eruption of small, scaly papules.",
+    "aliases": [
+        "blaschko linear acquired inflammatory skin eruption",
+        "linear lichenoid dermatosis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Lichen_striatus",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "lichenoid eruption",
+                "qid": "Q6543234",
+                "url": "https://en.wikipedia.org/wiki/Lichenoid_eruption"
+            }
+        ]
+    }
+}

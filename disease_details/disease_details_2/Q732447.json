@@ -1,0 +1,35 @@
+{
+    "name": "Mittelschmerz",
+    "qid": "Q732447",
+    "icd_10": "N94",
+    "description": "lower abdominal and pelvic pain that occurs roughly midway through a woman's menstrual cycle",
+    "aliases": [
+        "midcycle pain",
+        "ovulation pain"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Mittelschmerz",
+    "details": {
+        "Drug used for treatment": [
+            {
+                "name": "ibuprofen",
+                "qid": "Q186969",
+                "url": "https://en.wikipedia.org/wiki/Ibuprofen"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gynaecology",
+                "qid": "Q1221899",
+                "url": "https://en.wikipedia.org/wiki/Gynaecology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "pelvic pain",
+                "qid": "Q7161805",
+                "url": "https://en.wikipedia.org/wiki/Pelvic_pain"
+            }
+        ]
+    }
+}

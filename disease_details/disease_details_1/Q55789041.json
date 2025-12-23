@@ -1,0 +1,26 @@
+{
+    "name": "intestinal malformation",
+    "qid": "Q55789041",
+    "icd_10": "Q43.9",
+    "description": "human disease",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "intestinal disease",
+                "qid": "Q3055380",
+                "url": "https://en.wikipedia.org/wiki/Enteropathy"
+            },
+            {
+                "name": "digestive system abnormality",
+                "qid": "Q54911721"
+            },
+            {
+                "name": "rare genetic developmental defect during embryogenesis",
+                "qid": "Q55785846"
+            }
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "name": "enteritis",
+    "qid": "Q854353",
+    "icd_10": "A02",
+    "description": "intestinal inflammatory disease",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Enteritis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "intestinal infectious disease",
+                "qid": "Q2970970",
+                "url": "https://en.wikipedia.org/wiki/Intestinal_infectious_diseases"
+            },
+            {
+                "name": "inflammation",
+                "qid": "Q101991",
+                "url": "https://en.wikipedia.org/wiki/Inflammation"
+            },
+            {
+                "name": "digestive sign",
+                "qid": "Q54926352"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "ceftriaxone",
+                "qid": "Q421713",
+                "url": "https://en.wikipedia.org/wiki/Ceftriaxone"
+            }
+        ]
+    }
+}

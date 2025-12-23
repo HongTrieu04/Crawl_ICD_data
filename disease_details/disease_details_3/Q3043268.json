@@ -1,0 +1,33 @@
+{
+    "name": "retinal degeneration",
+    "qid": "Q3043268",
+    "icd_10": "H35.4",
+    "description": "retinal disease that is characterized by deterioration of the retina caused by the progressive and eventual death of the cells of the retina",
+    "aliases": [
+        "degeneration of retina",
+        "retina degeneration",
+        "Retina, Degeneration Of"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "retinal disease",
+                "qid": "Q550455",
+                "url": "https://en.wikipedia.org/wiki/Retinopathy"
+            },
+            {
+                "name": "eye degenerative disease",
+                "qid": "Q18558225"
+            }
+        ]
+    }
+}

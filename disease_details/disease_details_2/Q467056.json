@@ -1,0 +1,29 @@
+{
+    "name": "pearly penile papules",
+    "qid": "Q467056",
+    "icd_10": "D29.0",
+    "description": "small protuberances that may form on the ridge of the glans of the human penis",
+    "aliases": [
+        "PPP",
+        "hirsuties papillaris coronae glandis",
+        "hirsutoid papillomas",
+        "papillary hirsutism of the corona of the glans"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hirsuties%20papillaris%20coronae%20glandis.jpg",
+    "url": "https://en.wikipedia.org/wiki/Pearly_penile_papules",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "benign neoplasm of penis",
+                "qid": "Q55789642"
+            }
+        ]
+    }
+}

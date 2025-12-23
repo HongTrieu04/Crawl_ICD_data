@@ -1,0 +1,31 @@
+{
+    "name": "dwarfism",
+    "qid": "Q194101",
+    "icd_10": "E45.0",
+    "description": "condition affecting a person or animal short in stature, caused by slow or delayed growth",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ethan%20Crough%2C%20male%20dwarf.jpg",
+    "url": "https://en.wikipedia.org/wiki/Dwarfism",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "short stature",
+                "qid": "Q7502090",
+                "url": "https://en.wikipedia.org/wiki/Short_stature"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "growth disorder",
+                "qid": "Q2538477"
+            }
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "name": "palatal neoplasm",
+    "qid": "Q55212322",
+    "icd_10": "C05",
+    "description": "tumor or cancer of the palate including those of the hard palate, soft palate and uvula",
+    "aliases": [
+        "Neoplasm of Palate",
+        "neoplasm of secondary palate",
+        "Neoplasm of the Palate",
+        "palatal neoplasms",
+        "Palate Neoplasm",
+        "Palate Tumor",
+        "secondary palate neoplasm (disease)",
+        "secondary palate tumor",
+        "Tumor of Palate",
+        "tumor of secondary palate",
+        "Tumor of the Palate"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Anatomical location": [
+            {
+                "name": "palate",
+                "qid": "Q172605",
+                "url": "https://en.wikipedia.org/wiki/Palate"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "mouth cancer",
+                "qid": "Q1143025",
+                "url": "https://en.wikipedia.org/wiki/Oral_cancer"
+            },
+            {
+                "name": "oral cavity neoplasm",
+                "qid": "Q55789538"
+            }
+        ]
+    }
+}

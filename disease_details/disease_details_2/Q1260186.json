@@ -1,0 +1,40 @@
+{
+    "name": "hepatosplenomegaly",
+    "qid": "Q1260186",
+    "icd_10": "R16.2",
+    "description": "simultaneous enlargement of both the liver (hepatomegaly) and the spleen (splenomegaly)",
+    "aliases": [
+        "HSM"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Splenomegalie%20bei%20CLL%20%28labeled%29.jpg",
+    "url": "https://en.wikipedia.org/wiki/Hepatosplenomegaly",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "hepatomegaly",
+                "qid": "Q1362864",
+                "url": "https://en.wikipedia.org/wiki/Hepatomegaly"
+            },
+            {
+                "name": "splenomegaly",
+                "qid": "Q1129121",
+                "url": "https://en.wikipedia.org/wiki/Splenomegaly"
+            },
+            {
+                "name": "liver symptom",
+                "qid": "Q102186501"
+            },
+            {
+                "name": "spleen symptom",
+                "qid": "Q102187499"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ]
+    }
+}

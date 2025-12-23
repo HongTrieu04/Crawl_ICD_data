@@ -1,0 +1,48 @@
+{
+    "name": "cranial trauma",
+    "qid": "Q2920572",
+    "icd_10": "S09",
+    "description": "traumatic injuries involving the cranium and intracranial structures",
+    "aliases": [
+        "head injury",
+        "cranial injury",
+        "Craniocerebral Trauma",
+        "head jarring",
+        "head trauma",
+        "injury to the head"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Panic%20attack%20or%20head%20injury%202686185.svg",
+    "url": "https://en.wikipedia.org/wiki/Head_injury",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurosurgery",
+                "qid": "Q188449",
+                "url": "https://en.wikipedia.org/wiki/Neurosurgery"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "injury in humans",
+                "qid": "Q193078",
+                "url": "https://en.wikipedia.org/wiki/Injury_in_humans"
+            },
+            {
+                "name": "major trauma",
+                "qid": "Q1064904",
+                "url": "https://en.wikipedia.org/wiki/Major_trauma"
+            },
+            {
+                "name": "head and neck disease",
+                "qid": "Q55789477"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "mannitol hexanitrate",
+                "qid": "Q1890796",
+                "url": "https://en.wikipedia.org/wiki/Mannitol_hexanitrate"
+            }
+        ]
+    }
+}

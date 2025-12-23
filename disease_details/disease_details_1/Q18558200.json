@@ -1,0 +1,28 @@
+{
+    "name": "vitreous abscess",
+    "qid": "Q18558200",
+    "icd_10": "H44.0",
+    "description": "Human disease",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "vitreous disease",
+                "qid": "Q18558199"
+            },
+            {
+                "name": "purulent endophthalmitis",
+                "qid": "Q18558202"
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "name": "hyperopia",
+    "qid": "Q177254",
+    "icd_10": "H52.0",
+    "description": "visual defect which causes to see the far objects clearly and near objects unclearly",
+    "aliases": [
+        "far-sightedness",
+        "hypermetropia"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hypermetropia.svg",
+    "url": "https://en.wikipedia.org/wiki/Farsightedness",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "refractive error",
+                "qid": "Q470427",
+                "url": "https://en.wikipedia.org/wiki/Refractive_error"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            },
+            {
+                "name": "optometry",
+                "qid": "Q618211",
+                "url": "https://en.wikipedia.org/wiki/Optometry"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "spherical lens",
+                "qid": "Q89705203"
+            }
+        ]
+    }
+}

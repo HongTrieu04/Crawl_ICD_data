@@ -1,0 +1,27 @@
+{
+    "name": "Levocardia",
+    "qid": "Q6535763",
+    "icd_10": "Q24.1",
+    "description": "condition where the heart is in the correct anatomic position but some or all of the other thoracoabdominal viscera are in the opposite lateral orientation",
+    "aliases": [
+        "Levocardia-situs inversus"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Levocardia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "congenital heart disease",
+                "qid": "Q939364",
+                "url": "https://en.wikipedia.org/wiki/Congenital_heart_defect"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ]
+    }
+}

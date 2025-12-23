@@ -1,0 +1,29 @@
+{
+    "name": "Analgesic nephropathy",
+    "qid": "Q120062",
+    "icd_10": "N14.0",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Analgesic_nephropathy",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "kidney disease",
+                "qid": "Q1054718",
+                "url": "https://en.wikipedia.org/wiki/Kidney_disease"
+            },
+            {
+                "name": "nephrotoxicity",
+                "qid": "Q1468324",
+                "url": "https://en.wikipedia.org/wiki/Nephrotoxicity"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "Nephrology",
+                "qid": "Q15750101"
+            }
+        ]
+    }
+}

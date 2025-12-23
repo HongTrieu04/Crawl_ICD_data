@@ -1,0 +1,35 @@
+{
+    "name": "hydrops fetalis",
+    "qid": "Q1679678",
+    "icd_10": "P56",
+    "description": "abnormal accumulation of fluid in two or more fetal compartments",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hydrops_fetalis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "obstetrics and gynaecology",
+                "qid": "Q80015",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics_and_gynaecology"
+            },
+            {
+                "name": "immunology",
+                "qid": "Q101929",
+                "url": "https://en.wikipedia.org/wiki/Immunology"
+            },
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "fetal erythroblastosis",
+                "qid": "Q743545",
+                "url": "https://en.wikipedia.org/wiki/Hemolytic_disease_of_the_newborn"
+            }
+        ]
+    }
+}

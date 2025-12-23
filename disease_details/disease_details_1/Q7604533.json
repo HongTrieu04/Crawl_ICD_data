@@ -1,0 +1,25 @@
+{
+    "name": "status migrainosus",
+    "qid": "Q7604533",
+    "icd_10": "G43.2",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Status_migrainosus",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "migraine",
+                "qid": "Q133823",
+                "url": "https://en.wikipedia.org/wiki/Migraine"
+            }
+        ]
+    }
+}

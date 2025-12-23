@@ -1,0 +1,40 @@
+{
+    "name": "cavernous sinus thrombosis",
+    "qid": "Q4463723",
+    "icd_10": "G08",
+    "description": "Human disease",
+    "aliases": [
+        "Thrombosis of cavernous venous sinus",
+        "Thrombosis of cavernous venous sinus (disorder)"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gray571.png",
+    "url": "https://en.wikipedia.org/wiki/Cavernous_sinus_thrombosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "cerebral venous sinus thrombosis",
+                "qid": "Q1428132",
+                "url": "https://en.wikipedia.org/wiki/Cerebral_venous_sinus_thrombosis"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "cavernous sinus",
+                "qid": "Q1457751",
+                "url": "https://en.wikipedia.org/wiki/Cavernous_sinus"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ]
+    }
+}

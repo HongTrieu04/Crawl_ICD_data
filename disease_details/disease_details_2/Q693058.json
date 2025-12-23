@@ -1,0 +1,27 @@
+{
+    "name": "chest pain",
+    "qid": "Q693058",
+    "icd_10": "R07.4",
+    "description": "discomfort or pain felt anywhere along the front of the body between the neck and upper abdomen",
+    "aliases": [
+        "Chest Pains"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Chest_pain",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "pain",
+                "qid": "Q81938",
+                "url": "https://en.wikipedia.org/wiki/Pain"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "thorax",
+                "qid": "Q9645",
+                "url": "https://en.wikipedia.org/wiki/Thorax"
+            }
+        ]
+    }
+}

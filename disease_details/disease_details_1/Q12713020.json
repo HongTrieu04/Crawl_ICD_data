@@ -1,0 +1,18 @@
+{
+    "name": "2013 Swansea measles epidemic",
+    "qid": "Q12713020",
+    "icd_10": "B05",
+    "description": "Measles epidemic in Wales, UK",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/2013_Swansea_measles_epidemic",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

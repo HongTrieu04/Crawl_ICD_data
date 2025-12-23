@@ -1,0 +1,36 @@
+{
+    "name": "dengue hemorrhagic fever",
+    "qid": "Q18554268",
+    "icd_10": "A97.2",
+    "description": "human disease, virulent form of dengue characterized by thrombocytopenia and an increase in vascular permeability",
+    "aliases": [
+        "DHF",
+        "Dengue haemorrhagic fever",
+        "severe dengue"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "dengue fever",
+                "qid": "Q30953",
+                "url": "https://en.wikipedia.org/wiki/Dengue_fever"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "thrombocytopenia",
+                "qid": "Q585285",
+                "url": "https://en.wikipedia.org/wiki/Thrombocytopenia"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

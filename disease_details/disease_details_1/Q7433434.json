@@ -1,0 +1,27 @@
+{
+    "name": "Sciatic nerve injury",
+    "qid": "Q7433434",
+    "icd_10": "S74.0",
+    "description": null,
+    "aliases": [
+        "ischiadic"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Sciatic_nerve_injury",
+    "details": {
+        "Anatomical location": [
+            {
+                "name": "sciatic nerve",
+                "qid": "Q307869",
+                "url": "https://en.wikipedia.org/wiki/Sciatic_nerve"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "nerve injury",
+                "qid": "Q2945973",
+                "url": "https://en.wikipedia.org/wiki/Nerve_injury"
+            }
+        ]
+    }
+}

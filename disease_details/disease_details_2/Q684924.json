@@ -1,0 +1,45 @@
+{
+    "name": "rheumatism",
+    "qid": "Q684924",
+    "icd_10": "I05",
+    "description": "human disease",
+    "aliases": [
+        "rheumatic disease",
+        "rheumatic diseases",
+        "rheumatic disorder"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Rheumatism",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "connective tissue disease",
+                "qid": "Q1779300",
+                "url": "https://en.wikipedia.org/wiki/Connective_tissue_disease"
+            },
+            {
+                "name": "autoimmune disease of musculoskeletal system",
+                "qid": "Q18553609"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "connective tissue",
+                "qid": "Q25615",
+                "url": "https://en.wikipedia.org/wiki/Connective_tissue"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ]
+    }
+}

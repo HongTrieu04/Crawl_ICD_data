@@ -1,0 +1,33 @@
+{
+    "name": "small fiber peripheral neuropathy",
+    "qid": "Q2642518",
+    "icd_10": "G63.3",
+    "description": "small Fiber",
+    "aliases": [
+        "EDS (Euler Danlos Syndrome), associated with."
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Small_fiber_neuropathy",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "peripheral neuropathy",
+                "qid": "Q945238",
+                "url": "https://en.wikipedia.org/wiki/Peripheral_neuropathy"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "chronic neuropathic pain",
+                "qid": "Q58490835"
+            }
+        ]
+    }
+}

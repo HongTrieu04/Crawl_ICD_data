@@ -1,0 +1,33 @@
+{
+    "name": "Pityriasis alba",
+    "qid": "Q766511",
+    "icd_10": "L30.5",
+    "description": "human disease",
+    "aliases": [
+        "pityriasis alba",
+        "pityriasis streptogenes"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pityriasis_alba",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "pityriasis",
+                "qid": "Q2097389",
+                "url": "https://en.wikipedia.org/wiki/Pityriasis"
+            },
+            {
+                "name": "hypopigmentation",
+                "qid": "Q1291366",
+                "url": "https://en.wikipedia.org/wiki/Hypopigmentation"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ]
+    }
+}

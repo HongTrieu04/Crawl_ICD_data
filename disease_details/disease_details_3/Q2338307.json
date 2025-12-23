@@ -1,0 +1,34 @@
+{
+    "name": "depersonalization disorder",
+    "qid": "Q2338307",
+    "icd_10": "F48.1",
+    "description": "dissociative disorder in which the sufferer is affected by persistent or recurrent feelings of depersonalization and/or derealization",
+    "aliases": [
+        "depersonalization-derealization syndrome",
+        "depersonalization/derealization disorder",
+        "neurotic derealization"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Depersonalization-derealization_disorder",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "depersonalization",
+                "qid": "Q83177",
+                "url": "https://en.wikipedia.org/wiki/Depersonalization"
+            },
+            {
+                "name": "dissociative disorder",
+                "qid": "Q2627467",
+                "url": "https://en.wikipedia.org/wiki/Dissociative_disorder"
+            }
+        ]
+    }
+}

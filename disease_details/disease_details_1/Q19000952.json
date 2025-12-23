@@ -1,0 +1,22 @@
+{
+    "name": "malformation of placenta",
+    "qid": "Q19000952",
+    "icd_10": "O43.1",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete malformation of placenta",
+        "Placenta Malformation",
+        "Variation of placenta form"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "placenta disease",
+                "qid": "Q7200296",
+                "url": "https://en.wikipedia.org/wiki/Placental_disease"
+            }
+        ]
+    }
+}

@@ -1,0 +1,194 @@
+{
+    "name": "hyperammonemia",
+    "qid": "Q1640868",
+    "icd_10": "E72.2",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Hyperammonemia",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            },
+            {
+                "name": "vomiting",
+                "qid": "Q127076",
+                "url": "https://en.wikipedia.org/wiki/Vomiting"
+            },
+            {
+                "name": "mental confusion",
+                "qid": "Q557945",
+                "url": "https://en.wikipedia.org/wiki/Confusion"
+            },
+            {
+                "name": "lethargy",
+                "qid": "Q15637420",
+                "url": "https://en.wikipedia.org/wiki/Lethargy"
+            },
+            {
+                "name": "slurred speech",
+                "qid": "Q21117191"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "β-lactulose",
+                "qid": "Q422689",
+                "url": "https://en.wikipedia.org/wiki/Lactulose"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "multiple myeloma",
+                "qid": "Q467635",
+                "url": "https://en.wikipedia.org/wiki/Multiple_myeloma"
+            },
+            {
+                "name": "cystic fibrosis",
+                "qid": "Q178194",
+                "url": "https://en.wikipedia.org/wiki/Cystic_fibrosis"
+            },
+            {
+                "name": "topiramate",
+                "qid": "Q221174",
+                "url": "https://en.wikipedia.org/wiki/Topiramate"
+            },
+            {
+                "name": "valproic acid",
+                "qid": "Q240642",
+                "url": "https://en.wikipedia.org/wiki/Valproate"
+            },
+            {
+                "name": "carbamazepin",
+                "qid": "Q410412",
+                "url": "https://en.wikipedia.org/wiki/Carbamazepine"
+            },
+            {
+                "name": "alpha-1-antitrypsin deficiency",
+                "qid": "Q622437",
+                "url": "https://en.wikipedia.org/wiki/Alpha-1_antitrypsin_deficiency"
+            },
+            {
+                "name": "biliary atresia",
+                "qid": "Q659033",
+                "url": "https://en.wikipedia.org/wiki/Biliary_atresia"
+            },
+            {
+                "name": "Reye syndrome",
+                "qid": "Q826103",
+                "url": "https://en.wikipedia.org/wiki/Reye_syndrome"
+            },
+            {
+                "name": "argininemia",
+                "qid": "Q890367",
+                "url": "https://en.wikipedia.org/wiki/Argininemia"
+            },
+            {
+                "name": "acute leukemia",
+                "qid": "Q976388",
+                "url": "https://en.wikipedia.org/wiki/Acute_leukemia"
+            },
+            {
+                "name": "hepatotoxicity",
+                "qid": "Q1349821",
+                "url": "https://en.wikipedia.org/wiki/Hepatotoxicity"
+            },
+            {
+                "name": "argininosuccinic aciduria",
+                "qid": "Q1654860",
+                "url": "https://en.wikipedia.org/wiki/Argininosuccinic_aciduria"
+            },
+            {
+                "name": "portal vein thrombosis",
+                "qid": "Q1704044",
+                "url": "https://en.wikipedia.org/wiki/Portal_vein_thrombosis"
+            },
+            {
+                "name": "viral hepatitis",
+                "qid": "Q1983841",
+                "url": "https://en.wikipedia.org/wiki/Viral_hepatitis"
+            },
+            {
+                "name": "sulfadiazine",
+                "qid": "Q2555060",
+                "url": "https://en.wikipedia.org/wiki/Sulfadiazine"
+            },
+            {
+                "name": "asphyxia neonatorum",
+                "qid": "Q2694437",
+                "url": "https://en.wikipedia.org/wiki/Perinatal_asphyxia"
+            },
+            {
+                "name": "ornithine carbamoyltransferase deficiency",
+                "qid": "Q3043161",
+                "url": "https://en.wikipedia.org/wiki/Ornithine_transcarbamylase_deficiency"
+            },
+            {
+                "name": "neonatal herpes simplex",
+                "qid": "Q3134326",
+                "url": "https://en.wikipedia.org/wiki/Neonatal_herpes"
+            },
+            {
+                "name": "klebsiellosis",
+                "qid": "Q3197774",
+                "url": "https://en.wikipedia.org/wiki/Klebsiella_pneumonia"
+            },
+            {
+                "name": "isovaleric acidemia",
+                "qid": "Q3278042",
+                "url": "https://en.wikipedia.org/wiki/Isovaleric_acidemia"
+            },
+            {
+                "name": "carbamoyl phosphate synthetase I deficiency disease",
+                "qid": "Q5037834",
+                "url": "https://en.wikipedia.org/wiki/Carbamoyl_phosphate_synthetase_I_deficiency"
+            },
+            {
+                "name": "ischemic hepatitis",
+                "qid": "Q6079228",
+                "url": "https://en.wikipedia.org/wiki/Ischemic_hepatitis"
+            },
+            {
+                "name": "Congenital lactic acidosis",
+                "qid": "Q24975705",
+                "url": "https://en.wikipedia.org/wiki/Congenital_lactic_acidosis"
+            },
+            {
+                "name": "Escherichia coli infectious disease",
+                "qid": "Q4227886"
+            },
+            {
+                "name": "chronic hepatitis C",
+                "qid": "Q55779873"
+            },
+            {
+                "name": "chronic hepatitis B",
+                "qid": "Q55779876"
+            },
+            {
+                "name": "acyl-CoA dehydrogenase deficiency",
+                "qid": "Q55787302"
+            },
+            {
+                "name": "salicylate",
+                "qid": "Q57700917"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "amino acid metabolic disorder",
+                "qid": "Q18558086"
+            }
+        ]
+    }
+}

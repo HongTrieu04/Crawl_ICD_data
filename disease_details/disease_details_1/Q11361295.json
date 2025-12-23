@@ -1,0 +1,20 @@
+{
+    "name": "leg injury",
+    "qid": "Q11361295",
+    "icd_10": "T13",
+    "description": "injury involving the leg",
+    "aliases": [
+        "leg injuries"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "musculoskeletal injury",
+                "qid": "Q6940405",
+                "url": "https://en.wikipedia.org/wiki/Musculoskeletal_injury"
+            }
+        ]
+    }
+}

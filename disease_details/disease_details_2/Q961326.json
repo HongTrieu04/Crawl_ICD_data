@@ -1,0 +1,37 @@
+{
+    "name": "oliguria",
+    "qid": "Q961326",
+    "icd_10": "R34",
+    "description": "low output of urine",
+    "aliases": [
+        "anuria"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Oliguria",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "urology",
+                "qid": "Q105650",
+                "url": "https://en.wikipedia.org/wiki/Urology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "D-(-)-mannitol",
+                "qid": "Q407646",
+                "url": "https://en.wikipedia.org/wiki/Mannitol"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "urological symptom",
+                "qid": "Q2565950"
+            },
+            {
+                "name": "urination disorder",
+                "qid": "Q19000619"
+            }
+        ]
+    }
+}

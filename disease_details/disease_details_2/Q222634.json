@@ -1,0 +1,62 @@
+{
+    "name": "cleft lip and cleft palate",
+    "qid": "Q222634",
+    "icd_10": "Q37",
+    "description": "congenital malformations caused by the failure of embryonic structures of the lip and/or palate to fuse",
+    "aliases": [
+        "cleft lip",
+        "cheilopalatoschisis",
+        "cleft palate",
+        "cleft palate with cleft lip, unilateral, complete",
+        "cleft palate with cleft lip, unilateral, incomplete",
+        "Complete unilateral cleft palate with cleft lip (disorder)",
+        "incomplete unilateral cleft palate with cleft lip (disorder)",
+        "obsolete cheilopalatoschisis",
+        "orofacial cleft",
+        "Unilateral complete cleft palate with cleft lip",
+        "Unilateral complete cleft palate with cleft lip (disorder)",
+        "Unilateral incomplete cleft palate with cleft lip",
+        "Unilateral incomplete cleft palate with cleft lip (disorder)"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cleftlipandpalate.JPG",
+    "url": "https://en.wikipedia.org/wiki/Cleft_lip_and_cleft_palate",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "facial cleft",
+                "qid": "Q5428558",
+                "url": "https://en.wikipedia.org/wiki/Craniofacial_cleft"
+            },
+            {
+                "name": "syndrome",
+                "qid": "Q179630",
+                "url": "https://en.wikipedia.org/wiki/Syndrome"
+            },
+            {
+                "name": "congenital disorder",
+                "qid": "Q727096",
+                "url": "https://en.wikipedia.org/wiki/Birth_defect"
+            },
+            {
+                "name": "facial feature",
+                "qid": "Q18534278"
+            },
+            {
+                "name": "stomatognathic system abnormality",
+                "qid": "Q54945665"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

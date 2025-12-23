@@ -1,0 +1,48 @@
+{
+    "name": "Turner syndrome",
+    "qid": "Q202849",
+    "icd_10": "Q96",
+    "description": "chromosomal variation where a person is born with a 45X chromosome pattern rather than the typical 46XX",
+    "aliases": [
+        "Bonnevie-Ullrich syndrome",
+        "Bonnevie-Ullrich syndrome NOS",
+        "Bonnevie-Ullrich syndrome NOS (disorder)",
+        "Gonadal dysgenesis - Turner",
+        "Karyotype 45, X",
+        "Monosomy X",
+        "monosomy X syndrome",
+        "Turner syndrome (disorder)",
+        "Turner's syndrome",
+        "Turner's syndrome NOS",
+        "Turner's syndrome NOS (disorder)",
+        "Ullrich–Turner syndrome",
+        "XO syndrome"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/45%2CX.jpg",
+    "url": "https://en.wikipedia.org/wiki/Turner_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "gonadal dysgenesis",
+                "qid": "Q1332427",
+                "url": "https://en.wikipedia.org/wiki/Gonadal_dysgenesis"
+            },
+            {
+                "name": "X chromosome number anomaly with female phenotype",
+                "qid": "Q55786714"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

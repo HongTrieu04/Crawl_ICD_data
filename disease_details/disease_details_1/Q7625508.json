@@ -1,0 +1,257 @@
+{
+    "name": "strychnine poisoning",
+    "qid": "Q7625508",
+    "icd_10": "T65.1",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Strychnine_poisoning",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "arterial hypertension",
+                "qid": "Q41861",
+                "url": "https://en.wikipedia.org/wiki/Hypertension"
+            },
+            {
+                "name": "anxiety",
+                "qid": "Q154430",
+                "url": "https://en.wikipedia.org/wiki/Anxiety"
+            },
+            {
+                "name": "nausea",
+                "qid": "Q186889",
+                "url": "https://en.wikipedia.org/wiki/Nausea"
+            },
+            {
+                "name": "vomiting",
+                "qid": "Q127076",
+                "url": "https://en.wikipedia.org/wiki/Vomiting"
+            },
+            {
+                "name": "cardiac arrest",
+                "qid": "Q202837",
+                "url": "https://en.wikipedia.org/wiki/Cardiac_arrest"
+            },
+            {
+                "name": "cyanosis",
+                "qid": "Q192120",
+                "url": "https://en.wikipedia.org/wiki/Cyanosis"
+            },
+            {
+                "name": "tachycardia",
+                "qid": "Q209583",
+                "url": "https://en.wikipedia.org/wiki/Tachycardia"
+            },
+            {
+                "name": "hyperthermia",
+                "qid": "Q242165",
+                "url": "https://en.wikipedia.org/wiki/Hyperthermia"
+            },
+            {
+                "name": "psychomotor agitation",
+                "qid": "Q394129",
+                "url": "https://en.wikipedia.org/wiki/Psychomotor_agitation"
+            },
+            {
+                "name": "nystagmus",
+                "qid": "Q220989",
+                "url": "https://en.wikipedia.org/wiki/Nystagmus"
+            },
+            {
+                "name": "stiffness",
+                "qid": "Q569057",
+                "url": "https://en.wikipedia.org/wiki/Stiffness"
+            },
+            {
+                "name": "tachypnea",
+                "qid": "Q570920",
+                "url": "https://en.wikipedia.org/wiki/Tachypnea"
+            },
+            {
+                "name": "spasm",
+                "qid": "Q574360",
+                "url": "https://en.wikipedia.org/wiki/Spasm"
+            },
+            {
+                "name": "exophthalmos",
+                "qid": "Q684383",
+                "url": "https://en.wikipedia.org/wiki/Exophthalmos"
+            },
+            {
+                "name": "brain damage",
+                "qid": "Q720026",
+                "url": "https://en.wikipedia.org/wiki/Brain_injury"
+            },
+            {
+                "name": "respiratory failure",
+                "qid": "Q767485",
+                "url": "https://en.wikipedia.org/wiki/Respiratory_failure"
+            },
+            {
+                "name": "neck stiffness",
+                "qid": "Q841878",
+                "url": "https://en.wikipedia.org/wiki/Neck_stiffness"
+            },
+            {
+                "name": "convulsion",
+                "qid": "Q852376",
+                "url": "https://en.wikipedia.org/wiki/Convulsion"
+            },
+            {
+                "name": "rhabdomyolysis",
+                "qid": "Q917069",
+                "url": "https://en.wikipedia.org/wiki/Rhabdomyolysis"
+            },
+            {
+                "name": "trismus",
+                "qid": "Q936070",
+                "url": "https://en.wikipedia.org/wiki/Trismus"
+            },
+            {
+                "name": "leukocytosis",
+                "qid": "Q974869",
+                "url": "https://en.wikipedia.org/wiki/Leukocytosis"
+            },
+            {
+                "name": "kidney disease",
+                "qid": "Q1054718",
+                "url": "https://en.wikipedia.org/wiki/Kidney_disease"
+            },
+            {
+                "name": "mydriasis",
+                "qid": "Q1128283",
+                "url": "https://en.wikipedia.org/wiki/Mydriasis"
+            },
+            {
+                "name": "multiple organ dysfunction syndrome",
+                "qid": "Q1193870",
+                "url": "https://en.wikipedia.org/wiki/Multiple_organ_dysfunction_syndrome"
+            },
+            {
+                "name": "hyperreflexia",
+                "qid": "Q1429154",
+                "url": "https://en.wikipedia.org/wiki/Hyperreflexia"
+            },
+            {
+                "name": "metabolic acidosis",
+                "qid": "Q1598200",
+                "url": "https://en.wikipedia.org/wiki/Metabolic_acidosis"
+            },
+            {
+                "name": "tetanic contraction",
+                "qid": "Q1632123",
+                "url": "https://en.wikipedia.org/wiki/Tetanic_contraction"
+            },
+            {
+                "name": "hypervigilance",
+                "qid": "Q1641161",
+                "url": "https://en.wikipedia.org/wiki/Hypervigilance"
+            },
+            {
+                "name": "opisthotonus",
+                "qid": "Q1756015",
+                "url": "https://en.wikipedia.org/wiki/Opisthotonus"
+            },
+            {
+                "name": "myoglobinuria",
+                "qid": "Q1956682",
+                "url": "https://en.wikipedia.org/wiki/Myoglobinuria"
+            },
+            {
+                "name": "Risus sardonicus",
+                "qid": "Q2001556",
+                "url": "https://en.wikipedia.org/wiki/Risus_sardonicus"
+            },
+            {
+                "name": "muscle cramp",
+                "qid": "Q2006818",
+                "url": "https://en.wikipedia.org/wiki/Cramp"
+            },
+            {
+                "name": "respiratory acidosis",
+                "qid": "Q2145935",
+                "url": "https://en.wikipedia.org/wiki/Respiratory_acidosis"
+            },
+            {
+                "name": "diaphoresis",
+                "qid": "Q3026331",
+                "url": "https://en.wikipedia.org/wiki/Diaphoresis"
+            },
+            {
+                "name": "restlessness",
+                "qid": "Q10649843"
+            },
+            {
+                "name": "stiff facial muscle",
+                "qid": "Q21117520"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "renal dialysis",
+                "qid": "Q202301",
+                "url": "https://en.wikipedia.org/wiki/Kidney_dialysis"
+            },
+            {
+                "name": "phenobarbital",
+                "qid": "Q407241",
+                "url": "https://en.wikipedia.org/wiki/Phenobarbital"
+            },
+            {
+                "name": "diazepam",
+                "qid": "Q210402",
+                "url": "https://en.wikipedia.org/wiki/Diazepam"
+            },
+            {
+                "name": "arterial blood gas analysis",
+                "qid": "Q648497",
+                "url": "https://en.wikipedia.org/wiki/Arterial_blood_gas_test"
+            },
+            {
+                "name": "gastric lavage",
+                "qid": "Q1755116",
+                "url": "https://en.wikipedia.org/wiki/Gastric_lavage"
+            },
+            {
+                "name": "activated charcoal",
+                "qid": "Q2957662",
+                "url": "https://en.wikipedia.org/wiki/Activated_charcoal_(medication)"
+            },
+            {
+                "name": "fluid replacement",
+                "qid": "Q4529664",
+                "url": "https://en.wikipedia.org/wiki/Fluid_replacement"
+            },
+            {
+                "name": "electrolyte replacement",
+                "qid": "Q21756696"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "strychnine",
+                "qid": "Q194406",
+                "url": "https://en.wikipedia.org/wiki/Strychnine"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "emergency medicine",
+                "qid": "Q2861470",
+                "url": "https://en.wikipedia.org/wiki/Emergency_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "chemical hazard",
+                "qid": "Q21167512",
+                "url": "https://en.wikipedia.org/wiki/Chemical_hazard"
+            },
+            {
+                "name": "poisoning",
+                "qid": "Q114953"
+            }
+        ]
+    }
+}

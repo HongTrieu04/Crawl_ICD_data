@@ -1,0 +1,58 @@
+{
+    "name": "vaginitis",
+    "qid": "Q676191",
+    "icd_10": "N76.1",
+    "description": "Human disease",
+    "aliases": [
+        "vagina inflammation",
+        "vaginaitis",
+        "Vaginal Inflammation"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Vaginitis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "vaginal disease",
+                "qid": "Q18211693",
+                "url": "https://en.wikipedia.org/wiki/Vaginal_disease"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "sulfathiazole",
+                "qid": "Q408427",
+                "url": "https://en.wikipedia.org/wiki/Sulfathiazole"
+            },
+            {
+                "name": "chlorquinaldol",
+                "qid": "Q1645622",
+                "url": "https://en.wikipedia.org/wiki/Chlorquinaldol"
+            },
+            {
+                "name": "sulfabenzamide",
+                "qid": "Q7636176",
+                "url": "https://en.wikipedia.org/wiki/Sulfabenzamide"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gynaecology",
+                "qid": "Q1221899",
+                "url": "https://en.wikipedia.org/wiki/Gynaecology"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "inflammation",
+                "qid": "Q101991",
+                "url": "https://en.wikipedia.org/wiki/Inflammation"
+            }
+        ]
+    }
+}

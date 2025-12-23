@@ -1,0 +1,52 @@
+{
+    "name": "central nervous system vasculitis",
+    "qid": "Q191557",
+    "icd_10": "I67.7",
+    "description": "Human disease",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Cerebral_vasculitis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            },
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            },
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "vasculitis",
+                "qid": "Q644318",
+                "url": "https://en.wikipedia.org/wiki/Vasculitis"
+            },
+            {
+                "name": "central nervous system disease",
+                "qid": "Q5062122",
+                "url": "https://en.wikipedia.org/wiki/Central_nervous_system_disease"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "central nervous system",
+                "qid": "Q47273",
+                "url": "https://en.wikipedia.org/wiki/Central_nervous_system"
+            }
+        ]
+    }
+}

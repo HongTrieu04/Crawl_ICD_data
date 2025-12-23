@@ -1,0 +1,25 @@
+{
+    "name": "Pressure urticaria",
+    "qid": "Q7241740",
+    "icd_10": "L50.4",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pressure_urticaria",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "physical urticaria",
+                "qid": "Q7189630",
+                "url": "https://en.wikipedia.org/wiki/Physical_urticaria"
+            }
+        ]
+    }
+}

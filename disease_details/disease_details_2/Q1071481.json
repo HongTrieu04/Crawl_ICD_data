@@ -1,0 +1,24 @@
+{
+    "name": "Cheyne–Stokes respiration",
+    "qid": "Q1071481",
+    "icd_10": "R06.3",
+    "description": "symptom",
+    "aliases": [
+        "Cheyne-Stokes respiration"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cheyne-Stokes%20respiration%20no%20lang.svg",
+    "url": "https://en.wikipedia.org/wiki/Cheyne%E2%80%93Stokes_respiration",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "periodic breathing",
+                "qid": "Q7168631",
+                "url": "https://en.wikipedia.org/wiki/Periodic_breathing"
+            },
+            {
+                "name": "abnormal breathing",
+                "qid": "Q2056816"
+            }
+        ]
+    }
+}

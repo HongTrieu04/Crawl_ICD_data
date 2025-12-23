@@ -1,0 +1,21 @@
+{
+    "name": "Salivary gland hypoplasia",
+    "qid": "Q25099297",
+    "icd_10": "K11.0",
+    "description": "medical condition",
+    "aliases": [
+        "Atrophy of salivary gland",
+        "Salivary gland atrophy"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Salivary_gland_hypoplasia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "salivary gland disease",
+                "qid": "Q17152566",
+                "url": "https://en.wikipedia.org/wiki/Salivary_gland_disease"
+            }
+        ]
+    }
+}

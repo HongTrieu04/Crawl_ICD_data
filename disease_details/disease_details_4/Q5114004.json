@@ -1,0 +1,50 @@
+{
+    "name": "chronic traumatic encephalopathy",
+    "qid": "Q5114004",
+    "icd_10": "G93.8",
+    "description": "neurodegenerative disease caused by head injury",
+    "aliases": [
+        "CTE",
+        "dementia pugilistica",
+        "punch drunk syndrome",
+        "traumatic encephalopathy syndrome"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chronic%20Traumatic%20Encephalopathy.png",
+    "url": "https://en.wikipedia.org/wiki/Chronic_traumatic_encephalopathy",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            },
+            {
+                "name": "sports medicine",
+                "qid": "Q840545",
+                "url": "https://en.wikipedia.org/wiki/Sports_medicine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "tauopathy",
+                "qid": "Q2397106",
+                "url": "https://en.wikipedia.org/wiki/Tauopathy"
+            },
+            {
+                "name": "post-concussion syndrome",
+                "qid": "Q2581333",
+                "url": "https://en.wikipedia.org/wiki/Post-concussion_syndrome"
+            },
+            {
+                "name": "occupational disease",
+                "qid": "Q637816",
+                "url": "https://en.wikipedia.org/wiki/Occupational_disease"
+            },
+            {
+                "name": "neurodegeneration",
+                "qid": "Q1755122",
+                "url": "https://en.wikipedia.org/wiki/Neurodegenerative_disease"
+            }
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Letterer–Siwe disease",
+    "qid": "Q6533637",
+    "icd_10": "C96.0",
+    "description": "type of Langerhans cell histiocytosis typically present in children",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Letterer%E2%80%93Siwe_disease",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "pediatrics",
+                "qid": "Q123028",
+                "url": "https://en.wikipedia.org/wiki/Pediatrics"
+            },
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "thalidomide",
+                "qid": "Q203174",
+                "url": "https://en.wikipedia.org/wiki/Thalidomide"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "Langerhans-cell histiocytosis",
+                "qid": "Q374036",
+                "url": "https://en.wikipedia.org/wiki/Langerhans_cell_histiocytosis"
+            }
+        ]
+    }
+}

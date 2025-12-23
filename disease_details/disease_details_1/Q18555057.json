@@ -1,0 +1,29 @@
+{
+    "name": "plasma protein metabolism disease",
+    "qid": "Q18555057",
+    "icd_10": "E88.0",
+    "description": "inherited metabolic disorder that involves plasma protein metabolism malfunction",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "hematology",
+                "qid": "Q103824",
+                "url": "https://en.wikipedia.org/wiki/Hematology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "inherited metabolic disorder",
+                "qid": "Q1758393",
+                "url": "https://en.wikipedia.org/wiki/Inborn_errors_of_metabolism"
+            },
+            {
+                "name": "blood protein disease",
+                "qid": "Q18557170"
+            }
+        ]
+    }
+}

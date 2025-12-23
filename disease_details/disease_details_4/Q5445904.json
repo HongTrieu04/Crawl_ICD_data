@@ -1,0 +1,40 @@
+{
+    "name": "Fetal hydantoin syndrome",
+    "qid": "Q5445904",
+    "icd_10": "Q86.1",
+    "description": "medical condition",
+    "aliases": [
+        "congenital hydantoin syndrome",
+        "Dilantin Embryopathy",
+        "Fetal dihydantoin syndrome",
+        "fetal dilantin syndrome",
+        "Phenytoin embryofetopathy",
+        "Phenytoin Embryopathy"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Fetal_hydantoin_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "pregnancy category",
+                "qid": "Q1057079",
+                "url": "https://en.wikipedia.org/wiki/Pregnancy_category"
+            },
+            {
+                "name": "teratogenic Pierre robin syndrome",
+                "qid": "Q55785395"
+            },
+            {
+                "name": "fetal anticonvulsant syndrome",
+                "qid": "Q55787831"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

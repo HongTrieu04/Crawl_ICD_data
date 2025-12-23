@@ -1,0 +1,31 @@
+{
+    "name": "neck pain",
+    "qid": "Q3567802",
+    "icd_10": "M54.2",
+    "description": "common medical problem",
+    "aliases": [
+        "cervicalgia"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Day%2080%20-%20A%20Pain%20in%20the%20Neck%20%282347498204%29.jpg",
+    "url": "https://en.wikipedia.org/wiki/Neck_pain",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurosurgery",
+                "qid": "Q188449",
+                "url": "https://en.wikipedia.org/wiki/Neurosurgery"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "pain",
+                "qid": "Q81938",
+                "url": "https://en.wikipedia.org/wiki/Pain"
+            },
+            {
+                "name": "neck symptom",
+                "qid": "Q102186873"
+            }
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "name": "contrast-induced nephropathy",
+    "qid": "Q1783300",
+    "icd_10": "N14.1",
+    "description": "form of kidney damage in which there has been recent exposure to medical imaging contrast material",
+    "aliases": [
+        "CIN"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Contrast-induced_nephropathy",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "nephrology",
+                "qid": "Q177635",
+                "url": "https://en.wikipedia.org/wiki/Nephrology"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "N-acetyl-L-cysteine",
+                "qid": "Q375613",
+                "url": "https://en.wikipedia.org/wiki/Acetylcysteine"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "kidney disease",
+                "qid": "Q1054718",
+                "url": "https://en.wikipedia.org/wiki/Kidney_disease"
+            },
+            {
+                "name": "nephrotoxicity",
+                "qid": "Q1468324",
+                "url": "https://en.wikipedia.org/wiki/Nephrotoxicity"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "contrast agent",
+                "qid": "Q6849688",
+                "url": "https://en.wikipedia.org/wiki/Contrast_agent"
+            }
+        ]
+    }
+}

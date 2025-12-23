@@ -1,0 +1,70 @@
+{
+    "name": "Mycoplasma pneumonia",
+    "qid": "Q10591185",
+    "icd_10": "B96.0",
+    "description": "human disease",
+    "aliases": [
+        "cold agglutinin positive pneumonia",
+        "mycoplasma pneumoniae pneumonia",
+        "Mycoplasma pneumoniae pneumonia",
+        "mycoplasmal pneumonia",
+        "Mycoplasmal pneumonia",
+        "obsolete mycoplasmal pneumonia",
+        "Pneumonia due to Eaton's agent",
+        "Pneumonia due to Mycoplasma pneumoniae",
+        "Pneumonia due to Mycoplasma pneumoniae (disorder)"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Mycoplasma_pneumonia",
+    "details": {
+        "Cause": [
+            {
+                "name": "infection",
+                "qid": "Q166231",
+                "url": "https://en.wikipedia.org/wiki/Infection"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            },
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "josamycin",
+                "qid": "Q423369",
+                "url": "https://en.wikipedia.org/wiki/Josamycin"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "chills",
+                "qid": "Q2260058",
+                "url": "https://en.wikipedia.org/wiki/Chills"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "atypical pneumonia",
+                "qid": "Q2633267",
+                "url": "https://en.wikipedia.org/wiki/Atypical_pneumonia"
+            },
+            {
+                "name": "bacterial pneumonia",
+                "qid": "Q3776920",
+                "url": "https://en.wikipedia.org/wiki/Bacterial_pneumonia"
+            },
+            {
+                "name": "Mycoplasma pneumoniae infection",
+                "qid": "Q79054860"
+            }
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "name": "mast cell leukemia",
+    "qid": "Q6784873",
+    "icd_10": "C94.3",
+    "description": "rare leukemia (blood cancer) involving mast cells",
+    "aliases": [
+        "Leukemia, Mast-Cell",
+        "Mast Cell Leukemia",
+        "mast-cell leukemia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Mast_cell_leukemia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "leukemia",
+                "qid": "Q29496",
+                "url": "https://en.wikipedia.org/wiki/Leukemia"
+            },
+            {
+                "name": "mastocytoma",
+                "qid": "Q6785569",
+                "url": "https://en.wikipedia.org/wiki/Mastocytoma"
+            },
+            {
+                "name": "rare bone disease",
+                "qid": "Q55788795"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ]
+    }
+}

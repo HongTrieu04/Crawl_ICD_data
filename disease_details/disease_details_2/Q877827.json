@@ -1,0 +1,75 @@
+{
+    "name": "diabetic ketoacidosis",
+    "qid": "Q877827",
+    "icd_10": "E14.1",
+    "description": "potentially life-threatening complication in people with diabetes mellitus",
+    "aliases": [
+        "DKA",
+        "DIABETES MELLITUS, KETOSIS-PRONE",
+        "insulin dependent type diabetes mellitus uncontrolled with ketoacidosis",
+        "Juvenile type diabetes mellitus, uncontrolled, with ketoacidosis",
+        "ketosis-prone diabetes mellitus",
+        "obsolete insulin dependent type diabetes mellitus uncontrolled with ketoacidosis",
+        "type I diabetes mellitus [juvenile type], uncontrolled, with ketoacidosis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Infuuszakjes.jpg",
+    "url": "https://en.wikipedia.org/wiki/Diabetic_ketoacidosis",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "vomiting",
+                "qid": "Q127076",
+                "url": "https://en.wikipedia.org/wiki/Vomiting"
+            },
+            {
+                "name": "abdominal pain",
+                "qid": "Q183425",
+                "url": "https://en.wikipedia.org/wiki/Abdominal_pain"
+            },
+            {
+                "name": "mental confusion",
+                "qid": "Q557945",
+                "url": "https://en.wikipedia.org/wiki/Confusion"
+            },
+            {
+                "name": "polyuria",
+                "qid": "Q1124286",
+                "url": "https://en.wikipedia.org/wiki/Polyuria"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "ketoacidosis",
+                "qid": "Q1130148",
+                "url": "https://en.wikipedia.org/wiki/Ketoacidosis"
+            },
+            {
+                "name": "metabolic acidosis",
+                "qid": "Q1598200",
+                "url": "https://en.wikipedia.org/wiki/Metabolic_acidosis"
+            },
+            {
+                "name": "type 2 diabetes",
+                "qid": "Q3025883",
+                "url": "https://en.wikipedia.org/wiki/Type_2_diabetes"
+            },
+            {
+                "name": "complications of diabetes mellitus",
+                "qid": "Q4198677",
+                "url": "https://en.wikipedia.org/wiki/Complications_of_diabetes"
+            }
+        ]
+    }
+}

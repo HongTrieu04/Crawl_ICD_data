@@ -1,0 +1,61 @@
+{
+    "name": "keratosis",
+    "qid": "Q3667186",
+    "icd_10": "L86",
+    "description": "skin disease characterized by growth of keratin on the skin or mucous membranes",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Keratosis%20pilaris%20arm.jpg",
+    "url": "https://en.wikipedia.org/wiki/Keratosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "skin disease",
+                "qid": "Q949302",
+                "url": "https://en.wikipedia.org/wiki/Skin_condition"
+            },
+            {
+                "name": "keratoma",
+                "qid": "Q1739192"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            },
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "masoprocol",
+                "qid": "Q6783851",
+                "url": "https://en.wikipedia.org/wiki/Masoprocol"
+            },
+            {
+                "name": "fluorouracil",
+                "qid": "Q238512",
+                "url": "https://en.wikipedia.org/wiki/Fluorouracil"
+            },
+            {
+                "name": "Diclofenac",
+                "qid": "Q244408",
+                "url": "https://en.wikipedia.org/wiki/Diclofenac"
+            },
+            {
+                "name": "ammonium DL-lactate",
+                "qid": "Q663358",
+                "url": "https://en.wikipedia.org/wiki/Ammonium_lactate"
+            }
+        ]
+    }
+}

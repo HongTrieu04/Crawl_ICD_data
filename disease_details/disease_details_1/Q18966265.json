@@ -1,0 +1,25 @@
+{
+    "name": "lipoma of intrathoracic organ",
+    "qid": "Q18966265",
+    "icd_10": "D17.4",
+    "description": "Human disease",
+    "aliases": [
+        "Lipoma of intrathoracic organs (disorder)",
+        "obsolete lipoma of intrathoracic organ"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "lipoma",
+                "qid": "Q689985",
+                "url": "https://en.wikipedia.org/wiki/Lipoma"
+            },
+            {
+                "name": "thoracic disease",
+                "qid": "Q18553676"
+            }
+        ]
+    }
+}

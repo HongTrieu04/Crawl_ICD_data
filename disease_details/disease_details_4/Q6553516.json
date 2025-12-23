@@ -1,0 +1,18 @@
+{
+    "name": "Linear scleroderma",
+    "qid": "Q6553516",
+    "icd_10": "L94.1",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Linear_scleroderma",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "scleroderma",
+                "qid": "Q958797",
+                "url": "https://en.wikipedia.org/wiki/Scleroderma"
+            }
+        ]
+    }
+}

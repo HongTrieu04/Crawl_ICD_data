@@ -1,0 +1,30 @@
+{
+    "name": "omphalitis of newborn",
+    "qid": "Q586878",
+    "icd_10": "P38",
+    "description": "inflammation of the umbilical cord stump",
+    "aliases": [
+        "omphalitis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/P%C4%99pek.jpg",
+    "url": "https://en.wikipedia.org/wiki/Omphalitis_of_newborn",
+    "details": {
+        "Anatomical location": [
+            {
+                "name": "navel",
+                "qid": "Q43801",
+                "url": "https://en.wikipedia.org/wiki/Navel"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "omphalitis",
+                "qid": "Q18341004"
+            },
+            {
+                "name": "perinatal disease",
+                "qid": "Q18968218"
+            }
+        ]
+    }
+}

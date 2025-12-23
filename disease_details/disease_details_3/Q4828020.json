@@ -1,0 +1,27 @@
+{
+    "name": "Avellis syndrome",
+    "qid": "Q4828020",
+    "icd_10": "G46.8",
+    "description": "medical condition",
+    "aliases": [
+        "laryngeal hemiplegia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Avellis_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "neurological disorder",
+                "qid": "Q3339235",
+                "url": "https://en.wikipedia.org/wiki/Neurological_disorder"
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "name": "tracheal tuberculosis",
+    "qid": "Q18968227",
+    "icd_10": "A16.4",
+    "description": "Human disease",
+    "aliases": [
+        "Isolated tracheal or bronchial tuberculosis (disorder)",
+        "Isolated tracheal or bronchial tuberculosis NOS (disorder)",
+        "Isolated tracheal or bronchial tuberculosis, unspecified examination",
+        "obsolete tracheal tuberculosis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "tracheal disease",
+                "qid": "Q18555344"
+            },
+            {
+                "name": "bronchial tuberculosis",
+                "qid": "Q18928327"
+            }
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "slate pneumoconiosis",
+    "qid": "Q18553840",
+    "icd_10": "J63.8",
+    "description": "Human disease",
+    "aliases": [
+        "Schistosis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "pneumoconiosis",
+                "qid": "Q651223",
+                "url": "https://en.wikipedia.org/wiki/Pneumoconiosis"
+            }
+        ]
+    }
+}

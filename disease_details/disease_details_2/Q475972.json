@@ -1,0 +1,25 @@
+{
+    "name": "Gianotti–Crosti syndrome",
+    "qid": "Q475972",
+    "icd_10": "L44.4",
+    "description": "medical condition",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gianoti%20crosti%20new%20photo%20for%20diagnosis.jpg",
+    "url": "https://en.wikipedia.org/wiki/Gianotti%E2%80%93Crosti_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "acropustulosis",
+                "qid": "Q4676432",
+                "url": "https://en.wikipedia.org/wiki/Acropustulosis"
+            }
+        ]
+    }
+}

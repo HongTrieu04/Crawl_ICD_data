@@ -1,0 +1,38 @@
+{
+    "name": "ketosis",
+    "qid": "Q1123139",
+    "icd_10": "E10.10",
+    "description": "energy production using stored body fats as fuel when carbohydrates are not available",
+    "aliases": [
+        "Ketosis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Ketosis",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "ketonuria",
+                "qid": "Q1739905",
+                "url": "https://en.wikipedia.org/wiki/Ketonuria"
+            },
+            {
+                "name": "ketonemia",
+                "qid": "Q23021271"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "acidosis",
+                "qid": "Q185089",
+                "url": "https://en.wikipedia.org/wiki/Acidosis"
+            }
+        ]
+    }
+}

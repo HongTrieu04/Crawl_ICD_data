@@ -1,0 +1,24 @@
+{
+    "name": "congenital bone marrow failure syndromes",
+    "qid": "Q98713408",
+    "icd_10": "D61.0",
+    "description": "inherited syndromes caused by mutations affecting hematopoietic stem cells",
+    "aliases": [
+        "Congenital Bone Marrow Failure Syndrome"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "bone marrow failure",
+                "qid": "Q7882181",
+                "url": "https://en.wikipedia.org/wiki/Bone_marrow_failure"
+            },
+            {
+                "name": "perinatal disease",
+                "qid": "Q18968218"
+            }
+        ]
+    }
+}

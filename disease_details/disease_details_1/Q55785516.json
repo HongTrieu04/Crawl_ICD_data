@@ -1,0 +1,25 @@
+{
+    "name": "larynx anomaly",
+    "qid": "Q55785516",
+    "icd_10": "Q31",
+    "description": "human disease",
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "laryngeal disease",
+                "qid": "Q18557753"
+            },
+            {
+                "name": "respiratory system abnormality",
+                "qid": "Q18975820"
+            },
+            {
+                "name": "rare otorhinolaryngological malformation",
+                "qid": "Q55789006"
+            }
+        ]
+    }
+}

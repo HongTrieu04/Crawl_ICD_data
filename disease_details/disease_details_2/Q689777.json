@@ -1,0 +1,41 @@
+{
+    "name": "dopamine-responsive dystonia",
+    "qid": "Q689777",
+    "icd_10": "G24.1",
+    "description": "genetic movement disorder",
+    "aliases": [
+        "Dopa-responsive dystonia",
+        "DYT5 Dystonia",
+        "Hereditary progressive dystonia with diurnal fluctuation",
+        "HPD with diurnal fluctuation",
+        "Segawa syndrome",
+        "Segawa's Disease",
+        "Segawa's dystonia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Dopamine-responsive_dystonia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "dystonia",
+                "qid": "Q906492",
+                "url": "https://en.wikipedia.org/wiki/Dystonia"
+            },
+            {
+                "name": "neurometabolic disease",
+                "qid": "Q1337418"
+            },
+            {
+                "name": "persistent combined dystonia",
+                "qid": "Q55787958"
+            }
+        ]
+    }
+}

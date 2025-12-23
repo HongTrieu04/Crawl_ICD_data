@@ -1,0 +1,22 @@
+{
+    "name": "Pachyonychia congenita type II",
+    "qid": "Q7122180",
+    "icd_10": "Q84.5",
+    "description": null,
+    "aliases": [
+        "Jackson-Lawler syndrome",
+        "Jackson-Sertoli pachyonychia",
+        "pachyonychia congenita 2"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pachyonychia_congenita_type_II",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "pachyonychia congenita",
+                "qid": "Q3360152",
+                "url": "https://en.wikipedia.org/wiki/Pachyonychia_congenita"
+            }
+        ]
+    }
+}

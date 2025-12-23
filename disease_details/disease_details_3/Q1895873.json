@@ -1,0 +1,20 @@
+{
+    "name": "disorientation",
+    "qid": "Q1895873",
+    "icd_10": "R41.0",
+    "description": "psychopathological symptom",
+    "aliases": [
+        "disoriented"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "mental confusion",
+                "qid": "Q557945",
+                "url": "https://en.wikipedia.org/wiki/Confusion"
+            }
+        ]
+    }
+}

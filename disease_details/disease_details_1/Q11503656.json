@@ -1,0 +1,25 @@
+{
+    "name": "neonatal melaena",
+    "qid": "Q11503656",
+    "icd_10": "P54.1",
+    "description": null,
+    "aliases": [
+        "Melaena in newborn",
+        "melena neonatorum"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "melena",
+                "qid": "Q1163908",
+                "url": "https://en.wikipedia.org/wiki/Melena"
+            },
+            {
+                "name": "fetal or neonatal hemorrhage",
+                "qid": "Q18968238"
+            }
+        ]
+    }
+}

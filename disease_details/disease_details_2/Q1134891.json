@@ -1,0 +1,49 @@
+{
+    "name": "pica",
+    "qid": "Q1134891",
+    "icd_10": "F98.3",
+    "description": "eating disorder",
+    "aliases": [
+        "allotriophagy",
+        "parorexia",
+        "perverted appetite disorder",
+        "pica (disease)",
+        "pica (disorder)",
+        "pica disease"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Glore%20Stomach%20Display.jpg",
+    "url": "https://en.wikipedia.org/wiki/Pica_(disorder)",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            },
+            {
+                "name": "psychology",
+                "qid": "Q9418",
+                "url": "https://en.wikipedia.org/wiki/Psychology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "eating disorder",
+                "qid": "Q373822",
+                "url": "https://en.wikipedia.org/wiki/Eating_disorder"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "eating",
+                "qid": "Q213449",
+                "url": "https://en.wikipedia.org/wiki/Eating"
+            }
+        ]
+    }
+}

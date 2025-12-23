@@ -1,0 +1,32 @@
+{
+    "name": "cervical intraepithelial neoplasia",
+    "qid": "Q196788",
+    "icd_10": "D06",
+    "description": "disease",
+    "aliases": [
+        "CIN",
+        "Cervical intraepithelial neoplasia, CIN"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cervical%20Intraepithelial%20Neoplasia%20HSIL%2020X.jpg",
+    "url": "https://en.wikipedia.org/wiki/Cervical_intraepithelial_neoplasia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "intraepithelial neoplasia",
+                "qid": "Q6058399",
+                "url": "https://en.wikipedia.org/wiki/Intraepithelial_neoplasia"
+            },
+            {
+                "name": "dysplasia of cervix",
+                "qid": "Q19001141"
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Escherichia coli septicemia",
+    "qid": "Q18967229",
+    "icd_10": "A41.51",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete Escherichia coli septicemia",
+        "Septicemia due to E. Coli (disorder)",
+        "Septicemia due to escherichia coli",
+        "Septicemia due to escherichia coli [E. coli]"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "Escherichia coli infectious disease",
+                "qid": "Q4227886"
+            },
+            {
+                "name": "bacterial sepsis",
+                "qid": "Q55009180"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Leukotriene receptor antagonist-associated Churg–Strauss syndrome",
+    "qid": "Q6534542",
+    "icd_10": "Y55.6",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Leukotriene_receptor_antagonist-associated_Churg%E2%80%93Strauss_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "Churg-Strauss syndrome",
+                "qid": "Q32811",
+                "url": "https://en.wikipedia.org/wiki/Eosinophilic_granulomatosis_with_polyangiitis"
+            },
+            {
+                "name": "adverse drug reaction",
+                "qid": "Q45959",
+                "url": "https://en.wikipedia.org/wiki/Adverse_drug_reaction"
+            }
+        ]
+    }
+}

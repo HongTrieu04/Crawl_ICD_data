@@ -1,0 +1,18 @@
+{
+    "name": "factitious hypoglycemia",
+    "qid": "Q1641328",
+    "icd_10": "F68.1",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "factitious disorder",
+                "qid": "Q2686385",
+                "url": "https://en.wikipedia.org/wiki/Factitious_disorder"
+            }
+        ]
+    }
+}

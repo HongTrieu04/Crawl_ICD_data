@@ -1,0 +1,22 @@
+{
+    "name": "Youssef's syndrome",
+    "qid": "Q2601372",
+    "icd_10": "N82.1",
+    "description": "abnormal communication between the bladder and uterus",
+    "aliases": [
+        "Uterovesical fistula",
+        "vesicouterine fistula",
+        "Vesicouterine fistula"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Vesicouterine_fistula",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "urogenital fistula",
+                "qid": "Q48207191",
+                "url": "https://en.wikipedia.org/wiki/Urogenital_fistula"
+            }
+        ]
+    }
+}

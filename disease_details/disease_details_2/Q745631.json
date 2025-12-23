@@ -1,0 +1,26 @@
+{
+    "name": "polyorchidism",
+    "qid": "Q745631",
+    "icd_10": "Q55.2",
+    "description": "rare disease",
+    "aliases": [
+        "triorchidism",
+        "triorchism"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Polyorchidism",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "testicular disease",
+                "qid": "Q7705854",
+                "url": "https://en.wikipedia.org/wiki/Testicular_disease"
+            },
+            {
+                "name": "supernumerary body part",
+                "qid": "Q14387830",
+                "url": "https://en.wikipedia.org/wiki/Supernumerary_body_part"
+            }
+        ]
+    }
+}

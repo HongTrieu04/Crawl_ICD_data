@@ -1,0 +1,31 @@
+{
+    "name": "Neonatal bowel obstruction",
+    "qid": "Q17151226",
+    "icd_10": "P76",
+    "description": "congenital disorder of digestive system",
+    "aliases": [
+        "Perinatal intestinal obstruction"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Neonatal_bowel_obstruction",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neonatology",
+                "qid": "Q898674",
+                "url": "https://en.wikipedia.org/wiki/Neonatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "bowel obstruction",
+                "qid": "Q16244733",
+                "url": "https://en.wikipedia.org/wiki/Bowel_obstruction"
+            },
+            {
+                "name": "perinatal digestive system disorder",
+                "qid": "Q18968233"
+            }
+        ]
+    }
+}

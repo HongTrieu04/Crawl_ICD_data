@@ -1,0 +1,20 @@
+{
+    "name": "early pregnancy bleeding",
+    "qid": "Q57157864",
+    "icd_10": "O20",
+    "description": "medical condition",
+    "aliases": [
+        "hemorrhage in early pregnancy"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Early_pregnancy_bleeding",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "obstetrical hemorrhage",
+                "qid": "Q2496447",
+                "url": "https://en.wikipedia.org/wiki/Obstetrical_bleeding"
+            }
+        ]
+    }
+}

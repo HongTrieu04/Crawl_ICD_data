@@ -1,0 +1,29 @@
+{
+    "name": "gastrin secretion abnormality",
+    "qid": "Q18554573",
+    "icd_10": "E16.4",
+    "description": "Human disease",
+    "aliases": [
+        "abnormality of gastrin secretion",
+        "abnormality of secretion of gastrin",
+        "abnormality of secretion of gastrin (disorder)",
+        "Gastrin secretion abnormality NOS (disorder)"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "endocrine pancreas disease",
+                "qid": "Q18554734"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "name": "pseudoneurotic schizophrenia",
+    "qid": "Q7255172",
+    "icd_10": "F21.3",
+    "description": "mental disorder",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Pseudoneurotic_schizophrenia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "psychiatry",
+                "qid": "Q7867",
+                "url": "https://en.wikipedia.org/wiki/Psychiatry"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "schizophrenia spectrum disorder",
+                "qid": "Q2903417",
+                "url": "https://en.wikipedia.org/wiki/Schizophrenia_spectrum"
+            },
+            {
+                "name": "schizophrenia",
+                "qid": "Q41112",
+                "url": "https://en.wikipedia.org/wiki/Schizophrenia"
+            }
+        ]
+    }
+}

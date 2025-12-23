@@ -1,0 +1,52 @@
+{
+    "name": "congenital torticollis",
+    "qid": "Q3993706",
+    "icd_10": "Q68.0",
+    "description": "human disease",
+    "aliases": [
+        "Congenital muscular torticollis",
+        "congenital sternomastoid torticollis",
+        "congenital wry neck",
+        "congenital wryneck",
+        "contracture of sternocleidomastoid muscle",
+        "Familial spasmodic torticollis",
+        "Familial torticollis",
+        "Torticollis",
+        "Torticollis, congenital",
+        "Torticollis, familial"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "genetic disease",
+                "qid": "Q200779",
+                "url": "https://en.wikipedia.org/wiki/Genetic_disorder"
+            },
+            {
+                "name": "torticollis",
+                "qid": "Q615363",
+                "url": "https://en.wikipedia.org/wiki/Torticollis"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "tetrabenazine",
+                "qid": "Q413050",
+                "url": "https://en.wikipedia.org/wiki/Tetrabenazine"
+            },
+            {
+                "name": "botulinum toxin type A",
+                "qid": "Q4095199"
+            }
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "name": "middle ear cancer",
+    "qid": "Q4000422",
+    "icd_10": "C30.1",
+    "description": "auditory system cancer that is located in the middle ear",
+    "aliases": [
+        "cancer of middle ear",
+        "malignant middle ear neoplasm",
+        "malignant neoplasm of middle ear",
+        "neoplasm of middle ear",
+        "neoplasm of middle ear (disorder)",
+        "tumor of the middle ear"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Anatomical location": [
+            {
+                "name": "middle ear",
+                "qid": "Q501553",
+                "url": "https://en.wikipedia.org/wiki/Middle_ear"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "middle ear disease",
+                "qid": "Q18556619"
+            },
+            {
+                "name": "auricular cancer",
+                "qid": "Q18556620"
+            },
+            {
+                "name": "neoplasm of middle ear",
+                "qid": "Q56014523"
+            }
+        ]
+    }
+}

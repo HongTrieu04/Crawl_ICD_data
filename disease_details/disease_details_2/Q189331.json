@@ -1,0 +1,137 @@
+{
+    "name": "heart arrhythmia",
+    "qid": "Q189331",
+    "icd_10": "I49",
+    "description": "group of conditions in which the heartbeat is irregular, too fast, or too slow",
+    "aliases": [
+        "arrhythmia",
+        "Arrhythmia",
+        "Arrhythmias, Cardiac",
+        "cardiac arrhythmia",
+        "CARDIAC ARRHYTHMIA",
+        "cardiac dysrhythmia",
+        "cardiac irregularities",
+        "cardiac rhythm disease",
+        "disrhythmia",
+        "Extrasystoles",
+        "irregular heart beat",
+        "irregular heartbeat",
+        "rare cardiac rhythm disease"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ekg%20abnormal%20bionerd.jpg",
+    "url": "https://en.wikipedia.org/wiki/Arrhythmia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            },
+            {
+                "name": "rhythmology",
+                "qid": "Q1573194"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "papaverine",
+                "qid": "Q410374",
+                "url": "https://en.wikipedia.org/wiki/Papaverine"
+            },
+            {
+                "name": "sotalol",
+                "qid": "Q413591",
+                "url": "https://en.wikipedia.org/wiki/Sotalol"
+            },
+            {
+                "name": "rivaroxaban",
+                "qid": "Q420262",
+                "url": "https://en.wikipedia.org/wiki/Rivaroxaban"
+            },
+            {
+                "name": "flecainide",
+                "qid": "Q421381",
+                "url": "https://en.wikipedia.org/wiki/Flecainide"
+            },
+            {
+                "name": "dronedarone",
+                "qid": "Q408637",
+                "url": "https://en.wikipedia.org/wiki/Dronedarone"
+            },
+            {
+                "name": "(RS)-metoprolol",
+                "qid": "Q409468",
+                "url": "https://en.wikipedia.org/wiki/Metoprolol"
+            },
+            {
+                "name": "amiodarone",
+                "qid": "Q410061",
+                "url": "https://en.wikipedia.org/wiki/Amiodarone"
+            },
+            {
+                "name": "lidocaine",
+                "qid": "Q216935",
+                "url": "https://en.wikipedia.org/wiki/Lidocaine"
+            },
+            {
+                "name": "moricizine",
+                "qid": "Q904071",
+                "url": "https://en.wikipedia.org/wiki/Moracizine"
+            },
+            {
+                "name": "dofetilide",
+                "qid": "Q3712521",
+                "url": "https://en.wikipedia.org/wiki/Dofetilide"
+            },
+            {
+                "name": "atenolol/chlorthalidone",
+                "qid": "Q7700570",
+                "url": "https://en.wikipedia.org/wiki/Atenolol/chlorthalidone"
+            },
+            {
+                "name": "dabigatran etexilate",
+                "qid": "Q20078502"
+            },
+            {
+                "name": "digoxin",
+                "qid": "Q422222",
+                "url": "https://en.wikipedia.org/wiki/Digoxin"
+            },
+            {
+                "name": "encainide",
+                "qid": "Q514534",
+                "url": "https://en.wikipedia.org/wiki/Encainide"
+            },
+            {
+                "name": "(RS)-propafenone",
+                "qid": "Q662511",
+                "url": "https://en.wikipedia.org/wiki/Propafenone"
+            },
+            {
+                "name": "tocainide",
+                "qid": "Q757058",
+                "url": "https://en.wikipedia.org/wiki/Tocainide"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "heart disease",
+                "qid": "Q190805",
+                "url": "https://en.wikipedia.org/wiki/Heart_disease"
+            },
+            {
+                "name": "clinical sign",
+                "qid": "Q1441305",
+                "url": "https://en.wikipedia.org/wiki/Clinical_sign"
+            },
+            {
+                "name": "finding of cardiac rhythm",
+                "qid": "Q44492082"
+            },
+            {
+                "name": "cardiovascular system symptom",
+                "qid": "Q102186826"
+            }
+        ]
+    }
+}

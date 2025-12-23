@@ -1,0 +1,38 @@
+{
+    "name": "staphylococcus aureus septicemia",
+    "qid": "Q18966952",
+    "icd_10": "A41.0",
+    "description": "human disease",
+    "aliases": [
+        "Sepsis due to Staphylococcus aureus",
+        "Septicemia due to Staphylococcus aureus (disorder)"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Drug used for treatment": [
+            {
+                "name": "(2R)-daptomycin",
+                "qid": "Q418747",
+                "url": "https://en.wikipedia.org/wiki/Daptomycin"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "infection",
+                "qid": "Q166231",
+                "url": "https://en.wikipedia.org/wiki/Infection"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "staphylococcal septicemia",
+                "qid": "Q18966954"
+            },
+            {
+                "name": "staphylococcus aureus infection",
+                "qid": "Q55779910"
+            }
+        ]
+    }
+}

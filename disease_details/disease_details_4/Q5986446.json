@@ -1,0 +1,36 @@
+{
+    "name": "Ichthyosis acquisita",
+    "qid": "Q5986446",
+    "icd_10": "L85.0",
+    "description": "non-hereditary form of ichthyosis characterized by plate-like scales on the legs, arms and occasionally the torso",
+    "aliases": [
+        "acquired ichthyosis",
+        "acquired ichthyosis (disease)",
+        "Fish scale disease, acquired",
+        "Ichthyosis Acquisita",
+        "Ichthyosis, acquired"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Ichthyosis_acquisita",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "ichthyosis",
+                "qid": "Q523893",
+                "url": "https://en.wikipedia.org/wiki/Ichthyosis"
+            },
+            {
+                "name": "ichthyosis vulgaris",
+                "qid": "Q3765145",
+                "url": "https://en.wikipedia.org/wiki/Ichthyosis_vulgaris"
+            }
+        ]
+    }
+}

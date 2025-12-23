@@ -1,0 +1,32 @@
+{
+    "name": "midface dysplasia",
+    "qid": "Q3725646",
+    "icd_10": "Q75.8",
+    "description": "Human disease",
+    "aliases": [
+        "frontonasal dysplasia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Frontonasal_dysplasia",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "osteochondrodysplasia",
+                "qid": "Q3251367",
+                "url": "https://en.wikipedia.org/wiki/Osteochondrodysplasia"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

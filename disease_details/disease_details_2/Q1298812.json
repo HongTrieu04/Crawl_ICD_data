@@ -1,0 +1,24 @@
+{
+    "name": "Ectopic ureter",
+    "qid": "Q1298812",
+    "icd_10": "Q62.6",
+    "description": "congenital disorder of urinary system",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ectopic%20Ureter%20Positions.jpg",
+    "url": "https://en.wikipedia.org/wiki/Ectopic_ureter",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "congenital physical abnormality",
+                "qid": "Q3281904"
+            }
+        ]
+    }
+}

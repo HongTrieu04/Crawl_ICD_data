@@ -1,0 +1,32 @@
+{
+    "name": "zygomycosis",
+    "qid": "Q3046374",
+    "icd_10": "B46",
+    "description": "infections caused by fungi in the class Zygomycetes",
+    "aliases": [
+        "zygomycoses"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Zygomycosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "fungal infectious disease",
+                "qid": "Q464067",
+                "url": "https://en.wikipedia.org/wiki/Fungal_infection"
+            },
+            {
+                "name": "rare disease",
+                "qid": "Q929833",
+                "url": "https://en.wikipedia.org/wiki/Rare_disease"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

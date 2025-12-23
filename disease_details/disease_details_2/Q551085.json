@@ -1,0 +1,35 @@
+{
+    "name": "myelitis",
+    "qid": "Q551085",
+    "icd_10": "G04",
+    "description": "spinal cord disease that is characterized by inflammation of the white matter or gray matter of the spinal cord",
+    "aliases": [
+        "spinal cord inflammation",
+        "spinal corditis"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Living%20anatomy%20and%20pathology%3B%20%281910%29%20%2814571685858%29.jpg",
+    "url": "https://en.wikipedia.org/wiki/Myelitis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "inflammation",
+                "qid": "Q101991",
+                "url": "https://en.wikipedia.org/wiki/Inflammation"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "spinal cord disease",
+                "qid": "Q2303951",
+                "url": "https://en.wikipedia.org/wiki/Myelopathy"
+            }
+        ]
+    }
+}

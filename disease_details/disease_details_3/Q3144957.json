@@ -1,0 +1,37 @@
+{
+    "name": "retinal haemorrhage",
+    "qid": "Q3144957",
+    "icd_10": "H35.6",
+    "description": "symptom",
+    "aliases": [
+        "intraretinal hemorrhage",
+        "Retinal hemorrhage"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Retinal_haemorrhage",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "intraocular hemorrhage",
+                "qid": "Q17067160",
+                "url": "https://en.wikipedia.org/wiki/Intraocular_hemorrhage"
+            },
+            {
+                "name": "retinal disease",
+                "qid": "Q550455",
+                "url": "https://en.wikipedia.org/wiki/Retinopathy"
+            },
+            {
+                "name": "eye symptom",
+                "qid": "Q102186610"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            }
+        ]
+    }
+}

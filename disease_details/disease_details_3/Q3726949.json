@@ -1,0 +1,40 @@
+{
+    "name": "episcleritis",
+    "qid": "Q3726949",
+    "icd_10": "H15.1",
+    "description": "inflammatory disease of the eye",
+    "aliases": [
+        "Episcleritis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Episcleritis",
+    "details": {
+        "Drug used for treatment": [
+            {
+                "name": "medrysone",
+                "qid": "Q6807292",
+                "url": "https://en.wikipedia.org/wiki/Medrysone"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "ophthalmology",
+                "qid": "Q161437",
+                "url": "https://en.wikipedia.org/wiki/Ophthalmology"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "episcleral layer",
+                "qid": "Q5383279",
+                "url": "https://en.wikipedia.org/wiki/Episcleral_layer"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "scleral disease",
+                "qid": "Q18554064"
+            }
+        ]
+    }
+}

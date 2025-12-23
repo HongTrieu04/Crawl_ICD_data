@@ -1,0 +1,50 @@
+{
+    "name": "periostitis",
+    "qid": "Q1480377",
+    "icd_10": "M90.1",
+    "description": "medical condition caused by inflammation of the periosteum, a layer of connective tissue that surrounds bone",
+    "aliases": [
+        "periostalgia",
+        "periosteum inflammation",
+        "periosteumitis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Periostitis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "bone disease",
+                "qid": "Q4941552",
+                "url": "https://en.wikipedia.org/wiki/Bone_disease"
+            },
+            {
+                "name": "connective tissue disease",
+                "qid": "Q1779300",
+                "url": "https://en.wikipedia.org/wiki/Connective_tissue_disease"
+            },
+            {
+                "name": "inflammatory disease",
+                "qid": "Q3508753"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "inflammation",
+                "qid": "Q101991",
+                "url": "https://en.wikipedia.org/wiki/Inflammation"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "rheumatology",
+                "qid": "Q327657",
+                "url": "https://en.wikipedia.org/wiki/Rheumatology"
+            }
+        ]
+    }
+}

@@ -1,0 +1,254 @@
+{
+    "name": "epidemic typhus",
+    "qid": "Q1290616",
+    "icd_10": "A75.0",
+    "description": "human disease",
+    "aliases": [
+        "camp fever",
+        "epidemic louse-borne typhus",
+        "exanthematic Typhus fever NOS",
+        "Exanthematous typhus",
+        "famine fever",
+        "hospital fever",
+        "jail fever",
+        "louse-borne typhus",
+        "petechial fever",
+        "putrid fever",
+        "ship fever",
+        "sylvatic typhus",
+        "Typhus, Epidemic Louse-Borne"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Epidemic%20typhus%20Burundi.jpg",
+    "url": "https://en.wikipedia.org/wiki/Epidemic_typhus",
+    "details": {
+        "Symptoms": [
+            {
+                "name": "headache",
+                "qid": "Q86",
+                "url": "https://en.wikipedia.org/wiki/Headache"
+            },
+            {
+                "name": "deafness",
+                "qid": "Q12133",
+                "url": "https://en.wikipedia.org/wiki/Deafness"
+            },
+            {
+                "name": "fever",
+                "qid": "Q38933",
+                "url": "https://en.wikipedia.org/wiki/Fever"
+            },
+            {
+                "name": "conjunctivitis",
+                "qid": "Q167844",
+                "url": "https://en.wikipedia.org/wiki/Conjunctivitis"
+            },
+            {
+                "name": "mania",
+                "qid": "Q185935",
+                "url": "https://en.wikipedia.org/wiki/Mania"
+            },
+            {
+                "name": "delirium",
+                "qid": "Q160796",
+                "url": "https://en.wikipedia.org/wiki/Delirium"
+            },
+            {
+                "name": "heart arrhythmia",
+                "qid": "Q189331",
+                "url": "https://en.wikipedia.org/wiki/Arrhythmia"
+            },
+            {
+                "name": "macula",
+                "qid": "Q1515219",
+                "url": "https://en.wikipedia.org/wiki/Macule"
+            },
+            {
+                "name": "hyperesthesia",
+                "qid": "Q1638131",
+                "url": "https://en.wikipedia.org/wiki/Hyperesthesia"
+            },
+            {
+                "name": "insomnia",
+                "qid": "Q1869874",
+                "url": "https://en.wikipedia.org/wiki/Insomnia"
+            },
+            {
+                "name": "chills",
+                "qid": "Q2260058",
+                "url": "https://en.wikipedia.org/wiki/Chills"
+            },
+            {
+                "name": "dizziness",
+                "qid": "Q10916362",
+                "url": "https://en.wikipedia.org/wiki/Dizziness"
+            },
+            {
+                "name": "Korsakoff's syndrome",
+                "qid": "Q622901",
+                "url": "https://en.wikipedia.org/wiki/Korsakoff_syndrome"
+            },
+            {
+                "name": "dysphagia",
+                "qid": "Q623289",
+                "url": "https://en.wikipedia.org/wiki/Dysphagia"
+            },
+            {
+                "name": "arthralgia",
+                "qid": "Q683498",
+                "url": "https://en.wikipedia.org/wiki/Arthralgia"
+            },
+            {
+                "name": "petechia",
+                "qid": "Q1412657",
+                "url": "https://en.wikipedia.org/wiki/Petechia"
+            },
+            {
+                "name": "delusion",
+                "qid": "Q189643",
+                "url": "https://en.wikipedia.org/wiki/Delusion"
+            },
+            {
+                "name": "euphoria",
+                "qid": "Q203994",
+                "url": "https://en.wikipedia.org/wiki/Euphoria"
+            },
+            {
+                "name": "nystagmus",
+                "qid": "Q220989",
+                "url": "https://en.wikipedia.org/wiki/Nystagmus"
+            },
+            {
+                "name": "tremor",
+                "qid": "Q223907",
+                "url": "https://en.wikipedia.org/wiki/Tremor"
+            },
+            {
+                "name": "dysarthria",
+                "qid": "Q225957",
+                "url": "https://en.wikipedia.org/wiki/Dysarthria"
+            },
+            {
+                "name": "thrombosis",
+                "qid": "Q261327",
+                "url": "https://en.wikipedia.org/wiki/Thrombosis"
+            },
+            {
+                "name": "pressure ulcer",
+                "qid": "Q308978",
+                "url": "https://en.wikipedia.org/wiki/Pressure_ulcer"
+            },
+            {
+                "name": "amimia",
+                "qid": "Q9150037"
+            },
+            {
+                "name": "meningism signs",
+                "qid": "Q12122651"
+            },
+            {
+                "name": "Chiari symptom",
+                "qid": "Q28540776"
+            },
+            {
+                "name": "Godelier's symptom",
+                "qid": "Q28966602"
+            },
+            {
+                "name": "hood symptom",
+                "qid": "Q56027188"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "typhus",
+                "qid": "Q160649",
+                "url": "https://en.wikipedia.org/wiki/Typhus"
+            },
+            {
+                "name": "rickettsiosis",
+                "qid": "Q646664",
+                "url": "https://en.wikipedia.org/wiki/Rickettsiosis"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "antibiotic",
+                "qid": "Q12187",
+                "url": "https://en.wikipedia.org/wiki/Antibiotic"
+            },
+            {
+                "name": "protease inhibitor",
+                "qid": "Q166774",
+                "url": "https://en.wikipedia.org/wiki/Protease_inhibitor_(biology)"
+            },
+            {
+                "name": "tranquilizer",
+                "qid": "Q1941660",
+                "url": "https://en.wikipedia.org/wiki/Tranquilizer"
+            },
+            {
+                "name": "detoxification",
+                "qid": "Q1090423",
+                "url": "https://en.wikipedia.org/wiki/Detoxification"
+            },
+            {
+                "name": "heparin",
+                "qid": "Q190016",
+                "url": "https://en.wikipedia.org/wiki/Heparin"
+            },
+            {
+                "name": "diuretic",
+                "qid": "Q200656",
+                "url": "https://en.wikipedia.org/wiki/Diuretic"
+            },
+            {
+                "name": "corticosteroid",
+                "qid": "Q210420",
+                "url": "https://en.wikipedia.org/wiki/Corticosteroid"
+            }
+        ],
+        "Anatomical location": [
+            {
+                "name": "central nervous system",
+                "qid": "Q47273",
+                "url": "https://en.wikipedia.org/wiki/Central_nervous_system"
+            },
+            {
+                "name": "blood vessel",
+                "qid": "Q988343",
+                "url": "https://en.wikipedia.org/wiki/Blood_vessel"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "doxycycline",
+                "qid": "Q422442",
+                "url": "https://en.wikipedia.org/wiki/Doxycycline"
+            },
+            {
+                "name": "chloramphenicol",
+                "qid": "Q274515",
+                "url": "https://en.wikipedia.org/wiki/Chloramphenicol"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "Rickettsia prowazekii",
+                "qid": "Q952862",
+                "url": "https://en.wikipedia.org/wiki/Rickettsia_prowazekii"
+            }
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Leukokeratosis",
+    "qid": "Q3831225",
+    "icd_10": "N90.4",
+    "description": null,
+    "aliases": [
+        "Leukoplakia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Leukokeratosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "leukoplakia",
+                "qid": "Q838145",
+                "url": "https://en.wikipedia.org/wiki/Leukoplakia"
+            }
+        ]
+    }
+}

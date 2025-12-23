@@ -1,0 +1,23 @@
+{
+    "name": "penile discharge",
+    "qid": "Q5803863",
+    "icd_10": "R36",
+    "description": "medical condition",
+    "aliases": [
+        "urethral discharge"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/SOA-Chlamydia-trachomatis-male.jpg",
+    "url": "https://en.wikipedia.org/wiki/Penile_discharge",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "urological symptom",
+                "qid": "Q2565950"
+            },
+            {
+                "name": "penile disease",
+                "qid": "Q18554834"
+            }
+        ]
+    }
+}

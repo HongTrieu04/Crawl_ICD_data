@@ -1,0 +1,26 @@
+{
+    "name": "generalized hyperhidrosis",
+    "qid": "Q5532484",
+    "icd_10": "R61.1",
+    "description": "Human disease",
+    "aliases": [
+        "Generalized hyperhidrosis (context-dependent category)",
+        "Generalized hyperhidrosis (disorder)",
+        "obsolete generalized hyperhidrosis"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Generalized_hyperhidrosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "neurological and physiological symptom",
+                "qid": "Q99860490"
+            },
+            {
+                "name": "hyperhidrosis",
+                "qid": "Q935781",
+                "url": "https://en.wikipedia.org/wiki/Hyperhidrosis"
+            }
+        ]
+    }
+}

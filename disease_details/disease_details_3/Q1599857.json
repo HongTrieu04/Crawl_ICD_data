@@ -1,0 +1,28 @@
+{
+    "name": "spider angioma",
+    "qid": "Q1599857",
+    "icd_10": "I78.1",
+    "description": "medical condition",
+    "aliases": [
+        "Nevus Araneus",
+        "Stellar nevus"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Spider_angioma",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "telangiectasia",
+                "qid": "Q1634800",
+                "url": "https://en.wikipedia.org/wiki/Telangiectasia"
+            }
+        ]
+    }
+}

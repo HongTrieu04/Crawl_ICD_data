@@ -1,0 +1,43 @@
+{
+    "name": "parathyroid neoplasm",
+    "qid": "Q7136148",
+    "icd_10": "C75.0",
+    "description": "any of the forms of tumor of parathyroid gland that have a rare incidence",
+    "aliases": [
+        "Neoplasm of Parathyroid",
+        "neoplasm of parathyroid gland",
+        "Neoplasm of the Parathyroid",
+        "Neoplasm of the Parathyroid Gland",
+        "parathyroid gland neoplasm (disease)",
+        "parathyroid gland tumor",
+        "Parathyroid Neoplasms",
+        "Parathyroid Tumor",
+        "Tumor of Parathyroid",
+        "tumor of parathyroid gland",
+        "Tumor of the Parathyroid",
+        "Tumor of the Parathyroid Gland"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Parathyroid_neoplasm",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "endocrine gland neoplasm",
+                "qid": "Q3542030",
+                "url": "https://en.wikipedia.org/wiki/Endocrine_gland_neoplasm"
+            },
+            {
+                "name": "parathyroid gland disease",
+                "qid": "Q7136145",
+                "url": "https://en.wikipedia.org/wiki/Parathyroid_disease"
+            }
+        ]
+    }
+}

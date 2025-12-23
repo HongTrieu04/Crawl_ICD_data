@@ -1,0 +1,22 @@
+{
+    "name": "polytrauma",
+    "qid": "Q2103168",
+    "icd_10": "T07",
+    "description": "medical term; condition of a person who has been subjected to multiple traumatic injuries",
+    "aliases": [
+        "Multiple injuries",
+        "multiple traumata",
+        "Polytraumatism"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Polytrauma",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "injury in humans",
+                "qid": "Q193078",
+                "url": "https://en.wikipedia.org/wiki/Injury_in_humans"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "osteochondromatosis",
+    "qid": "Q7107610",
+    "icd_10": "Q78.6",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Osteochondromatosis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "osteochondroma",
+                "qid": "Q2035032",
+                "url": "https://en.wikipedia.org/wiki/Osteochondroma"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "osteochondroma",
+                "qid": "Q2035032",
+                "url": "https://en.wikipedia.org/wiki/Osteochondroma"
+            }
+        ]
+    }
+}

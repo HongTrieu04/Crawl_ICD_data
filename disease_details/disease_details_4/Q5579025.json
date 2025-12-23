@@ -1,0 +1,18 @@
+{
+    "name": "Goldblatt kidney",
+    "qid": "Q5579025",
+    "icd_10": "I70.1",
+    "description": null,
+    "aliases": [],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "renovascular hypertension",
+                "qid": "Q3296793",
+                "url": "https://en.wikipedia.org/wiki/Renovascular_hypertension"
+            }
+        ]
+    }
+}

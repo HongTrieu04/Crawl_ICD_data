@@ -1,0 +1,37 @@
+{
+    "name": "morning glory disc anomaly",
+    "qid": "Q18070807",
+    "icd_10": "Q14.2",
+    "description": "congenital deformity resulting from failure of the optic nerve to completely form in utero",
+    "aliases": [
+        "MGDA",
+        "Coloboma of optic disc",
+        "Coloboma of optic disc (disorder)",
+        "coloboma of optic nerve",
+        "Morning Glory Disc Anomaly",
+        "Morning glory syndrome",
+        "Optic Nerve Head Pits, Bilateral Congenital"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Morning_glory_disc_anomaly",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "coloboma of optic nerve",
+                "qid": "Q48987599",
+                "url": "https://en.wikipedia.org/wiki/Coloboma_of_optic_nerve"
+            },
+            {
+                "name": "visual pathway disease",
+                "qid": "Q18554635"
+            }
+        ]
+    }
+}

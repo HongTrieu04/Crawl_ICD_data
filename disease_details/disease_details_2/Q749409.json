@@ -1,0 +1,38 @@
+{
+    "name": "osteogenesis imperfecta",
+    "qid": "Q749409",
+    "icd_10": "Q78.07",
+    "description": "osteochondrodysplasia that has material basis in a deficiency in type-I collagen which results in brittle bones and defective connective tissue",
+    "aliases": [
+        "OI",
+        "brittle bone disease",
+        "fragilitas ossium",
+        "Lobstein's syndrome",
+        "osteopsathyrosis",
+        "osteopsathyrosis idiopathica",
+        "Vrolik's disease"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/XrayOITypeV-Audult.jpg",
+    "url": "https://en.wikipedia.org/wiki/Osteogenesis_imperfecta",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "osteochondrodysplasia",
+                "qid": "Q3251367",
+                "url": "https://en.wikipedia.org/wiki/Osteochondrodysplasia"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

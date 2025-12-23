@@ -1,0 +1,22 @@
+{
+    "name": "spontaneous rupture of bladder",
+    "qid": "Q18975552",
+    "icd_10": "N32.4",
+    "description": "Human disease",
+    "aliases": [
+        "Nontraumatic rupture of bladder (disorder) [Ambiguous]",
+        "obsolete spontaneous rupture of bladder",
+        "Rupture of bladder, nontraumatic",
+        "spontaneous rupture of bladder (disorder)"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "bladder rupture",
+                "qid": "Q881829"
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "teething disorder",
+    "qid": "Q1189911",
+    "icd_10": "K00.6",
+    "description": null,
+    "aliases": [
+        "difficult teething",
+        "tooth-eruption disturbances"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "tooth development disorder",
+                "qid": "Q1189914"
+            }
+        ]
+    }
+}

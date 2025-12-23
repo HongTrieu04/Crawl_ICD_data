@@ -1,0 +1,47 @@
+{
+    "name": "herpetic whitlow",
+    "qid": "Q5743696",
+    "icd_10": "B00.8",
+    "description": "painful blister of the periungual skin that is caused by herpes simplex virus type 1 or 2",
+    "aliases": [
+        "Herpetic felon",
+        "Herpetic whitlow (disorder)",
+        "whitlow finger"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Herpetic%20whitlow%20in%20young%20child.jpg",
+    "url": "https://en.wikipedia.org/wiki/Herpetic_whitlow",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "herpes simplex",
+                "qid": "Q6473911",
+                "url": "https://en.wikipedia.org/wiki/Herpes"
+            },
+            {
+                "name": "paronychia",
+                "qid": "Q3896379",
+                "url": "https://en.wikipedia.org/wiki/Paronychia"
+            },
+            {
+                "name": "viral skin disease",
+                "qid": "Q54911470"
+            },
+            {
+                "name": "nail infection",
+                "qid": "Q55790545"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

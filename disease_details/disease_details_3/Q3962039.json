@@ -1,0 +1,28 @@
+{
+    "name": "obsolete syringomyelia and syringobulbia",
+    "qid": "Q3962039",
+    "icd_10": "G95.0",
+    "description": "human disease",
+    "aliases": [
+        "syringomyelia and syringobulbia",
+        "Syringomyelia and syringobulbia (disorder)"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Syringobulbia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "syringomyelia",
+                "qid": "Q1112977",
+                "url": "https://en.wikipedia.org/wiki/Syringomyelia"
+            }
+        ]
+    }
+}

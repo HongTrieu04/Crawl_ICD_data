@@ -1,0 +1,30 @@
+{
+    "name": "digestive system cancer",
+    "qid": "Q5275615",
+    "icd_10": "C26",
+    "description": "type of cancer that afflicts the digestive system",
+    "aliases": [
+        "digetive system neoplasm"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Digestive_system_neoplasm",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "organ system cancer",
+                "qid": "Q18553400"
+            },
+            {
+                "name": "digestive system neoplasm",
+                "qid": "Q58845312"
+            }
+        ]
+    }
+}

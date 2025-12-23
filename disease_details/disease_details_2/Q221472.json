@@ -1,0 +1,60 @@
+{
+    "name": "fragile X syndrome",
+    "qid": "Q221472",
+    "icd_10": "Q99.2",
+    "description": "congenital disorder of nervous system",
+    "aliases": [
+        "Fragile X chromosome",
+        "Fragile X mental retardation syndrome",
+        "FXS",
+        "Marker X syndrome",
+        "Martin-Bell syndrome"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fragx-2.jpg",
+    "url": "https://en.wikipedia.org/wiki/Fragile_X_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "overgrowth syndrome",
+                "qid": "Q7113674",
+                "url": "https://en.wikipedia.org/wiki/Overgrowth_syndrome"
+            },
+            {
+                "name": "X-linked intellectual disability",
+                "qid": "Q8041560",
+                "url": "https://en.wikipedia.org/wiki/X-linked_intellectual_disability"
+            },
+            {
+                "name": "syndrome",
+                "qid": "Q179630",
+                "url": "https://en.wikipedia.org/wiki/Syndrome"
+            },
+            {
+                "name": "X-linked dominant disease",
+                "qid": "Q55010089"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "pediatrics",
+                "qid": "Q123028",
+                "url": "https://en.wikipedia.org/wiki/Pediatrics"
+            },
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            },
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

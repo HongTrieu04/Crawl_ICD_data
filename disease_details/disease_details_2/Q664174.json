@@ -1,0 +1,49 @@
+{
+    "name": "asbestosis",
+    "qid": "Q664174",
+    "icd_10": "J61",
+    "description": "pneumoconiosis caused by inhalation and retention of asbestos fibers",
+    "aliases": [
+        "asbestos cancer",
+        "asbestos dust pneumoconiosis",
+        "Asbestos intoxication",
+        "asbestos intoxination",
+        "asbestos pneumoconiosis",
+        "Asbestosis NOS (disorder)"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lung%20-%20Asbestosis%20-%20Asbestos%20body.jpg",
+    "url": "https://en.wikipedia.org/wiki/Asbestosis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "pneumoconiosis",
+                "qid": "Q651223",
+                "url": "https://en.wikipedia.org/wiki/Pneumoconiosis"
+            },
+            {
+                "name": "asbestos-related disease",
+                "qid": "Q4803677",
+                "url": "https://en.wikipedia.org/wiki/Asbestos-related_diseases"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "dyspnea",
+                "qid": "Q188008",
+                "url": "https://en.wikipedia.org/wiki/Shortness_of_breath"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "pulmonology",
+                "qid": "Q203337",
+                "url": "https://en.wikipedia.org/wiki/Pulmonology"
+            }
+        ]
+    }
+}

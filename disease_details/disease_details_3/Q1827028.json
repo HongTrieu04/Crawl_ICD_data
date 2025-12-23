@@ -1,0 +1,29 @@
+{
+    "name": "ectopia lentis",
+    "qid": "Q1827028",
+    "icd_10": "H27.1",
+    "description": "disorder of lens",
+    "aliases": [],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ectopia%20Lentis%20in%20Marfan%20syndrome.jpg",
+    "url": "https://en.wikipedia.org/wiki/Ectopia_lentis",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "clinical sign",
+                "qid": "Q1441305",
+                "url": "https://en.wikipedia.org/wiki/Clinical_sign"
+            },
+            {
+                "name": "lens disease",
+                "qid": "Q18553990"
+            }
+        ]
+    }
+}

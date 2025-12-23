@@ -1,0 +1,74 @@
+{
+    "name": "lymphoid leukemia",
+    "qid": "Q6708277",
+    "icd_10": "C91",
+    "description": "malignant lymphocytic neoplasm of B-cell or T-cell lineage involving primarily the bone marrow and the peripheral blood",
+    "aliases": [
+        "lymphocytic leukemia",
+        "LEUKEMIA, LYMPHOCYTIC, MALIGNANT",
+        "Leukemia, Lymphoid",
+        "Lymphogenous Leukemia",
+        "Lymphoid Leukemia",
+        "obsolete lymphoid leukemia",
+        "subacute lymphoid leukemia"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Lymphoid_leukemia",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "leukemia",
+                "qid": "Q29496",
+                "url": "https://en.wikipedia.org/wiki/Leukemia"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "(RS)-cyclophosphamide",
+                "qid": "Q408524",
+                "url": "https://en.wikipedia.org/wiki/Cyclophosphamide"
+            },
+            {
+                "name": "daunorubicin",
+                "qid": "Q411659",
+                "url": "https://en.wikipedia.org/wiki/Daunorubicin"
+            },
+            {
+                "name": "mercaptopurine",
+                "qid": "Q418529",
+                "url": "https://en.wikipedia.org/wiki/Mercaptopurine"
+            },
+            {
+                "name": "ifosfamide",
+                "qid": "Q418560",
+                "url": "https://en.wikipedia.org/wiki/Ifosfamide"
+            },
+            {
+                "name": "idarubicin",
+                "qid": "Q1063862",
+                "url": "https://en.wikipedia.org/wiki/Idarubicin"
+            },
+            {
+                "name": "sargramostim",
+                "qid": "Q3950557",
+                "url": "https://en.wikipedia.org/wiki/Sargramostim"
+            },
+            {
+                "name": "pegaspargase",
+                "qid": "Q7160547",
+                "url": "https://en.wikipedia.org/wiki/Pegaspargase"
+            },
+            {
+                "name": "asparaginase",
+                "qid": "Q421534"
+            }
+        ]
+    }
+}

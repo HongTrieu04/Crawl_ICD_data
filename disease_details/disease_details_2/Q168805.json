@@ -1,0 +1,31 @@
+{
+    "name": "gangrene",
+    "qid": "Q168805",
+    "icd_10": "R02",
+    "description": "death of connected tissue as a result of problematic blood flow (dry and wet gangrene) or invasion of external bacteria (gas gangrene)",
+    "aliases": [
+        "Acral dry gangrene"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Acral%20gangrene%20due%20to%20plague.jpg",
+    "url": "https://en.wikipedia.org/wiki/Gangrene",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "surgery",
+                "qid": "Q40821",
+                "url": "https://en.wikipedia.org/wiki/Surgery"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "necrosis",
+                "qid": "Q178069",
+                "url": "https://en.wikipedia.org/wiki/Necrosis"
+            },
+            {
+                "name": "cardiovascular system symptom",
+                "qid": "Q102186826"
+            }
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "name": "abortion",
+    "qid": "Q8452",
+    "icd_10": "O04",
+    "description": "intentional ending of a pregnancy",
+    "aliases": [
+        "abortion, induced",
+        "induced miscarriage",
+        "termination of pregnancy"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/23%20674673M%20001-detail.jpg",
+    "url": "https://en.wikipedia.org/wiki/Abortion",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "feticide",
+                "qid": "Q663296",
+                "url": "https://en.wikipedia.org/wiki/Foeticide"
+            },
+            {
+                "name": "renunciation",
+                "qid": "Q7313594",
+                "url": "https://en.wikipedia.org/wiki/Renunciation"
+            },
+            {
+                "name": "pregnancy with abortive outcome",
+                "qid": "Q96649463",
+                "url": "https://en.wikipedia.org/wiki/Pregnancy_with_abortive_outcome"
+            },
+            {
+                "name": "medical procedure type",
+                "qid": "Q55214844"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "obstetrics",
+                "qid": "Q5284418",
+                "url": "https://en.wikipedia.org/wiki/Obstetrics"
+            }
+        ]
+    }
+}

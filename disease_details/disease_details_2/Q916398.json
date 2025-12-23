@@ -1,0 +1,37 @@
+{
+    "name": "lymphedema",
+    "qid": "Q916398",
+    "icd_10": "I97.2",
+    "description": "human disease",
+    "aliases": [
+        "Milroy's disease",
+        "Nonne-Milroy lymphedema",
+        "lymphatic edema",
+        "Lymphatic edema (morphologic abnormality)",
+        "lymphoedema",
+        "Lymphoedema NOS"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lymphedema.jpg",
+    "url": "https://en.wikipedia.org/wiki/Lymphedema",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "lymphatic system disease",
+                "qid": "Q6708237",
+                "url": "https://en.wikipedia.org/wiki/Lymphatic_disease"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Burning feet syndrome",
+    "qid": "Q4999911",
+    "icd_10": "E53.9",
+    "description": "medical condition",
+    "aliases": [
+        "Grierson-Gopalan syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Burning_feet_syndrome",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "endocrinology",
+                "qid": "Q162606",
+                "url": "https://en.wikipedia.org/wiki/Endocrinology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "foot diseases",
+                "qid": "Q5282137",
+                "url": "https://en.wikipedia.org/wiki/Diseases_of_the_foot"
+            },
+            {
+                "name": "burning sensation",
+                "qid": "Q3645517"
+            }
+        ]
+    }
+}

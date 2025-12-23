@@ -1,0 +1,26 @@
+{
+    "name": "measles complicated by meningitis",
+    "qid": "Q108640652",
+    "icd_10": "B05.1",
+    "description": "disease",
+    "aliases": [
+        "Measles meningitis",
+        "postmeasles meningitis"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "viral meningitis",
+                "qid": "Q3301664",
+                "url": "https://en.wikipedia.org/wiki/Viral_meningitis"
+            },
+            {
+                "name": "measles",
+                "qid": "Q79793",
+                "url": "https://en.wikipedia.org/wiki/Measles"
+            }
+        ]
+    }
+}

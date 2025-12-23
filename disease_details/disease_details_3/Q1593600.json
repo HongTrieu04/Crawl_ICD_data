@@ -1,0 +1,30 @@
+{
+    "name": "Reflux nephropathy",
+    "qid": "Q1593600",
+    "icd_10": "N13.9",
+    "description": "Human disease",
+    "aliases": [
+        "bilateral vesicoureteral reflux with reflux nephropathy",
+        "obsolete vesicoureteral reflux with reflux nephropathy",
+        "unilateral vesicoureteral reflux with reflux nephropathy",
+        "vesicoureteral reflux with reflux nephropathy"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Reflux_nephropathy",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "nephrology",
+                "qid": "Q177635",
+                "url": "https://en.wikipedia.org/wiki/Nephrology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "kidney disease",
+                "qid": "Q1054718",
+                "url": "https://en.wikipedia.org/wiki/Kidney_disease"
+            }
+        ]
+    }
+}

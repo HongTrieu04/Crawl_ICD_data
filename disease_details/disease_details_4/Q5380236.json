@@ -1,0 +1,33 @@
+{
+    "name": "Enteroinvasive Escherichia coli",
+    "qid": "Q5380236",
+    "icd_10": "A04.2",
+    "description": "Human disease",
+    "aliases": [
+        "Enteroinvasive Escherichia coli gastrointestinal tract infection",
+        "Enteroinvasive Escherichia coli gastrointestinal tract infection (disorder)",
+        "Enteroinvasive Escherichia coli infection",
+        "enteroinvasive Escherichia coli infectious disease",
+        "Escherichia coli dysentery",
+        "intestinal infectious disease due to enteroinvasive E. coli",
+        "obsolete enteroinvasive Escherichia coli infectious disease",
+        "obsolete Escherichia coli dysentery"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Enteroinvasive_Escherichia_coli",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "Escherichia coli infectious disease",
+                "qid": "Q4227886"
+            }
+        ]
+    }
+}

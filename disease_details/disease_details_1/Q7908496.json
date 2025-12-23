@@ -1,0 +1,21 @@
+{
+    "name": "vaginal birth after caesarean",
+    "qid": "Q7908496",
+    "icd_10": "O75.7",
+    "description": "vaginal delivery following a cesarean section on a prior pregnancy",
+    "aliases": [
+        "vaginal birth after cesarean",
+        "VBAC"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Delivery_after_previous_caesarean_section",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "vaginal delivery",
+                "qid": "Q6679974",
+                "url": "https://en.wikipedia.org/wiki/Vaginal_delivery"
+            }
+        ]
+    }
+}

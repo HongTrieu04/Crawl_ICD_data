@@ -1,0 +1,88 @@
+{
+    "name": "myalgic encephalomyelitis",
+    "qid": "Q21014159",
+    "icd_10": "G93.3",
+    "description": "neurological disease, defined as meeting stricter diagnostic criteria than chronic fatigue syndrome",
+    "aliases": [
+        "Benign myalgic encephalomyelitis",
+        "Epidemic neuromyasthenia",
+        "Iceland Disease",
+        "Royal Free Disease"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Myalgic%20encephalomyelitis%20case%20definitions%202.png",
+    "url": "https://en.wikipedia.org/wiki/Myalgic_encephalomyelitis",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "neurological disorder",
+                "qid": "Q3339235",
+                "url": "https://en.wikipedia.org/wiki/Neurological_disorder"
+            }
+        ],
+        "Symptoms": [
+            {
+                "name": "fatigue",
+                "qid": "Q9690",
+                "url": "https://en.wikipedia.org/wiki/Fatigue"
+            },
+            {
+                "name": "postural orthostatic tachycardia syndrome",
+                "qid": "Q620760",
+                "url": "https://en.wikipedia.org/wiki/Postural_orthostatic_tachycardia_syndrome"
+            },
+            {
+                "name": "influenza-like illness",
+                "qid": "Q3508755",
+                "url": "https://en.wikipedia.org/wiki/Influenza-like_illness"
+            },
+            {
+                "name": "Epstein–Barr virus infection",
+                "qid": "Q5384031",
+                "url": "https://en.wikipedia.org/wiki/Epstein%E2%80%93Barr_virus_infection"
+            },
+            {
+                "name": "post-exertional malaise",
+                "qid": "Q42417507",
+                "url": "https://en.wikipedia.org/wiki/Post-exertional_malaise"
+            },
+            {
+                "name": "difficulty concentrating",
+                "qid": "Q10547530"
+            }
+        ],
+        "Cause": [
+            {
+                "name": "virus",
+                "qid": "Q808",
+                "url": "https://en.wikipedia.org/wiki/Virus"
+            },
+            {
+                "name": "bacterial infectious disease",
+                "qid": "Q727028",
+                "url": "https://en.wikipedia.org/wiki/Bacterial_disease"
+            },
+            {
+                "name": "unknown",
+                "qid": "Q24238356"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ],
+        "Possible treatment": [
+            {
+                "name": "rest",
+                "qid": "Q20980706"
+            }
+        ]
+    }
+}

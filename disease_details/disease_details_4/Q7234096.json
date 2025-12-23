@@ -1,0 +1,32 @@
+{
+    "name": "postpericardiotomy syndrome",
+    "qid": "Q7234096",
+    "icd_10": "I97.0",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete postpericardiotomy syndrome",
+        "postcardiotomy syndrome"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Postpericardiotomy_syndrome",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "heart disease",
+                "qid": "Q190805",
+                "url": "https://en.wikipedia.org/wiki/Heart_disease"
+            },
+            {
+                "name": "postoperative complications",
+                "qid": "Q18478450"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "cardiology",
+                "qid": "Q10379",
+                "url": "https://en.wikipedia.org/wiki/Cardiology"
+            }
+        ]
+    }
+}

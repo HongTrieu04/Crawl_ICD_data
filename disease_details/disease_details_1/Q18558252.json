@@ -1,0 +1,50 @@
+{
+    "name": "congenital heart block",
+    "qid": "Q18558252",
+    "icd_10": "Q24.6",
+    "description": "atrioventricular block characterized by the presence of conduction system disease of any form, which is diagnosed on or before 28 days of life",
+    "aliases": [
+        "Congenital atrioventricular block",
+        "Congenital heart block",
+        "Heart block congenital"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Congenital_heart_block",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "medical genetics",
+                "qid": "Q1071953",
+                "url": "https://en.wikipedia.org/wiki/Medical_genetics"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "heart conduction disease",
+                "qid": "Q1361515",
+                "url": "https://en.wikipedia.org/wiki/Heart_block"
+            },
+            {
+                "name": "atrioventricular block",
+                "qid": "Q300121",
+                "url": "https://en.wikipedia.org/wiki/Atrioventricular_block"
+            },
+            {
+                "name": "congenital heart disease",
+                "qid": "Q939364",
+                "url": "https://en.wikipedia.org/wiki/Congenital_heart_defect"
+            },
+            {
+                "name": "genetic cardiac rhythm disease",
+                "qid": "Q55785258"
+            }
+        ],
+        "Drug used for treatment": [
+            {
+                "name": "isoprenaline",
+                "qid": "Q415550",
+                "url": "https://en.wikipedia.org/wiki/Isoprenaline"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "shock kidney",
+    "qid": "Q2248460",
+    "icd_10": "N17.1",
+    "description": null,
+    "aliases": [
+        "Acute kidney injury due to hypovolaemia"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "acute kidney injury",
+                "qid": "Q424337",
+                "url": "https://en.wikipedia.org/wiki/Acute_kidney_injury"
+            },
+            {
+                "name": "renal ischemia",
+                "qid": "Q7312492",
+                "url": "https://en.wikipedia.org/wiki/Renal_ischemia"
+            }
+        ]
+    }
+}

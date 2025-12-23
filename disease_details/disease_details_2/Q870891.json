@@ -1,0 +1,40 @@
+{
+    "name": "linitis plastica",
+    "qid": "Q870891",
+    "icd_10": "C16.9",
+    "description": "Human disease",
+    "aliases": [
+        "Borrmann gastric cancer type 4",
+        "gastric linitis plastica",
+        "Leather-bottle stomach",
+        "Linitis plastica",
+        "Linitis plastica (morphologic abnormality)",
+        "Linitis plastica of the stomach"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Linitis_plastica",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "disease",
+                "qid": "Q12136",
+                "url": "https://en.wikipedia.org/wiki/Disease"
+            },
+            {
+                "name": "stomach carcinoma",
+                "qid": "Q3658392"
+            },
+            {
+                "name": "gastric diffuse adenocarcinoma",
+                "qid": "Q18557179"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "oncology",
+                "qid": "Q162555",
+                "url": "https://en.wikipedia.org/wiki/Oncology"
+            }
+        ]
+    }
+}

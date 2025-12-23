@@ -1,0 +1,25 @@
+{
+    "name": "nocardial pneumonia",
+    "qid": "Q18928594",
+    "icd_10": "A43.0",
+    "description": "Human disease",
+    "aliases": [
+        "obsolete nocardial pneumonia"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "pneumonia",
+                "qid": "Q12192",
+                "url": "https://en.wikipedia.org/wiki/Pneumonia"
+            },
+            {
+                "name": "nocardiosis",
+                "qid": "Q1856914",
+                "url": "https://en.wikipedia.org/wiki/Nocardiosis"
+            }
+        ]
+    }
+}

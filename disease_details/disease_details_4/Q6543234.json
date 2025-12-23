@@ -1,0 +1,31 @@
+{
+    "name": "lichenoid eruption",
+    "qid": "Q6543234",
+    "icd_10": "L43",
+    "description": "histological damage to the lower epidermis with inflammation in the papillary dermis",
+    "aliases": [
+        "lichenoid eruptions"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Lichenoid_eruption",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "papulosquamous disorder",
+                "qid": "Q7133237",
+                "url": "https://en.wikipedia.org/wiki/Papulosquamous_disorder"
+            },
+            {
+                "name": "cutaneous eruption",
+                "qid": "Q8777453"
+            }
+        ]
+    }
+}

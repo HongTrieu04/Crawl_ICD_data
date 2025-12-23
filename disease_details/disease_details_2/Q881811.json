@@ -1,0 +1,32 @@
+{
+    "name": "pemphigoid",
+    "qid": "Q881811",
+    "icd_10": "L12",
+    "description": "autoimmune blistering diseases",
+    "aliases": [
+        "disease with subepidermal blistering",
+        "pemphigoid group"
+    ],
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Legs%20Bullous%20Pemphigoid.jpg",
+    "url": "https://en.wikipedia.org/wiki/Pemphigoid",
+    "details": {
+        "Medical specialty": [
+            {
+                "name": "dermatology",
+                "qid": "Q171171",
+                "url": "https://en.wikipedia.org/wiki/Dermatology"
+            }
+        ],
+        "Subclass of": [
+            {
+                "name": "skin disease",
+                "qid": "Q949302",
+                "url": "https://en.wikipedia.org/wiki/Skin_condition"
+            },
+            {
+                "name": "bullous skin disease",
+                "qid": "Q18557957"
+            }
+        ]
+    }
+}

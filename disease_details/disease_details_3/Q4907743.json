@@ -1,0 +1,29 @@
+{
+    "name": "biliary fistula",
+    "qid": "Q4907743",
+    "icd_10": "K83.3",
+    "description": "medical condition",
+    "aliases": [],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Biliary_fistula",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "bile duct disease",
+                "qid": "Q18556206"
+            },
+            {
+                "name": "fistula",
+                "qid": "Q189470",
+                "url": "https://en.wikipedia.org/wiki/Fistula"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "gastroenterology",
+                "qid": "Q120569",
+                "url": "https://en.wikipedia.org/wiki/Gastroenterology"
+            }
+        ]
+    }
+}

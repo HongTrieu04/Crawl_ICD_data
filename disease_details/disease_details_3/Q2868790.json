@@ -1,0 +1,42 @@
+{
+    "name": "episodic ataxia type 2",
+    "qid": "Q2868790",
+    "icd_10": "G11.8",
+    "description": "episodic ataxia characterized by acetazolamide-responsive attacks of ataxia lasting for hours/days (unlike EA1, which lasts up to minutes); caused by mutations in CACNA1A encoding P/Q-type voltage-gated calcium channel CaV2.1",
+    "aliases": [
+        "EA2",
+        "Acetazolamide-Responsive Hereditary Paroxysmal Cerebellar Ataxia",
+        "Ataxia, Episodic, With Nystagmus",
+        "Ataxia, Familial Paroxysmal",
+        "Cerebellar Ataxia, Paroxysmal, Acetazolamide-Responsive",
+        "Cerebellopathy, Hereditary Paroxysmal",
+        "Episodic ataxia type 2",
+        "Episodic Ataxia, Nystagmus-Associated",
+        "EPISODIC ATAXIA, TYPE 2",
+        "EPISODIC ATAXIA, TYPE 2; EA2",
+        "Familial paroxysmal ataxia"
+    ],
+    "image": null,
+    "url": null,
+    "details": {
+        "Subclass of": [
+            {
+                "name": "episodic ataxia",
+                "qid": "Q21503282",
+                "url": "https://en.wikipedia.org/wiki/Episodic_ataxia"
+            },
+            {
+                "name": "channelopathy",
+                "qid": "Q2936142",
+                "url": "https://en.wikipedia.org/wiki/Channelopathy"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "neurology",
+                "qid": "Q83042",
+                "url": "https://en.wikipedia.org/wiki/Neurology"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "chills",
+    "qid": "Q2260058",
+    "icd_10": "R50.0",
+    "description": "feeling of coldness occurring during a high fever",
+    "aliases": [
+        "Rigores",
+        "resfriar"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Chills",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "symptom",
+                "qid": "Q169872",
+                "url": "https://en.wikipedia.org/wiki/Symptom"
+            },
+            {
+                "name": "general symptom",
+                "qid": "Q31836626"
+            }
+        ],
+        "Medical specialty": [
+            {
+                "name": "infectious diseases",
+                "qid": "Q788926",
+                "url": "https://en.wikipedia.org/wiki/Infectious_diseases_(medical_specialty)"
+            }
+        ]
+    }
+}

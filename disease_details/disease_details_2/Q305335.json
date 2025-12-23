@@ -1,0 +1,20 @@
+{
+    "name": "mouth breathing",
+    "qid": "Q305335",
+    "icd_10": "R06.5",
+    "description": "breathing method in humans",
+    "aliases": [
+        "open-mouth breathing"
+    ],
+    "image": null,
+    "url": "https://en.wikipedia.org/wiki/Mouth_breathing",
+    "details": {
+        "Subclass of": [
+            {
+                "name": "respiration",
+                "qid": "Q472287",
+                "url": "https://en.wikipedia.org/wiki/Respiration_(physiology)"
+            }
+        ]
+    }
+}
