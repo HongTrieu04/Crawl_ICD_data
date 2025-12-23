@@ -13,11 +13,14 @@ datacrawl/
 │   ├── processors/        # Scripts xử lý và chuyển đổi dữ liệu
 │   └── utils/             # Utility scripts và tools
 ├── notebooks/              # Jupyter notebooks (experiments, analysis)
-├── data/                   # Thư mục chứa dữ liệu
-├── config/                 # File cấu hình
+├── data/                   # Thư mục chứa dữ liệu (có nhiều dữ liệu dung lượng lớn nên tôi để link drive)
+├── disase_details/         # Thư mục chứa các file dữ liệu json rời rạc từ wiki (Do việc up dữ liệu lên git bị giới hạn số lượng file nên trong này tôi có tách ra làm 4 folder nhỏ -> hợp nhất về 1 folder gốc khi clone về)
 ├── models/                 # Thư mục chứa models ML
+├── config/                 # File cấu hình                  
 └── tests/                  # Test files
 ```
+
+***Drive data:*** https://drive.google.com/drive/folders/1crWnVrS8N8EnB9uCnGX54rZbgkRwqRiR?usp=sharing
 
 ## 🚀 Cài đặt
 
